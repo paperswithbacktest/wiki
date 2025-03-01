@@ -1,5 +1,5 @@
 ---
-title: "Composite Materials: Overview and Applications (Algo Trading)"
+title: "Composite Materials: Overview and Applications"
 description: "Discover the interplay between composite materials and algorithmic trading and explore their applications and innovations in material science and financial markets."
 ---
 

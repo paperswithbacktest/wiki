@@ -1,5 +1,5 @@
 ---
-title: "Bill Kim (Algo Trading)"
+title: "Bill Kim"
 description: "Explore the journey of Bill Kim in algorithmic trading from his early education in South Korea to a Senior Hardware Engineer at Akuna Capital."
 ---
 

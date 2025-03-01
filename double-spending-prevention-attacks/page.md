@@ -1,5 +1,5 @@
 ---
-title: "Double-Spending and Prevention of Attacks (Algo Trading)"
+title: "Double-Spending and Prevention of Attacks"
 description: "Explore the intricacies of double-spending attacks in cryptocurrency and discover how algorithmic trading can enhance security against these threats in digital transactions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Cost Per Click: Overview, Formula, and Alternatives (Algo Trading)"
+title: "Cost Per Click: Overview, Formula, and Alternatives"
 description: "Discover the essentials of Cost Per Click (CPC) advertising, explore its formula, and learn about alternative models to optimize your digital marketing strategy."
 ---
 

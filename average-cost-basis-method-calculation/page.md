@@ -1,5 +1,5 @@
 ---
-title: "Average Cost Basis Method and Calculation (Algo Trading)"
+title: "Average Cost Basis Method and Calculation"
 description: "Discover the average cost basis method and how it impacts algorithmic trading. Learn how this strategy simplifies cost determination and tax reporting to enhance investment efficiency. Explore various cost basis methods, such as FIFO and LIFO, for strategic financial management."
 ---
 

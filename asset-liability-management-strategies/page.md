@@ -1,5 +1,5 @@
 ---
-title: "Asset and Liability Management Strategies (Algo Trading)"
+title: "Asset and Liability Management Strategies"
 description: "Discover strategies for managing assets and liabilities with algorithmic trading Learn how modern finance integrates these elements for improved financial stability"
 ---
 

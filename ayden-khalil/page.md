@@ -1,5 +1,5 @@
 ---
-title: "Ayden Khalil (Algo Trading)"
+title: "Ayden Khalil"
 description: "Discover the remarkable journey of Ayden Khalil from his academic excellence in mathematics to his influential role in algorithmic trading at Akuna Capital."
 ---
 

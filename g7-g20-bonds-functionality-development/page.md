@@ -1,5 +1,5 @@
 ---
-title: "G7 and G20 Bonds: Functionality and Development (Algo Trading)"
+title: "G7 and G20 Bonds: Functionality and Development"
 description: "Explore the functionality and development of G7 and G20 bonds in algorithmic trading This page investigates into their economic impact and investment dynamics"
 ---
 

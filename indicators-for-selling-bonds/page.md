@@ -1,5 +1,5 @@
 ---
-title: "Indicators for Selling Bonds (Algo Trading)"
+title: "Indicators for Selling Bonds"
 description: "Explore the integration of bond investments and algorithmic trading to uncover unique opportunities for portfolio enhancement through informed decision-making."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Dividend Discount Model Functionality (Algo Trading)"
+title: "Dividend Discount Model Functionality"
 description: "Explore the Dividend Discount Model and its fusion with algorithmic trading to assess stock value. Gain insights into modern investment strategies."
 ---
 

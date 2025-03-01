@@ -1,5 +1,5 @@
 ---
-title: "Introducing Broker: Role, Registration, and Examples (Algo Trading)"
+title: "Introducing Broker: Role, Registration, and Examples"
 description: "Unlock the world of introducing brokers in trading Discover their roles registration processes and how algotrading is reshaping the brokerage landscape"
 ---
 

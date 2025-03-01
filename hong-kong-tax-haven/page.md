@@ -1,5 +1,5 @@
 ---
-title: "Hong Kong as a Tax Haven (Algo Trading)"
+title: "Hong Kong as a Tax Haven"
 description: "Discover how Hong Kong's tax haven status boosts algorithmic trading with favorable tax policies and financial privacy fostering global market efficiency."
 ---
 

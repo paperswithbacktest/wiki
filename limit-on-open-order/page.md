@@ -1,5 +1,5 @@
 ---
-title: "Limit-on-Open Order (Algo Trading)"
+title: "Limit-on-Open Order"
 description: "Master Limit-on-Open orders with our comprehensive guide covering their strategic role in algorithmic trading. Learn mechanics, strategies, and benefits."
 ---
 

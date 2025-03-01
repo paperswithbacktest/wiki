@@ -1,5 +1,5 @@
 ---
-title: "Financial Instrument (Algo Trading)"
+title: "Financial Instrument"
 description: "Discover the world of financial instruments and algorithmic trading in our comprehensive guide. Explore how algo trading leverages computer systems to execute trades swiftly and with precision, transforming the investment landscape for better decision-making. Understand the intricate network of financial tools, assets, and strategies that shape markets and optimize investment outcomes for both new and seasoned investors. Unravel these complexities to enhance your trading potential and achieve superior financial results."
 ---
 

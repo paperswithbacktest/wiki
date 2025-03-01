@@ -1,5 +1,5 @@
 ---
-title: "Leading Applications for Forex Trading (Algo Trading)"
+title: "Leading Applications for Forex Trading"
 description: "Explore top forex trading apps leading in efficiency and user-friendly features including real-time data tools and algorithmic capabilities for optimal performance."
 ---
 

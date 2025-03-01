@@ -1,5 +1,5 @@
 ---
-title: "Balanced Investment Strategy (Algo Trading)"
+title: "Balanced Investment Strategy"
 description: "Explore the balanced investment strategy for optimizing portfolios through diversifying assets like stocks and bonds while managing market risks efficiently."
 ---
 

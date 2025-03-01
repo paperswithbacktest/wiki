@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Earnings and Income (Algo Trading)"
+title: "Differences Between Earnings and Income"
 description: "Discover how understanding financial concepts like earnings, income, and algorithmic trading can enhance investment strategies and improve trading outcomes."
 ---
 

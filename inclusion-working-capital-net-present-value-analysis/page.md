@@ -1,5 +1,5 @@
 ---
-title: "Inclusion of Working Capital in Net Present Value Analysis (Algo Trading)"
+title: "Inclusion of Working Capital in Net Present Value Analysis"
 description: "Explore the impact of working capital on NPV analysis in algorithmic trading. Learn how managing liquidity can optimize investment returns and decision-making."
 ---
 

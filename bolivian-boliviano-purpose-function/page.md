@@ -1,5 +1,5 @@
 ---
-title: "Bolivian Boliviano: Purpose and Function (Algo Trading)"
+title: "Bolivian Boliviano: Purpose and Function"
 description: "Explore the role of the Bolivian Boliviano and its impact on trade and inflation in Bolivia's economy Learn how algorithmic trading is transforming forex markets"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Variable and Fixed Costs (Algo Trading)"
+title: "Comparison of Variable and Fixed Costs"
 description: "Understand variable and fixed costs in algo trading to optimize strategies and boost profitability. Learn how these expenses impact decision-making and trading outcomes."
 ---
 

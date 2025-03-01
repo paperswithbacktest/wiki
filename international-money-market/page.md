@@ -1,5 +1,5 @@
 ---
-title: "International Money Market (Algo Trading)"
+title: "International Money Market"
 description: "Explore the transformative impact of algorithmic trading in the forex market Discover how automation enhances efficiency and strategy development in currency trading"
 ---
 

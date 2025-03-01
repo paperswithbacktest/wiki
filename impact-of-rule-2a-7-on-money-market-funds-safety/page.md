@@ -1,5 +1,5 @@
 ---
-title: "Impact of Rule 2a-7 on Money Market Funds' Safety (Algo Trading)"
+title: "Impact of Rule 2a-7 on Money Market Funds' Safety"
 description: "Explore the impact of SEC's Rule 2a-7 on money market fund safety and algorithmic trading's role in enhancing these funds' compliance and efficiency."
 ---
 

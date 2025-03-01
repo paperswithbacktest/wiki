@@ -1,5 +1,5 @@
 ---
-title: "Import Substitution Industrialization (Algo Trading)"
+title: "Import Substitution Industrialization"
 description: "Explore the synergy of industrialization, import substitution, and algorithmic trading in shaping economic strategies that drive growth and stability."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Impact of Interest Rates on Insurance Sector Profitability (Algo Trading)"
+title: "Impact of Interest Rates on Insurance Sector Profitability"
 description: "Discover how fluctuating interest rates and algorithmic trading are reshaping insurance profitability, driving new strategies, and navigating economic shifts."
 ---
 

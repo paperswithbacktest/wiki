@@ -1,5 +1,5 @@
 ---
-title: "Defunct: Meaning, Function, and Examples (Algo Trading)"
+title: "Defunct: Meaning, Function, and Examples"
 description: "Explore the meaning and implications of 'defunct' in business and algo trading. Learn how technological advances render strategies obsolete with real examples."
 ---
 

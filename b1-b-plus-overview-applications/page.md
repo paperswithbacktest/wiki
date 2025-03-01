@@ -1,5 +1,5 @@
 ---
-title: "B1/B+ Overview and Applications (Algo Trading)"
+title: "B1/B+ Overview and Applications"
 description: "Explore the transformative impact of B1/B+ applications in algorithmic trading Discover key features benefits and challenges faced in high-frequency trading systems"
 ---
 

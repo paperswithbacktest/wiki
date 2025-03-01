@@ -1,5 +1,5 @@
 ---
-title: "Manual Trading (Algo Trading)"
+title: "Manual Trading"
 description: "Discover the differences between manual and algorithmic trading to optimize your financial strategies. Explore human intuition versus automated efficiency."
 ---
 

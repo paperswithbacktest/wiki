@@ -1,5 +1,5 @@
 ---
-title: "Consumers of the Chemical Industry (Algo Trading)"
+title: "Consumers of the Chemical Industry"
 description: "Explore the intersection of the chemical industry and algorithmic trading to understand how technology can optimize operations, pricing, and market responsiveness."
 ---
 

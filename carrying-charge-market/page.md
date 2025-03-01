@@ -1,5 +1,5 @@
 ---
-title: "Carrying Charge Market (Algo Trading)"
+title: "Carrying Charge Market"
 description: "Understand the crucial role of carrying charges in algorithmic trading and commodity markets Learn how these costs impact futures pricing and trading strategies"
 ---
 

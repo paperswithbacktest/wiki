@@ -1,5 +1,5 @@
 ---
-title: "Advanced Company TSX Venture (Algo Trading)"
+title: "Advanced Company TSX Venture"
 description: "Explore the advantages of being an Advanced Company on the TSXV Venture Exchange. Learn how algorithmic trading enhances their market position and growth potential."
 ---
 

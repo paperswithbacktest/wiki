@@ -1,5 +1,5 @@
 ---
-title: "EAFE Index: Countries and Uses (Algo Trading)"
+title: "EAFE Index: Countries and Uses"
 description: "Explore the EAFE Index a key benchmark for developed markets outside North America. Learn about its role in algorithmic trading and investment strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Equal Pay Act of 1963 (Algo Trading)"
+title: "Equal Pay Act of 1963"
 description: "Explore the impact of the Equal Pay Act of 1963 on wage discrimination and gender equality, alongside the role of algorithmic trading in shaping equitable pay practices."
 ---
 

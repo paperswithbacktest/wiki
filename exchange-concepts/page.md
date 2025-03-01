@@ -1,5 +1,5 @@
 ---
-title: "Exchange Concepts (Algo Trading)"
+title: "Exchange Concepts"
 description: "Explore the intricate relationship between trade, economic exchanges, and algorithmic trading, which are vital in shaping today's global economy. Understand how algo trading enhances market efficiency through high-speed, automated trade executions, while also recognizing the challenges and regulatory considerations it brings. Delve into the dynamics of economic trade exchanges, including direct market access and over-the-counter transactions, and their role in global growth. This overview offers insights into the benefits and complexities of integrating algorithmic strategies into financial markets, empowering stakeholders to capitalize on emerging opportunities while managing potential risks."
 ---
 

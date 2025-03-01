@@ -1,5 +1,5 @@
 ---
-title: "Americans with Disabilities Act Amendments Act of 2008 (Algo Trading)"
+title: "Americans with Disabilities Act Amendments Act of 2008"
 description: "Explore how the ADA Amendments Act of 2008 impacts algorithmic trading firms to foster inclusive workplaces by ensuring compliance with disability laws."
 ---
 

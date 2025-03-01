@@ -1,5 +1,5 @@
 ---
-title: "Commodity Selection Index: Overview and Functionality (Algo Trading)"
+title: "Commodity Selection Index: Overview and Functionality"
 description: "Explore the Commodity Selection Index CSI a vital tool in commodities trading for identifying short-term opportunities Ensures informed decision-making in volatile markets"
 ---
 

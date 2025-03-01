@@ -1,5 +1,5 @@
 ---
-title: "Information Leakage in Markets (Algo Trading)"
+title: "Information Leakage in Markets"
 description: "Explore the challenges of information leakage in algorithmic trading and its impact on trade execution and strategy effectiveness in financial markets."
 ---
 

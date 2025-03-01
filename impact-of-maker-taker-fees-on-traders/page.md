@@ -1,5 +1,5 @@
 ---
-title: "Impact of Maker-Taker Fees on Traders (Algo Trading)"
+title: "Impact of Maker-Taker Fees on Traders"
 description: "Explore the impact of maker-taker fees on traders in algorithmic trading Learn how trading costs influence profitability and shape market behavior."
 ---
 

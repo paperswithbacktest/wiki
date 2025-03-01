@@ -1,5 +1,5 @@
 ---
-title: "Hot Wallet Overview: Types, Uses, and Security (Algo Trading)"
+title: "Hot Wallet Overview: Types, Uses, and Security"
 description: "Explore hot wallets in cryptocurrency trading including their types uses and security features Discover how algo trading optimizes strategies for better results"
 ---
 

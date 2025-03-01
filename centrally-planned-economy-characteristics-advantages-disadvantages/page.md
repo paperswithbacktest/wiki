@@ -1,5 +1,5 @@
 ---
-title: "Centrally Planned Economy: Characteristics, Advantages, and Disadvantages (Algo Trading)"
+title: "Centrally Planned Economy: Characteristics, Advantages, and Disadvantages"
 description: "Explore the characteristics of centrally planned economies including their ability to mobilize resources quickly and their focus on reducing inequality. Learn about the advantages and disadvantages of such systems along with the impact of integrating algorithmic trading which can alter dynamics offering both improved efficiency and new challenges. Discover how centralized control works in contrast to market-driven systems and evaluate the balance between government intervention and technological advancements in modern economic contexts."
 ---
 

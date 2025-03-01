@@ -1,5 +1,5 @@
 ---
-title: "Currencies Stronger Than the United States Dollar (Algo Trading)"
+title: "Currencies Stronger Than the United States Dollar"
 description: "Explore the currencies stronger than the U.S. dollar, uncovering economic and geopolitical factors driving their strength while examining algorithmic trading impacts."
 ---
 

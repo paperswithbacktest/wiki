@@ -1,5 +1,5 @@
 ---
-title: "Accredited Investor Qualification (Algo Trading)"
+title: "Accredited Investor Qualification"
 description: "Discover the unique investment opportunities available to accredited investors and explore the essential requirements to become one. This guide investigates into the benefits of algorithmic trading, offering insights to help you enhance your portfolio with advanced trading strategies reserved for accredited investors looking to maximize their financial growth potential."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bats Global Markets (Algo Trading)"
+title: "Bats Global Markets"
 description: "Explore the transformative impact of algorithmic trading with insights from Bats Global Markets Discover how technology is reshaping global financial exchanges"
 ---
 

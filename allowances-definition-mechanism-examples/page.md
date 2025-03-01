@@ -1,5 +1,5 @@
 ---
-title: "Allowances: Definition, Mechanism, and Examples (Algo Trading)"
+title: "Allowances: Definition, Mechanism, and Examples"
 description: "Explore the intricacies of financial allowances across various contexts including commodity futures and personal finance enhancing flexibility and efficiency."
 ---
 

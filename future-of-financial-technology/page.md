@@ -1,5 +1,5 @@
 ---
-title: "Future of Financial Technology (Algo Trading)"
+title: "Future of Financial Technology"
 description: "Explore the future of financial technology and algorithmic trading with insights into emerging trends and key drivers such as AI, machine learning, and blockchain. Understand how these elements shape the fintech landscape by enhancing service delivery, efficiency, and personalization while navigating evolving regulatory environments. Discover the profound impact of these innovations on global financial markets and consumer behaviors."
 ---
 

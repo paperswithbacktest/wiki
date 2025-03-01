@@ -1,5 +1,5 @@
 ---
-title: "E*TRADE: Online Brokerage Platform (Algo Trading)"
+title: "E*TRADE: Online Brokerage Platform"
 description: "E*TRADE's online brokerage platform offers advanced algo trading tools enabling investors to automate trades for optimal results while minimizing manual risks."
 ---
 

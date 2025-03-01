@@ -1,5 +1,5 @@
 ---
-title: "Activity Ratios: Formulas, Uses, and Types (Algo Trading)"
+title: "Activity Ratios: Formulas, Uses, and Types"
 description: "Explore the use of activity ratios in financial analysis and algorithmic trading to assess business efficiency and optimize trading strategies for better outcomes."
 ---
 

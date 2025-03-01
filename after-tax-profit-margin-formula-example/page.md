@@ -1,5 +1,5 @@
 ---
-title: "After-Tax Profit Margin Formula and Example (Algo Trading)"
+title: "After-Tax Profit Margin Formula and Example"
 description: "Explore how after-tax profit margins influence algorithmic trading decisions. Understand their calculation and significance in enhancing trading strategies."
 ---
 

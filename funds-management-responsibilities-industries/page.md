@@ -1,5 +1,5 @@
 ---
-title: "Funds Management: Responsibilities and Industries (Algo Trading)"
+title: "Funds Management: Responsibilities and Industries"
 description: "Explore the vital roles of funds management and algorithmic trading in today's investment landscape where technology and strategic decisions drive financial growth."
 ---
 

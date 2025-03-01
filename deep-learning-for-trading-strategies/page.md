@@ -1,5 +1,5 @@
 ---
-title: "deep learning for trading strategies (Algo Trading)"
+title: "deep learning for trading strategies"
 description: "Explore how deep learning revolutionizes trading strategies by leveraging neural networks to enhance algorithmic trading, offering advanced data analysis."
 ---
 

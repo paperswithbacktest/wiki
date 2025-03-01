@@ -1,5 +1,5 @@
 ---
-title: "Intrinsic Value of Bitcoin (Algo Trading)"
+title: "Intrinsic Value of Bitcoin"
 description: "Explore Bitcoin's intrinsic value within algorithmic trading, analyzing how perceptions impact trading strategies and investor decisions in volatile markets."
 ---
 

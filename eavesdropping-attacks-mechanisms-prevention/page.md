@@ -1,5 +1,5 @@
 ---
-title: "Eavesdropping Attacks: Mechanisms and Prevention (Algo Trading)"
+title: "Eavesdropping Attacks: Mechanisms and Prevention"
 description: "Discover how to protect algorithmic trading systems from eavesdropping attacks with strategic cybersecurity measures ensuring data integrity and confidentiality."
 ---
 

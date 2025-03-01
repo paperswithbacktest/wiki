@@ -1,5 +1,5 @@
 ---
-title: "Calculation of Net Credit Purchases (Algo Trading)"
+title: "Calculation of Net Credit Purchases"
 description: "Explore how accurate calculation of net credit purchases in accounting enhances algorithmic trading strategies transforming financial agility and market efficiency."
 ---
 

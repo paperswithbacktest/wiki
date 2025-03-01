@@ -1,5 +1,5 @@
 ---
-title: "Airbag Replacement (Algo Trading)"
+title: "Airbag Replacement"
 description: "Explore the synergy between airbag replacement in vehicles and algorithmic trading in finance highlighting safety and efficiency across both domains."
 ---
 

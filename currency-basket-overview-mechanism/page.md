@@ -1,5 +1,5 @@
 ---
-title: "Currency Basket: Overview and Mechanism (Algo Trading)"
+title: "Currency Basket: Overview and Mechanism"
 description: "Explore the synergy between currency baskets and algorithmic trading in forex Discover how traders utilize these tools to manage risks and seize market opportunities"
 ---
 

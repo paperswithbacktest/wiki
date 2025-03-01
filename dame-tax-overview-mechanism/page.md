@@ -1,5 +1,5 @@
 ---
-title: "DAME Tax Overview and Mechanism (Algo Trading)"
+title: "DAME Tax Overview and Mechanism"
 description: "Explore how the proposed DAME tax impacts cryptocurrency miners and algorithmic trading. Understand fiscal policy's role in shaping the digital finance landscape."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Black-Scholes Equation (Algo Trading)"
+title: "Black-Scholes Equation"
 description: "Explore the intricacies of the Black-Scholes model in algorithmic trading to enhance your option pricing strategies and gain a competitive edge."
 ---
 

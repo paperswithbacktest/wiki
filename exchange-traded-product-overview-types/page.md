@@ -1,5 +1,5 @@
 ---
-title: "Exchange-Traded Product (ETP): Overview and Types (Algo Trading)"
+title: "Exchange-Traded Product (ETP): Overview and Types"
 description: "Explore exchange-traded products and algorithmic trading to understand their impact on market efficiency and strategies, enhancing your financial market navigation."
 ---
 

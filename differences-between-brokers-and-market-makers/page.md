@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Brokers and Market Makers (Algo Trading)"
+title: "Differences Between Brokers and Market Makers"
 description: "Explore the roles of brokers and market makers in financial markets including their interaction with algorithmic trading to enhance liquidity and efficiency."
 ---
 

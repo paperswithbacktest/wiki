@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Mutual Funds and Hedge Funds (Algo Trading)"
+title: "Comparison of Mutual Funds and Hedge Funds"
 description: "Explore the differences between mutual funds and hedge funds focusing on algo trading Uncover unique investment strategies to optimize portfolio returns"
 ---
 

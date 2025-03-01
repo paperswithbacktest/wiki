@@ -1,5 +1,5 @@
 ---
-title: "Black Friday Stock Market Crash (Algo Trading)"
+title: "Black Friday Stock Market Crash"
 description: "Explore the influence of financial crises and algorithmic trading on market volatility Learn lessons from historical events like Black Friday for future resilience"
 ---
 

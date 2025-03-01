@@ -1,5 +1,5 @@
 ---
-title: "Adjustment in Conversion Terms (Algo Trading)"
+title: "Adjustment in Conversion Terms"
 description: "Explore adjustment in conversion terms and algorithmic trading in financial markets Discover how these concepts protect investors and enhance trading strategies in a digital era"
 ---
 

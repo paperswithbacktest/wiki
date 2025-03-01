@@ -1,5 +1,5 @@
 ---
-title: "Bearish Diamond Formation (Algo Trading)"
+title: "Bearish Diamond Formation"
 description: "Discover the bearish diamond formation pattern in algo trading This guide highlights how to identify market reversals using this rare pattern for algorithmic strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of Cryptocurrency Trading Volumes (Algo Trading)"
+title: "Evaluation of Cryptocurrency Trading Volumes"
 description: "Explore the challenges of market manipulation and faked trading volumes in cryptocurrency. Learn how algorithmic trading impacts market integrity and investor trust."
 ---
 

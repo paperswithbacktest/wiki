@@ -1,5 +1,5 @@
 ---
-title: "Gemini Exchange: History and Services (Algo Trading)"
+title: "Gemini Exchange: History and Services"
 description: "Explore the robust services of Gemini Exchange known for its secure crypto trading platform emphasizing algo trading features and regulatory compliance."
 ---
 

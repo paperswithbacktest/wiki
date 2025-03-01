@@ -1,5 +1,5 @@
 ---
-title: "History of Corporations in the United States (Algo Trading)"
+title: "History of Corporations in the United States"
 description: "Discover the evolution of American corporations from the late 18th century to modern algorithmic trading highlighting technological advancements and economic impact."
 ---
 

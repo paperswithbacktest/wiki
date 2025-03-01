@@ -1,5 +1,5 @@
 ---
-title: "Lightning Network Overview and Functionality (Algo Trading)"
+title: "Lightning Network Overview and Functionality"
 description: "Explore the Lightning Network's impact on Bitcoin scalability and algorithmic trading. Understand how it enhances transaction speed and reduces fees for optimized strategies."
 ---
 

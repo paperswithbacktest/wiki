@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Working Capital Usage in Retail and Technology Sectors (Algo Trading)"
+title: "Comparison of Working Capital Usage in Retail and Technology Sectors"
 description: "Explore how working capital usage differs in retail and technology sectors highlighting algorithmic trading's role in optimizing financial strategies."
 ---
 

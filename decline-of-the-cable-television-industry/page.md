@@ -1,5 +1,5 @@
 ---
-title: "Decline of the Cable Television Industry (Algo Trading)"
+title: "Decline of the Cable Television Industry"
 description: "Explore the factors driving the decline of the cable television industry as digital media and algorithmic trading transform content consumption and media revenue strategies."
 ---
 

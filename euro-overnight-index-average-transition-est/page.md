@@ -1,5 +1,5 @@
 ---
-title: "Euro Overnight Index Average and Transition to ESTER (Algo Trading)"
+title: "Euro Overnight Index Average and Transition to ESTER"
 description: "Explore the shift from EONIA to ESTER and its impact on European banking overnight rates Learn about transparency improvements and algorithmic trading effects"
 ---
 

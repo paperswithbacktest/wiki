@@ -1,5 +1,5 @@
 ---
-title: "Absolute Return and Relative Return: Differences (Algo Trading)"
+title: "Absolute Return and Relative Return: Differences"
 description: "Understand absolute and relative returns in investing and their role in algorithmic trading to optimize investment strategies and enhance portfolio performance."
 ---
 

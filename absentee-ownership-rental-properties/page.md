@@ -1,5 +1,5 @@
 ---
-title: "Absentee Ownership in Rental Properties (Algo Trading)"
+title: "Absentee Ownership in Rental Properties"
 description: "Explore absentee ownership with algorithmic trading in rental properties Uncover how data-driven strategies enhance real estate investments and portfolio growth"
 ---
 

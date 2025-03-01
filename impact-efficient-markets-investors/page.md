@@ -1,5 +1,5 @@
 ---
-title: "Impact of Efficient Markets on Investors (Algo Trading)"
+title: "Impact of Efficient Markets on Investors"
 description: "Explore how efficient market theory and algorithmic trading impact investor strategies and market dynamics By examining EMH investors can adapt to tech-driven shifts"
 ---
 

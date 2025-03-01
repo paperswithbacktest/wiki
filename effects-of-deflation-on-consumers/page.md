@@ -1,5 +1,5 @@
 ---
-title: "Effects of Deflation on Consumers (Algo Trading)"
+title: "Effects of Deflation on Consumers"
 description: "Explore how deflation impacts consumers and the role of algorithmic trading in this economic shift Gain insights into navigating deflationary challenges effectively"
 ---
 

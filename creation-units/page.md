@@ -1,5 +1,5 @@
 ---
-title: "Creation Units (Algo Trading)"
+title: "Creation Units"
 description: "Discover how creation units play a pivotal role in the formation and efficient trading of ETFs, supported by algorithmic trading for optimal market performance."
 ---
 

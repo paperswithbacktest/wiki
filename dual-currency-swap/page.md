@@ -1,5 +1,5 @@
 ---
-title: "Dual Currency Swap (Algo Trading)"
+title: "Dual Currency Swap"
 description: "Discover the strategic role of currency swaps and algorithmic trading in global finance optimizing trade execution while managing FX risks effectively."
 ---
 

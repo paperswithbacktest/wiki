@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Dividend-Paying and Non-Dividend-Paying Companies (Algo Trading)"
+title: "Comparison of Dividend-Paying and Non-Dividend-Paying Companies"
 description: "Explore key differences between dividend-paying and non-dividend-paying companies with insights into investment strategies risks and the role of algorithmic trading."
 ---
 

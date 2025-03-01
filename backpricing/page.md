@@ -1,5 +1,5 @@
 ---
-title: "Backpricing (Algo Trading)"
+title: "Backpricing"
 description: "Discover the transformative power of backpricing and algorithmic trading in finance Enhance trading strategies by combining adaptive pricing with automated precision"
 ---
 

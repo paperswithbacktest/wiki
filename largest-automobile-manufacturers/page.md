@@ -1,5 +1,5 @@
 ---
-title: "Largest Automobile Manufacturers (Algo Trading)"
+title: "Largest Automobile Manufacturers"
 description: "Explore the dynamic world of top car manufacturers like Volkswagen and Toyota examining their market influence innovation strategies and algorithmic trading role."
 ---
 

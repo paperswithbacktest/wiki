@@ -1,5 +1,5 @@
 ---
-title: "Legal Status of Bitcoin (Algo Trading)"
+title: "Legal Status of Bitcoin"
 description: "Explore the evolving legal landscape of Bitcoin and cryptocurrency regulations worldwide Learn how these changes impact algorithmic trading and investment strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Cryptocurrency Cold Storage Methods and Safety (Algo Trading)"
+title: "Cryptocurrency Cold Storage Methods and Safety"
 description: "Explore various cold storage methods for securing your cryptocurrency assets offline to protect against online threats and ensure robust digital asset safety."
 ---
 

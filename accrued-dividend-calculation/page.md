@@ -1,5 +1,5 @@
 ---
-title: "Accrued Dividend Calculation (Algo Trading)"
+title: "Accrued Dividend Calculation"
 description: "Explore financial accounting, accrued dividends, and algorithmic trading to boost investment strategy. Optimize dividend calculations and trading efficiency."
 ---
 

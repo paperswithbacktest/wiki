@@ -1,5 +1,5 @@
 ---
-title: "Internationalization of Currency: Definition, Requirements, and Benefits (Algo Trading)"
+title: "Internationalization of Currency: Definition, Requirements, and Benefits"
 description: "Explore how currency internationalization enhances global trade and economic stability, and discover the efficiency gains from algorithmic trading in currency markets."
 ---
 

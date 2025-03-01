@@ -1,5 +1,5 @@
 ---
-title: "History of Income Inequality in the United States (Algo Trading)"
+title: "History of Income Inequality in the United States"
 description: "Explore the historical roots of income inequality in the US shaped by socio-economic policies and technological advancements like algorithmic trading."
 ---
 

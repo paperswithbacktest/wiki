@@ -1,5 +1,5 @@
 ---
-title: "Cinnober Financial Technology (Algo Trading)"
+title: "Cinnober Financial Technology"
 description: "Cinnober Financial Technology, a pioneer in fintech, excels in innovative solutions for trading systems, enhancing efficiency, security, and transparency in global markets."
 ---
 

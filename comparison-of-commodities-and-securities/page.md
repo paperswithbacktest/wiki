@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Commodities and Securities (Algo Trading)"
+title: "Comparison of Commodities and Securities"
 description: "Explore the dynamic world of commodities and securities in algorithmic trading Understand their unique roles and how algo trading transforms investment strategies"
 ---
 

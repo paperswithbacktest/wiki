@@ -1,5 +1,5 @@
 ---
-title: "Key Factors Influencing the Chinese Economy (Algo Trading)"
+title: "Key Factors Influencing the Chinese Economy"
 description: "Explore key factors influencing China's economy focusing on its economic growth roots and the rise of algorithmic trading shaping the financial landscape."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Gut Spread: Significance, Mechanism, and Examples (Algo Trading)"
+title: "Gut Spread: Significance, Mechanism, and Examples"
 description: "Discover how biology and tech intersect in Gut Spread by exploring analogies between gut microbiota and algorithmic trading uncovering insights into adaptive systems."
 ---
 

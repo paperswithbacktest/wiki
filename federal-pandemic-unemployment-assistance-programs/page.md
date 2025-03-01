@@ -1,5 +1,5 @@
 ---
-title: "Federal Pandemic Unemployment Assistance Programs (Algo Trading)"
+title: "Federal Pandemic Unemployment Assistance Programs"
 description: "Explore how federal unemployment programs and algorithmic trading provided financial resilience during the pandemic facilitating income support and investment opportunities."
 ---
 

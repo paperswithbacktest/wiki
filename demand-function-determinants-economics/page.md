@@ -1,5 +1,5 @@
 ---
-title: "Demand Function and Determinants in Economics (Algo Trading)"
+title: "Demand Function and Determinants in Economics"
 description: "Explore the interplay between demand functions, economic determinants, and algorithmic trading. Learn how these concepts drive market predictions and trading strategies."
 ---
 

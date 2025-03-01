@@ -1,5 +1,5 @@
 ---
-title: "Hidden Value: Definition, Function, and Examples (Algo Trading)"
+title: "Hidden Value: Definition, Function, and Examples"
 description: "Unlock hidden value in financial markets using investment value analysis and algorithmic trading Dive into strategies to identify undervalued assets for better returns"
 ---
 

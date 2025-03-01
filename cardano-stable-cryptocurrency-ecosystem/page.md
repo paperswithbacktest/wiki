@@ -1,5 +1,5 @@
 ---
-title: "Cardano's Efforts to Establish a Stable Cryptocurrency Ecosystem (Algo Trading)"
+title: "Cardano's Efforts to Establish a Stable Cryptocurrency Ecosystem"
 description: "Explore Cardano's ecosystem focusing on algorithmic trading and stablecoins Discover how this innovative blockchain tackles DeFi challenges efficiently"
 ---
 

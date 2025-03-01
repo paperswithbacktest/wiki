@@ -1,5 +1,5 @@
 ---
-title: "Convergence of RL (Algo Trading)"
+title: "Convergence of RL"
 description: "Explore the convergence of reinforcement learning and algorithmic trading Discover how AI optimizes strategies for dynamic markets and potential challenges."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Market Portfolio: Theory and Examples (Algo Trading)"
+title: "Market Portfolio: Theory and Examples"
 description: "Explore market portfolio theory and algorithmic trading with examples Learn how these concepts optimize investment strategies by balancing risk and returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Incorporating Dividends into Investment Portfolios (Algo Trading)"
+title: "Incorporating Dividends into Investment Portfolios"
 description: "Incorporate dividends and algorithmic trading into investment portfolios for stable income and optimized trades Discover strategies to boost returns effectively"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Basis in Finance (Algo Trading)"
+title: "Basis in Finance"
 description: "Understand core financial terms and concepts crucial for navigating algorithmic trading and modern financial markets Enhance investment strategies with key insights"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Exercising Stock Warrants (Algo Trading)"
+title: "Exercising Stock Warrants"
 description: "Explore the potential of stock warrants in algorithmic trading with this detailed guide. Learn how to exercise them and optimize investment strategies."
 ---
 

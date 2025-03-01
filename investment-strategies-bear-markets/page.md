@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategies During Bear Markets (Algo Trading)"
+title: "Investment Strategies During Bear Markets"
 description: "Navigate bear markets confidently with effective investment strategies and algorithmic trading techniques Learn to manage risks and seize opportunities "
 ---
 

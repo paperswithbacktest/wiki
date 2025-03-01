@@ -1,5 +1,5 @@
 ---
-title: "Company Listing Process and Examples (Algo Trading)"
+title: "Company Listing Process and Examples"
 description: "Discover the intricacies of company listing on stock exchanges and the impact of algorithmic trading Explore essential listing criteria and trading strategies for success"
 ---
 

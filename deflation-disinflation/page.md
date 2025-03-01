@@ -1,5 +1,5 @@
 ---
-title: "Deflation and Disinflation (Algo Trading)"
+title: "Deflation and Disinflation"
 description: "Explore the impact of deflation, disinflation, and algorithmic trading on modern economies. Learn strategic investment tactics for varying economic conditions."
 ---
 

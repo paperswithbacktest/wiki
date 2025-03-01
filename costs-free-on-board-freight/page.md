@@ -1,5 +1,5 @@
 ---
-title: "Costs of Free on Board Freight (Algo Trading)"
+title: "Costs of Free on Board Freight"
 description: "Explore the interplay between Free on Board costs, international trade, and algorithmic trading to optimize freight expenses and enhance global trade efficiency."
 ---
 

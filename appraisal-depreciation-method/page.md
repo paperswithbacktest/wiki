@@ -1,5 +1,5 @@
 ---
-title: "Appraisal Depreciation Method (Algo Trading)"
+title: "Appraisal Depreciation Method"
 description: "Discover how the appraisal depreciation method enhances algorithmic trading by accurately assessing asset value decline, optimizing trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Marginal Propensity to Consume and Save (Algo Trading)"
+title: "Comparison of Marginal Propensity to Consume and Save"
 description: "Explore the impact of Marginal Propensity to Consume and Save on economic trends and algorithmic trading strategies by analyzing key economic indicators for better market predictions."
 ---
 

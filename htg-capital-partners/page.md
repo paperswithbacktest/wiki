@@ -1,5 +1,5 @@
 ---
-title: "HTG Capital Partners (Algo Trading)"
+title: "HTG Capital Partners"
 description: "Explore the transformative impact of algorithmic trading with HTG Capital Partners as they optimize trading operations and capital management through cutting-edge technology."
 ---
 

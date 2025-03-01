@@ -1,5 +1,5 @@
 ---
-title: "Anticipatory Hedge (Algo Trading)"
+title: "Anticipatory Hedge"
 description: "Explore anticipatory hedge strategies in algo trading to manage risk by locking prices before transactions occur enhancing financial stability in volatile markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Covariance and Correlation Explained (Algo Trading)"
+title: "Covariance and Correlation Explained"
 description: Explore the critical roles of covariance and correlation in algorithmic trading as we demystify these statistical concepts and their application in trading strategies. Understand how they help in managing risk by revealing relationships between financial asset returns, aiding in informed decision-making. This article breaks down how these measures are calculated, their differences, and their relevance in enhancing trading efficiency and portfolio diversification.
 ---
 

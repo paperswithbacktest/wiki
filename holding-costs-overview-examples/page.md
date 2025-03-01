@@ -1,5 +1,5 @@
 ---
-title: "Holding Costs: Overview and Examples (Algo Trading)"
+title: "Holding Costs: Overview and Examples"
 description: "Explore the significance of holding costs in inventory management and algorithmic trading Learn strategies to optimize inventory expenses and boost profitability"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Impact of Dividends and Interest Rates on Stock Options (Algo Trading)"
+title: "Impact of Dividends and Interest Rates on Stock Options"
 description: "Explore how dividends and interest rates impact stock options and algorithmic trading with a focus on maximizing returns through strategic investments."
 ---
 

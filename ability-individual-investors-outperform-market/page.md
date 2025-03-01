@@ -1,5 +1,5 @@
 ---
-title: "Ability of Individual Investors to Outperform the Market (Algo Trading)"
+title: "Ability of Individual Investors to Outperform the Market"
 description: "Discover how individual investors can leverage algorithmic trading to potentially outperform the market exploring strategies and the impacts of emotional biases."
 ---
 

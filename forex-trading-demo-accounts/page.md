@@ -1,5 +1,5 @@
 ---
-title: "Forex Trading with Demo Accounts (Algo Trading)"
+title: "Forex Trading with Demo Accounts"
 description: "Enhance your forex trading skills with demo accounts and algorithmic trading Learn risk-free strategies and leverage technology for more informed decisions"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Marginal Revenue: Formula and Example (Algo Trading)"
+title: "Marginal Revenue: Formula and Example"
 description: "Explore the pivotal role of marginal revenue in business finance and algorithmic trading Learn how these concepts shape pricing strategies and market operations"
 ---
 

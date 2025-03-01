@@ -1,5 +1,5 @@
 ---
-title: "Major Oil Producers in Asia (Algo Trading)"
+title: "Major Oil Producers in Asia"
 description: "Explore major oil producers in Asia including China and India alongside the rise of algorithmic trading in the oil market and future industry challenges."
 ---
 

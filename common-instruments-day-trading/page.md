@@ -1,5 +1,5 @@
 ---
-title: "Common Instruments for Day Trading (Algo Trading)"
+title: "Common Instruments for Day Trading"
 description: "Explore the dynamic world of day trading and algo trading with various instruments like stocks, forex, cryptocurrencies, and more to enhance your market strategies."
 ---
 

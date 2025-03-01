@@ -1,5 +1,5 @@
 ---
-title: "Accounts Payable Subsidiary Ledger: Overview and Examples (Algo Trading)"
+title: "Accounts Payable Subsidiary Ledger: Overview and Examples"
 description: "Explore the synergy between accounts payable management and algorithmic trading strategies Discover how optimizing these can enhance efficiency and competitiveness"
 ---
 

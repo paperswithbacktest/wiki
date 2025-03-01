@@ -1,5 +1,5 @@
 ---
-title: "In-App Purchasing: Benefits and Security Risks (Algo Trading)"
+title: "In-App Purchasing: Benefits and Security Risks"
 description: "Explore the benefits and security risks of in-app purchasing in algo trading apps Learn how to protect your transactions and enhance user trust"
 ---
 

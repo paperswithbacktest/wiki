@@ -1,5 +1,5 @@
 ---
-title: "Knock-Out Options: Mechanism, Types, Advantages and Disadvantages (Algo Trading)"
+title: "Knock-Out Options: Mechanism, Types, Advantages and Disadvantages"
 description: "Explore the mechanism, types, and benefits of knock-out options in algo trading. Learn how these financial tools offer strategic risk management."
 ---
 

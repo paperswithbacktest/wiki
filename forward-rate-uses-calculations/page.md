@@ -1,5 +1,5 @@
 ---
-title: "Forward Rate: Uses and Calculations (Algo Trading)"
+title: "Forward Rate: Uses and Calculations"
 description: "Explore the fundamental role of forward rates in financial markets including their use in predicting future interest rates for transactions. Learn how forward rates aid in hedging against market volatility and influencing investment strategies. Discover how algorithmic trading leverages these rates for creating advanced trading models, optimizing predictions, and enhancing financial strategies amidst fluctuating interest rates. Understand forward rates for risk management and strategic financial planning."
 ---
 

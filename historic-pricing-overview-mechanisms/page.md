@@ -1,5 +1,5 @@
 ---
-title: "Historic Pricing: Overview and Mechanisms (Algo Trading)"
+title: "Historic Pricing: Overview and Mechanisms"
 description: "Dive into the intricate world of financial asset valuation from historic pricing methods to modern algorithmic trading advancements and dynamic pricing strategies."
 ---
 

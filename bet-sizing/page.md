@@ -1,5 +1,5 @@
 ---
-title: "Bet sizing (Algo Trading)"
+title: "Bet sizing"
 description: Learn about bet sizing in algorithmic trading and discover how it plays a crucial role in risk management and capital allocation. This article explores its impact on trading performance, strategies for effective implementation, and the importance of optimizing bet sizes to enhance trading decisions. Ideal for both novice and experienced traders seeking to improve their trading strategies through informed capital management.
 ---
 

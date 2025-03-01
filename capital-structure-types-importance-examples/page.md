@@ -1,5 +1,5 @@
 ---
-title: "Capital Structure: Types, Importance, and Examples (Algo Trading)"
+title: "Capital Structure: Types, Importance, and Examples"
 description: "Explore capital structure and algorithmic trading in finance Learn how optimal funding and tech-driven strategies can boost business growth and competitive edge"
 ---
 

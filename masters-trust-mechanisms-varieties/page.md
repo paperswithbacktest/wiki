@@ -1,5 +1,5 @@
 ---
-title: "Master's Trust: Definition, Mechanisms, and Varieties (Algo Trading)"
+title: "Master's Trust: Definition, Mechanisms, and Varieties"
 description: "Explore master's trusts and trust mechanisms vital in algo trading Enhance your understanding of pooled investments to navigate financial markets confidently"
 ---
 

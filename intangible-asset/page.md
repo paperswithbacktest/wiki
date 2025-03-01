@@ -1,5 +1,5 @@
 ---
-title: "Intangible Asset (Algo Trading)"
+title: "Intangible Asset"
 description: "Explore the role of intangible assets like intellectual property in algorithmic trading Discover how these non-physical resources enhance market strategies"
 ---
 

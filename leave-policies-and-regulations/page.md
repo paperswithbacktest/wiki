@@ -1,5 +1,5 @@
 ---
-title: "Leave Policies and Regulations (Algo Trading)"
+title: "Leave Policies and Regulations"
 description: "Discover how understanding and implementing leave policies enhances productivity and compliance in high-stress sectors like algorithmic trading for optimal welfare."
 ---
 

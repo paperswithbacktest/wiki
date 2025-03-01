@@ -1,5 +1,5 @@
 ---
-title: "Expense Ratio in Insurance (Algo Trading)"
+title: "Expense Ratio in Insurance"
 description: "Explore how expense ratios and algorithmic trading reshape insurance, boosting cost management and profitability through innovative investment strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Asset Value Per Share: Meaning and Function (Algo Trading)"
+title: "Asset Value Per Share: Meaning and Function"
 description: "Explore the significance of asset value per share and its role in investment analysis Discover how metrics like NAV and TBVPS guide strategic financial decisions"
 ---
 

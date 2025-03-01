@@ -1,5 +1,5 @@
 ---
-title: "Impact of Inflation on Economic Recovery (Algo Trading)"
+title: "Impact of Inflation on Economic Recovery"
 description: "Explore how inflation impacts economic recovery and the strategic role of algorithmic trading in managing inflationary challenges while fostering growth."
 ---
 

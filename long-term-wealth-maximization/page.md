@@ -1,5 +1,5 @@
 ---
-title: "Long-term wealth maximization (Algo Trading)"
+title: "Long-term wealth maximization"
 description: Discover how algorithmic trading can be leveraged for long-term wealth maximization. Explore the role of advanced strategies, quantitative analysis, and automation in enhancing trading precision and speed while minimizing emotional bias. Learn about various algo trading techniques and their advantages, including trend-following, mean reversion, arbitrage, and market-making, to maximize returns and manage risks effectively. Uncover insights into backtesting and optimization processes crucial for developing robust trading strategies and maintaining a competitive edge in dynamic financial markets.
 ---
 

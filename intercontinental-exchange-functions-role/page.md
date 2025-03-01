@@ -1,5 +1,5 @@
 ---
-title: "Intercontinental Exchange: Functions and Role (Algo Trading)"
+title: "Intercontinental Exchange: Functions and Role"
 description: "Discover how the Intercontinental Exchange shapes global financial markets through algorithmic trading by enhancing speed, accuracy, and market efficiency."
 ---
 

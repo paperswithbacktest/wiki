@@ -1,5 +1,5 @@
 ---
-title: "Market Manipulation Detection (Algo Trading)"
+title: "Market Manipulation Detection"
 description: "Discover how algorithmic trading can lead to market manipulation and learn about the advanced detection techniques used to maintain financial market integrity."
 ---
 

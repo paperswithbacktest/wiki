@@ -1,5 +1,5 @@
 ---
-title: "Investment Automation Techniques (Algo Trading)"
+title: "Investment Automation Techniques"
 description: "Explore investment automation and algorithmic trading, uncovering their impact on finance by enhancing efficiency and accuracy while presenting unique challenges."
 ---
 

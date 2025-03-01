@@ -1,5 +1,5 @@
 ---
-title: "Consumer Price Index for Urban Consumers (Algo Trading)"
+title: "Consumer Price Index for Urban Consumers"
 description: "Explore the pivotal role of the Consumer Price Index for All Urban Consumers and its impact on algorithmic trading. Discover how CPI-U data helps traders refine strategies and anticipate market movements by providing insights into inflation and economic trends. Understand the significance of CPI-U in transforming trading methodologies and optimizing financial decisions."
 ---
 

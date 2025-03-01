@@ -1,5 +1,5 @@
 ---
-title: "Key Ratios for Evaluating Dividend Stocks (Algo Trading)"
+title: "Key Ratios for Evaluating Dividend Stocks"
 description: "Explore how key financial ratios aid in evaluating dividend stocks and the role of algorithmic trading in refining investment strategies for optimal returns."
 ---
 

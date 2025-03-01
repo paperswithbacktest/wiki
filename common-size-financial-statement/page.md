@@ -1,5 +1,5 @@
 ---
-title: "Common Size Financial Statement (Algo Trading)"
+title: "Common Size Financial Statement"
 description: "Explore how financial statements, common size analysis, and algorithmic trading synergize to optimize financial strategies, enhancing decision-making in modern finance."
 ---
 

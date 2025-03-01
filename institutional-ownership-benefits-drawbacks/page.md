@@ -1,5 +1,5 @@
 ---
-title: "Institutional Ownership: Benefits and Drawbacks (Algo Trading)"
+title: "Institutional Ownership: Benefits and Drawbacks"
 description: "Explore the benefits and drawbacks of institutional ownership in financial markets with a deep dive into investment shareholding and algorithmic trading. Understand how institutional investors like mutual funds and pension funds impact market dynamics and corporate governance. Learn about the role and influence of algo trading, and examine potential future trends and regulatory considerations in this comprehensive analysis."
 ---
 

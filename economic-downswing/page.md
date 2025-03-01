@@ -1,5 +1,5 @@
 ---
-title: "Economic Downswing (Algo Trading)"
+title: "Economic Downswing"
 description: "Explore how algorithmic trading plays a critical role during economic downturns providing liquidity and optimizing trade execution while navigating market shifts."
 ---
 

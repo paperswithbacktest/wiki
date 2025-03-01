@@ -1,5 +1,5 @@
 ---
-title: "Foreign Exchange Reserves and Their Purpose (Algo Trading)"
+title: "Foreign Exchange Reserves and Their Purpose"
 description: "Explore the intricate role of foreign exchange reserves in global economic stability and how algorithmic trading reshapes the forex market landscape. Understand the impact of geopolitical tensions and technological advancements on currency markets and the importance of strategic reserve management amidst evolving financial dynamics."
 ---
 

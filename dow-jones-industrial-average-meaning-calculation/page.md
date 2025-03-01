@@ -1,5 +1,5 @@
 ---
-title: "Dow Jones Industrial Average: Meaning and Calculation (Algo Trading)"
+title: "Dow Jones Industrial Average: Meaning and Calculation"
 description: "Explore the impact of algorithmic trading on the Dow Jones Industrial Average and how its calculation reflects market trends in key economic sectors."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Accrued Interest Adjustment (Algo Trading)"
+title: "Accrued Interest Adjustment"
 description: "Explore the significance of accrued interest and adjustments in finance and algorithmic trading. Learn how these concepts affect investments and trading strategies."
 ---
 

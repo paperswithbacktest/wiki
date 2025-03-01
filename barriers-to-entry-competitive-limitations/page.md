@@ -1,5 +1,5 @@
 ---
-title: "Barriers to Entry and Competitive Limitations (Algo Trading)"
+title: "Barriers to Entry and Competitive Limitations"
 description: "Discover the complexities of algorithmic trading by exploring competitive limitations and barriers to entry. Gain insights into market dynamics and innovation."
 ---
 

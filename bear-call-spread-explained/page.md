@@ -1,5 +1,5 @@
 ---
-title: "Bear Call Spread Explained (Algo Trading)"
+title: "Bear Call Spread Explained"
 description: "Discover how the bear call spread strategy in options trading can be enhanced through algorithmic trading for optimized risk management and market analysis."
 ---
 

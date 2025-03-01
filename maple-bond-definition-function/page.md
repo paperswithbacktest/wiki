@@ -1,5 +1,5 @@
 ---
-title: "Maple Bond: Definition and Function (Algo Trading)"
+title: "Maple Bond: Definition and Function"
 description: "Explore the significance of Maple Bonds in cross-border finance, allowing foreign issuers access to Canadian markets and offering Canadian investors currency risk-free diversification."
 ---
 

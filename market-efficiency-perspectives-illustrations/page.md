@@ -1,5 +1,5 @@
 ---
-title: "Market Efficiency: Perspectives and Illustrations (Algo Trading)"
+title: "Market Efficiency: Perspectives and Illustrations"
 description: "Explore how market efficiency intertwines with economic theories and algorithmic trading, offering insights into modern trading strategies and financial market dynamics."
 ---
 

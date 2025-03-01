@@ -1,5 +1,5 @@
 ---
-title: "American Recovery and Reinvestment Act: Objectives and FAQs (Algo Trading)"
+title: "American Recovery and Reinvestment Act: Objectives and FAQs"
 description: "Explore the objectives and components of the American Recovery and Reinvestment Act of 2009 and its impact on economic recovery and algorithmic trading."
 ---
 

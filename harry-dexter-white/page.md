@@ -1,5 +1,5 @@
 ---
-title: "Harry Dexter White (Algo Trading)"
+title: "Harry Dexter White"
 description: "Explore Harry Dexter White's role in shaping the post-war economic order through the Bretton Woods Conference while examining the espionage allegations."
 ---
 

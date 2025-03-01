@@ -1,5 +1,5 @@
 ---
-title: "Impact of Large Mining Pools on Cryptocurrencies (Algo Trading)"
+title: "Impact of Large Mining Pools on Cryptocurrencies"
 description: "Explore the impact of large mining pools and algorithmic trading on the cryptocurrency market. Learn how these innovations shape crypto economics."
 ---
 

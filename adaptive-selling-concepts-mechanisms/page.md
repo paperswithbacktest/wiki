@@ -1,5 +1,5 @@
 ---
-title: "Adaptive Selling: Concepts and Mechanisms (Algo Trading)"
+title: "Adaptive Selling: Concepts and Mechanisms"
 description: "Explore how adaptive selling and algo trading use data-driven approaches to revolutionize sales and financial strategies for better outcomes and competitiveness."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Greek Drachma: History and Overview (Algo Trading)"
+title: "Greek Drachma: History and Overview"
 description: "Explore the profound history of the Greek Drachma from ancient times to its replacement by the euro in 2001 and the role of algorithmic trading in currency markets."
 ---
 

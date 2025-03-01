@@ -1,5 +1,5 @@
 ---
-title: "Exchange-Traded Funds as Alternatives to Savings Accounts (Algo Trading)"
+title: "Exchange-Traded Funds as Alternatives to Savings Accounts"
 description: "Discover how Exchange-Traded Funds (ETFs) offer flexibility and growth as alternatives to traditional savings accounts in today's low-rate environment."
 ---
 

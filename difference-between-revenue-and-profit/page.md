@@ -1,5 +1,5 @@
 ---
-title: "Difference Between Revenue and Profit (Algo Trading)"
+title: "Difference Between Revenue and Profit"
 description: "Explore the key differences between revenue and profit in the context of algorithmic trading to understand financial metrics that drive business success."
 ---
 

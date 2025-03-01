@@ -1,5 +1,5 @@
 ---
-title: "Buck the Trend (Algo Trading)"
+title: "Buck the Trend"
 description: "Explore trend reversals in algorithmic trading to identify profitable opportunities by challenging conventional strategies and leveraging technical insights."
 ---
 

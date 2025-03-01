@@ -1,5 +1,5 @@
 ---
-title: "Game theory in finance (Algo Trading)"
+title: "Game theory in finance"
 description: "Uncover how game theory revolutionizes algorithmic trading by enhancing strategic decision-making in competitive markets, optimizing trading strategies for success."
 ---
 

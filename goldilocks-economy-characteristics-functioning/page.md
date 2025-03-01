@@ -1,5 +1,5 @@
 ---
-title: "Goldilocks Economy: Characteristics and Functioning (Algo Trading)"
+title: "Goldilocks Economy: Characteristics and Functioning"
 description: "Discover how the Goldilocks Economy's balanced growth, low inflation, and minimal unemployment interact with algorithmic trading to foster economic stability."
 ---
 

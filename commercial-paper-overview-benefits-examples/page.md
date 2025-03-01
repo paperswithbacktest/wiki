@@ -1,5 +1,5 @@
 ---
-title: "Commercial Paper: Overview, Benefits, and Examples (Algo Trading)"
+title: "Commercial Paper: Overview, Benefits, and Examples"
 description: "Explore the role of commercial paper in corporate finance and the impact of algorithmic trading Discover key benefits and examples enhancing financial management."
 ---
 

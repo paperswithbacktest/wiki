@@ -1,5 +1,5 @@
 ---
-title: "Calculating Yield of Inflation-Adjusted Bonds (Algo Trading)"
+title: "Calculating Yield of Inflation-Adjusted Bonds"
 description: "Explore the synergy of bond yield strategies, inflation-adjusted bonds, and algorithmic trading to enhance investment performance and manage market volatility effectively."
 ---
 

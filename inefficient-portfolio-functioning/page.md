@@ -1,5 +1,5 @@
 ---
-title: "Inefficient Portfolio and Its Functioning (Algo Trading)"
+title: "Inefficient Portfolio and Its Functioning"
 description: "Explore inefficient portfolios and their impact on returns and risk management in trading. Discover how algorithmic trading can optimize and enhance portfolio performance."
 ---
 

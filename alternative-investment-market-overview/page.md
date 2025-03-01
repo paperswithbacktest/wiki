@@ -1,5 +1,5 @@
 ---
-title: "Alternative Investment Market Overview (Algo Trading)"
+title: "Alternative Investment Market Overview"
 description: "Explore the dynamic world of the Alternative Investment Market and algorithmic trading Discover AIM's flexible regulatory environment and its impact on investors."
 ---
 

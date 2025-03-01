@@ -1,5 +1,5 @@
 ---
-title: "Floor Area Ratio: Formula and Example (Algo Trading)"
+title: "Floor Area Ratio: Formula and Example"
 description: "Explore the synergy between urban planning and technology through the concept of Floor Area Ratio Learn how FAR and algo trading influence real estate and city growth"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Cable (Algo Trading)"
+title: "Cable"
 description: "Explore the role of wiring cables in electronics and their intersection with algorithmic trading systems. Learn how advances in cable technology enhance data transmission and device reliability, crucial for modern electronic and trading environments. Discover insights into the synergy of electronics and finance and how innovative wiring solutions boost performance in high-frequency trading scenarios."
 ---
 

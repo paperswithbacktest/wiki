@@ -1,5 +1,5 @@
 ---
-title: "Away-from-the-Market Trades (Algo Trading)"
+title: "Away-from-the-Market Trades"
 description: "Explore the world of algorithmic trading, market strategies, and financial markets dynamics. Learn how technology enhances trading efficiency and profitability."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Importance of Volatility for Investors (Algo Trading)"
+title: "Importance of Volatility for Investors"
 description: "Discover how market volatility impacts investors and the role of algorithmic trading in navigating financial fluctuations. Explore strategies for maximizing returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "IMC Group Overview (Algo Trading)"
+title: "IMC Group Overview"
 description: "IMC Group leverages cutting-edge technology to optimize trading and liquidity provision positioning itself as a leader in global algorithmic trading."
 ---
 

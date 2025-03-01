@@ -1,5 +1,5 @@
 ---
-title: "Level Load: Definition, Benefits, and Examples (Algo Trading)"
+title: "Level Load: Definition, Benefits, and Examples"
 description: "Explore the intricacies of level loads in algo trading, detailing their impact on supply chain optimization and showcasing ways to enhance both efficiency and financial strategies."
 ---
 

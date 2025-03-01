@@ -1,5 +1,5 @@
 ---
-title: "Adjusted EBITDA: Overview and Calculation Method (Algo Trading)"
+title: "Adjusted EBITDA: Overview and Calculation Method"
 description: "Understand Adjusted EBITDA and its calculation method in algorithmic trading to evaluate true operational performance by removing financial anomalies."
 ---
 

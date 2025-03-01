@@ -1,5 +1,5 @@
 ---
-title: "Marginal Propensity to Save (Algo Trading)"
+title: "Marginal Propensity to Save"
 description: "Explore the significance of Marginal Propensity to Save and algorithmic trading in shaping investment strategies. Understand how these concepts impact economic behavior."
 ---
 

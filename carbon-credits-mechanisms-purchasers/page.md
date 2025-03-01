@@ -1,5 +1,5 @@
 ---
-title: "Carbon Credits: Mechanisms and Purchasers (Algo Trading)"
+title: "Carbon Credits: Mechanisms and Purchasers"
 description: "Explore the intricate mechanisms of carbon credits and trading, key elements in the fight against climate change. Understand how emission reduction efforts combined with cap-and-trade systems incentivize companies to adopt cleaner technologies. Discover the innovative role of algorithmic trading in carbon markets improving liquidity and efficiency, ultimately guiding sustainable practices in the global economy."
 ---
 

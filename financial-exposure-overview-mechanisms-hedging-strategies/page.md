@@ -1,5 +1,5 @@
 ---
-title: "Financial Exposure: Overview, Mechanisms, and Hedging Strategies (Algo Trading)"
+title: "Financial Exposure: Overview, Mechanisms, and Hedging Strategies"
 description: "Explore the dynamics of financial exposure risk management and hedging with insights into algorithmic trading strategies for protecting investments effectively."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Block Height in Cryptocurrency (Algo Trading)"
+title: "Block Height in Cryptocurrency"
 description: "Discover how blockchain's block height impacts cryptocurrency networks and enhances algorithmic trading strategies by improving transaction verification."
 ---
 

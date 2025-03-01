@@ -1,5 +1,5 @@
 ---
-title: "Callable Preferred Stock and Its Advantages (Algo Trading)"
+title: "Callable Preferred Stock and Its Advantages"
 description: "Explore callable preferred stock advantages including high dividend yields and safety via priority in liquidation, enhanced by algorithmic trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Cash Transactions: Overview and Examples (Algo Trading)"
+title: "Cash Transactions: Overview and Examples"
 description: "Explore the essentials of cash transactions and algorithmic trading to enhance your understanding of modern investment strategies for better decision-making."
 ---
 

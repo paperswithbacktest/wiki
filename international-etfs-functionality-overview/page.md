@@ -1,5 +1,5 @@
 ---
-title: "International ETFs: Functionality and Overview (Algo Trading)"
+title: "International ETFs: Functionality and Overview"
 description: "Explore how international ETFs offer investors global diversification and efficiency by leveraging algorithmic trading innovations to optimize asset exposure and returns."
 ---
 

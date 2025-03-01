@@ -1,5 +1,5 @@
 ---
-title: "Dickey-Fuller test (Algo Trading)"
+title: "Dickey-Fuller test"
 description: Explore the role of the Dickey-Fuller test in algorithmic trading and mean reversion strategies. This test evaluates the stationarity of financial time series data, informing traders on potential mean reversion opportunities. Understanding this test aids in developing strategic, data-driven trading decisions.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategies and Venues (Algo Trading)"
+title: "Investment Strategies and Venues"
 description: "Explore effective investment strategies with a focus on algorithmic trading Discover market trends shaping 2023 and strategies for maximizing returns"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Basis Quote: Overview and Functionality with Example (Algo Trading)"
+title: "Basis Quote: Overview and Functionality with Example"
 description: "Explore algorithmic trading's role in financial markets focusing on basis quotes for futures pricing strategies. Enhance trading proficiency with key insights."
 ---
 

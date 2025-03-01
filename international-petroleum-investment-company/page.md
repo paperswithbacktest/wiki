@@ -1,5 +1,5 @@
 ---
-title: "International Petroleum Investment Company (Algo Trading)"
+title: "International Petroleum Investment Company"
 description: "Discover how IPIC leverages cutting-edge algorithmic trading to enhance investment strategies and navigate global markets, promoting financial efficiency and growth."
 ---
 

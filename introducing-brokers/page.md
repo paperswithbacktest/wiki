@@ -1,5 +1,5 @@
 ---
-title: "Introducing Brokers (Algo Trading)"
+title: "Introducing Brokers"
 description: "Explore the vital role of introducing brokers in forex trading and discover how algorithmic trading enhances precision and efficiency in executing trades."
 ---
 

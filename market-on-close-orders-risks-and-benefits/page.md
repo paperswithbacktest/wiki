@@ -1,5 +1,5 @@
 ---
-title: "Market-on-Close Orders: Risks and Benefits (Algo Trading)"
+title: "Market-on-Close Orders: Risks and Benefits"
 description: "Explore the strategic edge of Market-on-Close (MOC) orders in algorithmic trading. Learn how to optimize trades at day's end, harnessing closing price benefits."
 ---
 

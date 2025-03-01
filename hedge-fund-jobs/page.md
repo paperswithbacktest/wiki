@@ -1,5 +1,5 @@
 ---
-title: "Hedge Fund Jobs (Algo Trading)"
+title: "Hedge Fund Jobs"
 description: Explore lucrative careers in hedge funds focusing on algorithmic trading. Discover educational paths and skills required to thrive in this dynamic field where financial expertise meets cutting-edge technology. Learn how to secure positions in hedge funds, understand market mechanisms, and navigate career progression for ambitious professionals.
 ---
 

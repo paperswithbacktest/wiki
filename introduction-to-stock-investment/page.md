@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Stock Investment (Algo Trading)"
+title: "Introduction to Stock Investment"
 description: "Explore stock investment and algorithmic trading as crucial tools for modern investing Discover strategies emphasizing tech innovation for optimizing returns."
 ---
 

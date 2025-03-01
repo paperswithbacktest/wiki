@@ -1,5 +1,5 @@
 ---
-title: "Business Valuation on Shark Tank (Algo Trading)"
+title: "Business Valuation on Shark Tank"
 description: "Explore how business valuation impacts investment decisions on Shark Tank and discover the role of algorithmic trading in evaluating business opportunities."
 ---
 

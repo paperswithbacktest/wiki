@@ -1,5 +1,5 @@
 ---
-title: "Determining the Ex-Dividend Date for Stock Dividends (Algo Trading)"
+title: "Determining the Ex-Dividend Date for Stock Dividends"
 description: "Learn how to calculate the ex-dividend date and enhance your stock investment strategy using algorithmic trading insights for optimized dividend capture."
 ---
 

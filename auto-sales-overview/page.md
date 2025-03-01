@@ -1,5 +1,5 @@
 ---
-title: "Auto Sales Overview (Algo Trading)"
+title: "Auto Sales Overview"
 description: "Explore how auto sales intersect with algorithmic trading to reshape the automotive market. Understand the implications for investors and industry dynamics."
 ---
 

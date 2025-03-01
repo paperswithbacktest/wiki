@@ -1,5 +1,5 @@
 ---
-title: "Major Mutual Fund Stakeholders in Verizon (Algo Trading)"
+title: "Major Mutual Fund Stakeholders in Verizon"
 description: "Explore the key mutual fund stakeholders in Verizon and how algorithmic trading is reshaping investment strategies Learn how algo trading enhances efficiency"
 ---
 

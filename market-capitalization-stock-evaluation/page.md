@@ -1,5 +1,5 @@
 ---
-title: "Market Capitalization in Stock Evaluation (Algo Trading)"
+title: "Market Capitalization in Stock Evaluation"
 description: "Explore the impact of market capitalization on stock evaluation and algorithmic trading to devise strategies that optimize returns while managing risks effectively."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Accumulated Fund: Definition and Examples (Algo Trading)"
+title: "Accumulated Fund: Definition and Examples"
 description: "Explore accumulated funds and their role in investment strategies Learn about mutual funds fund management and how algorithmic trading enhances efficiency"
 ---
 

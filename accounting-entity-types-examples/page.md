@@ -1,5 +1,5 @@
 ---
-title: "Accounting Entity Types and Examples (Algo Trading)"
+title: "Accounting Entity Types and Examples"
 description: "Explore key accounting entity types and examples essential for algorithmic trading This guide covers corporations sole proprietorships partnerships and SPVs"
 ---
 

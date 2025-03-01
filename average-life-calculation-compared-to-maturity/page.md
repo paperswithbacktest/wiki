@@ -1,5 +1,5 @@
 ---
-title: "Average Life and Its Calculation Compared to Maturity (Algo Trading)"
+title: "Average Life and Its Calculation Compared to Maturity"
 description: "Explore key concepts in finance with a focus on average life and maturity. Learn how these metrics aid in risk assessment and portfolio optimization in algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "List of Monthly Dividend-Paying ETFs (Algo Trading)"
+title: "List of Monthly Dividend-Paying ETFs"
 description: "Explore the benefits of monthly dividend-paying ETFs and discover how algorithmic trading can enhance portfolio management for consistent income and returns."
 ---
 

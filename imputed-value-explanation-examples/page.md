@@ -1,5 +1,5 @@
 ---
-title: "Imputed Value: Explanation and Examples (Algo Trading)"
+title: "Imputed Value: Explanation and Examples"
 description: "Discover how imputed value, valuation techniques, and algorithmic trading interconnect to optimize financial decision-making and enhance investment strategies."
 ---
 

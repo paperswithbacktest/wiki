@@ -1,5 +1,5 @@
 ---
-title: "Balance of Payments in International Trade (Algo Trading)"
+title: "Balance of Payments in International Trade"
 description: "Understand the balance of payments and its links to international trade and algorithmic trading Key insights into economic stability and policies await readers"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Investment Risk: Small-Cap vs Large-Cap Companies (Algo Trading)"
+title: "Comparison of Investment Risk: Small-Cap vs Large-Cap Companies"
 description: "Explore the investment risks of small-cap vs large-cap companies and how algorithmic trading impacts their market dynamics for well-informed decisions."
 ---
 

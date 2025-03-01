@@ -1,5 +1,5 @@
 ---
-title: "Ethical Investing: Principles and Practices (Algo Trading)"
+title: "Ethical Investing: Principles and Practices"
 description: "Explore how ethical investing and algorithmic trading intersect to shape sustainable finance with ESG principles guiding investment decisions for positive impact."
 ---
 

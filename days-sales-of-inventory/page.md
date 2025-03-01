@@ -1,5 +1,5 @@
 ---
-title: "Days Sales of Inventory (Algo Trading)"
+title: "Days Sales of Inventory"
 description: "Explore Days Sales of Inventory and its role in optimizing business performance and algorithmic trading strategies for improved stock analysis and profitability."
 ---
 

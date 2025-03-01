@@ -1,5 +1,5 @@
 ---
-title: "Home Country Bias (Algo Trading)"
+title: "Home Country Bias"
 description: "Explore how algorithmic trading can mitigate financial biases like home country bias, leading to diversified portfolios and improved investment outcomes."
 ---
 

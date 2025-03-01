@@ -1,5 +1,5 @@
 ---
-title: "Leading Mid-Cap Healthcare Companies (Algo Trading)"
+title: "Leading Mid-Cap Healthcare Companies"
 description: "Explore the distinctive role of mid-cap healthcare companies in innovation and investment, and how algorithmic trading boosts investment strategies."
 ---
 

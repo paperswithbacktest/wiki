@@ -1,5 +1,5 @@
 ---
-title: "Convenience Yield and Calculation Methods (Algo Trading)"
+title: "Convenience Yield and Calculation Methods"
 description: "Explore the strategic value of convenience yield in commodity markets and how algorithmic trading enhances yield calculation for smarter investment decisions."
 ---
 

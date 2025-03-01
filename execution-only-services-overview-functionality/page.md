@@ -1,5 +1,5 @@
 ---
-title: "Execution-Only Services: Overview and Functionality (Algo Trading)"
+title: "Execution-Only Services: Overview and Functionality"
 description: "Execution-only services give investors independent control over trades without advisory input reducing costs and offering flexibility for strategic decisions."
 ---
 

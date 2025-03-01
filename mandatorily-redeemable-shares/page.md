@@ -1,5 +1,5 @@
 ---
-title: "Mandatorily Redeemable Shares (Algo Trading)"
+title: "Mandatorily Redeemable Shares"
 description: "Explore how mandatorily redeemable shares and algorithmic trading are reshaping corporate finance, offering enhanced flexibility and precision in investment strategies."
 ---
 

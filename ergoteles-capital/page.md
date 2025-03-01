@@ -1,5 +1,5 @@
 ---
-title: "Ergoteles Capital (Algo Trading)"
+title: "Ergoteles Capital"
 description: "Discover Ergoteles Capital's innovative algorithmic trading strategies, leveraging cutting-edge technology for precision and speed in financial markets worldwide."
 ---
 

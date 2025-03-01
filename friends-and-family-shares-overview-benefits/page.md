@@ -1,5 +1,5 @@
 ---
-title: "Friends and Family Shares Overview and Benefits (Algo Trading)"
+title: "Friends and Family Shares Overview and Benefits"
 description: "Explore the benefits of investing in friends and family shares, equity investments, and algo trading to enhance financial growth and optimize investment strategies."
 ---
 

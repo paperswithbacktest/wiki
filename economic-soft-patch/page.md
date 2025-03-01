@@ -1,5 +1,5 @@
 ---
-title: "Economic Soft Patch (Algo Trading)"
+title: "Economic Soft Patch"
 description: "Explore the dynamics of economic cycles and algorithmic trading Understand the role of economic slowdowns and soft patches in investment strategies and market efficiency."
 ---
 

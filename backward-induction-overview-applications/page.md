@@ -1,5 +1,5 @@
 ---
-title: "Backward Induction: Overview and Applications (Algo Trading)"
+title: "Backward Induction: Overview and Applications"
 description: "Discover how backward induction aids in creating optimal strategies in game theory, economics, and algorithmic trading by analyzing decisions backward from desired outcomes."
 ---
 

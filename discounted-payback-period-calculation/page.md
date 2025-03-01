@@ -1,5 +1,5 @@
 ---
-title: "Discounted Payback Period Calculation (Algo Trading)"
+title: "Discounted Payback Period Calculation"
 description: "Discover how the discounted payback period enhances investment analysis by accounting for the time value of money and improving algorithmic trading strategies."
 ---
 

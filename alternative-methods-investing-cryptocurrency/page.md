@@ -1,5 +1,5 @@
 ---
-title: "Alternative Methods of Investing in Cryptocurrency (Algo Trading)"
+title: "Alternative Methods of Investing in Cryptocurrency"
 description: "Discover alternative ways to invest in cryptocurrency through algorithmic trading, ETFs, and more for exposure to digital assets without direct ownership risks."
 ---
 

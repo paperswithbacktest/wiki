@@ -1,5 +1,5 @@
 ---
-title: "Comparison of S&P 500 and Russell 2000 ETFs (Algo Trading)"
+title: "Comparison of S&P 500 and Russell 2000 ETFs"
 description: "Explore investment strategies combining S&P 500 and Russell 2000 ETFs with algo trading for diversified portfolios enhancing performance and managing risks."
 ---
 

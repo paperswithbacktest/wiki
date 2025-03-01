@@ -1,5 +1,5 @@
 ---
-title: "Class A Shares: Comparison with Class B and Class C (Algo Trading)"
+title: "Class A Shares: Comparison with Class B and Class C"
 description: "Explore the key differences between Class A and Class B shares, their impact on corporate governance and how algorithmic trading leverages these distinctions."
 ---
 

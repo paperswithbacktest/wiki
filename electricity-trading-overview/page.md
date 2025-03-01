@@ -1,5 +1,5 @@
 ---
-title: "Electricity Trading Overview (Algo Trading)"
+title: "Electricity Trading Overview"
 description: "Explore the complexities of electricity trading markets and the rising impact of algorithmic trading on grid stability and renewable energy integration."
 ---
 

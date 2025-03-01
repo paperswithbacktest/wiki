@@ -1,5 +1,5 @@
 ---
-title: "Credit Spread and Its Impact on Bonds and Options Strategies (Algo Trading)"
+title: "Credit Spread and Its Impact on Bonds and Options Strategies"
 description: "Discover how bond credit spreads impact bonds and options strategies in algorithmic trading. Gain insights into how the yield difference between bonds of varying credit quality serves as a risk indicator, offering a snapshot of economic conditions and investor sentiment. Explore refined strategies using algorithmic trading for more efficient data processing and optimized real-time trade decisions. Understand how credit spreads interact with options trading to maximize premium differentials while managing risk levels effectively, providing a comprehensive framework for modern trading strategy optimization."
 ---
 

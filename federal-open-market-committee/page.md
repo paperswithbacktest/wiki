@@ -1,5 +1,5 @@
 ---
-title: "Federal Open Market Committee (Algo Trading)"
+title: "Federal Open Market Committee"
 description: "Explore the influence of the Federal Open Market Committee (FOMC) on financial markets and algorithmic trading. Understand how FOMC meetings and monetary policy decisions impact trading strategies and market behavior. Discover the synergy between technology-driven trades and economic shifts induced by FOMC actions, offering insights into managing market volatility and profiting from emerging trends."
 ---
 

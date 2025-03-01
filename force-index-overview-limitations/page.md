@@ -1,5 +1,5 @@
 ---
-title: "Force Index: Overview and Limitations (Algo Trading)"
+title: "Force Index: Overview and Limitations"
 description: "Explore the Force Index a key tool for traders that blends price and volume to gauge market strength learn its calculation benefits and limitations in trading."
 ---
 

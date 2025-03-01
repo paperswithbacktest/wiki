@@ -1,5 +1,5 @@
 ---
-title: "Command Economy: Overview and Characteristics (Algo Trading)"
+title: "Command Economy: Overview and Characteristics"
 description: "Explore command economies and algo trading contrasting state-controlled systems with market-driven innovation in trading analyzing their unique impacts on the economy."
 ---
 

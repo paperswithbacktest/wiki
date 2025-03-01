@@ -1,5 +1,5 @@
 ---
-title: "General Collateral Financing Trades (Algo Trading)"
+title: "General Collateral Financing Trades"
 description: "Explore the intricate world of General Collateral Financing Trades and algorithmic trading where advanced technology enhances liquidity and trading efficiency."
 ---
 

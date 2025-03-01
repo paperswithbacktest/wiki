@@ -1,5 +1,5 @@
 ---
-title: "Cost-Push Inflation: Occurrence and Causes (Algo Trading)"
+title: "Cost-Push Inflation: Occurrence and Causes"
 description: "Explore the effects of cost-push inflation and its impact on economic and trading strategies Learn how increased production costs affect price levels and algorithmic trading"
 ---
 

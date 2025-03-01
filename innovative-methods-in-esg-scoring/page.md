@@ -1,5 +1,5 @@
 ---
-title: "Innovative Methods in ESG Scoring (Algo Trading)"
+title: "Innovative Methods in ESG Scoring"
 description: "Explore how innovative methods in algorithmic trading integrate ESG metrics to redefine sustainable investment strategies, balancing profit with ethical values."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Importance of Time Value of Money to Investors (Algo Trading)"
+title: "Importance of Time Value of Money to Investors"
 description: "Understand the importance of the time value of money in algo trading for investors Leverage key financial principles to enhance investment strategies and returns"
 ---
 

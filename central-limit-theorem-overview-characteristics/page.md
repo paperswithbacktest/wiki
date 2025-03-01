@@ -1,5 +1,5 @@
 ---
-title: "Central Limit Theorem: Overview and Characteristics (Algo Trading)"
+title: "Central Limit Theorem: Overview and Characteristics"
 description: "Explore the significance of the Central Limit Theorem (CLT) in statistics and its applications in algorithmic trading. Understand how the CLT, a key concept in probability theory, aids in making statistical inferences about population parameters using sample data. Discover how this theorem helps traders model returns, assess risks, and develop robust trading strategies by approximating distributions with normal distributions. The article investigates into the mathematical principles of the CLT, the role of probability in statistical analysis, and the practical challenges in algorithmic trading, offering insights into future advancements in this dynamic field."
 ---
 

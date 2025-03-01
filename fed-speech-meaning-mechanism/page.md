@@ -1,5 +1,5 @@
 ---
-title: "Fed Speech: Meaning and Mechanism (Algo Trading)"
+title: "Fed Speech: Meaning and Mechanism"
 description: "Explore how the Federal Reserve's communication impacts algorithmic trading highlighting the vital role of policy language in shaping market dynamics and trade strategies."
 ---
 

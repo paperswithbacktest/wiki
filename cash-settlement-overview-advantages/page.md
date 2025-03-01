@@ -1,5 +1,5 @@
 ---
-title: "Cash Settlement: Overview and Advantages (Algo Trading)"
+title: "Cash Settlement: Overview and Advantages"
 description: "Explore the advantages of cash settlements in trading futures and options focusing on streamlined processes and enhanced liquidity facilitated by algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Measurement of Investor Sentiment (Algo Trading)"
+title: "Measurement of Investor Sentiment"
 description: "Explore the impact of investor sentiment on algorithmic trading and market dynamics Learn how sentiment analysis can enhance trading strategies and decision-making"
 ---
 

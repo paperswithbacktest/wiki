@@ -1,5 +1,5 @@
 ---
-title: "House Purchases at Auction (Algo Trading)"
+title: "House Purchases at Auction"
 description: "Discover the dynamic world of real estate auctions fueled by technology and algorithmic trading providing new opportunities for strategic property investments."
 ---
 

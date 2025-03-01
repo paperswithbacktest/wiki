@@ -1,5 +1,5 @@
 ---
-title: "Inverse Relationship Between Quantity and Price (Algo Trading)"
+title: "Inverse Relationship Between Quantity and Price"
 description: "Explore the inverse relationship between quantity and price in algorithmic trading Discover how traders use negative correlation to predict market behavior and optimize strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Financial Controller: Roles, Responsibilities, Skills, and Career Path (Algo Trading)"
+title: "Financial Controller: Roles, Responsibilities, Skills, and Career Path"
 description: "Explore the pivotal role of a financial controller in algorithmic trading focusing on responsibilities, skills, and career paths in this dynamic finance sector."
 ---
 

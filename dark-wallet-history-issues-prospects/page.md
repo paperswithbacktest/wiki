@@ -1,5 +1,5 @@
 ---
-title: "Dark Wallet: History, Issues, and Prospects (Algo Trading)"
+title: "Dark Wallet: History, Issues, and Prospects"
 description: "Explore the world of crypto finance with insight into Dark Wallet's privacy innovations and the impact of algorithmic trading in reshaping digital transactions."
 ---
 

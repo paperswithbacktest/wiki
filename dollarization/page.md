@@ -1,5 +1,5 @@
 ---
-title: "Dollarization (Algo Trading)"
+title: "Dollarization"
 description: "Explore the intersection of dollarization and algorithmic trading Discover how economic stability and technology drive efficiency in global financial markets"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Buffett indicator (Algo Trading)"
+title: "Buffett indicator"
 description: "Discover the power of the Buffett Indicator for evaluating market valuation in algo trading, integrating insights into trading strategies for better decision-making."
 ---
 

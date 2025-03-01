@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Short Sales and Foreclosures (Algo Trading)"
+title: "Comparison of Short Sales and Foreclosures"
 description: "Explore the complexities of real estate short sales foreclosures and algorithmic trading Discover how these elements impact the market and investor strategies"
 ---
 

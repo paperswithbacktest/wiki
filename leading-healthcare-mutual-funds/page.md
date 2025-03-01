@@ -1,5 +1,5 @@
 ---
-title: "Leading Healthcare Mutual Funds (Algo Trading)"
+title: "Leading Healthcare Mutual Funds"
 description: "Discover the potential of healthcare mutual funds enhanced by algorithmic trading to optimize your investment portfolio with innovative strategies and reduced risk."
 ---
 

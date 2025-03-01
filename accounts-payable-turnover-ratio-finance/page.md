@@ -1,5 +1,5 @@
 ---
-title: "Accounts Payable Turnover Ratio in Finance (Algo Trading)"
+title: "Accounts Payable Turnover Ratio in Finance"
 description: "Discover the role of the Accounts Payable Turnover Ratio in financial analysis and algorithmic trading Learn how this key metric impacts liquidity and decision-making"
 ---
 

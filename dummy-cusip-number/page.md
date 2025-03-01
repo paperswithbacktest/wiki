@@ -1,5 +1,5 @@
 ---
-title: "Dummy CUSIP Number (Algo Trading)"
+title: "Dummy CUSIP Number"
 description: "Explore the importance of dummy CUSIP numbers in securities trading. Discover their role in facilitating trades, algorithmic functions, and compliance."
 ---
 

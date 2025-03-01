@@ -1,5 +1,5 @@
 ---
-title: "Comparables in Real Estate and Finance (Algo Trading)"
+title: "Comparables in Real Estate and Finance"
 description: "Explore the synergy between real estate finance and algorithmic trading Discover how leveraging comparables enhances property valuation and trading efficiency"
 ---
 

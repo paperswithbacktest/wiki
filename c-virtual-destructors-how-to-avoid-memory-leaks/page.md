@@ -1,5 +1,5 @@
 ---
-title: "C++ Virtual Destructors: How to Avoid Memory Leaks (Algo Trading)"
+title: "C++ Virtual Destructors: How to Avoid Memory Leaks"
 description: Learn how C++ virtual destructors can prevent memory leaks in algorithmic trading applications. Discover the importance of efficient resource management, the role of virtual destructors in inheritance and polymorphism, and their impact on system performance and reliability.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Confirmation Bias: Types and Impact (Algo Trading)"
+title: "Confirmation Bias: Types and Impact"
 description: "Explore how confirmation bias impacts algorithmic trading where human psychology and algorithm design intersect affecting trading efficacy and investment outcomes."
 ---
 

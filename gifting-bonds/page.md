@@ -1,5 +1,5 @@
 ---
-title: "Gifting Bonds (Algo Trading)"
+title: "Gifting Bonds"
 description: "Explore how gifting bonds combines stability and educational value, enhanced by algorithmic trading for increased market efficiency, turning bonds into meaningful financial gifts."
 ---
 

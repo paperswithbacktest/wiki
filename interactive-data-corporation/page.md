@@ -1,5 +1,5 @@
 ---
-title: "Interactive Data Corporation (Algo Trading)"
+title: "Interactive Data Corporation"
 description: "Explore how Interactive Data Corporation enhances trading operations with advanced data analytics and algorithmic tools to empower informed and rapid decision-making."
 ---
 

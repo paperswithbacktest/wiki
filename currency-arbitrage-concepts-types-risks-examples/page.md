@@ -1,5 +1,5 @@
 ---
-title: "Currency Arbitrage: Concepts, Types, Risks, and Examples (Algo Trading)"
+title: "Currency Arbitrage: Concepts, Types, Risks, and Examples"
 description: "Explore the dynamic world of Forex trading through currency arbitrage and algorithmic strategies. Discover how traders exploit price discrepancies to maximize returns with reduced risk. Learn about the technological advancements of algorithmic trading that automate processes for efficiency. This article investigates into the core principles of currency arbitrage, the role of algorithms, and the balance of risk and reward in the Forex market."
 ---
 

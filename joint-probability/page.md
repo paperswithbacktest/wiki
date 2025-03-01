@@ -1,5 +1,5 @@
 ---
-title: "Joint Probability (Algo Trading)"
+title: "Joint Probability"
 description: "Explore the crucial role of joint probability in algorithmic trading by understanding how it evaluates the likelihood of concurrent market events. Enhance decision-making and trading efficiency by integrating joint probability models into algorithms, allowing traders to anticipate complex market scenarios. This article investigates into joint probability concepts, formulas, and applications, providing insights for optimized trading strategies in volatile financial environments."
 ---
 

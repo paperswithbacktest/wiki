@@ -1,5 +1,5 @@
 ---
-title: "Futures Commission Merchant Overview (Algo Trading)"
+title: "Futures Commission Merchant Overview"
 description: "Explore the transformative role of Futures Commission Merchants and algorithmic trading in modern financial markets ensuring efficient, secure, and strategic futures trading."
 ---
 

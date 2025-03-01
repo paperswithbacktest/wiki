@@ -1,5 +1,5 @@
 ---
-title: "Cushion Bond (Algo Trading)"
+title: "Cushion Bond"
 description: "Explore how cushion bonds in algo trading blend high coupon rates with algorithmic precision to enhance portfolio performance in fixed-income markets."
 ---
 

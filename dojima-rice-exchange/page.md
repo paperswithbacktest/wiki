@@ -1,5 +1,5 @@
 ---
-title: "Dojima Rice Exchange (Algo Trading)"
+title: "Dojima Rice Exchange"
 description: "Explore the Dojima Rice Exchange's pivotal role in history as the first organized futures exchange, transforming Japan's economy with innovative trading systems."
 ---
 

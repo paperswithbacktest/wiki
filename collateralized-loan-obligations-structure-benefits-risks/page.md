@@ -1,5 +1,5 @@
 ---
-title: "Collateralized Loan Obligations: Structure, Benefits, and Risks (Algo Trading)"
+title: "Collateralized Loan Obligations: Structure, Benefits, and Risks"
 description: "Learn about the structure benefits and risks of Collateralized Loan Obligations CLOs and how algorithmic trading and technology impact this financial instrument"
 ---
 

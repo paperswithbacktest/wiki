@@ -1,5 +1,5 @@
 ---
-title: "Gross Margin Return on Investment (Algo Trading)"
+title: "Gross Margin Return on Investment"
 description: "Discover how GMROI evaluates inventory efficiency to optimize profitability in algorithmic trading Gain insights to inform entrepreneurial and investment strategies"
 ---
 

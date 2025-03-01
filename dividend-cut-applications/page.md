@@ -1,5 +1,5 @@
 ---
-title: "Dividend Cut and Its Applications (Algo Trading)"
+title: "Dividend Cut and Its Applications"
 description: "Learn to optimize investment strategies with insights into dividend cuts and algorithmic trading Utilize these tools to maximize returns and manage risks"
 ---
 

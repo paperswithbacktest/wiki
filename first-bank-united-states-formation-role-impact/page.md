@@ -1,5 +1,5 @@
 ---
-title: "First Bank of the United States: Formation, Role, and Impact (Algo Trading)"
+title: "First Bank of the United States: Formation, Role, and Impact"
 description: "Discover how the First Bank of the United States, founded by Alexander Hamilton, influenced early American finance and modern trading practices."
 ---
 

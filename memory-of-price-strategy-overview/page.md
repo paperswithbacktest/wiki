@@ -1,5 +1,5 @@
 ---
-title: "Memory-of-Price Strategy Overview (Algo Trading)"
+title: "Memory-of-Price Strategy Overview"
 description: "Explore the impact of memory-of-price strategies on algorithmic trading and consumer behavior Learn how these influences optimize pricing in the digital age"
 ---
 

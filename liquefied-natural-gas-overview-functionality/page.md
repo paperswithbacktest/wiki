@@ -1,5 +1,5 @@
 ---
-title: "Liquefied Natural Gas: Overview and Functionality (Algo Trading)"
+title: "Liquefied Natural Gas: Overview and Functionality"
 description: "Explore the impact of liquefied natural gas on global energy trends and the role of algorithmic trading in enhancing LNG market efficiency and profitability."
 ---
 

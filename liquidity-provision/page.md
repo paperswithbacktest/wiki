@@ -1,5 +1,5 @@
 ---
-title: "Liquidity provision (Algo Trading)"
+title: "Liquidity provision"
 description: "Discover how liquidity provision through algorithmic trading enhances market stability by minimizing price disruptions and ensuring seamless asset transactions."
 ---
 

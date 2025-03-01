@@ -1,5 +1,5 @@
 ---
-title: "List of Bitcoin Millionaires (Algo Trading)"
+title: "List of Bitcoin Millionaires"
 description: "Explore the world of Bitcoin millionaires and algorithmic trading, uncovering how early adopters and tech innovators amassed fortunes in the crypto realm."
 ---
 

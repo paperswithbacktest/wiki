@@ -1,5 +1,5 @@
 ---
-title: "Delphi Method in Forecasting (Algo Trading)"
+title: "Delphi Method in Forecasting"
 description: "Explore the impact of the Delphi Method on decision-making and forecasting in algorithmic trading, highlighting its role in enhancing prediction accuracy through expert consensus."
 ---
 

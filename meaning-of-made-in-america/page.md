@@ -1,5 +1,5 @@
 ---
-title: "Meaning of Made in America (Algo Trading)"
+title: "Meaning of Made in America"
 description: "Explore the true meaning of 'Made in America' and its impact on consumers, manufacturers, and the economy through policies and technological advancements like algo trading."
 ---
 

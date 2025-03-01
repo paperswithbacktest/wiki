@@ -1,5 +1,5 @@
 ---
-title: "Hindsight Bias: Causes and Examples (Algo Trading)"
+title: "Hindsight Bias: Causes and Examples"
 description: "Explore hindsight bias and its effect on algorithmic trading. Understand how cognitive distortions shape trading decisions and learn strategies to mitigate them."
 ---
 

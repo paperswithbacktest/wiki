@@ -1,5 +1,5 @@
 ---
-title: "Financial Portfolio: Creation and Management (Algo Trading)"
+title: "Financial Portfolio: Creation and Management"
 description: "Achieve investment success through effective portfolio creation and management with algorithmic trading Enhance strategies with data-driven insights and technology."
 ---
 

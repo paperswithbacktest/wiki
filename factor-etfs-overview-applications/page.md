@@ -1,5 +1,5 @@
 ---
-title: "Factor ETFs: Overview and Applications (Algo Trading)"
+title: "Factor ETFs: Overview and Applications"
 description: "Explore the benefits of Factor ETFs in algorithmic trading with insights on strategic factor exposure and portfolio diversification to optimize performance."
 ---
 

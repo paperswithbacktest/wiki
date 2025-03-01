@@ -1,5 +1,5 @@
 ---
-title: "Deferred Income Tax (Algo Trading)"
+title: "Deferred Income Tax"
 description: "Explore the complexities of deferred income tax in algorithmic trading. Understand tax implications for traders and discover strategies for effective tax management."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Consequences of a Called Bond (Algo Trading)"
+title: "Consequences of a Called Bond"
 description: "Explore the impact of callable bonds in algo trading including benefits risks and reinvestment challenges to enhance investment strategies and portfolio performance."
 ---
 

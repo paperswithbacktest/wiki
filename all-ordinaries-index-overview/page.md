@@ -1,5 +1,5 @@
 ---
-title: "All-Ordinaries Index Overview (Algo Trading)"
+title: "All-Ordinaries Index Overview"
 description: "Explore the All-Ordinaries Index and the impact of algorithmic trading on the Australian market highlighting market dynamics trends and trading efficiencies."
 ---
 

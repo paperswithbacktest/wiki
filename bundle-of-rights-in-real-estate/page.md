@@ -1,5 +1,5 @@
 ---
-title: "Bundle of Rights in Real Estate (Algo Trading)"
+title: "Bundle of Rights in Real Estate"
 description: "Explore the bundle of rights in real estate including possession control exclusion enjoyment and disposition Learn their importance in property ownership and management"
 ---
 

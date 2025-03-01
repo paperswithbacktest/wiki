@@ -1,5 +1,5 @@
 ---
-title: "Forex Mini Account: Overview and Operation (Algo Trading)"
+title: "Forex Mini Account: Overview and Operation"
 description: "Explore forex mini accounts to safely enter currency trading with less capital. Learn about algo trading's role in enhancing speed and precision in forex."
 ---
 

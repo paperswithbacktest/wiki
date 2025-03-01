@@ -1,5 +1,5 @@
 ---
-title: "Commodities and Their Role in the Stock Market (Algo Trading)"
+title: "Commodities and Their Role in the Stock Market"
 description: "Explore the intriguing intersection of commodities, stock markets, and algorithmic trading to uncover new investment opportunities and mitigate global market risks."
 ---
 

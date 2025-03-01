@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Real Estate Trusts and LLCs for Landlords (Algo Trading)"
+title: "Comparison of Real Estate Trusts and LLCs for Landlords"
 description: "Discover the pros and cons of Real Estate Trusts and LLCs for landlords and how algorithmic trading principles can optimize real estate investment strategies."
 ---
 

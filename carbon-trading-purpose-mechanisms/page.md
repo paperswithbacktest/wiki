@@ -1,5 +1,5 @@
 ---
-title: "Carbon Trading: Purpose and Mechanisms (Algo Trading)"
+title: "Carbon Trading: Purpose and Mechanisms"
 description: "Explore the intricacies of carbon trading, a market-based strategy essential for managing and reducing greenhouse gas emissions. This article investigates into how these systems operate, the role of algorithmic trading in enhancing efficiency, and the sustainability impacts. It also assesses the advantages, criticisms, and regional market variations, illustrating carbon trading's potential to align economic growth with environmental responsibility amidst global efforts to combat climate change."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Intermarket Spread Mechanics (Algo Trading)"
+title: "Intermarket Spread Mechanics"
 description: "Explore intermarket spread trading with algo trading to capitalize on market inefficiencies by offsetting positions in correlated markets for reduced risk."
 ---
 

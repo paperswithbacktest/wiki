@@ -1,5 +1,5 @@
 ---
-title: "Average Down Strategy (Algo Trading)"
+title: "Average Down Strategy"
 description: "Explore the average down strategy in algo trading, where investors buy more shares as prices drop, reducing cost per share and potentially boosting returns."
 ---
 

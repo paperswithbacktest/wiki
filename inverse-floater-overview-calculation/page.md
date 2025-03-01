@@ -1,5 +1,5 @@
 ---
-title: "Inverse Floater Overview and Calculation (Algo Trading)"
+title: "Inverse Floater Overview and Calculation"
 description: "Explore the unique benefits of inverse floaters in bond investments and learn how algorithmic trading can optimize returns by navigating interest rate dynamics."
 ---
 

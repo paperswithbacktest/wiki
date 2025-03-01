@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of Fundrise eREITs for Investors (Algo Trading)"
+title: "Evaluation of Fundrise eREITs for Investors"
 description: "Explore the potential of Fundrise eREITs with algo trading for diverse real estate investments. Discover benefits, risks, and insights for informed decisions."
 ---
 

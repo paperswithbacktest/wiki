@@ -1,5 +1,5 @@
 ---
-title: "Contingent Order: Overview and Applications (Algo Trading)"
+title: "Contingent Order: Overview and Applications"
 description: "Explore the benefits and applications of contingent orders in algorithmic trading to automate strategies manage risk and enhance trading performance efficiently."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Budget Manual Overview and Functionality (Algo Trading)"
+title: "Budget Manual Overview and Functionality"
 description: "Explore the synergy of traditional budgeting and algorithmic trading for effective financial planning. Enhance your strategies with innovative insights and practical examples."
 ---
 

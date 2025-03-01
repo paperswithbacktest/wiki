@@ -1,5 +1,5 @@
 ---
-title: "Economic Impact of World War II on the Global Economy (Algo Trading)"
+title: "Economic Impact of World War II on the Global Economy"
 description: "Explore the profound economic impact of World War II on the global economy and the rise of technologies like algorithmic trading that modernized markets."
 ---
 

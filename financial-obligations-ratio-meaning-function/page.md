@@ -1,5 +1,5 @@
 ---
-title: "Financial Obligations Ratio: Meaning and Function (Algo Trading)"
+title: "Financial Obligations Ratio: Meaning and Function"
 description: "Explore the significance of the Financial Obligations Ratio in managing household debt burdens and its impact on algorithmic trading and financial health analysis."
 ---
 

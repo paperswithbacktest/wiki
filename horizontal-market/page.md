@@ -1,5 +1,5 @@
 ---
-title: "Horizontal Market (Algo Trading)"
+title: "Horizontal Market"
 description: "Explore the intersection of horizontal markets and algorithmic trading in modern business strategies to gain insights on achieving competitive success and innovation."
 ---
 

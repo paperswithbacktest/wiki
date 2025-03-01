@@ -1,5 +1,5 @@
 ---
-title: "Constant Maturity Concept in Treasury Securities (Algo Trading)"
+title: "Constant Maturity Concept in Treasury Securities"
 description: "Explore the interplay between constant maturity in Treasury securities and algorithmic trading. Learn how this key concept enhances financial comparisons and trading strategies."
 ---
 

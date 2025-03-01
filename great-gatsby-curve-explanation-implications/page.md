@@ -1,5 +1,5 @@
 ---
-title: "Great Gatsby Curve: Explanation and Implications (Algo Trading)"
+title: "Great Gatsby Curve: Explanation and Implications"
 description: "Explore the Great Gatsby Curve and learn its implications on income inequality and intergenerational mobility while assessing the role of algorithmic trading."
 ---
 

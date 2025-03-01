@@ -1,5 +1,5 @@
 ---
-title: "Float Shrink: Overview, Mechanism, and Examples (Algo Trading)"
+title: "Float Shrink: Overview, Mechanism, and Examples"
 description: "Explore the dynamics of float shrink in stock trading and learn how it affects market liquidity and investor strategies with algorithmic trading integration."
 ---
 

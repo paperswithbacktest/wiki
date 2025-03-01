@@ -1,5 +1,5 @@
 ---
-title: "Economic Conditions and Indicators (Algo Trading)"
+title: "Economic Conditions and Indicators"
 description: "Explore how economic conditions and indicators inform algorithmic trading strategies Find insights on GDP unemployment inflation and predictive models for trading"
 ---
 

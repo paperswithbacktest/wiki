@@ -1,5 +1,5 @@
 ---
-title: "Dividend Capture: Overview, Criticism, and Examples (Algo Trading)"
+title: "Dividend Capture: Overview, Criticism, and Examples"
 description: "Discover strategic insights into dividend capture in algorithmic trading with a focus on techniques benefits risks and examples to optimize your investment returns"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Point and Figure Charting (Algo Trading)"
+title: "Introduction to Point and Figure Charting"
 description: "Explore the unique method of point and figure charting for algorithmic trading focusing on price changes to enhance your trading strategy and decision-making."
 ---
 

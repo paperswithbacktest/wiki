@@ -1,5 +1,5 @@
 ---
-title: "Irish Pound: History and Comparison to the Euro (Algo Trading)"
+title: "Irish Pound: History and Comparison to the Euro"
 description: "Explore Ireland's currency history from the Irish pound to the euro and discover how algorithmic trading influences modern forex strategies and currency stability."
 ---
 

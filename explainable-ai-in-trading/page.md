@@ -1,5 +1,5 @@
 ---
-title: "Explainable AI in trading (Algo Trading)"
+title: "Explainable AI in trading"
 description: "Explore the role of explainable AI in trading to ensure transparency and trust. Understand its importance in risk management and regulatory compliance."
 ---
 

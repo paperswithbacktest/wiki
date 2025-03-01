@@ -1,5 +1,5 @@
 ---
-title: "Constant Proportion Portfolio Insurance (Algo Trading)"
+title: "Constant Proportion Portfolio Insurance"
 description: "Explore the dynamic investment strategy Constant Proportion Portfolio Insurance (CPPI) that merges portfolio protection with algorithmic trading to optimize growth and minimize risks."
 ---
 

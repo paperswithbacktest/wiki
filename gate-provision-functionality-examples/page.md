@@ -1,5 +1,5 @@
 ---
-title: "Gate Provision: Functionality and Examples (Algo Trading)"
+title: "Gate Provision: Functionality and Examples"
 description: "Explore the vital role of gate provisions in algorithmic trading risk management Protects funds from market volatility by controlling investor redemptions"
 ---
 

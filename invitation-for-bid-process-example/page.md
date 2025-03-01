@@ -1,5 +1,5 @@
 ---
-title: "Invitation for Bid: Process and Example (Algo Trading)"
+title: "Invitation for Bid: Process and Example"
 description: "Explore the intricacies of bidding processes and algorithmic trading Learn how advanced algorithms optimize bid strategies for efficient financial transactions"
 ---
 

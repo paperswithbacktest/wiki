@@ -1,5 +1,5 @@
 ---
-title: "Largest Exporter of Goods by Country (Algo Trading)"
+title: "Largest Exporter of Goods by Country"
 description: "Explore global trade dynamics with a focus on the largest exporting countries and the impact of algorithmic trading, highlighting economic strategies and innovations."
 ---
 

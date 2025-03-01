@@ -1,5 +1,5 @@
 ---
-title: "Conditional Probability: Formula and Applications (Algo Trading)"
+title: "Conditional Probability: Formula and Applications"
 description: "Explore the critical role of conditional probability in algorithmic trading Learn how traders use it to refine strategies and optimize risk management for success"
 ---
 

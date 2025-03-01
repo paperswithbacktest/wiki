@@ -1,5 +1,5 @@
 ---
-title: "Countervailing Duties in International Trade (Algo Trading)"
+title: "Countervailing Duties in International Trade"
 description: "Explore the role of countervailing duties in balancing international trade by addressing the challenges posed by foreign subsidies and the impact of algorithmic trading."
 ---
 

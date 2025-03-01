@@ -1,5 +1,5 @@
 ---
-title: "Form 1099-DIV: Filing Dividends and Distributions (Algo Trading)"
+title: "Form 1099-DIV: Filing Dividends and Distributions"
 description: "Learn about Form 1099-DIV for filing dividends and distributions in algorithmic trading Understand its importance for accurate tax reporting and optimizing returns"
 ---
 

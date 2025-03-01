@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Stochastic Calculus (Algo Trading)"
+title: "Introduction to Stochastic Calculus"
 description: Discover the intricacies of stochastic calculus and its application in algorithmic trading on this comprehensive page. Delve into the mathematical framework essential for modeling uncertainty in financial markets, where stochastic differential equations and concepts like Ito's Lemma play crucial roles. Explore how these tools enhance option pricing, interest rate modeling, and portfolio optimization, providing a robust foundation for understanding and executing financial models in the unpredictable landscape of quantitative finance.
 ---
 

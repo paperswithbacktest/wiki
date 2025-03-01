@@ -1,5 +1,5 @@
 ---
-title: "Goodwill to Assets Ratio: Overview and Analysis (Algo Trading)"
+title: "Goodwill to Assets Ratio: Overview and Analysis"
 description: "Discover the intersection of accounting ratios and algorithmic trading by understanding the goodwill to assets ratio's role in financial strategy and valuation."
 ---
 

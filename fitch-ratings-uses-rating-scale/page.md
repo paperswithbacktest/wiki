@@ -1,5 +1,5 @@
 ---
-title: "Fitch Ratings: Uses and Rating Scale (Algo Trading)"
+title: "Fitch Ratings: Uses and Rating Scale"
 description: "Explore the role of Fitch Ratings in the financial landscape focusing on its credit rating scale and its impact on algorithmic trading. Discover how Fitch's ratings, alongside Moody's and Standard & Poor's, underpin investment decisions and market dynamics. Understand the integration of these ratings into trading models to navigate financial markets effectively and optimize investment strategies. Learn about the significance of Fitch's rating scale and its influence on borrowing costs, market perceptions, and investment outcomes."
 ---
 

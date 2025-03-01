@@ -1,5 +1,5 @@
 ---
-title: "Essential Metrics for Real Estate Investment Analysis (Algo Trading)"
+title: "Essential Metrics for Real Estate Investment Analysis"
 description: "Explore key metrics for real estate investment analysis and the impact of algorithmic trading on market strategies for optimized returns and risk management."
 ---
 

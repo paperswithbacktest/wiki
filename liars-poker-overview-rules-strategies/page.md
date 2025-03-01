@@ -1,5 +1,5 @@
 ---
-title: "Liar's Poker: Overview, Rules, and Strategies (Algo Trading)"
+title: "Liar's Poker: Overview, Rules, and Strategies"
 description: "Discover Liar's Poker a strategic game fusing psychology and stats Intrigue awaits as you master rules and strategies linked to algo trading insights"
 ---
 

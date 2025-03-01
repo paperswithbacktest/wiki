@@ -1,5 +1,5 @@
 ---
-title: "Growth Stocks and Value Stocks: Overview and Examples (Algo Trading)"
+title: "Growth Stocks and Value Stocks: Overview and Examples"
 description: "Explore the key differences between value and growth stocks in a tech-driven trading landscape Discover how algorithmic trading reshapes investment strategies"
 ---
 

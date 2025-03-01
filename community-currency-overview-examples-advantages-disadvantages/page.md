@@ -1,5 +1,5 @@
 ---
-title: "Community Currency: Overview, Examples, Advantages, and Disadvantages (Algo Trading)"
+title: "Community Currency: Overview, Examples, Advantages, and Disadvantages"
 description: "Explore how community currencies can strengthen local economies through increased spending and reduced dependence on global markets and centralized systems."
 ---
 

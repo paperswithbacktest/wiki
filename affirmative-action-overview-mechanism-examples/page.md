@@ -1,5 +1,5 @@
 ---
-title: "Affirmative Action: Overview, Mechanism, and Examples (Algo Trading)"
+title: "Affirmative Action: Overview, Mechanism, and Examples"
 description: "Explore the unique intersection of affirmative action and algorithmic trading, highlighting how diversity policies are reshaping the financial sector. Understand the role of inclusive strategies in promoting innovation and ethical practices within algorithmic trading while addressing historical inequalities. Discover how diverse teams contribute to more robust financial technologies and create equitable opportunities in an evolving industry landscape."
 ---
 

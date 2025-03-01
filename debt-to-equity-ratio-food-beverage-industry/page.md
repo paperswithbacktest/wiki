@@ -1,5 +1,5 @@
 ---
-title: "Debt-to-Equity Ratio in the Food and Beverage Industry (Algo Trading)"
+title: "Debt-to-Equity Ratio in the Food and Beverage Industry"
 description: "Explore the crucial role of the debt-to-equity ratio in assessing financial health and algorithmic trading strategies within the volatile food and beverage industry."
 ---
 

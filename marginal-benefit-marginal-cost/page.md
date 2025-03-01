@@ -1,5 +1,5 @@
 ---
-title: "Marginal Benefit and Marginal Cost (Algo Trading)"
+title: "Marginal Benefit and Marginal Cost"
 description: "Explore how marginal benefit and cost principles enhance algorithmic trading strategies. Learn to optimize performance by balancing trade decisions efficiently."
 ---
 

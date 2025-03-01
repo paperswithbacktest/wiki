@@ -1,5 +1,5 @@
 ---
-title: "Chameleon Option (Algo Trading)"
+title: "Chameleon Option"
 description: "Explore the flexibility of chameleon options in algo trading which offers adaptable strategies for improved efficiency and profitability in volatile markets."
 ---
 

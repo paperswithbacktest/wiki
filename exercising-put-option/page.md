@@ -1,5 +1,5 @@
 ---
-title: "Exercising a Put Option (Algo Trading)"
+title: "Exercising a Put Option"
 description: "Discover the potential of algorithmic trading in exercising put options. Learn how to optimize strategies, manage risks, and maximize returns in dynamic markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Emerging Versus Frontier Markets (Algo Trading)"
+title: "Emerging Versus Frontier Markets"
 description: "Explore the opportunities and risks of investing in emerging and frontier markets with insights on how algorithmic trading can optimize strategies for high returns."
 ---
 

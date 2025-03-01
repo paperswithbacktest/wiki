@@ -1,5 +1,5 @@
 ---
-title: "Guide to Options Trading (Algo Trading)"
+title: "Guide to Options Trading"
 description: "Explore options trading strategies with algorithmic trading insights Optimize trading with tech-driven approaches for risk management and speculative success"
 ---
 

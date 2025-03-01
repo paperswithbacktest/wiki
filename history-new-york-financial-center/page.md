@@ -1,5 +1,5 @@
 ---
-title: "History of New York as a Financial Center (Algo Trading)"
+title: "History of New York as a Financial Center"
 description: "Explore New York's rich financial history and its evolution into a global leader in finance and algo trading shaping modern economic landscapes."
 ---
 

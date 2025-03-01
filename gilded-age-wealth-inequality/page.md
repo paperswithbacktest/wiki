@@ -1,5 +1,5 @@
 ---
-title: "Gilded Age: Wealth and Inequality (Algo Trading)"
+title: "Gilded Age: Wealth and Inequality"
 description: "Explore the economic history of the Gilded Age focusing on wealth inequality and its modern parallels with algorithmic trading shaping today's financial disparities."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Fully Valued in Finance (Algo Trading)"
+title: "Fully Valued in Finance"
 description: "Explore the dynamic world of finance where investing, valuation, and algorithmic trading intersect to offer innovative strategies for modern investors."
 ---
 

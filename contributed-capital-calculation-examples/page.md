@@ -1,5 +1,5 @@
 ---
-title: "Contributed Capital: Calculation and Examples (Algo Trading)"
+title: "Contributed Capital: Calculation and Examples"
 description: "Explore contributed capital's pivotal role in algo trading as it influences financial strategies and decisions insightful for traders navigating complex markets."
 ---
 

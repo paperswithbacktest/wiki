@@ -1,5 +1,5 @@
 ---
-title: "Endogenous Variable in Economics (Algo Trading)"
+title: "Endogenous Variable in Economics"
 description: "Explore the role of endogenous variables in economics and algorithmic trading. Understand their impact on market predictions and trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Lan Zhang (Algo Trading)"
+title: "Lan Zhang"
 description: "Lan Zhang is a leader in data science and algorithmic trading using her expertise in statistics and analytics to innovate financial services and trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Forward Contract: Usage, Risks, and Examples (Algo Trading)"
+title: "Forward Contract: Usage, Risks, and Examples"
 description: "Explore the essential role of forward contracts in algorithmic trading by understanding their applications, risks, and strategic use for effective risk management."
 ---
 

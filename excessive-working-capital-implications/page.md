@@ -1,5 +1,5 @@
 ---
-title: "Implications of Excessive Working Capital (Algo Trading)"
+title: "Implications of Excessive Working Capital"
 description: "Explore the impact of excessive working capital in algorithmic trading and discover strategies to improve financial management and operational efficiency."
 ---
 

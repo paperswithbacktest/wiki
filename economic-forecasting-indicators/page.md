@@ -1,5 +1,5 @@
 ---
-title: "Economic Forecasting and Indicators (Algo Trading)"
+title: "Economic Forecasting and Indicators"
 description: "Explore the application of economic forecasting and indicators in algorithmic trading. Learn how GDP, inflation, and unemployment data drive predictive models."
 ---
 

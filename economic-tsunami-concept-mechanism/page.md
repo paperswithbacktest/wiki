@@ -1,5 +1,5 @@
 ---
-title: "Economic Tsunami: Concept and Mechanism (Algo Trading)"
+title: "Economic Tsunami: Concept and Mechanism"
 description: "Explore the concept of economic tsunamis and the role of algorithmic trading in navigating financial crises and globalization impacts in modern markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Like-Kind Property and IRS 1031 Exchange Rules (Algo Trading)"
+title: "Like-Kind Property and IRS 1031 Exchange Rules"
 description: "Explore the nuances of IRS 1031 exchanges and algorithmic trading to optimize investments and defer taxes while enhancing portfolio efficiency."
 ---
 

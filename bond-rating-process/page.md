@@ -1,5 +1,5 @@
 ---
-title: "Bond Rating Process (Algo Trading)"
+title: "Bond Rating Process"
 description: "Explore the dynamic intersection of bond ratings, credit assessments, and algorithmic trading to elevate your financial strategies and optimize market decisions."
 ---
 

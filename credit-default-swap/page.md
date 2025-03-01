@@ -1,5 +1,5 @@
 ---
-title: "Credit Default Swap (Algo Trading)"
+title: "Credit Default Swap"
 description: "Explore the intricacies of credit default swaps and algorithmic trading in the evolving derivatives market. Learn about risk management strategies and opportunities."
 ---
 

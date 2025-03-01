@@ -1,5 +1,5 @@
 ---
-title: "Economic Value Added: Analysis, Advantages, and Drawbacks (Algo Trading)"
+title: "Economic Value Added: Analysis, Advantages, and Drawbacks"
 description: "Explore Economic Value Added as a financial metric for assessing profitability above capital cost and its impact on algorithmic trading strategies for businesses."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Indian Stock Market: Exchanges and Indexes Overview (Algo Trading)"
+title: "Indian Stock Market: Exchanges and Indexes Overview"
 description: "Explore the Indian stock market's exchanges and indexes with a focus on algorithmic trading. Discover how technology shapes trading and investment strategies."
 ---
 

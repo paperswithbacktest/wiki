@@ -1,5 +1,5 @@
 ---
-title: "Exchange-Traded Managed Fund (Algo Trading)"
+title: "Exchange-Traded Managed Fund"
 description: "Explore the synergy between managed funds ETFs and algorithmic trading to uncover new investment strategies enhance portfolio performance and achieve financial goals."
 ---
 

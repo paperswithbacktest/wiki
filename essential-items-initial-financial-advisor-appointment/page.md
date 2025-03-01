@@ -1,5 +1,5 @@
 ---
-title: "Essential Items for Your Initial Financial Advisor Appointment (Algo Trading)"
+title: "Essential Items for Your Initial Financial Advisor Appointment"
 description: "Prepare for your first financial advisor meeting on algo trading with practical tips and strategies to maximize the benefits of personalized advice and guidance."
 ---
 

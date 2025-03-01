@@ -1,5 +1,5 @@
 ---
-title: "Cost of Living: Calculation, Indices, and Examples (Algo Trading)"
+title: "Cost of Living: Calculation, Indices, and Examples"
 description: "Explore the significance of the cost of living index and its impact on personal finance and strategic decisions for businesses. Learn how this essential economic metric, which quantifies living expenses to sustain a certain lifestyle, influences budgeting, relocation, and compensation. Discover its intricate relationship with algorithmic trading, revealing how fluctuations in economic indices shape market trends and trading strategies. This article provides valuable insights into navigating modern finance, helping individuals and investors refine strategies and adapt to economic shifts for better financial planning and market alignment."
 ---
 

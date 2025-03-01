@@ -1,5 +1,5 @@
 ---
-title: "Bearer Bonds: Function and Value (Algo Trading)"
+title: "Bearer Bonds: Function and Value"
 description: "Explore the essentials of bearer bonds and algorithmic trading. Understand the anonymous nature and declining use of bearer bonds, and learn about bond valuation."
 ---
 

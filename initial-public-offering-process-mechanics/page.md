@@ -1,5 +1,5 @@
 ---
-title: "Initial Public Offering: Process and Mechanics (Algo Trading)"
+title: "Initial Public Offering: Process and Mechanics"
 description: "Explore the IPO process and the role of algorithmic trading in transforming stock market dynamics Learn how public companies and investors navigate these changes"
 ---
 

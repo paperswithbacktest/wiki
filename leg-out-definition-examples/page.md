@@ -1,5 +1,5 @@
 ---
-title: "Leg Out: Definition and Examples (Algo Trading)"
+title: "Leg Out: Definition and Examples"
 description: "Discover how 'Leg Out' bridges strategy in cricket and algorithmic trading. Learn its significance, tactics, and how these fields intersect for strategic advantage."
 ---
 

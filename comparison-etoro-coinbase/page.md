@@ -1,5 +1,5 @@
 ---
-title: "Comparison of eToro and Coinbase (Algo Trading)"
+title: "Comparison of eToro and Coinbase"
 description: "Explore the algorithmic trading benefits of eToro and Coinbase two top platforms for cryptocurrency trading. Understand features that optimize your trading strategy."
 ---
 

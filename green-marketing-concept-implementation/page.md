@@ -1,5 +1,5 @@
 ---
-title: "Green Marketing: Concept and Implementation (Algo Trading)"
+title: "Green Marketing: Concept and Implementation"
 description: "Explore sustainable marketing strategies that align business practices with environmental and social responsibility to meet eco-conscious consumer expectations."
 ---
 

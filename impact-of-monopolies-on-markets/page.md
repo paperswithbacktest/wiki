@@ -1,5 +1,5 @@
 ---
-title: "Impact of Monopolies on Markets (Algo Trading)"
+title: "Impact of Monopolies on Markets"
 description: "Explore the impacts of monopolies on market dynamics and algo trading uncovering how pricing strategies and technological advances shape modern economies."
 ---
 

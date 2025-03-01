@@ -1,5 +1,5 @@
 ---
-title: "Candlestick Chart Basics (Algo Trading)"
+title: "Candlestick Chart Basics"
 description: "Learn the essentials of candlestick charts in algorithmic trading to enhance your trading strategies and gain insights into market trends and trader sentiments."
 ---
 

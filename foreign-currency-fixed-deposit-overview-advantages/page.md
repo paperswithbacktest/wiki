@@ -1,5 +1,5 @@
 ---
-title: "Foreign Currency Fixed Deposit: Overview and Advantages (Algo Trading)"
+title: "Foreign Currency Fixed Deposit: Overview and Advantages"
 description: "Explore the benefits of Foreign Currency Fixed Deposits including portfolio diversification and potential gains from currency variation while managing forex risks."
 ---
 

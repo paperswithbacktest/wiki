@@ -1,5 +1,5 @@
 ---
-title: "Advantages and Disadvantages of Alternative Investments (Algo Trading)"
+title: "Advantages and Disadvantages of Alternative Investments"
 description: "Explore the benefits and drawbacks of alternative investments and algorithmic trading to enhance portfolio diversification and efficiency in investment strategies."
 ---
 

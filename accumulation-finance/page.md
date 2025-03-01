@@ -1,5 +1,5 @@
 ---
-title: "Accumulation in Finance (Algo Trading)"
+title: "Accumulation in Finance"
 description: "Explore the role of accumulation finance and algorithmic trading in building wealth Use strategic planning and tech to optimize investments and enhance returns"
 ---
 

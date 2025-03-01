@@ -1,5 +1,5 @@
 ---
-title: "Determinants of Option Pricing (Algo Trading)"
+title: "Determinants of Option Pricing"
 description: "Explore the key factors influencing option pricing and discover how algorithmic trading enhances strategy in the dynamic world of financial derivatives."
 ---
 

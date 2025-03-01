@@ -1,5 +1,5 @@
 ---
-title: "Impact of Federal and State Law on the Economy (Algo Trading)"
+title: "Impact of Federal and State Law on the Economy"
 description: "Explore how federal and state laws impact economic indicators and algorithmic trading strategies especially focusing on the implications of minimum wage legislation."
 ---
 

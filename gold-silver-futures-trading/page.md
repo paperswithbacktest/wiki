@@ -1,5 +1,5 @@
 ---
-title: "Gold and Silver Futures Trading (Algo Trading)"
+title: "Gold and Silver Futures Trading"
 description: "Discover the dynamics of gold and silver futures trading, leveraging algorithmic strategies to maximize opportunities in today's commodities markets."
 ---
 

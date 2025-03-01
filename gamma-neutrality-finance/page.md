@@ -1,5 +1,5 @@
 ---
-title: "Gamma Neutrality in Finance (Algo Trading)"
+title: "Gamma Neutrality in Finance"
 description: "Explore the benefits of Gamma Neutrality in options trading, a key risk management strategy for both traditional and algorithmic traders, in volatile markets."
 ---
 

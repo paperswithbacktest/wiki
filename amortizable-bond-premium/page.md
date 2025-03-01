@@ -1,5 +1,5 @@
 ---
-title: "Amortizable Bond Premium (Algo Trading)"
+title: "Amortizable Bond Premium"
 description: "Explore the intricate dynamics of bond finance and algorithmic trading Learn how amortizable bond premiums affect taxes and enhance trading strategies"
 ---
 

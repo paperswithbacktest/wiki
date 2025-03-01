@@ -1,5 +1,5 @@
 ---
-title: "Bananacoin History and Functionality (Algo Trading)"
+title: "Bananacoin History and Functionality"
 description: "Explore the unique value of Bananacoin a cryptocurrency backed by organic bananas. Delve into its blockchain technology and the impact of algo trading on its market role."
 ---
 

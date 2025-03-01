@@ -1,5 +1,5 @@
 ---
-title: "Comparison of ROCE and ROI (Algo Trading)"
+title: "Comparison of ROCE and ROI"
 description: "Explore the crucial role of ROCE and ROI in investment analysis and algorithmic trading as they provide insights into profitability and capital efficiency. Gain a comprehensive understanding of their distinct strengths and applications, helping investors maximize returns and optimize trading strategies in a competitive financial landscape."
 ---
 

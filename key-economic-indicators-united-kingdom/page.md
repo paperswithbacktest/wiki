@@ -1,5 +1,5 @@
 ---
-title: "Key Economic Indicators of the United Kingdom (Algo Trading)"
+title: "Key Economic Indicators of the United Kingdom"
 description: "Explore how key UK economic indicators like GDP and inflation impact algorithmic trading and influence strategic decisions for investors and policymakers alike."
 ---
 

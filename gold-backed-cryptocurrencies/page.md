@@ -1,5 +1,5 @@
 ---
-title: "Gold-Backed Cryptocurrencies (Algo Trading)"
+title: "Gold-Backed Cryptocurrencies"
 description: "Explore gold-backed cryptocurrencies bridging traditional value with modern tech for stability in crypto investments with algorithmic trading strategies."
 ---
 

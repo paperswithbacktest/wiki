@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Federal and State Minimum Wage Laws and Exceptions (Algo Trading)"
+title: "Comparison of Federal and State Minimum Wage Laws and Exceptions"
 description: "Explore the impact of federal and state minimum wage laws and exceptions on algorithmic trading. Understand how varied wage standards shape economic indicators and trading strategies."
 ---
 

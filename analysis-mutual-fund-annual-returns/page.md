@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Mutual Fund Annual Returns (Algo Trading)"
+title: "Analysis of Mutual Fund Annual Returns"
 description: "Explore the key aspects of mutual fund returns and algorithmic trading and understand how these factors influence investment strategies and portfolio performance."
 ---
 

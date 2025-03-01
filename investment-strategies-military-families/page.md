@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategies for Military Families (Algo Trading)"
+title: "Investment Strategies for Military Families"
 description: "Discover tailored investment strategies for military families including diversification and algorithmic trading to ensure financial stability amid a unique lifestyle."
 ---
 

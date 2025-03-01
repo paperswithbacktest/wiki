@@ -1,5 +1,5 @@
 ---
-title: "Davos World Economic Forum: Overview and Mechanisms (Algo Trading)"
+title: "Davos World Economic Forum: Overview and Mechanisms"
 description: "Explore how the Davos World Economic Forum investigates into the role of algorithmic trading and its profound impact on global markets and economic policies."
 ---
 

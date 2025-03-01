@@ -1,5 +1,5 @@
 ---
-title: "Instamine in Cryptocurrency (Algo Trading)"
+title: "Instamine in Cryptocurrency"
 description: "Explore the dynamics of instamine in cryptocurrency, its impact on market fairness, the role of algo trading, and how these shape the digital economy."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Matching Strategy: Principles and Example (Algo Trading)"
+title: "Matching Strategy: Principles and Example"
 description: "Discover how investment strategy matching, financial planning, and algorithmic trading combine to enhance portfolio management, optimize gains, and reduce risks."
 ---
 

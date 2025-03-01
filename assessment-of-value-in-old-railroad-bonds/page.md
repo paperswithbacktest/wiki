@@ -1,5 +1,5 @@
 ---
-title: "Assessment of Value in Old Railroad Bonds (Algo Trading)"
+title: "Assessment of Value in Old Railroad Bonds"
 description: "Explore the historical significance of antique railroad bonds and the modern impact of algorithmic trading in bond markets enhancing investment strategies."
 ---
 

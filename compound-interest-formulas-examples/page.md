@@ -1,5 +1,5 @@
 ---
-title: "Compound Interest: Formulas and Examples (Algo Trading)"
+title: "Compound Interest: Formulas and Examples"
 description: "Explore how compound interest and algorithmic trading can enhance investment and trading strategies This article provides formulas examples and insights for optimizing financial growth"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Franked Dividends: Types and Examples (Algo Trading)"
+title: "Franked Dividends: Types and Examples"
 description: "Discover how franked dividends can optimize your investment strategy by providing tax credits and reducing double taxation impacting your overall returns."
 ---
 

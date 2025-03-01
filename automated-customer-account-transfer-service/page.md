@@ -1,5 +1,5 @@
 ---
-title: "Automated Customer Account Transfer Service (Algo Trading)"
+title: "Automated Customer Account Transfer Service"
 description: "ACATS, an NSCC innovation, streamlines asset transfers between brokerage accounts, enhancing efficiency and reducing costs, vital for traders and investors."
 ---
 

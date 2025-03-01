@@ -1,5 +1,5 @@
 ---
-title: "Economic Shocks and Their Effects (Algo Trading)"
+title: "Economic Shocks and Their Effects"
 description: "Explore the impact of economic shocks on markets and the crucial role of algorithmic trading in mitigating risks and stabilizing economies during such disruptions."
 ---
 

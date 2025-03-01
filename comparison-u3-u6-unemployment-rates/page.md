@@ -1,5 +1,5 @@
 ---
-title: "Comparison of U-3 and U-6 Unemployment Rates (Algo Trading)"
+title: "Comparison of U-3 and U-6 Unemployment Rates"
 description: "Explore how U-3 and U-6 unemployment rates impact economic analysis and algo trading strategies by providing insights into market movements and labor market nuances."
 ---
 

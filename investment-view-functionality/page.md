@@ -1,5 +1,5 @@
 ---
-title: "Investment View and Functionality (Algo Trading)"
+title: "Investment View and Functionality"
 description: "Discover the synergy between investment views, finance, and algorithmic trading to enhance investment outcomes with strategic insights and advanced financial tools."
 ---
 

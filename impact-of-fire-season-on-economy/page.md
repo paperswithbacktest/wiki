@@ -1,5 +1,5 @@
 ---
-title: "Impact of Fire Season on the Economy (Algo Trading)"
+title: "Impact of Fire Season on the Economy"
 description: "Explore the impact of wildfires on global economies and discover how algorithmic trading can aid in managing market fluctuations caused by these natural disasters."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Economics of the Middle Class in Mexico (Algo Trading)"
+title: "Economics of the Middle Class in Mexico"
 description: "Explore the economic dynamics of Mexico's middle class and the role of algorithmic trading Uncover how these factors shape consumption and investment trends"
 ---
 

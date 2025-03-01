@@ -1,5 +1,5 @@
 ---
-title: "Homemade Leverage and Its Mechanism (Algo Trading)"
+title: "Homemade Leverage and Its Mechanism"
 description: "Explore homemade leverage, corporate capital structure, and algorithmic trading. Learn how these elements enhance investment strategies and outcomes."
 ---
 

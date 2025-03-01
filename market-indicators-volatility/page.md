@@ -1,5 +1,5 @@
 ---
-title: "Market Indicators of Volatility (Algo Trading)"
+title: "Market Indicators of Volatility"
 description: "Explore market indicators reflecting volatility crucial for algorithmic trading. Understand economic influences, assess risks, and seize opportunities amid market dynamics."
 ---
 

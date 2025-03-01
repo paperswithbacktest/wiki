@@ -1,5 +1,5 @@
 ---
-title: "Currency Futures: Functionality in Trade and Investment (Algo Trading)"
+title: "Currency Futures: Functionality in Trade and Investment"
 description: "Explore the synergy of currency futures and algorithmic trading to manage forex risks and optimize trades Dive into strategies tools and insights for informed decisions"
 ---
 

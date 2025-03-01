@@ -1,5 +1,5 @@
 ---
-title: "Alpha Generator in International Investments (Algo Trading)"
+title: "Alpha Generator in International Investments"
 description: "Explore the pivotal role of alpha in international investments and algorithmic trading as a means to maximize portfolio returns beyond market benchmarks."
 ---
 

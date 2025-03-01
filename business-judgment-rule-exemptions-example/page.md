@@ -1,5 +1,5 @@
 ---
-title: "Business Judgment Rule: Exemptions and Example (Algo Trading)"
+title: "Business Judgment Rule: Exemptions and Example"
 description: "Explore the interplay between the Business Judgment Rule and algorithmic trading uncovering legal exemptions and the implications for corporate governance in modern finance."
 ---
 

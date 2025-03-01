@@ -1,5 +1,5 @@
 ---
-title: "Inside Market: Overview and Functionality (Algo Trading)"
+title: "Inside Market: Overview and Functionality"
 description: "Explore how algorithmic trading transforms financial markets by enhancing efficiency and liquidity. Understand the role of the inside market in optimizing trading strategies."
 ---
 

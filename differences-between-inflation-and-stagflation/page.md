@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Inflation and Stagflation (Algo Trading)"
+title: "Differences Between Inflation and Stagflation"
 description: "Understand the differences between inflation and stagflation and how algorithmic trading strategies can navigate these economic challenges for better investment decisions."
 ---
 

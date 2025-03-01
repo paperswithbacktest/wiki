@@ -1,5 +1,5 @@
 ---
-title: "Eurosclerosis: Concept and Mechanism (Algo Trading)"
+title: "Eurosclerosis: Concept and Mechanism"
 description: "Explore the concept of Eurosclerosis in Europe's economy marked by stagnation due to regulation and labor market rigidities. Discover its causes and implications."
 ---
 

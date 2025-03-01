@@ -1,5 +1,5 @@
 ---
-title: "Hurdle Rate: Business and Investment Applications (Algo Trading)"
+title: "Hurdle Rate: Business and Investment Applications"
 description: "Explore how hurdle rates and algorithmic trading revolutionize investment strategies to maximize returns and minimize risks in today's dynamic financial markets."
 ---
 

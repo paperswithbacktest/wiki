@@ -1,5 +1,5 @@
 ---
-title: "Forex Arbitrage: Overview and Challenges (Algo Trading)"
+title: "Forex Arbitrage: Overview and Challenges"
 description: "Explore Forex arbitrage and algorithmic trading strategies that exploit currency value discrepancies for profit. Understand the challenges and automation benefits."
 ---
 

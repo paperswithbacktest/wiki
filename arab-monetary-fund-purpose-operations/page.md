@@ -1,5 +1,5 @@
 ---
-title: "Arab Monetary Fund: Purpose and Operations (Algo Trading)"
+title: "Arab Monetary Fund: Purpose and Operations"
 description: "Discover how the Arab Monetary Fund fosters economic growth in the MENA region and its impact on the rise of algorithmic trading for enhanced market efficiency."
 ---
 

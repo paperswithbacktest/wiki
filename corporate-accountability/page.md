@@ -1,5 +1,5 @@
 ---
-title: "Corporate Accountability (Algo Trading)"
+title: "Corporate Accountability"
 description: "Explore the intersection of ethics governance and algorithmic trading in the corporate world emphasizing accountability, transparency, and stakeholder trust."
 ---
 

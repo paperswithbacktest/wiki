@@ -1,5 +1,5 @@
 ---
-title: "Imputed Cost and Opportunity Cost in Accounting (Algo Trading)"
+title: "Imputed Cost and Opportunity Cost in Accounting"
 description: "Explore the impact of opportunity and imputed costs in accounting and algorithmic trading to optimize resource allocation and enhance financial strategies."
 ---
 

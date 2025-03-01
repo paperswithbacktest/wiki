@@ -1,5 +1,5 @@
 ---
-title: "Basing Point Pricing System (Algo Trading)"
+title: "Basing Point Pricing System"
 description: "Explore the basing point pricing system with a unique focus on managing geographic pricing disparities for heavy goods like cement and steel."
 ---
 

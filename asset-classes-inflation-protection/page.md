@@ -1,5 +1,5 @@
 ---
-title: "Asset Classes for Inflation Protection (Algo Trading)"
+title: "Asset Classes for Inflation Protection"
 description: "Explore strategies for inflation protection and algorithmic trading to ensure portfolio resilience and growth amidst economic uncertainties and market volatility."
 ---
 

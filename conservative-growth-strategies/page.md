@@ -1,5 +1,5 @@
 ---
-title: "Conservative Growth Strategies (Algo Trading)"
+title: "Conservative Growth Strategies"
 description: "Explore how algorithmic trading complements conservative growth strategies for stable long-term returns. Learn its role in minimizing risks and enhancing precision."
 ---
 

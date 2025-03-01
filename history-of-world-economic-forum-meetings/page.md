@@ -1,5 +1,5 @@
 ---
-title: "History of the World Economic Forum Meetings (Algo Trading)"
+title: "History of the World Economic Forum Meetings"
 description: "Explore the impactful history of the World Economic Forum's annual meetings, focusing on global economic and social issues and algorithmic trading debates."
 ---
 

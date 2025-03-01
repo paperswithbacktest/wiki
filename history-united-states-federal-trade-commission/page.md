@@ -1,5 +1,5 @@
 ---
-title: "History of the United States Federal Trade Commission (Algo Trading)"
+title: "History of the United States Federal Trade Commission"
 description: "Explore the role of the FTC in regulating algorithmic trading and ensuring competitive practices in financial markets while safeguarding consumer interests."
 ---
 

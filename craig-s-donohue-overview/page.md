@@ -1,5 +1,5 @@
 ---
-title: "Craig S. Donohue Overview (Algo Trading)"
+title: "Craig S. Donohue Overview"
 description: "Discover the achievements of Craig S. Donohue, chairman of the Options Clearing Corporation, renowned for his transformative impact on algorithmic trading and market dynamics."
 ---
 

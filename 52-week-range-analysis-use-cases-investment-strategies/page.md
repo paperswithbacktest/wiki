@@ -1,5 +1,5 @@
 ---
-title: "52-Week Range: Analysis, Use Cases, Investment Strategies (Algo Trading)"
+title: "52-Week Range: Analysis, Use Cases, Investment Strategies"
 description: "Explore investment strategies utilizing the 52-week range for enhanced trading decisions and risk management with a focus on algorithmic trading insights."
 ---
 

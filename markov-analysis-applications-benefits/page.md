@@ -1,5 +1,5 @@
 ---
-title: "Markov Analysis: Applications and Benefits (Algo Trading)"
+title: "Markov Analysis: Applications and Benefits"
 description: "Explore the benefits and applications of Markov analysis in algorithmic trading See how this tool helps forecast market movements and optimize trading strategies"
 ---
 

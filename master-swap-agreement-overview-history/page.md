@@ -1,5 +1,5 @@
 ---
-title: "Master Swap Agreement: Overview and Historical Context (Algo Trading)"
+title: "Master Swap Agreement: Overview and Historical Context"
 description: "Explore the Master Swap Agreement's history and its pivotal role in algorithmic trading by understanding its structure's evolution in OTC derivatives."
 ---
 

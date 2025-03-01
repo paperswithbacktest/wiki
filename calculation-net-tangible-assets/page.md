@@ -1,5 +1,5 @@
 ---
-title: "Calculation of Net Tangible Assets (Algo Trading)"
+title: "Calculation of Net Tangible Assets"
 description: "Discover the importance of net tangible assets in financial metrics and algorithmic trading to better assess company value and optimize investment strategies."
 ---
 

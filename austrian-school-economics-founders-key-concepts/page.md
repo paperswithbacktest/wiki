@@ -1,5 +1,5 @@
 ---
-title: "Austrian School of Economics: Founders and Key Concepts (Algo Trading)"
+title: "Austrian School of Economics: Founders and Key Concepts"
 description: "Explore the principles of Austrian Economics and their relevance to algorithmic trading while examining key thinkers like Ludwig von Mises and their impact on ideology."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Experimental Economics: Concepts and Mechanisms (Algo Trading)"
+title: "Experimental Economics: Concepts and Mechanisms"
 description: "Explore the intersection of experimental and behavioral economics with algorithmic trading Discover how these fields shape financial strategies and market dynamics"
 ---
 

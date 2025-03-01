@@ -1,5 +1,5 @@
 ---
-title: "Gini Index and Global Gini Coefficients (Algo Trading)"
+title: "Gini Index and Global Gini Coefficients"
 description: "Explore the significance of the Gini Index and automated trading in assessing global economic inequality. Understand its implications for policymakers and markets."
 ---
 

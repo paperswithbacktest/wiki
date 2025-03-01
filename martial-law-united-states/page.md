@@ -1,5 +1,5 @@
 ---
-title: "Martial Law in the United States (Algo Trading)"
+title: "Martial Law in the United States"
 description: "Discover how martial law and algorithmic trading, two seemingly unrelated concepts, have distinctly shaped America's legal and financial landscapes. Explore the historical instances and legal implications of martial law in the U.S., alongside the evolution and challenges of algorithmic trading within financial markets. Learn how each reflects a balance between authority, technological advancement, and the protection of civil liberties and market integrity."
 ---
 

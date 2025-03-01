@@ -1,5 +1,5 @@
 ---
-title: "Investment Crowdfunding: Overview, Functionality, and Benefits (Algo Trading)"
+title: "Investment Crowdfunding: Overview, Functionality, and Benefits"
 description: "Explore how investment crowdfunding empowers entrepreneurs to raise capital while offering investors diverse opportunities. Discover its synergy with algorithmic trading."
 ---
 

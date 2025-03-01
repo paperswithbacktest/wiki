@@ -1,5 +1,5 @@
 ---
-title: "Financial Innovation and Its Impact (Algo Trading)"
+title: "Financial Innovation and Its Impact"
 description: "Discover how financial innovation and algorithmic trading are transforming the economic landscape by enhancing efficiency, market liquidity, and financial inclusivity."
 ---
 

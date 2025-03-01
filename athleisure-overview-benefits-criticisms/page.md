@@ -1,5 +1,5 @@
 ---
-title: "Athleisure: Overview, Benefits, and Criticisms (Algo Trading)"
+title: "Athleisure: Overview, Benefits, and Criticisms"
 description: "Explore how athleisure merges style and function impacting both fashion and financial markets as algorithmic trading shapes new investment opportunities."
 ---
 

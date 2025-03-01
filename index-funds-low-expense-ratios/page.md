@@ -1,5 +1,5 @@
 ---
-title: "Index Funds With Low Expense Ratios (Algo Trading)"
+title: "Index Funds With Low Expense Ratios"
 description: "Discover the benefits of index funds with low expense ratios and algo trading to maximize returns. Learn how this strategy can enhance your investment portfolio."
 ---
 

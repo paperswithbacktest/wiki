@@ -1,5 +1,5 @@
 ---
-title: "Advances and Declines: Mechanisms and Impacts (Algo Trading)"
+title: "Advances and Declines: Mechanisms and Impacts"
 description: "Explore the intricate world of algorithmic trading with insights into declines, mechanisms, and recent advances to navigate and optimize trading strategies."
 ---
 

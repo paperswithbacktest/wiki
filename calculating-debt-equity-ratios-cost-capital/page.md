@@ -1,5 +1,5 @@
 ---
-title: "Calculating Debt and Equity Ratios in Cost of Capital (Algo Trading)"
+title: "Calculating Debt and Equity Ratios in Cost of Capital"
 description: "Explore the vital role of debt and equity ratios in cost of capital strategies within algorithmic trading to enhance financial decision-making and risk management."
 ---
 

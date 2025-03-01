@@ -1,5 +1,5 @@
 ---
-title: "Growth Fund: Types and Performance (Algo Trading)"
+title: "Growth Fund: Types and Performance"
 description: "Explore the benefits of growth funds and algorithmic trading to boost investment performance. Understand various growth fund types and their integration with algo trading."
 ---
 

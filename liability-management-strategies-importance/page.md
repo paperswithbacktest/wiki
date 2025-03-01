@@ -1,5 +1,5 @@
 ---
-title: "Liability Management: Strategies and Importance (Algo Trading)"
+title: "Liability Management: Strategies and Importance"
 description: "Explore effective liability management and risk strategies in algo trading to enhance financial stability. Gain insights into asset-liability alignment and risk mitigation."
 ---
 

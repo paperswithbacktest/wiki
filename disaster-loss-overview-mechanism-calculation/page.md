@@ -1,5 +1,5 @@
 ---
-title: "Disaster Loss: Overview, Mechanism, and Calculation (Algo Trading)"
+title: "Disaster Loss: Overview, Mechanism, and Calculation"
 description: "Explore the intersection of disaster management and algorithmic trading to optimize risk management and financial recovery strategies after catastrophic events."
 ---
 

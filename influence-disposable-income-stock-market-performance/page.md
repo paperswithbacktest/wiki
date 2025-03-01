@@ -1,5 +1,5 @@
 ---
-title: "Influence of Disposable Income on Stock Market Performance (Algo Trading)"
+title: "Influence of Disposable Income on Stock Market Performance"
 description: "Explore how disposable income influences stock market performance, affecting consumer spending, corporate earnings, and valuation trends in algo trading."
 ---
 

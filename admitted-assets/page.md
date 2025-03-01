@@ -1,5 +1,5 @@
 ---
-title: "Admitted Assets (Algo Trading)"
+title: "Admitted Assets"
 description: "Explore the intersection of insurance accounting and algorithmic trading in asset management Dive into admitted assets their valuation and implications for solvency"
 ---
 

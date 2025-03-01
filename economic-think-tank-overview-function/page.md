@@ -1,5 +1,5 @@
 ---
-title: "Economic Think Tank: Overview and Function (Algo Trading)"
+title: "Economic Think Tank: Overview and Function"
 description: "Explore how economic think tanks shape policy and algorithmic trading innovations driving market operations and financial regulation for future growth."
 ---
 

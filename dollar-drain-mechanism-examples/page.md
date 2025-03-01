@@ -1,5 +1,5 @@
 ---
-title: "Dollar Drain: Mechanism and Examples (Algo Trading)"
+title: "Dollar Drain: Mechanism and Examples"
 description: "Explore the concept of Dollar Drain and its examples in algo trading Understand how U.S. dollar outflows affect economies and financial markets today"
 ---
 

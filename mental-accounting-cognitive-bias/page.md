@@ -1,5 +1,5 @@
 ---
-title: "Mental Accounting and Cognitive Bias (Algo Trading)"
+title: "Mental Accounting and Cognitive Bias"
 description: "Explore how cognitive biases like mental accounting affect algorithmic trading decisions by skewing perceptions and strategies Learn to mitigate their impact"
 ---
 

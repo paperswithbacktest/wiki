@@ -1,5 +1,5 @@
 ---
-title: "The Decline of Hedge Funds (Algo Trading)"
+title: "The Decline of Hedge Funds"
 description: "Explore how hedge funds are adapting to ongoing financial declines and technological advances in algorithmic trading to enhance performance and manage risks."
 ---
 

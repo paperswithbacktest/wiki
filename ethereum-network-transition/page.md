@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Network Transition (Algo Trading)"
+title: "Ethereum Network Transition"
 description: "Explore how the Ethereum Merge from Proof of Work to Proof of Stake impacts algorithmic trading strategies enhancing efficiency security and sustainability."
 ---
 

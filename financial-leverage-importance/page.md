@@ -1,5 +1,5 @@
 ---
-title: "Financial Leverage and Its Importance (Algo Trading)"
+title: "Financial Leverage and Its Importance"
 description: "Explore the essentials of financial leverage in algo trading Learn how leveraging technology and instruments can optimize returns while managing risks effectively"
 ---
 

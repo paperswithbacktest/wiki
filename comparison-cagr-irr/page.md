@@ -1,5 +1,5 @@
 ---
-title: "Comparison of CAGR and IRR (Algo Trading)"
+title: "Comparison of CAGR and IRR"
 description: "Explore the differences between CAGR and IRR in financial investing and how algorithmic trading leverages these metrics for optimized portfolio returns."
 ---
 

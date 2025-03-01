@@ -1,5 +1,5 @@
 ---
-title: "George Washington Day / Presidents’ Day Holiday Effect Explained (Algo Trading)"
+title: "George Washington Day / Presidents’ Day Holiday Effect Explained"
 description: Explore the intriguing influence of Presidents' Day on algorithmic trading strategies, as U.S. financial markets pause for this federal holiday. Analyze how traders adapt their algorithms to these unique market closures and investigate potential patterns or opportunities that may arise around this period to optimize trading performance.
 ---
 

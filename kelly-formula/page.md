@@ -1,5 +1,5 @@
 ---
-title: "Kelly formula (Algo Trading)"
+title: "Kelly formula"
 description: Discover the application and benefits of the Kelly Formula in algorithmic trading. Learn how this mathematical approach, originally designed for gambling, helps maximize long-term wealth growth through optimal investment sizing. Explore the advantages, limitations, and practical implementations with examples and Python scripts for effective capital management.
 ---
 

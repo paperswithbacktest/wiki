@@ -1,5 +1,5 @@
 ---
-title: "Guerrilla Trading Overview (Algo Trading)"
+title: "Guerrilla Trading Overview"
 description: "Explore the fast-paced world of Guerrilla Trading where high-frequency transactions target small price movements for profit maximizing market efficiencies with algorithmic precision."
 ---
 

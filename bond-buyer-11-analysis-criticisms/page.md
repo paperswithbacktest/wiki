@@ -1,5 +1,5 @@
 ---
-title: "Bond Buyer 11: Analysis and Criticisms (Algo Trading)"
+title: "Bond Buyer 11: Analysis and Criticisms"
 description: "Explore the dynamics of the Bond Buyer 11 index and algorithmic trading in the municipal bond market Discover how they shape investment strategies and yields"
 ---
 

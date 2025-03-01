@@ -1,5 +1,5 @@
 ---
-title: "Central Location of the Forex Market (Algo Trading)"
+title: "Central Location of the Forex Market"
 description: "Explore the decentralized forex market and its players, emphasizing algorithmic trading's role and potential. Discover emerging trends reshaping forex trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Contra Account in Accounting (Algo Trading)"
+title: "Contra Account in Accounting"
 description: "Explore the crucial role of contra accounts in accounting and how they intersect with algorithmic trading. Gain insights on financial reporting and transparency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Heteroscedasticity: Meaning and Types (Algo Trading)"
+title: "Heteroscedasticity: Meaning and Types"
 description: "Explore heteroscedasticity in algo trading, its types, detection methods, and impact on financial models. Enhance trading strategies by managing variance efficiently."
 ---
 

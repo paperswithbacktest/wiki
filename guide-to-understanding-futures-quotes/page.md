@@ -1,5 +1,5 @@
 ---
-title: "Guide to Understanding Futures Quotes (Algo Trading)"
+title: "Guide to Understanding Futures Quotes"
 description: "Explore how futures quotes are key to informed trading decisions and the benefits of algorithmic trading for precision and efficiency in the futures market."
 ---
 

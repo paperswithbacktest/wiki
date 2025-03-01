@@ -1,5 +1,5 @@
 ---
-title: "Farm Price Index: Overview and Functionality (Algo Trading)"
+title: "Farm Price Index: Overview and Functionality"
 description: "Explore the Farm Price Index and its role in understanding market trends in agriculture Learn about its impact on economic strategies and algorithmic trading"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Crapo Bill Overview and Criticism (Algo Trading)"
+title: "Crapo Bill Overview and Criticism"
 description: "Explore the impact of the Crapo Bill's reforms on financial markets and algorithmic trading strategies. Understand criticisms and economic implications."
 ---
 

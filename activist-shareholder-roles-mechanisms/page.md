@@ -1,5 +1,5 @@
 ---
-title: "Activist Shareholder: Roles and Mechanisms (Algo Trading)"
+title: "Activist Shareholder: Roles and Mechanisms"
 description: "Explore the roles and mechanisms of activist shareholders in corporate governance as they leverage algo trading to influence company strategy and enhance value."
 ---
 

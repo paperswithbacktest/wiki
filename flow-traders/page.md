@@ -1,5 +1,5 @@
 ---
-title: "Flow Traders (Algo Trading)"
+title: "Flow Traders"
 description: "Explore how Flow Traders leverages algorithmic trading to enhance market efficiency and stability. Discover innovative strategies in the evolving financial ecosystem."
 ---
 

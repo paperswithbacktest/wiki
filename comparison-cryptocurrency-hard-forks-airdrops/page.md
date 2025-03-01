@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Cryptocurrency Hard Forks and Airdrops (Algo Trading)"
+title: "Comparison of Cryptocurrency Hard Forks and Airdrops"
 description: "Explore airdrops, hard forks, and algorithmic trading in cryptocurrency Learn how these concepts shape the market dynamics and influence investment strategies"
 ---
 

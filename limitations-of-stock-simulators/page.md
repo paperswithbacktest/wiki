@@ -1,5 +1,5 @@
 ---
-title: "Limitations of Stock Simulators (Algo Trading)"
+title: "Limitations of Stock Simulators"
 description: "Explore the challenges of stock simulators in algo trading and learn how simulators can aid traders in testing strategies, minimizing risks, and improving skills."
 ---
 

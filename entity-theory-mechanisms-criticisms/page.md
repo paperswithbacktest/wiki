@@ -1,5 +1,5 @@
 ---
-title: "Entity Theory and Its Mechanisms and Criticisms (Algo Trading)"
+title: "Entity Theory and Its Mechanisms and Criticisms"
 description: "Explore how entity theory shapes algorithmic trading by defining market entities and influences liquidity efficiency and volatility to enhance market dynamics."
 ---
 

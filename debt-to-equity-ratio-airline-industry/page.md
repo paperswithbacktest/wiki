@@ -1,5 +1,5 @@
 ---
-title: "Debt-To-Equity Ratio in the Airline Industry (Algo Trading)"
+title: "Debt-To-Equity Ratio in the Airline Industry"
 description: "Explore how analyzing the debt-to-equity ratio and implementing algorithmic trading strategies can optimize investment decisions in the airline industry."
 ---
 

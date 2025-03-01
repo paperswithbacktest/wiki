@@ -1,5 +1,5 @@
 ---
-title: "Group of 24 (G-24): Overview, Advantages, and Criticisms (Algo Trading)"
+title: "Group of 24 (G-24): Overview, Advantages, and Criticisms"
 description: "Explore the role of G-24 in international finance and the impact of algorithmic trading. Discover the benefits and criticisms shaping today's global economy."
 ---
 

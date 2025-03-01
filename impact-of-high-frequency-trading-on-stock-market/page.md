@@ -1,5 +1,5 @@
 ---
-title: "Impact of High-Frequency Trading on the Stock Market (Algo Trading)"
+title: "Impact of High-Frequency Trading on the Stock Market"
 description: "Explore the profound impact of high-frequency trading on stock markets, balancing increased liquidity and efficiency with debates on volatility and fairness."
 ---
 

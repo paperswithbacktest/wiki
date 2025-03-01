@@ -1,5 +1,5 @@
 ---
-title: "Economic Depreciation vs. Accounting Depreciation (Algo Trading)"
+title: "Economic Depreciation vs. Accounting Depreciation"
 description: "Explore the differences between economic and accounting depreciation and their impact on algorithmic trading strategies to optimize risk management and asset valuation."
 ---
 

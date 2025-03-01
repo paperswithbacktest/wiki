@@ -1,5 +1,5 @@
 ---
-title: "Economic Profit and Loss: Formula and Example (Algo Trading)"
+title: "Economic Profit and Loss: Formula and Example"
 description: "Enhance your algo trading strategies by understanding economic profit and P&L statements, incorporating opportunity costs, and leveraging financial analysis for better outcomes."
 ---
 

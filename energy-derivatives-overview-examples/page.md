@@ -1,5 +1,5 @@
 ---
-title: "Energy Derivatives: Overview and Examples (Algo Trading)"
+title: "Energy Derivatives: Overview and Examples"
 description: "Explore how energy derivatives like futures and swaps and algorithmic trading impact energy markets risk management and price discovery with modern strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Innovative Methods for Purchasing ETFs Online (Algo Trading)"
+title: "Innovative Methods for Purchasing ETFs Online"
 description: "Explore innovative online methods for ETF purchasing using algorithmic trading to streamline investments improve efficiency and potentially optimize returns."
 ---
 

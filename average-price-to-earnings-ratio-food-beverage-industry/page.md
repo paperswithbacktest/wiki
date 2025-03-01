@@ -1,5 +1,5 @@
 ---
-title: "Average Price-to-Earnings Ratio in Food and Beverage Industry (Algo Trading)"
+title: "Average Price-to-Earnings Ratio in Food and Beverage Industry"
 description: "Explore how the Price-to-Earnings (P/E) ratio aids in evaluating companies in the dynamic food and beverage industry with the rise of algorithmic trading."
 ---
 

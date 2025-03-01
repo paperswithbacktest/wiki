@@ -1,5 +1,5 @@
 ---
-title: "California Assembly Bill 5: Overview and Implications (Algo Trading)"
+title: "California Assembly Bill 5: Overview and Implications"
 description: "Explore the transformative impact of California Assembly Bill 5 (AB5) on gig workers and businesses, focusing on its implications for algorithmic trading in California."
 ---
 

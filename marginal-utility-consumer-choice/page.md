@@ -1,5 +1,5 @@
 ---
-title: "Marginal Utility and Consumer Choice (Algo Trading)"
+title: "Marginal Utility and Consumer Choice"
 description: "Explore the synergy between marginal utility consumer choice theory and algorithmic trading to understand decision-making in economics and financial markets."
 ---
 

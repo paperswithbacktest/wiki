@@ -1,5 +1,5 @@
 ---
-title: "Buy-In Management Buyout (BIMBO) (Algo Trading)"
+title: "Buy-In Management Buyout (BIMBO)"
 description: "Discover the intricacies of Buy-In Management Buyout BIMBOs in algo trading explore how internal and external leadership reshapes company acquisitions."
 ---
 

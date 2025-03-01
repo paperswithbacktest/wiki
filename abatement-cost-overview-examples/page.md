@@ -1,5 +1,5 @@
 ---
-title: "Abatement Cost: Overview and Examples (Algo Trading)"
+title: "Abatement Cost: Overview and Examples"
 description: "Discover the significance of abatement costs in environmental economics and technology Learn how businesses can strategically manage these costs for sustainability"
 ---
 

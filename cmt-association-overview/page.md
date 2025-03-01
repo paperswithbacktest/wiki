@@ -1,5 +1,5 @@
 ---
-title: "CMT Association Overview (Algo Trading)"
+title: "CMT Association Overview"
 description: "Unlock the power of technical analysis with the CMT Association. Discover how their expert training programs prepare financial professionals for success in trading."
 ---
 

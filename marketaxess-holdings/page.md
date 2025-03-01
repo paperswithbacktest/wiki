@@ -1,5 +1,5 @@
 ---
-title: "MarketAxess Holdings (Algo Trading)"
+title: "MarketAxess Holdings"
 description: "Discover MarketAxess Holdings' revolutionary role in electronic trading with advanced algorithms boosting market efficiency and connectivity for global investors."
 ---
 

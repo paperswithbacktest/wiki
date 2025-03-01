@@ -1,5 +1,5 @@
 ---
-title: "Exempt Transaction and Its Mechanisms (Algo Trading)"
+title: "Exempt Transaction and Its Mechanisms"
 description: "Explore the world of exempt transactions in algorithmic trading Understand how these financial mechanisms bypass standard regulations offering strategic advantages"
 ---
 

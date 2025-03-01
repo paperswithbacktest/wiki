@@ -1,5 +1,5 @@
 ---
-title: "Information Silos: Function and Impact (Algo Trading)"
+title: "Information Silos: Function and Impact"
 description: "Explore how information silos affect algorithmic trading by impeding data flow within organizations Learn strategies to dismantle silos for improved trading efficiency"
 ---
 

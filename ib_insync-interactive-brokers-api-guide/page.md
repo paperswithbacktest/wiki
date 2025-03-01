@@ -1,5 +1,5 @@
 ---
-title: "IB Insync (Interactive Brokers API) Guide (Algo Trading)"
+title: "IB Insync (Interactive Brokers API) Guide"
 description: Explore the comprehensive guide on leveraging ib_insync, a powerful Python library, for efficient algorithmic trading with Interactive Brokers. Learn how ib_insync's asynchronous functionality enhances trading operations by providing real-time data processing and execution. The article investigates into setting up the library, developing trading algorithms, and best practices, ensuring a seamless integration with IB's platform. Whether you're a hedge fund manager, a developer, or a hobbyist trader, this resource offers valuable insights into maximizing the potential of algo trading using ib_insync.
 ---
 

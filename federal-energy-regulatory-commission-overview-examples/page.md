@@ -1,5 +1,5 @@
 ---
-title: "Federal Energy Regulatory Commission: Overview and Examples (Algo Trading)"
+title: "Federal Energy Regulatory Commission: Overview and Examples"
 description: "Explore how the Federal Energy Regulatory Commission regulates the dynamic energy markets, focusing on the impact and oversight of algorithmic trading in the U.S. energy sector."
 ---
 

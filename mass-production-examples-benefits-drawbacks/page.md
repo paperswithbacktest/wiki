@@ -1,5 +1,5 @@
 ---
-title: "Mass Production: Examples, Benefits, and Drawbacks (Algo Trading)"
+title: "Mass Production: Examples, Benefits, and Drawbacks"
 description: "Explore how algorithmic trading principles revolutionize manufacturing efficiency by integrating real-time analytics and automation to optimize production processes."
 ---
 

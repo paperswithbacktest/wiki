@@ -1,5 +1,5 @@
 ---
-title: "Amendment: Explanation and Examples (Algo Trading)"
+title: "Amendment: Explanation and Examples"
 description: "Explore how constitutional amendments parallel algorithmic trading adaptations in this article Discover insights into dynamic change management in law and finance"
 ---
 

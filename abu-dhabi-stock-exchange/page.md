@@ -1,5 +1,5 @@
 ---
-title: "Abu Dhabi Stock Exchange (Algo Trading)"
+title: "Abu Dhabi Stock Exchange"
 description: "Experience the evolution of Abu Dhabi Securities Exchange as it adopts cutting-edge tech and strategic alliances to lead in algorithmic trading and market efficiency."
 ---
 

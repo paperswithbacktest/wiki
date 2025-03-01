@@ -1,5 +1,5 @@
 ---
-title: "machine learning applied to execution (Algo Trading)"
+title: "machine learning applied to execution"
 description: "Explore how machine learning revolutionizes algorithmic trading by enhancing execution strategies and optimizing market participation for maximized returns."
 ---
 

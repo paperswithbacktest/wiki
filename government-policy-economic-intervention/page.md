@@ -1,5 +1,5 @@
 ---
-title: "Government Policy and Economic Intervention (Algo Trading)"
+title: "Government Policy and Economic Intervention"
 description: "Explore the complex interplay of government policies and algorithmic trading in financial markets Discover how economic interventions shape growth and stability"
 ---
 

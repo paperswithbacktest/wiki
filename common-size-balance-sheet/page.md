@@ -1,5 +1,5 @@
 ---
-title: "Common Size Balance Sheet (Algo Trading)"
+title: "Common Size Balance Sheet"
 description: "Unlock insights into financial health and enhance algorithmic trading strategies with common size balance sheet analysis, enabling precise market predictions."
 ---
 

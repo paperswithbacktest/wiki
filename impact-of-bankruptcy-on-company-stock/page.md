@@ -1,5 +1,5 @@
 ---
-title: "Impact of Bankruptcy on Company Stock (Algo Trading)"
+title: "Impact of Bankruptcy on Company Stock"
 description: "Discover the intricate relationship between bankruptcy and company stock performance in algorithmic trading delving into market dynamics and investor strategies."
 ---
 

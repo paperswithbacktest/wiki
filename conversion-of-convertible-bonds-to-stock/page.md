@@ -1,5 +1,5 @@
 ---
-title: "Conversion of Convertible Bonds to Stock (Algo Trading)"
+title: "Conversion of Convertible Bonds to Stock"
 description: "Explore the strategic advantages of convertible bonds in algorithmic trading as they offer debt and equity features allowing investors to optimize returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Effective Tax Rate: Calculation and Function (Algo Trading)"
+title: "Effective Tax Rate: Calculation and Function"
 description: "Discover how tax rates, policies, and calculation methodologies influence algorithmic trading and financial decision-making. Essential for traders and businesses seeking optimized tax liabilities and profitability, this article covers global tax systems and their impact on trading strategies. Learn about effective tax rates and explore tax optimization strategies to enhance financial planning and profitability in a growing digital economy."
 ---
 

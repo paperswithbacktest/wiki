@@ -1,5 +1,5 @@
 ---
-title: "Degearing in Finance (Algo Trading)"
+title: "Degearing in Finance"
 description: "Explore how degearing and algorithmic trading shape financial strategies by reducing leverage and optimizing trading decisions for market resilience and competitive advantage."
 ---
 

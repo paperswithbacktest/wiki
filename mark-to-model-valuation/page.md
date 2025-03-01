@@ -1,5 +1,5 @@
 ---
-title: "Mark-to-Model Valuation (Algo Trading)"
+title: "Mark-to-Model Valuation"
 description: "Explore the integration of mark-to-model valuation with algorithmic trading in today's financial markets Understand the synergy for effective asset management"
 ---
 

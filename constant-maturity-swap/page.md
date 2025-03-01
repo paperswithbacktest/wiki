@@ -1,5 +1,5 @@
 ---
-title: "Constant Maturity Swap (Algo Trading)"
+title: "Constant Maturity Swap"
 description: "Explore the pivotal role of Constant Maturity Swaps in modern finance as they help manage interest rate exposure with unique features and strategic flexibility."
 ---
 

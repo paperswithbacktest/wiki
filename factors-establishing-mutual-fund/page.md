@@ -1,5 +1,5 @@
 ---
-title: "Factors in Establishing a Mutual Fund (Algo Trading)"
+title: "Factors in Establishing a Mutual Fund"
 description: "Explore key factors in establishing a mutual fund focused on algorithmic trading including diversification strategies and the synergy of traditional and innovative practices."
 ---
 

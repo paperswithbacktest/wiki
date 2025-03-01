@@ -1,5 +1,5 @@
 ---
-title: "Liquidity Premium and Associated Risks (Algo Trading)"
+title: "Liquidity Premium and Associated Risks"
 description: "Explore the investment dynamics of liquidity premiums financial risks and algorithmic trading. Gain insights into optimizing portfolios amid market complexities."
 ---
 

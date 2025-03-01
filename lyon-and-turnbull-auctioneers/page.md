@@ -1,5 +1,5 @@
 ---
-title: "Lyon & Turnbull Auctioneers (Algo Trading)"
+title: "Lyon & Turnbull Auctioneers"
 description: "Discover how Lyon & Turnbull blends traditional art auctions with cutting-edge algorithmic trading insights redefining investment strategies in the art market."
 ---
 

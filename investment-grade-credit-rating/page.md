@@ -1,5 +1,5 @@
 ---
-title: "Investment Grade Credit Rating (Algo Trading)"
+title: "Investment Grade Credit Rating"
 description: "Discover how credit ratings, investment grades, and algorithmic trading intersect to guide investment decisions in a rapidly evolving financial landscape."
 ---
 

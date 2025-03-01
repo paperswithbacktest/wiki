@@ -1,5 +1,5 @@
 ---
-title: "Foreign Corrupt Practices Act: Antibribery Provisions (Algo Trading)"
+title: "Foreign Corrupt Practices Act: Antibribery Provisions"
 description: "Explore the impact of the Foreign Corrupt Practices Act on international business ethics and algorithmic trading with a focus on anti-bribery compliance."
 ---
 

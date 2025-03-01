@@ -1,5 +1,5 @@
 ---
-title: "Government Regulation and the Railroads Sector (Algo Trading)"
+title: "Government Regulation and the Railroads Sector"
 description: "Explore the impact of government regulation on the railroad sector and the role of algorithmic trading in transforming logistics and operational strategies."
 ---
 

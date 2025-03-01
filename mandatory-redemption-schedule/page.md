@@ -1,5 +1,5 @@
 ---
-title: "Mandatory Redemption Schedule (Algo Trading)"
+title: "Mandatory Redemption Schedule"
 description: "Learn about mandatory redemption schedules in bond markets their role in mitigating default risks and their influence on algorithmic trading strategies."
 ---
 

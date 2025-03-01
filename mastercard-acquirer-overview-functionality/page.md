@@ -1,5 +1,5 @@
 ---
-title: "Mastercard Acquirer: Overview and Functionality (Algo Trading)"
+title: "Mastercard Acquirer: Overview and Functionality"
 description: "Discover how Mastercard enhances global payment processing as an acquirer, utilizing secure partnerships and algorithmic trading for seamless, efficient transactions."
 ---
 

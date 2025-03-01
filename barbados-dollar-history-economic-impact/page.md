@@ -1,5 +1,5 @@
 ---
-title: "Barbados Dollar: History and Economic Impact (Algo Trading)"
+title: "Barbados Dollar: History and Economic Impact"
 description: "Explore the Barbados Dollar's impact on the economy and its role in algorithmic trading offering insights into forex market stability and investment strategies."
 ---
 

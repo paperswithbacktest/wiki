@@ -1,5 +1,5 @@
 ---
-title: "Externalities in Economics: Positive and Negative Examples (Algo Trading)"
+title: "Externalities in Economics: Positive and Negative Examples"
 description: "Discover the significance of externalities in economics and algorithmic trading including examples of positive and negative impacts on market dynamics."
 ---
 

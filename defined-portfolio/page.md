@@ -1,5 +1,5 @@
 ---
-title: "Defined Portfolio (Algo Trading)"
+title: "Defined Portfolio"
 description: "Explore how algorithmic trading transforms portfolio management by boosting precision and speed to optimize returns and align investment strategies."
 ---
 

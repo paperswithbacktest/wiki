@@ -1,5 +1,5 @@
 ---
-title: "Data Cleaning (Algo Trading)"
+title: "Data Cleaning"
 description: Data cleaning is essential for preparing data in algorithmic trading, ensuring high-quality data for accurate model performance and decision-making. It rectifies inaccuracies and inconsistencies, vital for mitigating risks and maximizing trading precision.
 ---
 

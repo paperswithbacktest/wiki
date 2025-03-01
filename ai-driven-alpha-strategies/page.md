@@ -1,5 +1,5 @@
 ---
-title: "AI-driven alpha strategies (Algo Trading)"
+title: "AI-driven alpha strategies"
 description: "Discover how AI-driven alpha strategies are transforming algorithmic trading by optimizing precision, adapting to market changes, and enhancing trade decisions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Budget Control Act (Algo Trading)"
+title: "Budget Control Act"
 description: "Explore how the Budget Control Act of 2011 impacts algorithmic trading strategies through fiscal constraints and spending cuts, influencing market volatility."
 ---
 

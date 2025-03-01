@@ -1,5 +1,5 @@
 ---
-title: "Bond Market Pricing Mechanisms (Algo Trading)"
+title: "Bond Market Pricing Mechanisms"
 description: " Explore the crucial role of accurate pricing mechanisms and the impact of algorithmic trading in the bond market to optimize strategies and enhance efficiency."
 ---
 

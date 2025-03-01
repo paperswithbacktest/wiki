@@ -1,5 +1,5 @@
 ---
-title: "Brent Crude Oil (Algo Trading)"
+title: "Brent Crude Oil"
 description: "Explore the intricacies of Brent Crude Oil, a key benchmark in the oil market, influenced by the rise of algorithmic trading. This article investigates into its properties, significance as a market index, and the transformative role of technology in modern trading. Essential insights for navigating the complexities of global crude oil markets."
 ---
 

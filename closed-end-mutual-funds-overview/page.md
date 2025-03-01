@@ -1,5 +1,5 @@
 ---
-title: "Closed-End Mutual Funds Overview (Algo Trading)"
+title: "Closed-End Mutual Funds Overview"
 description: "Explore the world of closed-end mutual funds and algorithmic trading, understanding their unique features, advantages, and the evolving landscape of investments."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Aggregate Hours and Their Functionality (Algo Trading)"
+title: "Aggregate Hours and Their Functionality"
 description: "Explore how labor statistics and aggregate work hours influence algorithmic trading and market analysis, enhancing investment strategies in global finance."
 ---
 

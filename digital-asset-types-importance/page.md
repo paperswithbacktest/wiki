@@ -1,5 +1,5 @@
 ---
-title: "Digital Asset: Types and Importance (Algo Trading)"
+title: "Digital Asset: Types and Importance"
 description: "Explore the significance of digital assets in algo trading Every asset type from cryptocurrencies to NFTs plays a vital role in evolving financial landscapes"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Financial Systems: Types and Market Components (Algo Trading)"
+title: "Financial Systems: Types and Market Components"
 description: "Explore the intricacies of financial systems and market components including algorithmic trading to make informed investment decisions in today's global economy."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Jesse Livermore: A Trading Pioneer (Algo Trading)"
+title: "Jesse Livermore: A Trading Pioneer"
 description: Explore the legacy of Jesse Livermore, a trading pioneer known for his innovative strategies and influence on modern algorithmic trading. Dive into his life story and learn about his trend-following techniques, risk management insights, and how his principles continue to shape today's trading practices. Discover the timeless lessons from his financial journey and their relevance to contemporary market dynamics.
 ---
 

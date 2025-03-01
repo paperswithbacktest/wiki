@@ -1,5 +1,5 @@
 ---
-title: "Financial Markets for Investors (Algo Trading)"
+title: "Financial Markets for Investors"
 description: "Explore how algorithmic trading enhances investment opportunities in financial markets. Understand tools and strategies to optimize trade execution and decisions."
 ---
 

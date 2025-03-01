@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Merrill Edge and Vanguard (Algo Trading)"
+title: "Comparison of Merrill Edge and Vanguard"
 description: "Explore the key differences between Merrill Edge and Vanguard for algorithmic trading. Compare their user interface, trading tools, costs, and mobile capabilities."
 ---
 

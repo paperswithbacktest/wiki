@@ -1,5 +1,5 @@
 ---
-title: "Group of Eleven: Overview and Function (Algo Trading)"
+title: "Group of Eleven: Overview and Function"
 description: "Explore the Group of Eleven's impact on algorithmic trading and international collaboration Boost your trading efficiency through G11's innovations and insights"
 ---
 

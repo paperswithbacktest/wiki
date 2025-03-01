@@ -1,5 +1,5 @@
 ---
-title: "Impact of Capital Stock Increase on Companies (Algo Trading)"
+title: "Impact of Capital Stock Increase on Companies"
 description: "Explore how capital stock increases reshape company finance and influence algo trading. Gain insights on shareholder impacts, market dynamics, and strategic growth."
 ---
 

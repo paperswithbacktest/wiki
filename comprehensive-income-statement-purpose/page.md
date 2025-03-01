@@ -1,5 +1,5 @@
 ---
-title: "Comprehensive Income Statement and Purpose (Algo Trading)"
+title: "Comprehensive Income Statement and Purpose"
 description: "Explore the importance of understanding comprehensive income and its role in financial analysis and algorithmic trading for informed decision-making."
 ---
 

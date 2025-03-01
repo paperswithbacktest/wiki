@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Retained Earnings (Algo Trading)"
+title: "Analysis of Retained Earnings"
 description: "Explore the crucial role retained earnings play in modern finance by blending traditional analysis with algorithmic trading to enhance investment decisions."
 ---
 

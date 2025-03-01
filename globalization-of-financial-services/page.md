@@ -1,5 +1,5 @@
 ---
-title: "Globalization of Financial Services (Algo Trading)"
+title: "Globalization of Financial Services"
 description: "Explore the globalization of financial services and the rise of algorithmic trading Understand how technology and cross-border finance shape modern markets"
 ---
 

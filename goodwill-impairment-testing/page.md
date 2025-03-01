@@ -1,5 +1,5 @@
 ---
-title: "Goodwill Impairment Testing (Algo Trading)"
+title: "Goodwill Impairment Testing"
 description: "Explore the intersection of financial accounting and algo trading with insights into goodwill impairment testing to enhance trading strategies and decision-making."
 ---
 

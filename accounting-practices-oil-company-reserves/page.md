@@ -1,5 +1,5 @@
 ---
-title: "Accounting Practices for Oil Company Reserves (Algo Trading)"
+title: "Accounting Practices for Oil Company Reserves"
 description: "Explore the intersection of accounting practices for oil reserves and algorithmic trading to gain insights essential for competitive market positioning."
 ---
 

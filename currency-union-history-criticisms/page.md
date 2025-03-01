@@ -1,5 +1,5 @@
 ---
-title: "Currency Union: History and Criticisms (Algo Trading)"
+title: "Currency Union: History and Criticisms"
 description: "Explore the history and criticisms of currency unions and the impact of algorithmic trading on monetary policy and economic integration in global economies."
 ---
 

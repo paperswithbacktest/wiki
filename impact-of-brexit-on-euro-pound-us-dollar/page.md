@@ -1,5 +1,5 @@
 ---
-title: "Impact of Brexit on the Euro, Pound, and US Dollar (Algo Trading)"
+title: "Impact of Brexit on the Euro, Pound, and US Dollar"
 description: "Explore how Brexit impacts the Euro Pound and US Dollar in forex markets Discover how algorithmic trading helps navigate these currency fluctuations effectively"
 ---
 

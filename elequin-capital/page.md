@@ -1,5 +1,5 @@
 ---
-title: "Elequin Capital (Algo Trading)"
+title: "Elequin Capital"
 description: "Discover Elequin Capital's impact on algorithmic trading with advanced AI, data analytics, and unique strategies driving efficient, innovative trading solutions."
 ---
 

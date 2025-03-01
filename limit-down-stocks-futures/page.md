@@ -1,5 +1,5 @@
 ---
-title: "Limit Down in Stocks and Futures (Algo Trading)"
+title: "Limit Down in Stocks and Futures"
 description: "Explore the role of limit down mechanisms in regulating stock and futures markets, and how algorithmic trading adapts to manage risk in volatile environments."
 ---
 

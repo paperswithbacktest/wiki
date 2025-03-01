@@ -1,5 +1,5 @@
 ---
-title: "Income Bond: Overview and Role in Debt Restructuring (Algo Trading)"
+title: "Income Bond: Overview and Role in Debt Restructuring"
 description: "Explore the role of income bonds and debt restructuring in corporate finance and how algorithmic trading enhances market participation and decision-making."
 ---
 

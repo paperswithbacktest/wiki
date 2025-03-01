@@ -1,5 +1,5 @@
 ---
-title: "Comparison of BlockFi and Coinbase (Algo Trading)"
+title: "Comparison of BlockFi and Coinbase"
 description: "Discover the unique features and benefits of BlockFi and Coinbase as they intersect with algorithmic trading in the cryptocurrency market to enhance your portfolio."
 ---
 

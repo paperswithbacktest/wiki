@@ -1,5 +1,5 @@
 ---
-title: "Direct Access Trading Systems (Algo Trading)"
+title: "Direct Access Trading Systems"
 description: "Explore the transformative impact of Direct Access Trading systems and algorithmic trading in modern markets Boost trading speed precision and reduce costs."
 ---
 

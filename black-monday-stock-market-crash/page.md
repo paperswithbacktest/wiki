@@ -1,5 +1,5 @@
 ---
-title: "Black Monday (Stock Market Crash) (Algo Trading)"
+title: "Black Monday (Stock Market Crash)"
 description: "Explore the events of Black Monday in 1987 when the Dow Jones plummeted by 22.6% in a single day. Understand the role algorithmic trading played in this historic crash, highlighting how strategies like portfolio insurance inadvertently led to market chaos. This article examines the causes, impacts, and lessons learned from Black Monday, emphasizing the need for a balance between automated trading and human oversight to prevent future financial turmoil. Discover how this pivotal moment reshaped trading practices and regulatory frameworks, ensuring more resilient financial systems today."
 ---
 

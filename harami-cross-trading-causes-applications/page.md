@@ -1,5 +1,5 @@
 ---
-title: "Harami Cross in Trading: Causes and Applications (Algo Trading)"
+title: "Harami Cross in Trading: Causes and Applications"
 description: "Discover the importance of the Harami Cross pattern in algorithmic trading its mechanisms and how it aids in predicting market reversals effectively."
 ---
 

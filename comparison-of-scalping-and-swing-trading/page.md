@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Scalping and Swing Trading (Algo Trading)"
+title: "Comparison of Scalping and Swing Trading"
 description: "Explore the differences between scalping and swing trading in algo trading. Understand their unique strategies, risk levels, and how each suits different trader profiles."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Long Straddle Strategy (Algo Trading)"
+title: "Long Straddle Strategy"
 description: "Explore the potential of the long straddle strategy in options trading, enhanced by algorithmic trading to capitalize on market volatility for effective investments."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Active Stocks (Algo Trading)"
+title: "Active Stocks"
 description: "Discover how active stocks and algorithmic trading redefine investment strategies with high liquidity and precision. Master these tools for enhanced portfolio performance."
 ---
 

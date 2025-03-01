@@ -1,5 +1,5 @@
 ---
-title: "Covered Calls on Dividend Stocks (Algo Trading)"
+title: "Covered Calls on Dividend Stocks"
 description: "Explore how covered calls on dividend stocks can boost income through option premiums and dividends using algorithmic trading for precision and efficiency."
 ---
 

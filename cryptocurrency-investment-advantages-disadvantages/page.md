@@ -1,5 +1,5 @@
 ---
-title: "Cryptocurrency Investment: Advantages and Disadvantages (Algo Trading)"
+title: "Cryptocurrency Investment: Advantages and Disadvantages"
 description: "Explore the benefits and risks of cryptocurrency investment and the role of algo trading in navigating this dynamic market for potential returns."
 ---
 

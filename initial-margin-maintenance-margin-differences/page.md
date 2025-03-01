@@ -1,5 +1,5 @@
 ---
-title: "Initial Margin and Maintenance Margin: Differences (Algo Trading)"
+title: "Initial Margin and Maintenance Margin: Differences"
 description: "Explore the crucial differences between initial margin and maintenance margin in algorithmic trading to maximize returns and manage risk effectively."
 ---
 

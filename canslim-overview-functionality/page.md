@@ -1,5 +1,5 @@
 ---
-title: "CANSLIM: Overview and Functionality (Algo Trading)"
+title: "CANSLIM: Overview and Functionality"
 description: "Discover the advantages of combining the CANSLIM strategy with algorithmic trading for efficient stock selection and improved investment outcomes."
 ---
 

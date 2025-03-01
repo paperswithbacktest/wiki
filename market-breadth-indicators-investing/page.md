@@ -1,5 +1,5 @@
 ---
-title: "Market Breadth and Its Indicators in Investing (Algo Trading)"
+title: "Market Breadth and Its Indicators in Investing"
 description: "Explore the significance of market breadth and investment indicators in finance to enhance trading strategies using insights and tools for informed decisions."
 ---
 

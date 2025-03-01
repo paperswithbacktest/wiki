@@ -1,5 +1,5 @@
 ---
-title: "J. Christopher Giancarlo: American Business Executive (Algo Trading)"
+title: "J. Christopher Giancarlo: American Business Executive"
 description: "Explore the evolving landscape where regulation, blockchain, and algorithmic trading intersect. Discover how these elements reshape financial markets and prompt vital discussions."
 ---
 

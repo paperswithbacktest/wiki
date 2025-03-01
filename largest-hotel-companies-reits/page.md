@@ -1,5 +1,5 @@
 ---
-title: "Largest Hotel Companies and REITs (Algo Trading)"
+title: "Largest Hotel Companies and REITs"
 description: "Explore the dynamic world of the hospitality industry with insights into the largest hotel companies and Real Estate Investment Trusts (REITs). Understand the distinct roles of C Corporations and REITs, their financial structures, and how they impact global accommodations and services. Discover how algorithmic trading serves as a powerful tool for investors to optimize portfolios and navigate market shifts, enhancing investment returns in hotel REITs. This article investigates into strategies for diversifying holdings and capitalizing on growth opportunities in this evolving sector."
 ---
 

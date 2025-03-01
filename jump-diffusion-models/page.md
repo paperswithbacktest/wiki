@@ -1,5 +1,5 @@
 ---
-title: "Jump-diffusion models (Algo Trading)"
+title: "Jump-diffusion models"
 description: "Jump-diffusion models provide a refined approach to algorithmic trading by incorporating both continuous fluctuations and sudden jumps, enhancing risk management."
 ---
 

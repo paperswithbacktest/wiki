@@ -1,5 +1,5 @@
 ---
-title: "Attribution Analysis in Portfolio Management (Algo Trading)"
+title: "Attribution Analysis in Portfolio Management"
 description: "Explore the significance of attribution analysis in portfolio management and algorithmic trading for enhancing investment performance through data-driven insights and strategies."
 ---
 

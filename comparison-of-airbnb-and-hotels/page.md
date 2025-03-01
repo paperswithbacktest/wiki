@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Airbnb and Hotels (Algo Trading)"
+title: "Comparison of Airbnb and Hotels"
 description: "Explore the evolving dynamics between Airbnb and hotels in the hospitality market as algorithmic trading reshapes real estate investments and industry strategies."
 ---
 

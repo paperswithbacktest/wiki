@@ -1,5 +1,5 @@
 ---
-title: "Audit Cycle Overview and Implementation Considerations (Algo Trading)"
+title: "Audit Cycle Overview and Implementation Considerations"
 description: "Explore audit cycle implementation in algorithmic trading ensuring compliance and integrity by addressing unique industry challenges and providing comprehensive guidance."
 ---
 

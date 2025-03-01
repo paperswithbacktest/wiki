@@ -1,5 +1,5 @@
 ---
-title: "Forward Price: Calculation and Example (Algo Trading)"
+title: "Forward Price: Calculation and Example"
 description: "Explore forward price calculation in algorithmic trading through examples and key components including spot price risk-free rate and carrying costs"
 ---
 

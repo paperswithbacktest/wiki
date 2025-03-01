@@ -1,5 +1,5 @@
 ---
-title: "Enhancing Returns Without Increasing Risk (Algo Trading)"
+title: "Enhancing Returns Without Increasing Risk"
 description: "Optimize investment returns with algorithmic trading without increasing risk through data-driven decisions and robust risk management strategies."
 ---
 

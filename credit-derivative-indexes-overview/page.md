@@ -1,5 +1,5 @@
 ---
-title: "Credit Derivative Indexes Overview (Algo Trading)"
+title: "Credit Derivative Indexes Overview"
 description: "Explore the vital role of credit derivative indexes in finance through algo trading Learn about hedging credit default swaps and market influence in modern trading"
 ---
 

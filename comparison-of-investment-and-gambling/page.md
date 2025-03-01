@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Investment and Gambling (Algo Trading)"
+title: "Comparison of Investment and Gambling"
 description: "Explore the differences and intersections between investment gambling and algorithmic trading in today's financial markets to understand financial risk management."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Information Coefficient (IC) Formula and Example (Algo Trading)"
+title: "Information Coefficient (IC) Formula and Example"
 description: "Explore the Information Coefficient in algo trading and its role in evaluating predictive accuracy. Discover its formula practical applications and potential challenges."
 ---
 

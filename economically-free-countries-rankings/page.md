@@ -1,5 +1,5 @@
 ---
-title: "Economically Free Countries Rankings (Algo Trading)"
+title: "Economically Free Countries Rankings"
 description: "Discover the impact of economic freedom on global prosperity with our rankings of economically free countries. Learn how factors like private property security, regulatory efficiency, and open markets influence innovation and investment, especially in realms such as algorithmic trading. Understand why countries with minimal governmental barriers often lead in economic growth and how this creates robust environments for businesses and investors. Explore insights from top indices like the Heritage Foundation's Index of Economic Freedom and uncover the dynamic link between economic freedom and financial advancements."
 ---
 

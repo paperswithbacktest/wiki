@@ -1,5 +1,5 @@
 ---
-title: "Dow Jones U.S. Total Market Index (Algo Trading)"
+title: "Dow Jones U.S. Total Market Index"
 description: "Explore the comprehensive Dow Jones U.S. Total Market Index and its role in algorithmic trading Discover essential insights for informed investing in this guide"
 ---
 

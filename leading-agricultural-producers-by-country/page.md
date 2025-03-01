@@ -1,5 +1,5 @@
 ---
-title: "Leading Agricultural Producers by Country (Algo Trading)"
+title: "Leading Agricultural Producers by Country"
 description: "Explore the pivotal roles of leading agricultural producers like China, India, and the USA in global food security while advancing through algorithmic trading innovations."
 ---
 

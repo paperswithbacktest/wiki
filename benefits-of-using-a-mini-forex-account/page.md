@@ -1,5 +1,5 @@
 ---
-title: "Benefits of Using a Mini Forex Account (Algo Trading)"
+title: "Benefits of Using a Mini Forex Account"
 description: "Explore the strategic benefits of mini forex accounts and algorithmic trading to enhance profitability while minimizing risk in the dynamic forex market."
 ---
 

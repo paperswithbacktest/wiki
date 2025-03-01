@@ -1,5 +1,5 @@
 ---
-title: "Domestic Box Office Receipt Futures Contracts (Algo Trading)"
+title: "Domestic Box Office Receipt Futures Contracts"
 description: "Explore how box office futures contracts and algorithmic trading are revolutionizing film finance, blending traditional models with modern financial technologies."
 ---
 

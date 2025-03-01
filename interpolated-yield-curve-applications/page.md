@@ -1,5 +1,5 @@
 ---
-title: "Interpolated Yield Curve and Its Applications (Algo Trading)"
+title: "Interpolated Yield Curve and Its Applications"
 description: "Explore the significance of interpolated yield curves in algorithmic trading Learn how they provide insights into market conditions and aid in risk management"
 ---
 

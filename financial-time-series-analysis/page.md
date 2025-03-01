@@ -1,5 +1,5 @@
 ---
-title: "Financial Time Series Analysis (Algo Trading)"
+title: "Financial Time Series Analysis"
 description: "Unlock your trading potential with financial time series analysis Learn to leverage data patterns and advanced models to enhance algorithmic trading strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Exchange-Traded Funds in Sector Rotation Strategies (Algo Trading)"
+title: "Exchange-Traded Funds in Sector Rotation Strategies"
 description: "Explore how sector rotation, ETFs, and algorithmic trading optimize modern investment strategies, enhancing portfolio performance across economic cycles."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Capital Market Line and Its Calculation (Algo Trading)"
+title: "Capital Market Line and Its Calculation"
 description: "Explore the Capital Market Line for optimizing risk-return balance in portfolio management and algorithmic trading. Learn its calculation and significance in finance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Impact of Working Capital Changes on Cash Flow (Algo Trading)"
+title: "Impact of Working Capital Changes on Cash Flow"
 description: "Explore how working capital changes affect cash flow in algorithmic trading. Understand financial analysis's role in refining strategies for optimal trading decisions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparable Company Analysis in Investment Strategy (Algo Trading)"
+title: "Comparable Company Analysis in Investment Strategy"
 description: "Explore critical investment strategies using Comparable Company Analysis and algorithmic trading for efficient market participation and asset valuation insights."
 ---
 

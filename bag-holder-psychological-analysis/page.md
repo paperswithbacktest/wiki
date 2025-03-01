@@ -1,5 +1,5 @@
 ---
-title: "Bag Holder and Psychological Analysis (Algo Trading)"
+title: "Bag Holder and Psychological Analysis"
 description: "Explore investor psychology in stock market dynamics focusing on the 'bag holder' behavior and how algorithmic trading can mitigate emotional biases."
 ---
 

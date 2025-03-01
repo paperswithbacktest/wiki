@@ -1,5 +1,5 @@
 ---
-title: "Above the Market: Concepts and Examples (Algo Trading)"
+title: "Above the Market: Concepts and Examples"
 description: "Discover how algorithmic trading is reshaping financial markets by integrating economic strategies and business tactics for enhanced trading efficiency and insights."
 ---
 

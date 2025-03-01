@@ -1,5 +1,5 @@
 ---
-title: "List of Fastest-Growing Restaurant Chains in the United States (Algo Trading)"
+title: "List of Fastest-Growing Restaurant Chains in the United States"
 description: "Discover the fastest-growing restaurant chains in the U.S. as they innovate menus and enhance dining experiences amid the rise of algorithmic trading."
 ---
 

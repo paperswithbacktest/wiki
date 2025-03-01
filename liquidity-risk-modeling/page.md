@@ -1,5 +1,5 @@
 ---
-title: "liquidity risk modeling (Algo Trading)"
+title: "liquidity risk modeling"
 description: "Liquidity risk modeling in algorithmic trading enhances trade execution by quantifying and managing liquidity impacts using advanced techniques and machine learning."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Buying High and Selling Low Using Relative Strength (Algo Trading)"
+title: "Buying High and Selling Low Using Relative Strength"
 description: "Explore the integration of Relative Strength strategy in stock market algorithmic trading to maximize returns by identifying stocks outperforming market indices."
 ---
 

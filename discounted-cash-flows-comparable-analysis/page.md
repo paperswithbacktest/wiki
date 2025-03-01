@@ -1,5 +1,5 @@
 ---
-title: "Discounted Cash Flows and Comparable Analysis (Algo Trading)"
+title: "Discounted Cash Flows and Comparable Analysis"
 description: "Explore financial valuation with DCF and CCA methods along with algorithmic trading strategies to enhance investment decisions and navigate market complexities."
 ---
 

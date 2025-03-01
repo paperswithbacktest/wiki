@@ -1,5 +1,5 @@
 ---
-title: "Interbank Market (Algo Trading)"
+title: "Interbank Market"
 description: "Explore the strategic role of the interbank market in global finance and the transformative impact of algorithmic trading on liquidity management and risk mitigation."
 ---
 

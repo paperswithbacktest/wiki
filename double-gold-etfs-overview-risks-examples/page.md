@@ -1,5 +1,5 @@
 ---
-title: "Double Gold ETFs: Overview, Risks, and Examples (Algo Trading)"
+title: "Double Gold ETFs: Overview, Risks, and Examples"
 description: "Explore Double Gold ETFs to gain amplified exposure to gold market trends with potential high returns and risks Learn about their structure and algorithmic trading benefits"
 ---
 

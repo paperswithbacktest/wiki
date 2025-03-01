@@ -1,5 +1,5 @@
 ---
-title: "Investing in Toronto Stock Exchange Equities (Algo Trading)"
+title: "Investing in Toronto Stock Exchange Equities"
 description: "Explore how algorithmic trading is transforming investments in Toronto Stock Exchange equities by enhancing trade efficiency and offering strategic advantages."
 ---
 

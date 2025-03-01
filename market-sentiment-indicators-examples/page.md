@@ -1,5 +1,5 @@
 ---
-title: "Market Sentiment: Indicators and Examples (Algo Trading)"
+title: "Market Sentiment: Indicators and Examples"
 description: "Explore how sentiment indicators impact algo trading by understanding investor emotions and market psychology, helping refine strategies for better trades."
 ---
 

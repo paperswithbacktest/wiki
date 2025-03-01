@@ -1,5 +1,5 @@
 ---
-title: "Currency Board: Function and Example (Algo Trading)"
+title: "Currency Board: Function and Example"
 description: "Discover how currency boards function and explore examples in algo trading, highlighting their role in providing stability despite limiting monetary policy flexibility."
 ---
 

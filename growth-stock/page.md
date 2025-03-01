@@ -1,5 +1,5 @@
 ---
-title: "Growth stock (Algo Trading)"
+title: "Growth stock"
 description: "Discover the synergy between growth stocks and algorithmic trading to enhance investment strategies and achieve higher returns in volatile markets."
 ---
 

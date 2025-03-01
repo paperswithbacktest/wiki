@@ -1,5 +1,5 @@
 ---
-title: "Adjustment: Meaning and Function (Algo Trading)"
+title: "Adjustment: Meaning and Function"
 description: "Explore the vital role of adjustments in algorithmic trading adapting strategies to market changes ensuring optimal performance and risk management for traders."
 ---
 

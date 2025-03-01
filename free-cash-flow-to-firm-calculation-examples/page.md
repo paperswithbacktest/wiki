@@ -1,5 +1,5 @@
 ---
-title: "Free Cash Flow to Firm: Calculation and Examples (Algo Trading)"
+title: "Free Cash Flow to Firm: Calculation and Examples"
 description: "Discover how Free Cash Flow to Firm is used in algorithmic trading as a critical metric for analyzing financial health and optimizing investment strategies."
 ---
 

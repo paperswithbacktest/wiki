@@ -1,5 +1,5 @@
 ---
-title: "Investor Protection Act Overview (Algo Trading)"
+title: "Investor Protection Act Overview"
 description: "Explore the Investor Protection Act's role in moderating algorithmic trading, balancing tech innovation, and ensuring market integrity and investor safety."
 ---
 

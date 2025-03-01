@@ -1,5 +1,5 @@
 ---
-title: "Buying a Condominium (Algo Trading)"
+title: "Buying a Condominium"
 description: "Explore modern condo buying with insights into tech-driven strategies shaping real estate investment. Discover data-informed techniques for better decisions."
 ---
 

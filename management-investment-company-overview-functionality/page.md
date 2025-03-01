@@ -1,5 +1,5 @@
 ---
-title: "Management Investment Company: Overview and Functionality (Algo Trading)"
+title: "Management Investment Company: Overview and Functionality"
 description: "Explore the world of investment management and algorithmic trading Discover how investment companies optimize portfolios balancing returns and risks with cutting-edge technology"
 ---
 

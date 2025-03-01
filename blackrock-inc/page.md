@@ -1,5 +1,5 @@
 ---
-title: "BlackRock Inc. (Algo Trading)"
+title: "BlackRock Inc."
 description: "Explore BlackRock Inc.'s leadership in asset management and algorithmic trading with Aladdin leveraging technology to drive investment efficiency and innovation."
 ---
 

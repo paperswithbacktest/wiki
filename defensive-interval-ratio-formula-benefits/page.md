@@ -1,5 +1,5 @@
 ---
-title: "Defensive Interval Ratio: Formula and Benefits (Algo Trading)"
+title: "Defensive Interval Ratio: Formula and Benefits"
 description: "Explore the Defensive Interval Ratio DIR its formula and benefits in algorithmic trading Learn how DIR aids in assessing a company's liquidity and stability"
 ---
 

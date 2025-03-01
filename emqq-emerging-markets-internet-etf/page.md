@@ -1,5 +1,5 @@
 ---
-title: "EMQQ: Emerging Markets Internet ETF (Algo Trading)"
+title: "EMQQ: Emerging Markets Internet ETF"
 description: "Explore EMQQ Emerging Markets Internet & Ecommerce ETF offering exposure to rapidly growing internet sectors in dynamic emerging markets through algorithmic trading."
 ---
 

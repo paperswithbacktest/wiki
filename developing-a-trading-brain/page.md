@@ -1,5 +1,5 @@
 ---
-title: "Developing a Trading Brain (Algo Trading)"
+title: "Developing a Trading Brain"
 description: "Enhance your trading success with a deep dive into investment strategies, cognitive skills, trading psychology, and algorithmic trading techniques."
 ---
 

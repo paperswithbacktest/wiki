@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Solana Wallets in 2024 (Algo Trading)"
+title: "Comparison of Solana Wallets in 2024"
 description: "Explore the dynamic world of Solana wallets in 2024, crucial for crypto enthusiasts engaged in algorithmic trading. Discover key insights into selecting reliable wallets based on security, ease of use, and integration capabilities. As Solana's ecosystem thrives, understanding wallet features such as multi-currency support and NFT integration becomes essential for managing digital assets securely. Navigate the evolving crypto landscape with strategic tools and knowledge for effective asset management."
 ---
 

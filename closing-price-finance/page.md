@@ -1,5 +1,5 @@
 ---
-title: "Closing Price in Finance (Algo Trading)"
+title: "Closing Price in Finance"
 description: "Explore the critical role of closing prices in algo trading as they guide strategies and optimize financial decisions in today's dynamic stock market landscape."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Implied Repo Rate (Algo Trading)"
+title: "Implied Repo Rate"
 description: "Explore the pivotal role of securities lending and the implied repo rate in algo trading. Discover how algorithmic techniques enhance market efficiency and profitability."
 ---
 

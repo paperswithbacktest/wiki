@@ -1,5 +1,5 @@
 ---
-title: "Covered Stock Coverage (Algo Trading)"
+title: "Covered Stock Coverage"
 description: "Explore stock coverage and algorithmic trading insights to enhance your investment strategies. Learn how analysis and automation drive informed trading decisions and market efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Adaptable I/O System (ADIOS) (Algo Trading)"
+title: "Adaptable I/O System (ADIOS)"
 description: Explore the pivotal role of the Adaptable IO System (ADIOS) in algorithmic trading. Discover how this advanced data management framework facilitates efficient data handling and enhances trading performance through optimized processes. Learn about its distinctive features, including real-time data streaming, data compression techniques, and modular architecture, which support scalability and adaptability in high-frequency trading environments. Uncover the benefits of integrating ADIOS into trading platforms, allowing traders to leverage accurate insights swiftly and effectively for improved trade execution and strategic advantage.
 ---
 

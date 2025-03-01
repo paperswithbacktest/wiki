@@ -1,5 +1,5 @@
 ---
-title: "48-Hour Rule: Overview and Application (Algo Trading)"
+title: "48-Hour Rule: Overview and Application"
 description: "Explore the 48-Hour Rule's significance in mortgage-backed securities and its potential to inspire innovative algorithmic trading strategies by enhancing transparency and predictability."
 ---
 

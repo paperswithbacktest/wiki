@@ -1,5 +1,5 @@
 ---
-title: "Compound Interest: Definition, Calculation, and Examples (Algo Trading)"
+title: "Compound Interest: Definition, Calculation, and Examples"
 description: "Explore compound interest to enhance savings and investments with exponential growth through reinvestment strategies and algorithmic trading methods."
 ---
 

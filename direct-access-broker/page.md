@@ -1,5 +1,5 @@
 ---
-title: "Direct Access Broker (Algo Trading)"
+title: "Direct Access Broker"
 description: "Discover how direct access brokers and algorithmic trading are transforming financial markets by enhancing trade speed, execution quality, and decision-making efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Accounting and Economics (Algo Trading)"
+title: "Comparison of Accounting and Economics"
 description: "Discover the interplay between accounting, economics, and algorithmic trading in finance, exploring their roles, technology's impact, and career opportunities."
 ---
 

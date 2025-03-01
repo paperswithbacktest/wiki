@@ -1,5 +1,5 @@
 ---
-title: "Interval Funds: Overview, Trading, and Risks (Algo Trading)"
+title: "Interval Funds: Overview, Trading, and Risks"
 description: "Explore the intricacies of interval funds and algorithmic trading their potential rewards and associated risks to help investors navigate modern financial markets effectively."
 ---
 

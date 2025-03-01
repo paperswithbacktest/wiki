@@ -1,5 +1,5 @@
 ---
-title: "Chaikin Oscillator Usage (Algo Trading)"
+title: "Chaikin Oscillator Usage"
 description: "Unlock the potential of the Chaikin Oscillator in algo trading Gain insights into market trends and enhance your trading strategy with this powerful tool"
 ---
 

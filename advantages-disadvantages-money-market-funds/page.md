@@ -1,5 +1,5 @@
 ---
-title: "Advantages and Disadvantages of Money Market Funds (Algo Trading)"
+title: "Advantages and Disadvantages of Money Market Funds"
 description: "Explore the pros and cons of money market funds and their dynamics with algorithmic trading to make informed investment decisions. Discover liquidity, low risk, and diversification benefits."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Calculating Free Cash Flow in Excel (Algo Trading)"
+title: "Calculating Free Cash Flow in Excel"
 description: "Learn how to calculate Free Cash Flow in Excel to analyze financial performance effectively Enhance investment strategies and algorithmic trading outcomes"
 ---
 

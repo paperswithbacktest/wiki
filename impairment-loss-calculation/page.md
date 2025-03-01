@@ -1,5 +1,5 @@
 ---
-title: "Impairment Loss and Its Calculation (Algo Trading)"
+title: "Impairment Loss and Its Calculation"
 description: "Understand impairment loss calculation and its significance in algorithmic trading. Identifying impairment ensures accuracies in asset values for better financial reporting."
 ---
 

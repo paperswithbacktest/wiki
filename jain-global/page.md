@@ -1,5 +1,5 @@
 ---
-title: "Jain Global (Algo Trading)"
+title: "Jain Global"
 description: "Discover Jain Global a leader in algorithmic trading providing cutting-edge technologies to enhance trading precision and efficiency for all market participants."
 ---
 

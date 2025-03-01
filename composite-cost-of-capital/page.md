@@ -1,5 +1,5 @@
 ---
-title: "Composite Cost of Capital (Algo Trading)"
+title: "Composite Cost of Capital"
 description: "Explore how the composite cost of capital shapes financial strategies from investment evaluation to algorithmic trading ensuring competitive advantage and growth."
 ---
 

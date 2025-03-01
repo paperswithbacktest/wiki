@@ -1,5 +1,5 @@
 ---
-title: "Examples of Aggressive Growth Mutual Fund Classes (Algo Trading)"
+title: "Examples of Aggressive Growth Mutual Fund Classes"
 description: "Explore aggressive growth mutual funds and their distinct advantages and risks. Discover how algorithmic trading enhances these funds for optimized returns."
 ---
 

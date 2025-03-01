@@ -1,5 +1,5 @@
 ---
-title: "Foreign Fund: Overview, Mechanisms, and Associated Risks (Algo Trading)"
+title: "Foreign Fund: Overview, Mechanisms, and Associated Risks"
 description: "Discover the essentials of foreign funds and algo trading including fund mechanisms investment risks and how these elements impact global financial strategies"
 ---
 

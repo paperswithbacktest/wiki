@@ -1,5 +1,5 @@
 ---
-title: "Common Pitfalls of Moving Averages (Algo Trading)"
+title: "Common Pitfalls of Moving Averages"
 description: "Explore the common pitfalls of moving averages in algorithmic trading Understand the challenges in relying on these indicators for smarter strategy development"
 ---
 

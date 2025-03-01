@@ -1,5 +1,5 @@
 ---
-title: "Investment Adviser Association: Overview and Functionality (Algo Trading)"
+title: "Investment Adviser Association: Overview and Functionality"
 description: "Explore the role of the Investment Adviser Association in the evolving sphere of algorithmic trading as it shapes investment advice with technology and ethics."
 ---
 

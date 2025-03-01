@@ -1,5 +1,5 @@
 ---
-title: "Demonetization: Concept and Application (Algo Trading)"
+title: "Demonetization: Concept and Application"
 description: "Explore the intricacies of demonetization and algorithmic trading and their profound impacts on economic policies and financial markets in today's digital era."
 ---
 

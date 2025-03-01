@@ -1,5 +1,5 @@
 ---
-title: "Impact of Stock Splits on Share Certificates (Algo Trading)"
+title: "Impact of Stock Splits on Share Certificates"
 description: "Explore how stock splits affect share certificates and algorithmic trading Discover their impact on corporate actions and investor strategies in financial markets"
 ---
 

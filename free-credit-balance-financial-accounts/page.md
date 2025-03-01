@@ -1,5 +1,5 @@
 ---
-title: "Free Credit Balance in Financial Accounts (Algo Trading)"
+title: "Free Credit Balance in Financial Accounts"
 description: "Explore the role of free credit balances in financial accounts for algorithmic trading offering insights to enhance investor strategies and market operations understanding."
 ---
 

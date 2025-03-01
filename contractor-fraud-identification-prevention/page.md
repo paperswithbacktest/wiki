@@ -1,5 +1,5 @@
 ---
-title: "Contractor Fraud: Identification and Prevention (Algo Trading)"
+title: "Contractor Fraud: Identification and Prevention"
 description: "Discover effective strategies for identifying and preventing contractor fraud, protecting your investments, and establishing trustworthy business relationships."
 ---
 

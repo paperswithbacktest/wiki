@@ -1,5 +1,5 @@
 ---
-title: "Agroforestry (Algo Trading)"
+title: "Agroforestry"
 description: "Explore the intersection of agroforestry and algorithmic trading to achieve environmental and financial sustainability through innovative resource and market management."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Wealthfront and E*TRADE Core Portfolios (Algo Trading)"
+title: "Comparison of Wealthfront and E*TRADE Core Portfolios"
 description: "Explore the distinct features and benefits of Wealthfront and E*TRADE Core Portfolios in this detailed comparison of their algorithmic trading services. Understand how each platform leverages automation and expert insights to enhance portfolio management and investment strategies for both novice and experienced investors. Make informed choices to optimize your financial planning in the rapidly evolving digital investment landscape."
 ---
 

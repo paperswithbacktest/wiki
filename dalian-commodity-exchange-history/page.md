@@ -1,5 +1,5 @@
 ---
-title: "Dalian Commodity Exchange: Overview and History (Algo Trading)"
+title: "Dalian Commodity Exchange: Overview and History"
 description: "Discover the Dalian Commodity Exchange's role in China's market evolution and the impact of algorithmic trading on efficiency and precision in commodities trading."
 ---
 

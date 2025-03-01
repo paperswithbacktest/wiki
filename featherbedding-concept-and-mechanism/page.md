@@ -1,5 +1,5 @@
 ---
-title: "Featherbedding: Concept and Mechanism (Algo Trading)"
+title: "Featherbedding: Concept and Mechanism"
 description: "Explore the interplay between featherbedding labor practices and algorithmic trading in today's economy Discover their impacts on efficiency employment and market dynamics"
 ---
 

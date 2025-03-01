@@ -1,5 +1,5 @@
 ---
-title: "History and Economics of the United States Automobile Industry (Algo Trading)"
+title: "History and Economics of the United States Automobile Industry"
 description: "Explore the US auto industry's history and economic impact alongside the role of algorithmic trading in optimizing investments within this vital sector."
 ---
 

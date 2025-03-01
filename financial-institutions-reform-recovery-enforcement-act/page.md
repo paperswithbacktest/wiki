@@ -1,5 +1,5 @@
 ---
-title: "Financial Institutions Reform, Recovery, and Enforcement Act (Algo Trading)"
+title: "Financial Institutions Reform, Recovery, and Enforcement Act"
 description: "Explore the complex relationship between algorithmic trading and regulatory frameworks like FIRREA that shape modern financial markets and ensure stability."
 ---
 

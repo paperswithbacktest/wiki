@@ -1,5 +1,5 @@
 ---
-title: "Falling Knife in Investing and Trading (Algo Trading)"
+title: "Falling Knife in Investing and Trading"
 description: "Explore the high-risk, high-reward strategy of falling knife investing combined with algorithmic trading to tackle market volatility and improve trading precision."
 ---
 

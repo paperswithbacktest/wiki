@@ -1,5 +1,5 @@
 ---
-title: "Historical Volatility: Calculation Methods and Applications (Algo Trading)"
+title: "Historical Volatility: Calculation Methods and Applications"
 description: "Discover how historical volatility informs risk management and strategy optimization in algorithmic trading by assessing price fluctuations and future variability."
 ---
 

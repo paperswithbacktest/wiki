@@ -1,5 +1,5 @@
 ---
-title: "Account Reconciliation (Algo Trading)"
+title: "Account Reconciliation"
 description: "Integrating accounting, reconciliation, and algorithmic trading is essential for streamlined financial management and decision-making in today's digital finance landscape."
 ---
 

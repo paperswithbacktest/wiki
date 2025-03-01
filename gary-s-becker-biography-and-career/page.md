@@ -1,5 +1,5 @@
 ---
-title: "Gary S. Becker: Biography and Career (Algo Trading)"
+title: "Gary S. Becker: Biography and Career"
 description: "Explore the life and legacy of Gary S. Becker, an economist who expanded economic analysis to social issues, influencing modern finance like algorithmic trading."
 ---
 

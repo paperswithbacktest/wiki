@@ -1,5 +1,5 @@
 ---
-title: "Apple Inc. Dividend Overview: Payout, Yield, and Growth Analysis (Algo Trading)"
+title: "Apple Inc. Dividend Overview: Payout, Yield, and Growth Analysis"
 description: "Explore Apple's dividend growth, yield, and strategies influenced by algorithmic trading to understand tech investment dynamics and enhance portfolio decisions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Average Directional Index: Overview and Formula (Algo Trading)"
+title: "Average Directional Index: Overview and Formula"
 description: "Enhance your trading strategies by integrating the Average Directional Index for gauging trend strength and refining decisions in algorithmic trading systems."
 ---
 

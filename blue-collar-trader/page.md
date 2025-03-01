@@ -1,5 +1,5 @@
 ---
-title: "Blue-Collar Trader (Algo Trading)"
+title: "Blue-Collar Trader"
 description: "Explore how blue-collar traders are reshaping financial markets using algorithmic strategies for diversification and independence in a rapidly evolving economy."
 ---
 

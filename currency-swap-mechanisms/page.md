@@ -1,5 +1,5 @@
 ---
-title: "Currency Swap Mechanisms (Algo Trading)"
+title: "Currency Swap Mechanisms"
 description: "Discover how currency swaps and algorithmic trading empower businesses to manage risks, optimize financial strategies, and capitalize on global market opportunities."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Albatross Labs (Algo Trading)"
+title: "Albatross Labs"
 description: "Albatross Labs excels in cryptocurrency algo trading using cutting-edge technology and innovative strategies creating high-speed automated systems for optimal execution."
 ---
 

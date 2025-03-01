@@ -1,5 +1,5 @@
 ---
-title: "Amortization of Intangible Assets (Algo Trading)"
+title: "Amortization of Intangible Assets"
 description: "Explore the importance of amortization of intangible assets in financial accounting and algorithmic trading to enhance investment strategies and decision-making."
 ---
 

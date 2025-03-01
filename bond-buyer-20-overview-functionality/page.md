@@ -1,5 +1,5 @@
 ---
-title: "Bond Buyer 20: Overview and Functionality (Algo Trading)"
+title: "Bond Buyer 20: Overview and Functionality"
 description: "Explore the functionality of the Bond Buyer 20 Index and the impact of algorithmic trading on municipal bonds with insights into market dynamics and trends."
 ---
 

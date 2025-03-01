@@ -1,5 +1,5 @@
 ---
-title: "Foreign Exchange Market Participation (Algo Trading)"
+title: "Foreign Exchange Market Participation"
 description: "Explore the evolving forex market with insights on algorithmic trading. Discover how technology enhances trading strategies while navigating opportunities and risks."
 ---
 

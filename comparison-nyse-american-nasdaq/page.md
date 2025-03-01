@@ -1,5 +1,5 @@
 ---
-title: "Comparison of NYSE American and Nasdaq (Algo Trading)"
+title: "Comparison of NYSE American and Nasdaq"
 description: "Explore the key differences between NYSE American and Nasdaq focusing on their structures listing requirements and market focus with particular attention to algorithmic trading's role in transforming the trading landscape. Understand how these exchanges foster innovation support small to mid-cap companies and cater to technology-oriented firms by leveraging distinct trading models and technology advancements to enhance market efficiency transparency and liquidity. Discover the dynamic interplay between traditional exchanges and modern trading strategies and its implications for future market developments."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Alternative Data in Trading (Algo Trading)"
+title: "Alternative Data in Trading"
 description: "Alternative data enhances algorithmic trading by offering insights into market trends through non-traditional sources like social media and satellite imagery."
 ---
 

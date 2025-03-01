@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Passive and Active Asset Management (Algo Trading)"
+title: "Comparison of Passive and Active Asset Management"
 description: "Explore the differences between passive and active asset management with insights into algorithmic trading Discover strategies to align with your investment goals"
 ---
 

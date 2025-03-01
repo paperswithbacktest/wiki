@@ -1,5 +1,5 @@
 ---
-title: "Futures Equivalent: Concept and Functionality (Algo Trading)"
+title: "Futures Equivalent: Concept and Functionality"
 description: "Discover the essentials of futures equivalent and algo trading in optimizing market strategies balancing risk exposure through dynamic automated solutions."
 ---
 

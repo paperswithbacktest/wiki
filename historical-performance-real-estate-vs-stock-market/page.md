@@ -1,5 +1,5 @@
 ---
-title: "Historical Performance of Real Estate vs. Stock Market (Algo Trading)"
+title: "Historical Performance of Real Estate vs. Stock Market"
 description: "Explore the historical performance of real estate and the stock market, highlighting algorithmic trading's role in optimizing modern investment strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Concept of Killing (Algo Trading)"
+title: "Concept of Killing"
 description: "Explore the transformative impact of algorithmic trading on modern markets including its benefits of increased efficiency and the ethical and regulatory challenges posed."
 ---
 

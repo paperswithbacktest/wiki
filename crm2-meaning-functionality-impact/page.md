@@ -1,5 +1,5 @@
 ---
-title: "CRM2: Meaning, Functionality, and Impact (Algo Trading)"
+title: "CRM2: Meaning, Functionality, and Impact"
 description: "Explore the role of CRM2 in Canadian financial markets focusing on investment disclosure and its impact on algorithmic trading strategies and transparency."
 ---
 

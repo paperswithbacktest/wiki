@@ -1,5 +1,5 @@
 ---
-title: "Average Annual Return (Algo Trading)"
+title: "Average Annual Return"
 description: "Discover how Average Annual Return (AAR) serves as a key metric for evaluating investment performance, aiding in informed decision-making in financial strategies."
 ---
 

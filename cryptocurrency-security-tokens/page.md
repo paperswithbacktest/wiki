@@ -1,5 +1,5 @@
 ---
-title: "Cryptocurrency Security Tokens (Algo Trading)"
+title: "Cryptocurrency Security Tokens"
 description: "Explore the dynamic world of cryptocurrency security tokens and algorithmic trading strategies in the digital finance market. Understand how security tokens revolutionize traditional finance by merging it with blockchain technology, providing ownership rights and enhancing liquidity. These tokens differ from cryptocurrencies, offering a secure, regulated investment option. Algorithmic trading further optimizes investment opportunities by leveraging predefined algorithms for swift transactions, risk mitigation, and portfolio diversification. This guide equips investors with the knowledge to successfully navigate the evolving landscape of digital assets."
 ---
 

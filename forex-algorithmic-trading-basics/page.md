@@ -1,5 +1,5 @@
 ---
-title: "Forex Algorithmic Trading Basics (Algo Trading)"
+title: "Forex Algorithmic Trading Basics"
 description: "Explore the transformative power of algorithmic trading in the forex market Learn how technology enhances strategies reduces human error and democratizes access"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Export Incentives: Types and Benefits (Algo Trading)"
+title: "Export Incentives: Types and Benefits"
 description: "Explore the advantages of export incentives and algorithmic trading that empower businesses to thrive globally Enhance profitability and market reach through these strategies"
 ---
 

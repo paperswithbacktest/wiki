@@ -1,5 +1,5 @@
 ---
-title: "Haoren(Heron) Deng (Algo Trading)"
+title: "Haoren(Heron) Deng"
 description: "Explore the journey of Haoren (Heron) Deng in algorithmic trading and software engineering, highlighting his impactful roles at Akuna Capital and VMware."
 ---
 

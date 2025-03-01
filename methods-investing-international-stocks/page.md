@@ -1,5 +1,5 @@
 ---
-title: "Methods of Investing in International Stocks (Algo Trading)"
+title: "Methods of Investing in International Stocks"
 description: "Explore methods of investing in international stocks including the advantages of diversification and the role of algorithmic trading in navigating global markets."
 ---
 

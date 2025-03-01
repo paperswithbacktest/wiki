@@ -1,5 +1,5 @@
 ---
-title: "EBITDA-to-Sales Ratio Calculation (Algo Trading)"
+title: "EBITDA-to-Sales Ratio Calculation"
 description: "Learn the importance of the EBITDA-to-Sales ratio in algorithmic trading to evaluate a company's profitability and operational efficiency for better investment decisions."
 ---
 

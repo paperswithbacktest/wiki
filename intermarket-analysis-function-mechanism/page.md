@@ -1,5 +1,5 @@
 ---
-title: "Intermarket Analysis: Function and Mechanism (Algo Trading)"
+title: "Intermarket Analysis: Function and Mechanism"
 description: "Explore the role of intermarket analysis in algo trading to boost investment returns. Learn how analyzing correlations across markets enhances decision-making."
 ---
 

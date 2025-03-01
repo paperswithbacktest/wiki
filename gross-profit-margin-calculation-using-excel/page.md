@@ -1,5 +1,5 @@
 ---
-title: "Gross Profit Margin Calculation Using Excel (Algo Trading)"
+title: "Gross Profit Margin Calculation Using Excel"
 description: "Master gross profit margin calculations in Excel to enhance financial analysis for algorithmic trading Improve decisions with precise cost management insights"
 ---
 

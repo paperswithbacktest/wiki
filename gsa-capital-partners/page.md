@@ -1,5 +1,5 @@
 ---
-title: "GSA Capital Partners (Algo Trading)"
+title: "GSA Capital Partners"
 description: "GSA Capital Partners is a leader in algorithmic trading known for using advanced technology and high-frequency strategies to impact global financial markets."
 ---
 

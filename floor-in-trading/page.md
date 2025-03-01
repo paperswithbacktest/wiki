@@ -1,5 +1,5 @@
 ---
-title: "Floor in Trading (Algo Trading)"
+title: "Floor in Trading"
 description: "Explore the transition from traditional trading floors to algorithmic trading and its impact on financial markets methods strategies and the skills required for success."
 ---
 

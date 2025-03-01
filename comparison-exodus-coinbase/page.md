@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Exodus and Coinbase (Algo Trading)"
+title: "Comparison of Exodus and Coinbase"
 description: "Compare Exodus and Coinbase to find the best crypto exchange for your needs. Discover differences in security user control and algo trading opportunities."
 ---
 

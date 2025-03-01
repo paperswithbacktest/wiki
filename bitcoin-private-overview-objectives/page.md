@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin Private: Overview and Objectives (Algo Trading)"
+title: "Bitcoin Private: Overview and Objectives"
 description: "Explore how Bitcoin Private combines Bitcoin's security with advanced privacy features using zk-SNARKs and the impact of algorithmic trading in volatile crypto markets."
 ---
 

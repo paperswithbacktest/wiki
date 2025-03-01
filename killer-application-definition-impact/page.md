@@ -1,5 +1,5 @@
 ---
-title: "Killer Application: Definition and Impact (Algo Trading)"
+title: "Killer Application: Definition and Impact"
 description: "Explore the impact of killer applications in trading technology and how algorithmic trading has transformed market dynamics by optimizing operations and efficiency."
 ---
 

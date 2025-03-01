@@ -1,5 +1,5 @@
 ---
-title: "Jordanian Dinar: Overview and Considerations (Algo Trading)"
+title: "Jordanian Dinar: Overview and Considerations"
 description: "Explore the Jordanian Dinar's stable peg to the US dollar and how it intersects with algorithmic trading in optimizing trade strategies and minimizing risks."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Economic Challenges Facing the American Middle Class (Algo Trading)"
+title: "Economic Challenges Facing the American Middle Class"
 description: "Explore the economic challenges faced by the American middle class, from rising living costs to wage stagnation, and how algo trading can impact financial stability."
 ---
 

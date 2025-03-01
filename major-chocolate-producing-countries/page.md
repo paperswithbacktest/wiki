@@ -1,5 +1,5 @@
 ---
-title: "Major Chocolate-Producing Countries (Algo Trading)"
+title: "Major Chocolate-Producing Countries"
 description: "Explore the intricacies of the global chocolate industry with insights into major producers, the role of algorithmic trading, and emerging market trends."
 ---
 

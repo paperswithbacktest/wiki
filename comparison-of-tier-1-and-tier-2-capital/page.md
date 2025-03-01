@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Tier 1 and Tier 2 Capital (Algo Trading)"
+title: "Comparison of Tier 1 and Tier 2 Capital"
 description: "Explore the critical role of Tier 1 and Tier 2 capital in banking, understand capital requirements, and learn how they align with algorithmic trading strategies."
 ---
 

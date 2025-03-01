@@ -1,5 +1,5 @@
 ---
-title: "Functional Regulation: Overview and Criticism (Algo Trading)"
+title: "Functional Regulation: Overview and Criticism"
 description: "Explore the advantages and regulatory challenges of algorithmic trading in financial markets. Understand the impact of functional regulations and criticisms they face while leveraging technological advancements."
 ---
 

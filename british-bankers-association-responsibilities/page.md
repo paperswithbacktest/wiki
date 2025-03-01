@@ -1,5 +1,5 @@
 ---
-title: "British Bankers' Association Responsibilities (Algo Trading)"
+title: "British Bankers' Association Responsibilities"
 description: "Explore the intersection of banking regulation, the British Bankers' Association, and algorithmic trading in shaping financial sector stability and growth."
 ---
 

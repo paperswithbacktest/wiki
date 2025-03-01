@@ -1,5 +1,5 @@
 ---
-title: "Fiat Currency: Function, Examples, Advantages, and Disadvantages (Algo Trading)"
+title: "Fiat Currency: Function, Examples, Advantages, and Disadvantages"
 description: "Explore the function and impact of fiat currency and algorithmic trading on global monetary systems their benefits challenges and implications for economic stability."
 ---
 

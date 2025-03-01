@@ -1,5 +1,5 @@
 ---
-title: "Community Investing: Overview and Examples (Algo Trading)"
+title: "Community Investing: Overview and Examples"
 description: "Explore the fusion of community investing, socially responsible investing, and algorithmic trading driving financial returns alongside positive social impacts."
 ---
 

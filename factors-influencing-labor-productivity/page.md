@@ -1,5 +1,5 @@
 ---
-title: "Factors Influencing Labor Productivity (Algo Trading)"
+title: "Factors Influencing Labor Productivity"
 description: "Explore factors influencing labor productivity in algorithmic trading Understand how tech investments and workforce training impact economic growth and competitiveness"
 ---
 

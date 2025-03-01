@@ -1,5 +1,5 @@
 ---
-title: "Credence Goods: Overview, Challenges, and Examples (Algo Trading)"
+title: "Credence Goods: Overview, Challenges, and Examples"
 description: "Discover the challenges and dynamics of credence goods and algorithmic trading in today's markets Explore consumer trust issues and technological impacts"
 ---
 

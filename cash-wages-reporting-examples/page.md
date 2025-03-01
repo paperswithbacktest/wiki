@@ -1,5 +1,5 @@
 ---
-title: "Cash Wages: Definition, Reporting, and Examples (Algo Trading)"
+title: "Cash Wages: Definition, Reporting, and Examples"
 description: "Explore cash wages the simplest form of compensation with insights into reporting practices and examples to ensure transparency and compliance with regulations."
 ---
 

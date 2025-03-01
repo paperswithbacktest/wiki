@@ -1,5 +1,5 @@
 ---
-title: "Market fragmentation (Algo Trading)"
+title: "Market fragmentation"
 description: "Market fragmentation challenges algorithmic trading by complicating pricing and liquidity across multiple venues. Discover strategies to thrive in this dispersed market landscape."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Core Earnings: Definition and Examples (Algo Trading)"
+title: "Core Earnings: Definition and Examples"
 description: "Explore the significance of core earnings and algorithmic trading in financial analysis, offering investors a clear perspective on profitability and market dynamics."
 ---
 

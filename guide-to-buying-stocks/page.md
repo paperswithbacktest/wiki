@@ -1,5 +1,5 @@
 ---
-title: "Guide to Buying Stocks (Algo Trading)"
+title: "Guide to Buying Stocks"
 description: "Discover essential tips and strategies for buying stocks with confidence as a beginner, from understanding market basics to exploring algorithmic trading methods."
 ---
 

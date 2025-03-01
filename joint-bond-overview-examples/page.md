@@ -1,5 +1,5 @@
 ---
-title: "Joint Bond: Overview and Examples (Algo Trading)"
+title: "Joint Bond: Overview and Examples"
 description: "Explore the dynamics of joint bonds and algorithmic trading in modern finance Learn about bond mechanics, efficiency enhancements, and strategic investment insights"
 ---
 

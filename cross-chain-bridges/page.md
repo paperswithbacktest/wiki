@@ -1,5 +1,5 @@
 ---
-title: "Cross-Chain Bridges (Algo Trading)"
+title: "Cross-Chain Bridges"
 description: "Explore blockchain interoperability and cross-chain bridges key in cryptocurrency trading. Learn how they enhance trading efficiency with secure asset transfers."
 ---
 

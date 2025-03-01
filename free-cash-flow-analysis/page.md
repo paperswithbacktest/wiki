@@ -1,5 +1,5 @@
 ---
-title: "Free Cash Flow Analysis (Algo Trading)"
+title: "Free Cash Flow Analysis"
 description: "Explore how Free Cash Flow analysis in algorithmic trading aids investors in assessing financial health promoting data-driven strategies for informed decisions."
 ---
 

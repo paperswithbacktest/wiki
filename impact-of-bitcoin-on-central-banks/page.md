@@ -1,5 +1,5 @@
 ---
-title: "Impact of Bitcoin on Central Banks (Algo Trading)"
+title: "Impact of Bitcoin on Central Banks"
 description: "Explore the transformative impact of Bitcoin on central banks and algorithmic trading Discover how cryptocurrency reshapes economic governance and monetary policy"
 ---
 

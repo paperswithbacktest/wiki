@@ -1,5 +1,5 @@
 ---
-title: "Challenges of Bitcoin's Lightning Network (Algo Trading)"
+title: "Challenges of Bitcoin's Lightning Network"
 description: "Explore the complexities and opportunities of integrating Bitcoin's Lightning Network with algorithmic trading, enhancing transaction speed and cost-effectiveness while leveraging automation for improved trading efficiency in the evolving cryptocurrency landscape."
 ---
 

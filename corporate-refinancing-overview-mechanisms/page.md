@@ -1,5 +1,5 @@
 ---
-title: "Corporate Refinancing: Overview and Mechanisms (Algo Trading)"
+title: "Corporate Refinancing: Overview and Mechanisms"
 description: "Explore debt restructuring financial management and algorithmic trading to optimize corporate refinancing. Enhance financial health and achieve sustainable growth."
 ---
 

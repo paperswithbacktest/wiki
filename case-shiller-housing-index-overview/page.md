@@ -1,5 +1,5 @@
 ---
-title: "Case-Shiller Housing Index Overview (Algo Trading)"
+title: "Case-Shiller Housing Index Overview"
 description: "Explore the Case-Shiller Index to gain insights into U.S. housing price trends. Learn how this essential tool aids economic analysis and algorithmic trading."
 ---
 

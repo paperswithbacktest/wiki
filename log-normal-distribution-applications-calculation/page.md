@@ -1,5 +1,5 @@
 ---
-title: "Log-Normal Distribution: Applications and Calculation (Algo Trading)"
+title: "Log-Normal Distribution: Applications and Calculation"
 description: "Discover how the log-normal distribution enhances algorithmic trading with its unique properties and financial applications improving trading strategy performance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Lilly Ledbetter Fair Pay Act: History and Impact (Algo Trading)"
+title: "Lilly Ledbetter Fair Pay Act: History and Impact"
 description: "Explore the Lilly Ledbetter Fair Pay Act's role in addressing wage discrimination and its relevance in algorithmic trading industries striving for pay equity."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Investment Analysis Using Financial Ratios (Algo Trading)"
+title: "Investment Analysis Using Financial Ratios"
 description: "Explore investment analysis using financial ratios and algorithmic trading to automate decisions enhance precision and capitalize on market opportunities efficiently"
 ---
 

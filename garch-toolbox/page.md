@@ -1,5 +1,5 @@
 ---
-title: "GARCH toolbox (Algo Trading)"
+title: "GARCH toolbox"
 description: Enhance your algorithmic trading strategies with our GARCH toolbox designed to forecast market volatility effectively. Dive into the Generalized Autoregressive Conditional Heteroskedasticity model, widely recognized for its ability to analyze financial market volatility. By leveraging historical data, our GARCH toolbox offers accurate volatility predictions crucial for risk management and optimizing trade timing. Explore its integration within algorithmic trading to enhance your approach to managing market dynamics and improving trading performance. Discover how to implement GARCH models using Python and elevate your trading strategy.
 ---
 

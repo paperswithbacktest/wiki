@@ -1,5 +1,5 @@
 ---
-title: "Illusory Truth Effect: Explanation and Prevention (Algo Trading)"
+title: "Illusory Truth Effect: Explanation and Prevention"
 description: "Explore the illusory truth effect in algorithmic trading Learn how repeated misinformation impacts market decisions and discover strategies to mitigate its influence"
 ---
 

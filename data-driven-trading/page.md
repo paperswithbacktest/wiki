@@ -1,5 +1,5 @@
 ---
-title: "Data-Driven Trading (Algo Trading)"
+title: "Data-Driven Trading"
 description: "Explore the transformative world of data-driven trading where algorithmic trading strategies enhance efficiency and precision offering traders a competitive edge."
 ---
 

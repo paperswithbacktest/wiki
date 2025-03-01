@@ -1,5 +1,5 @@
 ---
-title: "Economic Slump: Definition and Mechanisms (Algo Trading)"
+title: "Economic Slump: Definition and Mechanisms"
 description: "Explore how economic slumps affect markets and the significant role of algorithmic trading in stabilizing or predicting downturns using advanced technologies."
 ---
 

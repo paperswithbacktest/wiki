@@ -1,5 +1,5 @@
 ---
-title: "Fiduciary Call: Definition and Mechanism (Algo Trading)"
+title: "Fiduciary Call: Definition and Mechanism"
 description: "Discover the intricate concept of fiduciary calls in investment and explore how algorithmic trading enhances portfolio performance through strategic precision."
 ---
 

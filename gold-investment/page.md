@@ -1,5 +1,5 @@
 ---
-title: "Gold Investment (Algo Trading)"
+title: "Gold Investment"
 description: "Explore gold investment through the lens of algorithmic trading to maximize efficiency. Learn how technological advancements can enhance your precious metals strategy."
 ---
 

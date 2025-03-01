@@ -1,5 +1,5 @@
 ---
-title: "Comparison of EBIT and Operating Income (Algo Trading)"
+title: "Comparison of EBIT and Operating Income"
 description: "Explore the essential differences and applications of EBIT and Operating Income in algorithmic trading to enhance profitability and operational analysis. Discover how these key financial metrics serve as vital tools for traders, offering insights into company performance and informing precise automated trading decisions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Difficulty Bomb and Mining Challenges (Algo Trading)"
+title: "Ethereum Difficulty Bomb and Mining Challenges"
 description: "Explore Ethereum's Difficulty Bomb and its impact on mining and algorithmic trading. Learn how Ethereum's shift to Proof-of-Stake affects market dynamics."
 ---
 

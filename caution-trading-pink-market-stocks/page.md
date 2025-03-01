@@ -1,5 +1,5 @@
 ---
-title: "Caution in Trading Pink Market Stocks (Algo Trading)"
+title: "Caution in Trading Pink Market Stocks"
 description: "Approach Pink Market stocks with care as this OTC market has less regulatory oversight. Algo trading offers opportunities but also amplifies risks."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Hawks and Doves (Algo Trading)"
+title: "Hawks and Doves"
 description: "Explore the intricacies of hawkish and dovish influences on algorithmic trading, where political and economic policies shape market strategies. Discover how hawks push for aggressive foreign and economic measures while doves advocate for diplomacy and growth, affecting interest rates, inflation control, and market dynamics. Uncover how algorithmic traders integrate these policy stances for informed decision-making in the financial markets."
 ---
 

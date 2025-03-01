@@ -1,5 +1,5 @@
 ---
-title: "Importance of Trading Volume and Open Interest in Options Trading (Algo Trading)"
+title: "Importance of Trading Volume and Open Interest in Options Trading"
 description: "Explore the significance of trading volume and open interest in options trading, focusing on how these metrics influence market activity and strategy development. Understand how trading volume serves as a crucial liquidity indicator, while open interest reveals market sentiment and trader commitment. This comprehensive guide highlights the integration of these metrics with algorithmic strategies to optimize decision-making and enhance trading outcomes in the complex landscape of financial markets."
 ---
 

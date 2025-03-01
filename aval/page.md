@@ -1,5 +1,5 @@
 ---
-title: "Aval (Algo Trading)"
+title: "Aval"
 description: "Explore essential finance concepts including endorsements, aval guarantees, and algorithmic trading to navigate and optimize modern trading strategies."
 ---
 

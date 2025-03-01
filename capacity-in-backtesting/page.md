@@ -1,5 +1,5 @@
 ---
-title: "Capacity in backtesting (Algo Trading)"
+title: "Capacity in backtesting"
 description: Explore the essential role of capacity in backtesting for algorithmic trading. This guide investigates into how capacity constraints can impact the scalability and efficiency of trading strategies, highlighting the importance of addressing these challenges. Understand the factors affecting backtesting capacity and discover advanced techniques to enhance strategy resilience and scalability, ensuring successful adaptation from theoretical to practical trading environments.
 ---
 

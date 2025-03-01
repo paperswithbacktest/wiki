@@ -1,5 +1,5 @@
 ---
-title: "Maturity Period of Savings Bonds (Algo Trading)"
+title: "Maturity Period of Savings Bonds"
 description: "Explore the complexities of savings bond maturity and face value in algorithmic trading. This article clarifies foundational concepts and ties traditional investments to modern automated strategies. Understand how savings bonds integrate with algo trading for informed financial planning and enhanced portfolio management."
 ---
 

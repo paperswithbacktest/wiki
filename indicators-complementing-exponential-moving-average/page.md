@@ -1,5 +1,5 @@
 ---
-title: "Indicators Complementing the Exponential Moving Average (Algo Trading)"
+title: "Indicators Complementing the Exponential Moving Average"
 description: "Discover how the Exponential Moving Average enhances trading strategies with its sensitivity to recent price changes providing insights into market trends."
 ---
 

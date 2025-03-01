@@ -1,5 +1,5 @@
 ---
-title: "Historical Market Risk Premium (Algo Trading)"
+title: "Historical Market Risk Premium"
 description: "Explore investment risks and market risk premium in the context of algorithmic trading Gain insights into risk management for better investment decisions"
 ---
 

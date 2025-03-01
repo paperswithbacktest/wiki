@@ -1,5 +1,5 @@
 ---
-title: "Copper: Significance, Price Factors, and Future Outlook (Algo Trading)"
+title: "Copper: Significance, Price Factors, and Future Outlook"
 description: "Explore the significance of copper in global markets the factors influencing its price and the future trends driven by algorithmic trading and green energy investments."
 ---
 

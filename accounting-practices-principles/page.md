@@ -1,5 +1,5 @@
 ---
-title: "Accounting Practices and Principles (Algo Trading)"
+title: "Accounting Practices and Principles"
 description: "Explore the synergy between traditional accounting principles and algorithmic trading in financial markets. Discover how accounting methods impact trading strategies."
 ---
 

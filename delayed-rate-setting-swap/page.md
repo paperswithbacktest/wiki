@@ -1,5 +1,5 @@
 ---
-title: "Delayed Rate Setting Swap (Algo Trading)"
+title: "Delayed Rate Setting Swap"
 description: "Explore the complexities of delayed rate setting swaps, a unique interest rate swap used in algorithmic trading to manage risk and optimize profit."
 ---
 

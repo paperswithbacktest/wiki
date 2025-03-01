@@ -1,5 +1,5 @@
 ---
-title: "European Terms: Definition and Examples (Algo Trading)"
+title: "European Terms: Definition and Examples"
 description: "Explore the intricacies of European terms and algorithmic trading to enhance your understanding of forex markets and optimize trading strategies with expert insights."
 ---
 

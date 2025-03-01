@@ -1,5 +1,5 @@
 ---
-title: "Common-Pool Resource and Its Functionality (Algo Trading)"
+title: "Common-Pool Resource and Its Functionality"
 description: "Explore the economic dynamics of common-pool resources and discover strategies for effective management in today's interconnected global economy. Learn about the challenges of preventing the overuse of shared resources like fisheries, forests, and water basins, and the role of algorithmic trading in optimizing financial resource management. Through real-world case studies and economic theories, the article provides insights into sustainable practices and regulatory frameworks essential for balancing individual interests and collective benefits, fostering environmental and economic sustainability."
 ---
 

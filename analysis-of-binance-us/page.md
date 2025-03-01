@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Binance.US (Algo Trading)"
+title: "Analysis of Binance.US"
 description: "Explore Binance.US, a U.S.-compliant crypto platform offering algorithmic trading capabilities. Discover its unique features, pros, and regulatory adaptations."
 ---
 

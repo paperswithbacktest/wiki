@@ -1,5 +1,5 @@
 ---
-title: "Drawing Account and Its Functionality (Algo Trading)"
+title: "Drawing Account and Its Functionality"
 description: "Explore essential finance concepts including the drawing account for partnerships, financial management strategies, accounting principles, and algorithmic trading dynamics."
 ---
 

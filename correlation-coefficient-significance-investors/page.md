@@ -1,5 +1,5 @@
 ---
-title: "Correlation Coefficient and Its Significance for Investors (Algo Trading)"
+title: "Correlation Coefficient and Its Significance for Investors"
 description: "Explore the impact of the correlation coefficient in algorithmic trading as a statistical tool used to enhance strategies and improve investment outcomes."
 ---
 

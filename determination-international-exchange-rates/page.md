@@ -1,5 +1,5 @@
 ---
-title: "Determination of International Exchange Rates (Algo Trading)"
+title: "Determination of International Exchange Rates"
 description: "Explore the pivotal role of exchange rates in global trade with a focus on algorithmic trading in Forex Learn how currencies are valued and traded worldwide"
 ---
 

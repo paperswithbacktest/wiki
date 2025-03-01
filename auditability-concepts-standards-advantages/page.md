@@ -1,5 +1,5 @@
 ---
-title: "Auditability: Concepts, Standards, and Advantages (Algo Trading)"
+title: "Auditability: Concepts, Standards, and Advantages"
 description: "Enhance algorithmic trading with auditability ensuring transparency risk reduction and regulatory compliance. Explore concepts standards and benefits here."
 ---
 

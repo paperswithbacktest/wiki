@@ -1,5 +1,5 @@
 ---
-title: "Dividend Arbitrage: Mechanics and Examples (Algo Trading)"
+title: "Dividend Arbitrage: Mechanics and Examples"
 description: "Explore the mechanics of dividend arbitrage and its synergy with algorithmic trading to exploit dividend-related market inefficiencies and enhance investment returns."
 ---
 

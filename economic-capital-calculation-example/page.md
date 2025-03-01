@@ -1,5 +1,5 @@
 ---
-title: "Economic Capital: Calculation and Example (Algo Trading)"
+title: "Economic Capital: Calculation and Example"
 description: "Discover how economic capital calculations enhance algorithmic trading systems by improving risk management and investment strategies in financial markets."
 ---
 

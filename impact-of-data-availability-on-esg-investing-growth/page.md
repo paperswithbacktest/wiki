@@ -1,5 +1,5 @@
 ---
-title: "Impact of Data Availability on ESG Investing Growth (Algo Trading)"
+title: "Impact of Data Availability on ESG Investing Growth"
 description: "ESG investing is transforming with data availability enhancing responsible investment decisions as investors integrate ethics with profitability in algo trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Historical Significance of Gold's Value (Algo Trading)"
+title: "Historical Significance of Gold's Value"
 description: "Explore gold's enduring value and its transformation in trading with algorithmic strategies enhancing investment precision and efficiency in modern markets."
 ---
 

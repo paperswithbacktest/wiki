@@ -1,5 +1,5 @@
 ---
-title: "Difference Between Revenue and Retained Earnings (Algo Trading)"
+title: "Difference Between Revenue and Retained Earnings"
 description: "Explore the key differences between revenue and retained earnings crucial for algorithmic trading strategies and financial accounting in the modern market."
 ---
 

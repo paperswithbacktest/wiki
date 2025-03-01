@@ -1,5 +1,5 @@
 ---
-title: "Inflation Protection Strategies (Algo Trading)"
+title: "Inflation Protection Strategies"
 description: "Explore effective inflation protection strategies with a focus on algorithmic trading to enhance portfolio performance and safeguard investments in volatile markets."
 ---
 

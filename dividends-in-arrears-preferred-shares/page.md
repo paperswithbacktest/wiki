@@ -1,5 +1,5 @@
 ---
-title: "Dividends in Arrears and Preferred Shares (Algo Trading)"
+title: "Dividends in Arrears and Preferred Shares"
 description: "Explore the complexities of investing in preferred shares and the impact of dividends in arrears. Learn how algorithmic trading influences market dynamics."
 ---
 

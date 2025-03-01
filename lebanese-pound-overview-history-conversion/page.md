@@ -1,5 +1,5 @@
 ---
-title: "Lebanese Pound: Overview, History, and Conversion (Algo Trading)"
+title: "Lebanese Pound: Overview, History, and Conversion"
 description: "Explore the history and complexities of the Lebanese Pound with an emphasis on currency conversion, economic challenges, and the role of algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Global Fund: Overview, Operations, and Investment (Algo Trading)"
+title: "Global Fund: Overview, Operations, and Investment"
 description: "Discover the transformative impact of algorithmic trading on global fund operations optimizing investment strategies with high-speed precision and data-driven insights."
 ---
 

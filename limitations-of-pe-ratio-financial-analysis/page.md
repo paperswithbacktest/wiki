@@ -1,5 +1,5 @@
 ---
-title: "Limitations of the P/E Ratio in Financial Analysis (Algo Trading)"
+title: "Limitations of the P/E Ratio in Financial Analysis"
 description: "Explore the limitations of the Price-to-Earnings ratio in financial analysis and how it affects algorithmic trading strategies to enhance investment decisions."
 ---
 

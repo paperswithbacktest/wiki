@@ -1,5 +1,5 @@
 ---
-title: "Investment Company Act of 1940 (Algo Trading)"
+title: "Investment Company Act of 1940"
 description: "Explore how the Investment Company Act of 1940 shapes algorithmic trading within regulatory frameworks to ensure transparency and investor protection."
 ---
 

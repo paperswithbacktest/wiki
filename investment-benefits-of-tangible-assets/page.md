@@ -1,5 +1,5 @@
 ---
-title: "Investment Benefits of Tangible Assets (Algo Trading)"
+title: "Investment Benefits of Tangible Assets"
 description: "Discover how tangible assets like real estate and machinery enhance investment portfolios through stability and income benefits Learn about algorithmic trading's role"
 ---
 

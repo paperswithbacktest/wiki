@@ -1,5 +1,5 @@
 ---
-title: "ETF Wrap: Mechanics, Benefits, and Drawbacks (Algo Trading)"
+title: "ETF Wrap: Mechanics, Benefits, and Drawbacks"
 description: "Explore the mechanics benefits and drawbacks of investing in ETFs through wrap accounts with algorithmic trading Discover strategies and make informed decisions"
 ---
 

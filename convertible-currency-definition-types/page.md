@@ -1,5 +1,5 @@
 ---
-title: "Convertible Currency: Definition and Types (Algo Trading)"
+title: "Convertible Currency: Definition and Types"
 description: "Explore the significance of convertible currencies in global finance and their role in algorithmic trading to enhance liquidity and efficiency in international markets."
 ---
 

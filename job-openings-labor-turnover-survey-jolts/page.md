@@ -1,5 +1,5 @@
 ---
-title: "Job Openings and Labor Turnover Survey (JOLTS) (Algo Trading)"
+title: "Job Openings and Labor Turnover Survey (JOLTS)"
 description: "Explore the intersection of JOLTS data and algorithmic trading to boost trading strategies and assess economic health using labor market indicators."
 ---
 

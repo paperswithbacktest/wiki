@@ -1,5 +1,5 @@
 ---
-title: "Bored Ape Yacht Club (Algo Trading)"
+title: "Bored Ape Yacht Club"
 description: "Discover the intersection of Bored Ape Yacht Club NFTs and algorithmic trading as we explore unique digital assets, trading strategies, and market dynamics. Uncover how BAYC's exclusivity and community benefits enhance its status in the NFT space and its potential role in the evolving landscape of digital asset trading."
 ---
 

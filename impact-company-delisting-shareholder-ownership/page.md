@@ -1,5 +1,5 @@
 ---
-title: "Impact of Company Delisting on Shareholder Ownership (Algo Trading)"
+title: "Impact of Company Delisting on Shareholder Ownership"
 description: "Explore the impact of company delisting on shareholder rights and stock ownership in the fast-paced world of algo trading and understand the potential challenges faced."
 ---
 

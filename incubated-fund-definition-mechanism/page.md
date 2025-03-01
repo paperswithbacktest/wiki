@@ -1,5 +1,5 @@
 ---
-title: "Incubated Fund: Definition and Mechanism (Algo Trading)"
+title: "Incubated Fund: Definition and Mechanism"
 description: "Explore incubated funds and their role in algorithmic trading Discover how innovation in financial strategies can optimize returns and manage risks effectively"
 ---
 

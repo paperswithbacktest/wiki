@@ -1,5 +1,5 @@
 ---
-title: "Kirk Report (Algo Trading)"
+title: "Kirk Report"
 description: Explore the innovative world of algorithmic trading with The Kirk Report by Charles E. Kirk, a cornerstone for traders aiming to leverage computational power for strategic financial decisions. Gain access to insightful market analyses, actionable ideas, and risk management techniques designed to optimize your trading algorithms, empowering you to navigate complex markets with precision and confidence.
 ---
 

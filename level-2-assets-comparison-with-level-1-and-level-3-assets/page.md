@@ -1,5 +1,5 @@
 ---
-title: "Level 2 Assets: Comparison with Level 1 and Level 3 Assets (Algo Trading)"
+title: "Level 2 Assets: Comparison with Level 1 and Level 3 Assets"
 description: "Explore the complexities of Level 2 financial assets, such as corporate bonds and derivatives, with insight into valuation and algorithmic trading strategies."
 ---
 

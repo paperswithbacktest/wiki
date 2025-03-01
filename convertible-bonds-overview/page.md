@@ -1,5 +1,5 @@
 ---
-title: "Convertible Bonds Overview (Algo Trading)"
+title: "Convertible Bonds Overview"
 description: "Explore the world of convertible bonds and algorithmic trading Discover how these hybrid securities balance debt and equity for adaptable investment strategies"
 ---
 

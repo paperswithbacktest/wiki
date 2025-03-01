@@ -1,5 +1,5 @@
 ---
-title: "Mako (Algo Trading)"
+title: "Mako"
 description: "Explore Mako's innovative algorithmic trading solutions that enhance traders' efficiency with customizable strategies and cutting-edge technology, driving market success."
 ---
 

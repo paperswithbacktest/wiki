@@ -1,5 +1,5 @@
 ---
-title: "Lipper Rating System (Algo Trading)"
+title: "Lipper Rating System"
 description: "Explore the intersection of financial analysis and algorithmic trading through Lipper ratings Discover how traditional ratings meet advanced trading technologies for better investments"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Locating a Company's Profit and Loss Statement (Algo Trading)"
+title: "Locating a Company's Profit and Loss Statement"
 description: "Locate important insights in a profit and loss statement to guide financial decisions in algorithmic trading and assess a company's financial health effectively."
 ---
 

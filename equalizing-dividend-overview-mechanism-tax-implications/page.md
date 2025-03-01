@@ -1,5 +1,5 @@
 ---
-title: "Equalizing Dividend: Overview, Mechanism, and Tax Implications (Algo Trading)"
+title: "Equalizing Dividend: Overview, Mechanism, and Tax Implications"
 description: "Discover the complexities of dividend strategies and tax implications in algorithmic trading. Understand how these elements influence investor returns and tax efficiency."
 ---
 

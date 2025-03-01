@@ -1,5 +1,5 @@
 ---
-title: "Contingent Convertibles in European Finance (Algo Trading)"
+title: "Contingent Convertibles in European Finance"
 description: "Explore the significance of Contingent Convertibles in European finance and the role of algorithmic trading in enhancing market dynamics for banks and investors."
 ---
 

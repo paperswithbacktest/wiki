@@ -1,5 +1,5 @@
 ---
-title: "Indicators for Selling Mutual Funds (Algo Trading)"
+title: "Indicators for Selling Mutual Funds"
 description: "Discover key strategies for selling mutual funds and leveraging algorithmic trading to enhance portfolio performance and align with financial objectives efficiently."
 ---
 

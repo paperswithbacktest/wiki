@@ -1,5 +1,5 @@
 ---
-title: "Causes of the Subprime Mortgage Crisis (Algo Trading)"
+title: "Causes of the Subprime Mortgage Crisis"
 description: "Explore the causes behind the subprime mortgage crisis linked to risky lending practices and financial innovations with global repercussions and lessons learned."
 ---
 

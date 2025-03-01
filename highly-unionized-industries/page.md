@@ -1,5 +1,5 @@
 ---
-title: "List of Highly Unionized Industries (Algo Trading)"
+title: "List of Highly Unionized Industries"
 description: "Discover how technological advancements like algorithmic trading are reshaping unionized industries and presenting both challenges and opportunities for labor unions."
 ---
 

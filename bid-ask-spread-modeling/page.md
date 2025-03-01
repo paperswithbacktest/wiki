@@ -1,5 +1,5 @@
 ---
-title: "Bid-ask spread modeling (Algo Trading)"
+title: "Bid-ask spread modeling"
 description: "Explore bid-ask spread modeling in algo trading to master critical market dynamics and optimize strategies, enhancing trade execution and efficiency."
 ---
 

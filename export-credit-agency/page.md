@@ -1,5 +1,5 @@
 ---
-title: "Export Credit Agency (Algo Trading)"
+title: "Export Credit Agency"
 description: "Explore how Export Credit Agencies and algorithmic trading redefine trade finance by enhancing efficiency reducing risks and creating global market opportunities"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Wealthfront and Vanguard Personal Advisor (Algo Trading)"
+title: "Comparison of Wealthfront and Vanguard Personal Advisor"
 description: "Explore a detailed comparison of Wealthfront and Vanguard Personal Advisor Services, two prestigious investment platforms offering unique methods for wealth management. Discover Wealthfront's automated, tech-driven solutions appealing to modern investors, and Vanguard's blend of digital tools and personalized advice. This article dissects their features, focusing on algorithmic trading, to aid readers in choosing the platform that aligns with their financial goals."
 ---
 

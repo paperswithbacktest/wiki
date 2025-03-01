@@ -1,5 +1,5 @@
 ---
-title: "Economic Collapse and Causes (Algo Trading)"
+title: "Economic Collapse and Causes"
 description: "Explore the causes of economic collapse and financial crises, and understand the impact of algorithmic trading on market stability during economic downturns."
 ---
 

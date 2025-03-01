@@ -1,5 +1,5 @@
 ---
-title: "Jump Trading LLC Overview (Algo Trading)"
+title: "Jump Trading LLC Overview"
 description: "Explore how Jump Trading LLC leverages algorithmic and high-frequency trading to thrive in financial markets with cutting-edge technology and innovation."
 ---
 

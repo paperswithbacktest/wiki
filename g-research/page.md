@@ -1,5 +1,5 @@
 ---
-title: "G-Research (Algo Trading)"
+title: "G-Research"
 description: "Explore how G-Research revolutionizes algorithmic trading with cutting-edge models and technologies enhancing speed accuracy and efficiency in financial markets."
 ---
 

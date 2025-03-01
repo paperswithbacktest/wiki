@@ -1,5 +1,5 @@
 ---
-title: "Low-volatility investing (Algo Trading)"
+title: "Low-volatility investing"
 description: Low-volatility investing is a strategic approach in finance that targets assets with minimal price fluctuations, aiming to provide stable returns and reduce risk compared to the broader market. It challenges traditional theories like the Capital Asset Pricing Model by suggesting that lower-risk stocks may outperform high-risk ones in the long term. In algorithmic trading, this method is effective for real-time selection of low-risk assets, enhancing portfolio management. The 2008 financial crisis highlighted its value, prompting increased adoption and the development of indices and funds that cater to investors seeking less volatile investment options.
 ---
 

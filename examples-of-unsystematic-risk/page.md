@@ -1,5 +1,5 @@
 ---
-title: "Examples of Unsystematic Risk (Algo Trading)"
+title: "Examples of Unsystematic Risk"
 description: "Explore the complexities of unsystematic risk in algorithmic trading Learn how to mitigate these risks through diversification and robust risk management strategies"
 ---
 

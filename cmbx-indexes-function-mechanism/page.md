@@ -1,5 +1,5 @@
 ---
-title: "CMBX Indexes: Function and Mechanism (Algo Trading)"
+title: "CMBX Indexes: Function and Mechanism"
 description: "Discover how CMBX indexes enhance credit risk management in CMBS markets by providing insight, liquidity, and diversification for informed investment decisions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bimetallic Standard: Definition and Function (Algo Trading)"
+title: "Bimetallic Standard: Definition and Function"
 description: "Discover the concept of the bimetallic standard a monetary framework utilizing gold and silver as legal tender to enhance stability and broaden money supply."
 ---
 

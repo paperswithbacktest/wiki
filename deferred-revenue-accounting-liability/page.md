@@ -1,5 +1,5 @@
 ---
-title: "Deferred Revenue in Accounting and Its Classification as a Liability (Algo Trading)"
+title: "Deferred Revenue in Accounting and Its Classification as a Liability"
 description: "Discover the role of deferred revenue in accounting, its classification as a liability, and its impact on algorithmic trading. Empower your financial strategies."
 ---
 

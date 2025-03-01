@@ -1,5 +1,5 @@
 ---
-title: "European Financial Stability Facility (Algo Trading)"
+title: "European Financial Stability Facility"
 description: "Explore the European Financial Stability Facility's role in crisis management and discover how algorithmic trading influences eurozone financial stability."
 ---
 

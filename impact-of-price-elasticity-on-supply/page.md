@@ -1,5 +1,5 @@
 ---
-title: "Impact of Price Elasticity on Supply (Algo Trading)"
+title: "Impact of Price Elasticity on Supply"
 description: "Explore how price elasticity impacts algorithmic trading strategies by improving market predictions and optimizing trading decisions using economic theories."
 ---
 

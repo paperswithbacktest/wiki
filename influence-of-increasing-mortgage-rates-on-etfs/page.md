@@ -1,5 +1,5 @@
 ---
-title: "Influence of Increasing Mortgage Rates on Exchange-Traded Funds (Algo Trading)"
+title: "Influence of Increasing Mortgage Rates on Exchange-Traded Funds"
 description: "Explore how rising mortgage rates impact ETFs and algo trading Learn about their interplay and what it means for investors in today's financial landscape"
 ---
 

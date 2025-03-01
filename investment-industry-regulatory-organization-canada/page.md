@@ -1,5 +1,5 @@
 ---
-title: "Investment Industry Regulatory Organization of Canada (Algo Trading)"
+title: "Investment Industry Regulatory Organization of Canada"
 description: "Explore the role of the Investment Industry Regulatory Organization of Canada in regulating algo trading and maintaining the integrity of Canada's financial markets."
 ---
 

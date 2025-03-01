@@ -1,5 +1,5 @@
 ---
-title: "Ba3/BB- Bond Ratings: Yields and Risks (Algo Trading)"
+title: "Ba3/BB- Bond Ratings: Yields and Risks"
 description: "Explore the risks and rewards of Ba3/BB- bonds in the financial world. Learn how algorithmic trading can optimize investment strategies with these speculative bonds."
 ---
 

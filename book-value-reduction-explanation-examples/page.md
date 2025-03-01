@@ -1,5 +1,5 @@
 ---
-title: "Book Value Reduction: Explanation and Examples (Algo Trading)"
+title: "Book Value Reduction: Explanation and Examples"
 description: "Discover how book value reduction impacts algorithmic trading strategies and financial reporting. Learn with examples and tools for optimizing trading decisions."
 ---
 

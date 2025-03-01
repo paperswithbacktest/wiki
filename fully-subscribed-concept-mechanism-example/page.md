@@ -1,5 +1,5 @@
 ---
-title: "Fully Subscribed: Concept and Mechanism with Example (Algo Trading)"
+title: "Fully Subscribed: Concept and Mechanism with Example"
 description: "Discover how fully subscribed IPOs work and the role of algorithmic trading in maximizing efficiency and demand. Learn key strategies and insights today."
 ---
 

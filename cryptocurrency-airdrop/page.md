@@ -1,5 +1,5 @@
 ---
-title: "Cryptocurrency Airdrop (Algo Trading)"
+title: "Cryptocurrency Airdrop"
 description: "Explore the dynamic world of cryptocurrency with insights on airdrops, blockchain, and algo trading Learn to navigate and succeed in this evolving ecosystem"
 ---
 

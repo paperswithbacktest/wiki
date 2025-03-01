@@ -1,5 +1,5 @@
 ---
-title: "Exchange Fund: Functionality and Tax Benefits (Algo Trading)"
+title: "Exchange Fund: Functionality and Tax Benefits"
 description: "Explore the synergy of exchange funds and algorithmic trading to enhance portfolio efficiency and tax benefits Discover strategies for maximizing returns."
 ---
 

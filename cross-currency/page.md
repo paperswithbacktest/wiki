@@ -1,5 +1,5 @@
 ---
-title: "Cross Currency (Algo Trading)"
+title: "Cross Currency"
 description: "Explore the dynamics of cross currency trading and algorithmic strategies in the forex market—a realm of immense opportunities and complex strategies."
 ---
 

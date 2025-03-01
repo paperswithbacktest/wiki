@@ -1,5 +1,5 @@
 ---
-title: "Fair Market Value and Calculation Methods (Algo Trading)"
+title: "Fair Market Value and Calculation Methods"
 description: "Discover how fair market value and its calculation methods such as market, income, and cost approaches are vital in optimizing algorithmic trading strategies."
 ---
 

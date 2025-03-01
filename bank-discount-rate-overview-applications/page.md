@@ -1,5 +1,5 @@
 ---
-title: "Bank Discount Rate: Overview and Applications (Algo Trading)"
+title: "Bank Discount Rate: Overview and Applications"
 description: "Explore the essential concepts of bank discount rates and algorithmic trading in modern finance Understand their impact on investment strategies and market dynamics"
 ---
 

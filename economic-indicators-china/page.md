@@ -1,5 +1,5 @@
 ---
-title: "Economic Indicators of China (Algo Trading)"
+title: "Economic Indicators of China"
 description: "Explore China's economic indicators and GDP to navigate global markets. Insights into growth, industry, trade, and algorithmic trading guide informed decisions."
 ---
 

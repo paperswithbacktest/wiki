@@ -1,5 +1,5 @@
 ---
-title: "Contrarian Investing: Buying During Market Downturns (Algo Trading)"
+title: "Contrarian Investing: Buying During Market Downturns"
 description: "Explore contrarian investing during market downturns and discover how combining it with algorithmic trading provides powerful strategies for savvy investors."
 ---
 

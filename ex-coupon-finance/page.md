@@ -1,5 +1,5 @@
 ---
-title: "Ex-Coupon in Finance (Algo Trading)"
+title: "Ex-Coupon in Finance"
 description: "Explore the intricacies of ex-coupon trading in the bond markets and its impact on investment strategies within algorithmic finance, optimizing portfolio returns."
 ---
 

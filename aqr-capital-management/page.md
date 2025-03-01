@@ -1,5 +1,5 @@
 ---
-title: "AQR Capital Management (Algo Trading)"
+title: "AQR Capital Management"
 description: "Explore AQR Capital Management's pioneering role in algorithmic trading using data-driven strategies to optimize portfolio management and achieve consistent returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Cboe Volatility Index (VIX) and Its Calculation (Algo Trading)"
+title: "Cboe Volatility Index (VIX) and Its Calculation"
 description: "Discover the VIX's role in algorithmic trading as a key market sentiment tool Analyze its calculation its evolution and its impact on trading strategies"
 ---
 

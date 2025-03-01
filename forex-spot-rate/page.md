@@ -1,5 +1,5 @@
 ---
-title: "Forex Spot Rate (Algo Trading)"
+title: "Forex Spot Rate"
 description: "Explore the dynamic world of forex spot rate trading and algorithmic advancements Learn how real-time exchange rates and AI are transforming global currency markets"
 ---
 

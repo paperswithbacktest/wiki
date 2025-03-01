@@ -1,5 +1,5 @@
 ---
-title: "Influence of OPEC and Non-OPEC Production on Oil Prices (Algo Trading)"
+title: "Influence of OPEC and Non-OPEC Production on Oil Prices"
 description: "Explore how OPEC and non-OPEC production, alongside algorithmic trading, influence oil prices and market dynamics in the global economy."
 ---
 

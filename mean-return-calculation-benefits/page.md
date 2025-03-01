@@ -1,5 +1,5 @@
 ---
-title: "Mean Return: Calculation and Benefits (Algo Trading)"
+title: "Mean Return: Calculation and Benefits"
 description: "Explore the calculation and benefits of mean return in algorithmic trading to improve investment strategies by leveraging financial metrics and predictive insights."
 ---
 

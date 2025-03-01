@@ -1,5 +1,5 @@
 ---
-title: "Jesse L. Livermore: Education and Stock Trading Career (Algo Trading)"
+title: "Jesse L. Livermore: Education and Stock Trading Career"
 description: "Discover Jesse Livermore's impact on modern trading. Explore his trend-following strategies and risk management insights that shaped algorithmic trading."
 ---
 

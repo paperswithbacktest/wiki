@@ -1,5 +1,5 @@
 ---
-title: "Call Auction Overview (Algo Trading)"
+title: "Call Auction Overview"
 description: "Explore the call auction trading process and discover its role in enhancing trading strategies with algorithmic trading while optimizing market efficiency and liquidity."
 ---
 

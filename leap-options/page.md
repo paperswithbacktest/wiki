@@ -1,5 +1,5 @@
 ---
-title: "LEAPS Options Explained (Algo Trading)"
+title: "LEAPS Options Explained"
 description: Explore the benefits of using LEAPS options in algorithmic trading. Discover how Long-Term Equity Anticipation Securities allow traders to capitalize on long-term market trends and manage risk effectively. Learn about strategies for leveraging these options to reduce capital exposure while aligning with market expectations. Whether you're an investor or a developer, gain insights into integrating LEAP options into your trading models for enhanced strategic planning.
 ---
 

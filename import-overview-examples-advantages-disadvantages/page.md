@@ -1,5 +1,5 @@
 ---
-title: "Import: Overview, Examples, Advantages, and Disadvantages (Algo Trading)"
+title: "Import: Overview, Examples, Advantages, and Disadvantages"
 description: "Explore the effects of trade imports and algorithmic trading on the global economy enhance understanding of market dynamics and devise strategic economic approaches."
 ---
 

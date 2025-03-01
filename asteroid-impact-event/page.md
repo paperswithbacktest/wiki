@@ -1,5 +1,5 @@
 ---
-title: "Asteroid Impact Event (Algo Trading)"
+title: "Asteroid Impact Event"
 description: "Explore the intriguing connection between asteroid impacts and financial markets, revealing how these cosmic events influence algorithmic trading and market dynamics."
 ---
 

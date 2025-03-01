@@ -1,5 +1,5 @@
 ---
-title: "Characteristic Line and Its Functionality (Algo Trading)"
+title: "Characteristic Line and Its Functionality"
 description: "Explore the role of the characteristic line in investment analysis and algorithmic trading Discover insights into risk and return dynamics shaping modern strategies"
 ---
 

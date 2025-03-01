@@ -1,5 +1,5 @@
 ---
-title: "Bond Equity Earnings Yield Ratio (Algo Trading)"
+title: "Bond Equity Earnings Yield Ratio"
 description: "Explore the Bond Equity Earnings Yield Ratio's role in algorithmic trading and investment strategies for optimized returns by comparing bond and stock yields."
 ---
 

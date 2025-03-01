@@ -1,5 +1,5 @@
 ---
-title: "Current Market Status: Bull or Bear (Algo Trading)"
+title: "Current Market Status: Bull or Bear"
 description: "Explore the dynamics of bull and bear markets essential for traders using algo trading to leverage trends maximize returns and mitigate financial risks."
 ---
 

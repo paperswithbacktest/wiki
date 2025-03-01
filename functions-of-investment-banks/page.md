@@ -1,5 +1,5 @@
 ---
-title: "Functions of Investment Banks (Algo Trading)"
+title: "Functions of Investment Banks"
 description: "Explore the pivotal functions of investment banks in capital markets and the impact of algorithmic trading on liquidity and cost reduction in financial services."
 ---
 

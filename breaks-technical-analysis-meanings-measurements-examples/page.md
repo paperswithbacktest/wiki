@@ -1,5 +1,5 @@
 ---
-title: "Breaks in Technical Analysis: Meanings, Measurements, and Examples (Algo Trading)"
+title: "Breaks in Technical Analysis: Meanings, Measurements, and Examples"
 description: "Explore how 'breaks' in technical analysis enhance algorithmic trading strategies Learn the significance of sharp price moves in guiding automated trade decisions"
 ---
 

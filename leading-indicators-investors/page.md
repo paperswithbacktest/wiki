@@ -1,5 +1,5 @@
 ---
-title: "Leading Indicators and Their Use by Investors (Algo Trading)"
+title: "Leading Indicators and Their Use by Investors"
 description: "Explore how investors leverage leading economic indicators like the PMI and CCI, combined with algorithmic trading, to refine strategies and optimize returns in volatile markets."
 ---
 

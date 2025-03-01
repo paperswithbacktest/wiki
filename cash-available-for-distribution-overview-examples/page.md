@@ -1,5 +1,5 @@
 ---
-title: "Cash Available for Distribution: Overview and Examples (Algo Trading)"
+title: "Cash Available for Distribution: Overview and Examples"
 description: "Explore the key metric Cash Available for Distribution CAD essential for assessing REITs financial health and dividend potential with real-world examples and strategies"
 ---
 

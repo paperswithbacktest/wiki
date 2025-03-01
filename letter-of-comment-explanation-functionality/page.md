@@ -1,5 +1,5 @@
 ---
-title: "Letter of Comment: Explanation and Functionality (Algo Trading)"
+title: "Letter of Comment: Explanation and Functionality"
 description: "Explore the vital roles of audit commentary, financial reporting, and algorithmic trading in enhancing market transparency, efficiency, and stability in finance."
 ---
 

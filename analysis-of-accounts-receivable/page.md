@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Accounts Receivable (Algo Trading)"
+title: "Analysis of Accounts Receivable"
 description: "Explore how the integration of algorithmic trading enhances accounts receivable management by optimizing financial analysis and improving cash flow efficiency."
 ---
 

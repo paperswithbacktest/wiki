@@ -1,5 +1,5 @@
 ---
-title: "Investment Opportunities in Huawei Corporation (Algo Trading)"
+title: "Investment Opportunities in Huawei Corporation"
 description: "Explore investment opportunities in Huawei as the tech giant ventures into algorithmic trading merging technology and finance with innovative strategies."
 ---
 

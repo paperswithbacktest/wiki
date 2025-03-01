@@ -1,5 +1,5 @@
 ---
-title: "Growth Industry: Overview and Characteristics (Algo Trading)"
+title: "Growth Industry: Overview and Characteristics"
 description: "Explore the dynamic world of algorithmic trading a key force in finance sector growth Learn how tech innovation drives market efficiency and economic expansion"
 ---
 

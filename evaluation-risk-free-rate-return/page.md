@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of the Risk-Free Rate of Return (Algo Trading)"
+title: "Evaluation of the Risk-Free Rate of Return"
 description: "Explore the relationship between financial risk and the risk-free rate in trading. Learn how algorithmic trading enhances risk management, optimizing returns."
 ---
 

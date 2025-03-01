@@ -1,5 +1,5 @@
 ---
-title: "Bond Funds: Functionality, Advantages, Taxation, and Types (Algo Trading)"
+title: "Bond Funds: Functionality, Advantages, Taxation, and Types"
 description: "Explore the complexities of bond funds including types advantages and the impact of algorithmic trading. Gain insights into their tax implications for informed investing"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Deficit Spending Unit (Algo Trading)"
+title: "Deficit Spending Unit"
 description: "Explore how deficit spending and fiscal policy intersect with algorithmic trading, impacting economic stability and market dynamics in today's financial systems."
 ---
 

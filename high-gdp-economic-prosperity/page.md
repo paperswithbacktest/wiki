@@ -1,5 +1,5 @@
 ---
-title: "High GDP and Economic Prosperity (Algo Trading)"
+title: "High GDP and Economic Prosperity"
 description: "Explore the connection between GDP, economic indicators, and algorithmic trading to gain insights into optimizing trading strategies and informed financial decisions."
 ---
 

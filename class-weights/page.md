@@ -1,5 +1,5 @@
 ---
-title: "Class weights (Algo Trading)"
+title: "Class weights"
 description: Explore the role of class weights in algorithmic trading to enhance model accuracy and sensitivity. Delve into strategies for managing class imbalances in financial data and discover best practices for optimizing predictive models in fluctuating market conditions.
 ---
 

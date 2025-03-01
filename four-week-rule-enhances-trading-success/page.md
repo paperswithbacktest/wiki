@@ -1,5 +1,5 @@
 ---
-title: "Four-Week Rule Enhances Trading Success (Algo Trading)"
+title: "Four-Week Rule Enhances Trading Success"
 description: "The four-week rule is a simple yet effective trend-following strategy in algorithmic trading helping traders automate strategies to capture market trends efficiently."
 ---
 

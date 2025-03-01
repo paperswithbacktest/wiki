@@ -1,5 +1,5 @@
 ---
-title: "John J. Lothian & Co. (Algo Trading)"
+title: "John J. Lothian & Co."
 description: "Explore John J. Lothian & Co.'s pivotal role in algorithmic trading and financial media, showcasing their innovative strategies and educational initiatives."
 ---
 

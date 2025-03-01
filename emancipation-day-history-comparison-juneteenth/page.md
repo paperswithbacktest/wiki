@@ -1,5 +1,5 @@
 ---
-title: "Emancipation Day: History and Comparison with Juneteenth (Algo Trading)"
+title: "Emancipation Day: History and Comparison with Juneteenth"
 description: "Explore the history of Juneteenth as a symbol of liberation and its parallel with algorithmic trading in providing freedom from traditional financial constraints."
 ---
 

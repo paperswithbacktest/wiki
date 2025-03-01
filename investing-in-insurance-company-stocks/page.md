@@ -1,5 +1,5 @@
 ---
-title: "Investing in Insurance Company Stocks (Algo Trading)"
+title: "Investing in Insurance Company Stocks"
 description: "Explore the intersection of algorithmic trading and insurance stocks investment Heres insights on leveraging tech for enhanced efficiency and risk management"
 ---
 

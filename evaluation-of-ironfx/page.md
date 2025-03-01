@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of IronFX (Algo Trading)"
+title: "Evaluation of IronFX"
 description: "Explore the strengths of IronFX in algorithmic trading with our in-depth review Discover features educational resources and account options for traders"
 ---
 

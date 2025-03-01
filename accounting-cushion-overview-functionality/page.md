@@ -1,5 +1,5 @@
 ---
-title: "Accounting Cushion: Overview and Functionality (Algo Trading)"
+title: "Accounting Cushion: Overview and Functionality"
 description: "Explore the role of accounting cushions in algo trading with insights on financial buffers that ensure stability, risk management, and operational success."
 ---
 

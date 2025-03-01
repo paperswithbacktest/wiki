@@ -1,5 +1,5 @@
 ---
-title: "Bitpay Card: Overview, Functionality, History (Algo Trading)"
+title: "Bitpay Card: Overview, Functionality, History"
 description: "Explore the Bitpay Card for seamless crypto transactions and delve into the rise of algo trading in cryptocurrency, reshaping modern finance."
 ---
 

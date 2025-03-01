@@ -1,5 +1,5 @@
 ---
-title: "Benefits of Corporate Stock Buybacks (Algo Trading)"
+title: "Benefits of Corporate Stock Buybacks"
 description: "Explore the strategic benefits of corporate stock buybacks and algorithmic trading in enhancing financial metrics and optimizing shareholder value."
 ---
 

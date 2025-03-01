@@ -1,5 +1,5 @@
 ---
-title: "Bank Restriction Act 1797 (Algo Trading)"
+title: "Bank Restriction Act 1797"
 description: "Explore the lasting impact of the Bank Restriction Act 1797 on British monetary policy and its relevance to today's algorithmic trading strategies."
 ---
 

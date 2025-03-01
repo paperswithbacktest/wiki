@@ -1,5 +1,5 @@
 ---
-title: "Benefits of Low Working Capital (Algo Trading)"
+title: "Benefits of Low Working Capital"
 description: "Optimize your business performance with effective working capital management and algorithmic trading Gain competitive advantages by enhancing liquidity and efficiency"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Decentralized Finance (DeFi) Overview (Algo Trading)"
+title: "Decentralized Finance (DeFi) Overview"
 description: "Explore the revolutionary impact of blockchain technology, decentralized finance (DeFi), and algorithmic trading on financial markets. Discover how DeFi eliminates intermediaries, democratizing finance with open, transparent systems built on platforms like Ethereum. Algorithmic trading enhances these systems by optimizing strategies, paving the way for a more inclusive, secure, and efficient financial future."
 ---
 

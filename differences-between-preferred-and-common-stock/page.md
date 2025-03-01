@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Preferred and Common Stock (Algo Trading)"
+title: "Differences Between Preferred and Common Stock"
 description: "Explore the essential differences between common and preferred stocks and learn how algorithmic trading can enhance your investment strategy and optimize returns."
 ---
 

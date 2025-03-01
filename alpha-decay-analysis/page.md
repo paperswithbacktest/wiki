@@ -1,5 +1,5 @@
 ---
-title: "alpha decay analysis (Algo Trading)"
+title: "alpha decay analysis"
 description: "Discover the essential dynamics of alpha decay in algorithmic trading Analyze how predictive power diminishes over time and adapt strategies to stay competitive"
 ---
 

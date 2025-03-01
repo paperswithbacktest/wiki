@@ -1,5 +1,5 @@
 ---
-title: "E-CBOT: Overview and Functionality (Algo Trading)"
+title: "E-CBOT: Overview and Functionality"
 description: "Explore e-CBOT's influence on electronic futures trading and how algorithmic trading reshapes market operations through speed, efficiency, and wider access."
 ---
 

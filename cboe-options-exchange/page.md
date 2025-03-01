@@ -1,5 +1,5 @@
 ---
-title: "CBOE Options Exchange (Algo Trading)"
+title: "CBOE Options Exchange"
 description: "Explore CBOE Options Exchange's role in global finance with a focus on its innovative algorithmic trading, VIX Volatility Index, and diverse product offerings."
 ---
 

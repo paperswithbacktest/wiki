@@ -1,5 +1,5 @@
 ---
-title: "Addition Rule for Probability (Algo Trading)"
+title: "Addition Rule for Probability"
 description: "Explore how the addition rule in probability enhances algorithmic trading by determining event likelihoods, aiding risk assessment, and optimizing trading strategies."
 ---
 

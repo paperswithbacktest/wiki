@@ -1,5 +1,5 @@
 ---
-title: "Effective Moving Average Strategies for Day Trading (Algo Trading)"
+title: "Effective Moving Average Strategies for Day Trading"
 description: "Explore effective moving average strategies for day trading and algorithmic trading to enhance your decision-making and profitability with practical insights."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Investment Return Calculation (Algo Trading)"
+title: "Investment Return Calculation"
 description: "Understanding ROI in algorithmic trading can boost investment strategy effectiveness. Learn to calculate ROI for high-volume trading to maximize returns efficiently."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Accounting Series Releases (ASR): Overview and Functionality (Algo Trading)"
+title: "Accounting Series Releases (ASR): Overview and Functionality"
 description: "Explore the pivotal role of Accounting Series Releases (ASRs) in financial reporting and their integration with algorithmic trading for enhanced market transparency and compliance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Interchange Systems (Algo Trading)"
+title: "Interchange Systems"
 description: "Discover how interchange systems streamline digital financial transactions and explore the transformative influence of algorithmic trading in today's economy."
 ---
 

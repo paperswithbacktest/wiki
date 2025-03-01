@@ -1,5 +1,5 @@
 ---
-title: "Front-running detection (Algo Trading)"
+title: "Front-running detection"
 description: "Discover the threats of front-running in algorithmic trading and explore the technological and regulatory measures designed to safeguard market integrity."
 ---
 

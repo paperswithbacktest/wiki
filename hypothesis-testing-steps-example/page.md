@@ -1,5 +1,5 @@
 ---
-title: "Hypothesis Testing: Steps and Example (Algo Trading)"
+title: "Hypothesis Testing: Steps and Example"
 description: "Learn the essential steps of hypothesis testing in algorithmic trading to make data-driven decisions that optimize strategies and minimize risk effectively."
 ---
 

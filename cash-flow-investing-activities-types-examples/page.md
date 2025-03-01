@@ -1,5 +1,5 @@
 ---
-title: "Cash Flow from Investing Activities: Types and Examples (Algo Trading)"
+title: "Cash Flow from Investing Activities: Types and Examples"
 description: "Explore the intricacies of cash flow from investing activities and the impact of algorithmic trading on modern finance. Understand how these elements shape investment decisions and strategies, and learn about cash management for sustainable growth and financial health. Discover examples of strategic investments and the automation revolutionizing trading decisions."
 ---
 

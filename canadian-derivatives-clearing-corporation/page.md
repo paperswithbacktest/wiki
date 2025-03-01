@@ -1,5 +1,5 @@
 ---
-title: "Canadian Derivatives Clearing Corporation (Algo Trading)"
+title: "Canadian Derivatives Clearing Corporation"
 description: "Explore the pivotal role of the Canadian Derivatives Clearing Corporation in maintaining market stability and efficiency, vital for algorithmic trading practices."
 ---
 

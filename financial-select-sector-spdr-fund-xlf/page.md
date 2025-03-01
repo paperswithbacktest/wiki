@@ -1,5 +1,5 @@
 ---
-title: "Financial Select Sector SPDR Fund (XLF) (Algo Trading)"
+title: "Financial Select Sector SPDR Fund (XLF)"
 description: "Explore the strategic role of algorithmic trading in the XLF ETF offering insights into enhanced efficiency and decision-making for investors in the financial sector."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Forward Market in Foreign Exchange (Algo Trading)"
+title: "Forward Market in Foreign Exchange"
 description: "Explore the synergy of forward market forex trading and algorithmic strategies enhancing trading precision, risk management, and efficiency in global finance."
 ---
 

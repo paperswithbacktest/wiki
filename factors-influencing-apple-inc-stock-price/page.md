@@ -1,5 +1,5 @@
 ---
-title: "Factors Influencing Apple Inc. Stock Price (Algo Trading)"
+title: "Factors Influencing Apple Inc. Stock Price"
 description: "Explore the factors shaping Apple Inc.'s stock price including product launches algorithmic trading and macroeconomic indicators to enhance investment strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategies During Increasing Interest Rates (Algo Trading)"
+title: "Investment Strategies During Increasing Interest Rates"
 description: "Optimize your investment strategy with insights into algorithmic trading and interest rate fluctuations. Enhance decision-making and risk management in evolving markets."
 ---
 

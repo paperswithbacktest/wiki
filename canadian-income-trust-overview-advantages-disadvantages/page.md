@@ -1,5 +1,5 @@
 ---
-title: "Canadian Income Trust: Overview, Advantages, and Disadvantages (Algo Trading)"
+title: "Canadian Income Trust: Overview, Advantages, and Disadvantages"
 description: "Explore the strengths and challenges of Canadian Income Trusts, including structure advantages and how 2011 tax reforms transformed their investment appeal."
 ---
 

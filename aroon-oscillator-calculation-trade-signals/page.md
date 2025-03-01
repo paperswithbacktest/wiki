@@ -1,5 +1,5 @@
 ---
-title: "Aroon Oscillator Calculation and Trade Signals (Algo Trading)"
+title: "Aroon Oscillator Calculation and Trade Signals"
 description: "Unlock the potential of the Aroon Oscillator by understanding its calculation and trade signals. Elevate your algo trading game through this essential guide."
 ---
 

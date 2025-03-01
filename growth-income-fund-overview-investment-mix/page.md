@@ -1,5 +1,5 @@
 ---
-title: "Growth and Income Fund: Overview and Investment Mix (Algo Trading)"
+title: "Growth and Income Fund: Overview and Investment Mix"
 description: "Explore how growth and income funds combined with algo trading offer a balanced investment strategy for consistent returns in a volatile market."
 ---
 

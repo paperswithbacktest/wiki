@@ -1,5 +1,5 @@
 ---
-title: "Gift of Equity: Overview, Functionality, Tax Implications, and Advantages and Disadvantages (Algo Trading)"
+title: "Gift of Equity: Overview, Functionality, Tax Implications, and Advantages and Disadvantages"
 description: "Explore the dynamics of gifting equity in real estate its role in seamless family property transfers tax effects and how it aligns with algorithmic trading."
 ---
 

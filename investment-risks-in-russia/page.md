@@ -1,5 +1,5 @@
 ---
-title: "Investment Risks in Russia (Algo Trading)"
+title: "Investment Risks in Russia"
 description: "Explore the dual nature of investing in Russia's volatile market through algorithmic trading, balancing substantial opportunities with inherent risks and challenges."
 ---
 

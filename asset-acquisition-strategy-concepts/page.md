@@ -1,5 +1,5 @@
 ---
-title: "Asset Acquisition Strategy Concepts (Algo Trading)"
+title: "Asset Acquisition Strategy Concepts"
 description: "Explore the intricacies of asset acquisition strategies in algorithmic trading Learn how business and algorithmic models shape modern investment practices"
 ---
 

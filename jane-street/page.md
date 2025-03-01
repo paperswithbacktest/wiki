@@ -1,5 +1,5 @@
 ---
-title: "Jane Street (Algo Trading)"
+title: "Jane Street"
 description: "Explore Jane Street's innovative algorithmic trading strategies that leverage quantitative research and technology for success across global financial markets."
 ---
 

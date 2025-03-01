@@ -1,5 +1,5 @@
 ---
-title: "Expected Utility Theory (Algo Trading)"
+title: "Expected Utility Theory"
 description: "Explore expected utility theory's role in algorithmic trading to enhance decision-making in uncertain market conditions through probabilistic risk and reward analysis."
 ---
 

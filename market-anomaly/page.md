@@ -1,5 +1,5 @@
 ---
-title: "Market anomaly (Algo Trading)"
+title: "Market anomaly"
 description: This page investigates into the concept of market anomalies in financial markets, highlighting their significance and potential exploitation in algorithmic trading. It explains how anomalies challenge traditional asset pricing models, like CAPM and Fama-French, by revealing predictable patterns that offer opportunities for abnormal returns. Emphasizing the role of technology in algorithmic trading, the article discusses time-series and cross-sectional anomalies and their strategic importance. It also addresses the challenges of utilizing these market irregularities, emphasizing the need for continual adaptation in trading strategies to leverage inefficiencies effectively.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Barriers to Entry in the Pharmaceutical Industry (Algo Trading)"
+title: "Barriers to Entry in the Pharmaceutical Industry"
 description: "Explore the significant barriers to entry in the pharmaceutical industry, such as high R&D costs, stringent regulations, and IP challenges, and how algo trading aids firms."
 ---
 

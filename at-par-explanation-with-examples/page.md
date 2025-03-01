@@ -1,5 +1,5 @@
 ---
-title: "At Par Explanation with Examples (Algo Trading)"
+title: "At Par Explanation with Examples"
 description: "Explore the significance of the financial term 'at par' in bond trading and its role in algorithmic trading strategies for informed investment decisions."
 ---
 

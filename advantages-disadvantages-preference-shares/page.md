@@ -1,5 +1,5 @@
 ---
-title: "Advantages and Disadvantages of Preference Shares (Algo Trading)"
+title: "Advantages and Disadvantages of Preference Shares"
 description: "Explore the pros and cons of preference shares, highlighting their fixed dividends, priority claims, lack of voting rights, and sensitivity to interest rates."
 ---
 

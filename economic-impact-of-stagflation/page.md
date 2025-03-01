@@ -1,5 +1,5 @@
 ---
-title: "Economic Impact of Stagflation (Algo Trading)"
+title: "Economic Impact of Stagflation"
 description: "Explore the intricate relationship between stagflation and algorithmic trading in the modern economy without delving into technical jargon. Understand how stagflation—a mix of economic stagnation and high inflation—poses threats to economic growth and requires a balanced approach from policymakers. Discover the potential of algorithmic trading to mitigate these challenges by offering speed and efficiency in a volatile market, while providing insights into the future of financial markets in an era marked by economic unpredictability and innovation."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Investment in Credit Card Companies (Algo Trading)"
+title: "Investment in Credit Card Companies"
 description: "Explore the evolving roles of investment credit card companies and algorithmic trading in the financial sector enhanced by technology and data analytics."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Interdealer Quotation System (Algo Trading)"
+title: "Interdealer Quotation System"
 description: "Explore the Interdealer Quotation System IQS for enhanced market transparency and efficiency, optimizing algorithmic trading and informed investment strategies."
 ---
 

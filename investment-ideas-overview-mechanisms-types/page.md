@@ -1,5 +1,5 @@
 ---
-title: "Investment Ideas: Overview, Mechanisms, and Types (Algo Trading)"
+title: "Investment Ideas: Overview, Mechanisms, and Types"
 description: "Explore investment strategies and types to optimize financial outcomes with algorithmic trading Learn how to build robust portfolios balancing risk and return"
 ---
 

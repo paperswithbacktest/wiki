@@ -1,5 +1,5 @@
 ---
-title: "Economy: Types and Indicators (Algo Trading)"
+title: "Economy: Types and Indicators"
 description: "Explore the intricacies of global economies and their impact on trading strategies. Delve into market-based, command-based, and mixed economies while understanding key economic indicators like GDP, unemployment rates, inflation, and trade balances. Learn how these elements influence algorithmic trading, enabling professionals to predict trends, manage risks, and optimize returns for a competitive edge in global markets."
 ---
 

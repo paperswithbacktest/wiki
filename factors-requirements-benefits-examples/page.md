@@ -1,5 +1,5 @@
 ---
-title: "Factors: Requirements, Benefits, and Examples (Algo Trading)"
+title: "Factors: Requirements, Benefits, and Examples"
 description: "Explore the world of algorithmic trading uncovering essential requirements key benefits and illustrative examples that highlight its role in modern markets."
 ---
 

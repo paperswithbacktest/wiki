@@ -1,5 +1,5 @@
 ---
-title: "Investment Risk Tolerance and Personality Correlation (Algo Trading)"
+title: "Investment Risk Tolerance and Personality Correlation"
 description: "Explore the link between personality traits and investment risk tolerance, and discover how algorithmic trading can enhance personalized investment strategies."
 ---
 

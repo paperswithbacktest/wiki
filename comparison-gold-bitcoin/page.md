@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Gold and Bitcoin (Algo Trading)"
+title: "Comparison of Gold and Bitcoin"
 description: "Explore the dynamics between Gold Bitcoin and Algorithmic Trading in this comprehensive analysis of investment strategies offering insights into risks and opportunities."
 ---
 

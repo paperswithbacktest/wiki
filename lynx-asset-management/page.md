@@ -1,5 +1,5 @@
 ---
-title: "Lynx Asset Management (Algo Trading)"
+title: "Lynx Asset Management"
 description: "Lynx Asset Management masters algorithmic trading with advanced technologies for efficient market strategies, ensuring optimized, data-driven investment decisions."
 ---
 

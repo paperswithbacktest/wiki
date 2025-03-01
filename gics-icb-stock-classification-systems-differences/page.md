@@ -1,5 +1,5 @@
 ---
-title: "GICS and ICB Stock Classification Systems: Differences (Algo Trading)"
+title: "GICS and ICB Stock Classification Systems: Differences"
 description: "Discover how the GICS and ICB stock classification systems support algorithmic trading by structuring financial data, refining strategies, and enhancing insights."
 ---
 

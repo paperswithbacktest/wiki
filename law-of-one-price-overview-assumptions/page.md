@@ -1,5 +1,5 @@
 ---
-title: "Law of One Price: Overview and Assumptions (Algo Trading)"
+title: "Law of One Price: Overview and Assumptions"
 description: "Explore the law of one price in efficient markets with a focus on algorithmic trading's role in enhancing market equilibrium and pricing consistency."
 ---
 

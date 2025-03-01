@@ -1,5 +1,5 @@
 ---
-title: "Methods for Achieving Economic Growth (Algo Trading)"
+title: "Methods for Achieving Economic Growth"
 description: "Explore how algorithmic trading can drive economic growth by enhancing market efficiency and liquidity while integrating with broader development strategies for sustainable progress."
 ---
 

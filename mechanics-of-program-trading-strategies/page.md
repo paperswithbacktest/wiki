@@ -1,5 +1,5 @@
 ---
-title: "Mechanics of Program Trading Strategies (Algo Trading)"
+title: "Mechanics of Program Trading Strategies"
 description: "Explore the mechanics of algo trading where computer algorithms execute trades automatically Learn how these strategies shape markets and optimize trading efficiency"
 ---
 

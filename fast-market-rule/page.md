@@ -1,5 +1,5 @@
 ---
-title: "Fast Market Rule (Algo Trading)"
+title: "Fast Market Rule"
 description: "Explore the dynamics of fast market and algorithmic trading systems how they enhance speed and efficiency in financial transactions amidst regulatory challenges."
 ---
 

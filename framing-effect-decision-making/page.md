@@ -1,5 +1,5 @@
 ---
-title: "Framing Effect in Decision-Making (Algo Trading)"
+title: "Framing Effect in Decision-Making"
 description: "Explore how the framing effect impacts decision-making in algorithmic trading, influencing perceptions and potentially skewing trading outcomes due to cognitive biases."
 ---
 

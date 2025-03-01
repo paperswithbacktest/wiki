@@ -1,5 +1,5 @@
 ---
-title: "Comparative Importance of Demand and Supply in Economics (Algo Trading)"
+title: "Comparative Importance of Demand and Supply in Economics"
 description: "Explore how supply and demand economics shape algorithmic trading strategies by impacting asset prices and trader decisions in a competitive market landscape."
 ---
 

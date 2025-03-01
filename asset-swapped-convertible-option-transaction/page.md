@@ -1,5 +1,5 @@
 ---
-title: "Asset Swapped Convertible Option Transaction (Algo Trading)"
+title: "Asset Swapped Convertible Option Transaction"
 description: "Explore the complexities of Asset Swapped Convertible Option Transactions ASCOT and understand their pivotal role in strategy-driven algorithmic trading."
 ---
 

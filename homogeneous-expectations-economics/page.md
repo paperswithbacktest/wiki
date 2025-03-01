@@ -1,5 +1,5 @@
 ---
-title: "Homogeneous Expectations in Economics (Algo Trading)"
+title: "Homogeneous Expectations in Economics"
 description: "Explore how homogeneous expectations in economics and cutting-edge algorithmic trading shape investment strategies by merging theory and technology for precision and impact."
 ---
 

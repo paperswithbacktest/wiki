@@ -1,5 +1,5 @@
 ---
-title: "Compustat (Algo Trading)"
+title: "Compustat"
 description: Compustat is a comprehensive financial database essential for developing sophisticated trading algorithms in algorithmic trading. Managed by Standard & Poor's, it offers extensive and reliable data on publicly traded companies, including historical income statements, balance sheets, and stock prices. Traders use Compustat to harness data analytics for creating robust trading models, identifying market trends, and optimizing investment strategies. This article explores Compustat's crucial role in algorithmic trading, highlighting the advantages of enhanced data accuracy and market coverage while addressing the challenges in its application and its indispensability for navigating complex financial markets.
 ---
 

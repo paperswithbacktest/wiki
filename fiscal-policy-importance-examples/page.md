@@ -1,5 +1,5 @@
 ---
-title: "Fiscal Policy: Definition, Importance, and Examples (Algo Trading)"
+title: "Fiscal Policy: Definition, Importance, and Examples"
 description: "Explore the impact of government spending and fiscal policy on national economic health, and how algorithmic trading reshapes market dynamics."
 ---
 

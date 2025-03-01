@@ -1,5 +1,5 @@
 ---
-title: "FlashCrash of 2010 (Algo Trading)"
+title: "FlashCrash of 2010"
 description: Explore the dramatic events of the 2010 Flash Crash, where the Dow Jones fell nearly 9% in minutes, revealing vulnerabilities in the stock market tied to algorithmic trading and high-frequency trading. This incident serves as a pivotal study in assessing the risks of modern trading technologies, liquidity issues, and the regulatory challenges they present in today's financial landscape.
 ---
 

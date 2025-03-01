@@ -1,5 +1,5 @@
 ---
-title: "Bank of England Role in Monetary Policy (Algo Trading)"
+title: "Bank of England Role in Monetary Policy"
 description: "Discover how the Bank of England's monetary policy intersects with algorithmic trading to shape UK economic stability and influence financial markets."
 ---
 

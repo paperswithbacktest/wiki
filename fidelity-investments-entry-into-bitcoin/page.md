@@ -1,5 +1,5 @@
 ---
-title: "Fidelity Investments' Entry into Bitcoin (Algo Trading)"
+title: "Fidelity Investments' Entry into Bitcoin"
 description: "Fidelity Investments pioneers cryptocurrency trading using algorithmic strategies to enhance Bitcoin transactions, leading the shift in financial innovation."
 ---
 

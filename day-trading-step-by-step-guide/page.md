@@ -1,5 +1,5 @@
 ---
-title: "Day Trading: A Step-by-Step Guide (Algo Trading)"
+title: "Day Trading: A Step-by-Step Guide"
 description: "Explore the world of day trading and algorithmic trading with this comprehensive guide Learn key strategies techniques and risk management for success"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Essential Apps for Financial Analysts (Algo Trading)"
+title: "Essential Apps for Financial Analysts"
 description: "Explore top apps for financial analysts and algo trading platforms to boost efficiency and decision-making. Leverage tech for optimal trading strategies and insights."
 ---
 

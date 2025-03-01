@@ -1,5 +1,5 @@
 ---
-title: "Conversion Arbitrage: Definition and Mechanism (Algo Trading)"
+title: "Conversion Arbitrage: Definition and Mechanism"
 description: "Explore the intricacies of conversion arbitrage and its role in financial markets Discover how algorithmic trading enhances these strategies for optimized gain"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Commercial Year: Definition and Function (Algo Trading)"
+title: "Commercial Year: Definition and Function"
 description: "Explore how the commercial year framework aids businesses in aligning internal accounting and performance assessments with industry cycles for optimal financial planning."
 ---
 

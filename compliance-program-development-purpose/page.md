@@ -1,5 +1,5 @@
 ---
-title: "Compliance Program Development and Purpose (Algo Trading)"
+title: "Compliance Program Development and Purpose"
 description: "Optimize your algorithmic trading compliance program to meet evolving regulatory standards while minimizing risks and maintaining operational integrity."
 ---
 

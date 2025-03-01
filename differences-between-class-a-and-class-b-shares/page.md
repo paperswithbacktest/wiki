@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Class A and Class B Shares (Algo Trading)"
+title: "Differences Between Class A and Class B Shares"
 description: "Explore the distinctions between Class A and Class B shares within algorithmic trading to understand their impact on investment strategies. This article investigates into how these share classes affect trading by leveraging algorithmic strategies, offering insights into voting power, accessibility, and convertibility. Learn how these differences influence market behavior, governance, and investment decisions, providing traders with critical knowledge to navigate the stock market effectively."
 ---
 

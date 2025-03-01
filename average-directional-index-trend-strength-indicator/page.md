@@ -1,5 +1,5 @@
 ---
-title: "Average Directional Index: Trend Strength Indicator (Algo Trading)"
+title: "Average Directional Index: Trend Strength Indicator"
 description: "Discover how the Average Directional Index can enhance your trading strategy by identifying trend strength and improving decision-making in algorithmic trading."
 ---
 

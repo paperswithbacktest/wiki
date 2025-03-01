@@ -1,5 +1,5 @@
 ---
-title: "Capital Funding and Its Mechanisms (Algo Trading)"
+title: "Capital Funding and Its Mechanisms"
 description: "Explore the pivotal role of business financing capital funding and algorithmic trading in enhancing strategic positioning and driving growth in the financial sector."
 ---
 

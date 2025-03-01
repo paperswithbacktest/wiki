@@ -1,5 +1,5 @@
 ---
-title: "Debt Tender Offer: Types, Rules, and Example (Algo Trading)"
+title: "Debt Tender Offer: Types, Rules, and Example"
 description: "Explore the importance of bond repurchases and debt tender offers as corporate finance strategies influenced by regulatory compliance and algorithmic trading innovations."
 ---
 

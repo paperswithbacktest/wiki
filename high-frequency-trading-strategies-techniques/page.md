@@ -1,5 +1,5 @@
 ---
-title: "High-Frequency Trading Strategies and Techniques (Algo Trading)"
+title: "High-Frequency Trading Strategies and Techniques"
 description: "Explore high-frequency trading strategies and techniques in financial markets. Learn how algorithmic trading impacts market liquidity, volatility, and stability."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Downloading Historical Futures Data from Quandl (Algo Trading)"
+title: "Downloading Historical Futures Data from Quandl"
 description: Discover effective strategies for accessing free historical futures data from Quandl for algorithmic trading. Essential for traders to analyze past markets and predict trends, these resources provide crucial insights for backtesting and optimizing strategies without financial burdens.
 ---
 

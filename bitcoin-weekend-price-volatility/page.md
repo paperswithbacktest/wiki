@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin Weekend Price Volatility (Algo Trading)"
+title: "Bitcoin Weekend Price Volatility"
 description: "Explore Bitcoin's weekend price volatility with insights into trading patterns and the impact of algorithmic trading. Understand why Bitcoin prices often fluctuate more over weekends due to factors like reduced trading volumes and the shift from institutional to retail investors. Discover how to navigate and potentially capitalize on these patterns, providing valuable knowledge for traders interested in Bitcoin's unique market behaviors."
 ---
 

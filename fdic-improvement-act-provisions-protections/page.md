@@ -1,5 +1,5 @@
 ---
-title: "FDIC Improvement Act: Provisions and Protections (Algo Trading)"
+title: "FDIC Improvement Act: Provisions and Protections"
 description: "Discover the FDIC Improvement Act's impact on banking regulations and algorithmic trading enhancing financial stability and safeguarding consumers' interests."
 ---
 

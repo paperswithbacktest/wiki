@@ -1,5 +1,5 @@
 ---
-title: "Ethereum 2.0 Overview (Algo Trading)"
+title: "Ethereum 2.0 Overview"
 description: "Explore how Ethereum 2.0's shift from PoW to PoS impacts algorithmic trading strategies, enhancing blockchain scalability and efficiency in the crypto market."
 ---
 

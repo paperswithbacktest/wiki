@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Current and Capital Accounts (Algo Trading)"
+title: "Comparison of Current and Capital Accounts"
 description: "Explore the impact of integrating balance of payments data into algorithmic trading to enhance financial strategy development by predicting global market trends."
 ---
 

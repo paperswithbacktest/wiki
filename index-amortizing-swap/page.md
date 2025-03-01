@@ -1,5 +1,5 @@
 ---
-title: "Index Amortizing Swap (Algo Trading)"
+title: "Index Amortizing Swap"
 description: "Explore the intricacies of Index Amortizing Swaps (IAS) and algorithmic trading Learn how IAS offers innovative risk management in dynamic interest rate environments"
 ---
 

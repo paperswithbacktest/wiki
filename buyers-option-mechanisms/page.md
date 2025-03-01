@@ -1,5 +1,5 @@
 ---
-title: "Buyer's Option and Its Mechanisms (Algo Trading)"
+title: "Buyer's Option and Its Mechanisms"
 description: "Explore the dynamics of buyer's options and algorithmic trading Learn how these strategies enhance investment decisions and optimize trading in volatile markets"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Financial Operations of the Vatican (Algo Trading)"
+title: "Financial Operations of the Vatican"
 description: "Explore the Vatican's financial operations and modern strategies including algorithmic trading while maintaining ethical guidelines and transparency."
 ---
 

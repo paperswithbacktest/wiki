@@ -1,5 +1,5 @@
 ---
-title: "Libyan Dollar and the Libyan Economy (Algo Trading)"
+title: "Libyan Dollar and the Libyan Economy"
 description: "Explore the complexities of the Libyan economy driven by oil exports and political instability Discover how algorithmic trading impacts the Libyan Dinar."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Index Fund Investment Overview (Algo Trading)"
+title: "Index Fund Investment Overview"
 description: "Explore the synergy of financial planning, index funds, and algo trading to maximize returns while managing risks in the evolving investment landscape."
 ---
 

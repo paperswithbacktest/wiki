@@ -1,5 +1,5 @@
 ---
-title: "Market Orders and Limit Orders (Algo Trading)"
+title: "Market Orders and Limit Orders"
 description: "Explore the essential differences and strategic uses of market orders and limit orders in algorithmic trading to optimize transactions and manage risk effectively."
 ---
 

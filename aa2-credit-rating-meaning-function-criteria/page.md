@@ -1,5 +1,5 @@
 ---
-title: "Aa2 Credit Rating: Meaning, Function, Criteria (Algo Trading)"
+title: "Aa2 Credit Rating: Meaning, Function, Criteria"
 description: "Discover the importance of Aa2 credit rating in finance a high investment grade reflecting low risk and stability essential in algorithmic trading strategies."
 ---
 

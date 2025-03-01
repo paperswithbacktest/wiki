@@ -1,5 +1,5 @@
 ---
-title: "Capacity Requirements Planning and Procedures (Algo Trading)"
+title: "Capacity Requirements Planning and Procedures"
 description: "Optimize production with Capacity Requirements Planning CRP by aligning resources with demand. Enhance efficiency using algorithmic trading techniques in CRP."
 ---
 

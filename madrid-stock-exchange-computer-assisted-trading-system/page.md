@@ -1,5 +1,5 @@
 ---
-title: "Madrid Stock Exchange Computer Assisted Trading System (Algo Trading)"
+title: "Madrid Stock Exchange Computer Assisted Trading System"
 description: "Explore the evolution of trading at the Madrid Stock Exchange through the introduction of the Madrid Stock Exchange Computer Assisted Trading System (MSE CATS). Learn how this system revolutionized trading by automating processes reducing human error and increasing market transparency. Discover how MSE CATS set the foundation for modern trading systems by streamlining operations and matching buy and sell orders electronically to enhance efficiency and competitiveness in the stock market."
 ---
 

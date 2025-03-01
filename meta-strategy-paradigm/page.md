@@ -1,5 +1,5 @@
 ---
-title: "Meta-strategy paradigm (Algo Trading)"
+title: "Meta-strategy paradigm"
 description: Explore the innovative meta-strategy paradigm designed to revolutionize algorithmic trading by combining multiple strategies and data-driven approaches for optimized trading models. This advanced framework enhances decision-making, reduces risks, and increases profitability through strategic layering and adaptation to market shifts. Learn how to implement this paradigm to gain a competitive edge with sophisticated machine learning techniques and data analytics in diverse financial market environments.
 ---
 

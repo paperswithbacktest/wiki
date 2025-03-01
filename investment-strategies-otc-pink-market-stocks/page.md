@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategies in OTC Pink Market Stocks (Algo Trading)"
+title: "Investment Strategies in OTC Pink Market Stocks"
 description: "Discover investment strategies in OTC Pink Market stocks with algo trading Learn how algorithmic approaches can optimize trading decisions in this unique market segment."
 ---
 

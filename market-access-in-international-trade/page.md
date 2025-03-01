@@ -1,5 +1,5 @@
 ---
-title: "Market Access in International Trade (Algo Trading)"
+title: "Market Access in International Trade"
 description: "Explore the role of trade policy and market access in international trade and how algo trading is transforming the landscape for businesses worldwide."
 ---
 

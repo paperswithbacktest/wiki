@@ -1,5 +1,5 @@
 ---
-title: "Top 5 Books for Acing a Quantitative Analyst Interview (Algo Trading)"
+title: "Top 5 Books for Acing a Quantitative Analyst Interview"
 description: Explore the essential resources to ace a quantitative analyst interview in algorithmic trading with our top 5 book recommendations. This guide introduces the renowned 'Green Book' collection, offering profound insights into quantitative finance and algorithmic strategies. Dive into fundamental financial mathematics, statistical analysis, and computational finance to enhance your trading skills. Understand how the 'Green Book' shapes market dynamics comprehension, offering a blend of theoretical and practical knowledge to navigate the complex world of algo trading and remain competitive in the data-driven financial markets.
 ---
 

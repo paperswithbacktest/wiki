@@ -1,5 +1,5 @@
 ---
-title: "Getty Oil Company Takeover Controversy (Algo Trading)"
+title: "Getty Oil Company Takeover Controversy"
 description: "Explore the complex dynamics of the Getty Oil Company takeover controversy amid the rise of algorithmic trading in the late 20th century. Understand how technological advancements influenced corporate takeover strategies and reshaped the oil industry. Discover the significant role of algorithmic trading in corporate finance and how it intersected with traditional industry frameworks during a period of economic transformation and corporate upheaval."
 ---
 

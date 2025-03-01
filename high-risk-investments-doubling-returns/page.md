@@ -1,5 +1,5 @@
 ---
-title: "High-Risk Investments with Potential for Doubling Returns (Algo Trading)"
+title: "High-Risk Investments with Potential for Doubling Returns"
 description: "Explore the potential of high-risk investments and algorithmic trading strategies to double your returns. Learn how to harness market opportunities effectively."
 ---
 

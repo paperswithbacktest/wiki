@@ -1,5 +1,5 @@
 ---
-title: "Coffee, Sugar and Cocoa Exchange (Algo Trading)"
+title: "Coffee, Sugar and Cocoa Exchange"
 description: "Explore the evolution of the Coffee Sugar and Cocoa Exchange into ICE Futures US highlighting the impact of algorithmic trading on modern commodities markets."
 ---
 

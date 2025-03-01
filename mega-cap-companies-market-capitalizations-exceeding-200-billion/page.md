@@ -1,5 +1,5 @@
 ---
-title: "Mega Cap Companies with Market Capitalizations Exceeding $200 Billion (Algo Trading)"
+title: "Mega Cap Companies with Market Capitalizations Exceeding $200 Billion"
 description: "Explore the influence of mega cap companies with market caps over $200 billion and the role of algorithmic trading in shaping today's financial markets."
 ---
 

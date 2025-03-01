@@ -1,5 +1,5 @@
 ---
-title: "Correction of Market Failures (Algo Trading)"
+title: "Correction of Market Failures"
 description: "Explore how economic correction market failure market regulation and algorithmic trading shape financial markets ensuring stability and resilience amidst challenges."
 ---
 

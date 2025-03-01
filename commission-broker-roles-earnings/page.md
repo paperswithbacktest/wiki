@@ -1,5 +1,5 @@
 ---
-title: "Commission Broker: Roles and Earnings (Algo Trading)"
+title: "Commission Broker: Roles and Earnings"
 description: "Explore the evolving role of brokers in financial markets including how they earn through commissions and adapt to algorithmic trading innovations."
 ---
 

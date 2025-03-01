@@ -1,5 +1,5 @@
 ---
-title: "Economic Production in Command Economies (Algo Trading)"
+title: "Economic Production in Command Economies"
 description: "Explore the intricacies of command economies and their reliance on central planning as opposed to market forces. Delve into how these systems aim to align economic production with broader socio-political objectives and examine the impact of modern technologies like algorithmic trading in refining economic forecasting. Understand how these theoretical advantages often clash with practical challenges such as inefficiency, lack of innovation, and consumer dissatisfaction. This article offers a comprehensive look at the dynamics of command economies, their pros and cons, and their capacity to evolve in the face of modern technological advancements."
 ---
 

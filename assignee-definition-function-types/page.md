@@ -1,5 +1,5 @@
 ---
-title: "Assignee: Definition, Function, and Types (Algo Trading)"
+title: "Assignee: Definition, Function, and Types"
 description: "Explore the integral role of assignees in algorithmic trading where understanding legal roles and assignment types is crucial for compliance and strategy development."
 ---
 

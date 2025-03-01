@@ -1,5 +1,5 @@
 ---
-title: "Difference Between Capital Gains and Investment Income (Algo Trading)"
+title: "Difference Between Capital Gains and Investment Income"
 description: "Explore the key differences between capital gains and investment income with a focus on taxation and algorithmic trading implications for investors."
 ---
 

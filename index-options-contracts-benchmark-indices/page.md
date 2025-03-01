@@ -1,5 +1,5 @@
 ---
-title: "Index Options: Contracts Based on Benchmark Indices (Algo Trading)"
+title: "Index Options: Contracts Based on Benchmark Indices"
 description: "Explore the dynamic world of index options and benchmark indices to manage risk and speculate on market moves in the evolving landscape of algorithmic trading."
 ---
 

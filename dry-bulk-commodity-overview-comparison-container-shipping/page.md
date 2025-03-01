@@ -1,5 +1,5 @@
 ---
-title: "Dry Bulk Commodity: Overview and Comparison to Container Shipping (Algo Trading)"
+title: "Dry Bulk Commodity: Overview and Comparison to Container Shipping"
 description: "Explore the role of dry bulk commodities in global trade, comparing their transport dynamics with container shipping and the impact of algo trading on efficiency."
 ---
 

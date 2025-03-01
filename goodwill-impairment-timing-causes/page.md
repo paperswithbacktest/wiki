@@ -1,5 +1,5 @@
 ---
-title: "Goodwill Impairment: Timing and Causes (Algo Trading)"
+title: "Goodwill Impairment: Timing and Causes"
 description: "Explore the timing and causes of goodwill impairment in corporate finance and its impact on algorithmic trading strategies and financial transparency."
 ---
 

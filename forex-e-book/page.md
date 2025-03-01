@@ -1,5 +1,5 @@
 ---
-title: "Forex E-Book (Algo Trading)"
+title: "Forex E-Book"
 description: "Explore the evolving world of forex trading through algorithmic trading and e-books Discover how these tools empower traders with knowledge and precision"
 ---
 

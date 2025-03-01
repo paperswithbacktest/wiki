@@ -1,5 +1,5 @@
 ---
-title: "Delivery Versus Payment Mechanism (Algo Trading)"
+title: "Delivery Versus Payment Mechanism"
 description: "Explore the vital role of Delivery Versus Payment (DVP) in secure financial transactions and the transformative impact of algorithmic trading on efficient market settlements."
 ---
 

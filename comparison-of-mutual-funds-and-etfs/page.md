@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Mutual Funds and ETFs (Algo Trading)"
+title: "Comparison of Mutual Funds and ETFs"
 description: "Explore the key differences between mutual funds and ETFs, highlighting their unique benefits in investment strategies. Learn how these vehicles differ in management style, cost structures, and tax implications, especially when combined with algorithmic trading. Dive into the intricacies of real-time pricing and trading flexibility to make better-informed financial decisions for a diversified portfolio tailored to modern financial markets."
 ---
 

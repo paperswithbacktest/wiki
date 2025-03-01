@@ -1,5 +1,5 @@
 ---
-title: "Debt-to-Equity Ratios in the Utilities Sector (Algo Trading)"
+title: "Debt-to-Equity Ratios in the Utilities Sector"
 description: "Explore the financial dynamics of the utilities sector focusing on the debt-to-equity ratio's impact on investment strategies and algorithmic trading benefits."
 ---
 

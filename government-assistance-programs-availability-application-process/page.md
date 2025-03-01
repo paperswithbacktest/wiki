@@ -1,5 +1,5 @@
 ---
-title: "Government Assistance Programs: Availability and Application Process (Algo Trading)"
+title: "Government Assistance Programs: Availability and Application Process"
 description: "Explore government assistance programs for algorithmic trading to enhance technology access and skills. Learn about application processes for financial support."
 ---
 

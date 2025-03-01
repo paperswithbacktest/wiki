@@ -1,5 +1,5 @@
 ---
-title: "JPMorgan Chase and Company (Algo Trading)"
+title: "JPMorgan Chase and Company"
 description: "Discover how JPMorgan Chase & Co. utilizes algorithmic trading to transform financial markets enhancing efficiency risk management and offering tailored solutions."
 ---
 

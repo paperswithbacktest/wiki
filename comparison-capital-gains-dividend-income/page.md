@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Capital Gains and Dividend Income (Algo Trading)"
+title: "Comparison of Capital Gains and Dividend Income"
 description: "Explore the key differences between capital gains and dividend income, and learn how algo trading impacts these investment strategies for maximizing returns."
 ---
 

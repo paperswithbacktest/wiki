@@ -1,5 +1,5 @@
 ---
-title: "Cost of Living Index (Algo Trading)"
+title: "Cost of Living Index"
 description: "Explore the vital interplay between cost of living, economic indexes, and algorithmic trading. Understand how living costs impact personal finance and business strategies, and discover how economic indicators like the Consumer Price Index inform market trends and trading strategies. This page provides insights into navigating complex economic landscapes for informed decision-making and investment planning."
 ---
 

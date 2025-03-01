@@ -1,5 +1,5 @@
 ---
-title: "Feature engineering for financial models (Algo Trading)"
+title: "Feature engineering for financial models"
 description: "Feature engineering is crucial in algorithmic trading to convert raw financial data into predictive features enhancing model accuracy. Explore strategies to boost your trading models."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "High-Frequency Market Making (Algo Trading)"
+title: "High-Frequency Market Making"
 description: "Explore high-frequency market making within algo trading Learn its mechanics benefits and challenges while understanding its impact on financial markets today"
 ---
 

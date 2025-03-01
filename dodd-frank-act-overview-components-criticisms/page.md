@@ -1,5 +1,5 @@
 ---
-title: "Dodd-Frank Act: Overview, Components, and Criticisms (Algo Trading)"
+title: "Dodd-Frank Act: Overview, Components, and Criticisms"
 description: "Explore the Dodd-Frank Act's impact on financial regulation and algorithmic trading highlighting major reforms and criticisms without risking market stability."
 ---
 

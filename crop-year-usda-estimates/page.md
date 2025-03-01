@@ -1,5 +1,5 @@
 ---
-title: "Crop Year: Definition and USDA Estimates (Algo Trading)"
+title: "Crop Year: Definition and USDA Estimates"
 description: "Explore the dynamics of crop years and the impact of USDA estimates on agricultural markets using algorithmic trading for informed decision-making."
 ---
 

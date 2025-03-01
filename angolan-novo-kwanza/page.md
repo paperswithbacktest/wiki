@@ -1,5 +1,5 @@
 ---
-title: "Angolan Novo Kwanza (Algo Trading)"
+title: "Angolan Novo Kwanza"
 description: "Discover the dynamics of the Angolan Kwanza and the rise of algorithmic trading. Explore how algo trading can optimize outcomes in Angola's volatile market."
 ---
 

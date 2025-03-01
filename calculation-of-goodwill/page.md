@@ -1,5 +1,5 @@
 ---
-title: "Calculation of Goodwill (Algo Trading)"
+title: "Calculation of Goodwill"
 description: "Explore how algorithmic trading enhances goodwill valuation in mergers and acquisitions. Understand intangible asset evaluation in the evolving financial landscape."
 ---
 

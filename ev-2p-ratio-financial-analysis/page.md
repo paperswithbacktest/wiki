@@ -1,5 +1,5 @@
 ---
-title: "EV/2P Ratio in Financial Analysis (Algo Trading)"
+title: "EV/2P Ratio in Financial Analysis"
 description: "Explore the significance of the EV/2P ratio in valuing oil and gas companies and how it enhances algorithmic trading strategies for informed investments."
 ---
 

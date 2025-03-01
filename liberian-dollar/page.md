@@ -1,5 +1,5 @@
 ---
-title: "Liberian Dollar (Algo Trading)"
+title: "Liberian Dollar"
 description: "Explore the critical role of the Liberian Dollar in Liberia's economy its history application in financial markets and impact on economic policies and trading."
 ---
 

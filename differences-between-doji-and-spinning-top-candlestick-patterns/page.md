@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Doji and Spinning Top Candlestick Patterns (Algo Trading)"
+title: "Differences Between Doji and Spinning Top Candlestick Patterns"
 description: "Explore the differences between Doji and Spinning Top candlestick patterns in algo trading and learn how they indicate market indecision and potential reversals."
 ---
 

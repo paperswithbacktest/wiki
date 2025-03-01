@@ -1,5 +1,5 @@
 ---
-title: "Fakeout in Technical Analysis (Algo Trading)"
+title: "Fakeout in Technical Analysis"
 description: "Explore the role of fakeouts in technical analysis and algorithmic trading Discover strategies to protect your investments and minimize financial risks"
 ---
 

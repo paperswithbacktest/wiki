@@ -1,5 +1,5 @@
 ---
-title: "Legality of Arbitrage Trading (Algo Trading)"
+title: "Legality of Arbitrage Trading"
 description: "Explore the legal landscape of arbitrage and algorithmic trading ensuring compliance while optimizing trading strategies for efficiency and minimized risks."
 ---
 

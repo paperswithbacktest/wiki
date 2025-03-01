@@ -1,5 +1,5 @@
 ---
-title: "Basecoin: Overview, Concerns, and Regulation (Algo Trading)"
+title: "Basecoin: Overview, Concerns, and Regulation"
 description: "Explore the rise and challenges of Basecoin an algorithmic stablecoin scrutinized for its regulatory compliance and innovative, yet debated, stability mechanism."
 ---
 

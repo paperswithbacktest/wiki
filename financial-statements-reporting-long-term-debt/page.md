@@ -1,5 +1,5 @@
 ---
-title: "Financial Statements Reporting Long-Term Debt (Algo Trading)"
+title: "Financial Statements Reporting Long-Term Debt"
 description: "Explore the essential link between financial statements, long-term debt, corporate finance, and algorithmic trading to enhance company growth and resilience."
 ---
 

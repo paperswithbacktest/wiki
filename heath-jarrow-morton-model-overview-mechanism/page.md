@@ -1,5 +1,5 @@
 ---
-title: "Heath-Jarrow-Morton Model: Overview and Mechanism (Algo Trading)"
+title: "Heath-Jarrow-Morton Model: Overview and Mechanism"
 description: "The Heath-Jarrow-Morton Model is crucial for modeling forward interest rates and pricing interest rate derivatives using stochastic differential equations in financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bootstrap aggregation (Algo Trading)"
+title: "Bootstrap aggregation"
 description: Discover how Bootstrap Aggregation or bagging enhances algorithmic trading by improving predictive performance with machine learning ensemble methods. Explore how bagging reduces variance increases robustness and helps in making accurate trading decisions. Understand its practical applications in constructing reliable trading models using diverse datasets and learn how it mitigates overfitting for stable and informed market predictions.
 ---
 

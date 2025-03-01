@@ -1,5 +1,5 @@
 ---
-title: "Comparative Differences Among Index Funds (Algo Trading)"
+title: "Comparative Differences Among Index Funds"
 description: "Explore the comparative differences between index funds and algorithmic trading with insights into their risk, returns, and management styles for investors."
 ---
 

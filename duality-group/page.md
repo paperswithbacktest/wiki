@@ -1,5 +1,5 @@
 ---
-title: "Duality Group (Algo Trading)"
+title: "Duality Group"
 description: "Duality Group excels in algorithmic trading with innovative strategies and cutting-edge technology offering unmatched speed accuracy and efficiency globally."
 ---
 

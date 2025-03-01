@@ -1,5 +1,5 @@
 ---
-title: "Cryptocurrency Trading in South Korea: Popularity Factors (Algo Trading)"
+title: "Cryptocurrency Trading in South Korea: Popularity Factors"
 description: "Discover how cryptocurrency and algo trading are gaining traction in South Korea driven by tech-savvy youth overcoming economic challenges through digital finance."
 ---
 

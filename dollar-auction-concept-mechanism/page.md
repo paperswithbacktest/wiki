@@ -1,5 +1,5 @@
 ---
-title: "Dollar Auction: Concept and Mechanism (Algo Trading)"
+title: "Dollar Auction: Concept and Mechanism"
 description: "Explore the paradoxical Dollar Auction game in game theory, revealing how rational decisions can turn irrational. Discover its implications for algo trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin Cryptocurrency Overview (Algo Trading)"
+title: "Bitcoin Cryptocurrency Overview"
 description: "Explore the transformational impact of Bitcoin and cryptocurrencies, the underlying blockchain technology, and the rise of algorithmic trading in today's finance world."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Gold As An Alternative Currency (Algo Trading)"
+title: "Gold As An Alternative Currency"
 description: "Explore gold's role as a resilient alternative currency and its integration into algorithmic trading strategies to navigate today's financial complexities."
 ---
 

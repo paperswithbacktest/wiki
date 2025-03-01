@@ -1,5 +1,5 @@
 ---
-title: "Exchange Rate Fluctuations (Algo Trading)"
+title: "Exchange Rate Fluctuations"
 description: "Explore the dynamics of forex market with a focus on currency fluctuations and exchange rates Learn how algo trading revolutionizes trading strategies for better returns"
 ---
 

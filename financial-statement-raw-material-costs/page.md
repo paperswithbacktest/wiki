@@ -1,5 +1,5 @@
 ---
-title: "Financial Statement Showing Raw Material Costs (Algo Trading)"
+title: "Financial Statement Showing Raw Material Costs"
 description: "Unlock insights into managing raw material costs, accurate financial statements, and algorithmic trading for optimized financial performance and strategic growth."
 ---
 

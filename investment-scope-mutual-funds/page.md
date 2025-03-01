@@ -1,5 +1,5 @@
 ---
-title: "Investment Scope of Mutual Funds (Algo Trading)"
+title: "Investment Scope of Mutual Funds"
 description: "Explore how mutual funds and algorithmic trading are reshaping investment strategies for better returns and risk management in today's dynamic financial landscape."
 ---
 

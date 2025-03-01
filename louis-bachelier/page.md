@@ -1,5 +1,5 @@
 ---
-title: "Louis Bachelier (Algo Trading)"
+title: "Louis Bachelier"
 description: "Explore Louis Bachelier's groundbreaking contributions to financial mathematics and algorithmic trading, showcasing his lasting influence on modern trading systems."
 ---
 

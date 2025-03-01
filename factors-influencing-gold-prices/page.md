@@ -1,5 +1,5 @@
 ---
-title: "Factors Influencing Gold Prices (Algo Trading)"
+title: "Factors Influencing Gold Prices"
 description: "Discover the complex factors influencing gold prices, including the vital roles of central bank reserves and the U.S. dollar's value. Explore how economic conditions, sectoral demand, and algorithmic trading impact gold markets, providing insights for investors to navigate this precious metal's intricate landscape effectively."
 ---
 

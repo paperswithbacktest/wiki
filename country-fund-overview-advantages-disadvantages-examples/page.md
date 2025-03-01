@@ -1,5 +1,5 @@
 ---
-title: "Country Fund: Overview, Advantages, Disadvantages, and Examples (Algo Trading)"
+title: "Country Fund: Overview, Advantages, Disadvantages, and Examples"
 description: "Explore the benefits and risks of country funds and algo trading Gain insights into targeted investing and automation strategies to enhance your portfolio."
 ---
 

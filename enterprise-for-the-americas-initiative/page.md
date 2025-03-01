@@ -1,5 +1,5 @@
 ---
-title: "Enterprise for the Americas Initiative (Algo Trading)"
+title: "Enterprise for the Americas Initiative"
 description: "Explore the intersection of the Enterprise for the Americas Initiative and algorithmic trading technological advancements to boost economic cooperation across the Americas."
 ---
 

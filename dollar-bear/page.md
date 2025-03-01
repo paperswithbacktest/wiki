@@ -1,5 +1,5 @@
 ---
-title: "Dollar Bear (Algo Trading)"
+title: "Dollar Bear"
 description: "Explore dynamic currency markets with insights into the potential bear phase for the US dollar Learn how algorithmic trading can empower traders amidst uncertainties"
 ---
 

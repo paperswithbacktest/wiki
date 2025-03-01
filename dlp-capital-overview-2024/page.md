@@ -1,5 +1,5 @@
 ---
-title: "DLP Capital Overview 2024 (Algo Trading)"
+title: "DLP Capital Overview 2024"
 description: "Explore DLP Capital's rise in 2024 as a leading force in algorithmic trading Discover their strategies performance and impact on today's financial markets"
 ---
 

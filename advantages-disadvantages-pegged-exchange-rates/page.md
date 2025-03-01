@@ -1,5 +1,5 @@
 ---
-title: "Advantages and Disadvantages of Pegged Exchange Rates (Algo Trading)"
+title: "Advantages and Disadvantages of Pegged Exchange Rates"
 description: "Explore the benefits and drawbacks of pegged exchange rates in global markets and discover how algorithmic trading impacts currency values and stability."
 ---
 

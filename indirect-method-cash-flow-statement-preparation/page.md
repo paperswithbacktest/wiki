@@ -1,5 +1,5 @@
 ---
-title: "Indirect Method in Cash Flow Statement Preparation (Algo Trading)"
+title: "Indirect Method in Cash Flow Statement Preparation"
 description: "Explore the indirect method of cash flow statement preparation and its pivotal role in enhancing algorithmic trading strategies for better financial insights."
 ---
 

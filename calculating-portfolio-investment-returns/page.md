@@ -1,5 +1,5 @@
 ---
-title: "Calculating Portfolio Investment Returns (Algo Trading)"
+title: "Calculating Portfolio Investment Returns"
 description: "Master investment return calculations and optimize your portfolio with algorithmic trading. Learn to evaluate profits, manage risks, and make informed decisions."
 ---
 

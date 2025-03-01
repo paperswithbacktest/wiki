@@ -1,5 +1,5 @@
 ---
-title: "Investor Roles and Types (Algo Trading)"
+title: "Investor Roles and Types"
 description: "Explore the different types of investors and their roles in financial markets with a focus on how algorithmic trading is transforming investment strategies today."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Genesis Block in Bitcoin (Algo Trading)"
+title: "Genesis Block in Bitcoin"
 description: "Explore the foundational significance of the Genesis Block in Bitcoin's blockchain and its profound impact on decentralization and algorithmic trading. Understand how this cornerstone of digital currency technology has influenced the development of secure and efficient trading strategies. Learn about the origins of the Genesis Block and its enduring legacy in shaping the cryptocurrency ecosystem and future innovations in financial technology."
 ---
 

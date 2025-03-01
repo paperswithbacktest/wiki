@@ -1,5 +1,5 @@
 ---
-title: "Inflation Reduction Act, 2022 (Algo Trading)"
+title: "Inflation Reduction Act, 2022"
 description: "Explore how the Inflation Reduction Act of 2022 impacts algorithmic trading with a focus on fiscal policy changes, market volatility, and trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Assessing Reliability of Goodwill (Algo Trading)"
+title: "Assessing Reliability of Goodwill"
 description: "Explore the intersection of goodwill valuation and algorithmic trading to enhance strategic financial analysis, optimize asset assessment, and improve market positioning."
 ---
 

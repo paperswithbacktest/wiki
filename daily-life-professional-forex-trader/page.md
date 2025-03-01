@@ -1,5 +1,5 @@
 ---
-title: "Daily Life of a Professional Forex Trader (Algo Trading)"
+title: "Daily Life of a Professional Forex Trader"
 description: "Discover the structured daily routines of professional forex traders using algo trading Learn how they prepare and strategize to succeed in a volatile market"
 ---
 

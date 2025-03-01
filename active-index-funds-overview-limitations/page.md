@@ -1,5 +1,5 @@
 ---
-title: "Active Index Funds: Overview and Limitations (Algo Trading)"
+title: "Active Index Funds: Overview and Limitations"
 description: "Explore active management index funds and algorithmic trading to optimize investments. Discover benefits, limitations and integration for effective strategies."
 ---
 

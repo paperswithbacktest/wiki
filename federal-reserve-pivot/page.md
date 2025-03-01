@@ -1,5 +1,5 @@
 ---
-title: "Federal Reserve Pivot (Algo Trading)"
+title: "Federal Reserve Pivot"
 description: "Explore how economic strategies, Federal Reserve policies, and algorithmic trading shape modern financial markets and influence liquidity, prices, and stability."
 ---
 

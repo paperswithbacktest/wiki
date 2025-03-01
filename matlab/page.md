@@ -1,5 +1,5 @@
 ---
-title: "MATLAB (Algo Trading)"
+title: "MATLAB"
 description: Discover how MATLAB revolutionizes algorithmic trading with robust tools for strategy development, backtesting, and risk analysis. Ideal for traders, MATLAB's powerful data processing and simulation capabilities enhance trade execution efficiency and precision, making it a key ally in competitive financial markets.
 ---
 

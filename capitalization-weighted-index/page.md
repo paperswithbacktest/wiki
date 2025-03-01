@@ -1,5 +1,5 @@
 ---
-title: "Capitalization-Weighted Index (Algo Trading)"
+title: "Capitalization-Weighted Index"
 description: "Explore the intricacies of capitalization-weighted indices and algorithmic trading to grasp their influence on market performance and develop informed investment strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Effects of Expansionary Economic Policy on Stock Markets (Algo Trading)"
+title: "Effects of Expansionary Economic Policy on Stock Markets"
 description: "Explore how expansionary economic policies impact stock markets through fiscal and monetary strategies aiming to boost growth, liquidity, and market performance."
 ---
 

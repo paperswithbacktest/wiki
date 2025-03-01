@@ -1,5 +1,5 @@
 ---
-title: "Boerboel Trading (Algo Trading)"
+title: "Boerboel Trading"
 description: "Boerboel Trading excels in algorithmic trading by utilizing advanced algorithms and data-driven strategies to enhance trade efficiency reduce human error and improve market outcomes."
 ---
 

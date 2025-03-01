@@ -1,5 +1,5 @@
 ---
-title: "Bull Spread as a Trading Strategy (Algo Trading)"
+title: "Bull Spread as a Trading Strategy"
 description: "Explore how bull spread strategies in options trading can be optimized through algorithmic trading techniques to enhance returns while managing risks effectively."
 ---
 

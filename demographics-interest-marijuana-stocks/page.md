@@ -1,5 +1,5 @@
 ---
-title: "Demographics and Interest in Marijuana Stocks (Algo Trading)"
+title: "Demographics and Interest in Marijuana Stocks"
 description: "Explore the dynamics of marijuana stocks as diverse demographics and algorithmic trading shape the evolving investment landscape amid shifting regulations."
 ---
 

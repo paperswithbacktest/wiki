@@ -1,5 +1,5 @@
 ---
-title: "Down-and-Out Option (Algo Trading)"
+title: "Down-and-Out Option"
 description: "Explore down-and-out options, exotic derivatives with a knockout feature that nullifies them if the asset hits a barrier, key in diverse trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Deposit Multiplier and Money Multiplier (Algo Trading)"
+title: "Deposit Multiplier and Money Multiplier"
 description: "Dive into the world of finance with insights on money and deposit multipliers, macroeconomic impacts, and the role of algorithmic trading in modern markets."
 ---
 

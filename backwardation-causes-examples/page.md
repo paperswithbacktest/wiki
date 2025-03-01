@@ -1,5 +1,5 @@
 ---
-title: "Backwardation: Causes and Examples (Algo Trading)"
+title: "Backwardation: Causes and Examples"
 description: "Explore the dynamics of backwardation in commodity markets and the role of algorithmic trading in futures, revealing unique trading opportunities."
 ---
 

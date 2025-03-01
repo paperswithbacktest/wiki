@@ -1,5 +1,5 @@
 ---
-title: "Contributed Surplus: History and Overview (Algo Trading)"
+title: "Contributed Surplus: History and Overview"
 description: "Explore the integral role of contributed surplus in corporate finance and algorithmic trading Discover how it impacts equity financing boosts investor confidence and aids strategic growth."
 ---
 

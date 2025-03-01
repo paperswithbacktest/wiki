@@ -1,5 +1,5 @@
 ---
-title: "Addressing the Challenges of Financial Compounding (Algo Trading)"
+title: "Addressing the Challenges of Financial Compounding"
 description: "Explore the power of financial compounding in algorithmic trading and learn to overcome the challenges of market volatility for sustained long-term growth."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Ascending Tops: Function and Characteristics (Algo Trading)"
+title: "Ascending Tops: Function and Characteristics"
 description: "Explore the functions and characteristics of ascending tops, a key chart pattern in algorithmic trading. Learn how this pattern indicates bullish market trends and how traders use it to optimize trading strategies. Discover the role of technology in identifying and trading this pattern effectively, and understand the importance of integrating risk management practices to mitigate potential downsides."
 ---
 

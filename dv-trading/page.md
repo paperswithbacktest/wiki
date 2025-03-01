@@ -1,5 +1,5 @@
 ---
-title: "DV Trading (Algo Trading)"
+title: "DV Trading"
 description: "Discover the synergy between DV Trading and algorithmic strategies, enhancing market efficiency and profitability through cutting-edge technology and analytics."
 ---
 

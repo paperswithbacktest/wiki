@@ -1,5 +1,5 @@
 ---
-title: "Adaptive Moving Average Explained (Algo Trading)"
+title: "Adaptive Moving Average Explained"
 description: Discover how adaptive moving averages like Kaufman's adaptive moving average (KAMA) enhance algorithmic trading by adjusting to market volatility. Learn about the implementation on the Zerodha platform, the mechanics behind KAMA, and how it differentiates from traditional moving averages to provide more responsive and reliable trading signals. Explore the advantages of integrating KAMA into your algo trading strategies for better decision-making and improved performance.
 ---
 

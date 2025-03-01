@@ -1,5 +1,5 @@
 ---
-title: "Efficient Market Hypothesis Critique (Algo Trading)"
+title: "Efficient Market Hypothesis Critique"
 description: "Explore a critical examination of the Efficient Market Hypothesis (EMH) against the backdrop of the rising influence of algorithmic trading. This article investigates into the principles of EMH, a key theory in financial economics, while addressing notable critiques from behavioral economics and empirical anomalies. It sheds light on the impact of algorithmic trading on market efficiency as well as potential risks associated with increased volatility. By evaluating supportive and opposing perspectives, this insight-driven piece aims to offer a comprehensive understanding of EMH and its relevance in today's dynamic financial markets."
 ---
 

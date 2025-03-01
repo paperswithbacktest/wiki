@@ -1,5 +1,5 @@
 ---
-title: "Depositary Receipt: Overview and Types (Algo Trading)"
+title: "Depositary Receipt: Overview and Types"
 description: "Explore depositary receipts and algorithmic trading to enhance your investment strategy Find insights on optimizing portfolios in today's dynamic markets"
 ---
 

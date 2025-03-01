@@ -1,5 +1,5 @@
 ---
-title: "Dividend Clawback (Algo Trading)"
+title: "Dividend Clawback"
 description: "Explore the impact of dividend clawback mechanisms and algorithmic trading in modern finance Learn how these strategies optimize returns and manage risk."
 ---
 

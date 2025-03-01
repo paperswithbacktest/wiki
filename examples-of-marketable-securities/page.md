@@ -1,5 +1,5 @@
 ---
-title: "Examples of Marketable Securities (Algo Trading)"
+title: "Examples of Marketable Securities"
 description: "Explore marketable securities and algorithmic trading as essential components in modern portfolios offering liquidity and efficiency in today's financial landscape."
 ---
 

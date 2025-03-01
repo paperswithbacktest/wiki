@@ -1,5 +1,5 @@
 ---
-title: "Financial Ratios for Retail Bank Analysis (Algo Trading)"
+title: "Financial Ratios for Retail Bank Analysis"
 description: "Explore financial ratios crucial for retail bank analysis and understand how algorithmic trading enhances efficiency and profitability in modern banking."
 ---
 

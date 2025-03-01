@@ -1,5 +1,5 @@
 ---
-title: "Block Functionality in Blockchain (Algo Trading)"
+title: "Block Functionality in Blockchain"
 description: "Explore the pivotal role of blockchain in algorithmic trading and cryptocurrencies Understanding its security and transparency benefits for modern finance"
 ---
 

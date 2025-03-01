@@ -1,5 +1,5 @@
 ---
-title: "Longevity Derivatives: Benefits and Limitations (Algo Trading)"
+title: "Longevity Derivatives: Benefits and Limitations"
 description: "Explore the benefits and limitations of longevity derivatives and algorithmic trading in modern markets. Discover how these tools impact risk management strategies."
 ---
 

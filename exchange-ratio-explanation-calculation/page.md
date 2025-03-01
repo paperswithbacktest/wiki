@@ -1,5 +1,5 @@
 ---
-title: "Exchange Ratio: Explanation and Calculation (Algo Trading)"
+title: "Exchange Ratio: Explanation and Calculation"
 description: "Discover the critical role of exchange ratios in M&A transactions and learn how algorithmic trading enhances their calculation for shareholder value optimization."
 ---
 

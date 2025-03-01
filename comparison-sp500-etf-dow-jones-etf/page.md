@@ -1,5 +1,5 @@
 ---
-title: "Comparison of S&P 500 ETF and Dow Jones ETF (Algo Trading)"
+title: "Comparison of S&P 500 ETF and Dow Jones ETF"
 description: "Explore the differences between S&P 500 ETF and Dow Jones ETF to enhance your investment strategy Learn about algorithmic trading and key performance insights"
 ---
 

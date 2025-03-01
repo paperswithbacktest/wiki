@@ -1,5 +1,5 @@
 ---
-title: "Comparison of High-Water Mark and Hurdle Rate (Algo Trading)"
+title: "Comparison of High-Water Mark and Hurdle Rate"
 description: "Unlock investment insights with an exploration of high-water marks and hurdle rates in algorithmic trading Learn how these metrics protect investors and drive fund performance"
 ---
 

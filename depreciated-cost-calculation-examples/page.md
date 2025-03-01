@@ -1,5 +1,5 @@
 ---
-title: "Depreciated Cost Calculation and Examples (Algo Trading)"
+title: "Depreciated Cost Calculation and Examples"
 description: "Explore the impact of depreciated cost calculations on algorithmic trading strategies. Understand asset valuation methods to optimize trading models and financial reports."
 ---
 

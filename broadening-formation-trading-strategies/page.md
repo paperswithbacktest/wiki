@@ -1,5 +1,5 @@
 ---
-title: "Broadening Formation and Trading Strategies (Algo Trading)"
+title: "Broadening Formation and Trading Strategies"
 description: "Explore broadening formations in algo trading to capitalize on market volatility. Learn chart patterns, identify opportunities, and apply advanced trading strategies effectively."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Competitive Devaluation: Overview, Benefits, Challenges, and Case Study (Algo Trading)"
+title: "Competitive Devaluation: Overview, Benefits, Challenges, and Case Study"
 description: "Explore the intricacies of competitive devaluation and its impact on global markets with insights into algorithmic trading strategies and potential economic benefits and risks."
 ---
 

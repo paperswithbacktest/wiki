@@ -1,5 +1,5 @@
 ---
-title: "Junior Debt in Real Estate Investing (Algo Trading)"
+title: "Junior Debt in Real Estate Investing"
 description: "Discover the pivotal role of junior debt in real estate investing and algorithmic trading Explore strategies that maximize returns while balancing risks"
 ---
 

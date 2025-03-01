@@ -1,5 +1,5 @@
 ---
-title: "Asset Rationalization: Overview, Advantages, and Disadvantages (Algo Trading)"
+title: "Asset Rationalization: Overview, Advantages, and Disadvantages"
 description: "Explore how asset rationalization enhances algorithmic trading efficiency by optimizing resources and streamlining operations for improved profitability and agility."
 ---
 

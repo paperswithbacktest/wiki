@@ -1,5 +1,5 @@
 ---
-title: "February 2018 Stock Market Volatility Event (Algo Trading)"
+title: "February 2018 Stock Market Volatility Event"
 description: "Explore the February 2018 stock market crash driven by algorithmic trading Volmageddon's impact on market stability and the downfall of inverse volatility products."
 ---
 

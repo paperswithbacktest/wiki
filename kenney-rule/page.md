@@ -1,5 +1,5 @@
 ---
-title: "Kenney Rule (Algo Trading)"
+title: "Kenney Rule"
 description: "Explore the Kenney Rule's application in algorithmic trading to enhance financial stability and risk management, promoting market integrity and efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Acid-Test Ratio Calculation and Examples (Algo Trading)"
+title: "Acid-Test Ratio Calculation and Examples"
 description: "Explore the acid-test ratio's role in evaluating corporate liquidity and its application in algorithmic trading for informed financial decision-making."
 ---
 

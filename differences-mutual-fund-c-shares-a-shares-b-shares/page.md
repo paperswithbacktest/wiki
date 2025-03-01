@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Mutual Fund C Shares and A Shares, B Shares (Algo Trading)"
+title: "Differences Between Mutual Fund C Shares and A Shares, B Shares"
 description: "Explore the differences between mutual fund A, B, and C shares and how algorithmic trading enhances investment strategies to meet diverse financial goals."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Investing in a Stock Index (Algo Trading)"
+title: "Investing in a Stock Index"
 description: "Explore integrating index fund investing with algorithmic trading for enhanced portfolio management, improved trade execution, and market exposure."
 ---
 

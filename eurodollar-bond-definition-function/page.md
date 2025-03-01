@@ -1,5 +1,5 @@
 ---
-title: "Eurodollar Bond: Definition and Function (Algo Trading)"
+title: "Eurodollar Bond: Definition and Function"
 description: "Explore the intersection of Eurodollar bonds and algorithmic trading to understand their roles in global finance enhancing liquidity and efficiency in bond markets."
 ---
 

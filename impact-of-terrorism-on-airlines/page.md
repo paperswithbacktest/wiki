@@ -1,5 +1,5 @@
 ---
-title: "Impact of Terrorism on Airlines (Algo Trading)"
+title: "Impact of Terrorism on Airlines"
 description: "Explore how terrorism impacts the airline industry, affecting security and financial stability. Learn about algorithmic trading's response to such events."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Accrual Rate: Definition and Mechanism (Algo Trading)"
+title: "Accrual Rate: Definition and Mechanism"
 description: "Discover the intricacies of accrual rates and their vital role in algorithmic trading. Understand how accurate interest calculations shape modern trading strategies."
 ---
 

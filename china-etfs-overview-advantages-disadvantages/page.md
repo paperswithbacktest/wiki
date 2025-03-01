@@ -1,5 +1,5 @@
 ---
-title: "China ETFs: Overview, Advantages, and Disadvantages (Algo Trading)"
+title: "China ETFs: Overview, Advantages, and Disadvantages"
 description: "Explore the benefits and challenges of investing in China ETFs using algorithmic trading strategies for efficient market navigation and potential returns."
 ---
 

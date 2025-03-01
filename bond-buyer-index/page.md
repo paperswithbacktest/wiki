@@ -1,5 +1,5 @@
 ---
-title: "Bond Buyer Index (Algo Trading)"
+title: "Bond Buyer Index"
 description: "Explore the evolving municipal bond market with insights into the Bond Buyer Index a key benchmark shaping trading strategies through algo trading and AI advancements."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Architecture Billings Index: Interpretation and Significance (Algo Trading)"
+title: "Architecture Billings Index: Interpretation and Significance"
 description: "Explore the Architecture Billings Index as an economic indicator that forecasts construction trends and its impact on algorithmic trading strategies."
 ---
 

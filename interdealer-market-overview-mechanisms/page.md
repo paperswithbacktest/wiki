@@ -1,5 +1,5 @@
 ---
-title: "Interdealer Market: Overview and Mechanisms (Algo Trading)"
+title: "Interdealer Market: Overview and Mechanisms"
 description: "Explore the essential aspects and mechanisms of the interdealer market including the role of algorithmic trading in enhancing efficiency and liquidity."
 ---
 

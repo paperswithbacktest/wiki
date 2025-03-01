@@ -1,5 +1,5 @@
 ---
-title: "Accounting Rate of Return (Algo Trading)"
+title: "Accounting Rate of Return"
 description: "Explore the simplicity and utility of the Accounting Rate of Return (ARR) in evaluating investment profitability and capital allocation decisions."
 ---
 

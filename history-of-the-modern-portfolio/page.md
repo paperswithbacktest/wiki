@@ -1,5 +1,5 @@
 ---
-title: "History of the Modern Portfolio (Algo Trading)"
+title: "History of the Modern Portfolio"
 description: "Discover the evolution of investment strategies from traditional methods to advanced technology-driven approaches, focusing on algorithmic trading."
 ---
 

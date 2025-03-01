@@ -1,5 +1,5 @@
 ---
-title: "Criticisms and Challenges of the WTO (Algo Trading)"
+title: "Criticisms and Challenges of the WTO"
 description: "Explore the criticisms of the World Trade Organization and the impact of algorithmic trading on market fairness and equity in today's globalized economy."
 ---
 

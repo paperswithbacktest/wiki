@@ -1,5 +1,5 @@
 ---
-title: "Incremental Analysis: Types, Importance, and Examples (Algo Trading)"
+title: "Incremental Analysis: Types, Importance, and Examples"
 description: "Discover how incremental analysis enhances algorithmic trading by evaluating additional costs and benefits for optimized financial decisions and strategy refinement."
 ---
 

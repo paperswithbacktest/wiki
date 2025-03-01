@@ -1,5 +1,5 @@
 ---
-title: "Cash Flow Loan Overview (Algo Trading)"
+title: "Cash Flow Loan Overview"
 description: "Explore the synergy of business finance cash flow loans and algorithmic trading to optimize financial strategies enhance growth potential and manage risks effectively."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "GDP Price Deflator and Formula (Algo Trading)"
+title: "GDP Price Deflator and Formula"
 description: "Discover the role of the GDP Price Deflator in economic analysis and algorithmic trading learn how this key indicator measures inflation and impacts strategy."
 ---
 

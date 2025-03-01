@@ -1,5 +1,5 @@
 ---
-title: "Choosing a Qualified Cryptocurrency Custodian (Algo Trading)"
+title: "Choosing a Qualified Cryptocurrency Custodian"
 description: "Choosing a cryptocurrency custodian is crucial for securing digital assets like Bitcoin and Ethereum Explore key strategies for storage and safe trading practices"
 ---
 

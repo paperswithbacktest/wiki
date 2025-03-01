@@ -1,5 +1,5 @@
 ---
-title: "Delivery Risk Analysis and Mechanisms (Algo Trading)"
+title: "Delivery Risk Analysis and Mechanisms"
 description: "Explore delivery risk management in supply chains and algorithmic trading to balance efficiency with risk mitigation ensuring global commerce stability and resilience."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Forex Forecasting Software: Overview and Functionality (Algo Trading)"
+title: "Forex Forecasting Software: Overview and Functionality"
 description: "Discover how Forex forecasting software and algorithmic trading can optimize your trading strategy by analyzing market trends and automating trade executions."
 ---
 

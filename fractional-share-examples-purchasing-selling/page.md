@@ -1,5 +1,5 @@
 ---
-title: "Fractional Share: Examples, Purchasing, and Selling (Algo Trading)"
+title: "Fractional Share: Examples, Purchasing, and Selling"
 description: "Explore the world of fractional shares in algo trading and discover how they transform investment accessibility by enabling strategic buying and selling."
 ---
 

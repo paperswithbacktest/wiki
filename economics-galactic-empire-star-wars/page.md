@@ -1,5 +1,5 @@
 ---
-title: "Economics of the Galactic Empire in Star Wars (Algo Trading)"
+title: "Economics of the Galactic Empire in Star Wars"
 description: "Explore the sophisticated economic landscape of the Galactic Empire in Star Wars and its parallels to modern economies emphasizing algorithmic trading and trade networks."
 ---
 

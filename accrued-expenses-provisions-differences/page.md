@@ -1,5 +1,5 @@
 ---
-title: "Accrued Expenses and Provisions: Differences (Algo Trading)"
+title: "Accrued Expenses and Provisions: Differences"
 description: "Explore the distinctions between accrued expenses and provisions in algo trading Learn key financial concepts to enhance trading strategies and financial management"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "American Financial Exchange (Algo Trading)"
+title: "American Financial Exchange"
 description: "Explore how the American Financial Exchange utilizes algorithmic trading to enhance transparency and efficiency in U.S. financial markets with Ameribor."
 ---
 

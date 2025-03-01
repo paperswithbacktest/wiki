@@ -1,5 +1,5 @@
 ---
-title: "International Petroleum Exchange (Algo Trading)"
+title: "International Petroleum Exchange"
 description: "Explore the transformation of the International Petroleum Exchange into ICE Futures Europe and the impact of algorithmic trading on global energy markets."
 ---
 

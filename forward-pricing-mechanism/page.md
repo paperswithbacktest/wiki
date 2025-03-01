@@ -1,5 +1,5 @@
 ---
-title: "Forward Pricing and Its Mechanism (Algo Trading)"
+title: "Forward Pricing and Its Mechanism"
 description: "Explore how forward pricing and algorithmic trading enhance financial markets by optimizing valuation processes and improving trade execution efficiency."
 ---
 

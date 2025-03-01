@@ -1,5 +1,5 @@
 ---
-title: "Global Financial Services Sector Analysis (Algo Trading)"
+title: "Global Financial Services Sector Analysis"
 description: "Explore the dynamic intersection of the global financial services sector and algorithmic trading. Discover how AI and machine learning are revolutionizing trading efficiency, contributing to economic growth, and democratizing access to advanced financial tools. Gain insights into emerging trends and future projections shaping this vital sector. Stay informed for effective navigation of the evolving financial ecosystem."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Wealthfront and Merrill Guided Investing (Algo Trading)"
+title: "Comparison of Wealthfront and Merrill Guided Investing"
 description: "this platform as a competitive choice in the robo-advisory market. 
 
 Explore a detailed comparison of Wealthfront and Merrill Guided Investing to discover how these leading robo-advisors employ algorithmic trading to optimize investment strategies. This article investigates into their unique platforms to aid investors in choosing a service aligned with their financial objectives."

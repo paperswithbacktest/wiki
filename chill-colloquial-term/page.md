@@ -1,5 +1,5 @@
 ---
-title: "Chill (Colloquial Term) (Algo Trading)"
+title: "Chill (Colloquial Term)"
 description: "Discover how algorithmic trading merges finance with technology. Explore slang's role in making complex trading ideas accessible to a broader audience."
 ---
 

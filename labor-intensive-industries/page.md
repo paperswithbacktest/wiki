@@ -1,5 +1,5 @@
 ---
-title: "Labor-Intensive Industries (Algo Trading)"
+title: "Labor-Intensive Industries"
 description: "Explore how labor-intensive industries such as agriculture and construction leverage algorithmic trading to enhance efficiency and optimize decision-making processes."
 ---
 

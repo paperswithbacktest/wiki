@@ -1,5 +1,5 @@
 ---
-title: "Communism: Overview and Historical Context (Algo Trading)"
+title: "Communism: Overview and Historical Context"
 description: "Explore the influence of communism and the evolution of algorithmic trading as they shape politics and economics providing new perspectives on global development."
 ---
 

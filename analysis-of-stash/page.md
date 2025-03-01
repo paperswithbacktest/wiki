@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Stash (Algo Trading)"
+title: "Analysis of Stash"
 description: "Discover how Stash combines user-friendly investing with educational resources in our analysis of its algorithmic trading features to enhance your investment strategy."
 ---
 

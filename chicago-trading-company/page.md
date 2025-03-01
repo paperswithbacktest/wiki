@@ -1,5 +1,5 @@
 ---
-title: "Chicago Trading Company (Algo Trading)"
+title: "Chicago Trading Company"
 description: "Explore the dynamic world of algorithmic trading with Chicago Trading Company a leader since 1995 known for innovation and integrity in financial markets."
 ---
 

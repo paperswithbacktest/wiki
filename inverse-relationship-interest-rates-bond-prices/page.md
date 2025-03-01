@@ -1,5 +1,5 @@
 ---
-title: "Inverse Relationship Between Interest Rates and Bond Prices (Algo Trading)"
+title: "Inverse Relationship Between Interest Rates and Bond Prices"
 description: "Discover how interest rates and bond prices are inversely related, impacting investment strategies. Learn how algorithmic trading exploits these market dynamics."
 ---
 

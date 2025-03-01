@@ -1,5 +1,5 @@
 ---
-title: "Cyclical Stocks: Advantages and Disadvantages (Algo Trading)"
+title: "Cyclical Stocks: Advantages and Disadvantages"
 description: "Explore the advantages and risks of investing in cyclical stocks and discover how algorithmic trading can enhance your strategic approach to market cycles."
 ---
 

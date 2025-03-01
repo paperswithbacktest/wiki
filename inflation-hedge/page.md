@@ -1,5 +1,5 @@
 ---
-title: "Inflation Hedge (Algo Trading)"
+title: "Inflation Hedge"
 description: "Explore how algorithmic trading offers effective solutions to hedge against inflation securing your investments through advanced strategies and market insights."
 ---
 

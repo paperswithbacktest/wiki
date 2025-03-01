@@ -1,5 +1,5 @@
 ---
-title: "At Best: Meaning, Function, and Occurrence (Algo Trading)"
+title: "At Best: Meaning, Function, and Occurrence"
 description: "Explore the meaning and use of algorithmic trading in financial markets Discover how automation enhances trading speed, efficiency, and strategy execution"
 ---
 

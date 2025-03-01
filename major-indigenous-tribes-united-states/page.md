@@ -1,5 +1,5 @@
 ---
-title: "Major Indigenous Tribes in the United States (Algo Trading)"
+title: "Major Indigenous Tribes in the United States"
 description: "Explore how major Indigenous tribes in the United States engage in algorithmic trading blending traditional practices with cutting-edge financial technology."
 ---
 

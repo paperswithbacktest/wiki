@@ -1,5 +1,5 @@
 ---
-title: "Base Effect and Comparison Analysis (Algo Trading)"
+title: "Base Effect and Comparison Analysis"
 description: "Explore how data analysis, economics, and algorithmic trading intersect to transform market trend interpretation. Understand base effect and enhance trading strategies."
 ---
 

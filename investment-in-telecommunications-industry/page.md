@@ -1,5 +1,5 @@
 ---
-title: "Investment in the Telecommunications Industry (Algo Trading)"
+title: "Investment in the Telecommunications Industry"
 description: "Explore opportunities and navigate risks in telecommunications investments with insights into 5G technology and algorithmic trading strategies for optimal returns."
 ---
 

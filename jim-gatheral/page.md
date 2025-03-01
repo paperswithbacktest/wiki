@@ -1,5 +1,5 @@
 ---
-title: "Jim Gatheral (Algo Trading)"
+title: "Jim Gatheral"
 description: "Discover Jim Gatheral's influential journey from UK education to leadership in finance and academia Learn about his impact on quantitative finance and algorithmic trading"
 ---
 

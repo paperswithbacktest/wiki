@@ -1,5 +1,5 @@
 ---
-title: "Liquid Asset (Algo Trading)"
+title: "Liquid Asset"
 description: "Unlock the potential of algo trading in financial markets Understand liquid assets and their crucial role in investment strategies for maximum agility and returns"
 ---
 

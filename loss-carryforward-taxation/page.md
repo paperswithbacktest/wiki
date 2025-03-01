@@ -1,5 +1,5 @@
 ---
-title: "Loss Carryforward in Taxation (Algo Trading)"
+title: "Loss Carryforward in Taxation"
 description: "Explore the advantages of loss carryforward in algo trading understand tax implications offsetting future gains with past losses to reduce tax liabilities effectively."
 ---
 

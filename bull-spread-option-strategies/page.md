@@ -1,5 +1,5 @@
 ---
-title: "Bull Spread Option Strategies (Algo Trading)"
+title: "Bull Spread Option Strategies"
 description: "Explore how bull spread option strategies combine options and algorithmic trading to achieve investment goals with controlled risk and profit potential."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Discount Brokers: Functions, Drawbacks, and Pricing (Algo Trading)"
+title: "Discount Brokers: Functions, Drawbacks, and Pricing"
 description: "Explore the benefits and drawbacks of discount brokers and how they impact investment strategy and algo trading efficiency in today's financial markets."
 ---
 

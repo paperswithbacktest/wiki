@@ -1,5 +1,5 @@
 ---
-title: "Herfindahl-Hirschman Index: Advantages and Limitations (Algo Trading)"
+title: "Herfindahl-Hirschman Index: Advantages and Limitations"
 description: "Explore the advantages and limitations of the Herfindahl-Hirschman Index (HHI) in algorithmic trading with insights into market concentration and competition."
 ---
 

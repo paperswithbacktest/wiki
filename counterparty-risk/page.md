@@ -1,5 +1,5 @@
 ---
-title: "Counterparty Risk (Algo Trading)"
+title: "Counterparty Risk"
 description: "Explore the complexities of counterparty risk and algorithmic trading in modern finance This page investigates into risk management strategies for financial stability"
 ---
 

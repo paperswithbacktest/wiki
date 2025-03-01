@@ -1,5 +1,5 @@
 ---
-title: "List of Largest Canadian Energy Companies (Algo Trading)"
+title: "List of Largest Canadian Energy Companies"
 description: "Explore the major Canadian energy companies and the impact of algorithmic trading on the sector amidst global market challenges and renewable energy shifts."
 ---
 

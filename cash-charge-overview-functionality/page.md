@@ -1,5 +1,5 @@
 ---
-title: "Cash Charge: Overview and Functionality (Algo Trading)"
+title: "Cash Charge: Overview and Functionality"
 description: "Explore the role of cash charges and algorithmic trading in modern finance Understand their impact on liquidity and profitability with strategic insights"
 ---
 

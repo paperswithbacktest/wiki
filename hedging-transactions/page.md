@@ -1,5 +1,5 @@
 ---
-title: "Hedging Transactions (Algo Trading)"
+title: "Hedging Transactions"
 description: "Explore hedging and algorithmic trading in finance to manage risk and optimize investment strategies effectively in unpredictable markets."
 ---
 

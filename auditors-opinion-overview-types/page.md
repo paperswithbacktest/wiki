@@ -1,5 +1,5 @@
 ---
-title: "Auditor's Opinion: Overview and Types (Algo Trading)"
+title: "Auditor's Opinion: Overview and Types"
 description: "Explore the crucial link between auditors' opinions and algorithmic trading Discover how audits ensure data integrity in financial markets for informed trading decisions"
 ---
 

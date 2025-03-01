@@ -1,5 +1,5 @@
 ---
-title: "Institutional Shareholder Services: Overview and History (Algo Trading)"
+title: "Institutional Shareholder Services: Overview and History"
 description: "Explore the vital roles of Institutional Shareholder Services in corporate governance and algorithmic trading, enhancing investor strategies in today's financial landscape."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Canadian Depository for Securities Limited (Algo Trading)"
+title: "Canadian Depository for Securities Limited"
 description: "Discover how the Canadian Depository for Securities (CDS) streamlines the financial infrastructure in Canada, ensuring secure and efficient securities transactions."
 ---
 

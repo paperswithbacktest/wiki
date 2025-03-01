@@ -1,5 +1,5 @@
 ---
-title: "Blocked Period: Meaning and Functionality with Examples (Algo Trading)"
+title: "Blocked Period: Meaning and Functionality with Examples"
 description: "Explore blocked periods in algorithmic trading and learn their importance for risk management and compliance to enhance trading algorithms and ensure smooth operations."
 ---
 

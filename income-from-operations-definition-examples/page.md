@@ -1,5 +1,5 @@
 ---
-title: "Income From Operations: Definition and Examples (Algo Trading)"
+title: "Income From Operations: Definition and Examples"
 description: "Discover the importance of income from operations in financial analysis and algorithmic trading to enhance business strategies and optimize investment decisions."
 ---
 

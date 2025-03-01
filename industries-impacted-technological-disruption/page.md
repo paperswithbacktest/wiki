@@ -1,5 +1,5 @@
 ---
-title: "Industries Impacted by Technological Disruption (Algo Trading)"
+title: "Industries Impacted by Technological Disruption"
 description: "Explore how technological advancements like AI are transforming algorithmic trading by enhancing efficiency, enabling real-time data analysis, and reshaping market dynamics."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Mixed Economy and Capitalism (Algo Trading)"
+title: "Differences Between Mixed Economy and Capitalism"
 description: "Explore how capitalism and mixed economies differ and understand the role of algorithmic trading in shaping market dynamics and regulatory policies."
 ---
 

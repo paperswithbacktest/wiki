@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin Options: Buying and Selling (Algo Trading)"
+title: "Bitcoin Options: Buying and Selling"
 description: "Explore the dynamics of Bitcoin options trading through this comprehensive guide on buying and selling in crypto markets, enriched with algo trading insights."
 ---
 

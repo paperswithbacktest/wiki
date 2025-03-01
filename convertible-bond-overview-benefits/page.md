@@ -1,5 +1,5 @@
 ---
-title: "Convertible Bond Overview and Benefits (Algo Trading)"
+title: "Convertible Bond Overview and Benefits"
 description: "Explore the benefits of convertible bonds and algorithmic trading as they offer a blend of risk management and growth potential in today's financial landscape."
 ---
 

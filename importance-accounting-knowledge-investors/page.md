@@ -1,5 +1,5 @@
 ---
-title: "Importance of Accounting Knowledge for Investors (Algo Trading)"
+title: "Importance of Accounting Knowledge for Investors"
 description: "Accounting knowledge is essential for investors in algorithmic trading providing the foundation to assess company performance and enhance investment strategies."
 ---
 

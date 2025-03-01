@@ -1,5 +1,5 @@
 ---
-title: "Methods for Evaluating Portfolio Managers (Algo Trading)"
+title: "Methods for Evaluating Portfolio Managers"
 description: "Explore the evolving dynamics of evaluating portfolio managers in algo trading. Discover strategies to optimize performance through innovation and technology."
 ---
 

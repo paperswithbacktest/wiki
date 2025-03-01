@@ -1,5 +1,5 @@
 ---
-title: "Fixed Rate Bonds and Their Interest Rate Risks (Algo Trading)"
+title: "Fixed Rate Bonds and Their Interest Rate Risks"
 description: "Explore the intricacies of fixed rate bonds and their susceptibility to interest rate risks Discover strategies to mitigate risks and optimize returns"
 ---
 

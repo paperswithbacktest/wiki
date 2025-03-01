@@ -1,5 +1,5 @@
 ---
-title: "James Knight (Algo Trading)"
+title: "James Knight"
 description: "Discover the journey of James Knight a leading software engineer in algorithmic trading known for developing advanced trading algorithms at Akuna Capital."
 ---
 

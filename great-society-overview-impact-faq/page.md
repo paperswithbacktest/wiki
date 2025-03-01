@@ -1,5 +1,5 @@
 ---
-title: "Great Society: Overview, Impact, and Frequently Asked Questions (Algo Trading)"
+title: "Great Society: Overview, Impact, and Frequently Asked Questions"
 description: "Explore the impact of the Great Society's reforms and the evolution of algorithmic trading in finance, reflecting on their lasting societal and industry contributions."
 ---
 

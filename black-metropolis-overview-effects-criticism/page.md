@@ -1,5 +1,5 @@
 ---
-title: "Black Metropolis: Overview, Effects, and Criticism (Algo Trading)"
+title: "Black Metropolis: Overview, Effects, and Criticism"
 description: "Explore the impact of "Black Metropolis" on urban sociology and algorithmic trading highlighting its insights into socio-economic dynamics of African American communities"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Contra Liability Account (Algo Trading)"
+title: "Contra Liability Account"
 description: "Explore the integration of contra liability accounts with algorithmic trading strategies for precise financial reporting and innovative trading techniques."
 ---
 

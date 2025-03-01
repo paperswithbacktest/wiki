@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Long and Short Positions (Algo Trading)"
+title: "Comparison of Long and Short Positions"
 description: "Explore the differences between long and short positions in trading Learn how algorithmic trading enhances these strategies for optimal financial market performance"
 ---
 

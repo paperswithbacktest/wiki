@@ -1,5 +1,5 @@
 ---
-title: "Capital Gains: Rules, Taxes, and Asset Types (Algo Trading)"
+title: "Capital Gains: Rules, Taxes, and Asset Types"
 description: "Explore the complexities of capital gains tax in algorithmic trading Uncover strategies to optimize tax liabilities across diverse asset types like stocks and cryptocurrencies"
 ---
 

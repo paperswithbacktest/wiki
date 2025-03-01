@@ -1,5 +1,5 @@
 ---
-title: "Dogs of the Dow Explained (Algo Trading)"
+title: "Dogs of the Dow Explained"
 description: Discover the potential of the Dogs of the Dow strategy combined with algorithmic trading to optimize high-yield investments within the Dow Jones Industrial Average. This approach offers investors the simplicity and reliability of dividend-focused investing, harnessing the speed and precision of algorithms to increase efficiency and adaptability in capturing dividend income and managing market fluctuations. Gain insights into a strategic dividend investing methodology that utilizes computational power for improved portfolio performance and risk management.
 ---
 

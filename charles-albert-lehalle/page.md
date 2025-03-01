@@ -1,5 +1,5 @@
 ---
-title: "Charles-Albert Lehalle (Algo Trading)"
+title: "Charles-Albert Lehalle"
 description: "Explore the influential career of Charles-Albert Lehalle in algorithmic trading and quantitative finance focusing on market microstructure and data sciences."
 ---
 

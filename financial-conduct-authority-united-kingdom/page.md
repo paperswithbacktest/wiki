@@ -1,5 +1,5 @@
 ---
-title: "Financial Conduct Authority (United Kingdom) (Algo Trading)"
+title: "Financial Conduct Authority (United Kingdom)"
 description: "Explore how the Financial Conduct Authority regulates algorithmic trading in the UK ensuring market integrity and protecting consumer interests in a tech-driven era."
 ---
 

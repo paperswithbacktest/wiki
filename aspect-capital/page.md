@@ -1,5 +1,5 @@
 ---
-title: "Aspect Capital (Algo Trading)"
+title: "Aspect Capital"
 description: "Explore the dynamic world of algorithmic trading with Aspect Capital, a leader in quantitative investing using advanced algorithms for optimized investment returns."
 ---
 

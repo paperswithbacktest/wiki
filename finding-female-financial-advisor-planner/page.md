@@ -1,5 +1,5 @@
 ---
-title: "Finding a Female Financial Advisor or Planner (Algo Trading)"
+title: "Finding a Female Financial Advisor or Planner"
 description: "Explore the vital role of female financial advisors and planners in algorithmic trading while promoting financial empowerment and inclusivity in a dynamic industry."
 ---
 

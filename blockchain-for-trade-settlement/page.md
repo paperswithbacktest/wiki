@@ -1,5 +1,5 @@
 ---
-title: "Blockchain for Trade Settlement (Algo Trading)"
+title: "Blockchain for Trade Settlement"
 description: "Explore the transformative impact of blockchain on trade settlements and Algo Trading reducing risks and enhancing efficiency in financial markets."
 ---
 

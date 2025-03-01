@@ -1,5 +1,5 @@
 ---
-title: "Assignment of Proceeds (Algo Trading)"
+title: "Assignment of Proceeds"
 description: "Explore the critical role of assignment of proceeds in international trade and the impact of algorithmic trading on financial strategies for enhanced efficiency."
 ---
 

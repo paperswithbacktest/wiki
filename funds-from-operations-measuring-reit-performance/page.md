@@ -1,5 +1,5 @@
 ---
-title: "Funds From Operations: Measuring REIT Performance (Algo Trading)"
+title: "Funds From Operations: Measuring REIT Performance"
 description: "Explore how Funds From Operations (FFO) enhance REIT performance assessment and algorithmic trading strategies to optimize real estate investment returns."
 ---
 

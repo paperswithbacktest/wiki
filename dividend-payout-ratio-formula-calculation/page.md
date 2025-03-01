@@ -1,5 +1,5 @@
 ---
-title: "Dividend Payout Ratio: Formula and Calculation (Algo Trading)"
+title: "Dividend Payout Ratio: Formula and Calculation"
 description: "Learn how the dividend payout ratio influences investment decisions, aids in evaluating dividend sustainability, and its role in algorithmic trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Dividend Aristocrats 2024: Criteria and Companies (Algo Trading)"
+title: "Dividend Aristocrats 2024: Criteria and Companies"
 description: "Explore the esteemed group of Dividend Aristocrats for 2024, renowned for their reliable dividend growth over 25 consecutive years. These companies stand as a cornerstone for investors seeking stable income and resilience amid market fluctuations. Discover how algorithmic trading elevates investment strategies, offering precision and efficiency in selecting these distinguished stocks. Gain insights into performance metrics and criteria to create a sound portfolio in a dynamic economic landscape."
 ---
 

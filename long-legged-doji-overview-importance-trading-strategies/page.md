@@ -1,5 +1,5 @@
 ---
-title: "Long-Legged Doji: Overview, Importance, and Trading Strategies (Algo Trading)"
+title: "Long-Legged Doji: Overview, Importance, and Trading Strategies"
 description: "Discover the significance of the Long-Legged Doji candlestick pattern in trading Identify key strategies and the role of algorithmic trading for market insights"
 ---
 

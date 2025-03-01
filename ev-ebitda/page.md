@@ -1,5 +1,5 @@
 ---
-title: "EV/Ebitda (Algo Trading)"
+title: "EV/Ebitda"
 description: "Explore the significance of the EV/EBITDA ratio in algorithmic trading for assessing company valuation and operational efficiency quickly and effectively."
 ---
 

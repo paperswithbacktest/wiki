@@ -1,5 +1,5 @@
 ---
-title: "Direct Costs: Overview and Examples (Algo Trading)"
+title: "Direct Costs: Overview and Examples"
 description: "Explore the importance of managing direct costs in algorithmic trading to enhance profitability Accuracy in cost management ensures efficiency in this fast-paced field"
 ---
 

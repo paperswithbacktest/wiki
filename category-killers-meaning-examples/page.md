@@ -1,5 +1,5 @@
 ---
-title: "Category Killers: Meaning and Examples (Algo Trading)"
+title: "Category Killers: Meaning and Examples"
 description: "Explore the impact of category killers on retail with insights into their use of technology like algorithmic trading to dominate markets and enhance operations."
 ---
 

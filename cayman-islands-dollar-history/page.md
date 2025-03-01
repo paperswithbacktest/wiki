@@ -1,5 +1,5 @@
 ---
-title: "Cayman Islands Dollar: Overview and History (Algo Trading)"
+title: "Cayman Islands Dollar: Overview and History"
 description: "Explore the Cayman Islands Dollar's history and role in financial markets. Understand its fixed exchange rate and significance in algorithmic trading strategies."
 ---
 

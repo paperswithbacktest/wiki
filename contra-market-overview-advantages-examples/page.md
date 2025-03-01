@@ -1,5 +1,5 @@
 ---
-title: "Contra Market: Overview, Advantages, and Examples (Algo Trading)"
+title: "Contra Market: Overview, Advantages, and Examples"
 description: "Explore the dynamics of contra markets and algorithmic trading in finance Discover strategies to navigate market fluctuations and optimize investment outcomes"
 ---
 

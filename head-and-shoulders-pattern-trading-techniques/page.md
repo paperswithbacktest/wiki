@@ -1,5 +1,5 @@
 ---
-title: "Head and Shoulders Pattern Trading Techniques (Algo Trading)"
+title: "Head and Shoulders Pattern Trading Techniques"
 description: "Explore trading techniques using the Head and Shoulders pattern, focusing on integrating it into algorithmic trading for improved strategy effectiveness and market success."
 ---
 

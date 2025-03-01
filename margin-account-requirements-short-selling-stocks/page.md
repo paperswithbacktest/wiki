@@ -1,5 +1,5 @@
 ---
-title: "Margin Account Requirements for Short Selling Stocks (Algo Trading)"
+title: "Margin Account Requirements for Short Selling Stocks"
 description: "Explore margin account requirements for short selling stocks and delve into the role of Regulation T in managing financial risks in algorithmic trading strategies."
 ---
 

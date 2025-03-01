@@ -1,5 +1,5 @@
 ---
-title: "Lower of Cost or Market Method (Algo Trading)"
+title: "Lower of Cost or Market Method"
 description: "Explore the foundational Lower of Cost or Market (LCM) method in inventory valuation and its impact on algorithmic trading strategies within financial reporting."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Long Market Value and Its Mechanisms (Algo Trading)"
+title: "Long Market Value and Its Mechanisms"
 description: "Explore how long market value and algorithmic trading combine to optimize portfolio growth with strategic investment, harnessing technology for lasting success."
 ---
 

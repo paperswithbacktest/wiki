@@ -1,5 +1,5 @@
 ---
-title: "London International Financial Futures and Options Exchange (Algo Trading)"
+title: "London International Financial Futures and Options Exchange"
 description: "Discover how the London International Financial Futures and Options Exchange (LIFFE) is pivotal in global derivatives trading, leveraging algorithmic techniques for efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Marginal Propensity to Import (Algo Trading)"
+title: "Marginal Propensity to Import"
 description: "Explore how integrating the Marginal Propensity to Import into algorithmic trading enhances market predictions by analyzing economic indicators and global trade dynamics."
 ---
 

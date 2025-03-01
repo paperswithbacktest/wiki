@@ -1,5 +1,5 @@
 ---
-title: "Load-Waived Mutual Funds (Algo Trading)"
+title: "Load-Waived Mutual Funds"
 description: "Explore load-waived mutual funds and algorithmic trading to enhance your investment strategy Minimize costs and maximize returns with these innovative tools"
 ---
 

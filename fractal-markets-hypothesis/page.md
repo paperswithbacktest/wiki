@@ -1,5 +1,5 @@
 ---
-title: "Fractal Markets Hypothesis (Algo Trading)"
+title: "Fractal Markets Hypothesis"
 description: "Explore the Fractal Markets Hypothesis in algo trading Learn how this unique theory challenges traditional market views and enhances trading strategy insights"
 ---
 

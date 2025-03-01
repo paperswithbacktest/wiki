@@ -1,5 +1,5 @@
 ---
-title: "Currency Risk Mitigation for Foreign Investments (Algo Trading)"
+title: "Currency Risk Mitigation for Foreign Investments"
 description: "Discover how algorithmic trading can help mitigate currency risk in foreign investments. Explore strategies to protect and optimize your global portfolio effectively."
 ---
 

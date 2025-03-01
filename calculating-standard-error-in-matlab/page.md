@@ -1,5 +1,5 @@
 ---
-title: "Calculating Standard Error in MATLAB (Algo Trading)"
+title: "Calculating Standard Error in MATLAB"
 description: "Learn to calculate standard error in MATLAB for refining algorithmic trading strategies Enhance trading accuracy through robust statistical analysis"
 ---
 

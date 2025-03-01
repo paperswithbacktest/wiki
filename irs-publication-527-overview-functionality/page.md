@@ -1,5 +1,5 @@
 ---
-title: "IRS Publication 527: Overview and Functionality (Algo Trading)"
+title: "IRS Publication 527: Overview and Functionality"
 description: "Optimize rental property tax management with IRS Publication 527 It simplifies reporting income deductions and depreciation to boost compliance and investment returns"
 ---
 

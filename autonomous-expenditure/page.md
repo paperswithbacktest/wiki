@@ -1,5 +1,5 @@
 ---
-title: "Autonomous Expenditure (Algo Trading)"
+title: "Autonomous Expenditure"
 description: "Explore the interplay of fiscal policy autonomous expenditure and algorithmic trading in economic management Their integration enhances market efficiency and stability"
 ---
 

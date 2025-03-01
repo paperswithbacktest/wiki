@@ -1,5 +1,5 @@
 ---
-title: "Market Cornering: Definition, Mechanisms, and Legal Implications (Algo Trading)"
+title: "Market Cornering: Definition, Mechanisms, and Legal Implications"
 description: "Explore the complexities of market cornering its mechanisms and legal implications in algorithmic trading Discover how these elements impact financial markets"
 ---
 

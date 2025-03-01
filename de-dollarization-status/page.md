@@ -1,5 +1,5 @@
 ---
-title: "De-Dollarization and Its Status (Algo Trading)"
+title: "De-Dollarization and Its Status"
 description: "Explore the impact of de-dollarization and the rise of algorithmic trading on the global economy and currency markets in our detailed analysis."
 ---
 

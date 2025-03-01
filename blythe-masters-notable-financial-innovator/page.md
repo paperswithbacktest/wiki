@@ -1,5 +1,5 @@
 ---
-title: "Blythe Masters: Notable Financial Innovator (Algo Trading)"
+title: "Blythe Masters: Notable Financial Innovator"
 description: "Explore Blythe Masters' pioneering impact on blockchain and algorithmic trading. Her achievements revolutionize financial technology and market operations."
 ---
 

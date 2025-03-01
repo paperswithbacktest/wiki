@@ -1,5 +1,5 @@
 ---
-title: "Extraordinary General Meeting and Annual General Meeting (Algo Trading)"
+title: "Extraordinary General Meeting and Annual General Meeting"
 description: "Explore the vital roles of Annual and Extraordinary General Meetings in corporate governance and the transformative impact of algorithmic trading on shareholder engagements."
 ---
 

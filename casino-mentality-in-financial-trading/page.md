@@ -1,5 +1,5 @@
 ---
-title: "Casino Mentality in Financial Trading (Algo Trading)"
+title: "Casino Mentality in Financial Trading"
 description: "Explore the psychology of financial trading and casino mentality. Discover how algorithmic trading can reduce emotional biases for more consistent success."
 ---
 

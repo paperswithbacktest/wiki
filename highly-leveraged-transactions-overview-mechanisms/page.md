@@ -1,5 +1,5 @@
 ---
-title: "Highly Leveraged Transactions: Overview and Mechanisms (Algo Trading)"
+title: "Highly Leveraged Transactions: Overview and Mechanisms"
 description: "Explore how highly leveraged transactions and algorithmic trading shape modern finance Discover their mechanisms interactions and potential advantages"
 ---
 

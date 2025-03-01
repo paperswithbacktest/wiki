@@ -1,5 +1,5 @@
 ---
-title: "Causes of Bubbles (Algo Trading)"
+title: "Causes of Bubbles"
 description: "Explore the causes of economic bubbles focusing on speculative investing, economic policies, and how algorithmic trading influences market dynamics."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Ebitdarm: Overview, Advantages, and Criticism (Algo Trading)"
+title: "Ebitdarm: Overview, Advantages, and Criticism"
 description: "Explore EBITDARM's role in business evaluation and algo trading Learn how this metric enhances operational insights and aids automated financial decision-making"
 ---
 

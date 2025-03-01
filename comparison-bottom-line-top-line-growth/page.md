@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Bottom-Line and Top-Line Growth (Algo Trading)"
+title: "Comparison of Bottom-Line and Top-Line Growth"
 description: "Explore how algo trading impacts financial performance by analyzing top-line and bottom-line growth, revealing insights into revenue and profitability strategies."
 ---
 

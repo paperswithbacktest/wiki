@@ -1,5 +1,5 @@
 ---
-title: "Commuted Value and Examples (Algo Trading)"
+title: "Commuted Value and Examples"
 description: "Master the essentials of retirement benefits, pension commuted value, and algorithmic trading for strategic financial planning and retirement security."
 ---
 

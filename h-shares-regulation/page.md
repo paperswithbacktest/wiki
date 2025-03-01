@@ -1,5 +1,5 @@
 ---
-title: "H-Shares and Regulation (Algo Trading)"
+title: "H-Shares and Regulation"
 description: "Explore the crucial role of H-Shares and algorithmic trading in Hong Kong's financial market as they connect global investors with Chinese companies amid regulatory dynamics."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Destructive Creation: Concept and Mechanism (Algo Trading)"
+title: "Destructive Creation: Concept and Mechanism"
 description: "Explore the interplay between creative destruction and destructive creation in algorithmic trading Learn how these phenomena shape economic growth and potential risks"
 ---
 

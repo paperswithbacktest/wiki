@@ -1,5 +1,5 @@
 ---
-title: "Game Theory in Market Microstructure (Algo Trading)"
+title: "Game Theory in Market Microstructure"
 description: "Explore how Game Theory revolutionizes trading strategies in market microstructure and algorithmic trading by modeling interactions among market participants."
 ---
 

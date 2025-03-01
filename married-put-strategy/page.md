@@ -1,5 +1,5 @@
 ---
-title: "Married Put Strategy (Algo Trading)"
+title: "Married Put Strategy"
 description: "Explore the married put strategy in options trading providing investors with a reliable method for stock protection by combining stock ownership with a put option."
 ---
 

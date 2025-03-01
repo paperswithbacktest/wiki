@@ -1,5 +1,5 @@
 ---
-title: "Bank Secrecy Act: Purpose and Impact (Algo Trading)"
+title: "Bank Secrecy Act: Purpose and Impact"
 description: "Explore the Bank Secrecy Act's role in financial regulation and its impact on algorithmic trading Learn how the BSA combats money laundering and ensures compliance"
 ---
 

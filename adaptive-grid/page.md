@@ -1,5 +1,5 @@
 ---
-title: "Adaptive grid (Algo Trading)"
+title: "Adaptive grid"
 description: "Explore the benefits of adaptive grid trading in algorithmic trading a dynamic strategy that adjusts to market conditions for maximizing trade efficiency and profitability."
 ---
 

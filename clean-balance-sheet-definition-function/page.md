@@ -1,5 +1,5 @@
 ---
-title: "Clean Balance Sheet: Definition and Function (Algo Trading)"
+title: "Clean Balance Sheet: Definition and Function"
 description: "Discover the synergy of balance sheet analysis and algorithmic trading that refines financial strategies to enhance decision-making and market prediction."
 ---
 

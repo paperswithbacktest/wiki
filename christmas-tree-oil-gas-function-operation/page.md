@@ -1,5 +1,5 @@
 ---
-title: "Christmas Tree (Oil and Gas): Function and Operation (Algo Trading)"
+title: "Christmas Tree (Oil and Gas): Function and Operation"
 description: "Explore the role of Christmas trees in oil and gas production and their intersection with algo trading, enhancing efficiency and innovation across sectors."
 ---
 

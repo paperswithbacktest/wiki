@@ -1,5 +1,5 @@
 ---
-title: "Bond Swap: Mechanism and Types (Algo Trading)"
+title: "Bond Swap: Mechanism and Types"
 description: "Explore bond swaps and algorithmic trading to optimize your investment strategy. Understand how these tools improve portfolio performance and mitigate risks."
 ---
 

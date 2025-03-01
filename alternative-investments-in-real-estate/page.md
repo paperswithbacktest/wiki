@@ -1,5 +1,5 @@
 ---
-title: "Alternative Investments in Real Estate (Algo Trading)"
+title: "Alternative Investments in Real Estate"
 description: "Explore innovative ways to diversify and optimize your investment portfolio through the synergy of real estate alternative investments and algorithmic trading."
 ---
 

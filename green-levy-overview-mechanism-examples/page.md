@@ -1,5 +1,5 @@
 ---
-title: "Green Levy: Overview, Mechanism, and Examples (Algo Trading)"
+title: "Green Levy: Overview, Mechanism, and Examples"
 description: "Explore how green levies, sustainable finance, and algorithmic trading intersect to promote eco-friendly practices, reduce emissions, and drive a greener economy."
 ---
 

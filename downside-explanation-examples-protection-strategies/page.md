@@ -1,5 +1,5 @@
 ---
-title: "Downside: Explanation, Examples, and Protection Strategies (Algo Trading)"
+title: "Downside: Explanation, Examples, and Protection Strategies"
 description: "Explore effective strategies for managing downside risk in algorithmic trading Learn how to protect investments from market volatility and technical challenges"
 ---
 

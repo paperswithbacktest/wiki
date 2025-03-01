@@ -1,5 +1,5 @@
 ---
-title: "Maintenance Margin in Finance (Algo Trading)"
+title: "Maintenance Margin in Finance"
 description: "Explore the critical concept of maintenance margin in finance, particularly in algorithmic trading. Understand how this essential mechanism helps manage leveraged positions, ensuring effective risk management and sustainable trading practices. Learn how maintenance margin differs from initial margin, its role in preventing margin calls, and how it protects both traders and brokers from excessive market volatility."
 ---
 

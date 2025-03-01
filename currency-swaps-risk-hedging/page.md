@@ -1,5 +1,5 @@
 ---
-title: "Currency Swaps and Risk Hedging (Algo Trading)"
+title: "Currency Swaps and Risk Hedging"
 description: "Explore how currency swaps and algorithmic trading enhance risk management by mitigating exchange rate volatility to protect financial stability and optimize lending."
 ---
 

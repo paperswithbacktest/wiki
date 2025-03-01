@@ -1,5 +1,5 @@
 ---
-title: "Cross-validation (Algo Trading)"
+title: "Cross-validation"
 description: "Discover the importance of advanced cross-validation techniques in algorithmic trading and learn how methods like CPCV can improve model reliability and performance."
 ---
 

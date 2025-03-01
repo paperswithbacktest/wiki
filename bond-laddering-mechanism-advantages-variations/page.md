@@ -1,5 +1,5 @@
 ---
-title: "Bond Laddering: Mechanism, Advantages, and Variations (Algo Trading)"
+title: "Bond Laddering: Mechanism, Advantages, and Variations"
 description: "Explore the mechanisms, benefits, and variations of bond laddering, a strategy to manage fixed-income assets, mitigate risks, and enhance returns with algorithmic trading."
 ---
 

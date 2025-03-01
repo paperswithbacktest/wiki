@@ -1,5 +1,5 @@
 ---
-title: "Matrix Trading: Overview, Risks, and Example (Algo Trading)"
+title: "Matrix Trading: Overview, Risks, and Example"
 description: "Explore matrix and algorithmic trading strategies and their inherent risks. Learn to navigate yield discrepancies and leverage technology for financial edge."
 ---
 

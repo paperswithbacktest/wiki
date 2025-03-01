@@ -1,5 +1,5 @@
 ---
-title: "Investing in Real Estate Owned (REO) Properties (Algo Trading)"
+title: "Investing in Real Estate Owned (REO) Properties"
 description: "Discover the benefits of investing in REO properties using algorithmic trading to strategically purchase distressed assets below market value and maximize returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "EUV Technology and Function (Algo Trading)"
+title: "EUV Technology and Function"
 description: "Explore how EUV lithography revolutionizes algorithmic trading by enhancing computing power and microchip efficiency, driving faster trade execution."
 ---
 

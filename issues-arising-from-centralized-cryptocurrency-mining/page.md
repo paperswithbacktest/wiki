@@ -1,5 +1,5 @@
 ---
-title: "Issues Arising from Centralized Cryptocurrency Mining (Algo Trading)"
+title: "Issues Arising from Centralized Cryptocurrency Mining"
 description: "Explore how centralized cryptocurrency mining impacts decentralization and introduces security risks like 51% attacks along with the complexities of algorithmic trading."
 ---
 

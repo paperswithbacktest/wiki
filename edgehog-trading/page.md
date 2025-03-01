@@ -1,5 +1,5 @@
 ---
-title: "Edgehog Trading (Algo Trading)"
+title: "Edgehog Trading"
 description: "Discover Edgehog Trading a leader in algorithmic trading using advanced technology and analytics to offer faster and more efficient financial market solutions."
 ---
 

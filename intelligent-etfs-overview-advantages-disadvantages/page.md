@@ -1,5 +1,5 @@
 ---
-title: "Intelligent ETFs: Overview, Advantages, and Disadvantages (Algo Trading)"
+title: "Intelligent ETFs: Overview, Advantages, and Disadvantages"
 description: "Intelligent ETFs leverage active management and algorithmic trading to optimize returns and manage risks offering a dynamic investment tool with both advantages and drawbacks."
 ---
 

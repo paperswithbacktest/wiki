@@ -1,5 +1,5 @@
 ---
-title: "Investment Property: Financing and Types (Algo Trading)"
+title: "Investment Property: Financing and Types"
 description: "Optimize your real estate investments by exploring various property types, financing options, and leveraging algorithmic trading for data-driven returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Credit Sweep: Overview and Mechanism (Algo Trading)"
+title: "Credit Sweep: Overview and Mechanism"
 description: "Explore how credit sweep strategies and algorithmic trading are revolutionizing financial management offering businesses and investors enhanced efficiency and cost savings."
 ---
 

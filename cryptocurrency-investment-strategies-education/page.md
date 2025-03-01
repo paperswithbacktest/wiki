@@ -1,5 +1,5 @@
 ---
-title: "Cryptocurrency Investment Strategies and Education (Algo Trading)"
+title: "Cryptocurrency Investment Strategies and Education"
 description: "Explore key cryptocurrency investment strategies and education on algorithmic trading to enhance your financial knowledge and optimize trading outcomes."
 ---
 

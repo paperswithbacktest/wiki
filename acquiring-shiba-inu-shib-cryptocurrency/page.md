@@ -1,5 +1,5 @@
 ---
-title: "Acquiring Shiba Inu (SHIB) Cryptocurrency (Algo Trading)"
+title: "Acquiring Shiba Inu (SHIB) Cryptocurrency"
 description: "Learn to acquire Shiba Inu (SHIB) cryptocurrency using algorithmic trading to boost your investment strategy. Explore its potential and inherent risks."
 ---
 

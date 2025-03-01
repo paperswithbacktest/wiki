@@ -1,5 +1,5 @@
 ---
-title: "Corporate Actions (Algo Trading)"
+title: "Corporate Actions"
 description: "Discover the impact of corporate actions on trading and shareholder value Learn how algorithmic trading transforms these financial events into strategic opportunities"
 ---
 

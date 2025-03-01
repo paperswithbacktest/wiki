@@ -1,5 +1,5 @@
 ---
-title: "Business Model of Private Prisons (Algo Trading)"
+title: "Business Model of Private Prisons"
 description: "Explore the intersection of private prisons and algorithmic trading, delving into how automated systems may influence investment decisions in this controversial industry. Understand the balance between financial returns and ethical considerations, examining the economic drivers and societal impacts of private prisons while considering the rapid advancements in algorithmic trading. This article provides a critical analysis of how technology could shape investment strategies and the broader implications for human rights and incarceration policies."
 ---
 

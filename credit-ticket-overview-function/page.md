@@ -1,5 +1,5 @@
 ---
-title: "Credit Ticket: Overview and Function (Algo Trading)"
+title: "Credit Ticket: Overview and Function"
 description: "Explore the roles of credit tickets in finance and algorithmic trading's impact on trade precision. Understand how these tools enhance financial management and decision-making."
 ---
 

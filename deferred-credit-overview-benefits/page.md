@@ -1,5 +1,5 @@
 ---
-title: "Deferred Credit: Overview and Benefits (Algo Trading)"
+title: "Deferred Credit: Overview and Benefits"
 description: "Discover how deferred credit ensures accurate financial statements by aligning revenue with business operations. Key for compliance and strategic planning."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Council of Petroleum Accountants Societies (Algo Trading)"
+title: "Council of Petroleum Accountants Societies"
 description: "Explore how COPAS and algorithmic trading transform petroleum accounting; understand the evolving landscape and the need for continued professional development."
 ---
 

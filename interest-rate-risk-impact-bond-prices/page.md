@@ -1,5 +1,5 @@
 ---
-title: "Interest Rate Risk and Its Impact on Bond Prices (Algo Trading)"
+title: "Interest Rate Risk and Its Impact on Bond Prices"
 description: "Discover how interest rate risk affects bond prices and explore the role of algorithmic trading in navigating bond market dynamics efficiently and profitably."
 ---
 

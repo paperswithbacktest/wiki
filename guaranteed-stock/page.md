@@ -1,5 +1,5 @@
 ---
-title: "Guaranteed Stock (Algo Trading)"
+title: "Guaranteed Stock"
 description: "Explore the synergy of guaranteed stock investments and algorithmic trading Discover how algorithmic trading enhances stability in stock market investments"
 ---
 

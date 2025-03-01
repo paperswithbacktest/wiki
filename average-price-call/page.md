@@ -1,5 +1,5 @@
 ---
-title: "Average Price Call (Algo Trading)"
+title: "Average Price Call"
 description: "Discover how average price call options, a type of Asian option, provide unique advantages for risk management and trading strategies through algorithmic trading."
 ---
 

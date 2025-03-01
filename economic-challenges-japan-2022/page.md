@@ -1,5 +1,5 @@
 ---
-title: "Economic Challenges in Japan, 2022 (Algo Trading)"
+title: "Economic Challenges in Japan, 2022"
 description: "Discover the key economic challenges Japan faced in 2022 that impacted growth, market dynamics, and technological advancements. Explore the effects of demographic trends, inflationary pressures, and dependency on foreign markets, while understanding the rise of algorithmic trading in addressing these issues within Japan's financial sector and broader economic framework."
 ---
 

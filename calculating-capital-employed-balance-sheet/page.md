@@ -1,5 +1,5 @@
 ---
-title: "Calculating Capital Employed from a Balance Sheet (Algo Trading)"
+title: "Calculating Capital Employed from a Balance Sheet"
 description: "Explore calculating capital employed from balance sheets in algo trading highlighting its impact on strategy performance and essential financial metrics."
 ---
 

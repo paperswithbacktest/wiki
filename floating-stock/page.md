@@ -1,5 +1,5 @@
 ---
-title: "Floating Stock (Algo Trading)"
+title: "Floating Stock"
 description: "Explore the dynamics of floating stock and its impact on stock liquidity and trading volatility with insights into algorithmic trading strategies for investors."
 ---
 

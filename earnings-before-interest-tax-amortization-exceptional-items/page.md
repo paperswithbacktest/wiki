@@ -1,5 +1,5 @@
 ---
-title: "Earnings Before Interest, Tax, Amortization, and Exceptional Items (Algo Trading)"
+title: "Earnings Before Interest, Tax, Amortization, and Exceptional Items"
 description: "Discover how Earnings Before Interest Tax Amortization and Exceptional Items (EBITAE) enhances algorithmic trading by evaluating core company performance."
 ---
 

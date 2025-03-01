@@ -1,5 +1,5 @@
 ---
-title: "Franking Credits and Calculation (Algo Trading)"
+title: "Franking Credits and Calculation"
 description: "Explore how franking credits and dividend imputation optimize tax efficiency in investment strategies, enhancing returns through algorithmic trading insights."
 ---
 

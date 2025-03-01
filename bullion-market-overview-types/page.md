@@ -1,5 +1,5 @@
 ---
-title: "Bullion Market Overview and Types (Algo Trading)"
+title: "Bullion Market Overview and Types"
 description: "Explore the dynamic world of gold and bullion markets enhanced by algorithmic trading, offering savvy investors a cutting-edge approach to capitalizing on market opportunities."
 ---
 

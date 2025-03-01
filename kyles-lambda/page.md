@@ -1,5 +1,5 @@
 ---
-title: "Kyle’s lambda (Algo Trading)"
+title: "Kyle’s lambda"
 description: Discover the transformative impact of Kyle's Lambda in algorithmic trading by exploring how this metric, named after economist Albert S. Kyle, quantifies the cost of executing large trade orders. Understand its role in optimizing trading strategies, minimizing transaction costs, and enhancing profitability. Learn about the theoretical foundations, practical implementations, and advantages of incorporating Kyle's Lambda into trading systems, providing traders and analysts with the insights needed to navigate complex and dynamic financial markets efficiently.
 ---
 

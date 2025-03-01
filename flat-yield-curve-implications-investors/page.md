@@ -1,5 +1,5 @@
 ---
-title: "Flat Yield Curve and Its Implications for Investors (Algo Trading)"
+title: "Flat Yield Curve and Its Implications for Investors"
 description: "Explore the impact of a flat yield curve and interest rate changes on investment strategies using algorithmic trading to navigate economic uncertainty."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Fisher Transform Indicator in Trading (Algo Trading)"
+title: "Fisher Transform Indicator in Trading"
 description: "Explore the Fisher Transform Indicator used in trading to signal price reversals by converting price data into a Gaussian distribution for better trend analysis."
 ---
 

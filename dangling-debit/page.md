@@ -1,5 +1,5 @@
 ---
-title: "Dangling Debit (Algo Trading)"
+title: "Dangling Debit"
 description: "Explore how accounting terminology influences algorithmic trading strategies in modern finance and learn to optimize trading processes through financial accuracy."
 ---
 

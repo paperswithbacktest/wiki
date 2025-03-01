@@ -1,5 +1,5 @@
 ---
-title: "Long-Term Debt-to-Total Assets Ratio (Algo Trading)"
+title: "Long-Term Debt-to-Total Assets Ratio"
 description: "Explore the significance of debt ratios in algo trading to enhance financial health assessment and optimize investment strategies amidst evolving market dynamics."
 ---
 

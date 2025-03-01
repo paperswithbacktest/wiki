@@ -1,5 +1,5 @@
 ---
-title: "Market Selection for Traders (Algo Trading)"
+title: "Market Selection for Traders"
 description: "Explore the evolving landscape of financial trading with a focus on market selection and advanced algorithmic strategies to enhance profitability and manage risks."
 ---
 

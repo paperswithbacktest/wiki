@@ -1,5 +1,5 @@
 ---
-title: "Dual Currency Deposits (Algo Trading)"
+title: "Dual Currency Deposits"
 description: "Explore dual currency and foreign exchange deposits offering high returns with exposure to currency fluctuations and benefits from algorithmic trading advancements."
 ---
 

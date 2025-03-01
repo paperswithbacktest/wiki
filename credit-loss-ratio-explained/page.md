@@ -1,5 +1,5 @@
 ---
-title: "Credit Loss Ratio Explained (Algo Trading)"
+title: "Credit Loss Ratio Explained"
 description: "Explore the significance of credit loss ratios in algorithmic trading risk management Learn how these metrics enhance strategy, efficiency and financial decision-making"
 ---
 

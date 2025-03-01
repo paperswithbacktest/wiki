@@ -1,5 +1,5 @@
 ---
-title: "Implied Correlation Index (Algo Trading)"
+title: "Implied Correlation Index"
 description: "Explore how implied correlation indices enhance algorithmic trading by revealing index volatility relationships. Optimize strategies and seize market opportunities."
 ---
 

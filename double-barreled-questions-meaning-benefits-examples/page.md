@@ -1,5 +1,5 @@
 ---
-title: "Double-Barreled Questions: Meaning, Benefits, and Examples (Algo Trading)"
+title: "Double-Barreled Questions: Meaning, Benefits, and Examples"
 description: "Explore the significance of survey methodologies, focusing on the impact of double-barreled questions in data accuracy and the efficiency of algorithmic trading. Discover insights for better trading strategies."
 ---
 

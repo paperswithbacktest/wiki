@@ -1,5 +1,5 @@
 ---
-title: "Hawkes processes in order flow (Algo Trading)"
+title: "Hawkes processes in order flow"
 description: "Explore the essential role of Hawkes processes in algorithmic trading for predicting market movements with precision, using their self-exciting properties."
 ---
 

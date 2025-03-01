@@ -1,5 +1,5 @@
 ---
-title: "Electric Vehicles as Alternatives to Gasoline-Powered Cars (Algo Trading)"
+title: "Electric Vehicles as Alternatives to Gasoline-Powered Cars"
 description: "Explore the transformative shift from gasoline to electric vehicles and the role of algorithmic trading in energy markets fostering a sustainable future."
 ---
 

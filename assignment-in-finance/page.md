@@ -1,5 +1,5 @@
 ---
-title: "Assignment in Finance (Algo Trading)"
+title: "Assignment in Finance"
 description: "Discover how assignments in finance apply to algorithmic trading to enhance strategies and automate processes effectively, optimizing trading outcomes."
 ---
 

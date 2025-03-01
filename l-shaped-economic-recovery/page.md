@@ -1,5 +1,5 @@
 ---
-title: "L-Shaped Economic Recovery (Algo Trading)"
+title: "L-Shaped Economic Recovery"
 description: "Explore the impact of L-shaped economic recoveries with insights into policy formulation and strategic interventions highlighted by algorithmic trading."
 ---
 

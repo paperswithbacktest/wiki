@@ -1,5 +1,5 @@
 ---
-title: "Calculation of Weighted Average in Excel (Algo Trading)"
+title: "Calculation of Weighted Average in Excel"
 description: "Discover how to effectively calculate weighted averages in Excel, crucial for enhancing algorithmic trading strategies and optimizing trade performance."
 ---
 

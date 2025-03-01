@@ -1,5 +1,5 @@
 ---
-title: "Investment Vehicles and Types (Algo Trading)"
+title: "Investment Vehicles and Types"
 description: "Explore investment vehicles from stocks and bonds to algorithmic trading Learn how these instruments can diversify your portfolio and optimize returns"
 ---
 

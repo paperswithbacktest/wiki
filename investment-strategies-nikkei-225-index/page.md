@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategies for the Nikkei 225 Index (Algo Trading)"
+title: "Investment Strategies for the Nikkei 225 Index"
 description: "Explore effective investment strategies and algorithmic trading opportunities for the Nikkei 225 Index to gain substantial exposure to the Japanese market. This guide investigates into the automated precision of algorithmic trading and various methods like momentum trading and arbitrage, offering insights into Japan's dynamic economy and how to optimize trading outcomes."
 ---
 

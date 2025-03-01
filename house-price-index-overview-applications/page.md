@@ -1,5 +1,5 @@
 ---
-title: "House Price Index: Overview and Applications (Algo Trading)"
+title: "House Price Index: Overview and Applications"
 description: "Explore how the House Price Index enhances algorithmic trading in real estate by providing data-driven insights for more accurate and efficient investment strategies."
 ---
 

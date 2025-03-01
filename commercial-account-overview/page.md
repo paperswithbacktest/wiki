@@ -1,5 +1,5 @@
 ---
-title: "Commercial Account Overview (Algo Trading)"
+title: "Commercial Account Overview"
 description: "Discover how commercial accounts and algorithmic trading optimize business banking for efficiency and strategic growth Learn about tailored services and cash flow management"
 ---
 

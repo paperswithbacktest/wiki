@@ -1,5 +1,5 @@
 ---
-title: "Comparison of REITs and Real Estate Funds (Algo Trading)"
+title: "Comparison of REITs and Real Estate Funds"
 description: "Explore the unique dynamics of REITs and real estate funds in the context of algorithmic trading to enhance investment strategies and optimize returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Boiler Room Operations (Algo Trading)"
+title: "Boiler Room Operations"
 description: "Explore the impact of boiler room operations in algo trading and their threat to market integrity Learn about manipulation tactics and investor protection strategies"
 ---
 

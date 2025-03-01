@@ -1,5 +1,5 @@
 ---
-title: "Analysis of OANDA: Advantages and Disadvantages (Algo Trading)"
+title: "Analysis of OANDA: Advantages and Disadvantages"
 description: "Discover the strengths and weaknesses of OANDA in algo trading Learn about its tools platforms support and financial analysis to improve trading strategies"
 ---
 

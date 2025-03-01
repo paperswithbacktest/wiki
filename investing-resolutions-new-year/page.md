@@ -1,5 +1,5 @@
 ---
-title: "Investing Resolutions for the New Year (Algo Trading)"
+title: "Investing Resolutions for the New Year"
 description: "Embark on the New Year with smart investing resolutions like exploring algorithmic trading to enhance your financial strategy and build long-term wealth."
 ---
 

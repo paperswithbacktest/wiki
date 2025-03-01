@@ -1,5 +1,5 @@
 ---
-title: "Cushion Theory: Overview and Effectiveness (Algo Trading)"
+title: "Cushion Theory: Overview and Effectiveness"
 description: "Explore Cushion Theory a concept in algorithmic trading theory that analyzes heavily shorted stocks and price dynamics due to short covering and short squeezes."
 ---
 

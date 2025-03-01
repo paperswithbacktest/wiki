@@ -1,5 +1,5 @@
 ---
-title: "Glide Path in Investment Strategies (Algo Trading)"
+title: "Glide Path in Investment Strategies"
 description: "Explore how glide path strategies in investing adjust asset allocation over time, reduce risk near retirement, and integrate algorithmic trading for enhanced management."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Instrument in Finance, Economics, and Law (Algo Trading)"
+title: "Instrument in Finance, Economics, and Law"
 description: "Explore the intersections of finance technology and law in algorithmic trading Learn how algo trading shapes markets with its speed efficiency and regulatory challenges"
 ---
 

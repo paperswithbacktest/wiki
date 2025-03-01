@@ -1,5 +1,5 @@
 ---
-title: "Board Broker (Algo Trading)"
+title: "Board Broker"
 description: "Explore the vital roles of brokers and algorithmic trading in modern markets delving into their evolution technology's impact and the future of trading systems."
 ---
 

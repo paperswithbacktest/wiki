@@ -1,5 +1,5 @@
 ---
-title: "Generation Alpha: Characteristics and Future (Algo Trading)"
+title: "Generation Alpha: Characteristics and Future"
 description: "Explore how Generation Alpha's tech-savvy nature will reshape algorithmic trading. Discover their influence on finance, education, and market trends."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "MACD Overview (Algo Trading)"
+title: "MACD Overview"
 description: "The Moving Average Convergence Divergence MACD is a powerful technical analysis tool used by traders to identify price momentum and predict trend reversals."
 ---
 

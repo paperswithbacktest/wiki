@@ -1,5 +1,5 @@
 ---
-title: "Grey Swan Events and Examples (Algo Trading)"
+title: "Grey Swan Events and Examples"
 description: "Explore the critical role of risk management in algorithmic trading with a focus on grey swan events Learn strategies to protect against unforeseen disruptions"
 ---
 

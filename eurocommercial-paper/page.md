@@ -1,5 +1,5 @@
 ---
-title: "Eurocommercial Paper (Algo Trading)"
+title: "Eurocommercial Paper"
 description: "Eurocommercial Papers are short-term, unsecured debt instruments used by corporations for efficient international financing, often enhanced by algorithmic trading."
 ---
 

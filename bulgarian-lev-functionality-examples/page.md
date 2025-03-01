@@ -1,5 +1,5 @@
 ---
-title: "Bulgarian Lev: Functionality and Examples (Algo Trading)"
+title: "Bulgarian Lev: Functionality and Examples"
 description: "Explore how the Bulgarian Lev stabilizes Bulgaria's economy and how algorithmic trading strategies enhance currency trading, merging tradition with technology."
 ---
 

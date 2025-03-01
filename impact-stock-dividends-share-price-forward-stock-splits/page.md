@@ -1,5 +1,5 @@
 ---
-title: "Impact of Stock Dividends on Share Price Compared to Forward Stock Splits (Algo Trading)"
+title: "Impact of Stock Dividends on Share Price Compared to Forward Stock Splits"
 description: "Discover how stock dividends and forward stock splits impact share prices and investor strategies in the context of algorithmic trading. Learn key insights."
 ---
 

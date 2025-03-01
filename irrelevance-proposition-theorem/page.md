@@ -1,5 +1,5 @@
 ---
-title: "Irrelevance Proposition Theorem (Algo Trading)"
+title: "Irrelevance Proposition Theorem"
 description: "Explore the Irrelevance Proposition Theorem by Miller and Modigliani 1958 its impact on finance markets and role in algorithmic trading strategies today."
 ---
 

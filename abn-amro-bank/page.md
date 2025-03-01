@@ -1,5 +1,5 @@
 ---
-title: "ABN AMRO Bank (Algo Trading)"
+title: "ABN AMRO Bank"
 description: "Discover ABN AMRO's journey into algorithmic trading showcasing innovation in finance. Learn how advanced algorithms enhance trading efficiency and client service."
 ---
 

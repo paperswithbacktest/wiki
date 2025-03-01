@@ -1,5 +1,5 @@
 ---
-title: "Accounts Receivable Aging (Algo Trading)"
+title: "Accounts Receivable Aging"
 description: "Master AR aging and algo trading for optimal cash flow and strategic growth Enhance receivable management and leverage trading tech for financial efficiency"
 ---
 

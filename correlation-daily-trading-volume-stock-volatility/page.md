@@ -1,5 +1,5 @@
 ---
-title: "Correlation Between Daily Trading Volume and Stock Volatility (Algo Trading)"
+title: "Correlation Between Daily Trading Volume and Stock Volatility"
 description: "Explore how daily trading volume correlates with stock volatility and its implications in algo trading Discover insights into market dynamics and trading strategies"
 ---
 

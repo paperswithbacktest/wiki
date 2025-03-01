@@ -1,5 +1,5 @@
 ---
-title: "ISO 14001: Overview and Implementation (Algo Trading)"
+title: "ISO 14001: Overview and Implementation"
 description: "Discover how ISO 14001 helps algorithmic trading firms enhance sustainability while maintaining efficiency, offering both environmental and economic benefits."
 ---
 

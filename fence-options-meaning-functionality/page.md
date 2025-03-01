@@ -1,5 +1,5 @@
 ---
-title: "Fence Options: Meaning and Functionality (Algo Trading)"
+title: "Fence Options: Meaning and Functionality"
 description: "Explore the intricacies of fence options and algorithmic trading for managing risk and optimizing returns Discover strategies to adapt to dynamic financial markets"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Enhanced Indexing: Types and Disadvantages (Algo Trading)"
+title: "Enhanced Indexing: Types and Disadvantages"
 description: "Explore the types and disadvantages of enhanced indexing in algorithmic trading Learn about traditional vs enhanced methods and optimize your investment strategy"
 ---
 

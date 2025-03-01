@@ -1,5 +1,5 @@
 ---
-title: "Historical Returns Overview and Calculation (Algo Trading)"
+title: "Historical Returns Overview and Calculation"
 description: "Understand historical returns in algo trading evaluate risks and forecast trends by analyzing investment performance data ensuring informed financial decisions"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Fibonacci Sequence: Overview and Applications (Algo Trading)"
+title: "Fibonacci Sequence: Overview and Applications"
 description: "Discover the intriguing Fibonacci sequence and its profound impact on mathematics and algorithmic trading. Learn how this ancient series connects with nature, the golden ratio, and financial markets. Explore foundational number theory concepts, Fibonacci's mathematical properties, and its practical applications that guide traders. Uncover insights that bridge theoretical math with strategic trading techniques in this comprehensive overview."
 ---
 

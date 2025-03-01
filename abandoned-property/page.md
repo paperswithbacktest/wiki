@@ -1,5 +1,5 @@
 ---
-title: "Abandoned Property (Algo Trading)"
+title: "Abandoned Property"
 description: "Explore the complex world of property rights, abandoned property laws, and algorithmic trading as they reshape economic systems through legal and technological advancements."
 ---
 

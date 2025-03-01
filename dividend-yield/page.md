@@ -1,5 +1,5 @@
 ---
-title: "Dividend yield (Algo Trading)"
+title: "Dividend yield"
 description: "Explore the synergy of dividend yield and algorithmic trading to optimize investment strategies Boost returns by blending steady income with tech-driven trades."
 ---
 

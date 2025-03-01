@@ -1,5 +1,5 @@
 ---
-title: "Enterprise Multiple EV/EBITDA Overview (Algo Trading)"
+title: "Enterprise Multiple EV/EBITDA Overview"
 description: "Explore how the Enterprise Multiple EV/EBITDA metric enhances algorithmic trading strategies by providing insightful company valuations for informed investment decisions."
 ---
 

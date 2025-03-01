@@ -1,5 +1,5 @@
 ---
-title: "Business Economics and Types (Algo Trading)"
+title: "Business Economics and Types"
 description: "Explore the fusion of business economics and algorithmic trading to optimize profits. Learn how economic principles enhance trading strategies and market alignment."
 ---
 

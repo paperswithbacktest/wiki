@@ -1,5 +1,5 @@
 ---
-title: "After-Hours Trading: Mechanisms, Benefits, and Risks (Algo Trading)"
+title: "After-Hours Trading: Mechanisms, Benefits, and Risks"
 description: "Discover the mechanics, advantages, and risks of after-hours trading with algorithmic strategies. Learn to navigate this dynamic, high-volatility market."
 ---
 

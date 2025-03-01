@@ -1,5 +1,5 @@
 ---
-title: "Kijun-Sen: Overview, Formulas, and Calculations (Algo Trading)"
+title: "Kijun-Sen: Overview, Formulas, and Calculations"
 description: "Explore the Kijun-Sen's role in algorithmic trading as part of the Ichimoku Kinko Hyo indicator for analyzing market trends and improving trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "KOF Economic Barometer: Overview and History (Algo Trading)"
+title: "KOF Economic Barometer: Overview and History"
 description: "Explore the KOF Economic Barometer, a key indicator used for forecasting in Switzerland, and discover how algo trading leverages these metrics for market strategies."
 ---
 

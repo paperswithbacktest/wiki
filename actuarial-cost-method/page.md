@@ -1,5 +1,5 @@
 ---
-title: "Actuarial Cost Method (Algo Trading)"
+title: "Actuarial Cost Method"
 description: "Explore how actuarial cost methods intersect with algorithmic trading to optimize pension funding and investment strategies for sustainable financial management."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Inflation Derivatives: Overview and Alternatives (Algo Trading)"
+title: "Inflation Derivatives: Overview and Alternatives"
 description: "Explore inflation derivatives and algorithmic trading to hedge against market uncertainties. Learn to optimize investment strategies and enhance returns."
 ---
 

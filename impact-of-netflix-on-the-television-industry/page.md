@@ -1,5 +1,5 @@
 ---
-title: "Impact Of Netflix On The Television Industry (Algo Trading)"
+title: "Impact Of Netflix On The Television Industry"
 description: "Explore the impact of Netflix on television similar to algorithmic trading in finance highlighting how technology reshapes media consumption with data-driven insights"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Accessing Company Earnings Reports (Algo Trading)"
+title: "Accessing Company Earnings Reports"
 description: "Explore how algorithmic trading and company financial reports converge to enhance investment strategies Unlock opportunities for improved returns and risk management"
 ---
 

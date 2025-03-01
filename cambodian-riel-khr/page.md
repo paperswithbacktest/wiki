@@ -1,5 +1,5 @@
 ---
-title: "Cambodian Riel (KHR) (Algo Trading)"
+title: "Cambodian Riel (KHR)"
 description: "Explore algo trading of the Cambodian Riel (KHR) and harness the dynamic potential of the currency in forex markets with state-of-the-art trading techniques."
 ---
 

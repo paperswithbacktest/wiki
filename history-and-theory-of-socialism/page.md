@@ -1,5 +1,5 @@
 ---
-title: "History and Theory of Socialism (Algo Trading)"
+title: "History and Theory of Socialism"
 description: "Explore the history and theory of socialism and its intersection with algorithmic trading highlighting how socialist principles may influence modern financial practices."
 ---
 

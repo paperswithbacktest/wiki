@@ -1,5 +1,5 @@
 ---
-title: "Basic Mathematical Concepts for Fixed-Coupon Corporate Bonds (Algo Trading)"
+title: "Basic Mathematical Concepts for Fixed-Coupon Corporate Bonds"
 description: "Explore the core concepts of fixed-coupon corporate bonds and discover how algorithmic trading is revolutionizing bond markets with enhanced efficiency."
 ---
 

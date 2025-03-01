@@ -1,5 +1,5 @@
 ---
-title: "Leg in Trading: Function and Strategy Types (Algo Trading)"
+title: "Leg in Trading: Function and Strategy Types"
 description: "Discover the transformative impact of algorithmic trading and trading legs on financial markets Enhance your strategies with precision and efficiency."
 ---
 

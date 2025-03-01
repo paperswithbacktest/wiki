@@ -1,5 +1,5 @@
 ---
-title: "Forex Futures: Overview and Mechanisms (Algo Trading)"
+title: "Forex Futures: Overview and Mechanisms"
 description: "Learn about forex futures and algorithmic trading Discover how these tools enhance currency trading by improving hedging strategies and execution precision"
 ---
 

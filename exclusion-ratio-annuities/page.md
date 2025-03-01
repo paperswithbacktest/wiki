@@ -1,5 +1,5 @@
 ---
-title: "Exclusion Ratio in Annuities (Algo Trading)"
+title: "Exclusion Ratio in Annuities"
 description: "Explore how the exclusion ratio impacts annuity taxation and discover the role of algorithmic trading in optimizing investment strategies for tax efficiency."
 ---
 

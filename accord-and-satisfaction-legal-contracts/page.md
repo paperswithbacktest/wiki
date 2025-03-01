@@ -1,5 +1,5 @@
 ---
-title: "Accord and Satisfaction in Legal Contracts (Algo Trading)"
+title: "Accord and Satisfaction in Legal Contracts"
 description: "Explore the intricacies of accord and satisfaction in legal contracts and its critical role in algorithmic trading. Discover how this doctrine aids in resolving disputes swiftly and efficiently, minimizing litigation and ensuring smooth trading operations. Gain insights into risk mitigation and maintaining robust professional relationships within a rapidly evolving trading landscape."
 ---
 

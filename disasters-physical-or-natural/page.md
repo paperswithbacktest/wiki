@@ -1,5 +1,5 @@
 ---
-title: "Disasters (physical or natural) (Algo Trading)"
+title: "Disasters (physical or natural)"
 description: Explore the impact of physical and natural disasters on algorithmic trading, highlighting the challenges and response strategies for ensuring stability in the face of market disruptions. Understand the dynamics of financial markets during catastrophes and how effective risk management helps traders maintain resilience.
 ---
 

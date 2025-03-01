@@ -1,5 +1,5 @@
 ---
-title: "Captive Fund: Overview and Mechanism (Algo Trading)"
+title: "Captive Fund: Overview and Mechanism"
 description: "Explore how captive funds tailor investments for parent companies enhanced by financial mechanisms and algorithmic trading for optimized returns and risk management."
 ---
 

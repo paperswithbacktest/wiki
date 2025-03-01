@@ -1,5 +1,5 @@
 ---
-title: "Interest Rates and Their Impact on Currency Value and Exchange Rates (Algo Trading)"
+title: "Interest Rates and Their Impact on Currency Value and Exchange Rates"
 description: "Explore the impact of interest rates on currency values and exchange rates, highlighting the role of algorithmic trading in navigating forex market fluctuations."
 ---
 

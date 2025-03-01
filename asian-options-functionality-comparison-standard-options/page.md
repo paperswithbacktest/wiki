@@ -1,5 +1,5 @@
 ---
-title: "Asian Options: Functionality and Comparison with Standard Options (Algo Trading)"
+title: "Asian Options: Functionality and Comparison with Standard Options"
 description: "Explore Asian options and standard options to understand their unique payoff mechanisms and strategic benefits in financial markets with algorithmic trading insights."
 ---
 

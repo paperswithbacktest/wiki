@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Landlords and REITs: Advantages and Disadvantages (Algo Trading)"
+title: "Comparison of Landlords and REITs: Advantages and Disadvantages"
 description: "Discover the pros and cons of direct real estate investment, REITs, and algorithmic trading. Navigate real estate opportunities to optimize your portfolio."
 ---
 

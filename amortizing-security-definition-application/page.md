@@ -1,5 +1,5 @@
 ---
-title: "Amortizing Security: Definition and Application (Algo Trading)"
+title: "Amortizing Security: Definition and Application"
 description: "Explore the role of amortizing securities in algorithmic trading with insights into their cash flow predictability and risk management benefits for investors."
 ---
 

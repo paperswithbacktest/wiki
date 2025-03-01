@@ -1,5 +1,5 @@
 ---
-title: "Islamic Investment Policies and Mechanisms (Algo Trading)"
+title: "Islamic Investment Policies and Mechanisms"
 description: "Explore the synergy between Shariah-compliant investments and algorithmic trading technologies redefining Islamic finance with ethical and modern investment solutions."
 ---
 

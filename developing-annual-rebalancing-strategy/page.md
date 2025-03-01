@@ -1,5 +1,5 @@
 ---
-title: "Developing an Annual Rebalancing Strategy (Algo Trading)"
+title: "Developing an Annual Rebalancing Strategy"
 description: "Develop your knowledge on annual rebalancing strategy and algorithmic trading to optimize investment portfolios balance risk and achieve financial goals."
 ---
 

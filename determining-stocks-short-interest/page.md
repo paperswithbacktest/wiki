@@ -1,5 +1,5 @@
 ---
-title: "Determining a Stock's Short Interest (Algo Trading)"
+title: "Determining a Stock's Short Interest"
 description: "Explore the intricacies of short interest in stock trading: understand investor sentiment, market dynamics, and the impacts of high short interest. Discover how algorithmic trading leverages short interest data for strategic advantages. Learn key concepts about short selling and short squeezes, with examples on utilizing short interest information for profitable trading strategies. Whether you’re an investor or trader, this guide equips you with essential insights into market trends and algorithmic opportunities."
 ---
 

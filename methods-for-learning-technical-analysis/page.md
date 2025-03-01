@@ -1,5 +1,5 @@
 ---
-title: "Methods for Learning Technical Analysis (Algo Trading)"
+title: "Methods for Learning Technical Analysis"
 description: "Learn how to master investment strategies, technical analysis, and algo trading in modern financial markets with insightful knowledge and practical approaches."
 ---
 

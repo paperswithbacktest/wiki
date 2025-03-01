@@ -1,5 +1,5 @@
 ---
-title: "Coincident Indicator: Definition, Mechanism, and Economic Impact (Algo Trading)"
+title: "Coincident Indicator: Definition, Mechanism, and Economic Impact"
 description: "Discover the role of coincident indicators in understanding economic performance and their impact on trading strategies for effective investment decisions."
 ---
 

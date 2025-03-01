@@ -1,5 +1,5 @@
 ---
-title: "Economic Impacts of Free Markets (Algo Trading)"
+title: "Economic Impacts of Free Markets"
 description: "Explore the economic impacts of free markets and algorithmic trading highlighting their roles in resource allocation innovation and global economic stability."
 ---
 

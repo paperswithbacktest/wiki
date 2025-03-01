@@ -1,5 +1,5 @@
 ---
-title: "Bahamian Dollar: Overview and Functionality (Algo Trading)"
+title: "Bahamian Dollar: Overview and Functionality"
 description: "Discover the crucial role of the Bahamian Dollar in the Bahamas economy from its stability through a U.S. Dollar peg to its impact on tourism and finance."
 ---
 

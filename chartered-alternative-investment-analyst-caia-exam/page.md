@@ -1,5 +1,5 @@
 ---
-title: "Chartered Alternative Investment Analyst (CAIA) Exam Overview (Algo Trading)"
+title: "Chartered Alternative Investment Analyst (CAIA) Exam Overview"
 description: "Explore the significance of the CAIA exam in alternative investments focusing on algorithmic trading Learn how CAIA enhances skills in navigating complex financial products"
 ---
 

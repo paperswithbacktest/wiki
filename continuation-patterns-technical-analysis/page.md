@@ -1,5 +1,5 @@
 ---
-title: "Continuation Patterns in Technical Analysis (Algo Trading)"
+title: "Continuation Patterns in Technical Analysis"
 description: "Explore the importance of continuation patterns in technical analysis for algorithmic trading unveiling their role in predicting and optimizing market trends."
 ---
 

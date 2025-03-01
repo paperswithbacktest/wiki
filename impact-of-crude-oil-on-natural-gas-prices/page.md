@@ -1,5 +1,5 @@
 ---
-title: "Impact of Crude Oil on Natural Gas Prices (Algo Trading)"
+title: "Impact of Crude Oil on Natural Gas Prices"
 description: "Explore the complex relationship between crude oil and natural gas prices and the impact of algorithmic trading in the dynamic energy markets for informed strategies."
 ---
 

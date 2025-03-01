@@ -1,5 +1,5 @@
 ---
-title: "Capital availability (Algo Trading)"
+title: "Capital availability"
 description: Explore the pivotal role of capital in algorithmic trading, essential for deploying diverse trading strategies and managing market risks. This article investigates into capital challenges, regulatory obstacles, and strategies for attracting investors, providing insights on accessing institutional capital. Understand how technology and compliance shape capital dynamics, enhancing trading efficiency and investor confidence. Discover the intricacies of securing, managing, and optimizing capital for successful algo trading.
 ---
 

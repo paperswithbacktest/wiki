@@ -1,5 +1,5 @@
 ---
-title: "Financial Statement That Includes Retained Earnings (Algo Trading)"
+title: "Financial Statement That Includes Retained Earnings"
 description: "Explore how retained earnings impact financial statement analysis and enhance algorithmic trading strategies for informed and optimized investment decisions."
 ---
 

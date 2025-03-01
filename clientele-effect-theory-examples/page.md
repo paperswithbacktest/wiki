@@ -1,5 +1,5 @@
 ---
-title: "Clientele Effect Theory and Examples (Algo Trading)"
+title: "Clientele Effect Theory and Examples"
 description: "Explore how investor behavior and the clientele effect shape financial markets influencing algorithmic trading strategies through segmentation and market dynamics."
 ---
 

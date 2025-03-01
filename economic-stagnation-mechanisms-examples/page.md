@@ -1,5 +1,5 @@
 ---
-title: "Economic Stagnation: Mechanisms and Examples (Algo Trading)"
+title: "Economic Stagnation: Mechanisms and Examples"
 description: "Explore the mechanisms and historical examples of economic stagnation and how algorithmic trading may mitigate its adverse effects through innovative strategies."
 ---
 

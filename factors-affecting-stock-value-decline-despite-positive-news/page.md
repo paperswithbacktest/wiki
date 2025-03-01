@@ -1,5 +1,5 @@
 ---
-title: "Factors Affecting Stock Value Decline Despite Positive News (Algo Trading)"
+title: "Factors Affecting Stock Value Decline Despite Positive News"
 description: "Explore why stock values may decline despite positive news involving algorithmic trading and market anomalies disrupting traditional market expectations."
 ---
 

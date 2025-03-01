@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Cash Flow Statement (Algo Trading)"
+title: "Analysis of Cash Flow Statement"
 description: "Explore the vital role of cash flow statements in algorithmic trading and financial analysis to optimize trading strategies and improve portfolio management."
 ---
 

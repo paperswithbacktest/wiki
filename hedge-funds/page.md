@@ -1,5 +1,5 @@
 ---
-title: "Hedge Funds (Algo Trading)"
+title: "Hedge Funds"
 description: "Explore the impact of algorithmic trading on asset management and investment finance Discover how modern technology is reshaping financial strategies"
 ---
 

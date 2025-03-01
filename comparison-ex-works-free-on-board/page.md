@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Ex Works and Free on Board (Algo Trading)"
+title: "Comparison of Ex Works and Free on Board"
 description: "Explore the intricacies of Ex Works and Free on Board shipping terms in relation to algorithmic trading strategies to enhance global trade efficiency."
 ---
 

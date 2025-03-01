@@ -1,5 +1,5 @@
 ---
-title: "Expectations Index: Definition and Mechanism (Algo Trading)"
+title: "Expectations Index: Definition and Mechanism"
 description: "Explore how the Expectations Index and consumer sentiment influence algorithmic trading. Understand their significance in shaping economic indicators and trading strategies."
 ---
 

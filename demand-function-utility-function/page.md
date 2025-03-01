@@ -1,5 +1,5 @@
 ---
-title: "Demand Function and Utility Function (Algo Trading)"
+title: "Demand Function and Utility Function"
 description: "Explore the integration of demand and utility functions in algorithmic trading to enhance market predictions and optimize trading strategies for economists and traders."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Gemini and Coinbase (Algo Trading)"
+title: "Comparison of Gemini and Coinbase"
 description: "Compare Gemini and Coinbase to discover their benefits in crypto trading. Learn about their features, security, algorithmic trading options, and user experiences."
 ---
 

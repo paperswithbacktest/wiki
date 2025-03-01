@@ -1,5 +1,5 @@
 ---
-title: "Cost of Capital: Importance and Calculation (Algo Trading)"
+title: "Cost of Capital: Importance and Calculation"
 description: "Explore the cost of capital's importance in financial decision-making and algorithmic trading Learn key concepts calculations and impacts on investments"
 ---
 

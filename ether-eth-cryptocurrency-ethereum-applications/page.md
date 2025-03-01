@@ -1,5 +1,5 @@
 ---
-title: "Ether (ETH) as the Cryptocurrency for Ethereum Applications (Algo Trading)"
+title: "Ether (ETH) as the Cryptocurrency for Ethereum Applications"
 description: "Explore the role of Ether in Ethereum's ecosystem and how algorithmic trading is transforming cryptocurrency markets with innovative trading strategies."
 ---
 

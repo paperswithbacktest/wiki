@@ -1,5 +1,5 @@
 ---
-title: "Kuwait Investment Authority Overview (Algo Trading)"
+title: "Kuwait Investment Authority Overview"
 description: "Explore the pivotal role of the Kuwait Investment Authority in wealth management leveraging algorithmic trading for economic diversification and financial innovation."
 ---
 

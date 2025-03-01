@@ -1,5 +1,5 @@
 ---
-title: "Classes of Shares (Algo Trading)"
+title: "Classes of Shares"
 description: "Explore the categories of stocks, including common and preferred shares, and understand the impacts of algorithmic trading on investment strategies in the stock market."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Leasehold Assets: Types and Examples (Algo Trading)"
+title: "Leasehold Assets: Types and Examples"
 description: "Explore the world of leasehold assets and algorithmic trading to enhance your investment strategies. Learn about property leasing and trading methods here."
 ---
 

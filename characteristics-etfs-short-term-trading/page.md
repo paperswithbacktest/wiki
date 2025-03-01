@@ -1,5 +1,5 @@
 ---
-title: "Characteristics of ETFs in Short-Term Trading (Algo Trading)"
+title: "Characteristics of ETFs in Short-Term Trading"
 description: "Explore the characteristics of ETFs in short-term trading with algorithmic methods Gain insights into how ETFs and algo trading enhance strategy efficiency and execution speed"
 ---
 

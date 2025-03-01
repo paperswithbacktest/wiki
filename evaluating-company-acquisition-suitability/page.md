@@ -1,5 +1,5 @@
 ---
-title: "Evaluating Company Acquisition Suitability (Algo Trading)"
+title: "Evaluating Company Acquisition Suitability"
 description: "Evaluate company acquisition suitability by analyzing financial health, market dynamics, and risk management to make informed, strategic business decisions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Accountant's Opinion and Its Types (Algo Trading)"
+title: "Accountant's Opinion and Its Types"
 description: "Explore the accountant's opinion in audit reports and its role in financial analysis and algo trading Discover how opinions impact investment decisions"
 ---
 

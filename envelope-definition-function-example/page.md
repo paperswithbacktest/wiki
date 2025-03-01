@@ -1,5 +1,5 @@
 ---
-title: "Envelope: Definition, Function, and Example (Algo Trading)"
+title: "Envelope: Definition, Function, and Example"
 description: "Discover the intersection of envelopes in postal services and trading charts with algorithmic trading Explore how these elements enhance financial strategies"
 ---
 

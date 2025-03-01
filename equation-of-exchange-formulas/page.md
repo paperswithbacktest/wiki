@@ -1,5 +1,5 @@
 ---
-title: "Equation of Exchange and Formulas (Algo Trading)"
+title: "Equation of Exchange and Formulas"
 description: "Explore the intersection of economic theory and algorithmic trading analyze the equation of exchange and discover insights for crafting effective trading strategies"
 ---
 

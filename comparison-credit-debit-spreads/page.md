@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Credit and Debit Spreads (Algo Trading)"
+title: "Comparison of Credit and Debit Spreads"
 description: "Explore the key differences and strategies between credit and debit spreads in options trading Discover insights on how algo trading optimizes these techniques"
 ---
 

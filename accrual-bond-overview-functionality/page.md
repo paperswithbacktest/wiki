@@ -1,5 +1,5 @@
 ---
-title: "Accrual Bond: Overview and Functionality (Algo Trading)"
+title: "Accrual Bond: Overview and Functionality"
 description: "Explore the synergy between accrual bonds and algorithmic trading to optimize investment strategies and enhance portfolio performance in financial markets."
 ---
 

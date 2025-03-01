@@ -1,5 +1,5 @@
 ---
-title: "Bond Spreads as a Forex Indicator (Algo Trading)"
+title: "Bond Spreads as a Forex Indicator"
 description: "Explore how bond spreads influence Forex trading by providing insights into economic health and risks countries face. Enhance your strategy with this key indicator."
 ---
 

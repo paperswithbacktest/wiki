@@ -1,5 +1,5 @@
 ---
-title: "Corporate Takeover Defense from a Shareholder Perspective (Algo Trading)"
+title: "Corporate Takeover Defense from a Shareholder Perspective"
 description: "Explore defensive strategies for shareholders in hostile takeovers including the role of algorithmic trading in takeover dynamics and shareholder decision-making."
 ---
 

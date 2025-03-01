@@ -1,5 +1,5 @@
 ---
-title: "Main Segments of the Real Estate Industry (Algo Trading)"
+title: "Main Segments of the Real Estate Industry"
 description: "Discover the key segments of the real estate industry and how algorithmic trading is transforming investment strategies with precise data analysis and insights."
 ---
 

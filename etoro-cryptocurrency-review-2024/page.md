@@ -1,5 +1,5 @@
 ---
-title: "EToro Cryptocurrency Review 2024 (Algo Trading)"
+title: "EToro Cryptocurrency Review 2024"
 description: "Discover eToro's cutting-edge cryptocurrency trading services for 2024 featuring advanced algorithmic tools that optimize trades with ease and efficiency."
 ---
 

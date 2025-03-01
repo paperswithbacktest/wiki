@@ -1,5 +1,5 @@
 ---
-title: "Adversarial learning (Algo Trading)"
+title: "Adversarial learning"
 description: "Explore the role of adversarial learning in algo trading, highlighting its adaptive strategy development to tackle market fluctuations and enhance trading efficiency."
 ---
 

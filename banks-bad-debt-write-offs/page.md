@@ -1,5 +1,5 @@
 ---
-title: "Banks and Bad Debt Write-Offs (Algo Trading)"
+title: "Banks and Bad Debt Write-Offs"
 description: "Explore how banks manage bad debt write-offs and the role of algorithmic trading in financial management to optimize decision-making and risk assessment."
 ---
 

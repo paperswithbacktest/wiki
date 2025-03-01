@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Triple Leveraged ETFs (Algo Trading)"
+title: "Analysis of Triple Leveraged ETFs"
 description: "Explore the synergy between triple leveraged ETFs and algo trading to maximize short-term returns and manage risks through strategic investment techniques."
 ---
 

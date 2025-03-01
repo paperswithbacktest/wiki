@@ -1,5 +1,5 @@
 ---
-title: "Market Making Strategies (Algo Trading)"
+title: "Market Making Strategies"
 description: "Explore the transformative role of algorithmic trading in market making strategies enhancing liquidity and reducing volatility in financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Langerhans Cell Histiocytosis (Algo Trading)"
+title: "Langerhans Cell Histiocytosis"
 description: "Explore the fascinating intersection of Langerhans Cell Histiocytosis and algorithmic trading, highlighting the importance of precision in diverse fields."
 ---
 

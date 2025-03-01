@@ -1,5 +1,5 @@
 ---
-title: "Calculating Present Value of Various Bond Types Using Excel (Algo Trading)"
+title: "Calculating Present Value of Various Bond Types Using Excel"
 description: "Discover how Excel simplifies bond valuation by assessing present value of future cash flows ideal for understanding investment potential in algorithmic trading."
 ---
 

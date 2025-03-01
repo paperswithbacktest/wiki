@@ -1,5 +1,5 @@
 ---
-title: "Marginal Propensity to Invest (Algo Trading)"
+title: "Marginal Propensity to Invest"
 description: "Explore how the Marginal Propensity to Invest (MPI) informs investment decisions in modern finance with algorithmic trading advancements shaping economic strategies."
 ---
 

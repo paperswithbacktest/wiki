@@ -1,5 +1,5 @@
 ---
-title: "Centers for Medicare & Medicaid Services Overview (Algo Trading)"
+title: "Centers for Medicare & Medicaid Services Overview"
 description: "Explore the transformative potential of algorithmic trading within Medicaid and Medicare, enhancing efficiency and decision-making under CMS oversight."
 ---
 

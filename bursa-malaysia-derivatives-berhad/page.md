@@ -1,5 +1,5 @@
 ---
-title: "Bursa Malaysia Derivatives Berhad (Algo Trading)"
+title: "Bursa Malaysia Derivatives Berhad"
 description: "Explore Bursa Malaysia Derivatives' role in global markets with algorithmic trading innovations boosting efficiency and liquidity for investors worldwide."
 ---
 

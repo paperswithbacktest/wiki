@@ -1,5 +1,5 @@
 ---
-title: "Firm Quote: Overview and Functionality (Algo Trading)"
+title: "Firm Quote: Overview and Functionality"
 description: "Discover the role of firm quotes and algorithmic trading in modern financial markets Explore their functionality impact and importance for efficient trading."
 ---
 

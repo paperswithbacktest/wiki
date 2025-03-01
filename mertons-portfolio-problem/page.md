@@ -1,5 +1,5 @@
 ---
-title: "Merton's portfolio problem (Algo Trading)"
+title: "Merton's portfolio problem"
 description: "Optimize your algorithmic trading by leveraging Merton's portfolio model to enhance quantitative strategies ensuring dynamic asset allocation and utility maximization."
 ---
 

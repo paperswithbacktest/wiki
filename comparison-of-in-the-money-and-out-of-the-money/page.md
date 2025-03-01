@@ -1,5 +1,5 @@
 ---
-title: "Comparison of In the Money and Out of the Money (Algo Trading)"
+title: "Comparison of In the Money and Out of the Money"
 description: "Explore the essentials of options trading by understanding 'in the money' vs 'out of the money' concepts enhance your strategy with algorithmic trading insights."
 ---
 

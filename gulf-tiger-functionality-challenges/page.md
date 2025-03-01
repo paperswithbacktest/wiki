@@ -1,5 +1,5 @@
 ---
-title: "Gulf Tiger: Functionality and Challenges (Algo Trading)"
+title: "Gulf Tiger: Functionality and Challenges"
 description: "Discover the fascinating rise of Dubai, aka the Gulf Tiger, as a global financial powerhouse tackling challenges through economic diversification and algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Market Indicators and Their Applications (Algo Trading)"
+title: "Market Indicators and Their Applications"
 description: "Explore essential market indicators and algorithmic trading strategies to enhance your investment decisions. Gain insights into predicting market trends and trading efficiently."
 ---
 

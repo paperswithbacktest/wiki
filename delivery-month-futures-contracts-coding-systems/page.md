@@ -1,5 +1,5 @@
 ---
-title: "Delivery Month in Futures Contracts and Coding Systems (Algo Trading)"
+title: "Delivery Month in Futures Contracts and Coding Systems"
 description: "Master futures trading with insights on delivery months and coding systems Learn how algorithmic strategies enhance efficiency in dynamic markets"
 ---
 

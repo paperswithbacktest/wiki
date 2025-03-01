@@ -1,5 +1,5 @@
 ---
-title: "Gross Revenue and Net Revenue Reporting Differences (Algo Trading)"
+title: "Gross Revenue and Net Revenue Reporting Differences"
 description: "Explore the key differences between gross and net revenue reporting in algo trading. Understand their impact on decision-making and how they optimize trading strategies."
 ---
 

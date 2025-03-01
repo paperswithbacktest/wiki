@@ -1,5 +1,5 @@
 ---
-title: "Financial Performance Overview and Applications (Algo Trading)"
+title: "Financial Performance Overview and Applications"
 description: "Explore the synergy of financial performance analysis and algorithmic trading to enhance decision-making and capitalize on market opportunities efficiently."
 ---
 

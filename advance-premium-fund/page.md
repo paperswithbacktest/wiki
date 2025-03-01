@@ -1,5 +1,5 @@
 ---
-title: "Advance Premium Fund (Algo Trading)"
+title: "Advance Premium Fund"
 description: "Explore the pivotal role of advance premium funds in finance and insurance discover their impact on liquidity manageability and innovative trading strategies."
 ---
 

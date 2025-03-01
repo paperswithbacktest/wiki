@@ -1,5 +1,5 @@
 ---
-title: "Invisible Trade: Definition and Examples (Algo Trading)"
+title: "Invisible Trade: Definition and Examples"
 description: "Discover the complexities of invisible trade and algorithmic trading and their significant roles in global economic dynamics through services like banking and insurance."
 ---
 

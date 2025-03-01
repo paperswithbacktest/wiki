@@ -1,5 +1,5 @@
 ---
-title: "Fractional differentiation (Algo Trading)"
+title: "Fractional differentiation"
 description: Explore how fractional differentiation enhances algorithmic trading by transforming non-stationary financial data into stationary datasets without losing key information. This advanced mathematical tool enables more accurate predictive modeling, improving the efficiency and effectiveness of trading strategies by capturing long-term dependencies and trends within financial time series. Discover practical implementations and future applications in the trading domain.
 ---
 

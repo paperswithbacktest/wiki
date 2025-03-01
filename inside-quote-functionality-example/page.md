@@ -1,5 +1,5 @@
 ---
-title: "Inside Quote: Functionality and Example (Algo Trading)"
+title: "Inside Quote: Functionality and Example"
 description: "Explore algorithmic trading and inside quote mechanisms to enhance market efficiency and liquidity. Learn how these innovations influence modern trading strategies."
 ---
 

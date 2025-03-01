@@ -1,5 +1,5 @@
 ---
-title: "In And Out: Definition and Mechanism (Algo Trading)"
+title: "In And Out: Definition and Mechanism"
 description: "Explore the 'in and out' trading mechanism in algorithmic trading and learn how it leverages precision and speed to maximize short-term market opportunities."
 ---
 

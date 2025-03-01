@@ -1,5 +1,5 @@
 ---
-title: "Factors Affecting a Country's Trade Balance (Algo Trading)"
+title: "Factors Affecting a Country's Trade Balance"
 description: "Discover key economic factors impacting a country's trade balance including the pivotal roles of trade policies exchange rates and technological advancements."
 ---
 

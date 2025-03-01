@@ -1,5 +1,5 @@
 ---
-title: "History and Role of the Veterans Administration (Algo Trading)"
+title: "History and Role of the Veterans Administration"
 description: "Explore the history and evolution of the U.S. Department of Veterans Affairs and its vital role in providing comprehensive services to support military veterans."
 ---
 

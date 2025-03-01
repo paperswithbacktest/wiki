@@ -1,5 +1,5 @@
 ---
-title: "Factors of Production Inputs (Algo Trading)"
+title: "Factors of Production Inputs"
 description: "Explore how economic resources like land, labor, capital, and entrepreneurship drive algorithmic trading by optimizing production inputs and enhancing financial markets."
 ---
 

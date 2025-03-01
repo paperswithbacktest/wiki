@@ -1,5 +1,5 @@
 ---
-title: "Methods for Enhancing Home Appraisal Value (Algo Trading)"
+title: "Methods for Enhancing Home Appraisal Value"
 description: "Explore how algorithmic trading enhances home appraisal by integrating technology for precise property valuations, improving decision-making in real estate markets."
 ---
 

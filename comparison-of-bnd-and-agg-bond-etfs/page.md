@@ -1,5 +1,5 @@
 ---
-title: "Comparison of BND and AGG Bond ETFs (Algo Trading)"
+title: "Comparison of BND and AGG Bond ETFs"
 description: "Explore the benefits of BND and AGG bond ETFs and their integration with algorithmic trading to enhance investment strategies and manage risk effectively."
 ---
 

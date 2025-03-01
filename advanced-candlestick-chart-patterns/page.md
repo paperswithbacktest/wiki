@@ -1,5 +1,5 @@
 ---
-title: "Advanced Candlestick Chart Patterns (Algo Trading)"
+title: "Advanced Candlestick Chart Patterns"
 description: "Explore advanced candlestick patterns and algorithmic trading strategies to gain an edge in financial markets with technical analysis and efficient trade execution."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Australian Dollar: Overview and Role in Forex Markets (Algo Trading)"
+title: "Australian Dollar: Overview and Role in Forex Markets"
 description: "Explore the role of the Australian Dollar in Forex markets with a focus on algorithmic trading. Understand how the AUD's ties to commodities influence trading strategies."
 ---
 

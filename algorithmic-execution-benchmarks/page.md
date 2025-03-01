@@ -1,5 +1,5 @@
 ---
-title: "algorithmic execution benchmarks (Algo Trading)"
+title: "algorithmic execution benchmarks"
 description: "Explore algorithmic execution benchmarks that evaluate trading performance, such as VWAP and TWAP Optimize strategies, reduce costs, and enhance efficiency"
 ---
 

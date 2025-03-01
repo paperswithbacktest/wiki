@@ -1,5 +1,5 @@
 ---
-title: "ETF Market Price and Net Asset Value Comparison (Algo Trading)"
+title: "ETF Market Price and Net Asset Value Comparison"
 description: "Explore the relationship between ETF market price and NAV, and discover how algorithmic trading impacts ETF strategies for informed investment decisions."
 ---
 

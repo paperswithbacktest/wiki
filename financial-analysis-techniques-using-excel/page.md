@@ -1,5 +1,5 @@
 ---
-title: "Financial Analysis Techniques Using Excel (Algo Trading)"
+title: "Financial Analysis Techniques Using Excel"
 description: "Explore financial analysis techniques with Excel for enhanced algorithmic trading strategies. Leverage Excel's capabilities for precise financial modeling and data analysis."
 ---
 

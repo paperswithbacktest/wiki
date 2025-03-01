@@ -1,5 +1,5 @@
 ---
-title: "Bond Convexity (Algo Trading)"
+title: "Bond Convexity"
 description: "Explore how bonds, fixed income, and convexity shape investment strategies and risk management. Discover the role of algorithmic trading in optimizing returns."
 ---
 

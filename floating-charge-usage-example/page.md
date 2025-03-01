@@ -1,5 +1,5 @@
 ---
-title: "Floating Charge: Usage and Example (Algo Trading)"
+title: "Floating Charge: Usage and Example"
 description: "Explore floating charge finance and algorithmic trading to understand secured loans and market dynamics, helping investors and professionals navigate finance efficiently."
 ---
 

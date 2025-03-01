@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Solvency and Liquidity Ratios (Algo Trading)"
+title: "Comparison of Solvency and Liquidity Ratios"
 description: "Discover key liquidity and solvency ratios essential for assessing a company's financial health and optimize investments with algorithmic trading strategies."
 ---
 

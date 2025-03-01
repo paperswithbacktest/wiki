@@ -1,5 +1,5 @@
 ---
-title: "Determining the EBIT Level for Constant EPS (Algo Trading)"
+title: "Determining the EBIT Level for Constant EPS"
 description: "Explore algorithmic trading strategies by analyzing Earnings Before Interest and Taxes (EBIT) levels to maintain a constant Earnings Per Share (EPS)."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Behavioral Economics: Theories, Goals, and Applications (Algo Trading)"
+title: "Behavioral Economics: Theories, Goals, and Applications"
 description: "Explore behavioral economics and its application to algorithmic trading through insights into cognitive biases and emotions influencing decision-making."
 ---
 

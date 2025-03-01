@@ -1,5 +1,5 @@
 ---
-title: "Digital Transactions: Functionality and Benefits (Algo Trading)"
+title: "Digital Transactions: Functionality and Benefits"
 description: "Explore the transformative role of digital transactions in finance Discover the speed security and efficiency benefits essential for competitive trading and payments"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Declaration of Conformity: Function and Examples (Algo Trading)"
+title: "Declaration of Conformity: Function and Examples"
 description: "Explore how the Declaration of Conformity impacts algorithmic trading by ensuring compliance with standards enhancing safety reliability and market integrity."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Investing in Cryptocurrency Exchanges (Algo Trading)"
+title: "Investing in Cryptocurrency Exchanges"
 description: "Explore the dynamic world of cryptocurrency exchanges and algorithmic trading to enhance your investment strategy and maximize returns in the digital market."
 ---
 

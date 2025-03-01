@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Concentrated and Diversified Investment Portfolios (Algo Trading)"
+title: "Comparison of Concentrated and Diversified Investment Portfolios"
 description: "Explore the synergy of diversification and algorithmic trading to enhance investment portfolios Dynamic market response optimizes returns and minimizes risk"
 ---
 

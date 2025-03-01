@@ -1,5 +1,5 @@
 ---
-title: "Effectiveness of Stop-Loss and Limit Orders in Addressing Market Gaps (Algo Trading)"
+title: "Effectiveness of Stop-Loss and Limit Orders in Addressing Market Gaps"
 description: "Explore the role of stop-loss and limit orders in addressing market gaps within algorithmic trading Learn how these strategies manage risks and enhance trade performance"
 ---
 

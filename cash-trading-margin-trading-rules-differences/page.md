@@ -1,5 +1,5 @@
 ---
-title: "Cash Trading and Margin Trading: Rules and Differences (Algo Trading)"
+title: "Cash Trading and Margin Trading: Rules and Differences"
 description: "Discover the key differences and rules between cash, margin, and algorithmic trading to enhance your investment strategy by managing risks and maximizing returns."
 ---
 

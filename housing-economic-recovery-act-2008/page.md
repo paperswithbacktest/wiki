@@ -1,5 +1,5 @@
 ---
-title: "Housing and Economic Recovery Act of 2008: Overview and History (Algo Trading)"
+title: "Housing and Economic Recovery Act of 2008: Overview and History"
 description: "Explore the impacts of the Housing and Economic Recovery Act of 2008 and the rise of algorithmic trading as forces driving economic stabilization and market efficiency."
 ---
 

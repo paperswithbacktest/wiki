@@ -1,5 +1,5 @@
 ---
-title: "Birth-Death Ratio: Overview, Function, and Critiques (Algo Trading)"
+title: "Birth-Death Ratio: Overview, Function, and Critiques"
 description: "Explore the intersection of demographic studies and algorithmic trading by understanding how birth-death ratios can enhance predictive capabilities in financial strategies."
 ---
 

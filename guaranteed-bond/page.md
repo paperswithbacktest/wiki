@@ -1,5 +1,5 @@
 ---
-title: "Guaranteed Bond (Algo Trading)"
+title: "Guaranteed Bond"
 description: "Explore the world of guaranteed bonds and algorithmic trading to enhance financial security and optimize investments for a balanced risk-return portfolio."
 ---
 

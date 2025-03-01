@@ -1,5 +1,5 @@
 ---
-title: "Cognitive Biases in Trading (Algo Trading)"
+title: "Cognitive Biases in Trading"
 description: "Explore cognitive biases in algorithmic trading and learn strategies to mitigate their effects for improved decision-making and enhanced trading performance."
 ---
 

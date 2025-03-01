@@ -1,5 +1,5 @@
 ---
-title: "Carl Johnson (Algo Trading)"
+title: "Carl Johnson"
 description: "Explore Carl Johnson's journey from MIT to his role as CTO at Acadian Asset Management where he innovates algorithmic trading with tech-driven strategies."
 ---
 

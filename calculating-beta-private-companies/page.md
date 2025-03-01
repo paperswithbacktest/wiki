@@ -1,5 +1,5 @@
 ---
-title: "Calculating Beta for Private Companies (Algo Trading)"
+title: "Calculating Beta for Private Companies"
 description: "Learn how to calculate beta for private companies in algorithmic trading using industry averages and earnings beta to assess risk without public stock data."
 ---
 

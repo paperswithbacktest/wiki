@@ -1,5 +1,5 @@
 ---
-title: "John Maynard Keynes and Keynesian Economics (Algo Trading)"
+title: "John Maynard Keynes and Keynesian Economics"
 description: "Explore the impact of John Maynard Keynes, the pioneer of Keynesian economics, on shaping modern economic policies and algorithmic trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Indication of Interest (IOI): Functionality and Example (Algo Trading)"
+title: "Indication of Interest (IOI): Functionality and Example"
 description: "Discover how Indications of Interest (IOIs) enhance algorithmic trading by providing crucial insights into market trends liquidity and strategic decision-making."
 ---
 

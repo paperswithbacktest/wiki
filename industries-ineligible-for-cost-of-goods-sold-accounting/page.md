@@ -1,5 +1,5 @@
 ---
-title: "Industries Ineligible for Cost of Goods Sold Accounting (Algo Trading)"
+title: "Industries Ineligible for Cost of Goods Sold Accounting"
 description: "Explore why algorithmic trading and similar sectors are ineligible for Cost of Goods Sold accounting due to their unique cost structures focused on intangible assets and services."
 ---
 

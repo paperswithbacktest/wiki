@@ -1,5 +1,5 @@
 ---
-title: "Compound Accreted Value (Algo Trading)"
+title: "Compound Accreted Value"
 description: "Discover the significance of Compound Accreted Value in zero-coupon bonds and algorithmic trading Enhance your investment strategies with CAV insights"
 ---
 

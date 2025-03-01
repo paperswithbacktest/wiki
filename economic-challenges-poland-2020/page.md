@@ -1,5 +1,5 @@
 ---
-title: "Economic Challenges in Poland, 2020 (Algo Trading)"
+title: "Economic Challenges in Poland, 2020"
 description: "Poland's economy faced significant challenges in 2020, including the impacts of COVID-19, an aging society, technological gaps, and rising inequality."
 ---
 

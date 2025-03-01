@@ -1,5 +1,5 @@
 ---
-title: "CEX.IO Platform Evaluation (Algo Trading)"
+title: "CEX.IO Platform Evaluation"
 description: "Explore CEX.IO's robust cryptocurrency exchange platform with over 200 assets, algorithmic trading, and innovative features catering to diverse trading needs."
 ---
 

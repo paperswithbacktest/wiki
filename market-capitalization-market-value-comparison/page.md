@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Market Capitalization and Market Value (Algo Trading)"
+title: "Comparison of Market Capitalization and Market Value"
 description: "Explore the crucial differences between market capitalization and market value in finance Learn how algorithmic trading reshapes investment strategies and market dynamics"
 ---
 

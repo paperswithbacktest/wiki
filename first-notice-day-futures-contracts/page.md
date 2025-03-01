@@ -1,5 +1,5 @@
 ---
-title: "First Notice Day in Futures Contracts (Algo Trading)"
+title: "First Notice Day in Futures Contracts"
 description: "Discover the crucial role of First Notice Day in futures trading and explore how algorithmic strategies help manage delivery risks effectively."
 ---
 

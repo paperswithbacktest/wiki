@@ -1,5 +1,5 @@
 ---
-title: "Least Squares Criterion (Algo Trading)"
+title: "Least Squares Criterion"
 description: "Discover how the least squares method enhances algorithmic trading by improving data analysis for precise predictions and effective strategy formulation."
 ---
 

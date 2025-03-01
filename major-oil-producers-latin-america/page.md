@@ -1,5 +1,5 @@
 ---
-title: "Major Oil Producers in Latin America (Algo Trading)"
+title: "Major Oil Producers in Latin America"
 description: "Explore major oil producers like Brazil and Mexico in Latin America, and discover the impact of algorithmic trading on the region's dynamic energy markets."
 ---
 

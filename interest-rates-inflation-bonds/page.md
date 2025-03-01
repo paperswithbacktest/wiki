@@ -1,5 +1,5 @@
 ---
-title: "Interest Rates, Inflation, and Bonds (Algo Trading)"
+title: "Interest Rates, Inflation, and Bonds"
 description: "Explore the interplay between bonds, inflation, and interest rates in algorithmic trading. Learn how these factors shape financial markets and investment strategies."
 ---
 

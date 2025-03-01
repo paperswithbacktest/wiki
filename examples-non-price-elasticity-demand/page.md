@@ -1,5 +1,5 @@
 ---
-title: "Examples of Non-Price Elasticity in Demand (Algo Trading)"
+title: "Examples of Non-Price Elasticity in Demand"
 description: "Explore non-price factors affecting demand elasticity in algorithmic trading including income levels and consumer preferences enhancing trading strategies."
 ---
 

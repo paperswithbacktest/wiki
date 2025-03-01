@@ -1,5 +1,5 @@
 ---
-title: "Average Age of Inventory (Algo Trading)"
+title: "Average Age of Inventory"
 description: "Optimize inventory management with insights into average age and turnover rates. Learn how algorithm trading advances decision-making for better inventory efficiency."
 ---
 

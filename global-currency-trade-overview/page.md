@@ -1,5 +1,5 @@
 ---
-title: "Global Currency Trade Overview (Algo Trading)"
+title: "Global Currency Trade Overview"
 description: "Explore the transformation of global currency trading through algorithmic systems that drive efficiency and sophistication, reshaping financial market dynamics."
 ---
 

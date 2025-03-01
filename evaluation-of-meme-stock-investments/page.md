@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of Meme Stock Investments (Algo Trading)"
+title: "Evaluation of Meme Stock Investments"
 description: "Explore the evolving investment landscape as meme stocks and algorithmic trading reshape market dynamics. Meme stocks, driven by social media and retail investor enthusiasm, challenge traditional metrics with high volatility and unexpected momentum. Algorithmic trading enhances market efficiency by executing high-speed trades based on data analysis, capitalizing on trends shaped by cultural phenomena. Both novice and seasoned investors face unique opportunities and challenges, balancing the allure of meme stocks with the precision of algorithmic insights. Embrace these changes to thrive in today's dynamic financial environment."
 ---
 

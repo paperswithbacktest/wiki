@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Global and American Depositary Receipts (Algo Trading)"
+title: "Comparison of Global and American Depositary Receipts"
 description: "Explore the differences between American Depositary Receipts and Global Depositary Receipts in algorithmic trading and their role in global financial markets.
 "
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Equity Crowdfunding: Risks and Rewards (Algo Trading)"
+title: "Equity Crowdfunding: Risks and Rewards"
 description: "Explore the synergy of equity crowdfunding and algorithmic trading uncovering their unique risks and rewards for informed and strategic investment decisions."
 ---
 

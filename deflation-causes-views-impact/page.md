@@ -1,5 +1,5 @@
 ---
-title: "Deflation: Causes and Views on Its Impact (Algo Trading)"
+title: "Deflation: Causes and Views on Its Impact"
 description: "Explore how deflation affects economies by reducing spending and altering trading strategies in financial markets with algorithmic trading implications."
 ---
 

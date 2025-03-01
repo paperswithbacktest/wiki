@@ -1,5 +1,5 @@
 ---
-title: "Appleton Rule: Overview and Compliance Guidelines (Algo Trading)"
+title: "Appleton Rule: Overview and Compliance Guidelines"
 description: "Explore the Appleton Rule's implications within algorithmic trading compliance Learn how to align with regulatory frameworks to ensure operational integrity and efficiency"
 ---
 

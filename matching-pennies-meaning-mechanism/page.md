@@ -1,5 +1,5 @@
 ---
-title: "Matching Pennies: Meaning and Mechanism (Algo Trading)"
+title: "Matching Pennies: Meaning and Mechanism"
 description: "Explore how game theory's Matching Pennies model enhances strategy in algorithmic trading by leveraging unpredictability to navigate competitive financial markets."
 ---
 

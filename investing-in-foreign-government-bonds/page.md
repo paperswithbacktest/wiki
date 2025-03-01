@@ -1,5 +1,5 @@
 ---
-title: "Investing in Foreign Government Bonds (Algo Trading)"
+title: "Investing in Foreign Government Bonds"
 description: "Explore the transformative impact of investing in foreign government bonds and algorithmic trading to optimize modern investment strategies with reduced risks and higher returns."
 ---
 

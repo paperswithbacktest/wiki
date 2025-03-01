@@ -1,5 +1,5 @@
 ---
-title: "Land Trusts: Overview, Mechanisms, and Variants (Algo Trading)"
+title: "Land Trusts: Overview, Mechanisms, and Variants"
 description: "Explore how land trusts integrate with real estate and algo trading revolutionizing investment strategies for optimal returns and efficient asset management."
 ---
 

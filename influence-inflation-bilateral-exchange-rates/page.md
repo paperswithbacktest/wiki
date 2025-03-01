@@ -1,5 +1,5 @@
 ---
-title: "Influence of Inflation on Bilateral Exchange Rates (Algo Trading)"
+title: "Influence of Inflation on Bilateral Exchange Rates"
 description: "Explore how inflation impacts bilateral exchange rates in algorithmic trading Discover how algo trading adapts to economic changes with insights on inflation dynamics"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Black Box Model: Overview and Applications (Algo Trading)"
+title: "Black Box Model: Overview and Applications"
 description: "Explore the complexities of black box models in algo trading where AI-driven systems execute trades with precision but pose challenges in transparency and trust."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "block trading (Algo Trading)"
+title: "block trading"
 description: "Explore how block trading in stocks, executed through algo trading, enhances order efficiency, lowers costs, and mitigates market impact for significant trades."
 ---
 

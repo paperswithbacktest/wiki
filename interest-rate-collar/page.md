@@ -1,5 +1,5 @@
 ---
-title: "Interest Rate Collar (Algo Trading)"
+title: "Interest Rate Collar"
 description: "Discover the benefits of interest rate collars and algorithmic trading in managing interest rate risk effectively Learn how these tools offer comprehensive solutions"
 ---
 

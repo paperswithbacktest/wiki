@@ -1,5 +1,5 @@
 ---
-title: "General Depreciation System: Overview and Functionality (Algo Trading)"
+title: "General Depreciation System: Overview and Functionality"
 description: "Explore the General Depreciation System (GDS) a key element in financial planning that impacts tax savings and asset valuation, especially in algo trading."
 ---
 

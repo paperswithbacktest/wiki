@@ -1,5 +1,5 @@
 ---
-title: "Gelber Group (Algo Trading)"
+title: "Gelber Group"
 description: "Explore how the Gelber Group leverages cutting-edge algorithms to excel in the competitive world of algorithmic trading gaining a strategic market edge."
 ---
 

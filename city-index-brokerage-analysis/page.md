@@ -1,5 +1,5 @@
 ---
-title: "City Index Brokerage Analysis (Algo Trading)"
+title: "City Index Brokerage Analysis"
 description: "Explore City Index Brokerage renowned for exceptional support in algorithmic trading with advanced tools extensive market coverage and user-friendly platforms"
 ---
 

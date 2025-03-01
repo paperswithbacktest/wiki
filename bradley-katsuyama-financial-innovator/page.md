@@ -1,5 +1,5 @@
 ---
-title: "Bradley Katsuyama: Financial Innovator (Algo Trading)"
+title: "Bradley Katsuyama: Financial Innovator"
 description: "Discover how Bradley Katsuyama and IEX Group are transforming stock trading with innovative approaches emphasizing transparency and fairness in the financial sector."
 ---
 

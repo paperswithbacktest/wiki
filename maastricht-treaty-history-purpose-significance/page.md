@@ -1,5 +1,5 @@
 ---
-title: "Maastricht Treaty: History, Purpose, and Significance (Algo Trading)"
+title: "Maastricht Treaty: History, Purpose, and Significance"
 description: "Explore the Maastricht Treaty's pivotal role in shaping the EU's economic and political landscape and its impact on algorithmic trading trends in Europe."
 ---
 

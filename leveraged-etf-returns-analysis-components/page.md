@@ -1,5 +1,5 @@
 ---
-title: "Leveraged ETF Returns: Analysis and Components (Algo Trading)"
+title: "Leveraged ETF Returns: Analysis and Components"
 description: "Explore the complexities of trading leveraged ETFs with insights into financial analysis and algorithmic strategies to maximize returns and manage risks efficiently."
 ---
 

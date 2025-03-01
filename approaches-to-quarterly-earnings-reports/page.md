@@ -1,5 +1,5 @@
 ---
-title: "Approaches to Quarterly Earnings Reports (Algo Trading)"
+title: "Approaches to Quarterly Earnings Reports"
 description: "Explore how algorithmic trading leverages quarterly earnings reports to optimize strategies by analyzing market patterns and financial metrics, ensuring agile decision-making."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Brazil Exchange-Traded Funds: Overview and Functionality (Algo Trading)"
+title: "Brazil Exchange-Traded Funds: Overview and Functionality"
 description: "Explore how Brazil Exchange-Traded Funds can benefit from algorithmic trading strategies Offering insights into optimizing ETF investments in Brazil's dynamic market"
 ---
 

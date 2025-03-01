@@ -1,5 +1,5 @@
 ---
-title: "Illiquid Options: Overview and Disadvantages (Algo Trading)"
+title: "Illiquid Options: Overview and Disadvantages"
 description: "Explore the complexities and challenges of illiquid options trading including wider bid-ask spreads and low market interest along with algorithmic strategies."
 ---
 

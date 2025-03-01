@@ -1,5 +1,5 @@
 ---
-title: "Circumstances for Redeeming a Callable Bond (Algo Trading)"
+title: "Circumstances for Redeeming a Callable Bond"
 description: "Explore how algorithmic trading enhances decision-making in managing callable bonds. Learn about issuer rights, bond redemption, and strategies for optimal investments."
 ---
 

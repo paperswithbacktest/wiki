@@ -1,5 +1,5 @@
 ---
-title: "Gross Expense Ratio (Algo Trading)"
+title: "Gross Expense Ratio"
 description: "Explore the dynamics of gross expense ratios in investment funds and how algorithmic trading optimizes costs for enhanced returns and efficiency."
 ---
 

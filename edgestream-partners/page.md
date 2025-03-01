@@ -1,5 +1,5 @@
 ---
-title: "Edgestream Partners (Algo Trading)"
+title: "Edgestream Partners"
 description: "Edgestream Partners excels in algorithmic trading, leveraging advanced AI and machine learning to optimize strategies, enhance market efficiency, and minimize risks."
 ---
 

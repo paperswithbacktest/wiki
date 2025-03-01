@@ -1,5 +1,5 @@
 ---
-title: "Investments With Highest Historical Returns (Algo Trading)"
+title: "Investments With Highest Historical Returns"
 description: "Explore the relationship between historical investment returns and algorithmic trading's impact on financial performance. Gain insights into how evaluating past returns aids in forecasting future opportunities and risks. Understand asset classes like stocks, bonds, commodities, and real estate, and delve into algorithmic trading as it reshapes the investment landscape with data-driven strategies."
 ---
 

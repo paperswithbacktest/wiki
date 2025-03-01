@@ -1,5 +1,5 @@
 ---
-title: "Auction House: Definition, History, and Types (Algo Trading)"
+title: "Auction House: Definition, History, and Types"
 description: "Discover the fascinating evolution of auction houses from ancient practices to modern-day algorithmic trading covering key types and historical significance in commerce."
 ---
 

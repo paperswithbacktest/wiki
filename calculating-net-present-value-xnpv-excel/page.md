@@ -1,5 +1,5 @@
 ---
-title: "Calculating Net Present Value with XNPV in Excel (Algo Trading)"
+title: "Calculating Net Present Value with XNPV in Excel"
 description: "Master Excel's XNPV function to calculate Net Present Value more accurately in algorithmic trading tackling irregular cash flows for strategic financial insights."
 ---
 

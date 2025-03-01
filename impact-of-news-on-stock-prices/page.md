@@ -1,5 +1,5 @@
 ---
-title: "Impact of News on Stock Prices (Algo Trading)"
+title: "Impact of News on Stock Prices"
 description: "Explore how news influences stock price volatility and the role of algorithmic trading in modern markets. Discover strategies to navigate financial complexities."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Foreign Exchange Swap: Mechanism and Types (Algo Trading)"
+title: "Foreign Exchange Swap: Mechanism and Types"
 description: "Explore the essential role of foreign exchange swaps in managing currency exposure and enhancing global market liquidity with algorithmic trading insights."
 ---
 

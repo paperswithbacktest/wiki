@@ -1,5 +1,5 @@
 ---
-title: "Dollar-Value LIFO (Algo Trading)"
+title: "Dollar-Value LIFO"
 description: "Explore the synergy between Dollar-Value LIFO inventory valuation and algorithmic trading Understand its impact on financial reporting and trading strategies."
 ---
 

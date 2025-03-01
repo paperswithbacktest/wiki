@@ -1,5 +1,5 @@
 ---
-title: "Comparison of M1 Finance and E*TRADE Core Portfolios (Algo Trading)"
+title: "Comparison of M1 Finance and E*TRADE Core Portfolios"
 description: "Compare M1 Finance and E*TRADE Core Portfolios for algo trading focusing on investment strategies platform features and fees to find the right fit for your goals."
 ---
 

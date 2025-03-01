@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Command and Mixed Economies (Algo Trading)"
+title: "Comparison of Command and Mixed Economies"
 description: "Explore the differences between command and mixed economies and their effects on algorithmic trading. Understand resource management and market dynamics in both systems."
 ---
 

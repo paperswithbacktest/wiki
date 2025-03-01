@@ -1,5 +1,5 @@
 ---
-title: "Canadian Securities Course (CSC): Subjects and Exam Overview (Algo Trading)"
+title: "Canadian Securities Course (CSC): Subjects and Exam Overview"
 description: "Discover how the Canadian Securities Course (CSC) is integral to advancing careers in the Canadian financial market, particularly in the growing field of algorithmic trading. This certification is essential for aspiring securities traders and financial analysts, providing in-depth knowledge of capital markets and regulatory frameworks. Learn how the CSC equips individuals with both fundamental and technical analysis skills, pivotal for developing efficient trading algorithms in today's technology-driven financial landscape. Explore how earning a CSC certification opens doors to promising opportunities within the evolving financial services sector."
 ---
 

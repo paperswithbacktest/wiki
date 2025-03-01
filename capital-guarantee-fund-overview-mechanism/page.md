@@ -1,5 +1,5 @@
 ---
-title: "Capital Guarantee Fund: Overview and Mechanism (Algo Trading)"
+title: "Capital Guarantee Fund: Overview and Mechanism"
 description: "Explore the benefits of capital guarantee funds and algorithmic trading that enhance investment security and returns by merging traditional finance with innovative technology."
 ---
 

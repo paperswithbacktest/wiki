@@ -1,5 +1,5 @@
 ---
-title: "Land Value and Its Determination (Algo Trading)"
+title: "Land Value and Its Determination"
 description: "Explore how land value and algorithmic trading shape real estate markets. Discover methods combining traditional appraisal and modern AI for accurate valuations."
 ---
 

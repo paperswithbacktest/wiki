@@ -1,5 +1,5 @@
 ---
-title: "Immunization in Investment Strategies (Algo Trading)"
+title: "Immunization in Investment Strategies"
 description: "Explore investment immunization strategies that protect portfolios from interest rate fluctuations by balancing asset and liability durations with algorithmic trading."
 ---
 

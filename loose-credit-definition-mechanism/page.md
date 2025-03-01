@@ -1,5 +1,5 @@
 ---
-title: "Loose Credit: Definition and Mechanism (Algo Trading)"
+title: "Loose Credit: Definition and Mechanism"
 description: "Explore the critical interplay between loose credit, financial policy, and algorithmic trading, and their combined influence on modern economic dynamics."
 ---
 

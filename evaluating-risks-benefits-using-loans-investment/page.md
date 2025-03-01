@@ -1,5 +1,5 @@
 ---
-title: "Evaluating the Risks and Benefits of Using Loans for Investment (Algo Trading)"
+title: "Evaluating the Risks and Benefits of Using Loans for Investment"
 description: "Explore the complexities of using loans for investment and the role of algo trading in enhancing returns. Understand both risks and benefits for informed decisions."
 ---
 

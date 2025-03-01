@@ -1,5 +1,5 @@
 ---
-title: "Comparison of MCF and MCM in Natural Gas Measurement (Algo Trading)"
+title: "Comparison of MCF and MCM in Natural Gas Measurement"
 description: "Explore the critical differences between MCF and MCM in natural gas measurement and their importance in trading strategies and global market analysis."
 ---
 

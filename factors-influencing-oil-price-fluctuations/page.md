@@ -1,5 +1,5 @@
 ---
-title: "Factors Influencing Oil Price Fluctuations (Algo Trading)"
+title: "Factors Influencing Oil Price Fluctuations"
 description: "Explore the factors causing oil price fluctuations emphasizing the impact of algorithmic trading This detailed analysis helps stakeholders understand market dynamics"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Front-End Load: Types, Average Percentage, and Example (Algo Trading)"
+title: "Front-End Load: Types, Average Percentage, and Example"
 description: "Explore the impact of front-end load fees in mutual funds, covering types, average costs, and how algorithmic trading can enhance investment strategies."
 ---
 

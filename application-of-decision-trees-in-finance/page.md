@@ -1,5 +1,5 @@
 ---
-title: "Application of Decision Trees in Finance (Algo Trading)"
+title: "Application of Decision Trees in Finance"
 description: "Explore how decision trees enhance financial modeling and algorithmic trading by providing clarity and structure for risk assessment and strategic planning in finance."
 ---
 

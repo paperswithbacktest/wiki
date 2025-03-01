@@ -1,5 +1,5 @@
 ---
-title: "Currency Options: Types, Features, and Exercise Timing (Algo Trading)"
+title: "Currency Options: Types, Features, and Exercise Timing"
 description: "Discover the types and features of currency options with a focus on exercise timing and how algorithmic trading enhances precision and strategy."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Advantages of Foreign Portfolio Investment (Algo Trading)"
+title: "Advantages of Foreign Portfolio Investment"
 description: "Discover the benefits of Foreign Portfolio Investment (FPI) in global diversification. Learn how algorithmic trading enhances strategic financial opportunities."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Joseph Stiglitz: Contributions in Education and Economics (Algo Trading)"
+title: "Joseph Stiglitz: Contributions in Education and Economics"
 description: "Discover Joseph Stiglitz's influential economic theories and their connection to algorithmic trading. Explore the role of education in merging these fields."
 ---
 

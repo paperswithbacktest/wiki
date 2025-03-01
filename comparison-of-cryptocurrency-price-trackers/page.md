@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Cryptocurrency Price Trackers (Algo Trading)"
+title: "Comparison of Cryptocurrency Price Trackers"
 description: "Explore the benefits of cryptocurrency price trackers and algorithmic trading to enhance investment strategies Stay informed and maximize trading success"
 ---
 

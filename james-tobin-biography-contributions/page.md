@@ -1,5 +1,5 @@
 ---
-title: "James Tobin: Biography and Contributions (Algo Trading)"
+title: "James Tobin: Biography and Contributions"
 description: "Explore the life and impact of James Tobin, a Nobel laureate whose contributions such as the Tobin Tax and portfolio theory shape modern finance, especially algo trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "List of Largest Chinese Companies (Algo Trading)"
+title: "List of Largest Chinese Companies"
 description: "Explore China's largest companies and their influence on global markets Discover how key sectors and algorithmic trading drive their growth and innovation"
 ---
 

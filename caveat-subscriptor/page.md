@@ -1,5 +1,5 @@
 ---
-title: "Caveat Subscriptor (Algo Trading)"
+title: "Caveat Subscriptor"
 description: "Explore the critical role of caveat subscriptor in algorithmic trading highlighting the importance of understanding contracts to mitigate risks and ensure compliance."
 ---
 

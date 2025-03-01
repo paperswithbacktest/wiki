@@ -1,5 +1,5 @@
 ---
-title: "Basis Point: Definition, Value, and Applications (Algo Trading)"
+title: "Basis Point: Definition, Value, and Applications"
 description: "Discover the intricacies of basis points, interest rates, and algorithmic trading in financial markets. Understand how basis points offer precision in expressing small changes in metrics, and explore the pivotal role of interest rates in shaping investment strategies. Learn about algorithmic trading's impact on trading efficiency and accuracy, enhancing market participation. Gain insights into these critical concepts and their applications for informed decision-making in economic strategies and investments."
 ---
 

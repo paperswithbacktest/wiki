@@ -1,5 +1,5 @@
 ---
-title: "Mathematical Skills for Studying Microeconomics (Algo Trading)"
+title: "Mathematical Skills for Studying Microeconomics"
 description: "Build a strong foundation in mathematics and economics for successful microeconomics and algorithmic trading Explore essential math skills and economic theories needed "
 ---
 

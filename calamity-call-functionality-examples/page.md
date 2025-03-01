@@ -1,5 +1,5 @@
 ---
-title: "Calamity Call: Functionality and Examples (Algo Trading)"
+title: "Calamity Call: Functionality and Examples"
 description: "Discover how calamity calls and digital advancements in emergency communication and algorithmic trading can enhance disaster response and resilience."
 ---
 

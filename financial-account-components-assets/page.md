@@ -1,5 +1,5 @@
 ---
-title: "Financial Account Components and Assets (Algo Trading)"
+title: "Financial Account Components and Assets"
 description: "Explore the interactions between financial accounts and assets in algorithmic trading Discover how automation in trading reshapes financial strategies and outcomes"
 ---
 

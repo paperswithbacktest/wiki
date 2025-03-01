@@ -1,5 +1,5 @@
 ---
-title: "Long-Term Growth and Value Investing (Algo Trading)"
+title: "Long-Term Growth and Value Investing"
 description: "Explore long-term growth and value investing through the lens of algorithmic trading. Enhance your investment strategy with data-driven insights for sustained success."
 ---
 

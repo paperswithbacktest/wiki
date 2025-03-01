@@ -1,5 +1,5 @@
 ---
-title: "DRIP Investment and Its Benefits (Algo Trading)"
+title: "DRIP Investment and Its Benefits"
 description: "Explore the benefits of DRIP investments and how algorithmic trading can optimize returns by reinvesting dividends efficiently to build long-term wealth."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Investment in Natural Resources (Algo Trading)"
+title: "Investment in Natural Resources"
 description: "Explore investment strategies in natural resources and algorithmic trading offering insights into maximizing returns and navigating modern financial markets."
 ---
 

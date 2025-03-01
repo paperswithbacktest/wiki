@@ -1,5 +1,5 @@
 ---
-title: "Comparison of REITs and REIT ETFs (Algo Trading)"
+title: "Comparison of REITs and REIT ETFs"
 description: "Explore the benefits and differences of investing in Real Estate Investment Trusts versus REIT ETFs and how algorithmic trading can enhance your investment strategy."
 ---
 

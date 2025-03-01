@@ -1,5 +1,5 @@
 ---
-title: "Impact of Self-Driving Cars on the Automotive Industry (Algo Trading)"
+title: "Impact of Self-Driving Cars on the Automotive Industry"
 description: "Discover how self-driving cars are reshaping the automotive industry and finance through AI-driven innovations and new business models. Explore the future of mobility."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Career in Real Estate (Algo Trading)"
+title: "Career in Real Estate"
 description: "Discover lucrative and dynamic career opportunities in real estate enhanced by algorithmic trading technology offering new ways to analyze and invest."
 ---
 

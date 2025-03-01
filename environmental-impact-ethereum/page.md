@@ -1,5 +1,5 @@
 ---
-title: "Environmental Impact of Ethereum (Algo Trading)"
+title: "Environmental Impact of Ethereum"
 description: "Explore how Ethereum's transition to Ethereum 2.0 addresses environmental concerns from high energy consumption and how algorithmic trading impacts sustainability efforts."
 ---
 

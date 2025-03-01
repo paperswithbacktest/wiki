@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Municipal Bonds and Bond Funds (Algo Trading)"
+title: "Comparison of Municipal Bonds and Bond Funds"
 description: "Explore the benefits and differences of municipal bonds and bond funds in the evolving financial landscape Discover how algo trading can enhance investment strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Factors of Production with Examples (Algo Trading)"
+title: "Factors of Production with Examples"
 description: "Discover the core factors of production that drive economic growth and how technological advancements like algorithmic trading revolutionize markets."
 ---
 

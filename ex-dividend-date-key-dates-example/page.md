@@ -1,5 +1,5 @@
 ---
-title: "Ex-Dividend Date Explained with Key Dates and Example (Algo Trading)"
+title: "Ex-Dividend Date Explained with Key Dates and Example"
 description: "Learn about the ex-dividend date and its significance with key dates, examples, and algorithmic trading insights to maximize your investment strategy."
 ---
 

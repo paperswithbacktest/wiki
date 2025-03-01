@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Greenfield Investment and International Acquisition (Algo Trading)"
+title: "Comparison of Greenfield Investment and International Acquisition"
 description: "Explore how greenfield investments and international acquisitions fuel global expansion. Delve into algorithmic trading's role in optimizing these strategies."
 ---
 

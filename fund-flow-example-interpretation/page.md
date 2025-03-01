@@ -1,5 +1,5 @@
 ---
-title: "Fund Flow: Example and Interpretation (Algo Trading)"
+title: "Fund Flow: Example and Interpretation"
 description: "Explore the importance of fund flow in algorithmic trading including insights on financial analysis and investment interpretation to improve trading strategies."
 ---
 

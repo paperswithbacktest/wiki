@@ -1,5 +1,5 @@
 ---
-title: "Consumer Financial Protection Act: Overview and Functionality (Algo Trading)"
+title: "Consumer Financial Protection Act: Overview and Functionality"
 description: "Explore the intersection of financial legislation and algorithmic trading with insights into regulatory bodies like the CFPB protecting consumers amidst tech advancements."
 ---
 

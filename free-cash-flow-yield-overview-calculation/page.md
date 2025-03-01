@@ -1,5 +1,5 @@
 ---
-title: "Free Cash Flow Yield: Overview and Calculation (Algo Trading)"
+title: "Free Cash Flow Yield: Overview and Calculation"
 description: "Discover the significance of free cash flow yield in investment insights. Learn how it guides evaluating company profitability and enhances algorithmic trading strategies."
 ---
 

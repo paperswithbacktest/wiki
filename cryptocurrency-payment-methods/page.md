@@ -1,5 +1,5 @@
 ---
-title: "Cryptocurrency Payment Methods (Algo Trading)"
+title: "Cryptocurrency Payment Methods"
 description: "Discover how cryptocurrency payment methods and algo trading are transforming digital transactions with speed and security Explore their impact on the financial landscape"
 ---
 

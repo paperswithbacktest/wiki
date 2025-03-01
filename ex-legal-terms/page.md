@@ -1,5 +1,5 @@
 ---
-title: "Ex-Legal Terms (Algo Trading)"
+title: "Ex-Legal Terms"
 description: "Explore key legal terms and definitions in algorithmic trading and municipal bonds Understand the risk and regulatory landscape for informed investment decisions"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Investment in Municipal Bonds Amidst Interest Rate Increases (Algo Trading)"
+title: "Investment in Municipal Bonds Amidst Interest Rate Increases"
 description: "Explore the impact of rising interest rates on municipal bonds and how algorithmic trading can enhance investment strategies in fluctuating markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Investment Benchmarks (Algo Trading)"
+title: "Investment Benchmarks"
 description: "Discover essential concepts for enhancing investment portfolios including strategies benchmarks indices and algo trading for optimal market opportunities"
 ---
 

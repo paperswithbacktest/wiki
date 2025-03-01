@@ -1,5 +1,5 @@
 ---
-title: "Fully Convertible Debenture: Overview, Advantages, Criticisms (Algo Trading)"
+title: "Fully Convertible Debenture: Overview, Advantages, Criticisms"
 description: "Discover the advantages and criticisms of Fully Convertible Debentures (FCDs) as a unique financial tool blending debt and equity with algo trading benefits."
 ---
 

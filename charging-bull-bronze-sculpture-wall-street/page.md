@@ -1,5 +1,5 @@
 ---
-title: "Charging Bull: Bronze Sculpture on Wall Street (Algo Trading)"
+title: "Charging Bull: Bronze Sculpture on Wall Street"
 description: "Explore the Charging Bull sculpture on Wall Street embodying financial optimism and perseverance amidst a world influenced by technology and algorithmic trading."
 ---
 

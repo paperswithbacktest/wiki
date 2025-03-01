@@ -1,5 +1,5 @@
 ---
-title: "Healthcare Sector Industries and Key Statistics (Algo Trading)"
+title: "Healthcare Sector Industries and Key Statistics"
 description: "Explore the pivotal role of the healthcare industry in the global economy through key statistics and the influence of algorithmic trading on this evolving sector."
 ---
 

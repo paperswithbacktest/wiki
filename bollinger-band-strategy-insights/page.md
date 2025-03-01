@@ -1,5 +1,5 @@
 ---
-title: "Bollinger Band Strategy Insights (Algo Trading)"
+title: "Bollinger Band Strategy Insights"
 description: "Discover effective Bollinger Band strategies for algotrading Enhance your trading decisions by leveraging these dynamic bands combined with technical indicators"
 ---
 

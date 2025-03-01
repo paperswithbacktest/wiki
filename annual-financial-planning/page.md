@@ -1,5 +1,5 @@
 ---
-title: "Annual Financial Planning (Algo Trading)"
+title: "Annual Financial Planning"
 description: "Discover the keys to effective financial planning with this insightful guide on personal finance, annual plans, and algorithmic trading integration."
 ---
 

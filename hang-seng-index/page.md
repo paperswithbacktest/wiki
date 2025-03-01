@@ -1,5 +1,5 @@
 ---
-title: "Hang Seng Index (Algo Trading)"
+title: "Hang Seng Index"
 description: "Explore the intricacies of the Hang Seng Index and its significance in algorithmic trading uncovering strategies to optimize trading performance and market outcomes."
 ---
 

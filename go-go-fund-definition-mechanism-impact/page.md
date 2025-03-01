@@ -1,5 +1,5 @@
 ---
-title: "Go-Go Fund: Definition, Mechanism, and Impact (Algo Trading)"
+title: "Go-Go Fund: Definition, Mechanism, and Impact"
 description: "Explore the intersection of Go-Go Funds and algorithmic trading, understanding their high-risk strategies and impact on modern finance's efficiency and innovation."
 ---
 

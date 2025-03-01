@@ -1,5 +1,5 @@
 ---
-title: "Exchange-Traded Funds in the Gambling Industry (Algo Trading)"
+title: "Exchange-Traded Funds in the Gambling Industry"
 description: "Explore investment opportunities in the growing gambling sector with ETFs like BJK and BETZ Learn how algorithmic trading can enhance your investment strategy"
 ---
 

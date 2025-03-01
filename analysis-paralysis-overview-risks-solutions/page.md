@@ -1,5 +1,5 @@
 ---
-title: "Analysis Paralysis: Overview, Risks, and Solutions (Algo Trading)"
+title: "Analysis Paralysis: Overview, Risks, and Solutions"
 description: "Discover how analysis paralysis affects decision-making in trading Learn risks strategies to overcome it and optimize algorithmic and human decisions"
 ---
 

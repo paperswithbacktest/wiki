@@ -1,5 +1,5 @@
 ---
-title: "Kraken Platform Evaluation (Algo Trading)"
+title: "Kraken Platform Evaluation"
 description: "Explore Kraken's powerful algorithmic trading features tailored for both novice and expert traders to optimize strategies, improve precision, and potentially enhance returns."
 ---
 

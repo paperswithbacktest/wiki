@@ -1,5 +1,5 @@
 ---
-title: "Basket: Overview, Functionality, and Examples (Algo Trading)"
+title: "Basket: Overview, Functionality, and Examples"
 description: "Explore basket trading in algorithmic trading with insights on automation, risk management, and execution strategies to enhance trading performance."
 ---
 

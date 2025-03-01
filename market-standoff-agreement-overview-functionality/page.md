@@ -1,5 +1,5 @@
 ---
-title: "Market Standoff Agreement: Overview and Functionality (Algo Trading)"
+title: "Market Standoff Agreement: Overview and Functionality"
 description: "Explore market standoff agreements and algo trading in finance Discover how these key elements stabilize IPOs and enhance trading efficiency and liquidity"
 ---
 

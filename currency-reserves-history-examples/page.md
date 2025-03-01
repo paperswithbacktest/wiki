@@ -1,5 +1,5 @@
 ---
-title: "Currency Reserves: History and Examples (Algo Trading)"
+title: "Currency Reserves: History and Examples"
 description: "Explore the balance between foreign exchange reserves, currency management, and algorithmic trading in finance, highlighting their roles in economic resilience."
 ---
 

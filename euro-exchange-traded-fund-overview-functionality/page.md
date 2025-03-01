@@ -1,5 +1,5 @@
 ---
-title: "Euro Exchange-Traded Fund: Overview and Functionality (Algo Trading)"
+title: "Euro Exchange-Traded Fund: Overview and Functionality"
 description: "Discover how Euro Exchange-Traded Funds (ETFs) leverage algorithmic trading to optimize investment strategies Explore the benefits of Euro ETFs and their market dynamics"
 ---
 

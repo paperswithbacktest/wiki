@@ -1,5 +1,5 @@
 ---
-title: "Exchange Futures for Physical (Algo Trading)"
+title: "Exchange Futures for Physical"
 description: "Discover how Exchange of Futures for Physical and algorithmic trading intersect to provide enhanced efficiency, risk management, and strategic advantage in commodity markets."
 ---
 

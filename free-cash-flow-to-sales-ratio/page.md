@@ -1,5 +1,5 @@
 ---
-title: "Free Cash Flow to Sales Ratio (Algo Trading)"
+title: "Free Cash Flow to Sales Ratio"
 description: "Discover how the Free Cash Flow-to-Sales ratio enhances algorithmic trading by evaluating a company's cash generation efficiency crucial for informed decisions."
 ---
 

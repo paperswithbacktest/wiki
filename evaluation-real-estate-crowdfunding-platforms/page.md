@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of Real Estate Crowdfunding Platforms (Algo Trading)"
+title: "Evaluation of Real Estate Crowdfunding Platforms"
 description: "Explore leading real estate crowdfunding platforms, leveraging algorithms for smarter investments. Discover their benefits, challenges, and future potential."
 ---
 

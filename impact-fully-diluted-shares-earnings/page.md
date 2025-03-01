@@ -1,5 +1,5 @@
 ---
-title: "Impact of Fully Diluted Shares on Earnings (Algo Trading)"
+title: "Impact of Fully Diluted Shares on Earnings"
 description: "Explore how fully diluted shares impact earnings and algorithmic trading. Discover the significance of calculating diluted EPS for informed financial decisions."
 ---
 

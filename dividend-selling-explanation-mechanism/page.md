@@ -1,5 +1,5 @@
 ---
-title: "Dividend Selling: Explanation and Mechanism (Algo Trading)"
+title: "Dividend Selling: Explanation and Mechanism"
 description: "Explore the synergy of dividend investing and algorithmic trading to optimize your portfolio. Learn strategies for enhanced returns and disciplined investment processes."
 ---
 

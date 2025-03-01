@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Variance (Algo Trading)"
+title: "Analysis of Variance"
 description: "Explore how Analysis of Variance (ANOVA) in algorithmic trading helps optimize strategies by dissecting variance in datasets to enhance decision-making and manage risks."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Importance of Reconciliation in Accounting (Algo Trading)"
+title: "Importance of Reconciliation in Accounting"
 description: "Explore the vital role of reconciliation in accounting for algorithmic trading. Discover how reconciling records enhances data accuracy, trading efficiency, and compliance."
 ---
 

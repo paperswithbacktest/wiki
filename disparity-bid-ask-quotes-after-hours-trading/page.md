@@ -1,5 +1,5 @@
 ---
-title: "Disparity in Bid and Ask Quotes during After-Hours Trading (Algo Trading)"
+title: "Disparity in Bid and Ask Quotes during After-Hours Trading"
 description: "Explore the dynamics of after-hours trading focusing on bid and ask price disparities and how algorithmic trading can optimize strategies and manage risks effectively."
 ---
 

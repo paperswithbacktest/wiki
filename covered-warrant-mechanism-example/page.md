@@ -1,5 +1,5 @@
 ---
-title: "Covered Warrant: Definition, Mechanism, and Example (Algo Trading)"
+title: "Covered Warrant: Definition, Mechanism, and Example"
 description: "Discover how covered warrants function within algorithmic trading Explore their benefits like leveraged exposure and risk management in boosting portfolio performance"
 ---
 

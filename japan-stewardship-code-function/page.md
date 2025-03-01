@@ -1,5 +1,5 @@
 ---
-title: "Japan Stewardship Code Function (Algo Trading)"
+title: "Japan Stewardship Code Function"
 description: "Discover how Japan's Stewardship Code promotes responsible investment and shapes corporate governance amidst the rise of algorithmic trading for market evolution."
 ---
 

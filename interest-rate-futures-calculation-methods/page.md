@@ -1,5 +1,5 @@
 ---
-title: "Interest Rate Futures and Calculation Methods (Algo Trading)"
+title: "Interest Rate Futures and Calculation Methods"
 description: "Discover the complexities of interest rate futures and calculation methods, exploring their significance in algorithmic trading for informed market strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Impact of Buybacks on Price-to-Book Ratio (Algo Trading)"
+title: "Impact of Buybacks on Price-to-Book Ratio"
 description: "Discover the impact of share buybacks on the Price-to-Book ratio in algorithmic trading, and its significance in modern investment strategies and financial analyses."
 ---
 

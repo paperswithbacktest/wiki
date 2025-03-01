@@ -1,5 +1,5 @@
 ---
-title: "Book Balance Versus Bank Balance (Algo Trading)"
+title: "Book Balance Versus Bank Balance"
 description: "Explore the synergy of book and bank balances, accounting fundamentals, and algorithmic trading to enhance financial reporting, decision-making, and strategy."
 ---
 

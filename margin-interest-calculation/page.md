@@ -1,5 +1,5 @@
 ---
-title: "Margin Interest Calculation (Algo Trading)"
+title: "Margin Interest Calculation"
 description: "Explore the intersection of margin interest and algorithmic trading to enhance profitability Learn vital strategies for managing borrowed funds and interest costs"
 ---
 

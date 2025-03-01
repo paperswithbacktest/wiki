@@ -1,5 +1,5 @@
 ---
-title: "ISM Manufacturing Index (PMI) Explained (Algo Trading)"
+title: "ISM Manufacturing Index (PMI) Explained"
 description: Discover how to leverage the ISM Manufacturing Index and Purchasing Managers' Index in algorithmic trading strategies. Learn about these key economic indicators and their role in assessing economic health, influencing market movements and refining trading algorithms to maximize returns. Maximize your trading strategy by understanding the reliability and impact of ISM and PMI on financial markets.
 ---
 

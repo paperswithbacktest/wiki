@@ -1,5 +1,5 @@
 ---
-title: "Budget Variance: Causes and Types (Algo Trading)"
+title: "Budget Variance: Causes and Types"
 description: "Explore the significance of budget variance and its impact on financial management Learn how algorithmic trading can enhance forecast accuracy and reduce variances"
 ---
 

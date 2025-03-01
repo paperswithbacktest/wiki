@@ -1,5 +1,5 @@
 ---
-title: "Documentary Collection: Types and Process (Algo Trading)"
+title: "Documentary Collection: Types and Process"
 description: "Explore the documentary collection process in trade finance including its types and how algorithmic trading can enhance efficiency and security in cross-border transactions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Accrued Expenses and Accrued Interest (Algo Trading)"
+title: "Comparison of Accrued Expenses and Accrued Interest"
 description: "Explore the fundamental differences between accrued expenses and accrued interest in financial accounting within algorithmic trading. This article investigates into how these principles apply in preparation of financial statements and trading strategies ensuring precise and reliable documentation critical for decision-making in modern financial markets. Discover how algorithms interpret and integrate these concepts to facilitate efficient and effective operations empowering finance professionals and investors in navigating the complexity of evolving financial landscapes."
 ---
 

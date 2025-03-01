@@ -1,5 +1,5 @@
 ---
-title: "Division of Corporation Finance: Overview and Benefits (Algo Trading)"
+title: "Division of Corporation Finance: Overview and Benefits"
 description: "Discover the vital role of the Division of Corporation Finance in ensuring transparency and efficiency through accurate financial disclosure and algorithmic trading."
 ---
 

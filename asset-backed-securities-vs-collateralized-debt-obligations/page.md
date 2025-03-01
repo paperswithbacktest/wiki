@@ -1,5 +1,5 @@
 ---
-title: "Asset-Backed Securities Vs. Collateralized Debt Obligations (Algo Trading)"
+title: "Asset-Backed Securities Vs. Collateralized Debt Obligations"
 description: "Explore the complexities of asset-backed securities and collateralized debt obligations in trading Discover their structures benefits and algorithmic trading roles"
 ---
 

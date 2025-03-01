@@ -1,5 +1,5 @@
 ---
-title: "Markets in Crypto-Assets (MiCA) (Algo Trading)"
+title: "Markets in Crypto-Assets (MiCA)"
 description: "Explore the Markets in Crypto-Assets (MiCA) regulation, a groundbreaking EU framework aimed at safeguarding financial stability and investor protection within the rapidly expanding cryptocurrency sector. MiCA provides a structured environment for crypto-assets and algorithmic trading, fostering transparency and compliance across the market. Learn about its key features, historical context, and implications for stakeholders as it reshapes the regulatory landscape to ensure sustainable growth and innovation in digital finance."
 ---
 

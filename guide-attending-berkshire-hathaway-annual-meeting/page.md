@@ -1,5 +1,5 @@
 ---
-title: "Guide to Attending the Berkshire Hathaway Annual Meeting (Algo Trading)"
+title: "Guide to Attending the Berkshire Hathaway Annual Meeting"
 description: "Discover how to make the most of your experience at the Berkshire Hathaway Annual Meeting with a focus on algorithmic trading. Gain invaluable insights from financial leaders Warren Buffett and Charlie Munger, and learn how to integrate this information into your trading strategies. Whether you are a shareholder or an algorithmic trader aiming to capitalize on real-time market reactions, this guide provides essential tips for optimizing your participation in this iconic financial event."
 ---
 

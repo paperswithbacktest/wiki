@@ -1,5 +1,5 @@
 ---
-title: "Financial Market Crisis of 2008 (Algo Trading)"
+title: "Financial Market Crisis of 2008"
 description: "Explore the origins and impact of the 2008 financial crisis with a focus on algorithmic trading's influence on market volatility and systemic failures."
 ---
 

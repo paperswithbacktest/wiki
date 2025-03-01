@@ -1,5 +1,5 @@
 ---
-title: "Economic Value and Market Value (Algo Trading)"
+title: "Economic Value and Market Value"
 description: "Explore the crucial differences between economic and market value in algorithmic trading. Understand how these values influence trading strategies and decision-making."
 ---
 

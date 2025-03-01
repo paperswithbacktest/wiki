@@ -1,5 +1,5 @@
 ---
-title: "Capital Blockade (Algo Trading)"
+title: "Capital Blockade"
 description: "Discover how capital blockades and economic sanctions shape global markets impact financial stability and challenge algorithmic trading systems in our interconnected world."
 ---
 

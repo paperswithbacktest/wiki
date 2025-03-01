@@ -1,5 +1,5 @@
 ---
-title: "Mark Webster (Algo Trading)"
+title: "Mark Webster"
 description: "Explore Mark Webster's journey in algorithmic trading from early career as a research analyst to leadership roles in investment management across global firms."
 ---
 

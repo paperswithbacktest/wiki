@@ -1,5 +1,5 @@
 ---
-title: "Fair Trade Investing: Overview and Mechanisms (Algo Trading)"
+title: "Fair Trade Investing: Overview and Mechanisms"
 description: "Explore fair trade investing and algorithmic trading to align financial goals with ethical principles promoting transparency and sustainability with profitable returns."
 ---
 

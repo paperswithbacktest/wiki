@@ -1,5 +1,5 @@
 ---
-title: "Comparison of CIF and FOB Purchase Methods (Algo Trading)"
+title: "Comparison of CIF and FOB Purchase Methods"
 description: "Discover how CIF vs FOB terms impact responsibilities, costs, and risks in global trade and algorithmic trading strategies for optimized operations and profits."
 ---
 

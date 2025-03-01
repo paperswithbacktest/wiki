@@ -1,5 +1,5 @@
 ---
-title: "Embedded Options and Use Cases (Algo Trading)"
+title: "Embedded Options and Use Cases"
 description: "Explore the synergy of embedded options and algorithmic trading within financial strategies to effectively manage risks, optimize investments, and enhance market efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Benefits of a Market Economy (Algo Trading)"
+title: "Benefits of a Market Economy"
 description: "Explore the benefits of a market economy in driving efficiency, innovation, and choice. Discover how algorithmic trading enhances market dynamics and liquidity."
 ---
 

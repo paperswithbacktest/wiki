@@ -1,5 +1,5 @@
 ---
-title: "Crash: Mechanisms and Examples (Algo Trading)"
+title: "Crash: Mechanisms and Examples"
 description: "Explore the mechanisms and examples of market crashes linked to algorithmic trading. Understand flash crashes, systemic risks, and strategies for mitigation."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Closet Indexing: Definition, Mechanisms, and Drawbacks (Algo Trading)"
+title: "Closet Indexing: Definition, Mechanisms, and Drawbacks"
 description: "Explore closet indexing a strategy where actively managed funds mimic index performance, its mechanisms, and drawbacks. Uncover insights for informed investing."
 ---
 

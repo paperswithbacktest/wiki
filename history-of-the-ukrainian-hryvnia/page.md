@@ -1,5 +1,5 @@
 ---
-title: "History of the Ukrainian Hryvnia (Algo Trading)"
+title: "History of the Ukrainian Hryvnia"
 description: "Explore the journey of the Ukrainian Hryvnia from its 1996 introduction to its modern role in forex markets impacted by algorithmic trading dynamics."
 ---
 

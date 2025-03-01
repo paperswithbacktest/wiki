@@ -1,5 +1,5 @@
 ---
-title: "Covered Call Writing (Algo Trading)"
+title: "Covered Call Writing"
 description: "Explore the synergy between covered call writing and algorithmic trading to automate income generation from stock holdings while managing risks effectively."
 ---
 

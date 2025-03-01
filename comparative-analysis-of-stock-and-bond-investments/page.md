@@ -1,5 +1,5 @@
 ---
-title: "Comparative Analysis of Stock and Bond Investments (Algo Trading)"
+title: "Comparative Analysis of Stock and Bond Investments"
 description: "Explore the dynamics of stock and bond investments alongside algorithmic trading to optimize portfolio performance by mitigating risk and maximizing returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Mean Reversion Trading Strategy Explained (Algo Trading)"
+title: "Mean Reversion Trading Strategy Explained"
 description: Learn how a mean reversion strategy in algorithmic trading capitalizes on the tendency of asset prices to return to their historical mean. Discover how statistical models and tools like RSI, Bollinger Bands, and Moving Averages guide traders in executing profitable trades in diverse markets.
 ---
 

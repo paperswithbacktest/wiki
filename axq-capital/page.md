@@ -1,5 +1,5 @@
 ---
-title: "AXQ Capital (Algo Trading)"
+title: "AXQ Capital"
 description: "AXQ Capital excels in algorithmic trading by integrating scientific methods and data-driven strategies to consistently outperform in financial markets."
 ---
 

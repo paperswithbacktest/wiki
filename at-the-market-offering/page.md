@@ -1,5 +1,5 @@
 ---
-title: "At-the-Market Offering (Algo Trading)"
+title: "At-the-Market Offering"
 description: "Explore the transformative impact of at-the-market stock offerings and algorithmic trading on modern investing offering flexibility and efficiency in capital raising."
 ---
 

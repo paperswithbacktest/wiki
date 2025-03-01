@@ -1,5 +1,5 @@
 ---
-title: "Currency Exchange Overview and Locations (Algo Trading)"
+title: "Currency Exchange Overview and Locations"
 description: "Discover the complexities of currency exchange and the growing role of algorithmic trading in the forex market Learn strategies to enhance international transactions"
 ---
 

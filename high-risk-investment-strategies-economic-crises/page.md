@@ -1,5 +1,5 @@
 ---
-title: "High-Risk Investment Strategies During Economic Crises (Algo Trading)"
+title: "High-Risk Investment Strategies During Economic Crises"
 description: "Explore high-risk investment strategies during economic crises with a focus on algorithmic trading and its potential for high rewards amidst market volatility."
 ---
 

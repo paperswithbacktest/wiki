@@ -1,5 +1,5 @@
 ---
-title: "Footnotes to Financial Statements: Types and Importance (Algo Trading)"
+title: "Footnotes to Financial Statements: Types and Importance"
 description: "Discover the intricacies of financial footnotes and their critical role in algorithmic trading. Unlock insights for strategic decision-making in finance."
 ---
 

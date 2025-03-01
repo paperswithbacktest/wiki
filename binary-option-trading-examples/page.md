@@ -1,5 +1,5 @@
 ---
-title: "Binary Option Trading and Examples (Algo Trading)"
+title: "Binary Option Trading and Examples"
 description: "Explore binary options and algorithmic trading with examples and insights on strategies market dynamics and potential benefits and risks for investors."
 ---
 

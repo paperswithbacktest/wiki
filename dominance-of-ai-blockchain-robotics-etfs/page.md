@@ -1,5 +1,5 @@
 ---
-title: "Dominance of AI, Blockchain, and Robotics ETFs (Algo Trading)"
+title: "Dominance of AI, Blockchain, and Robotics ETFs"
 description: "Explore the exciting world of AI, Blockchain, and Robotics ETFs as they transform investment strategies through algorithmic trading and cutting-edge technology."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Infrastructure Trust: Definition and Mechanisms (Algo Trading)"
+title: "Infrastructure Trust: Definition and Mechanisms"
 description: "Discover how algorithmic trading and infrastructure trusts are transforming investments with new opportunities and challenges in global financial markets."
 ---
 

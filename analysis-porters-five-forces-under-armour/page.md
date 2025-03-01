@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Porter's Five Forces on Under Armour (Algo Trading)"
+title: "Analysis of Porter's Five Forces on Under Armour"
 description: "Analyze Under Armour using Porter's Five Forces and explore algorithmic trading's role in investment strategies. Understand competitive pressures and opportunities."
 ---
 

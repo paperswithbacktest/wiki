@@ -1,5 +1,5 @@
 ---
-title: "Collateral Trust Bond (Algo Trading)"
+title: "Collateral Trust Bond"
 description: "Explore how collateral trust bonds offer secured investment opportunities in algorithmic trading while enhancing safety in diverse investment portfolios and financial strategies."
 ---
 

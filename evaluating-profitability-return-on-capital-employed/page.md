@@ -1,5 +1,5 @@
 ---
-title: "Evaluating Profitability Using Return on Capital Employed (Algo Trading)"
+title: "Evaluating Profitability Using Return on Capital Employed"
 description: "Explore the importance of Return on Capital Employed (ROCE) in financial analysis and algorithmic trading to enhance investment profitability and strategy."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Cryptocurrency Creation Process (Algo Trading)"
+title: "Cryptocurrency Creation Process"
 description: "Discover the intersection of blockchain, digital currencies, and algo trading in crypto markets Learn how these technologies are reshaping finance and investments"
 ---
 

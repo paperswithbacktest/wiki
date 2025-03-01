@@ -1,5 +1,5 @@
 ---
-title: "List of Largest Retail Companies (Algo Trading)"
+title: "List of Largest Retail Companies"
 description: "Explore how top retail giants Walmart, Amazon, and Costco leverage algorithmic trading to optimize operations and maintain dominance in the global market."
 ---
 

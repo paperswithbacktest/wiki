@@ -1,5 +1,5 @@
 ---
-title: "Cash Flow to Capital Expenditures (Algo Trading)"
+title: "Cash Flow to Capital Expenditures"
 description: "Explore the interplay between cash flow and capital expenditures in algo trading Analyze financial health through Free Cash Flow for smarter investments"
 ---
 

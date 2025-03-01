@@ -1,5 +1,5 @@
 ---
-title: "Clean Price: Meaning, Overview, and Examples (Algo Trading)"
+title: "Clean Price: Meaning, Overview, and Examples"
 description: "Discover the importance of clean price in bond markets Understand its role in pricing trading and financial strategies with examples for better decisions"
 ---
 

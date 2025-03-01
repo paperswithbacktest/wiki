@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Operating Cash Flow and Net Operating Income (Algo Trading)"
+title: "Comparison of Operating Cash Flow and Net Operating Income"
 description: "Explore the nuances between Operating Cash Flow and Net Operating Income as key financial metrics, and their integration into powerful algorithmic trading strategies."
 ---
 

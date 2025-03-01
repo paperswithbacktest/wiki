@@ -1,5 +1,5 @@
 ---
-title: "Economic Shortages: Causes, Types, and Examples (Algo Trading)"
+title: "Economic Shortages: Causes, Types, and Examples"
 description: "Explore the complexities of economic shortages and their impact on markets Learn how algorithmic trading can help investors navigate supply-demand shifts effectively"
 ---
 

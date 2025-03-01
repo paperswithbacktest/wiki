@@ -1,5 +1,5 @@
 ---
-title: "Chicago School of Economics (Algo Trading)"
+title: "Chicago School of Economics"
 description: "Explore the synergy between the Chicago School of Economics and algorithmic trading, where free-market principles meet cutting-edge data-driven financial strategies."
 ---
 

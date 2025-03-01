@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Nonmonetary and Monetary Assets (Algo Trading)"
+title: "Comparison of Nonmonetary and Monetary Assets"
 description: "Explore the pivotal distinctions between monetary and nonmonetary assets in algo trading to optimize strategies enhance risk management and boost investment returns."
 ---
 

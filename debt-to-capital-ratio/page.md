@@ -1,5 +1,5 @@
 ---
-title: "Debt-to-Capital Ratio (Algo Trading)"
+title: "Debt-to-Capital Ratio"
 description: "Explore the significance of the debt-to-capital ratio in evaluating financial leverage and risk management, crucial for optimizing algorithmic trading strategies."
 ---
 

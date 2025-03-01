@@ -1,5 +1,5 @@
 ---
-title: "Economist: Role, Duties, and Influence (Algo Trading)"
+title: "Economist: Role, Duties, and Influence"
 description: "Explore the essential role of economists in the dynamic world of algorithmic trading. Discover how they analyze economic trends, advise on policy and business strategies, and evolve traditional models to integrate automated trading systems. Delve into the complex interplay between innovation, market stability, and financial regulations in modern global markets."
 ---
 

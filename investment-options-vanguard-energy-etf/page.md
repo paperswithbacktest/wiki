@@ -1,5 +1,5 @@
 ---
-title: "Investment Options in Vanguard Energy ETF (Algo Trading)"
+title: "Investment Options in Vanguard Energy ETF"
 description: "Explore the Vanguard Energy ETF for diversified exposure to the oil sector with algorithmic trading strategies balancing risk and return in a volatile market."
 ---
 

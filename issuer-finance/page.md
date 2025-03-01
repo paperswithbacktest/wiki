@@ -1,5 +1,5 @@
 ---
-title: "Issuer (Finance) (Algo Trading)"
+title: "Issuer (Finance)"
 description: "Explore the transformative impact of algorithmic trading on financial markets, focusing on its integration with issuer securities to enhance trade execution and market efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Fund Category (Algo Trading)"
+title: "Fund Category"
 description: "Explore how mutual fund classifications and algorithmic trading enhance investment strategies offering tailored portfolio solutions and improved market efficiency."
 ---
 

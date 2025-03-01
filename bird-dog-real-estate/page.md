@@ -1,5 +1,5 @@
 ---
-title: "Bird Dog (Real Estate) (Algo Trading)"
+title: "Bird Dog (Real Estate)"
 description: "Explore how bird dogging transforms real estate investing with algorithmic trading techniques for faster, accurate property scouting and strategic advantage."
 ---
 

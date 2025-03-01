@@ -1,5 +1,5 @@
 ---
-title: "Conversion Parity Price (Algo Trading)"
+title: "Conversion Parity Price"
 description: "Explore how conversion parity, pricing mechanisms, and algo trading impact investment strategies. Learn to leverage these concepts for better financial outcomes."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Corporate Social Responsibility (Algo Trading)"
+title: "Corporate Social Responsibility"
 description: "Explore how Corporate Social Responsibility and Business Ethics intersect with Algo Trading to ensure sustainable, responsible investment strategies and market integrity."
 ---
 

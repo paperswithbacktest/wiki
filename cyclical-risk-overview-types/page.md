@@ -1,5 +1,5 @@
 ---
-title: "Cyclical Risk: Overview and Types (Algo Trading)"
+title: "Cyclical Risk: Overview and Types"
 description: "Explore cyclical risks and their impact on algorithmic trading strategies Understand economic cycles to optimize investments and manage market fluctuations effectively"
 ---
 

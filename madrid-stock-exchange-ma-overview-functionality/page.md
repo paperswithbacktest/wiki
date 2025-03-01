@@ -1,5 +1,5 @@
 ---
-title: "Madrid Stock Exchange MA: Overview and Functionality (Algo Trading)"
+title: "Madrid Stock Exchange MA: Overview and Functionality"
 description: "Explore the rise of algorithmic trading on the Madrid Stock Exchange its impact on market efficiency and innovation in Spain's leading securities market."
 ---
 

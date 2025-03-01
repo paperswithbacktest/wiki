@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Commodity Spot and Futures Prices (Algo Trading)"
+title: "Comparison of Commodity Spot and Futures Prices"
 description: "Explore the dynamics between commodity spot and futures prices influenced by algo trading. Understand market trends, risk management, and price discovery strategies."
 ---
 

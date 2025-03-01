@@ -1,5 +1,5 @@
 ---
-title: "Hashed Timelock Contract in Cryptocurrency (Algo Trading)"
+title: "Hashed Timelock Contract in Cryptocurrency"
 description: "Discover how Hashed Timelock Contracts (HTLCs) are transforming cryptocurrency transactions and algorithmic trading with secure, efficient cross-platform solutions."
 ---
 

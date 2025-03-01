@@ -1,5 +1,5 @@
 ---
-title: "Asset Earning Power (Algo Trading)"
+title: "Asset Earning Power"
 description: "Discover how Asset Earning Power enhances algorithmic trading strategies by offering insights into asset utilization, helping investors make informed investment decisions."
 ---
 

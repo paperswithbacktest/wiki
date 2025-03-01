@@ -1,5 +1,5 @@
 ---
-title: "Long-Dated Forward Contracts (Algo Trading)"
+title: "Long-Dated Forward Contracts"
 description: "Explore the significance of long-dated forward contracts in financial markets focusing on risk management with algorithmic trading strategies for enhanced efficiency."
 ---
 

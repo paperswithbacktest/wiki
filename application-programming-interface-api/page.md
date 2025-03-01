@@ -1,5 +1,5 @@
 ---
-title: "Application programming interface (API) (Algo Trading)"
+title: "Application programming interface (API)"
 description: Explore how APIs are revolutionizing algorithmic trading by providing seamless automation, real-time data access, and customizable trading strategies for enhanced efficiency and precision. Discover the types of APIs, their advantages, and how traders can harness them to gain a competitive edge in the financial markets.
 ---
 

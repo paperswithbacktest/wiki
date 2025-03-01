@@ -1,5 +1,5 @@
 ---
-title: "Margin Trading: Explanation, Benefits, and Risks (Algo Trading)"
+title: "Margin Trading: Explanation, Benefits, and Risks"
 description: "Learn how margin and algorithmic trading strategies can enhance investment returns. Discover the benefits and risks involved in leveraging borrowed funds."
 ---
 

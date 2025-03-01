@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Robo-Advisors and S&P 500 Performance (Algo Trading)"
+title: "Comparison of Robo-Advisors and S&P 500 Performance"
 description: "Discover how robo-advisors stack up against the S&P 500 Explore their performance potential and automating strategies to achieve investment success."
 ---
 

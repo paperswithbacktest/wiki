@@ -1,5 +1,5 @@
 ---
-title: "Environmental Impact of NFTs (Algo Trading)"
+title: "Environmental Impact of NFTs"
 description: "Explore the environmental impact of NFTs driven by algorithmic trading aiming to enhance sustainability by reducing energy consumption and optimizing market efficiency."
 ---
 

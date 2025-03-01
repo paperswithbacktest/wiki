@@ -1,5 +1,5 @@
 ---
-title: "Financial Advisors and Cryptocurrency (Algo Trading)"
+title: "Financial Advisors and Cryptocurrency"
 description: "Explore how financial advisors navigate cryptocurrency investments and algorithmic trading, offering insights into regulatory compliance, client education, and portfolio integration."
 ---
 

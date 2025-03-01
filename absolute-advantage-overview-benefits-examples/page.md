@@ -1,5 +1,5 @@
 ---
-title: "Absolute Advantage: Overview, Benefits, and Examples (Algo Trading)"
+title: "Absolute Advantage: Overview, Benefits, and Examples"
 description: "Discover how absolute advantage impacts international trade, enabling more efficient production and exchange of goods, enhanced by modern algorithmic trading insights."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Agio: Meaning, Mechanism, and Impact on Bond Values (Algo Trading)"
+title: "Agio: Meaning, Mechanism, and Impact on Bond Values"
 description: "Explore the meaning of agio and its impact on bond values in this comprehensive guide to bond trading and valuation with algorithmic trading insights."
 ---
 

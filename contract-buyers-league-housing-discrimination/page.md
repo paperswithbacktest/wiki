@@ -1,5 +1,5 @@
 ---
-title: "Contract Buyers League and Housing Discrimination (Algo Trading)"
+title: "Contract Buyers League and Housing Discrimination"
 description: "Explore the pivotal role of the Contract Buyers League in combating housing discrimination and the potential of algorithmic solutions to address systemic issues."
 ---
 

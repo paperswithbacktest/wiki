@@ -1,5 +1,5 @@
 ---
-title: "Cash-And-Carry Arbitrage (Algo Trading)"
+title: "Cash-And-Carry Arbitrage"
 description: "Explore the intricacies of cash-and-carry arbitrage in algo trading, a strategy exploiting price inefficiencies between spot and futures markets for profit."
 ---
 

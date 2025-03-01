@@ -1,5 +1,5 @@
 ---
-title: "Marginal Profit and Calculation Formula (Algo Trading)"
+title: "Marginal Profit and Calculation Formula"
 description: "Explore the concept of marginal profit in trading with insights on its calculation and application in algorithmic trading for optimal decision-making and profitability."
 ---
 

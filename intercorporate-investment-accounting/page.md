@@ -1,5 +1,5 @@
 ---
-title: "Intercorporate Investment Accounting (Algo Trading)"
+title: "Intercorporate Investment Accounting"
 description: "Explore the complexities of intercorporate investment accounting and algorithmic trading, and understand how these factors influence financial statements and reporting."
 ---
 

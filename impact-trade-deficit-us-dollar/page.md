@@ -1,5 +1,5 @@
 ---
-title: "Impact of Trade Deficit on the U.S. Dollar (Algo Trading)"
+title: "Impact of Trade Deficit on the U.S. Dollar"
 description: "Explore the impact of the U.S. trade deficit on the dollar's value amid the complexities of algorithmic trading Learn how these factors shape global economics"
 ---
 

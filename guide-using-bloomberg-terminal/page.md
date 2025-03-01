@@ -1,5 +1,5 @@
 ---
-title: "Guide to Using the Bloomberg Terminal (Algo Trading)"
+title: "Guide to Using the Bloomberg Terminal"
 description: "Explore the Bloomberg Terminal's vital role in algorithmic trading with real-time data and analytics that empower investment professionals to refine strategies."
 ---
 

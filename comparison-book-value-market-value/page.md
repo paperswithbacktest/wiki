@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Book Value and Market Value (Algo Trading)"
+title: "Comparison of Book Value and Market Value"
 description: "Explore the essential differences between book value and market value in financial investing. Learn how these metrics provide unique insights for algorithmic trading."
 ---
 

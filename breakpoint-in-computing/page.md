@@ -1,5 +1,5 @@
 ---
-title: "Breakpoint in Computing (Algo Trading)"
+title: "Breakpoint in Computing"
 description: "Explore the critical role of breakpoint debugging in algorithmic trading software, ensuring precise execution by pausing programs to examine their state and detect errors."
 ---
 

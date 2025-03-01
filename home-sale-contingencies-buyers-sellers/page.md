@@ -1,5 +1,5 @@
 ---
-title: "Home Sale Contingencies for Buyers and Sellers (Algo Trading)"
+title: "Home Sale Contingencies for Buyers and Sellers"
 description: "Explore the importance of home sale contingencies in real estate transactions for both buyers and sellers, and how algorithmic trading can enhance these deals."
 ---
 

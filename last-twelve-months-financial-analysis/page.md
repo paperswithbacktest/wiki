@@ -1,5 +1,5 @@
 ---
-title: "Last Twelve Months in Financial Analysis (Algo Trading)"
+title: "Last Twelve Months in Financial Analysis"
 description: "Explore LTM analysis in financial metrics and algorithmic trading Uncover how this dynamic approach enhances trading decisions with the latest financial trends"
 ---
 

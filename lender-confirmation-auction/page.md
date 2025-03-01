@@ -1,5 +1,5 @@
 ---
-title: "Lender Confirmation Auction (Algo Trading)"
+title: "Lender Confirmation Auction"
 description: "Explore the dynamic confluence of confirmation auctions, lender financing, and algorithmic trading reshaping modern markets through enhanced liquidity and efficiency."
 ---
 

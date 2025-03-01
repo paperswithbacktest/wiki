@@ -1,5 +1,5 @@
 ---
-title: "Emergent Trading (Algo Trading)"
+title: "Emergent Trading"
 description: "Discover the transformative power of Emergent Trading and how algorithmic trading leverages speed and efficiency to redefine modern trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Mature Industry: Characteristics and Examples (Algo Trading)"
+title: "Mature Industry: Characteristics and Examples"
 description: "Explore mature industries characterized by slow growth efficiency and stability key to strategic planning. Discover insights in algorithmic trading within these sectors."
 ---
 

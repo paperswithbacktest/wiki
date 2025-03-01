@@ -1,5 +1,5 @@
 ---
-title: "Dealer Incentives: Meaning and Functionality (Algo Trading)"
+title: "Dealer Incentives: Meaning and Functionality"
 description: "Discover how sales incentives and algorithmic trading enhance the automotive industry by optimizing dealer performance, customer engagement, and market success."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparable Worth: Concept and Equal Pay (Algo Trading)"
+title: "Comparable Worth: Concept and Equal Pay"
 description: "Explore the intersection of comparable worth equal pay and algorithmic trading in shaping fair workplace practices and efficient financial markets."
 ---
 

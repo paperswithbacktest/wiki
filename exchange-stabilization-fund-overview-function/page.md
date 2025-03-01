@@ -1,5 +1,5 @@
 ---
-title: "Exchange Stabilization Fund: Overview and Function (Algo Trading)"
+title: "Exchange Stabilization Fund: Overview and Function"
 description: "Explore the role of the Exchange Stabilization Fund in U.S. financial stability and algorithmic trading, highlighting its impact on currency markets and economic resilience."
 ---
 

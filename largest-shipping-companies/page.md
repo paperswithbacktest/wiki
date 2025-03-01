@@ -1,5 +1,5 @@
 ---
-title: "List of the Largest Shipping Companies (Algo Trading)"
+title: "List of the Largest Shipping Companies"
 description: "Explore the largest shipping companies and their role in global trade, highlighting the impact of algorithmic trading and technological advancements in the industry."
 ---
 

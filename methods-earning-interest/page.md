@@ -1,5 +1,5 @@
 ---
-title: "Methods of Earning Interest (Algo Trading)"
+title: "Methods of Earning Interest"
 description: "Explore the benefits and strategies of earning interest through algo trading Discover how technology and traditional methods can enhance your financial portfolio"
 ---
 

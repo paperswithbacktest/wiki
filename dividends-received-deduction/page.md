@@ -1,5 +1,5 @@
 ---
-title: "Dividends Received Deduction (Algo Trading)"
+title: "Dividends Received Deduction"
 description: "Explore how the Dividends Received Deduction helps corporations minimize taxable income and manage tax implications with algorithmic trading insights."
 ---
 

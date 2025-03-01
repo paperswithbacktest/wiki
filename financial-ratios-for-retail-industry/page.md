@@ -1,5 +1,5 @@
 ---
-title: "Financial Ratios for Retail Industry (Algo Trading)"
+title: "Financial Ratios for Retail Industry"
 description: "Explore the impact of financial ratios and algorithmic trading on the retail industry, providing insights into company performance for informed investment decisions."
 ---
 

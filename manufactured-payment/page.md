@@ -1,5 +1,5 @@
 ---
-title: "Manufactured Payment (Algo Trading)"
+title: "Manufactured Payment"
 description: "Explore the intricacies of manufactured payments in securities lending and the pivotal role of algorithmic trading in modern finance to enhance market efficiency."
 ---
 

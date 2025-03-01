@@ -1,5 +1,5 @@
 ---
-title: "Mechanism of Money Market Hedge (Algo Trading)"
+title: "Mechanism of Money Market Hedge"
 description: "Discover how money market hedging and algorithmic trading can mitigate currency risks for businesses, offering stability in an unpredictable financial landscape."
 ---
 

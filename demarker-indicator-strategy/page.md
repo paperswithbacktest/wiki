@@ -1,5 +1,5 @@
 ---
-title: "DeMarker Indicator Strategy Explained (Algo Trading)"
+title: "DeMarker Indicator Strategy Explained"
 description: Explore the DeMarker Indicator strategy for algorithmic trading, perfect for both novice and seasoned traders. Understand how this tool helps in identifying market trends and momentum changes by focusing on price dynamics. Learn about its unique advantage in highlighting overbought and oversold conditions, making it a critical part of diverse trading strategies.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Lost Decade in Japan: Historical Context and Causes (Algo Trading)"
+title: "Lost Decade in Japan: Historical Context and Causes"
 description: "Explore Japan's Lost Decade with insights on economic stagnation, the bubble burst, algorithmic trading's rise, and lessons for global financial resilience."
 ---
 

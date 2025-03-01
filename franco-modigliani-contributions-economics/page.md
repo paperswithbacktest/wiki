@@ -1,5 +1,5 @@
 ---
-title: "Franco Modigliani and His Contributions to Economics (Algo Trading)"
+title: "Franco Modigliani and His Contributions to Economics"
 description: "Explore Franco Modigliani's revolutionary impact on economics and finance with key theories like the Modigliani-Miller Theorem and life-cycle hypothesis."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Real Estate and Stock Market Investments (Algo Trading)"
+title: "Comparison of Real Estate and Stock Market Investments"
 description: "Explore real estate and stock market investments highlighting algorithmic trading's impact in shaping investment strategies and optimizing portfolios."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Capital Real Estate Investment Trust Overview (Algo Trading)"
+title: "Capital Real Estate Investment Trust Overview"
 description: "Discover how algorithmic trading revolutionizes REIT investments by optimizing decision-making and enhancing strategies for income-focused portfolios."
 ---
 

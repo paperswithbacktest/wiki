@@ -1,5 +1,5 @@
 ---
-title: "Factors Influencing the Real Estate Market (Algo Trading)"
+title: "Factors Influencing the Real Estate Market"
 description: "Explore how algorithmic trading revolutionizes real estate with strategic insights, enhanced data analysis, and superior investment decision-making, minimizing risks."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Fundrise and Yieldstreet in 2024 (Algo Trading)"
+title: "Comparison of Fundrise and Yieldstreet in 2024"
 description: "Discover how Fundrise real estate investments and Yieldstreet's alternative assets stack up against algorithmic trading strategies in 2024."
 ---
 

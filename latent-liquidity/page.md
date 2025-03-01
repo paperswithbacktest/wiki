@@ -1,5 +1,5 @@
 ---
-title: "Latent Liquidity (Algo Trading)"
+title: "Latent Liquidity"
 description: "Explore the intricacies of latent liquidity in high-frequency trading leveraging algorithmic strategies for swift execution and competitive edge within financial markets."
 ---
 

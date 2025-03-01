@@ -1,5 +1,5 @@
 ---
-title: "Clayton Antitrust Act: History, Amendments, and Significance (Algo Trading)"
+title: "Clayton Antitrust Act: History, Amendments, and Significance"
 description: "Explore the history, amendments, and significance of the Clayton Antitrust Act in regulating anti-competitive practices and its impact on algorithmic trading."
 ---
 

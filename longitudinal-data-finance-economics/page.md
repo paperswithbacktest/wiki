@@ -1,5 +1,5 @@
 ---
-title: "Longitudinal Data in Finance and Economics (Algo Trading)"
+title: "Longitudinal Data in Finance and Economics"
 description: "Explore how longitudinal data transforms financial forecasting and economic analysis enabling robust algorithmic trading strategies and data-driven decision making."
 ---
 

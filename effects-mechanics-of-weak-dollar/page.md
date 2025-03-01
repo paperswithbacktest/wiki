@@ -1,5 +1,5 @@
 ---
-title: "Effects and Mechanics of a Weak Dollar (Algo Trading)"
+title: "Effects and Mechanics of a Weak Dollar"
 description: "Explore the effects of a weak dollar on global finance and the pivotal role of algorithmic trading in navigating currency depreciation and market dynamics."
 ---
 

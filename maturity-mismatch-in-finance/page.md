@@ -1,5 +1,5 @@
 ---
-title: "Maturity Mismatch in Finance (Algo Trading)"
+title: "Maturity Mismatch in Finance"
 description: "Explore the concept of maturity mismatch in finance learn risk management strategies and discover how algorithmic trading helps optimize liquidity and portfolios."
 ---
 

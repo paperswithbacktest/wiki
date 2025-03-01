@@ -1,5 +1,5 @@
 ---
-title: "Falling Window Candlestick Pattern Explained (Algo Trading)"
+title: "Falling Window Candlestick Pattern Explained"
 description: Explore the significance of the Falling Window candlestick pattern in algorithmic trading which signals bearish market trends through a price gap between consecutive candlesticks. Learn how traders utilize this pattern along with technical indicators to predict market movements and integrate it into automated trading strategies for enhanced decision-making and improved financial outcomes.
 ---
 

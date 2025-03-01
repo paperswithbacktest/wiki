@@ -1,5 +1,5 @@
 ---
-title: "Charles Schwab's Perspective on Zero Commission Trading (Algo Trading)"
+title: "Charles Schwab's Perspective on Zero Commission Trading"
 description: "Charles Schwab's zero commission model revolutionized online trading by removing cost barriers, enhancing market accessibility, and promoting algorithmic trading."
 ---
 

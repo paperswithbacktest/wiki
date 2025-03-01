@@ -1,5 +1,5 @@
 ---
-title: "Leading Precious Metals Mutual Funds (Algo Trading)"
+title: "Leading Precious Metals Mutual Funds"
 description: "Explore the convergence of mutual funds, precious metals, and algorithmic trading, unlocking informed investment strategies for enhanced portfolio performance."
 ---
 

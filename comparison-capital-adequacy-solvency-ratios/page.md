@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Capital Adequacy and Solvency Ratios (Algo Trading)"
+title: "Comparison of Capital Adequacy and Solvency Ratios"
 description: "Explore how capital adequacy and solvency ratios are essential for financial stability and algorithmic trading by assessing risk and informing strategies."
 ---
 

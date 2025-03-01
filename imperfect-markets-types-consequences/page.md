@@ -1,5 +1,5 @@
 ---
-title: "Imperfect Markets: Types and Consequences (Algo Trading)"
+title: "Imperfect Markets: Types and Consequences"
 description: "Explore the types and consequences of imperfect markets in algorithmic trading where market inefficiencies challenge the idealized notion of perfect competition."
 ---
 

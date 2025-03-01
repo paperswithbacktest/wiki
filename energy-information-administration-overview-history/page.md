@@ -1,5 +1,5 @@
 ---
-title: "Energy Information Administration: Overview and History (Algo Trading)"
+title: "Energy Information Administration: Overview and History"
 description: "Explore the Energy Information Administration's history and its crucial role in shaping U.S. energy policy with independent data and analysis for informed decision-making."
 ---
 

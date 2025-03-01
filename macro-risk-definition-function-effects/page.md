@@ -1,5 +1,5 @@
 ---
-title: "Macro Risk: Definition, Function, and Effects (Algo Trading)"
+title: "Macro Risk: Definition, Function, and Effects"
 description: "Explore how algorithmic trading helps manage macro and economic risks, enhancing investment strategies with rapid data analysis and efficient trade execution."
 ---
 

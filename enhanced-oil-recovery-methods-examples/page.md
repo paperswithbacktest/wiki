@@ -1,5 +1,5 @@
 ---
-title: "Enhanced Oil Recovery Methods and Examples (Algo Trading)"
+title: "Enhanced Oil Recovery Methods and Examples"
 description: "Explore Enhanced Oil Recovery methods and their role in boosting oil extraction efficiency. Learn about their economic impact and the role of algo trading in EOR investments."
 ---
 

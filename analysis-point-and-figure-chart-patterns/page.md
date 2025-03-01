@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Point-and-Figure Chart Patterns (Algo Trading)"
+title: "Analysis of Point-and-Figure Chart Patterns"
 description: "Explore the power of point-and-figure charts in algo trading Discover how P&F chart patterns enhance technical analysis with clear insights into market trends"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "International Poverty Line: Overview and Criticism (Algo Trading)"
+title: "International Poverty Line: Overview and Criticism"
 description: "Explore the international poverty line's significance and criticism due to its simplicity. Delve into potential improvements and the role of financial technology."
 ---
 

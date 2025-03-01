@@ -1,5 +1,5 @@
 ---
-title: "Major Traded Currencies (Algo Trading)"
+title: "Major Traded Currencies"
 description: "Discover key traded currencies in Forex and the impact of algo trading Explore currency dynamics market mechanics and future trading trends"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Liquidating Market (Algo Trading)"
+title: "Liquidating Market"
 description: "Explore the impact of liquidating markets on investments and trading with insights into algorithmic trading. Understand market dynamics and decision-making in volatile conditions."
 ---
 

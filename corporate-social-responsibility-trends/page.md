@@ -1,5 +1,5 @@
 ---
-title: "Corporate Social Responsibility Trends (Algo Trading)"
+title: "Corporate Social Responsibility Trends"
 description: "Explore the intersection of CSR and algorithmic trading with trends like integrating CSR into business strategies, remote work for engagement, and demand for transparency."
 ---
 

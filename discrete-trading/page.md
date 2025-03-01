@@ -1,5 +1,5 @@
 ---
-title: "discrete trading (Algo Trading)"
+title: "discrete trading"
 description: "Explore how discrete trading revolutionizes market strategies with its scheduled, strategic trade executions aligning seamlessly with long-term investment goals."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Local volatility (Algo Trading)"
+title: "Local volatility"
 description: "Discover the crucial role of local volatility in pricing derivatives and the impact of algo trading in modern finance for optimizing trade strategies."
 ---
 

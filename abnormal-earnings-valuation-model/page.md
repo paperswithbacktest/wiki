@@ -1,5 +1,5 @@
 ---
-title: "Abnormal Earnings Valuation Model (Algo Trading)"
+title: "Abnormal Earnings Valuation Model"
 description: "Explore the Abnormal Earnings Valuation Model and its significance in algorithmic trading strategies to understand management's resource efficiency and intrinsic value."
 ---
 

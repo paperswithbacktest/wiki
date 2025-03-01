@@ -1,5 +1,5 @@
 ---
-title: "Accumulated Earnings and Profits Vs. Retained Earnings (Algo Trading)"
+title: "Accumulated Earnings and Profits Vs. Retained Earnings"
 description: "Explore the distinctions between accumulated earnings and retained earnings in algo trading Understanding these financial metrics enhances trading strategies"
 ---
 

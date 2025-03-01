@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Working Capital (Algo Trading)"
+title: "Analysis of Working Capital"
 description: "Explore the vital relationship between working capital management and algorithmic trading to optimize financial strategies in today's complex market dynamics."
 ---
 

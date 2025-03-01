@@ -1,5 +1,5 @@
 ---
-title: "Book Income: Overview and Mechanism (Algo Trading)"
+title: "Book Income: Overview and Mechanism"
 description: "Explore the synergy of accounting and trading in financial markets Discover how book income and algorithmic trading shape decision-making and drive success"
 ---
 

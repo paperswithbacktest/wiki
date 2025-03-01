@@ -1,5 +1,5 @@
 ---
-title: "Energy Commodities Accessibility Through ETFs (Algo Trading)"
+title: "Energy Commodities Accessibility Through ETFs"
 description: "Explore how ETFs democratize energy commodity investment and how algorithmic trading optimizes strategies, providing diversification and inflation hedging."
 ---
 

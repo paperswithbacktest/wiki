@@ -1,5 +1,5 @@
 ---
-title: "Agent Problem (Algo Trading)"
+title: "Agent Problem"
 description: "Explore the complexities of the agency problem in algorithmic trading where misaligned interests between investors and trading agents pose unique challenges."
 ---
 

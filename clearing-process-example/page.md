@@ -1,5 +1,5 @@
 ---
-title: "Clearing Process and Example (Algo Trading)"
+title: "Clearing Process and Example"
 description: "Explore how the clearing process in algorithmic trading ensures accurate trade execution and settlement. Learn about trade matching, confirmation, netting, and risk management crucial for optimizing trading strategies and compliance. Discover the vital role of clearinghouses in reducing counterparty risk and enhancing market stability."
 ---
 

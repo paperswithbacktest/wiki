@@ -1,5 +1,5 @@
 ---
-title: "Direct Market Access: Uses and Benefits (Algo Trading)"
+title: "Direct Market Access: Uses and Benefits"
 description: "Explore the transformative impact of Direct Market Access in algorithmic trading and discover how it enables faster, efficient, and cost-effective trading execution."
 ---
 

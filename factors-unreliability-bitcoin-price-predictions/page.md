@@ -1,5 +1,5 @@
 ---
-title: "Factors Influencing the Unreliability of Bitcoin Price Predictions (Algo Trading)"
+title: "Factors Influencing the Unreliability of Bitcoin Price Predictions"
 description: "Explore the unpredictability of Bitcoin price predictions impacted by high volatility and algorithmic trading challenges in developing effective strategies."
 ---
 

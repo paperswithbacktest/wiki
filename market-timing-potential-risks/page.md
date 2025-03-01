@@ -1,5 +1,5 @@
 ---
-title: "Market Timing and Potential Risks (Algo Trading)"
+title: "Market Timing and Potential Risks"
 description: "Explore the advantages and risks of market timing and algorithmic trading in today's financial world. Understand how these strategies can influence your investments."
 ---
 

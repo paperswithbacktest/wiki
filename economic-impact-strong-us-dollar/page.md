@@ -1,5 +1,5 @@
 ---
-title: "Economic Impact of a Strong US Dollar (Algo Trading)"
+title: "Economic Impact of a Strong US Dollar"
 description: "Explore the profound effects of a strong US dollar on global trade, investments, and emerging markets with insights into algorithmic trading and currency valuation."
 ---
 

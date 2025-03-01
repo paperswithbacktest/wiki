@@ -1,5 +1,5 @@
 ---
-title: "Identifying Rebound Potential in Undervalued Stocks (Algo Trading)"
+title: "Identifying Rebound Potential in Undervalued Stocks"
 description: "Discover proven strategies to identify undervalued stocks with rebound potential and enhance your investment portfolio using advanced algorithmic trading techniques."
 ---
 

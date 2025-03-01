@@ -1,5 +1,5 @@
 ---
-title: "Green Book: Overview, Functionality, and Variants (Algo Trading)"
+title: "Green Book: Overview, Functionality, and Variants"
 description: "Explore how algorithmic trading integrates Green Book insights to optimize strategies using economic forecasts and policy guidelines for enhanced market decision-making."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bull Call Spread: Overview, Examples, Risks, and Benefits (Algo Trading)"
+title: "Bull Call Spread: Overview, Examples, Risks, and Benefits"
 description: "Explore the bull call spread strategy to optimize options trading and manage risks and rewards effectively using algorithmic trading for enhanced results."
 ---
 

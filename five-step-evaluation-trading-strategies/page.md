@@ -1,5 +1,5 @@
 ---
-title: "Five-Step Evaluation for Trading Strategies (Algo Trading)"
+title: "Five-Step Evaluation for Trading Strategies"
 description: "Explore the essentials of evaluating trading strategies in algorithmic trading. Learn about strategy formulation, risk management, and improving decision-making for success."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Eris Exchange Overview (Algo Trading)"
+title: "Eris Exchange Overview"
 description: "Explore the evolution of trading through algorithmic platforms enhancing efficiency and accessibility with Eris Exchange at the forefront of this financial innovation."
 ---
 

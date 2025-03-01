@@ -1,5 +1,5 @@
 ---
-title: "Dematerialization (DEMAT): Overview, Mechanism, and Advantages (Algo Trading)"
+title: "Dematerialization (DEMAT): Overview, Mechanism, and Advantages"
 description: "Explore how financial markets benefit from combining dematerialization and algorithmic trading for enhanced efficiency reduced risk and improved liquidity."
 ---
 

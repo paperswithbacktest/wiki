@@ -1,5 +1,5 @@
 ---
-title: "Factors Influencing Daily Trading (Algo Trading)"
+title: "Factors Influencing Daily Trading"
 description: "Explore the dynamic world of algorithmic trading and discover the factors influencing daily financial markets to enhance your trading strategies and decision-making."
 ---
 

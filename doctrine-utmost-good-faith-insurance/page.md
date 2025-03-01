@@ -1,5 +1,5 @@
 ---
-title: "Doctrine of Utmost Good Faith in Insurance (Algo Trading)"
+title: "Doctrine of Utmost Good Faith in Insurance"
 description: "Explore the doctrine of utmost good faith in insurance and its critical role in algorithmic trading fostering trust and transparency for legal and ethical integrity."
 ---
 

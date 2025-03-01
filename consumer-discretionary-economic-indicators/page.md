@@ -1,5 +1,5 @@
 ---
-title: "Consumer Discretionary in Economic Indicators (Algo Trading)"
+title: "Consumer Discretionary in Economic Indicators"
 description: "Unlock the complexities of economic indicators consumer discretionary spending and algorithmic trading to enhance your investment strategy in the financial market."
 ---
 

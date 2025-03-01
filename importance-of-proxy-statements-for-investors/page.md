@@ -1,5 +1,5 @@
 ---
-title: "Importance of Proxy Statements for Investors (Algo Trading)"
+title: "Importance of Proxy Statements for Investors"
 description: "Discover the crucial role of proxy statements in financial analysis and algo trading to enhance investment strategies by evaluating corporate governance."
 ---
 

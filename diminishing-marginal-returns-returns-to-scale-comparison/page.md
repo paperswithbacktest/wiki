@@ -1,5 +1,5 @@
 ---
-title: "Diminishing Marginal Returns and Returns to Scale Comparison (Algo Trading)"
+title: "Diminishing Marginal Returns and Returns to Scale Comparison"
 description: "Explore how economic theories of diminishing marginal returns and returns to scale impact algorithmic trading strategies and market dynamics."
 ---
 

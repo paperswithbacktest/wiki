@@ -1,5 +1,5 @@
 ---
-title: "Implied Contract Terms and Their Formation (Algo Trading)"
+title: "Implied Contract Terms and Their Formation"
 description: "Explore the role of implied contract terms in algorithmic trading, emphasizing the necessity for clear formation and understanding to ensure legal compliance and prevent disputes."
 ---
 

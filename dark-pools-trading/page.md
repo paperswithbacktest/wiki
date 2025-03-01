@@ -1,5 +1,5 @@
 ---
-title: "Dark Pools Trading Explained (Algo Trading)"
+title: "Dark Pools Trading Explained"
 description: Explore the dynamics of dark pools and their role in algorithmic trading as these private exchanges enable large trades with minimal market impact attracting institutional investors while raising transparency concerns. Understand the balance between advantages like improved price execution and challenges such as data opacity in the evolving landscape of financial markets.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Law of Supply: Curve, Types, and Examples (Algo Trading)"
+title: "Law of Supply: Curve, Types, and Examples"
 description: "Explore the law of supply including types and examples in algorithmic trading Learn how supply curves and market dynamics impact economic strategies"
 ---
 

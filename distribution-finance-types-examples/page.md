@@ -1,5 +1,5 @@
 ---
-title: "Distribution in Finance: Types and Examples (Algo Trading)"
+title: "Distribution in Finance: Types and Examples"
 description: "Understanding distributions is crucial in finance for risk management and strategy development. This article explores their role in algorithmic trading."
 ---
 

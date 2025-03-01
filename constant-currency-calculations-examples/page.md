@@ -1,5 +1,5 @@
 ---
-title: "Constant Currency Calculations and Examples (Algo Trading)"
+title: "Constant Currency Calculations and Examples"
 description: "Explore constant currency analysis and algorithmic trading to manage currency fluctuations in global finance Optimize financial outcomes with advanced tools and strategies"
 ---
 

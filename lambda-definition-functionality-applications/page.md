@@ -1,5 +1,5 @@
 ---
-title: "Lambda: Definition, Functionality, and Applications (Algo Trading)"
+title: "Lambda: Definition, Functionality, and Applications"
 description: "Discover the transformative potential of Lambda technology in algorithmic trading. Learn how this pivotal innovation enhances trading strategies through automated decision-making and real-time data processing. Explore its applications, including seamless integration and event-driven execution, which offer cost efficiency and scalability for traders seeking to optimize their trading operations."
 ---
 

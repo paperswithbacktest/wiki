@@ -1,5 +1,5 @@
 ---
-title: "Mark-to-Market Accounting and Historical Cost Accounting (Algo Trading)"
+title: "Mark-to-Market Accounting and Historical Cost Accounting"
 description: "Explore the dynamic roles of historical cost and mark-to-market accounting in algorithmic trading uncovering how each method influences financial reporting and decision-making."
 ---
 

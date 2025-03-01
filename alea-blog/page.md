@@ -1,5 +1,5 @@
 ---
-title: "Alea Blog (Algo Trading)"
+title: "Alea Blog"
 description: Explore the Alea Blog to enhance your algorithmic trading strategies with comprehensive content for traders at all levels. Dive into guides on trading algorithms, backtesting, and programming with Python. Advanced traders can explore complex models like statistical arbitrage and machine learning applications. Stay informed with in-depth market analysis and predictions while engaging with a vibrant community of traders for valuable insights and collaboration opportunities. The Alea Blog is your essential resource for navigating the dynamic world of algorithmic trading, fostering informed decision-making and professional growth.
 ---
 

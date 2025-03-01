@@ -1,5 +1,5 @@
 ---
-title: "Aging in Accounting: Uses and Report Examples (Algo Trading)"
+title: "Aging in Accounting: Uses and Report Examples"
 description: "Explore how accounts receivable aging in accounting enhances financial management and informs algorithmic trading. Discover methodologies and report examples."
 ---
 

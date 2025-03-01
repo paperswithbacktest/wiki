@@ -1,5 +1,5 @@
 ---
-title: "Asia-Pacific Economic Cooperation: Overview and History (Algo Trading)"
+title: "Asia-Pacific Economic Cooperation: Overview and History"
 description: "Explore the dynamic interplay between APEC economic policies and the rise of algorithmic trading shaping the Asia-Pacific region's financial landscape."
 ---
 

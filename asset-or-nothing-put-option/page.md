@@ -1,5 +1,5 @@
 ---
-title: "Asset-or-Nothing Put Option (Algo Trading)"
+title: "Asset-or-Nothing Put Option"
 description: "Explore the synergy of asset-or-nothing put options and algorithmic trading to manage risk and capitalize on financial market trends with precision and efficiency."
 ---
 

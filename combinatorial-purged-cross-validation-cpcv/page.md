@@ -1,5 +1,5 @@
 ---
-title: "Combinatorial purged cross-validation (CPCV) (Algo Trading)"
+title: "Combinatorial purged cross-validation (CPCV)"
 description: Combinatorial Purged Cross-Validation (CPCV) revolutionizes model validation in algorithmic trading by effectively handling the time-dependent nature of financial data. Traditional cross-validation methods fall short, often leading to data leakage and overfitting. CPCV addresses these issues through a rigorous framework that purges overlapping data, enhancing model reliability and alignment with real-world trading conditions. This method provides quantitative analysts and traders with vital insights for building more robust models, ensuring accurate performance assessments and informed decision-making in the dynamic financial market environment.
 ---
 

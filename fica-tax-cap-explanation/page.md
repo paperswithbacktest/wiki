@@ -1,5 +1,5 @@
 ---
-title: "FICA Tax Cap Explanation (Algo Trading)"
+title: "FICA Tax Cap Explanation"
 description: "Explore the complexities of FICA tax caps and algorithmic trading, their impact on social security contributions, and implications for economic stability."
 ---
 

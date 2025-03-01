@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Impact Investing and Venture Philanthropy (Algo Trading)"
+title: "Comparison of Impact Investing and Venture Philanthropy"
 description: "Discover the differences between impact investing and venture philanthropy and how these strategies prioritize both financial returns and societal impact."
 ---
 

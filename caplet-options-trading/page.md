@@ -1,5 +1,5 @@
 ---
-title: "Caplet in Options Trading (Algo Trading)"
+title: "Caplet in Options Trading"
 description: "Caplet options in trading are valuable tools for managing risks linked to rising interest rates, enhanced by algorithmic strategies for optimized execution."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Hong Kong Stock Exchange (Algo Trading)"
+title: "Hong Kong Stock Exchange"
 description: "Explore the role of algorithmic trading at the Hong Kong Stock Exchange which connects global investors to China's markets through advanced tech and diverse offerings."
 ---
 

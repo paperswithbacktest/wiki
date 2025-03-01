@@ -1,5 +1,5 @@
 ---
-title: "Box Spread: Uses and Risks (Algo Trading)"
+title: "Box Spread: Uses and Risks"
 description: "Explore the intricacies of box spread options trading strategy and its role in arbitrage and risk management enhanced by algorithmic trading for optimal execution."
 ---
 

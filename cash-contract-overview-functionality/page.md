@@ -1,5 +1,5 @@
 ---
-title: "Cash Contract: Overview and Functionality (Algo Trading)"
+title: "Cash Contract: Overview and Functionality"
 description: "Discover the essentials of cash contracts and algo trading in finance. Learn how these agreements impact market efficiency and industry supply chains."
 ---
 

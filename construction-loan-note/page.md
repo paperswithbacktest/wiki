@@ -1,5 +1,5 @@
 ---
-title: "Construction Loan Note (Algo Trading)"
+title: "Construction Loan Note"
 description: "Explore the synergy between construction loan notes and algorithmic trading to optimize financing strategies and enhance project management efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Currency Appreciation (Algo Trading)"
+title: "Currency Appreciation"
 description: "Discover how currency appreciation, foreign exchange rates, and monetary policies shape global financial markets. Gain insights into how economic indicators and central bank actions impact currency values and trading strategies, and explore the role of algorithmic trading in optimizing forex market dynamics."
 ---
 

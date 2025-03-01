@@ -1,5 +1,5 @@
 ---
-title: "Ciamac Moallemi (Algo Trading)"
+title: "Ciamac Moallemi"
 description: "Ciamac Moallemi is a prominent expert in algorithmic trading known for his contributions to financial technologies and academia with notable industry impact."
 ---
 

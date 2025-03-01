@@ -1,5 +1,5 @@
 ---
-title: "Equity Accounting Method and Investor Influence (Algo Trading)"
+title: "Equity Accounting Method and Investor Influence"
 description: "Delve into the impact of equity accounting and investor influence on trading strategies Discover how algorithmic trading optimizes investment and financial success"
 ---
 

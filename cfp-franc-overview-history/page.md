@@ -1,5 +1,5 @@
 ---
-title: "CFP Franc: Overview and History (Algo Trading)"
+title: "CFP Franc: Overview and History"
 description: "Discover the significance of the CFP Franc in finance and its role in algorithmic trading. Explore strategies to effectively engage with XPF currency."
 ---
 

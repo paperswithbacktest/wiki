@@ -1,5 +1,5 @@
 ---
-title: "Discount Margin and Its Application and Calculation (Algo Trading)"
+title: "Discount Margin and Its Application and Calculation"
 description: "Understand discount margin and its pivotal role in the financial markets. Learn how to calculate DM, its impact on bond pricing, and make informed investment decisions."
 ---
 

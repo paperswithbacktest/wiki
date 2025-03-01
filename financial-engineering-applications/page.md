@@ -1,5 +1,5 @@
 ---
-title: "Financial Engineering and Its Applications (Algo Trading)"
+title: "Financial Engineering and Its Applications"
 description: "Explore the intricacies of financial engineering and algorithmic trading. Learn how they optimize wealth, minimize risks, and shape modern financial markets."
 ---
 

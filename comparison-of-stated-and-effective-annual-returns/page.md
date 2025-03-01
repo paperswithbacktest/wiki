@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Stated and Effective Annual Returns (Algo Trading)"
+title: "Comparison of Stated and Effective Annual Returns"
 description: "Explore key financial metrics in trading by understanding the distinctions between effective, annual, and stated returns. Uncover their impact on algorithmic strategies."
 ---
 

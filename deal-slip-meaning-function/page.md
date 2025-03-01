@@ -1,5 +1,5 @@
 ---
-title: "Deal Slip: Meaning and Function (Algo Trading)"
+title: "Deal Slip: Meaning and Function"
 description: "Discover the vital role of deal slips in forex and algorithmic trading ensuring accurate transaction records for transparency compliance and strategy refinement."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Currency Trading During Market Closures (Algo Trading)"
+title: "Currency Trading During Market Closures"
 description: "Discover the intricacies of forex trading during market closures and the role of algorithmic trading in optimizing strategies and mitigating risks."
 ---
 

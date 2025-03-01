@@ -1,5 +1,5 @@
 ---
-title: "Diseconomies of Scale: Causes and Types (Algo Trading)"
+title: "Diseconomies of Scale: Causes and Types"
 description: "Explore the causes and types of diseconomies of scale in algorithmic trading and business. Learn strategies to overcome inefficiencies and optimize growth."
 ---
 

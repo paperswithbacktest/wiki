@@ -1,5 +1,5 @@
 ---
-title: "Impact of Transfer Pricing on Managerial Accounting (Algo Trading)"
+title: "Impact of Transfer Pricing on Managerial Accounting"
 description: "Explore the intricate relationship between transfer pricing, managerial accounting, and algorithmic trading to drive financial performance and regulatory compliance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Formation of a Homeowners' Association (Algo Trading)"
+title: "Formation of a Homeowners' Association"
 description: "Discover how Homeowners' Associations leverage community management and algo trading technologies to maintain property values and foster thriving communities."
 ---
 

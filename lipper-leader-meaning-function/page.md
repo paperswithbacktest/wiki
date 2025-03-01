@@ -1,5 +1,5 @@
 ---
-title: "Lipper Leader: Meaning and Function (Algo Trading)"
+title: "Lipper Leader: Meaning and Function"
 description: "Explore how Lipper Leader financial ratings and algorithmic trading enhance investment strategies by efficiently assessing mutual funds and optimizing trading decisions."
 ---
 

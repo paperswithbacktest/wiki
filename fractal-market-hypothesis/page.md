@@ -1,5 +1,5 @@
 ---
-title: "Fractal market hypothesis (Algo Trading)"
+title: "Fractal market hypothesis"
 description: "Explore the Fractal Market Hypothesis in algorithmic trading to enhance market prediction and risk management using fractal models for financial analysis."
 ---
 

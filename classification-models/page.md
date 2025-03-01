@@ -1,5 +1,5 @@
 ---
-title: "Classification models (Algo Trading)"
+title: "Classification models"
 description: Discover how classification models are transforming algorithmic trading by leveraging machine learning for precise market predictions. Explore popular models like Logistic Regression, SVM, and Random Forests to understand their impact on trading strategies and real-world applications. Learn about data preparation, model training, and optimization to enhance decision-making in dynamic financial markets.
 ---
 

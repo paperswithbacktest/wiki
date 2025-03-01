@@ -1,5 +1,5 @@
 ---
-title: "Corporate Profit: Explanation and Function (Algo Trading)"
+title: "Corporate Profit: Explanation and Function"
 description: "Explore the synergy between corporate profits and algorithmic trading in today's business landscape. Gain insights into maximizing profit and navigating dynamic markets."
 ---
 

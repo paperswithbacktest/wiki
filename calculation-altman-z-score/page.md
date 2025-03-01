@@ -1,5 +1,5 @@
 ---
-title: "Calculation of the Altman Z-Score (Algo Trading)"
+title: "Calculation of the Altman Z-Score"
 description: "Calculate the Altman Z-Score to predict bankruptcy risk with ease Integrating vital financial ratios it helps investors make informed decisions"
 ---
 

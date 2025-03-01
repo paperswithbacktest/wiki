@@ -1,5 +1,5 @@
 ---
-title: "Asset-Backed Commercial Paper Money Market Fund (Algo Trading)"
+title: "Asset-Backed Commercial Paper Money Market Fund"
 description: "Explore the evolution of the Asset-Backed Commercial Paper Fund Liquidity Facility and its impact on money markets and algorithmic trading."
 ---
 

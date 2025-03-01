@@ -1,5 +1,5 @@
 ---
-title: "Earnings Guidance and Predictive Accuracy (Algo Trading)"
+title: "Earnings Guidance and Predictive Accuracy"
 description: "Explore the impact of earnings guidance on financial markets and its role in algorithmic trading. Understand predictive accuracy, market dynamics, and investor strategies."
 ---
 

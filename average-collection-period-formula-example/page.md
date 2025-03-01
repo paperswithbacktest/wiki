@@ -1,5 +1,5 @@
 ---
-title: "Average Collection Period: Formula and Example (Algo Trading)"
+title: "Average Collection Period: Formula and Example"
 description: "Discover how the average collection period formula aids firms in assessing payment collection efficiency and optimizing financial strategies with algo trading."
 ---
 

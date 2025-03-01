@@ -1,5 +1,5 @@
 ---
-title: "Blocked Account in Finance and Trade (Algo Trading)"
+title: "Blocked Account in Finance and Trade"
 description: "Explore the complexities of finance restrictions trade limitations and blocked accounts in the financial world where regulatory measures ensure market integrity and stability. Understand how algorithmic trading and various account restrictions maintain compliance with legal standards safeguarding against market manipulation and illicit activities while balancing economic growth and security."
 ---
 

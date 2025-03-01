@@ -1,5 +1,5 @@
 ---
-title: "Major Shareholders of eBay (Algo Trading)"
+title: "Major Shareholders of eBay"
 description: "Explore the dynamics between eBay's major shareholders and algorithmic trading's impact on its stock performance in this insightful analysis for investors."
 ---
 

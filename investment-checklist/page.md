@@ -1,5 +1,5 @@
 ---
-title: "Investment Checklist Explained (Algo Trading)"
+title: "Investment Checklist Explained"
 description: Discover the essential components of an investment checklist for successful algorithmic trading. Learn how these checklists enhance decision-making by systematically organizing each trading strategy element. Gain insights into defining your trading strategy choosing financial instruments and selecting reliable software and platforms to execute efficient trades. This thorough guide highlights the importance of structured checklists in minimizing errors maximizing returns and maintaining disciplined trading practices in the fast-paced world of algo trading.
 ---
 

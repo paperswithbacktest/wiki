@@ -1,5 +1,5 @@
 ---
-title: "Grey Market (Algo Trading)"
+title: "Grey Market"
 description: "Explore the complexities of grey markets and parallel imports in global trade with a focus on the role of algorithmic trading. Understand the implications for intellectual property rights consumer protection and the challenges businesses face in navigating these unofficial market channels while optimizing legal and ethical considerations."
 ---
 

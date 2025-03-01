@@ -1,5 +1,5 @@
 ---
-title: "Binance Coin: Uses, Support, and Market Capitalization (Algo Trading)"
+title: "Binance Coin: Uses, Support, and Market Capitalization"
 description: "Explore Binance Coin's uses in algorithmic trading, its market capitalization, and its support within the Binance ecosystem for optimized crypto strategies."
 ---
 

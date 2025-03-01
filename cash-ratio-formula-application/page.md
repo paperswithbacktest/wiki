@@ -1,5 +1,5 @@
 ---
-title: "Cash Ratio Formula and Application (Algo Trading)"
+title: "Cash Ratio Formula and Application"
 description: "Discover how the cash ratio formula helps algorithmic traders assess company stability and manage risks by evaluating liquidity and financial health."
 ---
 

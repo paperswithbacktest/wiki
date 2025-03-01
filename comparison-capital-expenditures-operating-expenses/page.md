@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Capital Expenditures and Operating Expenses (Algo Trading)"
+title: "Comparison of Capital Expenditures and Operating Expenses"
 description: "Discover the impact of CAPEX and OPEX on algorithmic trading Learn to optimize financial strategies for improved efficiency and sustainable growth."
 ---
 

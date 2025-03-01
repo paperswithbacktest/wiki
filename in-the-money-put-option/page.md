@@ -1,5 +1,5 @@
 ---
-title: "In the Money Put Option (Algo Trading)"
+title: "In the Money Put Option"
 description: "Discover how algorithmic trading enhances the management of in the money put options, optimizing strategies for hedging and speculating on market downturns."
 ---
 

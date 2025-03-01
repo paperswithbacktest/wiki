@@ -1,5 +1,5 @@
 ---
-title: "Exchange (Concept) (Algo Trading)"
+title: "Exchange (Concept)"
 description: "Explore the ever-evolving world of algorithmic trading in currency markets Learn about its advantages challenges and future trends in automated trading"
 ---
 

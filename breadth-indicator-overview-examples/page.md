@@ -1,5 +1,5 @@
 ---
-title: "Breadth Indicator: Overview and Examples (Algo Trading)"
+title: "Breadth Indicator: Overview and Examples"
 description: "Explore the role of breadth indicators in algorithmic trading to understand market sentiment and dynamics. Learn how these tools can enhance trading strategies."
 ---
 

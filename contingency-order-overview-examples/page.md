@@ -1,5 +1,5 @@
 ---
-title: "Contingency Order: Overview and Examples (Algo Trading)"
+title: "Contingency Order: Overview and Examples"
 description: "Discover the power of contingency orders and algorithmic trading in financial markets Enhance your strategies with automated precision and effective risk management"
 ---
 

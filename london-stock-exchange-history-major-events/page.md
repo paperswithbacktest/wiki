@@ -1,5 +1,5 @@
 ---
-title: "London Stock Exchange: History and Major Events (Algo Trading)"
+title: "London Stock Exchange: History and Major Events"
 description: "Explore the rich history of the London Stock Exchange and its key events including the rise of algorithmic trading that transformed global finance dynamics."
 ---
 

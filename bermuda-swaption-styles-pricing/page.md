@@ -1,5 +1,5 @@
 ---
-title: "Bermuda Swaption: Styles and Pricing (Algo Trading)"
+title: "Bermuda Swaption: Styles and Pricing"
 description: "Explore the unique features and complex pricing of Bermuda swaptions Used in algorithmic trading these derivatives offer flexibility in interest rate management"
 ---
 

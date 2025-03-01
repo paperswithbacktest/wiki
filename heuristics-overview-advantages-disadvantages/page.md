@@ -1,5 +1,5 @@
 ---
-title: "Heuristics: Overview, Advantages, and Disadvantages (Algo Trading)"
+title: "Heuristics: Overview, Advantages, and Disadvantages"
 description: "Explore the intersection of heuristics and algorithmic trading in financial markets, unveiling advantages, potential biases, and the fusion of cognitive insights with tech."
 ---
 

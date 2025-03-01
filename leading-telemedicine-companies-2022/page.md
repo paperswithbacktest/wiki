@@ -1,5 +1,5 @@
 ---
-title: "Leading Telemedicine Companies of 2022 (Algo Trading)"
+title: "Leading Telemedicine Companies of 2022"
 description: "Explore the synergy between telemedicine and algorithmic trading in 2022 as leading companies like Teladoc and Amwell revolutionize healthcare access and investments."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Acidizing Techniques and Applications (Algo Trading)"
+title: "Acidizing Techniques and Applications"
 description: "Explore the synergy between oil well acidizing techniques and algorithmic trading insights in the energy sector aiming to enhance hydrocarbon recovery efficiency."
 ---
 

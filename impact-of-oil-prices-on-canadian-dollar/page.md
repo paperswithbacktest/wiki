@@ -1,5 +1,5 @@
 ---
-title: "Impact of Oil Prices on the Canadian Dollar (Algo Trading)"
+title: "Impact of Oil Prices on the Canadian Dollar"
 description: "Discover how oil prices influence the Canadian dollar and how algorithmic trading leverages this dynamic to offer actionable opportunities in currency markets."
 ---
 

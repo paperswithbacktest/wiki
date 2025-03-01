@@ -1,5 +1,5 @@
 ---
-title: "Market Maker Role in Financial Markets (Algo Trading)"
+title: "Market Maker Role in Financial Markets"
 description: "Explore the pivotal role of market makers in financial markets and how algorithmic trading has enhanced liquidity efficiency and stability in asset trading."
 ---
 

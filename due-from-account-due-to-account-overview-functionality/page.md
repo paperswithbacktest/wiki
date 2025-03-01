@@ -1,5 +1,5 @@
 ---
-title: "Due From Account and Due To Account: Overview and Functionality (Algo Trading)"
+title: "Due From Account and Due To Account: Overview and Functionality"
 description: "Explore the crucial roles of due from and due to accounts in finance and algo trading ensuring precision in financial management for better liquidity and compliance."
 ---
 

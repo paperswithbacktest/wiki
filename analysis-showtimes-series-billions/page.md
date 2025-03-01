@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Showtime's Series Billions (Algo Trading)"
+title: "Analysis of Showtime's Series Billions"
 description: "Explore Showtime's series Billions through the lens of algorithmic trading highlighting its role in modern finance and how it captivates viewers with dramatic intrigue."
 ---
 

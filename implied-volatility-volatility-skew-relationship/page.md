@@ -1,5 +1,5 @@
 ---
-title: "Implied Volatility and Volatility Skew Relationship (Algo Trading)"
+title: "Implied Volatility and Volatility Skew Relationship"
 description: "Explore the intricate relationship between implied volatility and volatility skew in options trading with insights into their implications for algorithmic trading strategies."
 ---
 

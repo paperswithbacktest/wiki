@@ -1,5 +1,5 @@
 ---
-title: "Echo Bubbles: Significance and Mechanism (Algo Trading)"
+title: "Echo Bubbles: Significance and Mechanism"
 description: "Explore the dynamics of echo bubbles in financial markets focusing on their formation and impact alongside the role of algorithmic trading in bubble dynamics."
 ---
 

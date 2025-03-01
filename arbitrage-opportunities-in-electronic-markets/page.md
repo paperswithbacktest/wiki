@@ -1,5 +1,5 @@
 ---
-title: "Arbitrage Opportunities in Electronic Markets (Algo Trading)"
+title: "Arbitrage Opportunities in Electronic Markets"
 description: "Discover the world of arbitrage trading in electronic markets with strategies that leverage algorithmic techniques for identifying and exploiting price discrepancies."
 ---
 

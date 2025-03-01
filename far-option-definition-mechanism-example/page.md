@@ -1,5 +1,5 @@
 ---
-title: "Far Option: Definition, Mechanism, and Example (Algo Trading)"
+title: "Far Option: Definition, Mechanism, and Example"
 description: "Explore the integration of far options in algorithmic trading to enhance strategy flexibility and optimize returns through calendar spreads and automated systems."
 ---
 

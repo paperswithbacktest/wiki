@@ -1,5 +1,5 @@
 ---
-title: "Long-Short Ratio: Interpretation and Application (Algo Trading)"
+title: "Long-Short Ratio: Interpretation and Application"
 description: "Explore the dynamics of the long-short ratio in algorithmic trading Learn how this strategy balances investments and hedges risks effectively in volatile markets"
 ---
 

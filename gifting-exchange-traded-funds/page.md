@@ -1,5 +1,5 @@
 ---
-title: "Gifting Exchange-Traded Funds (Algo Trading)"
+title: "Gifting Exchange-Traded Funds"
 description: "Gifting exchange-traded funds combines strategic investment with educational value allowing recipients to engage in financial markets boost diversification and foster growth."
 ---
 

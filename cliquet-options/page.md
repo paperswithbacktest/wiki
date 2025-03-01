@@ -1,5 +1,5 @@
 ---
-title: "Cliquet Options (Algo Trading)"
+title: "Cliquet Options"
 description: "Explore the world of finance with our guide on investment options and algorithmic trading Learn how tech is revolutionizing trading with precision and speed"
 ---
 

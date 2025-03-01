@@ -1,5 +1,5 @@
 ---
-title: "Factors Contributing to Healthcare Costs in the United States (Algo Trading)"
+title: "Factors Contributing to Healthcare Costs in the United States"
 description: "Explore the complex factors driving high healthcare costs in the U.S., including rising drug prices, higher salaries, and the impact of algorithmic trading."
 ---
 

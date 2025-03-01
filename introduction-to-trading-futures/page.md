@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Trading Futures (Algo Trading)"
+title: "Introduction to Trading Futures"
 description: "Discover the intricacies of futures trading with a focus on algorithmic strategies in financial markets to enhance precision speed and trading effectiveness."
 ---
 

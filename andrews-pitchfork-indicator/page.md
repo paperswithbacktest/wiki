@@ -1,5 +1,5 @@
 ---
-title: "Andrew's Pitchfork Indicator (Algo Trading)"
+title: "Andrew's Pitchfork Indicator"
 description: "Explore the Andrews Pitchfork indicator to enhance your trading strategy by identifying trends and reversals with its unique three-line system for better market insights."
 ---
 

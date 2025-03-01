@@ -1,5 +1,5 @@
 ---
-title: "Frequency Of Capital Gains Distributions By Mutual Funds (Algo Trading)"
+title: "Frequency Of Capital Gains Distributions By Mutual Funds"
 description: "Explore how mutual fund capital gains distributions influence your investment strategy and discover the role of algorithmic trading in optimizing these gains."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Forward Start Options: Overview and Examples (Algo Trading)"
+title: "Forward Start Options: Overview and Examples"
 description: "Forward start options offer strategic flexibility for anticipating market shifts by setting terms at a future date ideal for algorithmic trading and risk management exploration."
 ---
 

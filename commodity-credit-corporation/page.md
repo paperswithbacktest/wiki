@@ -1,5 +1,5 @@
 ---
-title: "Commodity Credit Corporation (Algo Trading)"
+title: "Commodity Credit Corporation"
 description: "Explore the impact of the Commodity Credit Corporation on agriculture through financial aid and algorithmic trading, fostering market stability and innovation."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Edgeworth Price Cycle: Concept, Stages, and Historical Context (Algo Trading)"
+title: "Edgeworth Price Cycle: Concept, Stages, and Historical Context"
 description: "Explore the Edgeworth Price Cycle, its stages, and historical significance. Learn how cyclical pricing impacts commodities and unfolds in competitive markets."
 ---
 

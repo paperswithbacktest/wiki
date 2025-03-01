@@ -1,5 +1,5 @@
 ---
-title: "Bear Market Adaptation Strategies (Algo Trading)"
+title: "Bear Market Adaptation Strategies"
 description: "Discover bear market adaptation strategies focusing on algorithmic trading to optimize investment approaches during economic downturns and seize growth opportunities."
 ---
 

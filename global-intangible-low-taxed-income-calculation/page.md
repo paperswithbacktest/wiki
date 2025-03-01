@@ -1,5 +1,5 @@
 ---
-title: "Global Intangible Low-Taxed Income Calculation (Algo Trading)"
+title: "Global Intangible Low-Taxed Income Calculation"
 description: "Explore the intricacies of Global Intangible Low-Taxed Income (GILTI) and its impact on U.S. corporations and algorithmic trading, ensuring compliance and tax optimization."
 ---
 

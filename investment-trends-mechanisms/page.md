@@ -1,5 +1,5 @@
 ---
-title: "Investment Trends and Mechanisms (Algo Trading)"
+title: "Investment Trends and Mechanisms"
 description: "Explore the latest trends and mechanisms in investing with insights into algorithmic trading and the financial fads shaping the market for better decision-making."
 ---
 

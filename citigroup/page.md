@@ -1,5 +1,5 @@
 ---
-title: "Citigroup (Algo Trading)"
+title: "Citigroup"
 description: "Explore how Citigroup leverages algorithmic trading to enhance financial efficiency and investment strategies by automating processes and reducing costs."
 ---
 

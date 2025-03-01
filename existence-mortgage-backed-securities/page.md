@@ -1,5 +1,5 @@
 ---
-title: "Existence of Mortgage-Backed Securities (Algo Trading)"
+title: "Existence of Mortgage-Backed Securities"
 description: "Explore the impact and significance of mortgage-backed securities (MBS) in the financial market and how algorithmic trading is transforming their trading dynamics."
 ---
 

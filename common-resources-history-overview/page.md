@@ -1,5 +1,5 @@
 ---
-title: "Common Resources: History and Overview (Algo Trading)"
+title: "Common Resources: History and Overview"
 description: "Explore the evolution of resource management from economic theories and communal strategies to the rise of algorithmic trading and its modern implications."
 ---
 

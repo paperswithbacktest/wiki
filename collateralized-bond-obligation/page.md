@@ -1,5 +1,5 @@
 ---
-title: "Collateralized Bond Obligation (Algo Trading)"
+title: "Collateralized Bond Obligation"
 description: "Explore the role of bond securitization CBOs and algorithmic trading in modern investment strategies and their impact on global financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Binary Options Trading in the United States (Algo Trading)"
+title: "Binary Options Trading in the United States"
 description: "Explore how algorithmic trading is transforming binary options in the US Discover strategies, benefits and challenges of integrating algorithms in this dynamic market"
 ---
 

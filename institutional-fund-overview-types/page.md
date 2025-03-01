@@ -1,5 +1,5 @@
 ---
-title: "Institutional Fund: Overview and Types (Algo Trading)"
+title: "Institutional Fund: Overview and Types"
 description: "Explore institutional funds and algorithmic trading to understand how these powerful financial tools enhance investment strategies and market operations for large investors."
 ---
 

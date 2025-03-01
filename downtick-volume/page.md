@@ -1,5 +1,5 @@
 ---
-title: "Downtick Volume (Algo Trading)"
+title: "Downtick Volume"
 description: "Explore the importance of downtick volume in stock trading to understand market trends selling pressure and its integration in algorithmic trading strategies."
 ---
 

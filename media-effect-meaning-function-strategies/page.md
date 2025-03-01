@@ -1,5 +1,5 @@
 ---
-title: "Media Effect: Meaning, Function, and Strategies (Algo Trading)"
+title: "Media Effect: Meaning, Function, and Strategies"
 description: "Explore how media influences algorithmic trading and discover strategies for traders to leverage media insights for competitive advantage in volatile markets."
 ---
 

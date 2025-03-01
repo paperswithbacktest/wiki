@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligence Trading Strategies Explained (Algo Trading)"
+title: "Artificial Intelligence Trading Strategies Explained"
 description: Explore how artificial intelligence revolutionizes algorithmic trading with advanced data analysis and high-frequency trading capabilities. Discover AI algorithms' role in enhancing precision and efficiency, transforming trading strategies, and shaping the future of financial markets.
 ---
 

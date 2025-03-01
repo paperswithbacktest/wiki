@@ -1,5 +1,5 @@
 ---
-title: "Crown Corporation: Overview and Types (Algo Trading)"
+title: "Crown Corporation: Overview and Types"
 description: "Explore the critical role and diverse functions of Crown corporations in the economy including governance, public services, and the rise of algorithmic trading."
 ---
 

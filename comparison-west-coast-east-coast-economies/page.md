@@ -1,5 +1,5 @@
 ---
-title: "Comparison of the West Coast and East Coast Economies (Algo Trading)"
+title: "Comparison of the West Coast and East Coast Economies"
 description: "Explore the economic strengths of the East and West Coasts of the U.S. Financial hubs meet tech innovation with algo trading reshaping regional dynamics."
 ---
 

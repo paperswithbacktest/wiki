@@ -1,5 +1,5 @@
 ---
-title: "Fast Market: Definition and Functionality (Algo Trading)"
+title: "Fast Market: Definition and Functionality"
 description: "Explore the dynamics of fast markets and algorithmic trading essential for thriving in today's volatile financial landscapes with rapid price changes and complex market interactions."
 ---
 

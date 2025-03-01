@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning for Market Forecasting (Algo Trading)"
+title: "Machine Learning for Market Forecasting"
 description: "Unlock the power of machine learning in market forecasting and algo trading to predict market movements and optimize trading strategies for maximum returns."
 ---
 

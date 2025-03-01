@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Hedge Funds and Private Equity Funds (Algo Trading)"
+title: "Comparison of Hedge Funds and Private Equity Funds"
 description: "Explore the differences between hedge funds and private equity funds with a focus on strategy, time horizon, and liquidity, enhanced by algorithmic trading."
 ---
 

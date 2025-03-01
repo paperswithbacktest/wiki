@@ -1,5 +1,5 @@
 ---
-title: "Conscious Capitalism: Principles and Examples (Algo Trading)"
+title: "Conscious Capitalism: Principles and Examples"
 description: "Explore how sustainable business practices and conscious capitalism intersect with algorithmic trading to create a more equitable and sustainable corporate landscape."
 ---
 

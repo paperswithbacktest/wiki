@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Relative Strength Index and Commodity Channel Index (Algo Trading)"
+title: "Comparison of Relative Strength Index and Commodity Channel Index"
 description: "Explore how Commodity Channel Index and Relative Strength Index aid in algorithmic trading with insights into their roles, benefits, and practical applications."
 ---
 

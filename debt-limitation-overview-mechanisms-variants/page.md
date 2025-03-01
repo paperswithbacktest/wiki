@@ -1,5 +1,5 @@
 ---
-title: "Debt Limitation: Overview, Mechanisms, and Variants (Algo Trading)"
+title: "Debt Limitation: Overview, Mechanisms, and Variants"
 description: "Explore the essential role of debt limitation regulations, their integration in algorithmic trading, and their impact on financial stability and informed trading decisions."
 ---
 

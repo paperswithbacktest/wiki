@@ -1,5 +1,5 @@
 ---
-title: "Industries With Highest Lobbying Expenditures (Algo Trading)"
+title: "Industries With Highest Lobbying Expenditures"
 description: "Discover which industries spend the most on lobbying in the U.S. Explore the financial sector's efforts to shape policy in algorithmic trading and other key areas."
 ---
 

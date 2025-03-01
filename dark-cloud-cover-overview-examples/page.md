@@ -1,5 +1,5 @@
 ---
-title: "Dark Cloud Cover: Overview and Examples (Algo Trading)"
+title: "Dark Cloud Cover: Overview and Examples"
 description: "Explore the Dark Cloud Cover candlestick pattern a key bearish reversal signal in technical analysis Learn how it informs trading decisions and market sentiment shifts"
 ---
 

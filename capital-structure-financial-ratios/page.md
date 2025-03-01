@@ -1,5 +1,5 @@
 ---
-title: "Capital Structure Financial Ratios (Algo Trading)"
+title: "Capital Structure Financial Ratios"
 description: "Explore how financial ratios are crucial for assessing a company's financial health, with a focus on capital structure and their role in enhancing algorithmic trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin in Forex Trading (Algo Trading)"
+title: "Bitcoin in Forex Trading"
 description: "Explore the dynamic world of Bitcoin in forex trading and algo trading a fusion of cryptocurrencies and automated strategies redefining modern finance opportunities."
 ---
 

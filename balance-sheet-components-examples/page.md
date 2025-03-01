@@ -1,5 +1,5 @@
 ---
-title: "Balance Sheet: Components and Examples (Algo Trading)"
+title: "Balance Sheet: Components and Examples"
 description: "Discover the vital role of balance sheets in financial health assessment and how their integration into algorithmic trading can optimize investment strategies."
 ---
 

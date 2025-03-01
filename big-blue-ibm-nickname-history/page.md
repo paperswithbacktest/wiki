@@ -1,5 +1,5 @@
 ---
-title: "Big Blue: IBM Nickname and History (Algo Trading)"
+title: "Big Blue: IBM Nickname and History"
 description: "Discover IBM's impact on technology and its role in financial markets. Explore the history of 'Big Blue' and its influence in algorithmic trading."
 ---
 

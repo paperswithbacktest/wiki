@@ -1,5 +1,5 @@
 ---
-title: "Dorman Trading, Inc. (Algo Trading)"
+title: "Dorman Trading, Inc."
 description: "Explore Dorman Trading's advanced algorithmic trading solutions, robust infrastructure, and innovative technology offerings designed to serve diverse trading needs."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Complexities of Cash Flow Accounting Using the Direct Method (Algo Trading)"
+title: "Complexities of Cash Flow Accounting Using the Direct Method"
 description: "Explore the complexities of cash flow accounting using the direct method in algorithmic trading for improved transparency in financial operations and liquidity management."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Financial Leverage in Corporate Capital Structure (Algo Trading)"
+title: "Financial Leverage in Corporate Capital Structure"
 description: "Explore the impact of financial leverage in corporate capital structures and the role of algorithmic trading in optimizing risk-return profiles for strategic growth."
 ---
 

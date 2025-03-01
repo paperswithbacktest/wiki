@@ -1,5 +1,5 @@
 ---
-title: "Acceptance of Short Sales in Initial Public Offerings (Algo Trading)"
+title: "Acceptance of Short Sales in Initial Public Offerings"
 description: "Explore the complexities of short sales in IPOs and the role of algorithmic trading Learn how these elements impact market liquidity and investor strategies"
 ---
 

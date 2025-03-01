@@ -1,5 +1,5 @@
 ---
-title: "Factors Influencing Gasoline Prices (Algo Trading)"
+title: "Factors Influencing Gasoline Prices"
 description: "Explore the key factors influencing gasoline prices, including supply-demand dynamics, refining costs, taxes, and the role of algorithmic trading in shaping trends."
 ---
 

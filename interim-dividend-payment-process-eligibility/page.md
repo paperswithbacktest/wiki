@@ -1,5 +1,5 @@
 ---
-title: "Interim Dividend: Payment Process and Eligibility (Algo Trading)"
+title: "Interim Dividend: Payment Process and Eligibility"
 description: "Explore the connection between interim dividends and algorithmic trading in this insightful guide. Learn about dividend payouts and smart investment strategies."
 ---
 

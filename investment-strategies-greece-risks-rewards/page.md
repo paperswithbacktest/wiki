@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategies in Greece: Risks and Rewards (Algo Trading)"
+title: "Investment Strategies in Greece: Risks and Rewards"
 description: "Explore the high-risk, high-reward potential of investing in Greece's recovering market through algorithmic trading Evaluate opportunities amidst economic volatility"
 ---
 

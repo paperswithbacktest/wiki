@@ -1,5 +1,5 @@
 ---
-title: "Importance of Financial Statements for Shareholders (Algo Trading)"
+title: "Importance of Financial Statements for Shareholders"
 description: "Explore the vital role financial statements play for shareholders in algorithmic trading understand how these insights drive informed investment decisions and market strategies"
 ---
 

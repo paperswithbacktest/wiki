@@ -1,5 +1,5 @@
 ---
-title: "Macro Accounting: Overview and Functionality (Algo Trading)"
+title: "Macro Accounting: Overview and Functionality"
 description: "Explore the interplay of macro accounting and algorithmic trading, uncover how they drive financial strategies, and gain insights into economic indicators."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Debt Ratios of Walmart Inc. (Algo Trading)"
+title: "Debt Ratios of Walmart Inc."
 description: "Analyze Walmart Inc.'s debt ratios to understand its financial health. Gain insights into its leverage, risk exposure, and strategic financial practices."
 ---
 

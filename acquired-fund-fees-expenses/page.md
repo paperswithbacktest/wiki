@@ -1,5 +1,5 @@
 ---
-title: "Acquired Fund Fees and Expenses (Algo Trading)"
+title: "Acquired Fund Fees and Expenses"
 description: "Explore Acquired Fund Fees and Expenses (AFFE) in multi-manager investments and algorithmic trading to understand their impact on cost efficiency and investment decisions."
 ---
 

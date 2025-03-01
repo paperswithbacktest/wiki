@@ -1,5 +1,5 @@
 ---
-title: "Impact of U.S. Dollar Depreciation on American Businesses (Algo Trading)"
+title: "Impact of U.S. Dollar Depreciation on American Businesses"
 description: "Explore how US dollar depreciation impacts American businesses particularly those in global trade Learn about algorithmic trading as a strategic response to currency fluctuations"
 ---
 

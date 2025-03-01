@@ -1,5 +1,5 @@
 ---
-title: "Durable Goods Orders: Overview and Considerations (Algo Trading)"
+title: "Durable Goods Orders: Overview and Considerations"
 description: "Explore the significance of Durable Goods Orders in economic analysis and algo trading These reports provide insights into manufacturing trends and economic forecasting"
 ---
 

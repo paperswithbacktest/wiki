@@ -1,5 +1,5 @@
 ---
-title: "Impact of Dividends on Balance Sheets (Algo Trading)"
+title: "Impact of Dividends on Balance Sheets"
 description: "Explore the impact of dividends on balance sheets and algorithmic trading. Learn how dividend payments reflect financial health and influence trading decisions."
 ---
 

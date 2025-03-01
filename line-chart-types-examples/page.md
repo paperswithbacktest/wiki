@@ -1,5 +1,5 @@
 ---
-title: "Line Chart: Types and Examples (Algo Trading)"
+title: "Line Chart: Types and Examples"
 description: "Explore how line charts enhance algorithmic trading by clarifying trends and patterns. Discover their simplicity in visualizing financial data for informed decisions."
 ---
 

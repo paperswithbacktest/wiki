@@ -1,5 +1,5 @@
 ---
-title: "Delivered Duty Unpaid (Algo Trading)"
+title: "Delivered Duty Unpaid"
 description: "Discover the synergy between Delivered Duty Unpaid (DDU) and algorithmic trading in global trade optimizing efficiency reducing costs and managing risks."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Direct Stock Purchase Plan (Algo Trading)"
+title: "Direct Stock Purchase Plan"
 description: "Explore the synergy between Direct Stock Purchase Plans (DSPPs) and algorithmic trading to enhance investment strategies. Discover how DSPPs facilitate cost-effective, direct company ownership, while algo trading optimizes trade execution. Ideal for investors aiming for incremental investment growth and strategic market participation without brokerage fees."
 ---
 

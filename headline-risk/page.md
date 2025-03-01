@@ -1,5 +1,5 @@
 ---
-title: "Headline Risk (Algo Trading)"
+title: "Headline Risk"
 description: "Explore how headline risk and algorithmic trading impact financial markets with speed and efficiency while addressing potential volatility and investor concerns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Coupon Equivalent Rate (Algo Trading)"
+title: "Coupon Equivalent Rate"
 description: "Explore the dynamics of bond yields, coupon equivalent rate, and algorithmic trading to enhance investment strategies and maximize potential returns in the bond market."
 ---
 

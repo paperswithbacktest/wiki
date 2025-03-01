@@ -1,5 +1,5 @@
 ---
-title: "Capital Gains (Algo Trading)"
+title: "Capital Gains"
 description: "Explore the dynamic intersection of algorithmic trading and capital gains taxation in this comprehensive guide. Delve into the complexities that modern investors face as high-frequency trading evolves and impacts tax strategies. Learn how capital gains influence returns and understand the significance of managing tax obligations with precision. Stay informed about shifting tax regulations and discover ways to optimize investment returns while maintaining compliance. Perfect for investors seeking to navigate the intricate tax landscape shaped by rapid technological advancements in trading."
 ---
 

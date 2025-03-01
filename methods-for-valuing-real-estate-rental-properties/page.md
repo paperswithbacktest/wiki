@@ -1,5 +1,5 @@
 ---
-title: "Methods for Valuing Real Estate Rental Properties (Algo Trading)"
+title: "Methods for Valuing Real Estate Rental Properties"
 description: "Explore the intersection of real estate valuation techniques and algorithmic trading to make informed investment decisions and maximize returns in property markets."
 ---
 

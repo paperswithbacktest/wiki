@@ -1,5 +1,5 @@
 ---
-title: "Calculation and Importance of Net Debt (Algo Trading)"
+title: "Calculation and Importance of Net Debt"
 description: "Discover the calculation and significance of net debt in financial analysis and algorithmic trading enhance your understanding of corporate leverage and risk management."
 ---
 

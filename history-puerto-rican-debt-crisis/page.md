@@ -1,5 +1,5 @@
 ---
-title: "History of the Puerto Rican Debt Crisis (Algo Trading)"
+title: "History of the Puerto Rican Debt Crisis"
 description: "Explore Puerto Rico's economic narrative from strategic advantages and debt crises to the rise of algorithmic trading and its potential in recovery."
 ---
 

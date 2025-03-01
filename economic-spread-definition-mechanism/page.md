@@ -1,5 +1,5 @@
 ---
-title: "Economic Spread: Definition and Mechanism (Algo Trading)"
+title: "Economic Spread: Definition and Mechanism"
 description: "Explore the concept of economic spread and its significance in algo trading Learn key financial metrics and optimize strategies for enhanced investment success"
 ---
 

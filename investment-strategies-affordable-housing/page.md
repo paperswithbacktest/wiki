@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategies in Affordable Housing (Algo Trading)"
+title: "Investment Strategies in Affordable Housing"
 description: "Explore how technology enhances affordable housing investments through algorithmic trading offering stable returns and leveraging government support for social and financial benefits."
 ---
 

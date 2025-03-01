@@ -1,5 +1,5 @@
 ---
-title: "Common Macroeconomic Challenges Faced by Policymakers (Algo Trading)"
+title: "Common Macroeconomic Challenges Faced by Policymakers"
 description: "Explore the challenges of macroeconomic policy in today's financial world with a focus on algorithmic trading's role in shaping market dynamics and economic growth."
 ---
 

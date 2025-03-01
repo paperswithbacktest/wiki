@@ -1,5 +1,5 @@
 ---
-title: "Currency Overlay (Algo Trading)"
+title: "Currency Overlay"
 description: "Explore the intricacies of currency overlay an investment strategy designed to manage FX risks in portfolios enhance returns and optimize performance using algorithmic trading."
 ---
 

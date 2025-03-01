@@ -1,5 +1,5 @@
 ---
-title: "International Bonds: Overview and Examples (Algo Trading)"
+title: "International Bonds: Overview and Examples"
 description: "Discover the complexities of international bonds, their role in global markets, and the impact of algorithmic trading on bond trading strategies."
 ---
 

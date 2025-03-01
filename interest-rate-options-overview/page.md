@@ -1,5 +1,5 @@
 ---
-title: "Interest Rate Options: Overview and Mechanisms (Algo Trading)"
+title: "Interest Rate Options: Overview and Mechanisms"
 description: "Explore the dynamic world of interest rate options: understand their role in hedging and speculation, and learn how algorithmic trading enhances strategies."
 ---
 

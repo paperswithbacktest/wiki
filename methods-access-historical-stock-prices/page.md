@@ -1,5 +1,5 @@
 ---
-title: "Methods to Access Historical Stock Prices (Algo Trading)"
+title: "Methods to Access Historical Stock Prices"
 description: "Explore methods to access historical stock prices for algorithmic trading to enhance investment decisions by utilizing data to analyze market trends and predict future movements."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Marty Walsh: Biography (Algo Trading)"
+title: "Marty Walsh: Biography"
 description: "Explore Marty Walsh's inspiring career from overcoming personal challenges to becoming a leader in politics and labor unions with potential ties to algo trading."
 ---
 

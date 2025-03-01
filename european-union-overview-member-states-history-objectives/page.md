@@ -1,5 +1,5 @@
 ---
-title: "European Union: Overview, Member States, History, and Objectives (Algo Trading)"
+title: "European Union: Overview, Member States, History, and Objectives"
 description: "Explore the European Union's history, member states, and how it shaped algorithmic trading fostering growth and innovation in Europe's financial markets."
 ---
 

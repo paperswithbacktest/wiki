@@ -1,5 +1,5 @@
 ---
-title: "Capital Investment: Types and Functionality (Algo Trading)"
+title: "Capital Investment: Types and Functionality"
 description: "Explore the diverse types of capital investments that shape financial strategies and enhance portfolio diversification through algorithmic trading insights."
 ---
 

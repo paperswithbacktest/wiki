@@ -1,5 +1,5 @@
 ---
-title: "Alert Systems (Algo Trading)"
+title: "Alert Systems"
 description: "Discover how integrating alert systems with algorithmic trading enhances responsiveness and efficiency in today's dynamic markets. Learn how alerts provide timely insights into economic events and market shifts, empowering traders to make informed decisions swiftly. Explore the synergy between algorithms and alerts that optimizes strategies for improved trading outcomes."
 ---
 

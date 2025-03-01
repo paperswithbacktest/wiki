@@ -1,5 +1,5 @@
 ---
-title: "Liquidnet (Algo Trading)"
+title: "Liquidnet"
 description: Discover how Liquidnet revolutionizes algorithmic trading with advanced strategies designed to enhance efficiency and performance in financial markets. Explore its innovative algo toolbox, including Smart Blocks and Barracuda, which optimize trading outcomes through intelligent order execution and liquidity-seeking techniques. Learn how Liquidnet empowers buy-side firms by integrating cutting-edge algorithms to navigate complex market environments and minimize market impact in a regulatory-driven landscape.
 ---
 

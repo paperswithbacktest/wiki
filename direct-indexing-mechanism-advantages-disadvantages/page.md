@@ -1,5 +1,5 @@
 ---
-title: "Direct Indexing: Mechanism, Advantages, and Disadvantages (Algo Trading)"
+title: "Direct Indexing: Mechanism, Advantages, and Disadvantages"
 description: "Explore how direct indexing and algorithmic trading reshape investment strategies offering personalized portfolios and advanced automation for modern investors."
 ---
 

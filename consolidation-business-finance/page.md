@@ -1,5 +1,5 @@
 ---
-title: "Consolidation in Business and Finance (Algo Trading)"
+title: "Consolidation in Business and Finance"
 description: "Explore how consolidation and algorithmic trading revolutionize finance by enhancing operational efficiency streamlining processes and boosting profitability."
 ---
 

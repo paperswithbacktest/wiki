@@ -1,5 +1,5 @@
 ---
-title: "Efficient Market Hypothesis and Stock Market Efficiency (Algo Trading)"
+title: "Efficient Market Hypothesis and Stock Market Efficiency"
 description: "Explore the Efficient Market Hypothesis and its impact on algorithmic trading with insights into stock market efficiency challenges and investment strategies."
 ---
 

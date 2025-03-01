@@ -1,5 +1,5 @@
 ---
-title: "Investment Income Sharing (Algo Trading)"
+title: "Investment Income Sharing"
 description: "Explore the convergence of financial agreements, investment income sharing, and algo trading to optimize returns and manage risks in modern finance."
 ---
 

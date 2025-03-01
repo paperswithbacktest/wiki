@@ -1,5 +1,5 @@
 ---
-title: "Decentralized Autonomous Organization: Purpose and Examples (Algo Trading)"
+title: "Decentralized Autonomous Organization: Purpose and Examples"
 description: "Explore how decentralized autonomous organizations (DAOs) revolutionize governance and finance by integrating blockchain and algorithmic trading for transparency and efficiency."
 ---
 

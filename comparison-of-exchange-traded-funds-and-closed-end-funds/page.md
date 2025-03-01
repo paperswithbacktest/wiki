@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Exchange-Traded Funds and Closed-End Funds (Algo Trading)"
+title: "Comparison of Exchange-Traded Funds and Closed-End Funds"
 description: "Discover the contrasting features of Exchange-Traded Funds (ETFs) and closed-end funds in algo trading Learn how these instruments can enhance your investment strategy"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Hulbert Rating (Algo Trading)"
+title: "Hulbert Rating"
 description: "Explore the synergy between Hulbert Ratings and algorithmic trading Discover how performance metrics enrich algo strategies for informed investment decisions"
 ---
 

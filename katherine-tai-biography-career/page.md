@@ -1,5 +1,5 @@
 ---
-title: "Katherine Tai: Biography and Career (Algo Trading)"
+title: "Katherine Tai: Biography and Career"
 description: "Explore Katherine Tai's influential career as the 19th U.S. Trade Representative and her impact on trade policy and algorithmic trading dynamics worldwide."
 ---
 

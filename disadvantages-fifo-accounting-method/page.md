@@ -1,5 +1,5 @@
 ---
-title: "Disadvantages of FIFO Accounting Method (Algo Trading)"
+title: "Disadvantages of FIFO Accounting Method"
 description: "Explore the disadvantages of the FIFO accounting method in both accounting and algo trading focusing on profit overstatement and execution challenges."
 ---
 

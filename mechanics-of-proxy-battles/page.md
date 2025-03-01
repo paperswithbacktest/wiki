@@ -1,5 +1,5 @@
 ---
-title: "Mechanics of Proxy Battles (Algo Trading)"
+title: "Mechanics of Proxy Battles"
 description: "Explore the impact of algorithmic trading on shareholder voting and proxy fights in corporate governance highlighting the intersection of finance and technology."
 ---
 

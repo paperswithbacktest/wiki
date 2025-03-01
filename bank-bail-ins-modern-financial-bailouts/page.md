@@ -1,5 +1,5 @@
 ---
-title: "Bank Bail-Ins as Modern Financial Bailouts (Algo Trading)"
+title: "Bank Bail-Ins as Modern Financial Bailouts"
 description: "Discover how bank bail-ins and algorithmic trading are reshaping financial bailouts with modern economic implications and systemic stability in focus."
 ---
 

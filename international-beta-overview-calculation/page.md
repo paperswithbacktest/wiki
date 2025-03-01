@@ -1,5 +1,5 @@
 ---
-title: "International Beta: Overview and Calculation (Algo Trading)"
+title: "International Beta: Overview and Calculation"
 description: "Explore the fundamentals of international beta in algorithmic trading, understanding its calculation and role in assessing and managing global investment risks."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Fair Funds for Investors: Implications and Mechanisms (Algo Trading)"
+title: "Fair Funds for Investors: Implications and Mechanisms"
 description: "Explore how Fair Funds provide restitution to investors impacted by fraud and the role of algorithmic trading in today's financial markets within regulatory frameworks."
 ---
 

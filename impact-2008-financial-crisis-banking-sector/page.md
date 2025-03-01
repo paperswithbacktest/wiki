@@ -1,5 +1,5 @@
 ---
-title: "Impact of the 2008 Financial Crisis on the Banking Sector (Algo Trading)"
+title: "Impact of the 2008 Financial Crisis on the Banking Sector"
 description: "Explore how the 2008 Financial Crisis reshaped the banking sector and spurred the rise of algorithmic trading amidst significant market disruption."
 ---
 

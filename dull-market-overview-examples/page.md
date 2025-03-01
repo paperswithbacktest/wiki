@@ -1,5 +1,5 @@
 ---
-title: "Dull Market: Overview and Examples (Algo Trading)"
+title: "Dull Market: Overview and Examples"
 description: "Explore the dynamics of dull markets and algorithmic trading to harness innovative strategies and optimize investments in low-activity market environments."
 ---
 

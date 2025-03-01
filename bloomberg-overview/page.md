@@ -1,5 +1,5 @@
 ---
-title: "Bloomberg Overview (Algo Trading)"
+title: "Bloomberg Overview"
 description: "Explore Bloomberg's transformative impact on algorithmic trading with insights into their data services and technology innovations that enhance market strategies and decisions."
 ---
 

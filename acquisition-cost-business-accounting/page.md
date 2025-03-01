@@ -1,5 +1,5 @@
 ---
-title: "Acquisition Cost in Business Accounting (Algo Trading)"
+title: "Acquisition Cost in Business Accounting"
 description: "Explore acquisition costs in business accounting and algorithmic trading, examining their components, effects on financial statements, and strategies to optimize them."
 ---
 

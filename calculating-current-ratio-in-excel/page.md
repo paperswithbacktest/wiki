@@ -1,5 +1,5 @@
 ---
-title: "Calculating Current Ratio in Excel (Algo Trading)"
+title: "Calculating Current Ratio in Excel"
 description: "Discover how to calculate the current ratio in Excel for algorithmic trading Learn how this liquidity metric influences trading strategies and improves decision-making"
 ---
 

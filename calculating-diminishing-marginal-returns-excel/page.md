@@ -1,5 +1,5 @@
 ---
-title: "Calculating Diminishing Marginal Returns in Excel (Algo Trading)"
+title: "Calculating Diminishing Marginal Returns in Excel"
 description: "Learn to calculate diminishing marginal returns in Excel and optimize algorithmic trading strategies by analyzing resource allocation and maximizing returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Calculation of Productivity (Algo Trading)"
+title: "Calculation of Productivity"
 description: "Explore how efficiency and productivity are intertwined in algorithmic trading and learn strategies to optimize trades for better profitability and competitiveness."
 ---
 

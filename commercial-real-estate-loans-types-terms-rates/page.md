@@ -1,5 +1,5 @@
 ---
-title: "Commercial Real Estate Loans: Types, Terms, and Rates (Algo Trading)"
+title: "Commercial Real Estate Loans: Types, Terms, and Rates"
 description: "Explore the types and terms of commercial real estate loans including how algorithmic trading impacts investment strategies in the evolving CRE market."
 ---
 

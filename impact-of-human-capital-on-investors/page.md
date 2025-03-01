@@ -1,5 +1,5 @@
 ---
-title: "Impact of Human Capital on Investors (Algo Trading)"
+title: "Impact of Human Capital on Investors"
 description: "Explore the synergy between human capital and algorithmic trading vital for innovation and economic growth Discover how skilled talent enhances trading efficiencies"
 ---
 

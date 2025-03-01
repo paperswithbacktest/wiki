@@ -1,5 +1,5 @@
 ---
-title: "Hollywood Stock Exchange: Overview, Advantages, and Disadvantages (Algo Trading)"
+title: "Hollywood Stock Exchange: Overview, Advantages, and Disadvantages"
 description: "Explore the Hollywood Stock Exchange a unique virtual platform combining entertainment and finance by trading film assets with virtual currency and algorithms."
 ---
 

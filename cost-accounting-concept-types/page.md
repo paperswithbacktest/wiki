@@ -1,5 +1,5 @@
 ---
-title: "Cost Accounting: Concept and Types (Algo Trading)"
+title: "Cost Accounting: Concept and Types"
 description: "Explore the essential role of cost accounting in algorithmic trading to optimize production costs enhance profitability and secure a competitive edge in the market"
 ---
 

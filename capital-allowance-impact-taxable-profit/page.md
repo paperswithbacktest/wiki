@@ -1,5 +1,5 @@
 ---
-title: "Capital Allowance and Its Impact on Taxable Profit (Algo Trading)"
+title: "Capital Allowance and Its Impact on Taxable Profit"
 description: "Discover how capital allowances impact taxable profit in algorithmic trading. Learn about deductions for capital expenditures and optimize your tax strategies."
 ---
 

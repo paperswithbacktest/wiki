@@ -1,5 +1,5 @@
 ---
-title: "Market Weakness in Technical Analysis (Algo Trading)"
+title: "Market Weakness in Technical Analysis"
 description: "Discover how to identify and capitalize on market weakness using technical analysis and algo trading techniques for informed and strategic decision-making."
 ---
 

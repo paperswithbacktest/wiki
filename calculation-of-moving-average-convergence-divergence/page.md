@@ -1,5 +1,5 @@
 ---
-title: "Calculation of Moving Average Convergence Divergence (Algo Trading)"
+title: "Calculation of Moving Average Convergence Divergence"
 description: "Explore the significance of MACD in algorithmic trading and its role in enhancing trading decisions by identifying trends and potential market shifts efficiently."
 ---
 

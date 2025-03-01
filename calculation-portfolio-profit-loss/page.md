@@ -1,5 +1,5 @@
 ---
-title: "Calculation of Portfolio Profit and Loss (Algo Trading)"
+title: "Calculation of Portfolio Profit and Loss"
 description: "Gain insights into the calculation of portfolio profit and loss in algorithmic trading Learn how high-frequency trading improves decision-making and market efficiency"
 ---
 

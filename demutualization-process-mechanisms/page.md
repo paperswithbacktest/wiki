@@ -1,5 +1,5 @@
 ---
-title: "Demutualization Process and Mechanisms (Algo Trading)"
+title: "Demutualization Process and Mechanisms"
 description: "Explore the dynamic shift in financial markets through demutualization and corporate restructuring coupled with the rise of efficient, fast-paced algorithmic trading."
 ---
 

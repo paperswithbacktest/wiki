@@ -1,5 +1,5 @@
 ---
-title: "CityVest Analysis 2024 (Algo Trading)"
+title: "CityVest Analysis 2024"
 description: "Explore CityVest's unique blend of real estate investments and algo trading offering accessible opportunities enhanced returns and sophisticated portfolio management."
 ---
 

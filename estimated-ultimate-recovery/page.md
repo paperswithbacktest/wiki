@@ -1,5 +1,5 @@
 ---
-title: "Estimated Ultimate Recovery (Algo Trading)"
+title: "Estimated Ultimate Recovery"
 description: "Discover the synergy between Estimated Ultimate Recovery and algorithmic trading in the oil and gas industry to optimize resource management and boost efficiency."
 ---
 

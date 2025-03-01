@@ -1,5 +1,5 @@
 ---
-title: "Integrated Oil and Gas Companies (Algo Trading)"
+title: "Integrated Oil and Gas Companies"
 description: "Explore how integrated oil and gas companies leverage algorithmic trading to optimize operations Increase efficiency and adaptability in the fast-paced energy sector"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Impact of Interest Rates on Stock Market (Algo Trading)"
+title: "Impact of Interest Rates on Stock Market"
 description: "Explore the dynamic impact of interest rates on the stock market alongside the transformative role of algorithmic trading. This comprehensive analysis investigates into market fluctuations, central bank policies, and innovative trading technologies, providing valuable insights for investors and stakeholders. Discover how these interconnected elements influence consumer behavior, investment strategies, and global economic trends in the ever-evolving financial landscape."
 ---
 

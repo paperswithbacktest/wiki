@@ -1,5 +1,5 @@
 ---
-title: "Meaning and Examples of 'Eating Someone's Lunch' (Algo Trading)"
+title: "Meaning and Examples of 'Eating Someone's Lunch'"
 description: "Discover the meaning of "eating someone's lunch" in algorithmic trading and learn how businesses use advanced strategies to gain a competitive edge."
 ---
 

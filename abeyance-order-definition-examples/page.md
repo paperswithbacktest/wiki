@@ -1,5 +1,5 @@
 ---
-title: "Abeyance Order: Definition and Examples (Algo Trading)"
+title: "Abeyance Order: Definition and Examples"
 description: "Discover the intricacies of abeyance orders in legal proceedings and their impact on sectors like algorithmic trading to ensure fair and just outcomes."
 ---
 

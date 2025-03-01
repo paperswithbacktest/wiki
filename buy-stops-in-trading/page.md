@@ -1,5 +1,5 @@
 ---
-title: "Buy Stops in Trading (Algo Trading)"
+title: "Buy Stops in Trading"
 description: "Explore buy stop orders and algorithmic trading to harness upward market momentum and manage risks effectively. Enhance your trading strategy today."
 ---
 

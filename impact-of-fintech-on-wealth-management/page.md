@@ -1,5 +1,5 @@
 ---
-title: "Impact of Fintech on Wealth Management (Algo Trading)"
+title: "Impact of Fintech on Wealth Management"
 description: "Explore how fintech is revolutionizing wealth management and algorithmic trading, enhancing efficiency and accessibility, and challenging traditional financial models."
 ---
 

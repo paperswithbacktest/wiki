@@ -1,5 +1,5 @@
 ---
-title: "Carry Trade: Mechanism, Examples, and Risks (Algo Trading)"
+title: "Carry Trade: Mechanism, Examples, and Risks"
 description: "Explore the mechanisms and risks of carry trade strategies in the forex market, where borrowing in a low-interest currency funds investments in higher-yielding ones. Understand how interest rate differentials drive potential profits but beware of market volatility, exchange rate fluctuations, and economic shifts. Dive into the intersection of algorithmic trading, where speed and efficiency meet risk and market influence. Stay ahead in currency trading with informed strategies to navigate both opportunities and inherent risks, essential for capitalizing on trends and safeguarding investments."
 ---
 

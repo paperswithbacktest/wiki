@@ -1,5 +1,5 @@
 ---
-title: "James Man (Algo Trading)"
+title: "James Man"
 description: Discover the evolution of Man Group from its origins as a sugar brokerage founded by James Man in the 18th century to a leader in algorithmic trading today. Explore how this global investment management firm integrates cutting-edge technology to enhance trading strategies, offering speed, efficiency, and superior returns.
 ---
 

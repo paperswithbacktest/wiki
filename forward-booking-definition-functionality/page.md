@@ -1,5 +1,5 @@
 ---
-title: "Forward Booking: Definition and Functionality (Algo Trading)"
+title: "Forward Booking: Definition and Functionality"
 description: "Forward booking and advance reservations are crucial in finance for mitigating risk and ensuring operational stability, especially through algorithmic trading."
 ---
 

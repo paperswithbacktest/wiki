@@ -1,5 +1,5 @@
 ---
-title: "Giffen Goods: History and Examples (Algo Trading)"
+title: "Giffen Goods: History and Examples"
 description: "Explore the unique nature of Giffen goods that defy conventional demand laws and their intersection with algorithmic trading and consumer behavior."
 ---
 

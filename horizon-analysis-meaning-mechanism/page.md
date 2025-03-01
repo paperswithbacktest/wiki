@@ -1,5 +1,5 @@
 ---
-title: "Horizon Analysis: Meaning and Mechanism (Algo Trading)"
+title: "Horizon Analysis: Meaning and Mechanism"
 description: "Discover how horizon analysis enhances algorithmic trading strategies by assessing investment performance over time, optimizing decision-making, and managing risks."
 ---
 

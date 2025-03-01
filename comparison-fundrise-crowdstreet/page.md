@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Fundrise and CrowdStreet (Algo Trading)"
+title: "Comparison of Fundrise and CrowdStreet"
 description: "Explore the innovative synergy between real estate crowdfunding platforms like Fundrise and CrowdStreet and the potential of algorithmic trading in enhancing investment strategies."
 ---
 

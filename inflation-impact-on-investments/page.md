@@ -1,5 +1,5 @@
 ---
-title: "Inflation and Its Impact on Investments (Algo Trading)"
+title: "Inflation and Its Impact on Investments"
 description: "Explore how inflation impacts investments and algorithmic trading. Learn strategies to mitigate inflation's effects on asset classes like stocks, bonds, and real estate."
 ---
 

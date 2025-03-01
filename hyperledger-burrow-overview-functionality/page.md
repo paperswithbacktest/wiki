@@ -1,5 +1,5 @@
 ---
-title: "Hyperledger Burrow: Overview and Functionality (Algo Trading)"
+title: "Hyperledger Burrow: Overview and Functionality"
 description: "Explore how Hyperledger Burrow enhances algorithmic trading with blockchain integration offering transparency security and efficiency in trade execution."
 ---
 

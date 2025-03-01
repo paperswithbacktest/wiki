@@ -1,5 +1,5 @@
 ---
-title: "IEX Trading Platform (Algo Trading)"
+title: "IEX Trading Platform"
 description: "Explore how IEX Group's innovations impact algorithmic trading, promoting fairness and transparency with unique mechanisms like the 350-microsecond speed bump."
 ---
 

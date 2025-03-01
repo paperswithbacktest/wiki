@@ -1,5 +1,5 @@
 ---
-title: "Gray Market in Trading (Algo Trading)"
+title: "Gray Market in Trading"
 description: "Discover how gray market and algorithmic trading are transforming financial markets, offering insights into trading strategies and impacting market dynamics."
 ---
 

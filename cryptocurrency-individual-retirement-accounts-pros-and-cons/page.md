@@ -1,5 +1,5 @@
 ---
-title: "Cryptocurrency Individual Retirement Accounts: Pros and Cons (Algo Trading)"
+title: "Cryptocurrency Individual Retirement Accounts: Pros and Cons"
 description: "Explore the pros and cons of Cryptocurrency IRAs and algorithmic trading for retirement planning Learn how integrating digital assets like Bitcoin can enhance your portfolio"
 ---
 

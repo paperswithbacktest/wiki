@@ -1,5 +1,5 @@
 ---
-title: "Accessing Free Professional Financial Advice (Algo Trading)"
+title: "Accessing Free Professional Financial Advice"
 description: "Access free professional financial advice to navigate fast-paced financial markets and enhance investment strategies with insights on algorithmic trading."
 ---
 

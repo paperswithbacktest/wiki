@@ -1,5 +1,5 @@
 ---
-title: "Fully Diluted Shares and Calculation of Dilution (Algo Trading)"
+title: "Fully Diluted Shares and Calculation of Dilution"
 description: "Explore the essential concepts of share dilution and fully diluted shares in the context of investment and company stakeholder interests. Learn how the issuance of additional shares can reduce existing ownership percentages, impacting earnings per share (EPS) and overall company valuation. Delve into how algorithmic trading leverages these dynamics, offering opportunities during dilution events. This comprehensive guide provides insights into calculating share dilution, understanding fully diluted shares, and navigating investment strategies effectively amidst changing capital structures. Empower yourself with knowledge to make informed decisions and optimize trading outcomes."
 ---
 

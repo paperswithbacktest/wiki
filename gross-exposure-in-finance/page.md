@@ -1,5 +1,5 @@
 ---
-title: "Gross Exposure in Finance (Algo Trading)"
+title: "Gross Exposure in Finance"
 description: "Discover the significance of gross exposure in finance and its role in algorithmic trading, crucial for effective risk management and optimizing trading strategies."
 ---
 

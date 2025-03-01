@@ -1,5 +1,5 @@
 ---
-title: "Indicators of High-Value Penny Stocks (Algo Trading)"
+title: "Indicators of High-Value Penny Stocks"
 description: "Explore the intricacies of high-value penny stocks and algorithmic trading. Learn key investment indicators and valuation techniques to effectively navigate these volatile markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Discounts for Lack of Marketability in Valuation (Algo Trading)"
+title: "Discounts for Lack of Marketability in Valuation"
 description: "Explore Discounts for Lack of Marketability in financial valuation including methodologies and implications for algorithmic trading with expert insights and analysis."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Dollar Duration: Overview, Formula, and Limitations (Algo Trading)"
+title: "Dollar Duration: Overview, Formula, and Limitations"
 description: "Understanding dollar duration is crucial for managing bond interest rate risks in algorithmic trading. Learn its role in assessing and optimizing fixed income portfolios."
 ---
 

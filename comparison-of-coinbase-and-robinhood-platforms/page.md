@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Coinbase and Robinhood Platforms (Algo Trading)"
+title: "Comparison of Coinbase and Robinhood Platforms"
 description: "Explore the unique strengths of Coinbase and Robinhood in algorithmic trading from beginner-friendly ease and commission-free trades to advanced crypto tools and vast asset selection"
 ---
 

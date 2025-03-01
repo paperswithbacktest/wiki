@@ -1,5 +1,5 @@
 ---
-title: "Jeffrey Yass: A Trading Legend (Algo Trading)"
+title: "Jeffrey Yass: A Trading Legend"
 description: Explore the revolutionary contributions of Jeffrey Yass to algorithmic trading, highlighting his role as a co-founder of Susquehanna International Group. Discover how Yass's blend of mathematical expertise and strategic acumen has shaped modern trading methodologies, emphasizing intelligent risk-taking and innovative approaches in options trading and market making. This page investigates into his profound impact on financial markets, illustrating the integration of quantitative strategies, probability theory, and technological advancements that continue to inspire a new generation of traders and engineers.
 ---
 

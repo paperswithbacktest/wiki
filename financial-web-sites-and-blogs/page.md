@@ -1,5 +1,5 @@
 ---
-title: "Financial web sites and blogs (Algo Trading)"
+title: "Financial web sites and blogs"
 description: Discover the latest insights and resources in algorithmic trading with top financial websites and blogs. Enhance your trading strategies with expert content tailored for beginners and experienced traders alike. Explore educational guides, technical tools, and lively communities designed to boost your trading performance in today's data-driven markets. Uncover influential platforms such as QuantConnect and QuantInsti, offering comprehensive courses and real-world case studies to refine your quantitative skills. Stay informed on emerging technologies and innovative strategies by following these essential resources in the evolving field of algo trading.
 ---
 

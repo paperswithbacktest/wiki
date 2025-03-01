@@ -1,5 +1,5 @@
 ---
-title: "ERC-20 Tokens on the Ethereum Network (Algo Trading)"
+title: "ERC-20 Tokens on the Ethereum Network"
 description: "Explore ERC-20 tokens on the Ethereum network and discover how they revolutionize digital assets through interoperability and algorithmic trading opportunities."
 ---
 

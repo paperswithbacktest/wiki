@@ -1,5 +1,5 @@
 ---
-title: "MarketsWiki Daily Highlight (Algo Trading)"
+title: "MarketsWiki Daily Highlight"
 description: "Explore the dynamic world of financial markets with MarketsWiki's insights into algorithmic trading. Gain vital knowledge on trends, efficiency, and market innovations."
 ---
 

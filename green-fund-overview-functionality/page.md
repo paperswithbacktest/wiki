@@ -1,5 +1,5 @@
 ---
-title: "Green Fund Overview and Functionality (Algo Trading)"
+title: "Green Fund Overview and Functionality"
 description: "Explore the intersection of green funds and algorithmic trading as they drive sustainable investment strategies by aligning financial returns with environmental goals."
 ---
 

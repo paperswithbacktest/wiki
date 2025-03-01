@@ -1,5 +1,5 @@
 ---
-title: "Financial Services Alternative Data (Algo Trading)"
+title: "Financial Services Alternative Data"
 description: Discover how alternative data is revolutionizing financial services and algorithmic trading by offering unique insights beyond traditional metrics. Explore diverse data sources including social media sentiment, satellite imagery, and credit card transactions to enhance trading models and gain a competitive edge in the market. This approach unveils new patterns and trends, enabling traders to make informed decisions and respond swiftly to market changes. Learn how the integration of alternative data is reshaping trading strategies and providing opportunities for improved profitability in an ever-evolving financial landscape.
 ---
 

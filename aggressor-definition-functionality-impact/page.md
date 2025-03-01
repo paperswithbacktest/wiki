@@ -1,5 +1,5 @@
 ---
-title: "Aggressor: Definition, Functionality, and Impact (Algo Trading)"
+title: "Aggressor: Definition, Functionality, and Impact"
 description: "Explore the role of aggressor trading in algorithmic finance focusing on its impact on market dynamics liquidity and volatility for informed strategic decisions"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Gold Bug: Definition, Mechanism, and Example (Algo Trading)"
+title: "Gold Bug: Definition, Mechanism, and Example"
 description: "Discover how 'gold bugs' integrate gold investments with algorithmic trading to hedge against inflation and currency risks while optimizing portfolios in finance."
 ---
 

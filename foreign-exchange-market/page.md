@@ -1,5 +1,5 @@
 ---
-title: "Foreign Exchange Market (Algo Trading)"
+title: "Foreign Exchange Market"
 description: "Explore the dynamic world of forex trading and its technological evolution with algorithmic trading Discover how advanced algorithms enable faster smarter trade execution"
 ---
 

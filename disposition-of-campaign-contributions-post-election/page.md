@@ -1,5 +1,5 @@
 ---
-title: "Disposition of Campaign Contributions Post-Election (Algo Trading)"
+title: "Disposition of Campaign Contributions Post-Election"
 description: "Explore the financial dynamics of political campaigns post-election with insights into the role of contributions and algorithmic trading in shaping campaign strategies. Understand how leftover funds are managed under strict regulations, ensuring transparency and accountability while adapting to technological advancements for enhanced fundraising efficiency."
 ---
 

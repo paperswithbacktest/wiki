@@ -1,5 +1,5 @@
 ---
-title: "Institutional Brokers' Estimate System (Algo Trading)"
+title: "Institutional Brokers' Estimate System"
 description: "Discover the role of the Institutional Brokers' Estimate System in enhancing algo trading strategies by providing predictive insights and optimizing trading decisions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Feedback Rule Policy (Algo Trading)"
+title: "Feedback Rule Policy"
 description: "Explore how policy feedback rules influence AI-driven algorithmic trading strategies, enhancing their adaptability to market conditions and economic indicators."
 ---
 

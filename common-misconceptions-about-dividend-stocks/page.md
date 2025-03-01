@@ -1,5 +1,5 @@
 ---
-title: "Common Misconceptions About Dividend Stocks (Algo Trading)"
+title: "Common Misconceptions About Dividend Stocks"
 description: "Explore common misconceptions about dividend stocks and algorithmic trading to improve your investment strategy, optimize returns, and avoid pitfalls in the stock market."
 ---
 

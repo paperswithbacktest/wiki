@@ -1,5 +1,5 @@
 ---
-title: "Fixed-Charge Coverage Ratio (Algo Trading)"
+title: "Fixed-Charge Coverage Ratio"
 description: "Discover how the Fixed-Charge Coverage Ratio (FCCR) enhances algorithmic trading strategies by assessing a company's ability to meet its fixed obligations efficiently."
 ---
 

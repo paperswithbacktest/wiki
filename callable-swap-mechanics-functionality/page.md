@@ -1,5 +1,5 @@
 ---
-title: "Callable Swap Mechanics and Functionality (Algo Trading)"
+title: "Callable Swap Mechanics and Functionality"
 description: "Explore callable swap mechanics and functionality in algo trading Learn about interest rate swaps and their role in optimizing risk management and financial strategies"
 ---
 

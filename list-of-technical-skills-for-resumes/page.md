@@ -1,5 +1,5 @@
 ---
-title: "List of Technical Skills for Resumes (Algo Trading)"
+title: "List of Technical Skills for Resumes"
 description: "Enhance your algo trading resume with essential technical skills like programming, quantitative analysis, and data interpretation to stand out in the field."
 ---
 

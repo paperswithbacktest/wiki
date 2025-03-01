@@ -1,5 +1,5 @@
 ---
-title: "Breakout in Financial Analysis (Algo Trading)"
+title: "Breakout in Financial Analysis"
 description: "Explore the synergy between breakout strategies, financial analysis, and algo trading in this comprehensive guide to enhancing portfolio performance and investment success."
 ---
 

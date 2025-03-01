@@ -1,5 +1,5 @@
 ---
-title: "Bond Washing in Fixed Income Markets (Algo Trading)"
+title: "Bond Washing in Fixed Income Markets"
 description: "Explore the evolution of bond markets focusing on fixed income investments and algorithmic trading plus uncover strategies like bond washing and their impacts."
 ---
 

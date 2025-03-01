@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Gross Margin and Operating Margin (Algo Trading)"
+title: "Comparison of Gross Margin and Operating Margin"
 description: "Explore key financial metrics in algorithmic trading with a focus on gross margin versus operating margin to enhance strategy effectiveness and decision-making."
 ---
 

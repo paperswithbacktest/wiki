@@ -1,5 +1,5 @@
 ---
-title: "Central Limit Theorem (Algo Trading)"
+title: "Central Limit Theorem"
 description: "Explore the pivotal role of the Central Limit Theorem in enhancing algorithmic trading strategies by simplifying data analysis and predicting market trends."
 ---
 

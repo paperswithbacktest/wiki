@@ -1,5 +1,5 @@
 ---
-title: "Borrowed Servant Doctrine (Algo Trading)"
+title: "Borrowed Servant Doctrine"
 description: "Explore the complexities of the Borrowed Servant Rule in employment law focusing on vicarious liability in modern work environments including algorithmic trading."
 ---
 

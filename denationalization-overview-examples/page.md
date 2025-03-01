@@ -1,5 +1,5 @@
 ---
-title: "Denationalization: Overview and Examples (Algo Trading)"
+title: "Denationalization: Overview and Examples"
 description: "Explore how denationalization and technology, including algorithmic trading, shape economic and legal landscapes in today's interconnected geopolitical world."
 ---
 

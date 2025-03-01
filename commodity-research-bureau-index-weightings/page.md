@@ -1,5 +1,5 @@
 ---
-title: "Commodity Research Bureau Index and Weightings (Algo Trading)"
+title: "Commodity Research Bureau Index and Weightings"
 description: "Explore the Commodity Research Bureau Index its components and impact on algo trading Discover how CRBI aids in risk management and strategic investment decisions"
 ---
 

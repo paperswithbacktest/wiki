@@ -1,5 +1,5 @@
 ---
-title: "Corrective Waves: Explanation and Function (Algo Trading)"
+title: "Corrective Waves: Explanation and Function"
 description: "Explore how corrective waves in wave theory aid traders in anticipating market corrections and reversals Learn about their role in enhancing algorithmic trading strategies"
 ---
 

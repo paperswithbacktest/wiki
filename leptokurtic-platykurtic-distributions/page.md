@@ -1,5 +1,5 @@
 ---
-title: "Leptokurtic and Platykurtic Distributions (Algo Trading)"
+title: "Leptokurtic and Platykurtic Distributions"
 description: "Understand how leptokurtic and platykurtic distributions impact algorithmic trading strategies by influencing risk management and financial decision-making."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Applied Economics: Overview and Applications (Algo Trading)"
+title: "Applied Economics: Overview and Applications"
 description: "Explore how applied economics bridges theory and practice, particularly in algorithmic trading, enhancing decision-making and optimizing financial strategies."
 ---
 

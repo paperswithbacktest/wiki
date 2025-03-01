@@ -1,5 +1,5 @@
 ---
-title: "Indicators of Economic Growth (Algo Trading)"
+title: "Indicators of Economic Growth"
 description: "Explore how key economic indicators shape investment strategies, particularly in algorithmic trading. This article investigates into the role of indicators in measuring GDP and their impact on economic growth, providing insights for investors to make informed decisions. Discover the influence of economic data on algo trading, optimizing strategies for enhanced returns and navigating financial markets with precision."
 ---
 

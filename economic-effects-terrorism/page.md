@@ -1,5 +1,5 @@
 ---
-title: "Economic Effects of Terrorism (Algo Trading)"
+title: "Economic Effects of Terrorism"
 description: "Explore the economic impacts of terrorism on global markets with a focus on algorithmic trading which magnifies market reactions. Understand how these high-speed trading systems contribute to market volatility in the wake of geopolitical turmoil and the strategies needed to enhance market stability."
 ---
 

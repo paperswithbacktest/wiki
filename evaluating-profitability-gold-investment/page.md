@@ -1,5 +1,5 @@
 ---
-title: "Evaluating the Profitability of Gold Investment (Algo Trading)"
+title: "Evaluating the Profitability of Gold Investment"
 description: "Explore the synergy between traditional gold investment and algorithmic trading. Discover how these strategies optimize returns and manage risk in volatile markets."
 ---
 

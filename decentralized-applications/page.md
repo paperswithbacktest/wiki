@@ -1,5 +1,5 @@
 ---
-title: "Decentralized Applications (Algo Trading)"
+title: "Decentralized Applications"
 description: "Explore how decentralized applications and blockchain revolutionize algorithmic trading enhancing transparency, security, and efficiency in financial markets."
 ---
 

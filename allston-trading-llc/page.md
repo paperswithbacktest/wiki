@@ -1,5 +1,5 @@
 ---
-title: "Allston Trading LLC (Algo Trading)"
+title: "Allston Trading LLC"
 description: "Explore Allston Trading's proprietary and algorithmic trading strategies enhancing market efficiency with cutting-edge technology and data-driven decisions."
 ---
 

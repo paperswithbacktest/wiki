@@ -1,5 +1,5 @@
 ---
-title: "Leverage Ratio and Calculation (Algo Trading)"
+title: "Leverage Ratio and Calculation"
 description: "Discover the crucial role of leverage ratios in assessing financial stability and guiding investment decisions. Understand how these metrics, vital for evaluating a company’s debt level and operational efficiency, enhance algorithmic trading strategies by balancing risk and reward in modern financial markets."
 ---
 

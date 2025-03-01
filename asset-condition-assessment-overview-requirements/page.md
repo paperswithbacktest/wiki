@@ -1,5 +1,5 @@
 ---
-title: "Asset Condition Assessment: Overview and Requirements (Algo Trading)"
+title: "Asset Condition Assessment: Overview and Requirements"
 description: "Explore the intricate relationship between asset condition assessment and algorithmic trading, key aspects of modern asset management and financial trading strategies. Discover how regular asset assessments can optimize trading infrastructure performance and minimize risks in high-speed algorithmic trading environments. Gain insights into the practices that enhance efficiency and compliance, ensuring optimal asset utilization and regulatory adherence in trading operations."
 ---
 

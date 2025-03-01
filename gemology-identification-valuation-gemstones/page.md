@@ -1,5 +1,5 @@
 ---
-title: "Gemology: Identification and Valuation of Gemstones (Algo Trading)"
+title: "Gemology: Identification and Valuation of Gemstones"
 description: "Explore gemstone investments blending gemology and finance for diversified portfolios. Discover tangible assets, valuation techniques, and algorithmic trading advancements."
 ---
 

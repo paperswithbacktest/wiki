@@ -1,5 +1,5 @@
 ---
-title: "Gamma in Investing (Algo Trading)"
+title: "Gamma in Investing"
 description: "Explore how gamma enhances algorithmic trading by optimizing options strategies. Delve into leveraging gamma for precise risk management and strategic trading."
 ---
 

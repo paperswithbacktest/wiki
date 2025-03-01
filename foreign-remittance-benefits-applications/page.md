@@ -1,5 +1,5 @@
 ---
-title: "Foreign Remittance: Benefits and Applications (Algo Trading)"
+title: "Foreign Remittance: Benefits and Applications"
 description: "Explore how foreign remittance, money transfer apps, and algorithmic trading combine to modernize finance, enhance accessibility, and boost global economies."
 ---
 

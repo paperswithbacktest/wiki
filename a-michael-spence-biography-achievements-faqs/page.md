@@ -1,5 +1,5 @@
 ---
-title: "A. Michael Spence: Biography, Achievements, FAQs (Algo Trading)"
+title: "A. Michael Spence: Biography, Achievements, FAQs"
 description: "Explore A. Michael Spence's contributions to economics including his work on market signaling and asymmetric information and its relevance to algorithmic trading."
 ---
 

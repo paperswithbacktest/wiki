@@ -1,5 +1,5 @@
 ---
-title: "Financial Statement Analysis of a Bank (Algo Trading)"
+title: "Financial Statement Analysis of a Bank"
 description: "Explore how financial statement analysis and algorithmic trading transform bank operations gaining insights into performance and strategic growth opportunities."
 ---
 

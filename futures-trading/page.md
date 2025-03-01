@@ -1,5 +1,5 @@
 ---
-title: "Futures Trading (Algo Trading)"
+title: "Futures Trading"
 description: "Explore the dynamic world of futures trading and algorithmic strategies for optimal market performance Learn how technology enhances trade speed and efficiency"
 ---
 

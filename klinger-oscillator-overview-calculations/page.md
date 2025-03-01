@@ -1,5 +1,5 @@
 ---
-title: "Klinger Oscillator: Overview and Calculations (Algo Trading)"
+title: "Klinger Oscillator: Overview and Calculations"
 description: "Explore the Klinger Oscillator developed by Stephen Klinger in 1977 to enhance your trading strategy by analyzing long-term money flow and short-term fluctuations."
 ---
 

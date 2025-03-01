@@ -1,5 +1,5 @@
 ---
-title: "Kore Trading (Algo Trading)"
+title: "Kore Trading"
 description: "Kore Trading empowers modern traders with advanced algorithmic trading solutions promoting speed precision and innovation essential for today's fast-paced markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Debt Exchangeable for Common Stock (Algo Trading)"
+title: "Debt Exchangeable for Common Stock"
 description: "Explore the significance of Debt Exchangeable for Common Stock and algorithmic trading in modern financial markets while understanding their benefits and challenges."
 ---
 

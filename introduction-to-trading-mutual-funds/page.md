@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Trading Mutual Funds (Algo Trading)"
+title: "Introduction to Trading Mutual Funds"
 description: "Explore the basics of mutual funds and algorithmic trading to understand their roles in modern investing. Learn how mutual funds offer diversified investments managed by professionals and how algorithmic trading leverages technology to enhance trade execution. Discover the synergy between these tools for efficient wealth management and informed investment strategies."
 ---
 

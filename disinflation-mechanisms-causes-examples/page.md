@@ -1,5 +1,5 @@
 ---
-title: "Disinflation: Mechanisms, Causes, and Examples (Algo Trading)"
+title: "Disinflation: Mechanisms, Causes, and Examples"
 description: "Discover how disinflation moderates inflation rates affecting financial markets and algorithmic trading strategies exploring economic mechanisms and triggers."
 ---
 

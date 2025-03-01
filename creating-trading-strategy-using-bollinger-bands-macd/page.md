@@ -1,5 +1,5 @@
 ---
-title: "Creating a Trading Strategy Using Bollinger Bands and MACD (Algo Trading)"
+title: "Creating a Trading Strategy Using Bollinger Bands and MACD"
 description: "Explore how Bollinger Bands and MACD indicators combine to form a dynamic trading strategy that enhances decision-making through volatility and momentum insights."
 ---
 

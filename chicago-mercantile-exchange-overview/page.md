@@ -1,5 +1,5 @@
 ---
-title: "Chicago Mercantile Exchange Overview (Algo Trading)"
+title: "Chicago Mercantile Exchange Overview"
 description: "Explore the world of futures trading at the Chicago Mercantile Exchange, highlighting the significance of algorithmic trading in modern financial markets."
 ---
 

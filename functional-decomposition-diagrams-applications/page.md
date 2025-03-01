@@ -1,5 +1,5 @@
 ---
-title: "Functional Decomposition: Diagrams and Applications (Algo Trading)"
+title: "Functional Decomposition: Diagrams and Applications"
 description: "Discover how functional decomposition aids in system modeling and process analysis for algorithmic trading to enhance design, efficiency, and scalability."
 ---
 

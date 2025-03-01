@@ -1,5 +1,5 @@
 ---
-title: "Consumer Surplus and Its Measurement (Algo Trading)"
+title: "Consumer Surplus and Its Measurement"
 description: "Explore consumer surplus in the context of algorithmic trading and its impact on market dynamics and consumer welfare. Understand its measurement and implications."
 ---
 

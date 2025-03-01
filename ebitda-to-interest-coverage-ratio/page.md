@@ -1,5 +1,5 @@
 ---
-title: "EBITDA to Interest Coverage Ratio (Algo Trading)"
+title: "EBITDA to Interest Coverage Ratio"
 description: "Optimize investment strategies with the EBITDA-to-interest coverage ratio, a key metric for evaluating financial health and improving trading performance."
 ---
 

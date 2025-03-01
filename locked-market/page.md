@@ -1,5 +1,5 @@
 ---
-title: "Locked Market (Algo Trading)"
+title: "Locked Market"
 description: "Explore the transformative impact of algorithmic trading on financial markets Discover how technology enhances speed efficiency and precision in modern trading"
 ---
 

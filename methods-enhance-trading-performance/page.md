@@ -1,5 +1,5 @@
 ---
-title: "Methods to Enhance Trading Performance (Algo Trading)"
+title: "Methods to Enhance Trading Performance"
 description: "Discover effective strategies and tips to enhance your trading performance utilizing trend-following mean-reversion breakout trading and algorithmic methods."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Lock-Up Agreement (Algo Trading)"
+title: "Lock-Up Agreement"
 description: "Explore the significant role of lock-up agreements in IPOs, their impact on stock price stability, and how algorithmic trading adjusts to these phases."
 ---
 

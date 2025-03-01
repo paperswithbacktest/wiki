@@ -1,5 +1,5 @@
 ---
-title: "Macro Environment in Economics (Algo Trading)"
+title: "Macro Environment in Economics"
 description: "Explore how macroeconomic factors like GDP, inflation, and employment shape algorithmic trading strategies for better market predictions and risk management."
 ---
 

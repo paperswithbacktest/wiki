@@ -1,5 +1,5 @@
 ---
-title: "European Depositary Receipt: Overview and Functionality (Algo Trading)"
+title: "European Depositary Receipt: Overview and Functionality"
 description: "European Depositary Receipts (EDRs) allow European investors to access non-European stocks efficiently while algorithmic trading boosts market liquidity and reduces costs."
 ---
 

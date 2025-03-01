@@ -1,5 +1,5 @@
 ---
-title: "Deal Ticket: Function and Components (Algo Trading)"
+title: "Deal Ticket: Function and Components"
 description: "Explore how deal tickets streamline algorithmic trading by documenting every transaction detail accurately ensuring compliance and efficiency in trades."
 ---
 

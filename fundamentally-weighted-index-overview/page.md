@@ -1,5 +1,5 @@
 ---
-title: "Fundamentally Weighted Index Overview (Algo Trading)"
+title: "Fundamentally Weighted Index Overview"
 description: "Explore how fundamentally weighted indexes differ from traditional market cap-weighted ones and their role in algorithmic trading to optimize investment strategies."
 ---
 

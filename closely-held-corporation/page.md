@@ -1,5 +1,5 @@
 ---
-title: "Closely Held Corporation (Algo Trading)"
+title: "Closely Held Corporation"
 description: "Explore the synergy of closely held corporations and algorithmic trading offering insights into corporate control structures and modern trading efficiencies."
 ---
 

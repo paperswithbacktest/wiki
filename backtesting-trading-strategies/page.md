@@ -1,5 +1,5 @@
 ---
-title: "Backtesting Trading Strategies (Algo Trading)"
+title: "Backtesting Trading Strategies"
 description: "Backtest your algorithmic trading strategies using historical data for better decision-making and performance evaluation in financial markets with our insights."
 ---
 

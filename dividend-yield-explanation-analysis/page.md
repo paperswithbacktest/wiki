@@ -1,5 +1,5 @@
 ---
-title: "Dividend Yield: Explanation and Analysis (Algo Trading)"
+title: "Dividend Yield: Explanation and Analysis"
 description: "Explore the complexities of dividend yield and algorithmic trading in this comprehensive guide. Learn how to optimize your investment strategy for maximum returns."
 ---
 

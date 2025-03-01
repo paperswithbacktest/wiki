@@ -1,5 +1,5 @@
 ---
-title: "Largest Mutual Fund Owners of Amazon (Algo Trading)"
+title: "Largest Mutual Fund Owners of Amazon"
 description: "Discover how mutual funds leverage Amazon's market influence and algorithmic trading to optimize investments, reduce costs, and enhance portfolio growth."
 ---
 

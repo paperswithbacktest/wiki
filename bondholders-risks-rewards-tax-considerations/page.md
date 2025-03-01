@@ -1,5 +1,5 @@
 ---
-title: "Bondholders: Risks, Rewards, and Tax Considerations (Algo Trading)"
+title: "Bondholders: Risks, Rewards, and Tax Considerations"
 description: "Explore the risks and rewards of bond investments and algorithmic trading. Understand tax implications, market challenges, and strategies for maximizing returns."
 ---
 

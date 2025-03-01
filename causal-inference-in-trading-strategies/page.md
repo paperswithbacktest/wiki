@@ -1,5 +1,5 @@
 ---
-title: "Causal Inference in Trading Strategies (Algo Trading)"
+title: "Causal Inference in Trading Strategies"
 description: "Discover the power of causal inference in algorithmic trading to develop robust trading strategies by identifying cause-and-effect relationships among financial variables."
 ---
 

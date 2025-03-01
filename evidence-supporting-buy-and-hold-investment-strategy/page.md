@@ -1,5 +1,5 @@
 ---
-title: "Evidence Supporting Buy-and-Hold Investment Strategy (Algo Trading)"
+title: "Evidence Supporting Buy-and-Hold Investment Strategy"
 description: "Explore the benefits of buy-and-hold and algorithmic trading strategies in investing with insights on their unique advantages and risk-reward profiles."
 ---
 

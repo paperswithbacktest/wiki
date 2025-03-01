@@ -1,5 +1,5 @@
 ---
-title: "Make-Whole Call Provisions: Overview and Benefits (Algo Trading)"
+title: "Make-Whole Call Provisions: Overview and Benefits"
 description: "Discover the advantages of make-whole call provisions in bond agreements and how they benefit investors and issuers. Learn about the strategic use of bond call options and algorithmic trading to optimize returns and manage financial risks effectively. Ideal for investors seeking resilient investment strategies in a dynamic financial landscape."
 ---
 

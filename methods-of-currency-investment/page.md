@@ -1,5 +1,5 @@
 ---
-title: "Methods of Currency Investment (Algo Trading)"
+title: "Methods of Currency Investment"
 description: "Explore the dynamic world of forex trading with insights into traditional strategies and the modern advancements of algorithmic trading. Understand key techniques for investing in the largest and most liquid financial market, emphasizing risk management and strategic diversification to harness its potential while navigating inherent challenges."
 ---
 

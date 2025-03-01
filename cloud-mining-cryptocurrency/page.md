@@ -1,5 +1,5 @@
 ---
-title: "Cloud Mining in Cryptocurrency (Algo Trading)"
+title: "Cloud Mining in Cryptocurrency"
 description: "Explore the dynamic world of cryptocurrency with insights into cloud mining and algorithmic trading. Discover the benefits and challenges in digital finance today."
 ---
 

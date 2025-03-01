@@ -1,5 +1,5 @@
 ---
-title: "Long-Term Stock Investment: Monthly $100 for 20 Years (Algo Trading)"
+title: "Long-Term Stock Investment: Monthly $100 for 20 Years"
 description: "Explore the synergy of long-term stock investment, monthly contributions, and algorithmic trading to maximize returns while minimizing risks over a 20-year horizon."
 ---
 

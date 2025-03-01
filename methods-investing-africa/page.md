@@ -1,5 +1,5 @@
 ---
-title: "Methods of Investing in Africa (Algo Trading)"
+title: "Methods of Investing in Africa"
 description: "Explore investment opportunities in Africa's growing economy with algorithmic trading Discover strategies to navigate diverse markets and maximize returns"
 ---
 

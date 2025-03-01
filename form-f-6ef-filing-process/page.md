@@ -1,5 +1,5 @@
 ---
-title: "Form F-6EF: Definition and Filing Process (Algo Trading)"
+title: "Form F-6EF: Definition and Filing Process"
 description: "Explore how Form F-6EF simplifies listing ADRs for foreign companies on U.S. exchanges, alongside the impact of algo trading on global markets and financial strategies."
 ---
 

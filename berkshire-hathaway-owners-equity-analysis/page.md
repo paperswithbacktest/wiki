@@ -1,5 +1,5 @@
 ---
-title: "Berkshire Hathaway Owners' Equity Analysis (Algo Trading)"
+title: "Berkshire Hathaway Owners' Equity Analysis"
 description: "Explore Berkshire Hathaway's owners' equity analysis focusing on algorithmic trading strategies and financial insights under Warren Buffett's investment approach."
 ---
 

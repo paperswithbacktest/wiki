@@ -1,5 +1,5 @@
 ---
-title: "Emblements: Meaning and Function (Algo Trading)"
+title: "Emblements: Meaning and Function"
 description: "Explore the legal concept of emblements, safeguarding tenant farmers' rights to crops, alongside insights into algorithmic trading in agricultural investments."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Hung Convertible Bonds (Algo Trading)"
+title: "Hung Convertible Bonds"
 description: "Explore the potential of hung convertible bonds in algorithmic trading Discover how these unique financial instruments can offer opportunities amid market challenges"
 ---
 

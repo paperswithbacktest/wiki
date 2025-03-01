@@ -1,5 +1,5 @@
 ---
-title: "International Derivatives Clearing Group (Algo Trading)"
+title: "International Derivatives Clearing Group"
 description: "Explore the vital roles of derivatives clearinghouses and algorithmic trading in enhancing market efficiency and stability amidst technological advancements."
 ---
 

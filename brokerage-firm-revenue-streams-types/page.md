@@ -1,5 +1,5 @@
 ---
-title: "Brokerage Firm: Revenue Streams and Types (Algo Trading)"
+title: "Brokerage Firm: Revenue Streams and Types"
 description: "Explore how brokerage firms in financial markets utilize algorithmic trading to enhance transaction efficiency and decision-making. Discover the various types of brokerage firms, including full-service, discount brokers, and robo-advisors, and how they generate revenue through innovative models and services. Learn how algo trading impacts the investment landscape, helping investors make informed choices to align with their financial goals and strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "History and Overview of the European Economic and Monetary Union (Algo Trading)"
+title: "History and Overview of the European Economic and Monetary Union"
 description: "Explore the evolution and impact of the European Economic and Monetary Union EMU on the EU economy and the growing role of algorithmic trading in financial markets"
 ---
 

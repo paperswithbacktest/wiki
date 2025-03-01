@@ -1,5 +1,5 @@
 ---
-title: "Box-Top Order (Algo Trading)"
+title: "Box-Top Order"
 description: "Explore the fusion of traditional trading with technology through box-top orders and algorithmic trading Learn how these concepts shape modern financial markets"
 ---
 

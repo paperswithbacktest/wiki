@@ -1,5 +1,5 @@
 ---
-title: "Housing Discrimination: Overview and Actions (Algo Trading)"
+title: "Housing Discrimination: Overview and Actions"
 description: "Explore the impact of housing discrimination on tenant rights and discover how technological advances like algorithmic trading can perpetuate biases in the housing market."
 ---
 

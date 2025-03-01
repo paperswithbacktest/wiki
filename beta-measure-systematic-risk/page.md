@@ -1,5 +1,5 @@
 ---
-title: "Beta as a Measure of Systematic Risk (Algo Trading)"
+title: "Beta as a Measure of Systematic Risk"
 description: "Explore the role of beta in measuring systematic risk for strategic trading decisions Learn how algorithmic trading leverages beta to optimize investment strategies"
 ---
 

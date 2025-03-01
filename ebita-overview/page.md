@@ -1,5 +1,5 @@
 ---
-title: "EBITA Overview (Algo Trading)"
+title: "EBITA Overview"
 description: "Explore the key features of EBITA in evaluating a company's operational efficiency by excluding interest taxes and amortization influences essential for algo trading."
 ---
 

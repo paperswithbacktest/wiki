@@ -1,5 +1,5 @@
 ---
-title: "Chaos Theory: Concepts and History (Algo Trading)"
+title: "Chaos Theory: Concepts and History"
 description: "Explore the impact of chaos theory and nonlinear dynamics on algorithmic trading Discover how these concepts enhance market understanding and strategy development"
 ---
 

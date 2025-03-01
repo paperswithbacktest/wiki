@@ -1,5 +1,5 @@
 ---
-title: "History of SEC Regulation (Algo Trading)"
+title: "History of SEC Regulation"
 description: "Explore the evolution of SEC regulation in algorithmic trading and its impact on market dynamics aiming for market efficiency while ensuring investor protection."
 ---
 

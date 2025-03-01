@@ -1,5 +1,5 @@
 ---
-title: "Electronic Payments Network: Overview and Operation (Algo Trading)"
+title: "Electronic Payments Network: Overview and Operation"
 description: "Discover how the Electronic Payments Network enhances algorithmic trading with efficient and secure transactions crucial for the fast-paced financial industry."
 ---
 

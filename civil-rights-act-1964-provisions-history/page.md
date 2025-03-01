@@ -1,5 +1,5 @@
 ---
-title: "Civil Rights Act of 1964: Provisions and Historical Context (Algo Trading)"
+title: "Civil Rights Act of 1964: Provisions and Historical Context"
 description: "Explore the Civil Rights Act of 1964 its historical context provisions and ongoing influence in combating discrimination and promoting equality in diverse realms"
 ---
 

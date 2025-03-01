@@ -1,5 +1,5 @@
 ---
-title: "Factors Influencing the U.S. Dollar (Algo Trading)"
+title: "Factors Influencing the U.S. Dollar"
 description: "Discover how economic factors like supply-demand dynamics, market sentiment, and key indicators influence the U.S. dollar in algorithmic trading strategies."
 ---
 

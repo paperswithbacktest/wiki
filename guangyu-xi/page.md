@@ -1,5 +1,5 @@
 ---
-title: "Guangyu Xi (Algo Trading)"
+title: "Guangyu Xi"
 description: "Discover the journey of Guangyu Xi, a distinguished quant researcher, from his academic achievements in mathematics to his influential career in algorithmic trading."
 ---
 

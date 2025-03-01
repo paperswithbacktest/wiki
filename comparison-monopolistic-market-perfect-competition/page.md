@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Monopolistic Market and Perfect Competition (Algo Trading)"
+title: "Comparison of Monopolistic Market and Perfect Competition"
 description: "Explore how monopolistic markets and perfect competition differ, focusing on their impact on pricing, competition, and the role of algorithmic trading."
 ---
 

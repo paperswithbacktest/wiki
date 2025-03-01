@@ -1,5 +1,5 @@
 ---
-title: "ETFs Versus Mutual Funds in IRAs (Algo Trading)"
+title: "ETFs Versus Mutual Funds in IRAs"
 description: "Explore the advantages and differences of ETFs and mutual funds in IRAs alongside algorithmic trading innovations for a diversified investment strategy."
 ---
 

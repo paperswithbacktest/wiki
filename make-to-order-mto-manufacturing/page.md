@@ -1,5 +1,5 @@
 ---
-title: "Make-to-Order (MTO) Manufacturing (Algo Trading)"
+title: "Make-to-Order (MTO) Manufacturing"
 description: "Explore the intersection of Make-to-Order manufacturing and algorithmic trading to enhance efficiency, customer satisfaction, and competitive advantage in modern markets."
 ---
 

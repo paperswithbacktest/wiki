@@ -1,5 +1,5 @@
 ---
-title: "Accruals and Accrual Accounting (Algo Trading)"
+title: "Accruals and Accrual Accounting"
 description: "Discover how accrual accounting enhances algorithmic trading strategies by offering precise financial reporting and strategic advantages for business success."
 ---
 

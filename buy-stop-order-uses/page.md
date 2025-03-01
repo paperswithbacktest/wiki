@@ -1,5 +1,5 @@
 ---
-title: "Buy Stop Order and Its Uses (Algo Trading)"
+title: "Buy Stop Order and Its Uses"
 description: "Discover the essentials of buy stop orders in algo trading to enhance portfolio management. Learn how these tools help mitigate risks and capture growth."
 ---
 

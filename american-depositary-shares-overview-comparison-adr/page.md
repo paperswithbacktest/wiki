@@ -1,5 +1,5 @@
 ---
-title: "American Depositary Shares: Overview and Comparison with ADRs (Algo Trading)"
+title: "American Depositary Shares: Overview and Comparison with ADRs"
 description: "Explore American Depositary Shares (ADS) and Receipts (ADR) for global investment. Enhance portfolio diversity and learn algorithmic trading advantages."
 ---
 

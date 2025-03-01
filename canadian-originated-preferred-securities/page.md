@@ -1,5 +1,5 @@
 ---
-title: "Canadian-Originated Preferred Securities (Algo Trading)"
+title: "Canadian-Originated Preferred Securities"
 description: "Discover how Canadian-originated preferred securities and algorithmic trading reshape the investment landscape, offering strategic advantages in a tech-driven market."
 ---
 

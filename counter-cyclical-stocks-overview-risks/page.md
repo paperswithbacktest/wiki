@@ -1,5 +1,5 @@
 ---
-title: "Counter-Cyclical Stocks: Overview and Risks (Algo Trading)"
+title: "Counter-Cyclical Stocks: Overview and Risks"
 description: "Explore the role of counter-cyclical stocks in investment strategies, their risks, and how algorithmic trading aids in managing these risks during economic downturns."
 ---
 

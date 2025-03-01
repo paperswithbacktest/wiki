@@ -1,5 +1,5 @@
 ---
-title: "Gary DeWaal: Legal Insights and Career Highlights (Algo Trading)"
+title: "Gary DeWaal: Legal Insights and Career Highlights"
 description: "Discover Gary DeWaal's esteemed career in financial regulation and algorithmic trading Explore his impactful insights, achievements, and industry influence"
 ---
 

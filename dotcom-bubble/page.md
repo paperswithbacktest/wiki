@@ -1,5 +1,5 @@
 ---
-title: "Dotcom Bubble (Algo Trading)"
+title: "Dotcom Bubble"
 description: "Discover how the dotcom bubble, internet boom, and algorithmic trading transformed markets uncovering key lessons in technology-driven financial evolution."
 ---
 

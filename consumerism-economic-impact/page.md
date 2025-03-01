@@ -1,5 +1,5 @@
 ---
-title: "Consumerism and Its Economic Impact (Algo Trading)"
+title: "Consumerism and Its Economic Impact"
 description: "Explore the economic impact of consumerism and algorithmic trading two forces reshaping markets by driving demand and revolutionizing trading practices."
 ---
 

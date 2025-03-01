@@ -1,5 +1,5 @@
 ---
-title: "Backflush Costing and Inventory Management (Algo Trading)"
+title: "Backflush Costing and Inventory Management"
 description: "Discover how backflush costing, inventory management, cost accounting, and algorithmic trading synergize to optimize business processes and boost profitability."
 ---
 

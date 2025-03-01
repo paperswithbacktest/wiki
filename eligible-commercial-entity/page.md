@@ -1,5 +1,5 @@
 ---
-title: "Eligible Commercial Entity (Algo Trading)"
+title: "Eligible Commercial Entity"
 description: "Understand the intricate relationship between eligible commercial entities and algorithmic trading, pivotal to modern financial markets and regulatory frameworks."
 ---
 

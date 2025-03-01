@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of First National Realty Partners in 2024 (Algo Trading)"
+title: "Evaluation of First National Realty Partners in 2024"
 description: "Explore First National Realty Partners' strategic market positioning and algorithmic trading methodologies to assess their 2024 performance amid evolving real estate trends."
 ---
 

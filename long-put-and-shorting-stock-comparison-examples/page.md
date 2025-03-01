@@ -1,5 +1,5 @@
 ---
-title: "Long Put and Shorting Stock: Comparison and Examples (Algo Trading)"
+title: "Long Put and Shorting Stock: Comparison and Examples"
 description: "Explore the investment strategies of long put options shorting stock and algorithmic trading to enhance returns and manage risks in volatile markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Investment Center: Purpose and Example (Algo Trading)"
+title: "Investment Center: Purpose and Example"
 description: "Discover how investment centers optimize profitability via financial responsibility and algorithmic trading while aligning with corporate strategies for success."
 ---
 

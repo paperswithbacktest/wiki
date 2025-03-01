@@ -1,5 +1,5 @@
 ---
-title: "Farmout Agreements: Significance and Process (Algo Trading)"
+title: "Farmout Agreements: Significance and Process"
 description: "Explore farmout agreements and their impact on oil, gas, and algo trading. Discover how they reduce financial risk and improve exploration strategies."
 ---
 

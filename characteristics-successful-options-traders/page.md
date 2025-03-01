@@ -1,5 +1,5 @@
 ---
-title: "Characteristics of Successful Options Traders (Algo Trading)"
+title: "Characteristics of Successful Options Traders"
 description: "Discover how successful options traders leverage risk management numerical aptitude discipline and technology to thrive in algorithmic trading markets."
 ---
 

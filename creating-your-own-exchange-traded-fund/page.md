@@ -1,5 +1,5 @@
 ---
-title: "Creating Your Own Exchange-Traded Fund (Algo Trading)"
+title: "Creating Your Own Exchange-Traded Fund"
 description: "Explore the innovative world of personalized ETFs using algorithmic trading to manage risk and enhance returns by tailoring portfolios to your unique goals."
 ---
 

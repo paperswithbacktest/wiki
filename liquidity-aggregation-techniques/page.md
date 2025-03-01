@@ -1,5 +1,5 @@
 ---
-title: "Liquidity Aggregation Techniques (Algo Trading)"
+title: "Liquidity Aggregation Techniques"
 description: "Explore liquidity aggregation techniques in algorithmic trading to integrate diverse liquidity sources, enhancing trade efficiency and minimizing costs."
 ---
 

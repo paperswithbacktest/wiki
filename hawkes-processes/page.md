@@ -1,5 +1,5 @@
 ---
-title: "Hawkes processes (Algo Trading)"
+title: "Hawkes processes"
 description: "Explore the Hawkes process in algorithmic trading to capture temporal clustering of events and enhance trading strategies with a strategic market edge."
 ---
 

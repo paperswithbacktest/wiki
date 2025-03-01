@@ -1,5 +1,5 @@
 ---
-title: "Cost of Capital and Required Rate of Return (Algo Trading)"
+title: "Cost of Capital and Required Rate of Return"
 description: "Explore the impact of cost of capital and required rate of return on algorithmic trading Analyze how these metrics guide investment decisions and optimize returns"
 ---
 

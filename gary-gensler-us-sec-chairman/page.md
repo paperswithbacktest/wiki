@@ -1,5 +1,5 @@
 ---
-title: "Gary Gensler: U.S. Securities and Exchange Commission Chairman (Algo Trading)"
+title: "Gary Gensler: U.S. Securities and Exchange Commission Chairman"
 description: "Explore Gary Gensler's influence on algorithmic trading as SEC Chairman focusing on market integrity and transparency while navigating regulatory challenges."
 ---
 

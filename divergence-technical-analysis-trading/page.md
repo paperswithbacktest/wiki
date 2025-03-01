@@ -1,5 +1,5 @@
 ---
-title: "Divergence in Technical Analysis and Trading (Algo Trading)"
+title: "Divergence in Technical Analysis and Trading"
 description: "Explore the synergy between divergence in technical analysis and algorithmic trading Discover how integrating these techniques can enhance trading efficiency and outcomes"
 ---
 

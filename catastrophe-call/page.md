@@ -1,5 +1,5 @@
 ---
-title: "Catastrophe Call (Algo Trading)"
+title: "Catastrophe Call"
 description: "Explore the connection between financial risk, catastrophe bonds, reinsurance, and algorithmic trading to enhance risk management strategies effectively."
 ---
 

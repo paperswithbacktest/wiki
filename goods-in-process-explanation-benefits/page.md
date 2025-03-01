@@ -1,5 +1,5 @@
 ---
-title: "Goods in Process: Explanation and Benefits (Algo Trading)"
+title: "Goods in Process: Explanation and Benefits"
 description: "Explore the synergy between work-in-progress in manufacturing and algorithmic trading highlighting its role in efficiency and strategy development. Discover the benefits here."
 ---
 

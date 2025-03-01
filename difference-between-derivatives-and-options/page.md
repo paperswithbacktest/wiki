@@ -1,5 +1,5 @@
 ---
-title: "Difference Between Derivatives and Options (Algo Trading)"
+title: "Difference Between Derivatives and Options"
 description: "Explore the significant differences between derivatives and options in algo trading. Understand their roles in market strategies and navigate financial landscapes effectively."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Netflix's Income Statement (Algo Trading)"
+title: "Analysis of Netflix's Income Statement"
 description: "Uncover insights into Netflix's financial health with a deep dive into its income statement Discover how algorithmic trading uses this data for strategic investments"
 ---
 

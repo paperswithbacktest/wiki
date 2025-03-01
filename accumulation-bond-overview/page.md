@@ -1,5 +1,5 @@
 ---
-title: "Accumulation Bond Overview (Algo Trading)"
+title: "Accumulation Bond Overview"
 description: "Explore the intricacies of accumulation bonds and their role in algorithmic trading Discover their benefits and drawbacks and how they suit long-term investors"
 ---
 

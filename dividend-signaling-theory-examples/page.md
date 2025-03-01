@@ -1,5 +1,5 @@
 ---
-title: "Dividend Signaling Theory and Examples (Algo Trading)"
+title: "Dividend Signaling Theory and Examples"
 description: "Explore the intersection of dividend signaling theory and algorithmic trading to enhance investment strategies by predicting company financial health and performance."
 ---
 

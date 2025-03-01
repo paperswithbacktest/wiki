@@ -1,5 +1,5 @@
 ---
-title: "Marginal Cost of Funds and Its Mechanism (Algo Trading)"
+title: "Marginal Cost of Funds and Its Mechanism"
 description: "Explore the significance of the marginal cost of funds in algorithmic trading Analyze how financial mechanisms and costs impact modern trading strategies for success"
 ---
 

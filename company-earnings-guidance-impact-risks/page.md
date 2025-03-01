@@ -1,5 +1,5 @@
 ---
-title: "Company Earnings Guidance: Impact and Risks (Algo Trading)"
+title: "Company Earnings Guidance: Impact and Risks"
 description: "Explore the intersection of company earnings guidance and algorithmic trading, highlighting their impact on investment strategies, market dynamics, and regulatory implications."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Linked Exchange Rate System (Algo Trading)"
+title: "Linked Exchange Rate System"
 description: "Navigate the world of finance with insights into exchange rate systems, linked rate mechanisms, and algorithmic trading to optimize global trading strategies."
 ---
 

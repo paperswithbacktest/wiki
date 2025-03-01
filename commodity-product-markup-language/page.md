@@ -1,5 +1,5 @@
 ---
-title: "Commodity product Markup Language (Algo Trading)"
+title: "Commodity product Markup Language"
 description: Discover the essential role of Commodity Product Markup Language (CpML) in revolutionizing algorithmic trading within the wholesale energy sector. As a standardized XML-based business markup language, CpML streamlines trading communications, ensuring speed, accuracy, and interoperability in complex transactions. This technology enhances operational efficiency, supports regulatory compliance, and enables high-frequency trading systems to execute deals swiftly and precisely. Explore how CpML continues to adapt and meet the dynamic demands of modern energy markets through standardized data exchange and seamless integration.
 ---
 

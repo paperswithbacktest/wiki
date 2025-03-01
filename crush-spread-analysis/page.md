@@ -1,5 +1,5 @@
 ---
-title: "Crush Spread Analysis (Algo Trading)"
+title: "Crush Spread Analysis"
 description: "Explore agricultural futures and the impact of crush spreads in soybean processing using algorithmic trading to optimize risk management and enhance profitability."
 ---
 

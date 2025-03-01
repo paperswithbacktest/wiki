@@ -1,5 +1,5 @@
 ---
-title: "Dominican Peso: Overview and History (Algo Trading)"
+title: "Dominican Peso: Overview and History"
 description: "Explore the history of the Dominican Peso and the impact of algorithmic trading on its market, enhancing trading strategies with a blend of tradition and innovation."
 ---
 

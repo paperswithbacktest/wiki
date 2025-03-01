@@ -1,5 +1,5 @@
 ---
-title: "Asset Performance and Mechanics (Algo Trading)"
+title: "Asset Performance and Mechanics"
 description: "Explore the synergy between asset management and algorithmic trading in shaping modern financial strategies Gain insights into optimizing returns and minimizing risks"
 ---
 

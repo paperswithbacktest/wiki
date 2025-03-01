@@ -1,5 +1,5 @@
 ---
-title: "Legalization of Cannabis in Canada (Algo Trading)"
+title: "Legalization of Cannabis in Canada"
 description: "Explore the impact of cannabis legalization in Canada including economic benefits regulatory measures and the rise of algorithmic trading in volatile cannabis stocks"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Alphanomics: Integration of Finance, Economics, and Behavioral Science (Algo Trading)"
+title: "Alphanomics: Integration of Finance, Economics, and Behavioral Science"
 description: "Discover Alphanomics where finance meets behavioral science and algorithmic trading to exploit market inefficiencies and enhance investment strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Convertible Preferred Shares (Algo Trading)"
+title: "Convertible Preferred Shares"
 description: "Discover the potential of convertible preferred shares in investment strategies. Learn how these hybrid instruments balance stability with growth opportunities through algorithmic trading."
 ---
 

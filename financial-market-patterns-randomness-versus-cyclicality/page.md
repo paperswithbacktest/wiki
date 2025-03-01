@@ -1,5 +1,5 @@
 ---
-title: "Financial Market Patterns: Randomness Versus Cyclicality (Algo Trading)"
+title: "Financial Market Patterns: Randomness Versus Cyclicality"
 description: "Explore the balance between randomness and cyclicality in financial markets and their effect on algorithmic trading Learn how patterns are discerned for strategic benefits"
 ---
 

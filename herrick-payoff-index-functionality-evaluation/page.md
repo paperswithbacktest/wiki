@@ -1,5 +1,5 @@
 ---
-title: "Herrick Payoff Index: Functionality and Evaluation (Algo Trading)"
+title: "Herrick Payoff Index: Functionality and Evaluation"
 description: "Explore the Herrick Payoff Index HPI, a powerful volume-based trading indicator used in algorithmic trading to analyze market trends and improve strategies."
 ---
 

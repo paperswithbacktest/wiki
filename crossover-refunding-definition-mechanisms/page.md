@@ -1,5 +1,5 @@
 ---
-title: "Crossover Refunding: Definition and Mechanisms (Algo Trading)"
+title: "Crossover Refunding: Definition and Mechanisms"
 description: "Explore the innovative approach of crossover refunding in municipal bonds to manage debt efficiently by leveraging algorithmic trading for optimized financial outcomes."
 ---
 

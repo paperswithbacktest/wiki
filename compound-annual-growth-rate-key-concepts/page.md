@@ -1,5 +1,5 @@
 ---
-title: "Compound Annual Growth Rate: Key Concepts (Algo Trading)"
+title: "Compound Annual Growth Rate: Key Concepts"
 description: "Understand the Compound Annual Growth Rate (CAGR) and its vital role in evaluating investment growth and enhancing algorithmic trading strategies. Optimize your approach."
 ---
 

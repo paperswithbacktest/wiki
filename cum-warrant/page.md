@@ -1,5 +1,5 @@
 ---
-title: "Cum Warrant (Algo Trading)"
+title: "Cum Warrant"
 description: "Explore the synergy between stock warrants and algorithmic trading in modern investment strategies. Learn how these tools can optimize trading and manage risks."
 ---
 

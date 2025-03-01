@@ -1,5 +1,5 @@
 ---
-title: "Absorption Costing: Overview, Advantages, Disadvantages, and Example (Algo Trading)"
+title: "Absorption Costing: Overview, Advantages, Disadvantages, and Example"
 description: "Explore the intricacies of absorption costing and its impact on financial strategies and profitability in dynamic markets enhanced by algorithmic trading innovations."
 ---
 

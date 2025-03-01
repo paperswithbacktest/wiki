@@ -1,5 +1,5 @@
 ---
-title: "Guidance for Financial Advisors on Crypto Taxes (Algo Trading)"
+title: "Guidance for Financial Advisors on Crypto Taxes"
 description: "Navigate the complexities of crypto taxation with expert insights on algorithmic trading and financial advisors to optimize strategies and ensure compliance."
 ---
 

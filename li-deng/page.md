@@ -1,5 +1,5 @@
 ---
-title: "Li Deng (Algo Trading)"
+title: "Li Deng"
 description: "Explore the journey of Li Deng from academia to AI innovation at Microsoft and his impactful role in finance as a leader in algorithmic trading at Citadel and beyond."
 ---
 

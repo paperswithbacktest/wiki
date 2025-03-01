@@ -1,5 +1,5 @@
 ---
-title: "Gary Artinian (Algo Trading)"
+title: "Gary Artinian"
 description: "Discover the journey of Gary Artinian an influential leader in algorithmic trading with a strong foundation in engineering finance and technology expertise."
 ---
 

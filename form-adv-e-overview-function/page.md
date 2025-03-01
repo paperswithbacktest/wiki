@@ -1,5 +1,5 @@
 ---
-title: "Form ADV-E: Overview and Function (Algo Trading)"
+title: "Form ADV-E: Overview and Function"
 description: "Explore Form ADV-E for investment advisers managing client funds or securities Learn its role in protecting client assets through annual audits and SEC compliance"
 ---
 

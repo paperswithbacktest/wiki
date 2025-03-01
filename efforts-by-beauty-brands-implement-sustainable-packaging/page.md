@@ -1,5 +1,5 @@
 ---
-title: "Efforts by Beauty Brands to Implement Sustainable Packaging (Algo Trading)"
+title: "Efforts by Beauty Brands to Implement Sustainable Packaging"
 description: "Beauty brands are increasingly adopting sustainable packaging to meet eco-conscious consumer demands by using recyclable materials and minimizing environmental impact."
 ---
 

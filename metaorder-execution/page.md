@@ -1,5 +1,5 @@
 ---
-title: "Meta-order execution (Algo Trading)"
+title: "Meta-order execution"
 description: "Meta-order execution in algo trading minimizes market impact and optimizes trade efficiency for large trades using advanced execution algorithms and strategies."
 ---
 

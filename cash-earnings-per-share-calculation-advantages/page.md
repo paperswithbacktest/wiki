@@ -1,5 +1,5 @@
 ---
-title: "Cash Earnings Per Share: Calculation and Advantages (Algo Trading)"
+title: "Cash Earnings Per Share: Calculation and Advantages"
 description: "Discover the importance of Cash Earnings Per Share in assessing a company's operational efficiency and financial health, crucial for informed investing decisions."
 ---
 

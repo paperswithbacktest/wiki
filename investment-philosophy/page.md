@@ -1,5 +1,5 @@
 ---
-title: "Investment Philosophy (Algo Trading)"
+title: "Investment Philosophy"
 description: "Discover the intricacies of investment philosophy in the modern landscape with insights into algorithmic trading blending traditional strategies and innovative techniques."
 ---
 

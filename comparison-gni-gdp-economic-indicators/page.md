@@ -1,5 +1,5 @@
 ---
-title: "Comparison of GNI and GDP as Economic Indicators (Algo Trading)"
+title: "Comparison of GNI and GDP as Economic Indicators"
 description: "Explore how algorithmic trading leverages GNI and GDP as key economic indicators to optimize investment strategies and enhance trading system predictions."
 ---
 

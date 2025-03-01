@@ -1,5 +1,5 @@
 ---
-title: "Discounted Future Earnings Valuation Method (Algo Trading)"
+title: "Discounted Future Earnings Valuation Method"
 description: "Explore the integration of Discounted Cash Flow valuation and algorithmic trading to enhance investment strategies by valuing future earnings and intrinsic worth."
 ---
 

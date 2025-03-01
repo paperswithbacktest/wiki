@@ -1,5 +1,5 @@
 ---
-title: "Bullish Engulfing Pattern (Algo Trading)"
+title: "Bullish Engulfing Pattern"
 description: "Explore the Bullish Engulfing Pattern for algo trading Learn how to identify this reversal signal and enhance trading strategies with algorithmic frameworks"
 ---
 

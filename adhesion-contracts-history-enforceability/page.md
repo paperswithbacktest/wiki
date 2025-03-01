@@ -1,5 +1,5 @@
 ---
-title: "Adhesion Contracts: History and Enforceability (Algo Trading)"
+title: "Adhesion Contracts: History and Enforceability"
 description: "Explore the history and enforceability of adhesion contracts in algorithmic trading Discover how these contracts impact legal compliance and market dynamics."
 ---
 

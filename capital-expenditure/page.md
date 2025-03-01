@@ -1,5 +1,5 @@
 ---
-title: "Capital Expenditure (Algo Trading)"
+title: "Capital Expenditure"
 description: "Explore the intersection of capital expenditure and algorithmic trading in modern finance where efficient management of business investments is vital for growth. Discover how algorithmic trading enhances investment strategies with precision and speed leading to better portfolio management and maximized returns."
 ---
 

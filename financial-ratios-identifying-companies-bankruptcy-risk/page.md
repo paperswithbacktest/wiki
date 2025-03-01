@@ -1,5 +1,5 @@
 ---
-title: "Financial Ratios for Identifying Companies at Risk of Bankruptcy (Algo Trading)"
+title: "Financial Ratios for Identifying Companies at Risk of Bankruptcy"
 description: "Explore how financial ratios like Current Ratio and Debt/Equity help predict bankruptcy risks and enhance algorithmic trading strategies for robust investments."
 ---
 

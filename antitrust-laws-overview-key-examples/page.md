@@ -1,5 +1,5 @@
 ---
-title: "Antitrust Laws: Overview and Key Examples (Algo Trading)"
+title: "Antitrust Laws: Overview and Key Examples"
 description: "Explore the significance of antitrust laws in maintaining fair competition and regulating algorithmic trading. Discover their evolving role against digital monopolies."
 ---
 

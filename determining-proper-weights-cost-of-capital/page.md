@@ -1,5 +1,5 @@
 ---
-title: "Determining Proper Weights for Cost of Capital (Algo Trading)"
+title: "Determining Proper Weights for Cost of Capital"
 description: "Explore the essential role of cost of capital in financial management and algorithmic trading Learn to optimize investment strategies and boost financial decisions"
 ---
 

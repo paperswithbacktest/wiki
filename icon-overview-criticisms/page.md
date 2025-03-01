@@ -1,5 +1,5 @@
 ---
-title: "ICON Overview and Criticisms (Algo Trading)"
+title: "ICON Overview and Criticisms"
 description: "Discover the role of ICON in enhancing cryptocurrency algorithmic trading with seamless interoperability improving efficiency and precision in a volatile market."
 ---
 

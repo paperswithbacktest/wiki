@@ -1,5 +1,5 @@
 ---
-title: "The Heston Model (Algo Trading)"
+title: "The Heston Model"
 description: Discover the advanced Heston model for options pricing in algo trading, known for its stochastic volatility feature that addresses Black-Scholes model limitations. Uncover the model's theoretical foundations, its impact on trading strategies, and its application in Python for enhanced trade execution and risk management. Explore comparisons with Black-Scholes and understand the Heston model's role in pricing complex options and adapting to market volatility, providing traders a robust framework for financial forecasting and strategy optimization.
 ---
 

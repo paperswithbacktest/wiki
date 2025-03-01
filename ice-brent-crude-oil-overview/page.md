@@ -1,5 +1,5 @@
 ---
-title: "ICE Brent Crude Oil Overview (Algo Trading)"
+title: "ICE Brent Crude Oil Overview"
 description: "Explore the significance of ICE Brent Crude Oil in energy markets and the role of algorithmic trading in optimizing strategies and risk management."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Canada Premium Bond Overview (Algo Trading)"
+title: "Canada Premium Bond Overview"
 description: "Explore the historical significance of Canada Premium Bonds and their transformation through algorithmic trading a modern force reshaping traditional bond markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Determination of Savings Account Interest Rates (Algo Trading)"
+title: "Determination of Savings Account Interest Rates"
 description: "Discover the interplay between algorithmic trading, bank rates, and savings account interest rates to optimize your financial strategies in today's market."
 ---
 

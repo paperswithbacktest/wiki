@@ -1,5 +1,5 @@
 ---
-title: "Gross, Operating, and Net Profit Margins (Algo Trading)"
+title: "Gross, Operating, and Net Profit Margins"
 description: "Explore how different profit margins impact trading decisions in algorithmic trading providing key insights into a company's financial health and profitability."
 ---
 

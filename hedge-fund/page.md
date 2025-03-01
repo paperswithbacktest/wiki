@@ -1,5 +1,5 @@
 ---
-title: "Hedge Fund (Algo Trading)"
+title: "Hedge Fund"
 description: "Explore the synergy between hedge funds and algorithmic trading as they revolutionize investment strategies with data analytics and advanced technology for superior returns."
 ---
 

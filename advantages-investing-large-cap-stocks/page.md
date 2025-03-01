@@ -1,5 +1,5 @@
 ---
-title: "Advantages of Investing in Large-Cap Stocks (Algo Trading)"
+title: "Advantages of Investing in Large-Cap Stocks"
 description: "Discover the benefits of investing in large-cap stocks with algo trading which include stability, reliable dividends, liquidity, and informed decision-making."
 ---
 

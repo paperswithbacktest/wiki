@@ -1,5 +1,5 @@
 ---
-title: "Advance-Decline Indicator Explained (Algo Trading)"
+title: "Advance-Decline Indicator Explained"
 description: Discover the intricacies of the Advance-Decline Indicator and its vital role in algorithmic trading. This guide explores how the AD line can enhance trading strategies by offering insights into market breadth, confirming trends, and identifying potential reversals. Unlock the potential of this powerful indicator to improve the precision and effectiveness of your algo trading endeavors with expert insights and practical applications.
 ---
 

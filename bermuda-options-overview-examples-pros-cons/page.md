@@ -1,5 +1,5 @@
 ---
-title: "Bermuda Options: Overview, Examples, Pros and Cons (Algo Trading)"
+title: "Bermuda Options: Overview, Examples, Pros and Cons"
 description: "Explore Bermuda options and their unique exercise flexibility which blends American and European features for strategic trading, hedging, and algorithmic efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Application of Random Walk Theory in Investing (Algo Trading)"
+title: "Application of Random Walk Theory in Investing"
 description: "Explore how Random Walk Theory influences algorithmic trading in modern finance, offering unique insights for developing superior trading strategies and optimizing returns."
 ---
 

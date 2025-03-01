@@ -1,5 +1,5 @@
 ---
-title: "Comparison of ETF Gross and Net Expense Ratios (Algo Trading)"
+title: "Comparison of ETF Gross and Net Expense Ratios"
 description: "Explore ETF gross and net expense ratios and their impact on investments with a focus on cost efficiency Algo trading influences expense ratios and returns"
 ---
 

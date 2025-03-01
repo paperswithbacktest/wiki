@@ -1,5 +1,5 @@
 ---
-title: "Business Income: Overview and Taxation (Algo Trading)"
+title: "Business Income: Overview and Taxation"
 description: "Explore how taxation, finance, and algorithmic trading intersect to inform strategic management of business income for optimized tax efficiency and compliance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Buying Power in Trading (Algo Trading)"
+title: "Buying Power in Trading"
 description: "Explore how buying power and algorithmic trading strategies can transform trading outcomes. Understand leverage, market opportunities, and risk management."
 ---
 

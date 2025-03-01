@@ -1,5 +1,5 @@
 ---
-title: "Impact of Demographic Trends on Investment Portfolios (Algo Trading)"
+title: "Impact of Demographic Trends on Investment Portfolios"
 description: "Explore how demographic trends and algorithmic trading are shaping investment portfolios. Understand the interplay of technology and aging populations on financial markets."
 ---
 

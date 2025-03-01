@@ -1,5 +1,5 @@
 ---
-title: "Central Purchasing Department: Advantages and Disadvantages (Algo Trading)"
+title: "Central Purchasing Department: Advantages and Disadvantages"
 description: "Explore the benefits and challenges of central purchasing and algorithmic trading Discover how these strategies can enhance procurement and market efficiency"
 ---
 

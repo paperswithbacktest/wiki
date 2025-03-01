@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Interactive Brokers and E*TRADE in 2024 (Algo Trading)"
+title: "Comparison of Interactive Brokers and E*TRADE in 2024"
 description: "Explore a comprehensive comparison of Interactive Brokers and E*TRADE in 2024 focusing on algorithmic trading features usability and costs to make informed trading decisions."
 ---
 

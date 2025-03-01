@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategy in Implied Volatility (Algo Trading)"
+title: "Investment Strategy in Implied Volatility"
 description: "Explore how implied volatility and algorithmic trading strategies shape options trading boosting investment techniques through refined insights and automation."
 ---
 

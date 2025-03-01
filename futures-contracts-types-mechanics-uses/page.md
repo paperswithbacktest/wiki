@@ -1,5 +1,5 @@
 ---
-title: "Futures Contracts: Types, Mechanics, and Uses in Trading (Algo Trading)"
+title: "Futures Contracts: Types, Mechanics, and Uses in Trading"
 description: "Explore the world of futures contracts and algo trading. Discover types, mechanics, and the role of algorithmic methods in trading for optimal strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Key Profit Metrics for Investors (Algo Trading)"
+title: "Key Profit Metrics for Investors"
 description: "Explore essential profit metrics in algo trading for investors to enhance decision-making and navigate volatile markets with data-driven strategies and analyses."
 ---
 

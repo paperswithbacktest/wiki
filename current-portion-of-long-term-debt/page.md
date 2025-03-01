@@ -1,5 +1,5 @@
 ---
-title: "Current Portion of Long-Term Debt (Algo Trading)"
+title: "Current Portion of Long-Term Debt"
 description: "Understand the significance of CPLTD in financial statements and its impact on liquidity ratios Crucial for assessing short-term obligations and investment strategies"
 ---
 

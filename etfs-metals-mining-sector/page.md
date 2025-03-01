@@ -1,5 +1,5 @@
 ---
-title: "ETFs in the Metals and Mining Sector (Algo Trading)"
+title: "ETFs in the Metals and Mining Sector"
 description: "Explore algorithmic trading in metals and mining ETFs Learn how this innovation enhances investment strategies while understanding potential risks and rewards"
 ---
 

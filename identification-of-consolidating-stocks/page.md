@@ -1,5 +1,5 @@
 ---
-title: "Identification of Consolidating Stocks (Algo Trading)"
+title: "Identification of Consolidating Stocks"
 description: "Explore investment strategies and technical analysis to identify consolidating stocks through algorithmic trading for optimized portfolio management."
 ---
 

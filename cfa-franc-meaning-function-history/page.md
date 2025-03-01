@@ -1,5 +1,5 @@
 ---
-title: "CFA Franc: Meaning, Function, and History (Algo Trading)"
+title: "CFA Franc: Meaning, Function, and History"
 description: "Explore the history, function, and impact of the CFA Franc, a currency linking 14 African countries with the Euro. Discover its role in modern finance."
 ---
 

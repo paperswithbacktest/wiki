@@ -1,5 +1,5 @@
 ---
-title: "Lawrence Berkeley National Laboratory (LBNL) (Algo Trading)"
+title: "Lawrence Berkeley National Laboratory (LBNL)"
 description: Explore Lawrence Berkeley National Laboratory's cutting-edge research in quantum computing and algorithmic trading, showcasing how their advancements in these fields promise to revolutionize financial markets through efficient and sophisticated data processing strategies.
 ---
 

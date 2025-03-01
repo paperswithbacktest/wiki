@@ -1,5 +1,5 @@
 ---
-title: "Canadian Association of Petroleum Producers (Algo Trading)"
+title: "Canadian Association of Petroleum Producers"
 description: "Explore the Canadian petroleum industry and its evolution with algorithmic trading Learn how trading algorithms impact energy sector efficiency and market risks"
 ---
 

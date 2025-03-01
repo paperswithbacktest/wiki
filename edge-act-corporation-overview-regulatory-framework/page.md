@@ -1,5 +1,5 @@
 ---
-title: "Edge Act Corporation: Overview and Regulatory Framework (Algo Trading)"
+title: "Edge Act Corporation: Overview and Regulatory Framework"
 description: "Explore Edge Act Corporations and algorithmic trading's regulatory impacts on global finance in this comprehensive guide. Stay informed on evolving banking standards."
 ---
 

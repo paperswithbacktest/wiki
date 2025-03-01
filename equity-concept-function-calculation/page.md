@@ -1,5 +1,5 @@
 ---
-title: "Equity: Concept, Function, and Calculation (Algo Trading)"
+title: "Equity: Concept, Function, and Calculation"
 description: "Discover the core of equity's role in finance, from shareholder equity to algorithmic trading. Learn its calculation essential for financial insights."
 ---
 

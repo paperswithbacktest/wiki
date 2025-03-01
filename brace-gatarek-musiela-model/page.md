@@ -1,5 +1,5 @@
 ---
-title: "Brace Gatarek Musiela Model (Algo Trading)"
+title: "Brace Gatarek Musiela Model"
 description: "Exploring the BGM model for interest rate derivatives and algorithmic trading offering insights into risk management strategies and financial market dynamics."
 ---
 

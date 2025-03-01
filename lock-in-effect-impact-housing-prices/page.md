@@ -1,5 +1,5 @@
 ---
-title: "Lock-In Effect and Its Impact on Housing Prices (Algo Trading)"
+title: "Lock-In Effect and Its Impact on Housing Prices"
 description: "Explore the impact of the real estate lock-in effect on housing prices and market mobility and discover how algo trading can forecast market trends."
 ---
 

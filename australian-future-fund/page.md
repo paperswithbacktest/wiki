@@ -1,5 +1,5 @@
 ---
-title: "Australian Future Fund (Algo Trading)"
+title: "Australian Future Fund"
 description: "Explore the Australian Future Fund's use of algorithmic trading to enhance investment performance and financial security for the nation through strategic management."
 ---
 

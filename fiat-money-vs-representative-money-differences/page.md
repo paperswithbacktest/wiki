@@ -1,5 +1,5 @@
 ---
-title: "Fiat Money vs. Representative Money: Differences (Algo Trading)"
+title: "Fiat Money vs. Representative Money: Differences"
 description: "Explore the key differences between fiat money and representative money while understanding their roles in modern financial systems and algorithmic trading."
 ---
 

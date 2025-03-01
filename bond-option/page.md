@@ -1,5 +1,5 @@
 ---
-title: "Bond Option (Algo Trading)"
+title: "Bond Option"
 description: "Explore the role of bond options and algorithmic trading in investment strategy. Learn how these financial instruments shape market dynamics and manage risk effectively."
 ---
 

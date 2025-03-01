@@ -1,5 +1,5 @@
 ---
-title: "Covered Securities and Tax Implications (Algo Trading)"
+title: "Covered Securities and Tax Implications"
 description: "Explore the tax implications and regulatory framework of covered securities in algorithmic trading to optimize strategies while ensuring compliance."
 ---
 

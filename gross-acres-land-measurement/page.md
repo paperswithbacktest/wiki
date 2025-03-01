@@ -1,5 +1,5 @@
 ---
-title: "Gross Acres in Land Measurement (Algo Trading)"
+title: "Gross Acres in Land Measurement"
 description: "Explore the synergy between gross acres in real estate and algorithmic trading with insights on leveraging land metrics to enhance investment strategies in a tech-driven market."
 ---
 

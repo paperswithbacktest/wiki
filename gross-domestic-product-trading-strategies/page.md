@@ -1,5 +1,5 @@
 ---
-title: "Gross Domestic Product Trading Strategies (Algo Trading)"
+title: "Gross Domestic Product Trading Strategies"
 description: "Discover GDP-based forex trading strategies enhanced by algorithmic tools for precise decision-making Explore how GDP figures impact currency trends and trading outcomes"
 ---
 

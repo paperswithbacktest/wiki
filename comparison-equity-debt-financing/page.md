@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Equity and Debt Financing (Algo Trading)"
+title: "Comparison of Equity and Debt Financing"
 description: "Explore the benefits and drawbacks of equity versus debt financing in algo trading Learn how each option influences business growth ownership and financial strategy"
 ---
 

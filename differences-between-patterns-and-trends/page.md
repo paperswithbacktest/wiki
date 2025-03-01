@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Patterns and Trends (Algo Trading)"
+title: "Differences Between Patterns and Trends"
 description: "Explore the distinction between patterns and trends in algorithmic trading. Learn how these elements guide strategic decisions to optimize and automate trade executions."
 ---
 

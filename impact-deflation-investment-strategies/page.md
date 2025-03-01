@@ -1,5 +1,5 @@
 ---
-title: "Impact of Deflation on Investment Strategies (Algo Trading)"
+title: "Impact of Deflation on Investment Strategies"
 description: "Explore the impacts of deflation on investment strategies and algorithmic trading understanding how economic downturns present unique risks and opportunities."
 ---
 

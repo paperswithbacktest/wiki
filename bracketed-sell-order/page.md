@@ -1,5 +1,5 @@
 ---
-title: "Bracketed Sell Order (Algo Trading)"
+title: "Bracketed Sell Order"
 description: "Explore the role of bracketed sell orders in algorithmic trading to effectively manage risk and optimize strategies for better trading outcomes in volatile markets."
 ---
 

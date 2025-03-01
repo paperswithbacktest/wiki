@@ -1,5 +1,5 @@
 ---
-title: "Fixed-Interest Securities: Definition, Function, and Risks (Algo Trading)"
+title: "Fixed-Interest Securities: Definition, Function, and Risks"
 description: "Explore fixed-interest securities and understand their predictable returns and inherent risks. Learn how algorithmic trading enhances management and investment strategies."
 ---
 

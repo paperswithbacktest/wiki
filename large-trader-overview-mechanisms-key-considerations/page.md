@@ -1,5 +1,5 @@
 ---
-title: "Large Trader: Overview, Mechanisms, and Key Considerations (Algo Trading)"
+title: "Large Trader: Overview, Mechanisms, and Key Considerations"
 description: "Explore the intricacies of algorithmic trading for large traders in modern financial markets Discover key strategies for optimizing trading efficiency and market impact"
 ---
 

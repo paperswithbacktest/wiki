@@ -1,5 +1,5 @@
 ---
-title: "Earnings Recast: Overview and Example (Algo Trading)"
+title: "Earnings Recast: Overview and Example"
 description: "Discover the vital role of earnings recast in algorithmic trading and financial markets, exploring transparency, market efficiency, and investor perceptions."
 ---
 

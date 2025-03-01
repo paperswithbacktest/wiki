@@ -1,5 +1,5 @@
 ---
-title: "Intraday Trading and Strategies (Algo Trading)"
+title: "Intraday Trading and Strategies"
 description: "Explore effective day and intraday trading strategies that leverage algorithmic trading to enhance performance, reduce risks, and boost profitability."
 ---
 

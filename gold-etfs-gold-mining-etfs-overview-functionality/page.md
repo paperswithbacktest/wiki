@@ -1,5 +1,5 @@
 ---
-title: "Gold ETFs and Gold Mining ETFs: Overview and Functionality (Algo Trading)"
+title: "Gold ETFs and Gold Mining ETFs: Overview and Functionality"
 description: "Explore the impact of algorithmic trading on Gold and Gold Mining ETFs as investors seek diversified, responsive strategies for portfolio optimization."
 ---
 

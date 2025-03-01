@@ -1,5 +1,5 @@
 ---
-title: "Heatmap: Definition, Function, and Examples (Algo Trading)"
+title: "Heatmap: Definition, Function, and Examples"
 description: "Discover how heatmaps enhance algorithmic trading through clear data visualization of trends and patterns allowing for informed decision-making and strategy execution."
 ---
 

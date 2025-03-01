@@ -1,5 +1,5 @@
 ---
-title: "Cum Dividend: Overview, Mechanism, and Example (Algo Trading)"
+title: "Cum Dividend: Overview, Mechanism, and Example"
 description: "Explore the cum dividend process and how algorithmic trading optimizes stock trading and investment strategies around key dividend dates for maximum returns."
 ---
 

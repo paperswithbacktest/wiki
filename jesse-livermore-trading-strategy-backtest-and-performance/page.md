@@ -1,5 +1,5 @@
 ---
-title: "Jesse Livermore Trading Strategy: Backtest and Performance (Algo Trading)"
+title: "Jesse Livermore Trading Strategy: Backtest and Performance"
 description: Explore how Jesse Livermore's legendary trading strategies can be integrated into modern algorithmic trading systems. This article examines the timeless principles of market trend analysis, risk management, and leverage that Livermore perfected, and discusses their application in creating disciplined and adaptable trading strategies using advanced computational methods. Learn how blending historical trading wisdom with today’s technology can enhance trading performance in the complex financial markets.
 ---
 

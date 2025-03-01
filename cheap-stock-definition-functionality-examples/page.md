@@ -1,5 +1,5 @@
 ---
-title: "Cheap Stock: Definition, Functionality, and Examples (Algo Trading)"
+title: "Cheap Stock: Definition, Functionality, and Examples"
 description: "Explore how algorithmic trading can identify and exploit undervalued stocks within financial markets enhancing investment strategies and optimizing returns."
 ---
 

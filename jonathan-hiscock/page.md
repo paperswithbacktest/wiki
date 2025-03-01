@@ -1,5 +1,5 @@
 ---
-title: "Jonathan Hiscock (Algo Trading)"
+title: "Jonathan Hiscock"
 description: Jonathan Hiscock is a renowned British hedge fund manager and founder of GSA Capital, a leading London-based quantitative investment firm excelling in algorithmic trading. Esteemed for his financial acumen, Hiscock's net worth was estimated at £350 million by The Sunday Times Rich List 2019. With a strong foundation in mathematics from the University of Oxford, Hiscock developed his expertise at Deutsche Bank before establishing GSA Capital in 2005. The firm, which emphasizes quantitative strategies and cutting-edge technology, has achieved extraordinary growth and success under Hiscock's leadership. This article explores Hiscock's journey, the founding and growth of GSA Capital, and the pivotal role of algorithmic trading in modern finance.
 ---
 

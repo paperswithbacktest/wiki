@@ -1,5 +1,5 @@
 ---
-title: "COMEX: History and Metals Traded (Algo Trading)"
+title: "COMEX: History and Metals Traded"
 description: "Dive into the history of COMEX, a pivotal metals trading hub, and explore how algorithmic trading reshapes strategies within this influential market."
 ---
 

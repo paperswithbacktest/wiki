@@ -1,5 +1,5 @@
 ---
-title: "Earnings Season Overview (Algo Trading)"
+title: "Earnings Season Overview"
 description: "Explore the role of algorithmic trading during earnings season a critical period when companies report quarterly financial results and affecting market dynamics."
 ---
 

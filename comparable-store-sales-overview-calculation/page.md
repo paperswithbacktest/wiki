@@ -1,5 +1,5 @@
 ---
-title: "Comparable Store Sales: Overview and Calculation (Algo Trading)"
+title: "Comparable Store Sales: Overview and Calculation"
 description: "Explore how comparable store sales can enhance retail strategies by analyzing organic growth at established locations and integrating with algo trading for optimized performance."
 ---
 

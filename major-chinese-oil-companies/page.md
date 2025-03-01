@@ -1,5 +1,5 @@
 ---
-title: "Major Chinese Oil Companies (Algo Trading)"
+title: "Major Chinese Oil Companies"
 description: "Explore major Chinese oil firms like CNPC, Sinopec, and CNOOC as they leverage algorithmic trading to enhance operational efficiencies and market strategies."
 ---
 

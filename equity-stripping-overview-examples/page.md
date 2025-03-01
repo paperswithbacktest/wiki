@@ -1,5 +1,5 @@
 ---
-title: "Equity Stripping: Overview and Examples (Algo Trading)"
+title: "Equity Stripping: Overview and Examples"
 description: "Explore equity stripping as a strategic tool in asset protection and its synergy with algorithmic trading to boost investment efficiency and safeguard assets."
 ---
 

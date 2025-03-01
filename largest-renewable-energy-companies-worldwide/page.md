@@ -1,5 +1,5 @@
 ---
-title: "Largest Renewable Energy Companies Worldwide (Algo Trading)"
+title: "Largest Renewable Energy Companies Worldwide"
 description: "Explore the intersection of sustainable energy and innovation as top renewable companies leverage algorithmic trading for optimal investment strategies globally."
 ---
 

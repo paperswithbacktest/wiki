@@ -1,5 +1,5 @@
 ---
-title: "Fundamentals: Types and Common Analysis Ratios (Algo Trading)"
+title: "Fundamentals: Types and Common Analysis Ratios"
 description: "Explore the importance of financial ratios in algorithmic trading and fundamental analysis to make strategic investment decisions and gain a competitive edge."
 ---
 

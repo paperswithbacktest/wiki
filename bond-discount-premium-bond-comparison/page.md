@@ -1,5 +1,5 @@
 ---
-title: "Bond Discount and Premium Bond Comparison (Algo Trading)"
+title: "Bond Discount and Premium Bond Comparison"
 description: "Explore the differences between premium and discount bonds in this in-depth analysis, highlighting their pricing mechanisms and impact on investment strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Dogecoin: Overview, History, and Applications (Algo Trading)"
+title: "Dogecoin: Overview, History, and Applications"
 description: "Explore Dogecoin's roots as a fun cryptocurrency and its growth into a popular asset. Delve into how algo trading strategies enhance trading efficiency in volatile crypto markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Exogenous Growth Theory and Comparison with Endogenous Growth (Algo Trading)"
+title: "Exogenous Growth Theory and Comparison with Endogenous Growth"
 description: "Explore the relationship between exogenous and endogenous growth theories and their influence on algorithmic trading strategies and financial market trends."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Asset Retirement Obligation Overview (Algo Trading)"
+title: "Asset Retirement Obligation Overview"
 description: "Explore the essential financial concepts of Asset Retirement Obligation and algorithmic trading, crucial for risk management and strategic decision-making in finance."
 ---
 

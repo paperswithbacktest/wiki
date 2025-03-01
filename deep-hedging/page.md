@@ -1,5 +1,5 @@
 ---
-title: "Deep Hedging (Algo Trading)"
+title: "Deep Hedging"
 description: "Explore Deep Hedging an innovative algorithmic trading strategy combining deep learning and hedging to dynamically manage risk and optimize returns."
 ---
 

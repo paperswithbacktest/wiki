@@ -1,5 +1,5 @@
 ---
-title: "Ithaca HOURS: Overview and Functionality (Algo Trading)"
+title: "Ithaca HOURS: Overview and Functionality"
 description: "Explore the synergy between Ithaca HOURS and algorithmic trading in enhancing community economics by leveraging local currencies for sustainable economic development."
 ---
 

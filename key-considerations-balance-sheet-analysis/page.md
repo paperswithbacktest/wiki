@@ -1,5 +1,5 @@
 ---
-title: "Key Considerations in Balance Sheet Analysis (Algo Trading)"
+title: "Key Considerations in Balance Sheet Analysis"
 description: "Explore balance sheet analysis crucial for algorithmic trading Discover key financial ratios and insights into assets liabilities and equity to enhance trading strategies"
 ---
 

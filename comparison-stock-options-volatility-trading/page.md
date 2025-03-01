@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Stock and Options Volatility Trading (Algo Trading)"
+title: "Comparison of Stock and Options Volatility Trading"
 description: "Explore the dynamics of stock and options volatility trading with algorithmic strategies that optimize volatility for potential profit and risk management."
 ---
 

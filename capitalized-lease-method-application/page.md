@@ -1,5 +1,5 @@
 ---
-title: "Capitalized Lease Method and Its Application (Algo Trading)"
+title: "Capitalized Lease Method and Its Application"
 description: "Explore the intertwined realms of capital leases and algorithmic trading. Discover how they reshape financial strategies enhancing transparency and compliance."
 ---
 

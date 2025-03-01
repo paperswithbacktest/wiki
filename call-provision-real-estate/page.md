@@ -1,5 +1,5 @@
 ---
-title: "Call Provision in Real Estate (Algo Trading)"
+title: "Call Provision in Real Estate"
 description: "Explore the synergy of call provisions and algorithmic trading in real estate finance Discover how these elements reshape strategies and enhance market efficiencies"
 ---
 

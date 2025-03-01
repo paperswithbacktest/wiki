@@ -1,5 +1,5 @@
 ---
-title: "Largest State-Owned Oil Companies (Algo Trading)"
+title: "Largest State-Owned Oil Companies"
 description: "Explore the synergy between state-owned oil companies and algorithmic trading. Discover how technology optimizes trading efficiency and shapes the energy sector's future."
 ---
 

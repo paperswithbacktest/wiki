@@ -1,5 +1,5 @@
 ---
-title: "Crypto Regulatory Sandbox and Its Functionality (Algo Trading)"
+title: "Crypto Regulatory Sandbox and Its Functionality"
 description: "Explore the impact of regulatory sandboxes in the crypto market with a focus on innovation and compliance in algorithmic trading for digital currencies."
 ---
 

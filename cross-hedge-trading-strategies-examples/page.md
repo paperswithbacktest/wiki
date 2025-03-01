@@ -1,5 +1,5 @@
 ---
-title: "Cross Hedge: Trading Strategies and Examples (Algo Trading)"
+title: "Cross Hedge: Trading Strategies and Examples"
 description: "Explore cross hedge trading strategies with algorithmic precision to mitigate investment risks using correlated assets Learn how algo trading enhances efficiency"
 ---
 

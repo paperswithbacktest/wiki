@@ -1,5 +1,5 @@
 ---
-title: "Currency Band (Algo Trading)"
+title: "Currency Band"
 description: "Learn about currency bands in algo trading and how they stabilize exchange rates using upper and lower limits addressing foreign exchange volatility efficiently."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Financial Information Exchange (FIX) Protocol and Users (Algo Trading)"
+title: "Financial Information Exchange (FIX) Protocol and Users"
 description: "Unlock the power of the FIX protocol in algorithmic trading by enhancing trade efficiency through standardized, low-latency communication essential for success."
 ---
 

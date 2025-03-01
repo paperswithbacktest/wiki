@@ -1,5 +1,5 @@
 ---
-title: "Adjusting Journal Entry: Purpose, Types, and Example (Algo Trading)"
+title: "Adjusting Journal Entry: Purpose, Types, and Example"
 description: "Explore the essential role of adjusting journal entries in accurate financial reporting and accounting. Learn about their types, impact on algo trading, and more."
 ---
 

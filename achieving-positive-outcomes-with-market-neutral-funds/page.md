@@ -1,5 +1,5 @@
 ---
-title: "Achieving Positive Outcomes With Market-Neutral Funds (Algo Trading)"
+title: "Achieving Positive Outcomes With Market-Neutral Funds"
 description: "Explore the benefits of market-neutral funds for stable returns amidst market volatility. Discover how algorithmic trading plays a key role in mitigating risks."
 ---
 

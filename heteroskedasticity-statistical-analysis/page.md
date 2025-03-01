@@ -1,5 +1,5 @@
 ---
-title: "Heteroskedasticity in Statistical Analysis (Algo Trading)"
+title: "Heteroskedasticity in Statistical Analysis"
 description: "Explore the critical concept of heteroskedasticity in econometrics and its impact on algorithmic trading models ensuring accurate predictions and trading success."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Disclosure Requirements for Private Companies (Algo Trading)"
+title: "Disclosure Requirements for Private Companies"
 description: "Explore the impact of financial disclosure requirements on private companies, particularly in the context of algorithmic trading, to understand market dynamics."
 ---
 

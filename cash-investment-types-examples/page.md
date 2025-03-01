@@ -1,5 +1,5 @@
 ---
-title: "Cash Investment Types and Examples (Algo Trading)"
+title: "Cash Investment Types and Examples"
 description: "Explore cash investment strategies and algorithmic trading methods including benefits and drawbacks with examples to optimize your financial decisions."
 ---
 

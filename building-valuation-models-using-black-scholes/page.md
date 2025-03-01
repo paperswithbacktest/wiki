@@ -1,5 +1,5 @@
 ---
-title: "Building Valuation Models Using Black-Scholes (Algo Trading)"
+title: "Building Valuation Models Using Black-Scholes"
 description: "Explore how the Black-Scholes model revolutionizes financial modeling by providing a systematic approach for valuing options in algo trading environments."
 ---
 

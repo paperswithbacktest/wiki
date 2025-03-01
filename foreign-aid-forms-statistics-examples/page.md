@@ -1,5 +1,5 @@
 ---
-title: "Foreign Aid: Forms, Statistics, and Examples (Algo Trading)"
+title: "Foreign Aid: Forms, Statistics, and Examples"
 description: "Explore how foreign aid shapes global relations and economic stability highlighting its forms and impact. Discover the role of algorithmic trading and data analytics."
 ---
 

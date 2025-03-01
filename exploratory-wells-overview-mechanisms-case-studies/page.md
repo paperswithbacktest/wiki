@@ -1,5 +1,5 @@
 ---
-title: "Exploratory Wells: Overview, Mechanisms, and Case Studies (Algo Trading)"
+title: "Exploratory Wells: Overview, Mechanisms, and Case Studies"
 description: "Explore how exploratory wells and algorithmic trading are reshaping the oil industry. Learn the mechanisms, case studies, and advantages for a profitable future."
 ---
 

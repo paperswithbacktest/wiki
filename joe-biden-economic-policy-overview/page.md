@@ -1,5 +1,5 @@
 ---
-title: "Joe Biden's Economic Policy Overview (Algo Trading)"
+title: "Joe Biden's Economic Policy Overview"
 description: "Explore the transformative impact of President Joe Biden's economic policies designed to foster growth and equity within the U.S. economy. Discover how initiatives like infrastructure investment, green energy focus, and tax reforms under \"Bidenomics\" are shaping market dynamics and trading strategies while addressing post-pandemic recovery and ensuring sustainable development."
 ---
 

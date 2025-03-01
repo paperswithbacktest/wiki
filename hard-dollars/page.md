@@ -1,5 +1,5 @@
 ---
-title: "Hard Dollars (Algo Trading)"
+title: "Hard Dollars"
 description: "Understand hard dollars and their key role in algorithmic trading. Explore how direct payments enhance transparency, efficiency, and regulatory compliance."
 ---
 

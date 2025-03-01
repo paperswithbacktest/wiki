@@ -1,5 +1,5 @@
 ---
-title: "Bull Flattener: Examples, Benefits, and Drawbacks (Algo Trading)"
+title: "Bull Flattener: Examples, Benefits, and Drawbacks"
 description: "Explore the bull flattener strategy in fixed income trading where long-term rates fall faster than short-term rates. Learn how algorithmic trading enhances this approach."
 ---
 

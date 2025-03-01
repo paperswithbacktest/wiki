@@ -1,5 +1,5 @@
 ---
-title: "Comprehensive Income and Other Comprehensive Income (Algo Trading)"
+title: "Comprehensive Income and Other Comprehensive Income"
 description: "Explore comprehensive income's role in financial reporting and algorithmic trading. Understand how it reveals a company's full financial health with unrealized gains."
 ---
 

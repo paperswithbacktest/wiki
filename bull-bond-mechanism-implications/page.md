@@ -1,5 +1,5 @@
 ---
-title: "Bull Bond: Mechanism and Implications (Algo Trading)"
+title: "Bull Bond: Mechanism and Implications"
 description: "Explore the potential of bull bonds and algo trading Learn how these investment tools capitalize on market growth offering lucrative returns and strategic advantages"
 ---
 

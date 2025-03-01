@@ -1,5 +1,5 @@
 ---
-title: "Impact of Market Share on Stock Performance (Algo Trading)"
+title: "Impact of Market Share on Stock Performance"
 description: "Explore how market share influences stock performance and the role of algorithmic trading. Dive into company valuation techniques affecting economic perceptions and investments."
 ---
 

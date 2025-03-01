@@ -1,5 +1,5 @@
 ---
-title: "MEMX: Overview, Functionality, and Purpose (Algo Trading)"
+title: "MEMX: Overview, Functionality, and Purpose"
 description: "Discover how MEMX, a member-owned exchange, reshapes US equities trading by enhancing competition, transparency, and cost-effectiveness, ideal for algo trading."
 ---
 

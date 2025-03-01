@@ -1,5 +1,5 @@
 ---
-title: "Gross Domestic Product Calculation Using the Income Approach (Algo Trading)"
+title: "Gross Domestic Product Calculation Using the Income Approach"
 description: "Explore how the Income Approach is used to calculate GDP and its integration with algorithmic trading to enhance market predictions and strategy efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "HENRYs: High Earners Not Rich Yet (Algo Trading)"
+title: "HENRYs: High Earners Not Rich Yet"
 description: "Explore how HENRYs can leverage algorithmic trading to grow wealth efficiently. This article investigates into financial challenges, opportunities, and strategies."
 ---
 

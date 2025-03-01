@@ -1,5 +1,5 @@
 ---
-title: "Junior Equity: Overview and Benefits (Algo Trading)"
+title: "Junior Equity: Overview and Benefits"
 description: "Discover the potential of junior equity investments and how algorithmic trading enhances returns through data-driven insights and informed decisions."
 ---
 

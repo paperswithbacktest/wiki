@@ -1,5 +1,5 @@
 ---
-title: "List of Largest Restaurant Companies (Algo Trading)"
+title: "List of Largest Restaurant Companies"
 description: "Explore the impact of algorithmic trading on major restaurant corporations like McDonald's and Starbucks, and how they adapt to market shifts and consumer trends."
 ---
 

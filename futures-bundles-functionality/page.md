@@ -1,5 +1,5 @@
 ---
-title: "Futures Bundles and Their Functionality (Algo Trading)"
+title: "Futures Bundles and Their Functionality"
 description: "Explore how futures bundle trading and algorithmic strategies can optimize portfolios. Learn about their benefits, mechanics, and potential pitfalls."
 ---
 

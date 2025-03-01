@@ -1,5 +1,5 @@
 ---
-title: "Currency Issuance Authority in Canada (Algo Trading)"
+title: "Currency Issuance Authority in Canada"
 description: "Explore the complexities of currency issuance and algorithmic trading in Canada, revealing their impact on monetary policies and the evolving economic landscape."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bollinger Bands in Forex Trading (Algo Trading)"
+title: "Bollinger Bands in Forex Trading"
 description: "Explore how Bollinger Bands enhance forex and algorithmic trading by identifying market volatility and entry points for improved strategies and optimum results."
 ---
 

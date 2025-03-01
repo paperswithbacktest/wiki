@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning in Finance (Algo Trading)"
+title: "Machine Learning in Finance"
 description: "Explore how algorithmic trading and machine learning are transforming finance by enhancing trading efficiency, optimizing strategies, and improving decision-making."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Conglomerate Discount and Its Disadvantages (Algo Trading)"
+title: "Conglomerate Discount and Its Disadvantages"
 description: "Explore the complexities of conglomerate structures and the impact of algorithmic trading on valuations in today's multifaceted business environment."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Anchoring Effect in Investment Strategies (Algo Trading)"
+title: "Anchoring Effect in Investment Strategies"
 description: "Explore how anchoring bias impacts investment strategies and algorithmic trading, and discover methods to mitigate its effects for optimal financial outcomes."
 ---
 

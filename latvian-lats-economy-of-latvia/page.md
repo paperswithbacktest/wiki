@@ -1,5 +1,5 @@
 ---
-title: "Latvian Lats and the Economy of Latvia (Algo Trading)"
+title: "Latvian Lats and the Economy of Latvia"
 description: "Discover Latvia's economic evolution from lats to euro and its embrace of algorithmic trading a pivotal move enhancing stability and global market connectivity."
 ---
 

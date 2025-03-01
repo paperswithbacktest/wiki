@@ -1,5 +1,5 @@
 ---
-title: "Custom Basket Exchange-Traded Funds (Algo Trading)"
+title: "Custom Basket Exchange-Traded Funds"
 description: "Explore the potential of custom basket ETFs optimized for diversification and risk management, powered by algorithmic trading for precision and efficiency."
 ---
 

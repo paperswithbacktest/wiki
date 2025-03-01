@@ -1,5 +1,5 @@
 ---
-title: "Elk Capital Markets (Algo Trading)"
+title: "Elk Capital Markets"
 description: "Explore Elk Capital Markets a leader in algorithmic trading offering cutting-edge technology to optimize trades minimize risks and stay ahead in financial markets"
 ---
 

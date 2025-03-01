@@ -1,5 +1,5 @@
 ---
-title: "Insiders Trading Effects (Algo Trading)"
+title: "Insiders Trading Effects"
 description: Discover the insider trading effects in algorithmic trading, including its controversies and potential strategies like insider effect trading and insider inaction. Learn about insider trading legality and compliance with the SEC while exploring opportunities and challenges in this complex field. Dive deeper into trading strategies and resources on Equities, Cryptocurrencies, Commodities, Currencies, Bonds, Options, libraries, packages, blogs, tutorials, and datasets. Aim for financial independence as a quant trader.
 ---
 

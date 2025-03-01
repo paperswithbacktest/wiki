@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Forex Trading (Algo Trading)"
+title: "Introduction to Forex Trading"
 description: "Discover the dynamic world of forex trading with algorithmic strategies Learn how to harness market opportunities with precision reduce errors and gain insights"
 ---
 

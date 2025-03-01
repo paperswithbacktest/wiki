@@ -1,5 +1,5 @@
 ---
-title: "Impact of Higher Non-Farm Payroll on Forex Market (Algo Trading)"
+title: "Impact of Higher Non-Farm Payroll on Forex Market"
 description: "Explore how non-farm payroll data impacts the forex market and algorithmic trading strategies to optimize performance and trading outcomes."
 ---
 

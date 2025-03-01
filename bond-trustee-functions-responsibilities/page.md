@@ -1,5 +1,5 @@
 ---
-title: "Bond Trustee: Functions and Responsibilities (Algo Trading)"
+title: "Bond Trustee: Functions and Responsibilities"
 description: "Discover the pivotal roles and responsibilities of bond trustees in safeguarding investors' interests and ensuring issuers adhere to bond agreements."
 ---
 

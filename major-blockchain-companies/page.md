@@ -1,5 +1,5 @@
 ---
-title: "Major Blockchain Companies (Algo Trading)"
+title: "Major Blockchain Companies"
 description: "Discover how leading blockchain companies are revolutionizing industries through algorithmic trading and innovative solutions, transforming financial markets and business paradigms."
 ---
 

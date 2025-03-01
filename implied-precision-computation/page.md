@@ -1,5 +1,5 @@
 ---
-title: "Implied precision computation (Algo Trading)"
+title: "Implied precision computation"
 description: Explore the role of implied precision in algorithmic trading, where computational accuracy is crucial for executing financial trades based on models and historical data. Understand how this concept affects pricing and risk management within trading strategies as it infers the level of precision from assumptions and data limitations. Delve into mathematical frameworks like the Black-Scholes model that support implied precision in this dynamic market environment. Discover the importance of grasping these elements to enhance trading strategies while managing the inherent uncertainties of financial computations.
 ---
 

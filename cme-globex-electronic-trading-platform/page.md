@@ -1,5 +1,5 @@
 ---
-title: "CME Globex Electronic Trading Platform (Algo Trading)"
+title: "CME Globex Electronic Trading Platform"
 description: "Discover how CME Globex revolutionized futures trading with global electronic access, boosting speed and efficiency for high-volume algorithmic trading."
 ---
 

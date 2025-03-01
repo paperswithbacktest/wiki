@@ -1,5 +1,5 @@
 ---
-title: "Contract for Difference: Uses and Examples (Algo Trading)"
+title: "Contract for Difference: Uses and Examples"
 description: "Explore the powerful synergy between Contract for Difference (CFD) trading and algorithmic techniques Learn how algo trading can optimize CFD strategies and outcomes"
 ---
 

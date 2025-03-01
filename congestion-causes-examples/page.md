@@ -1,5 +1,5 @@
 ---
-title: "Congestion: Definition, Causes, and Examples (Algo Trading)"
+title: "Congestion: Definition, Causes, and Examples"
 description: "In financial markets, congestion refers to periods of limited price movement due to a balance between supply and demand, posing challenges for traders relying on volatility. This article investigates into the causes and effects of congestion in both trading markets and blockchain networks. Market congestion can occur due to trader indecision, anticipation of market announcements, or balanced buying and selling pressures. In blockchain, congestion results from high transaction demand exceeding processing capacity, leading to higher fees and slow confirmations. Understanding and analyzing congestion helps traders adapt strategies to leverage or navigate these stagnant periods effectively."
 ---
 

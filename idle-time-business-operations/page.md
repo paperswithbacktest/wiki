@@ -1,5 +1,5 @@
 ---
-title: "Idle Time in Business Operations (Algo Trading)"
+title: "Idle Time in Business Operations"
 description: "Explore how idle time affects business operations and learn how algorithmic trading can enhance efficiency by minimizing downtimes and optimizing processes."
 ---
 

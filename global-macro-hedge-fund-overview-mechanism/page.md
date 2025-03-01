@@ -1,5 +1,5 @@
 ---
-title: "Global Macro Hedge Fund: Overview and Mechanism (Algo Trading)"
+title: "Global Macro Hedge Fund: Overview and Mechanism"
 description: "Discover the intricacies of global macro hedge fund strategies using algorithmic trading to capitalize on economic trends across various asset classes."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bounty: Meaning and Functionality (Algo Trading)"
+title: "Bounty: Meaning and Functionality"
 description: "Explore how bounties and incentives drive innovation and precision in algorithmic trading by motivating developers to optimize and secure trading strategies."
 ---
 

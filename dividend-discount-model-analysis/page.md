@@ -1,5 +1,5 @@
 ---
-title: "Dividend Discount Model Analysis (Algo Trading)"
+title: "Dividend Discount Model Analysis"
 description: "Delve into the Dividend Discount Model's role in stock valuation and algorithmic trading, offering insights into its application for dividend-paying equities."
 ---
 

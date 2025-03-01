@@ -1,5 +1,5 @@
 ---
-title: "Capital market line (Algo Trading)"
+title: "Capital market line"
 description: "Explore the optimal risk-return tradeoff with the Capital Market Line in modern portfolio theory Understand how algorithmic trading optimizes your investment strategy"
 ---
 

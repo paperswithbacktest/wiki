@@ -1,5 +1,5 @@
 ---
-title: "Free Enterprise: Concept, Mechanism, Origins, and Case Study (Algo Trading)"
+title: "Free Enterprise: Concept, Mechanism, Origins, and Case Study"
 description: "Explore the intricate relationship between capitalism free enterprise and algorithmic trading to understand their impact on today's financial markets and innovation."
 ---
 

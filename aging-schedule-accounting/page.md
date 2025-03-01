@@ -1,5 +1,5 @@
 ---
-title: "Aging Schedule in Accounting (Algo Trading)"
+title: "Aging Schedule in Accounting"
 description: "Explore how accounts receivable aging schedules and algorithmic trading can be integrated to enhance financial analysis and optimize business cash flow management."
 ---
 

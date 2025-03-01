@@ -1,5 +1,5 @@
 ---
-title: "Aggregate Exercise Price: Overview and Examples (Algo Trading)"
+title: "Aggregate Exercise Price: Overview and Examples"
 description: "Explore the essentials of aggregate exercise price and algorithmic options trading strategies to enhance your understanding and optimize your trading outcomes."
 ---
 

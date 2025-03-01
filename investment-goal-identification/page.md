@@ -1,5 +1,5 @@
 ---
-title: "Investment Goal Identification (Algo Trading)"
+title: "Investment Goal Identification"
 description: "Explore how setting investment goals, strategic financial planning, and algorithmic trading can enhance wealth management and help achieve financial success."
 ---
 

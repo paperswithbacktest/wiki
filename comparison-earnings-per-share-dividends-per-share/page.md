@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Earnings Per Share and Dividends Per Share (Algo Trading)"
+title: "Comparison of Earnings Per Share and Dividends Per Share"
 description: "Explore the key distinctions between Earnings Per Share (EPS) and Dividends Per Share (DPS) to understand their impact on investment decisions. Discover how EPS and DPS help assess a company's profitability and dividend policy, and learn about the role of algorithmic trading in modern finance for better-informed decisions."
 ---
 

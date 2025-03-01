@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Arbitrage and Speculation (Algo Trading)"
+title: "Differences Between Arbitrage and Speculation"
 description: "Explore the differences between arbitrage and speculation in algorithmic trading Understand key strategies investors use to maximize returns in financial markets."
 ---
 

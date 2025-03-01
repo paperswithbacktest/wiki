@@ -1,5 +1,5 @@
 ---
-title: "Adaptive execution (Algo Trading)"
+title: "Adaptive execution"
 description: "Explore adaptive execution in algorithmic trading leveraging real-time strategies to enhance trade efficiency by minimizing market impact and improving execution quality."
 ---
 

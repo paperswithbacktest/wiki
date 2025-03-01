@@ -1,5 +1,5 @@
 ---
-title: "Diamond-Dybvig Model and Bank Runs (Algo Trading)"
+title: "Diamond-Dybvig Model and Bank Runs"
 description: "Explore the Diamond-Dybvig model's impact on bank runs, emphasizing its relevance to algorithmic trading and cryptocurrency exchanges in today's financial landscape."
 ---
 

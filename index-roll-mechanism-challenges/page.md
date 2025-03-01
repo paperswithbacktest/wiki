@@ -1,5 +1,5 @@
 ---
-title: "Index Roll: Mechanism and Challenges (Algo Trading)"
+title: "Index Roll: Mechanism and Challenges"
 description: "Explore the intricacies of index rolls in algorithmic commodity trading. Understand futures contracts and optimize strategies to manage financial risks effectively."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Alexey Orlovsky (Algo Trading)"
+title: "Alexey Orlovsky"
 description: "Explore the career and achievements of Alexey Orlovsky a pioneer in algorithmic trading blending finance expertise with technology and data science innovations."
 ---
 

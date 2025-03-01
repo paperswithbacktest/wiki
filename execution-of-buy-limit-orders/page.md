@@ -1,5 +1,5 @@
 ---
-title: "Execution of Buy Limit Orders (Algo Trading)"
+title: "Execution of Buy Limit Orders"
 description: "Explore the role of buy limit orders in algorithmic trading Discover how these orders ensure price control in volatile markets while enhancing trading precision"
 ---
 

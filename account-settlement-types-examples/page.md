@@ -1,5 +1,5 @@
 ---
-title: "Account Settlement Types and Examples (Algo Trading)"
+title: "Account Settlement Types and Examples"
 description: "Discover account settlement types and their role in algorithmic trading. Explore how settlements ensure efficient, risk-managed transactions in evolving markets."
 ---
 

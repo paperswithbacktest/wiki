@@ -1,5 +1,5 @@
 ---
-title: "Bermuda Stock Exchange: Overview and Function (Algo Trading)"
+title: "Bermuda Stock Exchange: Overview and Function"
 description: "Discover the Bermuda Stock Exchange's key role in global finance offering a robust platform for trading diverse securities with advanced algorithmic trading options."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Impact of Debt on Company Beta (Algo Trading)"
+title: "Impact of Debt on Company Beta"
 description: "Explore how debt impacts company beta in algorithmic trading. Understand investment risk, debt management, and leveraging tech for optimal strategies in dynamic markets."
 ---
 

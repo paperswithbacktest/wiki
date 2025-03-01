@@ -1,5 +1,5 @@
 ---
-title: "Index: Examples, Uses, and Investment Strategies (Algo Trading)"
+title: "Index: Examples, Uses, and Investment Strategies"
 description: "Explore the significance of financial indexes in algo trading with examples and strategies to optimize investment decisions through effective index investing."
 ---
 

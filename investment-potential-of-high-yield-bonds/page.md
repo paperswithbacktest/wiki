@@ -1,5 +1,5 @@
 ---
-title: "Investment Potential of High-Yield Bonds (Algo Trading)"
+title: "Investment Potential of High-Yield Bonds"
 description: "Explore the investment potential of high-yield bonds combined with algorithmic trading strategies to navigate risks and maximize returns in dynamic markets."
 ---
 

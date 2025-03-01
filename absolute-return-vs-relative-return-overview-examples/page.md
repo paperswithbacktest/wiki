@@ -1,5 +1,5 @@
 ---
-title: "Absolute Return vs. Relative Return: Overview and Examples (Algo Trading)"
+title: "Absolute Return vs. Relative Return: Overview and Examples"
 description: "Explore absolute versus relative return methodologies for investment success. Understand how algorithmic trading impacts returns and optimizes strategies."
 ---
 

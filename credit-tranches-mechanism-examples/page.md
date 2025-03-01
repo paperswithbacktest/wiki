@@ -1,5 +1,5 @@
 ---
-title: "Credit Tranches: Mechanism and Examples (Algo Trading)"
+title: "Credit Tranches: Mechanism and Examples"
 description: "Explore the synergy between credit tranches and algorithmic trading. Discover how these financial mechanisms enhance investment strategies through risk management and efficiency."
 ---
 

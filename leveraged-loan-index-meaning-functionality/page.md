@@ -1,5 +1,5 @@
 ---
-title: "Leveraged Loan Index: Meaning and Functionality (Algo Trading)"
+title: "Leveraged Loan Index: Meaning and Functionality"
 description: "Explore the significance of the Leveraged Loan Index in finance and algorithmic trading, offering insights into market trends and performance of institutional loans."
 ---
 

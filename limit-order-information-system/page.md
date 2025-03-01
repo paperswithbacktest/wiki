@@ -1,5 +1,5 @@
 ---
-title: "Limit Order Information System (Algo Trading)"
+title: "Limit Order Information System"
 description: "Optimize your trading with the Limit Order Information System LOIS Enhance precision and efficiency in placing and managing limit orders effectively"
 ---
 

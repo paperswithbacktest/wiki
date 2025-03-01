@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Par Value and Market Value (Algo Trading)"
+title: "Comparison of Par Value and Market Value"
 description: "Explore the differences between par and market value in stock trading, their impact on investments, and the role of algorithmic trading in valuation dynamics."
 ---
 

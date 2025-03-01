@@ -1,5 +1,5 @@
 ---
-title: "Liquid Alternatives: Purposes, Risks, and Examples (Algo Trading)"
+title: "Liquid Alternatives: Purposes, Risks, and Examples"
 description: "Explore the benefits and risks of liquid alternatives, incorporating algorithmic trading to diversify portfolios with mutual funds and ETFs in evolving markets."
 ---
 

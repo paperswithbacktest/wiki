@@ -1,5 +1,5 @@
 ---
-title: "Investment Options for Risk-Averse Investors (Algo Trading)"
+title: "Investment Options for Risk-Averse Investors"
 description: "Explore investment strategies for risk-averse investors that focus on capital preservation and steady income. Learn about safe securities and algo trading benefits."
 ---
 

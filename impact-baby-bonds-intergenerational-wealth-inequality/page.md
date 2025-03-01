@@ -1,5 +1,5 @@
 ---
-title: "Impact of Baby Bonds on Intergenerational Wealth Inequality (Algo Trading)"
+title: "Impact of Baby Bonds on Intergenerational Wealth Inequality"
 description: "Explore the transformative potential of baby bonds in reducing wealth inequality, boosting intergenerational wealth, and impacting economic frameworks like algo trading."
 ---
 

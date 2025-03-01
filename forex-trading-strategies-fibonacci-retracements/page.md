@@ -1,5 +1,5 @@
 ---
-title: "Forex Trading Strategies Utilizing Fibonacci Retracements (Algo Trading)"
+title: "Forex Trading Strategies Utilizing Fibonacci Retracements"
 description: "Explore forex trading strategies utilizing Fibonacci retracements in algorithmic trading for enhanced precision and efficiency in market trend analysis."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Black Swan Events in the Stock Market (Algo Trading)"
+title: "Black Swan Events in the Stock Market"
 description: "Explore the fascinating interplay between financial history and modern trading strategies as we delve into Black Swan events in the stock market. This article examines these rare and unpredictable occurrences and their profound impacts, from the 1929 Wall Street Crash to the 2008 financial crisis. Discover how algorithmic trading shapes today’s financial landscapes, both mitigating and amplifying market volatility. Gain insights into risk management strategies, addressing the unpredictable nature of global financial systems. This comprehensive study offers essential lessons for modern investors navigating volatile markets by integrating technological advancements with traditional risk management techniques."
 ---
 

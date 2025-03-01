@@ -1,5 +1,5 @@
 ---
-title: "Criticism of the EBITDA Metric (Algo Trading)"
+title: "Criticism of the EBITDA Metric"
 description: "Critically examine the role of EBITDA in algorithmic trading and its limitations, impacting financial health assessments. Optimize trading strategies by understanding its dynamics."
 ---
 

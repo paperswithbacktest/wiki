@@ -1,5 +1,5 @@
 ---
-title: "Guatemalan Quetzal: Overview and Function (Algo Trading)"
+title: "Guatemalan Quetzal: Overview and Function"
 description: "Explore the role of the Guatemalan Quetzal in the nation's economy with insights into algorithmic trading innovations that enhance market efficiency and profitability."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "BRIC ETF: Overview, Advantages, Disadvantages, and History (Algo Trading)"
+title: "BRIC ETF: Overview, Advantages, Disadvantages, and History"
 description: "Explore the benefits and risks of investing in BRIC ETFs Brazil Russia India China and learn how algorithmic trading can optimize these emerging market investments."
 ---
 

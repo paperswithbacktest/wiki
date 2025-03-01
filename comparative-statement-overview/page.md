@@ -1,5 +1,5 @@
 ---
-title: "Comparative Statement Overview (Algo Trading)"
+title: "Comparative Statement Overview"
 description: "Explore the role of comparative statement analysis in financial assessment and algorithmic trading for strategic insights and improved investment decisions."
 ---
 

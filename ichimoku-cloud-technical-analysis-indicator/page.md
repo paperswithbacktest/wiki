@@ -1,5 +1,5 @@
 ---
-title: "Ichimoku Cloud as a Technical Analysis Indicator (Algo Trading)"
+title: "Ichimoku Cloud as a Technical Analysis Indicator"
 description: "The Ichimoku Cloud is a comprehensive technical indicator that aids traders in visualizing support resistance momentum and trends for informed trading decisions."
 ---
 

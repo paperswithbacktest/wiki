@@ -1,5 +1,5 @@
 ---
-title: "Binance Python API Guide (Algo Trading)"
+title: "Binance Python API Guide"
 description: Explore algorithmic trading using the Binance Python API in this guide designed for traders and developers. Learn to integrate the binance-python library to create automated trading strategies, access market data, and improve trade execution. This resource provides insights into setting up your trading environment, developing algorithms, and leveraging the power of Python for cryptocurrency trading on one of the largest exchanges globally. Discover the benefits of using the Binance API for efficient and systematic trading, backed by comprehensive community support and documentation.
 ---
 

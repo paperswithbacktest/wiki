@@ -1,5 +1,5 @@
 ---
-title: "Doji Candlestick Pattern and Its Interpretation (Algo Trading)"
+title: "Doji Candlestick Pattern and Its Interpretation"
 description: "Discover the significance of the doji candlestick pattern in financial markets as a pivotal tool for technical analysis. Learn how its unique structure, where open and close prices are nearly identical, signifies market indecision and can signal potential reversals or consolidation phases. Explore the various types of doji patterns, their interpretations, and applications in both manual and algorithmic trading. Enhance your trading strategies by integrating doji patterns with other indicators to better anticipate market trends and make more informed trading decisions."
 ---
 

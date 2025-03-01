@@ -1,5 +1,5 @@
 ---
-title: "Fixed Income Clearing Corporation History (Algo Trading)"
+title: "Fixed Income Clearing Corporation History"
 description: "Explore the evolution of the Fixed Income Clearing Corporation since 2003, highlighting its pivotal role in optimizing clearing and settlement for fixed-income securities."
 ---
 

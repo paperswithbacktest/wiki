@@ -1,5 +1,5 @@
 ---
-title: "ETF Tracking Errors and Returns Protection (Algo Trading)"
+title: "ETF Tracking Errors and Returns Protection"
 description: "Explore ETF tracking errors and algorithmic trading Discover how tracking errors affect ETF performance and strategies to enhance returns using advanced algorithms"
 ---
 

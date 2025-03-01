@@ -1,5 +1,5 @@
 ---
-title: "Capital Projects: Overview, Examples, and Funding (Algo Trading)"
+title: "Capital Projects: Overview, Examples, and Funding"
 description: "Discover how capital projects like infrastructure and technology investments are revolutionized with algorithmic trading enabling optimized financial strategies and funding insights."
 ---
 

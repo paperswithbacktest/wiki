@@ -1,5 +1,5 @@
 ---
-title: "Cboe Volatility Index (Algo Trading)"
+title: "Cboe Volatility Index"
 description: "Explore the role of the Cboe Volatility Index in market sentiment analysis and algorithmic trading strategies for managing risk and leveraging market uncertainty."
 ---
 

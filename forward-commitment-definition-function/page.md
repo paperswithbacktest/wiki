@@ -1,5 +1,5 @@
 ---
-title: "Forward Commitment: Definition and Function (Algo Trading)"
+title: "Forward Commitment: Definition and Function"
 description: "Explore the role of forward commitments in algorithmic trading Learn how these tools manage risks optimize investments and enhance trading efficiency"
 ---
 

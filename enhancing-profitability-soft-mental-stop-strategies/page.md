@@ -1,5 +1,5 @@
 ---
-title: "Enhancing Profitability Through Soft and Mental Stop Strategies (Algo Trading)"
+title: "Enhancing Profitability Through Soft and Mental Stop Strategies"
 description: "Explore how soft and mental stop strategies in algo trading can enhance profitability by offering flexibility and precision in risk management."
 ---
 

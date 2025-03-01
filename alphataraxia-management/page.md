@@ -1,5 +1,5 @@
 ---
-title: "Alphataraxia Management (Algo Trading)"
+title: "Alphataraxia Management"
 description: "Alphataraxia Management leads in algorithmic trading within energy markets prioritizing data-driven strategies to stabilize prices and support renewables."
 ---
 

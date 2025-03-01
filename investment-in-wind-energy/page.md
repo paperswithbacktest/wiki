@@ -1,5 +1,5 @@
 ---
-title: "Investment in Wind Energy (Algo Trading)"
+title: "Investment in Wind Energy"
 description: "Explore the potential of investing in wind energy with insights into market opportunities including equities ETFs green bonds and the impact of algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Dual-Class Stock Structure and Controversy (Algo Trading)"
+title: "Dual-Class Stock Structure and Controversy"
 description: "Explore the complexities of dual-class stock structures and their impact on corporate governance amid the rise of algorithmic trading in modern finance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Anti-Diversion Clause (Algo Trading)"
+title: "Anti-Diversion Clause"
 description: "Explore the significance of anti-diversion clauses in algorithmic trading and trade compliance to prevent unauthorized redirection and enhance legal adherence."
 ---
 

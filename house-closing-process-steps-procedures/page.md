@@ -1,5 +1,5 @@
 ---
-title: "House Closing Process: Steps and Procedures (Algo Trading)"
+title: "House Closing Process: Steps and Procedures"
 description: "Explore the intricate steps of the real estate closing process enhanced by algorithmic trading insights to streamline transactions and optimize investment outcomes."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Mancession (Algo Trading)"
+title: "Mancession"
 description: "Explore the concept of mancession where economic downturns disproportionately impact male employment especially in volatile sectors like construction and manufacturing."
 ---
 

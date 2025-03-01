@@ -1,5 +1,5 @@
 ---
-title: "Functions of the Department of Housing and Urban Development (Algo Trading)"
+title: "Functions of the Department of Housing and Urban Development"
 description: "Explore the intersection of HUD's housing policies and algorithmic trading in optimizing operations Discover how technology can enhance efficiency and service delivery"
 ---
 

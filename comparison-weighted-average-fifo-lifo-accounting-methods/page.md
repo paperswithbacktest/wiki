@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Weighted Average, FIFO, and LIFO Accounting Methods (Algo Trading)"
+title: "Comparison of Weighted Average, FIFO, and LIFO Accounting Methods"
 description: "Explore how Weighted Average FIFO and LIFO accounting methods impact algo trading firms. Learn their effects on COGS, tax obligations, and financial analysis."
 ---
 

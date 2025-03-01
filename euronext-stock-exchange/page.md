@@ -1,5 +1,5 @@
 ---
-title: "Euronext Stock Exchange (Algo Trading)"
+title: "Euronext Stock Exchange"
 description: "Explore top European trading platforms for algorithmic trading powered by Euronext. Discover key features and insights to optimize your trading strategy."
 ---
 

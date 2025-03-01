@@ -1,5 +1,5 @@
 ---
-title: "Contingent Liability: Overview and Examples (Algo Trading)"
+title: "Contingent Liability: Overview and Examples"
 description: "Discover the intricacies of contingent liabilities and algorithmic trading essential concepts in finance for businesses and investors seeking strategic insights."
 ---
 

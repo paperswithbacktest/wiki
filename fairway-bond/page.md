@@ -1,5 +1,5 @@
 ---
-title: "Fairway Bond (Algo Trading)"
+title: "Fairway Bond"
 description: "Explore the benefits and strategies of fairway bond investments blended with algorithmic trading to optimize returns while managing risks in bond markets."
 ---
 

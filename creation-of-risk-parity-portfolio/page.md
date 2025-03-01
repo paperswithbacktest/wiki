@@ -1,5 +1,5 @@
 ---
-title: "Creation of a Risk Parity Portfolio (Algo Trading)"
+title: "Creation of a Risk Parity Portfolio"
 description: "Discover how risk parity and algorithmic trading can optimize portfolio diversification by balancing risk across asset classes and automating trading strategies."
 ---
 

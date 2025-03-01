@@ -1,5 +1,5 @@
 ---
-title: "Committee on Foreign Investment in the United States (CFIUS) (Algo Trading)"
+title: "Committee on Foreign Investment in the United States (CFIUS)"
 description: "Explore how CFIUS regulates foreign investments in U.S. algorithmic trading, safeguarding national security while addressing global investment dynamics."
 ---
 

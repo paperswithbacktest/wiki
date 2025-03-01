@@ -1,5 +1,5 @@
 ---
-title: "Hierarchical Deterministic Wallet in Cryptocurrency (Algo Trading)"
+title: "Hierarchical Deterministic Wallet in Cryptocurrency"
 description: "Discover how Hierarchical Deterministic wallets enhance cryptocurrency security and privacy by generating new keys from a master seed for safer asset management."
 ---
 

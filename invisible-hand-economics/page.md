@@ -1,5 +1,5 @@
 ---
-title: "Invisible Hand in Economics (Algo Trading)"
+title: "Invisible Hand in Economics"
 description: "Explore how Adam Smith's 'invisible hand' theory aligns with modern algorithmic trading enhancing market efficiency through automated self-regulating processes."
 ---
 

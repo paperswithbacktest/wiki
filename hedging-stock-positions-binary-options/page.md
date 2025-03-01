@@ -1,5 +1,5 @@
 ---
-title: "Hedging Stock Positions with Binary Options (Algo Trading)"
+title: "Hedging Stock Positions with Binary Options"
 description: "Explore effective strategies for hedging stock positions using binary options and algorithmic trading Discover how these tools optimize returns and manage risk in volatile markets"
 ---
 

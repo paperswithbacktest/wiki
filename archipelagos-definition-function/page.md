@@ -1,5 +1,5 @@
 ---
-title: "Archipelagos: Definition and Function (Algo Trading)"
+title: "Archipelagos: Definition and Function"
 description: "Explore how geographical metaphors like archipelagos enhance understanding of algorithmic trading by illustrating complex financial strategies as interconnected networks."
 ---
 

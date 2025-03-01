@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Monopoly and Oligopoly (Algo Trading)"
+title: "Comparison of Monopoly and Oligopoly"
 description: "Explore how monopolies and oligopolies impact algorithmic trading in financial markets, examining market dynamics, legal considerations, and future trends."
 ---
 

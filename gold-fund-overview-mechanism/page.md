@@ -1,5 +1,5 @@
 ---
-title: "Gold Fund: Overview and Mechanism (Algo Trading)"
+title: "Gold Fund: Overview and Mechanism"
 description: "Explore the synergy of gold funds and algorithmic trading to enhance investment outcomes Balancing time-tested gold strategies with cutting-edge tech offers a competitive edge"
 ---
 

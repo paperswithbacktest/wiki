@@ -1,5 +1,5 @@
 ---
-title: "Lipper Indexes: Overview and Functionality (Algo Trading)"
+title: "Lipper Indexes: Overview and Functionality"
 description: "Discover how Lipper Indexes enhance algo trading by providing reliable benchmarks that optimize strategies maximize returns and reduce human error in financial markets."
 ---
 

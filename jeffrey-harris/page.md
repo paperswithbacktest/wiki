@@ -1,5 +1,5 @@
 ---
-title: "Jeffrey Harris (Algo Trading)"
+title: "Jeffrey Harris"
 description: "Discover Jeffrey Harris's journey in finance and algo trading with insights into his career, education, and leadership roles fostering innovation and teamwork."
 ---
 

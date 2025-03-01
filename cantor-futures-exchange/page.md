@@ -1,5 +1,5 @@
 ---
-title: "Cantor Futures Exchange (Algo Trading)"
+title: "Cantor Futures Exchange"
 description: "Discover unique futures trading at CX Futures Exchange where algorithmic trading meets niche derivatives like weather and forex for innovative market strategies."
 ---
 

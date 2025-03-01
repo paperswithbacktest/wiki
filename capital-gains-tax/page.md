@@ -1,5 +1,5 @@
 ---
-title: "Capital Gains Tax (Algo Trading)"
+title: "Capital Gains Tax"
 description: "Explore the intricate relationship between capital gains tax and algorithmic trading to optimize your investment strategy. This page investigates into how frequent trades inherent in algorithmic trading can affect capital gains tax, offering insights into minimizing tax liabilities while maximizing financial outcomes. Learn about tax-loss harvesting, the advantages of long-term investment holdings, and utilizing tax-advantaged accounts, all within the context of modern automated trading systems. Empower your investment decisions with informed strategies aligning with tax efficiency and financial goals."
 ---
 

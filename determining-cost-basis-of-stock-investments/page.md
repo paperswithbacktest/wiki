@@ -1,5 +1,5 @@
 ---
-title: "Determining Cost Basis of Stock Investments (Algo Trading)"
+title: "Determining Cost Basis of Stock Investments"
 description: "Explore the complexities of determining cost basis in stock investments and algorithmic trading Learn methods like FIFO LIFO and Average Cost to enhance profitability"
 ---
 

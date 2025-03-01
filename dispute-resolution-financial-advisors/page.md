@@ -1,5 +1,5 @@
 ---
-title: "Dispute Resolution With Financial Advisors (Algo Trading)"
+title: "Dispute Resolution With Financial Advisors"
 description: "Explore how disputes between financial advisors and algorithmic traders are resolved as financial markets evolve with new technologies and complex strategies."
 ---
 

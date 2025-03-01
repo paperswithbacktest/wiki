@@ -1,5 +1,5 @@
 ---
-title: "Liquidity Coverage Ratio Calculation (Algo Trading)"
+title: "Liquidity Coverage Ratio Calculation"
 description: "Explore how banks calculate the Liquidity Coverage Ratio (LCR) as part of Basel III regulations to manage liquidity and optimize asset management using trading algorithms."
 ---
 

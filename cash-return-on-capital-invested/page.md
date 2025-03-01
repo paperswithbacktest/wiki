@@ -1,5 +1,5 @@
 ---
-title: "Cash Return on Capital Invested (Algo Trading)"
+title: "Cash Return on Capital Invested"
 description: "Explore the power of Cash Return on Capital Invested to enhance investment decisions by focusing on cash flows over accounting profits and boosting trading strategy effectiveness."
 ---
 

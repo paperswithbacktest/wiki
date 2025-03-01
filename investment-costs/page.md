@@ -1,5 +1,5 @@
 ---
-title: "Investment Costs (Algo Trading)"
+title: "Investment Costs"
 description: "Discover the hidden costs of algorithmic trading and learn how they impact investment returns. This article unravels the complexities behind software development, data subscriptions, brokerage commissions, and regulatory expenses associated with algorithmic trading. Understand how these costs compare to traditional trading fees, and explore strategies to manage them effectively for optimized investment performance. Gain insights into minimizing costs to maximize profits and sustain robust financial strategies in the fast-paced world of algo trading."
 ---
 

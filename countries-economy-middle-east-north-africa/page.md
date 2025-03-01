@@ -1,5 +1,5 @@
 ---
-title: "Countries and Economy of the Middle East and North Africa (Algo Trading)"
+title: "Countries and Economy of the Middle East and North Africa"
 description: "Explore how MENA's evolving economies are integrating algorithmic trading to diversify from oil reliance enhancing market efficiency and attracting global investors."
 ---
 

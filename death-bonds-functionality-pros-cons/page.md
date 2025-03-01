@@ -1,5 +1,5 @@
 ---
-title: "Death Bonds: Functionality and Pros and Cons (Algo Trading)"
+title: "Death Bonds: Functionality and Pros and Cons"
 description: "Explore death bonds in algo trading their functionality pros cons and the unique investment opportunities they present in the financial market."
 ---
 

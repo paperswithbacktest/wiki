@@ -1,5 +1,5 @@
 ---
-title: "Methods for Diversifying a Concentrated Stock Portfolio (Algo Trading)"
+title: "Methods for Diversifying a Concentrated Stock Portfolio"
 description: "Explore effective methods to diversify a concentrated stock portfolio using algorithmic trading to mitigate risks and enhance investment performance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategies for Volatile Markets (Algo Trading)"
+title: "Investment Strategies for Volatile Markets"
 description: "Explore effective investment strategies for volatile markets with insights into algorithmic trading to optimize returns and manage risks during market fluctuations."
 ---
 

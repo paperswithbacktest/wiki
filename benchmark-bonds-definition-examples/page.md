@@ -1,5 +1,5 @@
 ---
-title: "Benchmark Bonds: Definition and Examples (Algo Trading)"
+title: "Benchmark Bonds: Definition and Examples"
 description: "Explore the significance of benchmark bonds in the financial markets with insights on their role as reference points and the impact of algorithmic trading strategies."
 ---
 

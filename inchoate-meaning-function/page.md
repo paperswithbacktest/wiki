@@ -1,5 +1,5 @@
 ---
-title: "Inchoate: Meaning and Function (Algo Trading)"
+title: "Inchoate: Meaning and Function"
 description: "Discover the concept of inchoate functions in algorithmic trading and how it offers strategic flexibility by activating only under specific market conditions."
 ---
 

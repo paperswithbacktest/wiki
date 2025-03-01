@@ -1,5 +1,5 @@
 ---
-title: "Fuzzy Logic: Overview and Applications (Algo Trading)"
+title: "Fuzzy Logic: Overview and Applications"
 description: "Explore fuzzy logic's role in algorithmic trading enhancing decision-making by interpreting ambiguous market data to refine strategies and improve financial outcomes."
 ---
 

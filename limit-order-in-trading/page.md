@@ -1,5 +1,5 @@
 ---
-title: "Limit Order in Trading (Algo Trading)"
+title: "Limit Order in Trading"
 description: "Discover the role of limit orders in algorithmic trading where controlled execution meets optimal strategy to manage risks and price fluctuations."
 ---
 

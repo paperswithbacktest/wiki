@@ -1,5 +1,5 @@
 ---
-title: "Assessing REITs with Funds from Operations and Adjusted Funds from Operations (Algo Trading)"
+title: "Assessing REITs with Funds from Operations and Adjusted Funds from Operations"
 description: "Explore the essential metrics of Funds from Operations (FFO) and Adjusted Funds from Operations (AFFO) for assessing REITs alongside algorithmic trading insights."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Marcia Fudge (Algo Trading)"
+title: "Marcia Fudge"
 description: "Explore how HUD Secretary Marcia Fudge shapes affordable housing policies while algorithmic trading's influence grows in politics and finance."
 ---
 

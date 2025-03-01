@@ -1,5 +1,5 @@
 ---
-title: "Hydraulic Fracturing: Overview, History, and Controversy (Algo Trading)"
+title: "Hydraulic Fracturing: Overview, History, and Controversy"
 description: "Explore hydraulic fracturing and algorithmic trading two transformative technologies reshaping energy and financial markets amid environmental concerns and market risks"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Activity Driver Analysis (Algo Trading)"
+title: "Activity Driver Analysis"
 description: "Discover how organizations optimize cost structures by integrating activity driver analysis with algorithmic trading to enhance financial and operational efficiencies."
 ---
 

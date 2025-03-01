@@ -1,5 +1,5 @@
 ---
-title: "Idiosyncratic Risk: Types, Examples, and Minimization (Algo Trading)"
+title: "Idiosyncratic Risk: Types, Examples, and Minimization"
 description: "Explore the unique aspects of idiosyncratic risk and strategies to manage it effectively. Learn how this type of unsystematic risk differs from market-wide systematic risk through factors specific to individual assets or companies. Discover the role of diversification and algorithmic trading in minimizing risks and optimizing investment outcomes. Gain insights into the importance of understanding idiosyncratic risk in portfolio management and its implications for investors seeking to enhance returns through tailored risk assessments and informed decision-making."
 ---
 

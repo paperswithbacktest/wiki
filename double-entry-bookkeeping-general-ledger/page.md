@@ -1,5 +1,5 @@
 ---
-title: "Double-Entry Bookkeeping in the General Ledger (Algo Trading)"
+title: "Double-Entry Bookkeeping in the General Ledger"
 description: "Discover the essentials of double-entry bookkeeping and the general ledger's role in financial management and explore their integration with algorithmic trading."
 ---
 

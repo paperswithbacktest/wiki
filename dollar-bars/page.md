@@ -1,5 +1,5 @@
 ---
-title: "Dollar bars (Algo Trading)"
+title: "Dollar bars"
 description: Explore the nuanced approach of dollar bars in algorithmic trading, designed to segment market data by the monetary value of transactions instead of mere time, ticks, or volume. This dynamic method provides a clearer reflection of market activity by maintaining a consistent view of economic value exchanged. Dollar bars adjust for asset value fluctuations, enhancing sensitivity to market shifts and allowing traders to develop more targeted strategies. By focusing on the financial weight of trades, dollar bars grant a comprehensive understanding of global market dynamics, promoting optimal decision-making for traders.
 ---
 

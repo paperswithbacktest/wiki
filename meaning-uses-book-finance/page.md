@@ -1,5 +1,5 @@
 ---
-title: "Meaning and Uses of 'Book' in Finance (Algo Trading)"
+title: "Meaning and Uses of 'Book' in Finance"
 description: "Uncover the meaning of 'book' in finance and explore its practical uses in algo trading. Learn key financial terms, their applications, and essential reads for enthusiasts."
 ---
 

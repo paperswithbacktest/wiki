@@ -1,5 +1,5 @@
 ---
-title: "Indexation: Concept and Applications (Algo Trading)"
+title: "Indexation: Concept and Applications"
 description: "Explore the role of indexation in finance and algorithmic trading Gain insights into how it stabilizes economic metrics and enhances investment strategies"
 ---
 

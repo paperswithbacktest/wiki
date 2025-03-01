@@ -1,5 +1,5 @@
 ---
-title: "History of Monopolies in the United States (Algo Trading)"
+title: "History of Monopolies in the United States"
 description: "Explore the evolution of monopolies and antitrust laws in the US from the industrial era to modern algorithmic trading challenges in this insightful article."
 ---
 

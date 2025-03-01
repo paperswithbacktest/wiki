@@ -1,5 +1,5 @@
 ---
-title: "Common Stock Equivalent (Algo Trading)"
+title: "Common Stock Equivalent"
 description: "Explore the role of common stock equivalents in algorithmic trading and their impact on trading efficiency. Learn how these instruments enhance algo-trading strategies."
 ---
 

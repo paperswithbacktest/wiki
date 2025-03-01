@@ -1,5 +1,5 @@
 ---
-title: "Internet Bubble: Significance and Mechanics (Algo Trading)"
+title: "Internet Bubble: Significance and Mechanics"
 description: "Explore the significance and mechanics behind economic bubbles with a focus on the dot-com era and its impact on algo trading and financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Characteristics of Monopolistic Markets (Algo Trading)"
+title: "Characteristics of Monopolistic Markets"
 description: "Discover the critical characteristics of monopolistic markets and understand their impact on pricing and consumer choices in global economies."
 ---
 

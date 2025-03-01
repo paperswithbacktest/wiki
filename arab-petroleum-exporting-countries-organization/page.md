@@ -1,5 +1,5 @@
 ---
-title: "Arab Petroleum Exporting Countries Organization (Algo Trading)"
+title: "Arab Petroleum Exporting Countries Organization"
 description: "Discover how OAPEC influences global oil markets and explores the rise of algorithmic trading, enhancing trade efficiency in the volatile oil industry."
 ---
 

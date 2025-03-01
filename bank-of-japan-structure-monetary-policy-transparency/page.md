@@ -1,5 +1,5 @@
 ---
-title: "Bank of Japan: Structure, Monetary Policy, and Transparency (Algo Trading)"
+title: "Bank of Japan: Structure, Monetary Policy, and Transparency"
 description: "Discover the complex interactions between Bank of Japan's monetary policy and algorithmic trading in Japan's markets highlighting transparency's vital role."
 ---
 

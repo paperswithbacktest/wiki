@@ -1,5 +1,5 @@
 ---
-title: "Authorized Currency (Algo Trading)"
+title: "Authorized Currency"
 description: "Explore the world of authorized currency algo trading where automated trading meets freely exchangeable currencies enhancing global market liquidity."
 ---
 

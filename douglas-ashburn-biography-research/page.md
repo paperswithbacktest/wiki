@@ -1,5 +1,5 @@
 ---
-title: "Douglas Ashburn: Biography and Research (Algo Trading)"
+title: "Douglas Ashburn: Biography and Research"
 description: "Discover the career of Douglas Ashburn a leader in derivatives and algo trading with insights into financial journalism and market analysis."
 ---
 

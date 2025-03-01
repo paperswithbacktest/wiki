@@ -1,5 +1,5 @@
 ---
-title: "Complex Capital Structure (Algo Trading)"
+title: "Complex Capital Structure"
 description: "Explore the dynamic interplay between corporate capital structure, financial leverage, and algorithmic trading to enhance financial strategies and improve outcomes."
 ---
 

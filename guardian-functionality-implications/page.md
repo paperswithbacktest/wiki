@@ -1,5 +1,5 @@
 ---
-title: "Guardian Functionality and Implications (Algo Trading)"
+title: "Guardian Functionality and Implications"
 description: "Explore the critical role of guardians in algorithmic trading ensuring system integrity and efficiency while managing risks and compliance in financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Basic Materials Sector: Overview and Examples (Algo Trading)"
+title: "Basic Materials Sector: Overview and Examples"
 description: "Explore the potential of algo trading in the basic materials sector unlocking investment opportunities in metals, chemicals, and forestry products for optimal returns."
 ---
 

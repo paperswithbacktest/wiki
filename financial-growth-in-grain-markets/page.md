@@ -1,5 +1,5 @@
 ---
-title: "Financial Growth in Grain Markets (Algo Trading)"
+title: "Financial Growth in Grain Markets"
 description: "Explore opportunities and manage risks in grain markets with algorithmic trading Discover how automation is transforming investments in commodities like wheat and corn"
 ---
 

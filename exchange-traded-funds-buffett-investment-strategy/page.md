@@ -1,5 +1,5 @@
 ---
-title: "Exchange-Traded Funds Reflecting Warren Buffett's Investment Strategy (Algo Trading)"
+title: "Exchange-Traded Funds Reflecting Warren Buffett's Investment Strategy"
 description: "Explore the integration of Warren Buffett's value investing with modern ETF and algorithmic trading strategies for better investment insight and adaptability."
 ---
 

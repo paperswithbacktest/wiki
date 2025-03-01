@@ -1,5 +1,5 @@
 ---
-title: "Comparison of S&P 500 and Russell 2000 Indexes (Algo Trading)"
+title: "Comparison of S&P 500 and Russell 2000 Indexes"
 description: "Explore the differences between the S&P 500 and Russell 2000 indexes in algorithmic trading and learn how they influence strategy and market performance."
 ---
 

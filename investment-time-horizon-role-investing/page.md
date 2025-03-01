@@ -1,5 +1,5 @@
 ---
-title: "Investment Time Horizon and Its Role in Investing (Algo Trading)"
+title: "Investment Time Horizon and Its Role in Investing"
 description: "Discover the vital role of investment time horizons in crafting strategies with algorithmic trading for efficient risk management and optimal financial growth."
 ---
 

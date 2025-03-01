@@ -1,5 +1,5 @@
 ---
-title: "Limit Order Book Simulation (Algo Trading)"
+title: "Limit Order Book Simulation"
 description: "Discover Limit Order Book Simulation's role in optimizing algo trading strategies by offering insights into market dynamics and improving decision accuracy."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Absolute Percentage Growth: Explanation and Functionality (Algo Trading)"
+title: "Absolute Percentage Growth: Explanation and Functionality"
 description: "Discover the essential role of absolute percentage growth in algorithmic trading Explore how this key financial metric boosts investment strategy performance"
 ---
 

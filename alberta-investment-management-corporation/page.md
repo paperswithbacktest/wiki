@@ -1,5 +1,5 @@
 ---
-title: "Alberta Investment Management Corporation (Algo Trading)"
+title: "Alberta Investment Management Corporation"
 description: "Explore AIMCo's role in Alberta's economy focusing on algorithmic trading and its impact on investing. Understand AIMCo’s strategies and their adaptation to market changes."
 ---
 

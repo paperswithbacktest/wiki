@@ -1,5 +1,5 @@
 ---
-title: "Capital Markets Group Overview and Services (Algo Trading)"
+title: "Capital Markets Group Overview and Services"
 description: "Explore the essential roles and services of capital markets groups and algorithmic trading in modern finance including investment banking and M&A."
 ---
 

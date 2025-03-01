@@ -1,5 +1,5 @@
 ---
-title: "Bed and Breakfast Deal (Algo Trading)"
+title: "Bed and Breakfast Deal"
 description: "Discover the synergy between traditional and modern trading strategies with our exploration of Bed and Breakfast tax benefits integrated with algorithmic trading."
 ---
 

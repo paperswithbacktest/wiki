@@ -1,5 +1,5 @@
 ---
-title: "Autos Alternative Data (Algo Trading)"
+title: "Autos Alternative Data"
 description: Explore the transformative role of alternative data in automotive algorithmic trading as traders leverage unconventional data sources like satellite imagery and social media insights to refine trading strategies. This insightful analysis investigates into the potential advantages of gaining a competitive edge and overcoming the challenges that come with integrating these datasets into trading systems in the fast-paced financial markets.
 ---
 

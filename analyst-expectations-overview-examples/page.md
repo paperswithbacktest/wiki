@@ -1,5 +1,5 @@
 ---
-title: "Analyst Expectations: Overview and Examples (Algo Trading)"
+title: "Analyst Expectations: Overview and Examples"
 description: "Discover how algorithmic trading transforms financial markets with advanced AI techniques, providing pivotal analyst expectations shaping informed investment decisions."
 ---
 

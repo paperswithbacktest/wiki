@@ -1,5 +1,5 @@
 ---
-title: "Effectiveness of Slow Stochastic in Day Trading (Algo Trading)"
+title: "Effectiveness of Slow Stochastic in Day Trading"
 description: "Explore how the slow stochastic oscillator enhances day trading and algorithmic strategies by identifying potential market reversals and optimizing trade decisions."
 ---
 

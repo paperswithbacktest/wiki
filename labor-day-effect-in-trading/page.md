@@ -1,5 +1,5 @@
 ---
-title: "Labor Day Effect in Trading Explained (Algo Trading)"
+title: "Labor Day Effect in Trading Explained"
 description: Explore the influence of Labor Day on algorithmic trading with insights into how this holiday impacts stock market dynamics. Understand how algorithmic strategies adapt to changes in trading volumes and investor behavior during this period, offering both challenges and opportunities for traders aiming to optimize their approaches. Discover how historical trends can guide decision-making and improve algorithmic trading strategies for future market scenarios.
 ---
 

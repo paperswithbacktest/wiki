@@ -1,5 +1,5 @@
 ---
-title: "Dynamic Asset Allocation (Algo Trading)"
+title: "Dynamic Asset Allocation"
 description: "Discover how dynamic asset allocation combined with algorithmic trading can optimize portfolio performance and manage risk in today's volatile markets."
 ---
 

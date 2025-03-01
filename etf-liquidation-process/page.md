@@ -1,5 +1,5 @@
 ---
-title: "ETF Liquidation Process (Algo Trading)"
+title: "ETF Liquidation Process"
 description: "Explore the synergy of ETF liquidation and algorithmic trading to enhance your financial strategies with efficiency, liquidity, and cost-effectiveness in this comprehensive guide."
 ---
 

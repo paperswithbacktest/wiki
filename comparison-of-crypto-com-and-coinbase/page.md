@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Crypto.com and Coinbase (Algo Trading)"
+title: "Comparison of Crypto.com and Coinbase"
 description: "Explore the differences between Crypto.com and Coinbase in algorithmic trading Discover which platform aligns with your crypto trading goals."
 ---
 

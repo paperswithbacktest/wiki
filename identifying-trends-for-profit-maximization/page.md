@@ -1,5 +1,5 @@
 ---
-title: "Identifying Trends for Profit Maximization (Algo Trading)"
+title: "Identifying Trends for Profit Maximization"
 description: "Discover how to maximize profits in trading by mastering trend analysis and leveraging algorithmic trading. Gain insights into market dynamics and trading strategies."
 ---
 

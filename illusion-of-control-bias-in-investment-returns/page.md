@@ -1,5 +1,5 @@
 ---
-title: "Illusion of Control Bias in Investment Returns (Algo Trading)"
+title: "Illusion of Control Bias in Investment Returns"
 description: "Explore the illusion of control bias in investments and its impact on decision-making Discover strategies to mitigate this bias for better trading outcomes"
 ---
 

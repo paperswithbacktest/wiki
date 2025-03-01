@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Municipal and Taxable Bonds (Algo Trading)"
+title: "Comparison of Municipal and Taxable Bonds"
 description: "Discover the differences between municipal and taxable bonds plus the impact of algo trading in modern bond investments to optimize your investment strategy"
 ---
 

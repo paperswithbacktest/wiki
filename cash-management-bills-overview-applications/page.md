@@ -1,5 +1,5 @@
 ---
-title: "Cash Management Bills: Overview and Applications (Algo Trading)"
+title: "Cash Management Bills: Overview and Applications"
 description: "Explore how Cash Management Bills enhance cash flow management and algorithmic trading with their flexible, short-term issuance. Discover use cases and strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Corporate Actions and Their Implications (Algo Trading)"
+title: "Corporate Actions and Their Implications"
 description: "Explore the impact of corporate actions and algorithmic trading on financial markets. Learn how decisions like dividends and mergers affect investor strategies."
 ---
 

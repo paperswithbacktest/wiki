@@ -1,5 +1,5 @@
 ---
-title: "Furniture, Fixtures, and Equipment (Algo Trading)"
+title: "Furniture, Fixtures, and Equipment"
 description: "Discover how Furniture Fixtures and Equipment intersect with algorithmic trading in dynamic business settings Learn how strategic FF&E investments optimize trading environments"
 ---
 

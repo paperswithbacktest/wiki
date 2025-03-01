@@ -1,5 +1,5 @@
 ---
-title: "Index Divisor: Function and Example (Algo Trading)"
+title: "Index Divisor: Function and Example"
 description: "This page explores the concept of stock market indices focusing on index divisors and their importance in algorithmic trading ensuring market integrity over time."
 ---
 

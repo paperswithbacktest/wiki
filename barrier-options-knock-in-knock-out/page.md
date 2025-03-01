@@ -1,5 +1,5 @@
 ---
-title: "Barrier Options: Knock-In and Knock-Out (Algo Trading)"
+title: "Barrier Options: Knock-In and Knock-Out"
 description: "Explore barrier options in algo trading with knock-in and knock-out types offering unique risk management and profit opportunities through market-triggered features."
 ---
 

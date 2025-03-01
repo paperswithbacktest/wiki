@@ -1,5 +1,5 @@
 ---
-title: "Considerations for Delaying Investment in Marijuana Stocks (Algo Trading)"
+title: "Considerations for Delaying Investment in Marijuana Stocks"
 description: "Explore the financial risks and opportunities in marijuana stock investments through algorithmic trading strategies Learn to balance potential returns and market volatility"
 ---
 

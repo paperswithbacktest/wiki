@@ -1,5 +1,5 @@
 ---
-title: "Forced Technology Transfer: Overview and Criticism (Algo Trading)"
+title: "Forced Technology Transfer: Overview and Criticism"
 description: "Explore the complexities of Forced Technology Transfer in algorithmic trading, its impact on innovation, competition, and intellectual property in global markets."
 ---
 

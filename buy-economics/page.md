@@ -1,5 +1,5 @@
 ---
-title: "Buy in Economics (Algo Trading)"
+title: "Buy in Economics"
 description: "Discover the world of algorithmic trading and make informed economic decisions about software acquisition with our comprehensive guide. Explore the benefits of increased efficiency and precision in trading, driven by powerful computer programs. Understand the importance of evaluating costs and returns on investment in a competitive financial landscape. Unlock the potential of automated trading to enhance market efficiency, reduce transaction costs, and optimize trading practices."
 ---
 

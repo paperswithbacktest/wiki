@@ -1,5 +1,5 @@
 ---
-title: "Community Property: Application and Jurisdictions (Algo Trading)"
+title: "Community Property: Application and Jurisdictions"
 description: "Explore how community property laws impact financial planning and algorithmic trading. Learn strategies to navigate asset management and division in community property states."
 ---
 

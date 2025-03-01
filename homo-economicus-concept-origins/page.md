@@ -1,5 +1,5 @@
 ---
-title: "Homo Economicus: Concept and Origins (Algo Trading)"
+title: "Homo Economicus: Concept and Origins"
 description: "Explore the concept of Homo Economicus in economic theories and its role in algorithmic trading examining how rational behavior impacts financial markets and decision-making."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Buoyancy: Definition, Mechanism, and Profitability (Algo Trading)"
+title: "Buoyancy: Definition, Mechanism, and Profitability"
 description: "Explore the synergy between profit margins, buoyancy, and mechanisms in algo trading to optimize strategies and enhance profitability through market fluctuations."
 ---
 

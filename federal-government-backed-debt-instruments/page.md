@@ -1,5 +1,5 @@
 ---
-title: "Federal Government-Backed Debt Instruments (Algo Trading)"
+title: "Federal Government-Backed Debt Instruments"
 description: "Explore the integration of algorithmic trading with federal government-backed securities, examining their role in efficient trading and economic stability."
 ---
 

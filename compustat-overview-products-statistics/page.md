@@ -1,5 +1,5 @@
 ---
-title: "Compustat: Overview, Products, and Statistics (Algo Trading)"
+title: "Compustat: Overview, Products, and Statistics"
 description: "Discover how Compustat empowers algorithmic trading with comprehensive financial data essential for developing and refining trading strategies in global markets."
 ---
 

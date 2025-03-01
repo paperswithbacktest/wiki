@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Municipal Bonds and Money Market Funds (Algo Trading)"
+title: "Comparison of Municipal Bonds and Money Market Funds"
 description: "Explore the key differences between municipal bonds and money market funds for optimized investment strategies Learn how algorithmic trading enhances these options"
 ---
 

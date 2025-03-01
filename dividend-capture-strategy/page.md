@@ -1,5 +1,5 @@
 ---
-title: "Dividend Capture Strategy (Algo Trading)"
+title: "Dividend Capture Strategy"
 description: "Explore dividend capture strategy and algorithmic trading to optimize income and growth from stocks Discover the synergy of these strategies for investors"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Gross Sales Calculation and Examples (Algo Trading)"
+title: "Gross Sales Calculation and Examples"
 description: "Explore how gross sales calculations enhance algorithmic trading strategies offering insights to optimize market performance and improve predictive accuracy in trading."
 ---
 

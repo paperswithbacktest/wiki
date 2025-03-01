@@ -1,5 +1,5 @@
 ---
-title: "Comparison of American and European Options (Algo Trading)"
+title: "Comparison of American and European Options"
 description: "Explore the key differences between American and European options in algo trading Understand how these derivatives impact trading strategies and risk management"
 ---
 

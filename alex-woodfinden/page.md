@@ -1,5 +1,5 @@
 ---
-title: "Alex Woodfinden (Algo Trading)"
+title: "Alex Woodfinden"
 description: "Discover the groundbreaking journey of Alex Woodfinden who merges astrophysics with quantitative trading at Akuna Capital crafting algorithmic trading strategies."
 ---
 

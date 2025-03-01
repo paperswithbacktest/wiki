@@ -1,5 +1,5 @@
 ---
-title: "Diworsification: Concept, Mechanisms, and Solutions (Algo Trading)"
+title: "Diworsification: Concept, Mechanisms, and Solutions"
 description: "Explore the concept of diworsification and its impact on investment strategies Learn how algorithmic trading can enhance or hinder portfolio management for optimal outcomes"
 ---
 

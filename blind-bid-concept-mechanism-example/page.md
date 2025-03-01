@@ -1,5 +1,5 @@
 ---
-title: "Blind Bid: Concept, Mechanism, and Example (Algo Trading)"
+title: "Blind Bid: Concept, Mechanism, and Example"
 description: "Discover the intricacies of blind bids in algorithmic trading Learn how they maintain market stability provide strategic advantages and enhance trading outcomes"
 ---
 

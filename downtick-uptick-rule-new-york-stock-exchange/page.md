@@ -1,5 +1,5 @@
 ---
-title: "Downtick-Uptick Rule on the New York Stock Exchange (Algo Trading)"
+title: "Downtick-Uptick Rule on the New York Stock Exchange"
 description: "Learn about the downtick-uptick rule on the NYSE its historical role in regulating algo trading during market volatility and insights for modern traders."
 ---
 

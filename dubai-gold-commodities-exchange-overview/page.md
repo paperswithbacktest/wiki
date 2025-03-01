@@ -1,5 +1,5 @@
 ---
-title: "Dubai Gold & Commodities Exchange Overview (Algo Trading)"
+title: "Dubai Gold & Commodities Exchange Overview"
 description: "Explore algo trading on the Dubai Gold and Commodities Exchange and discover its innovative trading strategies and diverse futures and options."
 ---
 

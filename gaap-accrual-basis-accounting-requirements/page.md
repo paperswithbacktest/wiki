@@ -1,5 +1,5 @@
 ---
-title: "GAAP and Accrual Basis Accounting Requirements (Algo Trading)"
+title: "GAAP and Accrual Basis Accounting Requirements"
 description: "Explore how GAAP and accrual accounting guide financial reporting and support algorithmic trading decisions for enhanced transparency and strategic success."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Market Makers and Electronic Communications Networks (Algo Trading)"
+title: "Comparison of Market Makers and Electronic Communications Networks"
 description: "Discover the intricacies of market makers and ECNs in algorithmic trading Learn about their roles in enhancing liquidity trading efficiency and pricing transparency"
 ---
 

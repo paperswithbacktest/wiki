@@ -1,5 +1,5 @@
 ---
-title: "Bull Vertical Spread Explanation and Example (Algo Trading)"
+title: "Bull Vertical Spread Explanation and Example"
 description: "Explore the mechanics of bull vertical spreads in options trading Learn how algorithmic strategies enhance precision in capturing bullish market trends"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "MBIA Insurance Corporation (Algo Trading)"
+title: "MBIA Insurance Corporation"
 description: "Explore MBIA Insurance Corporation's role in enhancing municipal bond creditworthiness through financial guarantee insurance, and the evolving impact of algorithmic trading on financial markets."
 ---
 

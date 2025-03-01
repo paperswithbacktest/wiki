@@ -1,5 +1,5 @@
 ---
-title: "Doomsday Call: Definition and Mechanism (Algo Trading)"
+title: "Doomsday Call: Definition and Mechanism"
 description: "Explore the world of algorithmic trading and the intriguing concept of the doomsday call in bond markets. Learn how these tools influence financial strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Gramm-Leach-Bliley Act of 1999 (Algo Trading)"
+title: "Gramm-Leach-Bliley Act of 1999"
 description: "Discover how the Gramm-Leach-Bliley Act of 1999 reshaped financial services and fostered innovations like algorithmic trading by breaking sector barriers."
 ---
 

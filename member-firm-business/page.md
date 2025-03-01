@@ -1,5 +1,5 @@
 ---
-title: "Member Firm in Business (Algo Trading)"
+title: "Member Firm in Business"
 description: "Explore the role of member firms in algorithmic trading Discover how they enhance market liquidity with advanced strategies in a dynamic financial landscape"
 ---
 

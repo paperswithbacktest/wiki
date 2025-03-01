@@ -1,5 +1,5 @@
 ---
-title: "Emotional Neutrality: Concept and Application (Algo Trading)"
+title: "Emotional Neutrality: Concept and Application"
 description: "Achieve consistent trading success by exploring the power of emotional neutrality and algorithmic trading to eliminate fear and greed from decision-making."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Marketable Securities (Algo Trading)"
+title: "Marketable Securities"
 description: "Explore the dynamic world of liquid assets and algorithmic trading in modern finance Uncover sophisticated strategies that optimize investment portfolios for maximum flexibility and returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Argentina and Socialism (Algo Trading)"
+title: "Argentina and Socialism"
 description: "Explore the intersection of socialism's influence on Argentina's political landscape and its impact on algorithmic trading in financial markets."
 ---
 

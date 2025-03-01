@@ -1,5 +1,5 @@
 ---
-title: "Impact of Fracking on U.S. Oil Independence (Algo Trading)"
+title: "Impact of Fracking on U.S. Oil Independence"
 description: "Explore the impact of fracking and algorithmic trading on U.S. oil independence Analyzing their roles in energy security and market dynamics with environmental considerations"
 ---
 

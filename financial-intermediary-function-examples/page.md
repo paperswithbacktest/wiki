@@ -1,5 +1,5 @@
 ---
-title: "Financial Intermediary: Function and Examples (Algo Trading)"
+title: "Financial Intermediary: Function and Examples"
 description: "Explore the crucial role of financial intermediaries and algorithmic trading in the economy, enhancing market efficiency, liquidity, and innovation."
 ---
 

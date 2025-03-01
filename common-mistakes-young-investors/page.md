@@ -1,5 +1,5 @@
 ---
-title: "Common Mistakes by Young Investors (Algo Trading)"
+title: "Common Mistakes by Young Investors"
 description: "Discover the common pitfalls young investors face in algorithmic trading and learn how to avoid them to enhance your journey towards financial growth and success."
 ---
 

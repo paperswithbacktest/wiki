@@ -1,5 +1,5 @@
 ---
-title: "Ito calculus in finance (Algo Trading)"
+title: "Ito calculus in finance"
 description: "Explore how Itô calculus enhances algorithmic trading by modeling asset price dynamics and enabling high-speed, accurate trading strategies."
 ---
 

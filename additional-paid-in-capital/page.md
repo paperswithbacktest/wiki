@@ -1,5 +1,5 @@
 ---
-title: "Additional Paid-in Capital (Algo Trading)"
+title: "Additional Paid-in Capital"
 description: "Explore the intricate relationships between stock equity APIC and algorithmic trading for capital finance insights and strategic investor advantages."
 ---
 

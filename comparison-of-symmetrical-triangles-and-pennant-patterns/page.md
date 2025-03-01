@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Symmetrical Triangles and Pennant Patterns (Algo Trading)"
+title: "Comparison of Symmetrical Triangles and Pennant Patterns"
 description: "Discover how symmetrical triangles and pennant patterns play integral roles in algorithmic trading strategies. This comprehensive guide explains the differences between these chart patterns and how they can predict market trends, aiding traders in making informed trading decisions. Explore their application in price chart analysis and enhance your trading efficiency through the strategic use of these formations."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Yield to Maturity and Spot Rate (Algo Trading)"
+title: "Comparison of Yield to Maturity and Spot Rate"
 description: "Explore the key financial concepts of spot rate, yield to maturity, and bond valuation within the context of algorithmic trading. This article investigates into how these elements are used to optimize investment strategies, enhance decision-making, and maximize returns in today's dynamic financial markets. Understand the intricacies of spot rates for determining present values, yield to maturity as an indicator of bond performance, and how technology-rich algorithmic trading can improve efficiency in bond markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Investment Risks Associated with Costco Stock (Algo Trading)"
+title: "Investment Risks Associated with Costco Stock"
 description: "Explore potential risks and opportunities of investing in Costco stock including market volatility and the impact of algorithmic trading strategies."
 ---
 

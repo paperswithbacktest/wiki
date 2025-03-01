@@ -1,5 +1,5 @@
 ---
-title: "Budgetary Slack: Purpose and Prevention (Algo Trading)"
+title: "Budgetary Slack: Purpose and Prevention"
 description: "Discover the role of budgetary slack in financial planning Learn its impact on organizational growth and the strategic use of algorithmic trading for optimization"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Major Revenue Sources of Johnson & Johnson (Algo Trading)"
+title: "Major Revenue Sources of Johnson & Johnson"
 description: "Explore Johnson & Johnson's major revenue sources from Pharmaceuticals, Medical Devices, and Consumer Products as the company harnesses algorithmic trading for growth."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Fibonacci Time Zones in Trading (Algo Trading)"
+title: "Fibonacci Time Zones in Trading"
 description: "Explore the strategic advantage of Fibonacci time zones in algo trading for enhanced market timing and decision-making by anticipating key reversal points."
 ---
 

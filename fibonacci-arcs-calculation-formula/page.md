@@ -1,5 +1,5 @@
 ---
-title: "Fibonacci Arcs: Calculation and Formula (Algo Trading)"
+title: "Fibonacci Arcs: Calculation and Formula"
 description: "Explore Fibonacci Arcs in algo trading and discover how these dynamic tools identify support and resistance levels aiding in market forecasting for traders."
 ---
 

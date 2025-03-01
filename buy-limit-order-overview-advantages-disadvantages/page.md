@@ -1,5 +1,5 @@
 ---
-title: "Buy Limit Order: Overview, Advantages, and Disadvantages (Algo Trading)"
+title: "Buy Limit Order: Overview, Advantages, and Disadvantages"
 description: "Explore the benefits and drawbacks of buy limit orders in stock trading Understand how they provide price control and their role in algorithmic strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Ellevest 2024 Analysis (Algo Trading)"
+title: "Ellevest 2024 Analysis"
 description: "Ellevest 2024 Analysis evaluates how Ellevest targets women's financial needs using algorithmic trading offering personalized strategies and low account minimums."
 ---
 

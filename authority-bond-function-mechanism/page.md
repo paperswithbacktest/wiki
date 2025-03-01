@@ -1,5 +1,5 @@
 ---
-title: "Authority Bond Function and Mechanism (Algo Trading)"
+title: "Authority Bond Function and Mechanism"
 description: "Explore the bond market's role in investment and funding strategies and learn about authority bonds and modern algorithmic trading practices in finance."
 ---
 

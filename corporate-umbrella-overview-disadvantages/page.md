@@ -1,5 +1,5 @@
 ---
-title: "Corporate Umbrella: Overview and Disadvantages (Algo Trading)"
+title: "Corporate Umbrella: Overview and Disadvantages"
 description: "Discover the corporate umbrella model's pros and cons, especially in algo trading. Learn how it influences operations, market adaptability, and strategic flexibility."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Hazard Rate Calculation and Example (Algo Trading)"
+title: "Hazard Rate Calculation and Example"
 description: "Explore the concept of hazard rate in survival and reliability analyses vital for industries like healthcare engineering and finance enhancing risk management and decision-making. This page investigates into the hazard rate's role in modeling risk the principles of survival analysis and its applications in predicting time-to-event occurrences in various fields. Discover how algorithmic trading benefits from these analyses for improved market prediction and strategy optimization. Gain insights into statistical methodologies like Kaplan-Meier estimates and Cox models highlighting their significance in interpreting risk dynamics and enhancing operational efficiency."
 ---
 

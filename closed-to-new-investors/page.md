@@ -1,5 +1,5 @@
 ---
-title: "Closed to New Investors (Algo Trading)"
+title: "Closed to New Investors"
 description: "Explore the complexities of investment funds and algorithmic trading Discover strategies and restrictions to maximize returns and navigate the dynamic market environment"
 ---
 

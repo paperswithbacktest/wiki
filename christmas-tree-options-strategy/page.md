@@ -1,5 +1,5 @@
 ---
-title: "Christmas Tree Options Strategy (Algo Trading)"
+title: "Christmas Tree Options Strategy"
 description: "Explore the complex Christmas Tree Options Strategy in algorithmic trading Learn how this innovative approach helps manage risk and capture market opportunities"
 ---
 

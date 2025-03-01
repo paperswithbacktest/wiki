@@ -1,5 +1,5 @@
 ---
-title: "Firm Valuation Using Present Value of Free Cash Flows (Algo Trading)"
+title: "Firm Valuation Using Present Value of Free Cash Flows"
 description: "Discover how firm valuation using the present value of free cash flows enhances investment strategies in algorithmic trading by optimizing portfolio performance."
 ---
 

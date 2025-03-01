@@ -1,5 +1,5 @@
 ---
-title: "Impact of Mutual Funds on Stock Prices (Algo Trading)"
+title: "Impact of Mutual Funds on Stock Prices"
 description: "Explore how mutual funds and algorithmic trading impact stock prices through large-scale transactions and high-speed data analysis in financial markets."
 ---
 

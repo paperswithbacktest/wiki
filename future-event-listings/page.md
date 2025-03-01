@@ -1,5 +1,5 @@
 ---
-title: "Future Event Listings (Algo Trading)"
+title: "Future Event Listings"
 description: "Discover how upcoming events impact market dynamics and how algo trading leverages these insights to enhance trading strategies and manage risks effectively."
 ---
 

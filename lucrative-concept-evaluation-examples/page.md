@@ -1,5 +1,5 @@
 ---
-title: "Lucrative: Concept, Evaluation, Examples (Algo Trading)"
+title: "Lucrative: Concept, Evaluation, Examples"
 description: "Explore the principles of lucrative algorithmic trading including successful evaluation techniques and real-world examples to optimize your trading strategy."
 ---
 

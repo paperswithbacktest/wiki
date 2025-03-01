@@ -1,5 +1,5 @@
 ---
-title: "Forecasting in Business and Investing (Algo Trading)"
+title: "Forecasting in Business and Investing"
 description: "Explore the crucial role of forecasting in business and investing including algorithmic trading to enhance decision-making and risk management in dynamic markets."
 ---
 

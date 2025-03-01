@@ -1,5 +1,5 @@
 ---
-title: "Arithmetic Mean: Overview, Limitations, and Alternatives (Algo Trading)"
+title: "Arithmetic Mean: Overview, Limitations, and Alternatives"
 description: "Explore the role of the arithmetic mean in financial analysis and its limitations due to outliers. Discover alternative metrics like geometric and harmonic means."
 ---
 

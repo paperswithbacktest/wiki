@@ -1,5 +1,5 @@
 ---
-title: "Futures Pack (Algo Trading)"
+title: "Futures Pack"
 description: "Explore the dynamic world of futures trading and algorithmic strategies to enhance returns and mitigate risks in today's financial markets with innovative insights."
 ---
 

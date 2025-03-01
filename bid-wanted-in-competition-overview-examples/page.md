@@ -1,5 +1,5 @@
 ---
-title: "Bid Wanted in Competition: Overview and Examples (Algo Trading)"
+title: "Bid Wanted in Competition: Overview and Examples"
 description: "Explore the transformative role of Bid Wanted in Competition and algorithmic trading in enhancing financial market efficiency, ensuring competitive pricing and liquidity."
 ---
 

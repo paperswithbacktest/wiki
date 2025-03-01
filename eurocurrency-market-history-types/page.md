@@ -1,5 +1,5 @@
 ---
-title: "Eurocurrency Market: History and Types (Algo Trading)"
+title: "Eurocurrency Market: History and Types"
 description: "Discover the role and evolution of Eurocurrency markets in global finance exploring their history types and the impact of algorithmic trading on efficiency"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Cecilia Rouse: Biography, Career, and Works (Algo Trading)"
+title: "Cecilia Rouse: Biography, Career, and Works"
 description: "Discover Cecilia Rouse's impactful journey in economics academia and public policy highlighting her achievements in labor economics and economic equity."
 ---
 

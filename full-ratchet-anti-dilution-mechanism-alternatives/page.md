@@ -1,5 +1,5 @@
 ---
-title: "Full Ratchet Anti-Dilution Mechanism and Alternatives (Algo Trading)"
+title: "Full Ratchet Anti-Dilution Mechanism and Alternatives"
 description: "Explore the essentials of full ratchet anti-dilution provisions in venture capital and algorithmic trading. Learn how they protect early investors from dilution in volatile markets."
 ---
 

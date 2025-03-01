@@ -1,5 +1,5 @@
 ---
-title: "Dead Money: Overview and Identification (Algo Trading)"
+title: "Dead Money: Overview and Identification"
 description: "Discover how to identify and manage dead money in trading while leveraging algorithmic strategies for optimal financial outcomes and portfolio growth."
 ---
 

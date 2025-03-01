@@ -1,5 +1,5 @@
 ---
-title: "Broad-Based Index and Broad Index Funds (Algo Trading)"
+title: "Broad-Based Index and Broad Index Funds"
 description: "Discover broad-based index investment indexing funds and algorithmic trading essentials Explore diversification cost-effective strategies and tech advancements"
 ---
 

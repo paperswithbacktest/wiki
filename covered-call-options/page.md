@@ -1,5 +1,5 @@
 ---
-title: "Covered Call Options (Algo Trading)"
+title: "Covered Call Options"
 description: "Enhance your investment strategy by integrating covered call options with algorithmic trading. This article explores how combining these techniques can generate additional income, manage risk, and maximize profitability in various market conditions. Learn about the mechanics, advantages, and challenges of both covered calls and algo trading to make informed decisions and implement best practices effectively."
 ---
 

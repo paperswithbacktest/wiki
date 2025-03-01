@@ -1,5 +1,5 @@
 ---
-title: "Drop: Overview, Functionality, Advantages, and Disadvantages (Algo Trading)"
+title: "Drop: Overview, Functionality, Advantages, and Disadvantages"
 description: "Explore the world of algorithmic trading where speed and precision meet financial decision-making Discover its advantages challenges and impact on markets"
 ---
 

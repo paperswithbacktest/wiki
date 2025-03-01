@@ -1,5 +1,5 @@
 ---
-title: "Advisor Fee: Definition, Mechanism, and Types (Algo Trading)"
+title: "Advisor Fee: Definition, Mechanism, and Types"
 description: "Learn about advisor fees in algorithmic trading including asset-based fees transaction fees and flat fees to make informed investment decisions."
 ---
 

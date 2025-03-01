@@ -1,5 +1,5 @@
 ---
-title: "Econometrics: Models and Methods (Algo Trading)"
+title: "Econometrics: Models and Methods"
 description: "Explore the synergy of econometric models and algorithmic trading uncovering methods to enhance decision-making through data analysis risk assessment and trend forecasting"
 ---
 

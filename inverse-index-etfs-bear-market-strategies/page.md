@@ -1,5 +1,5 @@
 ---
-title: "Inverse Index ETFs: Investment Strategies in Bear Markets (Algo Trading)"
+title: "Inverse Index ETFs: Investment Strategies in Bear Markets"
 description: "Explore investment strategies with Inverse Index ETFs during bear markets Optimize portfolios using algorithmic trading to navigate market downturns efficiently"
 ---
 

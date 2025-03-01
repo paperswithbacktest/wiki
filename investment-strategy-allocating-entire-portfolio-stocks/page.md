@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategy: Allocating Entire Portfolio to Stocks (Algo Trading)"
+title: "Investment Strategy: Allocating Entire Portfolio to Stocks"
 description: "Explore how strategic portfolio allocation combined with algorithmic trading can optimize stock investments and enhance returns amidst market volatility."
 ---
 

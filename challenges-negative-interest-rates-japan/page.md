@@ -1,5 +1,5 @@
 ---
-title: "Challenges of Negative Interest Rates in Japan (Algo Trading)"
+title: "Challenges of Negative Interest Rates in Japan"
 description: "Explore the complexities of Japan's negative interest rate policy and its effects on economic growth and financial markets, including algo trading implications."
 ---
 

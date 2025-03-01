@@ -1,5 +1,5 @@
 ---
-title: "Force-Placed Insurance: Overview and Function (Algo Trading)"
+title: "Force-Placed Insurance: Overview and Function"
 description: "Explore lender insurance force-placed insurance and algorithmic trading and their impact on financial contracts Learn how they affect agreements terms and costs"
 ---
 

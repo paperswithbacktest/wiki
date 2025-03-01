@@ -1,5 +1,5 @@
 ---
-title: "LVMH: Methods of Ownership (Algo Trading)"
+title: "LVMH: Methods of Ownership"
 description: "Explore LVMH's strategic use of algorithmic trading to enhance its investment strategies in the luxury goods market while ensuring sustained growth and stability."
 ---
 

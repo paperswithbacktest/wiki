@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Trending and Range-Bound Forex Currencies (Algo Trading)"
+title: "Analysis of Trending and Range-Bound Forex Currencies"
 description: "Explore forex trends and range-bound currencies with algorithmic trading insights. Improve your strategy by distinguishing market conditions using technical analysis."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Methods of Manipulating Cash Flows (Algo Trading)"
+title: "Methods of Manipulating Cash Flows"
 description: "Explore the complexities of cash flow manipulation and algorithmic trading in financial markets Discover essential insights for safeguarding stakeholder interests"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Corporate Sponsorship: Examples, Benefits, and Risks (Algo Trading)"
+title: "Corporate Sponsorship: Examples, Benefits, and Risks"
 description: "Discover the benefits and risks of corporate sponsorship in algorithmic trading Learn how to enhance brand visibility while navigating the complexities of financial markets"
 ---
 

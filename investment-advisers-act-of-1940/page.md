@@ -1,5 +1,5 @@
 ---
-title: "Investment Advisers Act of 1940 (Algo Trading)"
+title: "Investment Advisers Act of 1940"
 description: "Explore the impact of the Investment Advisers Act of 1940 on algorithmic trading and learn about fiduciary duties and regulations for financial advisors."
 ---
 

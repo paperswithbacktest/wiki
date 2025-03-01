@@ -1,5 +1,5 @@
 ---
-title: "Fractional Ownership: Overview and Examples (Algo Trading)"
+title: "Fractional Ownership: Overview and Examples"
 description: "Explore the dynamics of fractional ownership and algorithmic trading in real estate Learn how shared ownership models are enhanced by tech-driven investment strategies"
 ---
 

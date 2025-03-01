@@ -1,5 +1,5 @@
 ---
-title: "Hybrid Fund: Examples of Mixed Asset Class Funds (Algo Trading)"
+title: "Hybrid Fund: Examples of Mixed Asset Class Funds"
 description: "Discover the benefits of hybrid funds and algorithmic trading in mixed asset class investments Learn how these diversified portfolios balance risk and return."
 ---
 

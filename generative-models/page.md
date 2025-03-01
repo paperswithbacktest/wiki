@@ -1,5 +1,5 @@
 ---
-title: "Generative Models (Algo Trading)"
+title: "Generative Models"
 description: "Explore how generative models transform algorithmic trading by uncovering patterns and strategies from market data with GenAI for competitive trading edge."
 ---
 

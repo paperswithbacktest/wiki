@@ -1,5 +1,5 @@
 ---
-title: "Call Ratio Backspread: Usage and Example (Algo Trading)"
+title: "Call Ratio Backspread: Usage and Example"
 description: "Explore the call ratio backspread options strategy for bullish markets Learn how algorithmic trading can optimize this approach for unlimited profit potential"
 ---
 

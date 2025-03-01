@@ -1,5 +1,5 @@
 ---
-title: "Bank Stress Test: Mechanism, Advantages, and Criticisms (Algo Trading)"
+title: "Bank Stress Test: Mechanism, Advantages, and Criticisms"
 description: "Explore how bank stress tests and algorithmic trading interact to ensure financial stability, assessing resilience and influencing market dynamics within the banking sector."
 ---
 

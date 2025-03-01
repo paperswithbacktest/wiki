@@ -1,5 +1,5 @@
 ---
-title: "Clearing Corporation Overview (Algo Trading)"
+title: "Clearing Corporation Overview"
 description: "Explore the crucial role of clearing corporations in financial markets as they ensure accurate trade settlements and mitigate risks, vital for algorithmic trading."
 ---
 

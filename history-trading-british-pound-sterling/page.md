@@ -1,5 +1,5 @@
 ---
-title: "History and Trading of the British Pound Sterling (Algo Trading)"
+title: "History and Trading of the British Pound Sterling"
 description: "Explore the history and modern trading dynamics of the British Pound Sterling in forex markets Discover how algorithmic trading is reshaping currency trades"
 ---
 

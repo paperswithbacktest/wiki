@@ -1,5 +1,5 @@
 ---
-title: "Cryptojacking and Its Mechanisms (Algo Trading)"
+title: "Cryptojacking and Its Mechanisms"
 description: "Explore cryptojacking an escalating threat harnessing unsuspecting computers for illicit crypto mining Learn how it affects you and strategies for protection"
 ---
 

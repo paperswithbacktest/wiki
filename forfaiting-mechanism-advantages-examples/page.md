@@ -1,5 +1,5 @@
 ---
-title: "Forfaiting: Mechanism, Advantages, and Examples (Algo Trading)"
+title: "Forfaiting: Mechanism, Advantages, and Examples"
 description: "Explore forfaiting as a financial tool in trade finance with its mechanisms, benefits, and real-world examples, enhancing export operations through algorithmic trading."
 ---
 

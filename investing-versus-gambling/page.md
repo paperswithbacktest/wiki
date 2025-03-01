@@ -1,5 +1,5 @@
 ---
-title: "Investing Versus Gambling (Algo Trading)"
+title: "Investing Versus Gambling"
 description: "Explore the intricate distinctions between investing and gambling, and the role of algorithmic trading in shaping financial strategies and market dynamics."
 ---
 

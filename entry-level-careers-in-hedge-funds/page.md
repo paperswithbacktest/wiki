@@ -1,5 +1,5 @@
 ---
-title: "Entry-Level Careers in Hedge Funds (Algo Trading)"
+title: "Entry-Level Careers in Hedge Funds"
 description: "Explore entry-level careers in hedge funds and algorithmic trading Find dynamic roles offering competitive salaries and growth in the financial sector"
 ---
 

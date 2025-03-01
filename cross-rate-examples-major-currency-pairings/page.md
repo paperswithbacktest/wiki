@@ -1,5 +1,5 @@
 ---
-title: "Cross Rate Examples and Major Currency Pairings (Algo Trading)"
+title: "Cross Rate Examples and Major Currency Pairings"
 description: "Explore how cross rates and major currency pairings influence forex trading and how algorithmic strategies enhance trading efficiency and opportunities."
 ---
 

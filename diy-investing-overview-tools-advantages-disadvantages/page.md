@@ -1,5 +1,5 @@
 ---
-title: "DIY Investing: Overview, Tools, Advantages, and Disadvantages (Algo Trading)"
+title: "DIY Investing: Overview, Tools, Advantages, and Disadvantages"
 description: "Explore the world of DIY investing with insights into tools, pros, cons, and algorithmic trading to empower your financial future and portfolio management."
 ---
 

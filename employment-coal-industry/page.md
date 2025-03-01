@@ -1,5 +1,5 @@
 ---
-title: "Employment in the Coal Industry (Algo Trading)"
+title: "Employment in the Coal Industry"
 description: "Explore the dynamic changes in coal industry employment driven by technology and global energy shifts highlighting the impact of automation and algo trading."
 ---
 

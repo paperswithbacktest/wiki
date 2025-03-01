@@ -1,5 +1,5 @@
 ---
-title: "Average Inventory: Calculation Formula and Examples (Algo Trading)"
+title: "Average Inventory: Calculation Formula and Examples"
 description: "Explore the significance of average inventory in trading and business management. Learn calculation methods, management techniques, and their impact on algorithmic trading."
 ---
 

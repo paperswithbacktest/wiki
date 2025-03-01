@@ -1,5 +1,5 @@
 ---
-title: "Cash Equivalents: Types and Features (Algo Trading)"
+title: "Cash Equivalents: Types and Features"
 description: "Explore cash equivalents and their role in finance. Understand liquidity, asset conversion, and algorithmic trading's impact on financial strategies and market efficiency."
 ---
 

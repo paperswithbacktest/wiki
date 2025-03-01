@@ -1,5 +1,5 @@
 ---
-title: "Attribution (Algo Trading)"
+title: "Attribution"
 description: Explore the critical role of attribution in algorithmic trading systems and understand how it enhances decision-making processes by providing transparency and understanding of model predictions. Learn about various attribution methods that improve trust in trading models, enabling traders to interpret and refine their algorithms effectively for optimized results in fast-paced financial markets. Discover how advanced techniques and traditional methods unravel complex model interactions and quantify feature impact on trading decisions, ensuring alignment with strategy and regulatory compliance.
 ---
 

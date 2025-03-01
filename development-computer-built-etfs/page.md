@@ -1,5 +1,5 @@
 ---
-title: "Development of Computer-Built ETFs (Algo Trading)"
+title: "Development of Computer-Built ETFs"
 description: "Explore the rising trend of computer-built ETFs powered by algorithmic trading which enhances investment strategies through automation and data insights."
 ---
 

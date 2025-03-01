@@ -1,5 +1,5 @@
 ---
-title: "Henry Hub: Overview, Location, Ownership, and Connections (Algo Trading)"
+title: "Henry Hub: Overview, Location, Ownership, and Connections"
 description: "Explore the pivotal role of Henry Hub in the U.S. natural gas market and the impact of algorithmic trading on optimizing trading strategies and financial gains."
 ---
 

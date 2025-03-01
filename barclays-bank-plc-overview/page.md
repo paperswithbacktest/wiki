@@ -1,5 +1,5 @@
 ---
-title: "Barclays Bank PLC Overview (Algo Trading)"
+title: "Barclays Bank PLC Overview"
 description: "Explore Barclays' strategic approach to finance highlighting the impact of algorithmic trading through its BARX platform and commitment to innovation."
 ---
 

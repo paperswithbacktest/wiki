@@ -1,5 +1,5 @@
 ---
-title: "Indicators of Corporate Distress (Algo Trading)"
+title: "Indicators of Corporate Distress"
 description: "Discover how algorithmic trading platforms can identify corporate distress signals such as declining profits and increasing debt, crucial for sustaining business stability."
 ---
 

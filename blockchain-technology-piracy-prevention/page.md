@@ -1,5 +1,5 @@
 ---
-title: "Blockchain Technology in Piracy Prevention (Algo Trading)"
+title: "Blockchain Technology in Piracy Prevention"
 description: "Explore how blockchain technology revolutionizes digital security by combating piracy and enhancing algorithmic trading through decentralized, tamper-proof systems."
 ---
 

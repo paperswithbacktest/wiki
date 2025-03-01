@@ -1,5 +1,5 @@
 ---
-title: "Calculating Returns on Incremental Invested Capital (Algo Trading)"
+title: "Calculating Returns on Incremental Invested Capital"
 description: "Discover how to calculate Return on Incremental Invested Capital in algo trading. Learn how this metric enhances investment efficiency and trading strategies."
 ---
 

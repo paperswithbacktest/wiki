@@ -1,5 +1,5 @@
 ---
-title: "Brown-Durbin-Evans CUSUM test (Algo Trading)"
+title: "Brown-Durbin-Evans CUSUM test"
 description: Explore how the Brown-Durbin-Evans CUSUM test enhances algorithmic trading by offering a method to monitor and maintain model stability. This statistical tool analyzes residuals to identify shifts in regression models, ensuring trading strategies adapt to dynamic market conditions. Discover its significance in sustaining profitability through continuous assessment and timely adjustments for optimal trading performance.
 ---
 

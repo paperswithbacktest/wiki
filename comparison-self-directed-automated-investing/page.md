@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Self-Directed and Automated Investing (Algo Trading)"
+title: "Comparison of Self-Directed and Automated Investing"
 description: "Explore the evolving landscape of investing with insights on self-directed investing vs automated trading Learn strategies to optimize your financial decisions"
 ---
 

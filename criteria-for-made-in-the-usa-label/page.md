@@ -1,5 +1,5 @@
 ---
-title: "Criteria for 'Made in the USA' Label (Algo Trading)"
+title: "Criteria for 'Made in the USA' Label"
 description: "Explore how manufacturing standards, 'Made in the USA' labeling, and algo trading intersect to enhance product quality, foster innovation, and drive market competitiveness."
 ---
 

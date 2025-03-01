@@ -1,5 +1,5 @@
 ---
-title: "Asia Ex-Japan: Overview and Mechanism (Algo Trading)"
+title: "Asia Ex-Japan: Overview and Mechanism"
 description: "Discover the rapidly growing Asia Ex-Japan region and how algorithmic trading is transforming investment strategies in these dynamic emerging markets."
 ---
 

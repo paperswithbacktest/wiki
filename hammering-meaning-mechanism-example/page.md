@@ -1,5 +1,5 @@
 ---
-title: "Hammering: Meaning, Mechanism, and Example (Algo Trading)"
+title: "Hammering: Meaning, Mechanism, and Example"
 description: "Explore the concept and implications of hammering in algorithmic trading where aggressive selling impacts market prices while examining its ethical and legal aspects."
 ---
 

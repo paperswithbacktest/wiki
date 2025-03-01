@@ -1,5 +1,5 @@
 ---
-title: "High Beta Index (Algo Trading)"
+title: "High Beta Index"
 description: "Explore high beta stock indices and algorithmic trading strategies to maximize returns amidst market volatility while managing risk effectively in fast-paced markets."
 ---
 

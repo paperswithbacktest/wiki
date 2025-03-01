@@ -1,5 +1,5 @@
 ---
-title: "Bermudian Dollar: Overview, Functionality, and History (Algo Trading)"
+title: "Bermudian Dollar: Overview, Functionality, and History"
 description: "Explore the history and functionality of the Bermudian Dollar from its colonial roots to its modern-day significance in algorithmic trading and economic stability."
 ---
 

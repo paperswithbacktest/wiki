@@ -1,5 +1,5 @@
 ---
-title: "Closed Accounts for Individuals and Institutions (Algo Trading)"
+title: "Closed Accounts for Individuals and Institutions"
 description: "Explore the dynamics of closed individual and institutional accounts in algorithmic trading, highlighting their roles, challenges, and impact on modern financial markets."
 ---
 

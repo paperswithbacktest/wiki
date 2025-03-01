@@ -1,5 +1,5 @@
 ---
-title: "Cross-Listing: Overview and Examples (Algo Trading)"
+title: "Cross-Listing: Overview and Examples"
 description: "Explore the strategic benefits of cross-listing in global markets Learn how companies enhance liquidity access international investors and leverage algorithmic trading"
 ---
 

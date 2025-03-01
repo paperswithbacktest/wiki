@@ -1,5 +1,5 @@
 ---
-title: "Ceteris Paribus and Mutatis Mutandis: Concepts and Comparisons (Algo Trading)"
+title: "Ceteris Paribus and Mutatis Mutandis: Concepts and Comparisons"
 description: "Explore how the concepts of Ceteris Paribus and Mutatis Mutandis enhance algorithmic trading by providing insights into market analysis and strategy optimization."
 ---
 

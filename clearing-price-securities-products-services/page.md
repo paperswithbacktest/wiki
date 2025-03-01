@@ -1,5 +1,5 @@
 ---
-title: "Clearing Price in Securities, Products, and Services (Algo Trading)"
+title: "Clearing Price in Securities, Products, and Services"
 description: "Discover how clearing prices achieve market equilibrium by matching supply with demand in securities. Learn the role of algorithms in enhancing liquidity and price accuracy."
 ---
 

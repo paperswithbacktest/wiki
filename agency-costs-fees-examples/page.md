@@ -1,5 +1,5 @@
 ---
-title: "Agency Costs: Fees and Examples (Algo Trading)"
+title: "Agency Costs: Fees and Examples"
 description: "Discover the complexities of agency costs in algorithmic trading. Learn how these costs impact financial performance and explore strategies for effective management."
 ---
 

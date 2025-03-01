@@ -1,5 +1,5 @@
 ---
-title: "Method for Interpreting Intraday Trading Volume (Algo Trading)"
+title: "Method for Interpreting Intraday Trading Volume"
 description: "Discover how intraday trading volume informs algorithmic trading decisions by providing insights into market activity and liquidity for optimized trade execution."
 ---
 

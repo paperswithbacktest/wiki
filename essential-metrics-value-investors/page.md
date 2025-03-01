@@ -1,5 +1,5 @@
 ---
-title: "Essential Metrics for Value Investors (Algo Trading)"
+title: "Essential Metrics for Value Investors"
 description: "Discover how value investing principles blend with algorithmic trading to refine decision-making and risk management for optimal investment strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "ChoiceTrade Platform Overview (Algo Trading)"
+title: "ChoiceTrade Platform Overview"
 description: "Discover ChoiceTrade's low-cost options for algorithmic trading boosting market access and efficiency for both novice and experienced traders with innovative tools."
 ---
 

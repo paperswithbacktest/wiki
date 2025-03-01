@@ -1,5 +1,5 @@
 ---
-title: "Earning Power: Concepts, Constraints, and Calculation (Algo Trading)"
+title: "Earning Power: Concepts, Constraints, and Calculation"
 description: "Explore the crucial role of financial limits in algorithmic trading Discover how understanding constraints and leveraging technology can optimize earning power"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Confederation of British Industry (Algo Trading)"
+title: "Confederation of British Industry"
 description: "Explore how the Confederation of British Industry navigates algorithmic trading's impact, enhancing market efficiency while addressing fairness and volatility concerns."
 ---
 

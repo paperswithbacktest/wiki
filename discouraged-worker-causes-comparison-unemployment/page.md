@@ -1,5 +1,5 @@
 ---
-title: "Discouraged Worker: Causes and Comparison With Unemployment (Algo Trading)"
+title: "Discouraged Worker: Causes and Comparison With Unemployment"
 description: "Explore the intricate relationship between discouraged workers, unemployment, and algo trading, and understand their impact on modern labor market dynamics and economic policies."
 ---
 

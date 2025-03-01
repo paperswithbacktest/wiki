@@ -1,5 +1,5 @@
 ---
-title: "High-Low Index: Formula and Example Chart (Algo Trading)"
+title: "High-Low Index: Formula and Example Chart"
 description: "Explore the high-low index formula and chart in algo trading to gauge market trends by comparing stocks' 52-week highs and lows for better trading insights."
 ---
 

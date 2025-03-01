@@ -1,5 +1,5 @@
 ---
-title: "Capital Formation and Its Significance (Algo Trading)"
+title: "Capital Formation and Its Significance"
 description: "Explore the impact of investment capital formation and algorithmic trading in driving economic growth and market efficiency Discover their crucial interplay and benefits"
 ---
 

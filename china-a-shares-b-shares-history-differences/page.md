@@ -1,5 +1,5 @@
 ---
-title: "China A-Shares and B-Shares: History and Differences (Algo Trading)"
+title: "China A-Shares and B-Shares: History and Differences"
 description: "Explore the history and differences between China's A-Shares and B-Shares, and how algorithmic trading transforms investment strategies in these markets."
 ---
 

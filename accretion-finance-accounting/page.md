@@ -1,5 +1,5 @@
 ---
-title: "Accretion in Finance and Accounting (Algo Trading)"
+title: "Accretion in Finance and Accounting"
 description: "Explore how accretion enhances financial strategies and algorithmic trading impacts markets by maximizing returns and optimizing investments through automation."
 ---
 

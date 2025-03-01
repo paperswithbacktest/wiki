@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Vanguard and TD Ameritrade (Algo Trading)"
+title: "Comparison of Vanguard and TD Ameritrade"
 description: "Compare Vanguard and TD Ameritrade for algorithmic trading insights on usability order types costs and the impact of TD Ameritrade's merger with Charles Schwab."
 ---
 

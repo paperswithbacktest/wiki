@@ -1,5 +1,5 @@
 ---
-title: "Core Inflation and Its Significance (Algo Trading)"
+title: "Core Inflation and Its Significance"
 description: "Explore the significance of core inflation in economic analysis and its impact on algorithmic trading strategies Learn how it influences financial decision-making"
 ---
 

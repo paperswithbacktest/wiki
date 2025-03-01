@@ -1,5 +1,5 @@
 ---
-title: "Facts About Quitclaim Deeds (Algo Trading)"
+title: "Facts About Quitclaim Deeds"
 description: "Explore the intriguing intersection of real estate quitclaim deeds and algorithmic trading in finance highlighting efficiency and potential risks in both sectors."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Delivery Date: Significance and Mechanism (Algo Trading)"
+title: "Delivery Date: Significance and Mechanism"
 description: "Explore the significance and mechanisms of delivery dates in algorithmic trading Discover how integrated logistics and advanced technology drive efficiency in dynamic markets"
 ---
 

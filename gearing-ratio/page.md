@@ -1,5 +1,5 @@
 ---
-title: "Gearing Ratio (Algo Trading)"
+title: "Gearing Ratio"
 description: "Explore the importance of the gearing ratio and leverage in financial analysis and algorithmic trading strategy development. Understand how these metrics help assess financial health and performance, manage risk, and refine trading strategies in the dynamic financial landscape."
 ---
 

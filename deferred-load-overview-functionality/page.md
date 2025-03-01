@@ -1,5 +1,5 @@
 ---
-title: "Deferred Load: Overview and Functionality (Algo Trading)"
+title: "Deferred Load: Overview and Functionality"
 description: "Explore the strategic advantages of utilizing deferred load functionality in algorithmic trading, allowing traders to maximize initial capital investment by deferring fees."
 ---
 

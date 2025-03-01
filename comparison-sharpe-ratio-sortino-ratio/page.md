@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Sharpe Ratio and Sortino Ratio (Algo Trading)"
+title: "Comparison of Sharpe Ratio and Sortino Ratio"
 description: "Discover the key differences and applications of the Sharpe Ratio and Sortino Ratio in algorithmic trading. Learn how these essential metrics assist traders in assessing risk and optimizing strategies by focusing on risk-adjusted returns and downside risk. Understanding these ratios empowers investors to make informed decisions in the fast-paced world of algorithmic trading."
 ---
 

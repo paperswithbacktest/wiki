@@ -1,5 +1,5 @@
 ---
-title: "Economic Sectors and Their Main Types (Algo Trading)"
+title: "Economic Sectors and Their Main Types"
 description: "Explore the diverse landscape of economic sectors and their significance in algo trading Understand sector roles in financial markets and optimize investment strategies"
 ---
 

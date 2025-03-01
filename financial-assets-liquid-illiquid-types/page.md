@@ -1,5 +1,5 @@
 ---
-title: "Financial Assets: Liquid and Illiquid Types (Algo Trading)"
+title: "Financial Assets: Liquid and Illiquid Types"
 description: "Explore liquid and illiquid financial assets and discover how algorithmic trading optimizes trading strategies and execution to enhance portfolio performance."
 ---
 

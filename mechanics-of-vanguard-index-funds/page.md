@@ -1,5 +1,5 @@
 ---
-title: "Mechanics of Vanguard Index Funds (Algo Trading)"
+title: "Mechanics of Vanguard Index Funds"
 description: "Discover the synergy between Vanguard index funds and algorithmic trading uncovering innovative strategies for optimizing portfolio performance and investment returns."
 ---
 

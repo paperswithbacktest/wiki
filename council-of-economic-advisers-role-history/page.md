@@ -1,5 +1,5 @@
 ---
-title: "Council of Economic Advisers: Role and History (Algo Trading)"
+title: "Council of Economic Advisers: Role and History"
 description: "Explore the crucial role of the Council of Economic Advisers in U.S. economic policy and its impact on algorithmic trading strategies to optimize market performance."
 ---
 

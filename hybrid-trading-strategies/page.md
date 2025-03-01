@@ -1,5 +1,5 @@
 ---
-title: "Hybrid Trading Strategies (Algo Trading)"
+title: "Hybrid Trading Strategies"
 description: "Explore the innovative world of hybrid trading strategies in algo trading Discover how blending trading techniques optimizes returns and minimizes risk effectively"
 ---
 

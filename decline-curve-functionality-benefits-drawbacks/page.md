@@ -1,5 +1,5 @@
 ---
-title: "Decline Curve: Functionality, Benefits, and Drawbacks (Algo Trading)"
+title: "Decline Curve: Functionality, Benefits, and Drawbacks"
 description: "Explore how decline curve analysis aids in forecasting oil and gas production rates and enhances algorithmic trading for optimal investment strategies."
 ---
 

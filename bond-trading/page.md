@@ -1,5 +1,5 @@
 ---
-title: "Bond Trading (Algo Trading)"
+title: "Bond Trading"
 description: "Explore the transformative impact of technology and algorithmic trading on bond markets. Discover how sophisticated algorithms enhance trading efficiency, transparency, and market access for both institutional and retail investors. Learn about the evolving landscape driven by regulatory changes and technological innovations, and gain insights into future trends shaping the bond trading industry."
 ---
 

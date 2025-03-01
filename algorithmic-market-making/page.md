@@ -1,5 +1,5 @@
 ---
-title: "Algorithmic Market Making (Algo Trading)"
+title: "Algorithmic Market Making"
 description: "Explore the synergy of algorithmic trading and market making how advanced algorithms drive liquidity and efficiency in financial markets worldwide."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Cardboard Box Index (Algo Trading)"
+title: "Cardboard Box Index"
 description: "Discover how the Cardboard Box Index serves as a unique economic indicator, providing insights into manufacturing activity and aiding algorithmic trading strategies."
 ---
 

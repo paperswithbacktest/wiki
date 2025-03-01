@@ -1,5 +1,5 @@
 ---
-title: "AlphaSimplex (Algo Trading)"
+title: "AlphaSimplex"
 description: "AlphaSimplex pioneers algorithmic trading, leveraging quantitative analysis and economic theory to optimize investment strategies in fast-paced financial markets."
 ---
 

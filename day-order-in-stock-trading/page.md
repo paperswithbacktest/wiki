@@ -1,5 +1,5 @@
 ---
-title: "Day Order in Stock Trading (Algo Trading)"
+title: "Day Order in Stock Trading"
 description: "Explore how day order stock trading and algorithmic strategies enhance risk management and trade execution in volatile markets for optimal outcomes."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Capstone (Algo Trading)"
+title: "Capstone"
 description: "Explore the dynamic world of algorithmic trading with our in-depth analysis and discover the vital role of capstone projects in honing essential skills."
 ---
 

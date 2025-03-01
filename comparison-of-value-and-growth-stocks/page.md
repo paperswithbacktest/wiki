@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Value and Growth Stocks (Algo Trading)"
+title: "Comparison of Value and Growth Stocks"
 description: "Explore the distinctions between value and growth stocks with this in-depth comparison, highlighting how algorithmic trading can optimize these strategies for enhanced investment performance. Learn how value investing targets undervalued, strong-fundamentals companies and growth investing focuses on companies with high growth potential. Discover how algorithmic trading technology leverages data to improve decision-making and efficiency, offering a modern approach to portfolio management. This article provides valuable insights for investors seeking to refine their strategies and optimize financial outcomes by integrating traditional investing methods with cutting-edge technology."
 ---
 

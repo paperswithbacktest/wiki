@@ -1,5 +1,5 @@
 ---
-title: "Developing a Trading Strategy Using Bollinger Bands and RSI (Algo Trading)"
+title: "Developing a Trading Strategy Using Bollinger Bands and RSI"
 description: "Optimize your trading strategy with the dynamic duo of Bollinger Bands and RSI Discover how combining volatility and momentum indicators can enhance your market insights"
 ---
 

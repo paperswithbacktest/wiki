@@ -1,5 +1,5 @@
 ---
-title: "Excess Returns: Meaning, Risk, and Formulas (Algo Trading)"
+title: "Excess Returns: Meaning, Risk, and Formulas"
 description: "Explore the meaning of excess returns and investment risk in algo trading, utilizing essential formulas to enhance portfolio performance and optimize strategies."
 ---
 

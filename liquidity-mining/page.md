@@ -1,5 +1,5 @@
 ---
-title: "liquidity mining (Algo Trading)"
+title: "liquidity mining"
 description: "Explore the integration of liquidity mining and algorithmic trading in DeFi to boost efficiency and profitability through automated and strategic participation."
 ---
 

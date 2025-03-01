@@ -1,5 +1,5 @@
 ---
-title: "Machine learning risk models (Algo Trading)"
+title: "Machine learning risk models"
 description: "Explore how machine learning risk models are revolutionizing algorithmic trading by improving decision-making, mitigating risks, and enhancing strategy performance."
 ---
 

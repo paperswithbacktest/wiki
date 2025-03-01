@@ -1,5 +1,5 @@
 ---
-title: "Leading Investment Destinations in Latin America (Algo Trading)"
+title: "Leading Investment Destinations in Latin America"
 description: "Discover investment opportunities in Latin America with a focus on the rise of algorithmic trading enhancing strategies in emerging markets. Explore now!"
 ---
 

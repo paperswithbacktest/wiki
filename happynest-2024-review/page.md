@@ -1,5 +1,5 @@
 ---
-title: "HappyNest 2024 Review (Algo Trading)"
+title: "HappyNest 2024 Review"
 description: "Discover HappyNest 2024's innovative approach to algorithmic trading Explore features that make it stand out for both novice and seasoned investors seeking market edge"
 ---
 

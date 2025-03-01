@@ -1,5 +1,5 @@
 ---
-title: "Herd Instinct in the Stock Market (Algo Trading)"
+title: "Herd Instinct in the Stock Market"
 description: "Explore the impact of herd instinct on the stock market and algorithmic trading Discover strategies to counteract crowd behavior and enhance investment decisions"
 ---
 

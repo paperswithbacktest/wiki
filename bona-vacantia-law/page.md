@@ -1,5 +1,5 @@
 ---
-title: "Bona Vacantia Law (Algo Trading)"
+title: "Bona Vacantia Law"
 description: "Explore bona vacantia and its impact on algorithmic trading Learn how unclaimed assets impact trading strategies and legal compliance in investing and trading sectors"
 ---
 

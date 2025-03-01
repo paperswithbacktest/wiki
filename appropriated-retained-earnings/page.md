@@ -1,5 +1,5 @@
 ---
-title: "Appropriated Retained Earnings: Concept and Examples (Algo Trading)"
+title: "Appropriated Retained Earnings: Concept and Examples"
 description: "Explore appropriated retained earnings and algorithmic trading in finance. Understand their role in financial planning and enhancing investor strategies."
 ---
 

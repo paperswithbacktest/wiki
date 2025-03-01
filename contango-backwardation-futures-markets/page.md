@@ -1,5 +1,5 @@
 ---
-title: "Contango and Backwardation in Futures Markets (Algo Trading)"
+title: "Contango and Backwardation in Futures Markets"
 description: "Explore the role of contango and backwardation in futures markets emphasizing their impact on pricing and trading strategies with algorithmic trading insights."
 ---
 

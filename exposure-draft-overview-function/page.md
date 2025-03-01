@@ -1,5 +1,5 @@
 ---
-title: "Exposure Draft: Overview and Function (Algo Trading)"
+title: "Exposure Draft: Overview and Function"
 description: "Algorithmic trading advancements demand standards for fairness and stability. Explore exposure drafts' role in shaping transparent, efficient trading regulations."
 ---
 

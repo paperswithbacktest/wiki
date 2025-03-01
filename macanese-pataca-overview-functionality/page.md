@@ -1,5 +1,5 @@
 ---
-title: "Macanese Pataca: Overview and Functionality (Algo Trading)"
+title: "Macanese Pataca: Overview and Functionality"
 description: "Explore how the Macanese Pataca integrates into Macau's economy and algorithmic trading highlighting its stability and impact on local and global markets."
 ---
 

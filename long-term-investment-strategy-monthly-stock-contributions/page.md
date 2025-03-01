@@ -1,5 +1,5 @@
 ---
-title: "Long-Term Investment Strategy: Monthly Stock Contributions Over Three Decades (Algo Trading)"
+title: "Long-Term Investment Strategy: Monthly Stock Contributions Over Three Decades"
 description: "Explore a robust long-term investment strategy by combining monthly stock contributions with algorithmic trading. Benefit from disciplined growth and data-driven insights."
 ---
 

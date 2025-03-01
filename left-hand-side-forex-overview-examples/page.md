@@ -1,5 +1,5 @@
 ---
-title: "Left Hand Side in Forex: Overview and Examples (Algo Trading)"
+title: "Left Hand Side in Forex: Overview and Examples"
 description: "Discover how understanding the 'Left Hand Side' (LHS) in forex enhances algorithmic trading strategies for better bid price navigation and improved trade outcomes."
 ---
 

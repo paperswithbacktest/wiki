@@ -1,5 +1,5 @@
 ---
-title: "Market Approach to Asset Valuation (Algo Trading)"
+title: "Market Approach to Asset Valuation"
 description: "Explore the market approach to asset valuation in the context of algorithmic trading, emphasizing its significance in optimizing financial strategies using real-time data insights."
 ---
 

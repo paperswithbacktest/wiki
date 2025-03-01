@@ -1,5 +1,5 @@
 ---
-title: "Lesser-Known Facts About Southwest Airlines (LUV) (Algo Trading)"
+title: "Lesser-Known Facts About Southwest Airlines (LUV)"
 description: "Discover how Southwest Airlines revolutionized air travel with a low-cost model focused on customer satisfaction and operational efficiency while exploring the impact of algorithmic trading in aviation."
 ---
 

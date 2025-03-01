@@ -1,5 +1,5 @@
 ---
-title: "Kangaroos and Their Function in the Bond Market (Algo Trading)"
+title: "Kangaroos and Their Function in the Bond Market"
 description: "Explore the dynamic role of Kangaroo bonds and algorithmic trading in bond markets Learn how they diversify portfolios and enhance investment strategies"
 ---
 

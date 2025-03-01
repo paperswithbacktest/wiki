@@ -1,5 +1,5 @@
 ---
-title: "Equity Commitment Note: Functions and Mechanisms (Algo Trading)"
+title: "Equity Commitment Note: Functions and Mechanisms"
 description: "Discover how equity commitment notes and algorithmic trading intersect to enhance capital allocation strategies and market efficiency in modern finance."
 ---
 

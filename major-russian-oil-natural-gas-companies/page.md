@@ -1,5 +1,5 @@
 ---
-title: "Major Russian Oil and Natural Gas Companies (Algo Trading)"
+title: "Major Russian Oil and Natural Gas Companies"
 description: "Explore Russian oil and gas companies' influence in global energy markets and how algorithmic trading is reshaping their strategic operations amidst sanctions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Common ETFs Tracking the Banking Sector (Algo Trading)"
+title: "Common ETFs Tracking the Banking Sector"
 description: "Explore the interplay of ETFs and algorithmic trading within the banking sector, unlocking insights into modern investment strategies and potential financial growth."
 ---
 

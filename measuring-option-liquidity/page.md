@@ -1,5 +1,5 @@
 ---
-title: "Measuring Option Liquidity (Algo Trading)"
+title: "Measuring Option Liquidity"
 description: "Explore the intricacies of option liquidity in trading with insights into measuring liquidity through daily volume and open interest facilitated by algorithmic trading."
 ---
 

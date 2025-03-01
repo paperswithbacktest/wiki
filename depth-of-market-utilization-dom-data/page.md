@@ -1,5 +1,5 @@
 ---
-title: "Depth of Market and Utilization of DOM Data (Algo Trading)"
+title: "Depth of Market and Utilization of DOM Data"
 description: "Discover the power of Depth of Market data for algorithmic trading Dive into market dynamics liquidity insights and refine your trading strategies effectively"
 ---
 

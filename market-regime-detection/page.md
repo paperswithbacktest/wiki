@@ -1,5 +1,5 @@
 ---
-title: "market regime detection (Algo Trading)"
+title: "market regime detection"
 description: "Market regime detection is vital for algorithmic trading enabling traders to adapt strategies to market phases using models like Hidden Markov Models for optimal results."
 ---
 

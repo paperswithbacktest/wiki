@@ -1,5 +1,5 @@
 ---
-title: "Earnings Momentum and Its Mechanisms (Algo Trading)"
+title: "Earnings Momentum and Its Mechanisms"
 description: "Explore how earnings momentum can enhance investment strategies by identifying stocks with consistent growth patterns through algorithmic trading for higher returns."
 ---
 

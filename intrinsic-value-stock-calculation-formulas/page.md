@@ -1,5 +1,5 @@
 ---
-title: "Intrinsic Value of Stock: Explanation and Calculation Formulas (Algo Trading)"
+title: "Intrinsic Value of Stock: Explanation and Calculation Formulas"
 description: "Explore intrinsic stock value calculations and algorithmic trading strategies to assess a company's true worth and enhance investment decision-making."
 ---
 

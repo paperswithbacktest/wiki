@@ -1,5 +1,5 @@
 ---
-title: "Effectiveness of Stop-Loss Orders in Short Selling (Algo Trading)"
+title: "Effectiveness of Stop-Loss Orders in Short Selling"
 description: "Optimize your short selling strategies by understanding how stop-loss orders and algorithmic trading can minimize risks and maximize efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Maxwell Cruickshanks (Algo Trading)"
+title: "Maxwell Cruickshanks"
 description: "Maxwell Cruickshanks is a budding software engineer with a focus on algorithmic trading, blending strong technical skills and practical experiences."
 ---
 

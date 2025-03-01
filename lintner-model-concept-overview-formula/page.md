@@ -1,5 +1,5 @@
 ---
-title: "Lintner Model: Concept, Overview, and Formula (Algo Trading)"
+title: "Lintner Model: Concept, Overview, and Formula"
 description: "Explore the Lintner Model and its impact on dividend strategies in finance. Understand its role in algorithmic trading and insights for predicting corporate behaviors."
 ---
 

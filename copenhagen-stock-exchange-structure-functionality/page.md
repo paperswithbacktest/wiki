@@ -1,5 +1,5 @@
 ---
-title: "Copenhagen Stock Exchange: Structure and Functionality (Algo Trading)"
+title: "Copenhagen Stock Exchange: Structure and Functionality"
 description: "Explore the structure and impact of the Copenhagen Stock Exchange and how it's transforming Nordic finance with algorithmic trading and Nasdaq integration."
 ---
 

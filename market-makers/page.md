@@ -1,5 +1,5 @@
 ---
-title: "Market makers (Algo Trading)"
+title: "Market makers"
 description: "Explore the critical role of market makers in financial markets, their strategies for liquidity provision, and the advanced technologies that enhance trade execution."
 ---
 

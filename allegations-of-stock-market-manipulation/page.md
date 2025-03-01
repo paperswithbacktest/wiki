@@ -1,5 +1,5 @@
 ---
-title: "Allegations of Stock Market Manipulation (Algo Trading)"
+title: "Allegations of Stock Market Manipulation"
 description: "Explore the impact of algorithmic trading on stock markets uncovering concerns over potential manipulation and the challenges faced by regulators to ensure fairness."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Lawful Money: Definition and History (Algo Trading)"
+title: "Lawful Money: Definition and History"
 description: "Discover the evolution of currency from barter to digital forms and how lawful money and algorithmic trading shape global financial systems today."
 ---
 

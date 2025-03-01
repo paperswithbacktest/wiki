@@ -1,5 +1,5 @@
 ---
-title: "Catastrophe Swap: Overview and Functionality (Algo Trading)"
+title: "Catastrophe Swap: Overview and Functionality"
 description: "Explore how catastrophe swaps and algorithmic trading enhance risk management by minimizing financial disruptions. Learn effective strategies for market stability."
 ---
 

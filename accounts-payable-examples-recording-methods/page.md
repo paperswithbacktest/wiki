@@ -1,5 +1,5 @@
 ---
-title: "Accounts Payable: Examples and Recording Methods (Algo Trading)"
+title: "Accounts Payable: Examples and Recording Methods"
 description: "Explore the synergy between Accounts Payable management and algorithmic trading to improve business and trading efficiencies through precise recording and strategy optimization."
 ---
 

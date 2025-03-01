@@ -1,5 +1,5 @@
 ---
-title: "Essential Economic Concepts for Consumers (Algo Trading)"
+title: "Essential Economic Concepts for Consumers"
 description: "Discover the impact of financial literacy, consumer economics, and algo trading on modern finance to make informed decisions in a complex economic landscape."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Role of Exploration and Production in the Oil and Gas Industry (Algo Trading)"
+title: "Role of Exploration and Production in the Oil and Gas Industry"
 description: "Explore how algorithmic trading is transforming exploration and production in the oil and gas industry with advanced technologies for faster, precise trading decisions."
 ---
 

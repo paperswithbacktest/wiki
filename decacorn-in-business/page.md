@@ -1,5 +1,5 @@
 ---
-title: "Decacorn in Business (Algo Trading)"
+title: "Decacorn in Business"
 description: "Explore the journey from unicorns to decacorns and the role of algo trading in startups driving innovation, immense valuations, and shaping industry standards."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Methods for Generating Passive Income in 2024 (Algo Trading)"
+title: "Methods for Generating Passive Income in 2024"
 description: "Discover how to boost financial stability in 2024 with passive income strategies. Learn the transformative role of algorithmic trading for consistent returns."
 ---
 

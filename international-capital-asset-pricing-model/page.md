@@ -1,5 +1,5 @@
 ---
-title: "International Capital Asset Pricing Model (Algo Trading)"
+title: "International Capital Asset Pricing Model"
 description: "Discover how the International Capital Asset Pricing Model enhances investment strategies by addressing global market dynamics and exchange rate risks in algo trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Advantages and Disadvantages of BRICS ETFs (Algo Trading)"
+title: "Advantages and Disadvantages of BRICS ETFs"
 description: "Explore the potential of BRICS ETFs for portfolio diversification and growth Learn about the benefits and risks of investing in emerging markets with algo trading strategies"
 ---
 

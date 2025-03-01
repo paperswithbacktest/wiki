@@ -1,5 +1,5 @@
 ---
-title: "Dubai Mercantile Exchange Overview (Algo Trading)"
+title: "Dubai Mercantile Exchange Overview"
 description: "Explore the impact of algorithmic trading on the Dubai Mercantile Exchange's energy futures market and discover how DME fosters global market efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Impact of Education and Training on Economic Growth (Algo Trading)"
+title: "Impact of Education and Training on Economic Growth"
 description: "Explore the impact of economic education and technology on algorithmic trading growth Learn how education and AI enhance trading strategies and market efficiency"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Vanguard Mutual Funds and Vanguard ETFs (Algo Trading)"
+title: "Comparison of Vanguard Mutual Funds and Vanguard ETFs"
 description: "Explore the differences between Vanguard mutual funds and ETFs, highlighting their roles in investment strategies with a focus on algorithmic trading. Understand how Vanguard's cost-effective options provide diversification and liquidity, bolstering investor portfolios. Learn about algorithmic trading's impact, offering speed and efficiency in modern financial markets."
 ---
 

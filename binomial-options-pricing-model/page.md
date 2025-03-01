@@ -1,5 +1,5 @@
 ---
-title: "Binomial options pricing model (Algo Trading)"
+title: "Binomial options pricing model"
 description: "Explore the Binomial Option Pricing Model, a key tool in algorithmic trading, for accurately valuing options by simulating potential asset price paths."
 ---
 

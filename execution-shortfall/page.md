@@ -1,5 +1,5 @@
 ---
-title: "Execution shortfall (Algo Trading)"
+title: "Execution shortfall"
 description: "Discover execution shortfall in algo trading and learn strategies to minimize it Enhance trading efficiency by understanding its impact on cost and strategy performance"
 ---
 

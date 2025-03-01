@@ -1,5 +1,5 @@
 ---
-title: "Cryptocurrency as Commodity: Definition and Examples (Algo Trading)"
+title: "Cryptocurrency as Commodity: Definition and Examples"
 description: "Explore how commodities, cryptocurrencies, and algorithmic trading intersect to influence modern investment strategies and portfolio diversification."
 ---
 

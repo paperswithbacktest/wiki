@@ -1,5 +1,5 @@
 ---
-title: "Investment in Brazil (Algo Trading)"
+title: "Investment in Brazil"
 description: "Explore investment opportunities in Brazil's dynamic economy and discover how algorithmic trading offers a competitive edge in financial markets."
 ---
 

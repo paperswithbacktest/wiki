@@ -1,5 +1,5 @@
 ---
-title: "Man-Year: Concept, Overview and Calculation (Algo Trading)"
+title: "Man-Year: Concept, Overview and Calculation"
 description: "Discover the role of man-years in work measurement and how it advances project management and algorithmic trading for increased efficiency and success."
 ---
 

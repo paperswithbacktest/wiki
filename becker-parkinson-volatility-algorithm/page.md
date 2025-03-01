@@ -1,5 +1,5 @@
 ---
-title: "Becker-Parkinson volatility algorithm (Algo Trading)"
+title: "Becker-Parkinson volatility algorithm"
 description: The Becker-Parkinson volatility algorithm offers a refined approach to measuring market volatility by utilizing daily high and low prices providing a more comprehensive view of market dynamics than traditional methods. This advanced algorithm captures the full spectrum of price movements within a trading day making it invaluable for algorithmic trading by enhancing risk assessments and improving strategy formulation. By incorporating these detailed volatility measures traders can better optimize their systems utilizing tools like Python to integrate this approach into their trading strategies thereby supporting informed decision-making and enhanced trading performance.
 ---
 

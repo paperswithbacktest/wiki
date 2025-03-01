@@ -1,5 +1,5 @@
 ---
-title: "Diversification Strategies for a Million-Dollar Investment Portfolio (Algo Trading)"
+title: "Diversification Strategies for a Million-Dollar Investment Portfolio"
 description: "Explore diversification strategies for a million-dollar investment portfolio using algorithmic trading to optimize returns and manage risk with advanced techniques."
 ---
 

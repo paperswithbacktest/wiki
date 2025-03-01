@@ -1,5 +1,5 @@
 ---
-title: "Bearer Instrument: Overview and Functionality (Algo Trading)"
+title: "Bearer Instrument: Overview and Functionality"
 description: "Explore the world of negotiable instruments with a focus on bearer instruments and algorithmic trading's impact on financial markets and transactions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Brazilian Mercantile and Futures Exchange (Algo Trading)"
+title: "Brazilian Mercantile and Futures Exchange"
 description: "Explore BM&F Bovespa's pivotal role in Latin America's financial markets with advanced algorithmic trading, diverse futures contracts, and robust infrastructure."
 ---
 

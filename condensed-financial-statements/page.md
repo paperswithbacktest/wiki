@@ -1,5 +1,5 @@
 ---
-title: "Condensed Financial Statements (Algo Trading)"
+title: "Condensed Financial Statements"
 description: "Unlock the power of financial data with condensed financial statements and algorithmic trading Learn how these tools enhance decision-making and investment strategies"
 ---
 

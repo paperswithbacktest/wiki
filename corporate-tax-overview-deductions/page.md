@@ -1,5 +1,5 @@
 ---
-title: "Corporate Tax Overview and Deductions (Algo Trading)"
+title: "Corporate Tax Overview and Deductions"
 description: "Discover effective corporate tax strategies and deductions tailored for businesses in algorithmic trading Boost profitability by aligning tax planning with trading innovations"
 ---
 

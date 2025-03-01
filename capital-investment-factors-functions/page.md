@@ -1,5 +1,5 @@
 ---
-title: "Capital Investment Factors and Their Functions (Algo Trading)"
+title: "Capital Investment Factors and Their Functions"
 description: "Explore key factors influencing capital investments and the role of algorithmic trading in the evolving market to optimize financial strategies and improve returns."
 ---
 

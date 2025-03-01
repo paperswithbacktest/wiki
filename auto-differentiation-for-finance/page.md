@@ -1,5 +1,5 @@
 ---
-title: "auto-differentiation for finance (Algo Trading)"
+title: "auto-differentiation for finance"
 description: "Explore how auto-differentiation enhances algorithmic trading by ensuring precise derivative calculations, optimizing strategies, and improving risk management for finance professionals."
 ---
 

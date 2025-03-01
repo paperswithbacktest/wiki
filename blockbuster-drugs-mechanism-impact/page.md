@@ -1,5 +1,5 @@
 ---
-title: "Blockbuster Drugs: Mechanism and Impact (Algo Trading)"
+title: "Blockbuster Drugs: Mechanism and Impact"
 description: "Blockbuster drugs dominate the pharmaceutical market by surpassing $1 billion in sales annually. Explore their mechanism, market influence, and algorithmic trading impact."
 ---
 

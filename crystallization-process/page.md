@@ -1,5 +1,5 @@
 ---
-title: "Crystallization Process (Algo Trading)"
+title: "Crystallization Process"
 description: "Explore the intersection between chemistry and finance on our Crystallization Process page. Discover how principles of crystallization in materials science can inform algorithmic trading strategies in finance. Learn about solidification, portfolio management, and the role of algorithmic trading in modern markets. Uncover multidisciplinary insights that enhance both scientific and financial systems for innovative risk management and predictive modeling techniques."
 ---
 

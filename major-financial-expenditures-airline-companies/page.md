@@ -1,5 +1,5 @@
 ---
-title: "Major Financial Expenditures of Airline Companies (Algo Trading)"
+title: "Major Financial Expenditures of Airline Companies"
 description: "Explore airline industry costs and algo trading's role in managing expenses like fuel and labor, highlighting tech-driven financial efficiency strategies."
 ---
 

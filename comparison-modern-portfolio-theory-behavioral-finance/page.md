@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Modern Portfolio Theory and Behavioral Finance (Algo Trading)"
+title: "Comparison of Modern Portfolio Theory and Behavioral Finance"
 description: "Explore the interplay between Modern Portfolio Theory, Behavioral Finance, and Algorithmic Trading to enhance investment strategies for better risk management and returns."
 ---
 

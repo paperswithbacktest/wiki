@@ -1,5 +1,5 @@
 ---
-title: "Close Period: Significance and Mechanism (Algo Trading)"
+title: "Close Period: Significance and Mechanism"
 description: "Discover the significance of close periods in algorithmic trading Explore how these regulatory restrictions impact trading strategies and market integrity"
 ---
 

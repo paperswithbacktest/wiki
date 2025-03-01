@@ -1,5 +1,5 @@
 ---
-title: "MEFF Derivatives Market (Algo Trading)"
+title: "MEFF Derivatives Market"
 description: "The MEFF Derivatives Market is a key Spanish trading platform offering diverse derivatives and advanced algorithmic trading for competitive portfolio management."
 ---
 

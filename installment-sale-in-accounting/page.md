@@ -1,5 +1,5 @@
 ---
-title: "Installment Sale in Accounting (Algo Trading)"
+title: "Installment Sale in Accounting"
 description: "Explore the synergy of installment sale accounting and algorithmic trading in finance Learn how these practices enhance cash flow tax deferral and trade efficiency"
 ---
 

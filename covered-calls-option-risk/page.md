@@ -1,5 +1,5 @@
 ---
-title: "Covered Calls and Option Risk (Algo Trading)"
+title: "Covered Calls and Option Risk"
 description: "Explore covered calls and option risk within algorithmic trading Optimize your strategy by understanding how these complex financial tools can boost returns and manage risk"
 ---
 

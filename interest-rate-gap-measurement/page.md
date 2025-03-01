@@ -1,5 +1,5 @@
 ---
-title: "Interest Rate Gap and Its Measurement (Algo Trading)"
+title: "Interest Rate Gap and Its Measurement"
 description: "Explore the importance of interest rate gap measurement in algo trading to assess interest rate risk and optimize trading strategies for improved profitability."
 ---
 

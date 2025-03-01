@@ -1,5 +1,5 @@
 ---
-title: "Equity-Linked Securities: Overview and Examples (Algo Trading)"
+title: "Equity-Linked Securities: Overview and Examples"
 description: "Discover the potential of equity-linked securities in the evolving financial landscape by exploring their benefits, risks, and role in algorithmic trading strategies."
 ---
 

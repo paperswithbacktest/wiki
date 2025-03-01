@@ -1,5 +1,5 @@
 ---
-title: "Determination of Commodity Prices (Algo Trading)"
+title: "Determination of Commodity Prices"
 description: "Explore the complexities of commodity pricing influenced by supply-demand dynamics and algorithmic trading insights valuable for investors and market participants."
 ---
 

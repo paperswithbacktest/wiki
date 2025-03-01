@@ -1,5 +1,5 @@
 ---
-title: "Incremental Dividend and Example (Algo Trading)"
+title: "Incremental Dividend and Example"
 description: "Explore the strategic financial mechanism of incremental dividends in finance and investing. Learn how they signal company health and enhance investor income."
 ---
 

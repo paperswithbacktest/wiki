@@ -1,5 +1,5 @@
 ---
-title: "Factor Income and Non-Factor Income (Algo Trading)"
+title: "Factor Income and Non-Factor Income"
 description: "Explore factor and non-factor income's impact on fiscal policy and economic health alongside algorithmic trading's role in modern financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Cost of Revenue: Explanation and Calculation (Algo Trading)"
+title: "Cost of Revenue: Explanation and Calculation"
 description: "Discover how understanding and calculating the cost of revenue in algorithmic trading can enhance efficiencies and profitability in a competitive market."
 ---
 

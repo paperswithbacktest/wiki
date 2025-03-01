@@ -1,5 +1,5 @@
 ---
-title: "Meme Stocks As Investment Vehicles (Algo Trading)"
+title: "Meme Stocks As Investment Vehicles"
 description: "Explore the impact of meme stocks and algorithmic trading on modern investment strategies, blending traditional and innovative financial practices for informed decisions."
 ---
 

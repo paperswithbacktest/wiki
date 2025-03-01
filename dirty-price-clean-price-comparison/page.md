@@ -1,5 +1,5 @@
 ---
-title: "Dirty Price and Clean Price Comparison (Algo Trading)"
+title: "Dirty Price and Clean Price Comparison"
 description: "Explore the essentials of clean and dirty bond pricing crucial for algorithmic trading. Learn their impact on bond valuation and the significance of accrued interest."
 ---
 

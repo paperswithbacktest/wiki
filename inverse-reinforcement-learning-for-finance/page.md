@@ -1,5 +1,5 @@
 ---
-title: "Inverse reinforcement learning for finance (Algo Trading)"
+title: "Inverse reinforcement learning for finance"
 description: "Explore the transformative potential of Inverse Reinforcement Learning in finance and algorithmic trading uncovering hidden incentives to refine trading strategies effectively."
 ---
 

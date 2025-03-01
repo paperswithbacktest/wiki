@@ -1,5 +1,5 @@
 ---
-title: "Investopedia 2020 Robo-Advisory Awards (Algo Trading)"
+title: "Investopedia 2020 Robo-Advisory Awards"
 description: "Discover the top robo-advisors of 2020 as recognized by Investopedia for their excellence in algorithmic trading and innovative, efficient investment solutions"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Insider Trading Act of 1988 (Algo Trading)"
+title: "Insider Trading Act of 1988"
 description: "Explore the pivotal Insider Trading Act of 1988 its impact on market integrity and the complexities of regulating insider trading in the era of algorithmic trading."
 ---
 

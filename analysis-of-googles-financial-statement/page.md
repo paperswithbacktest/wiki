@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Google's Financial Statement (Algo Trading)"
+title: "Analysis of Google's Financial Statement"
 description: "Discover how Google's financial analysis enhances algorithmic trading, as balance sheet metrics provide insights essential for optimizing trade strategies."
 ---
 

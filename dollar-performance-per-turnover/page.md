@@ -1,5 +1,5 @@
 ---
-title: "Dollar performance per turnover (Algo Trading)"
+title: "Dollar performance per turnover"
 description: Explore the crucial metric of dollar performance per turnover in algorithmic trading to assess financial success relative to trade activity. This concept evaluates the profitability and efficiency of trading strategies, considering transaction costs and slippage. Learn about methodologies for calculation and interpretation to enhance trading strategies, providing insights into optimizing performance and understanding the relationship between turnover and trading activities.
 ---
 

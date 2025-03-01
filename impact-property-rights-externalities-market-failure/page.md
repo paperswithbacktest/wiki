@@ -1,5 +1,5 @@
 ---
-title: "Impact of Property Rights on Externalities and Market Failure (Algo Trading)"
+title: "Impact of Property Rights on Externalities and Market Failure"
 description: "Discover the intricate relationship between property rights, externalities, market failure, and algorithmic trading to understand their impact on financial markets."
 ---
 

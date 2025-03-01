@@ -1,5 +1,5 @@
 ---
-title: "Event Risk: Definition, Examples, and Mitigation (Algo Trading)"
+title: "Event Risk: Definition, Examples, and Mitigation"
 description: "Explore event risk in algorithmic trading its impact on markets and strategies to manage and mitigate risks for better trading performance and resilience."
 ---
 

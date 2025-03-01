@@ -1,5 +1,5 @@
 ---
-title: "Benefits of Investing in High-Dividend Yield Stocks (Algo Trading)"
+title: "Benefits of Investing in High-Dividend Yield Stocks"
 description: "Discover the benefits of investing in high-dividend yield stocks and explore strategies to enhance returns with algorithmic trading in today's market landscape."
 ---
 

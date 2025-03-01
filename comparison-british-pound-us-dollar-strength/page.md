@@ -1,5 +1,5 @@
 ---
-title: "Comparison of British Pound and U.S. Dollar Strength (Algo Trading)"
+title: "Comparison of British Pound and U.S. Dollar Strength"
 description: "Explore the dynamic interplay between the British Pound and U.S. Dollar using algorithmic trading strategies in forex, a market influenced by key economic factors."
 ---
 

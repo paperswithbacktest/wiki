@@ -1,5 +1,5 @@
 ---
-title: "Full Employment and Its Types (Algo Trading)"
+title: "Full Employment and Its Types"
 description: "Explore full employment types and the impact of algorithmic trading on economies This article guides individuals and policymakers through economic strategies"
 ---
 

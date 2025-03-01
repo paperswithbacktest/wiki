@@ -1,5 +1,5 @@
 ---
-title: "Functional Finance: Concept and Mechanism (Algo Trading)"
+title: "Functional Finance: Concept and Mechanism"
 description: "Explore how fiscal policy, functional finance, and algorithmic trading shape modern economies from managing national economic health to influencing market dynamics."
 ---
 

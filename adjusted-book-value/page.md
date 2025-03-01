@@ -1,5 +1,5 @@
 ---
-title: "Adjusted Book Value (Algo Trading)"
+title: "Adjusted Book Value"
 description: "Explore the nuanced relationship between financial valuation, adjusted book value, corporate finance, and algorithmic trading to enhance investment strategies."
 ---
 

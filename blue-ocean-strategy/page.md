@@ -1,5 +1,5 @@
 ---
-title: "Blue Ocean Strategy (Algo Trading)"
+title: "Blue Ocean Strategy"
 description: "Discover how Blue Ocean Strategy and algorithmic trading can empower businesses to find uncontested market spaces and optimize trading with innovative approaches."
 ---
 

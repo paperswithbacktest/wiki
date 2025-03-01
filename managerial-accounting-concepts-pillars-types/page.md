@@ -1,5 +1,5 @@
 ---
-title: "Managerial Accounting: Concepts, Pillars, and Types (Algo Trading)"
+title: "Managerial Accounting: Concepts, Pillars, and Types"
 description: "Explore how managerial accounting integrates with algorithmic trading to shape modern finance. Discover essential accounting pillars and types supporting strategic decisions."
 ---
 

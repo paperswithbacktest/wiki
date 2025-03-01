@@ -1,5 +1,5 @@
 ---
-title: "Efficiency measurements (Algo Trading)"
+title: "Efficiency measurements"
 description: trading's ability to quickly incorporate new information into prices, markets can reflect true value more effectively, enhancing market transparency and fairness. However, the fast-paced nature of Algo trading also raises concerns about increased volatility and potential systemic risks, necessitating stringent regulatory oversight to safeguard market stability. Overall, understanding and optimizing algorithmic trading efficiency metrics is key to balancing innovation with market integrity and performance.
 ---
 

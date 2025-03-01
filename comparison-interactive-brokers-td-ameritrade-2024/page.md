@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Interactive Brokers and TD Ameritrade, 2024 (Algo Trading)"
+title: "Comparison of Interactive Brokers and TD Ameritrade, 2024"
 description: "Compare Interactive Brokers and TD Ameritrade for algorithmic trading in 2024. Discover their platforms, fees, and features to make an informed decision."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Capital Requirements in Finance (Algo Trading)"
+title: "Capital Requirements in Finance"
 description: "Explore the dynamics of capital requirements and regulations in finance with insights into algorithmic trading's role in enhancing market efficiency."
 ---
 

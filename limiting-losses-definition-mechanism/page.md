@@ -1,5 +1,5 @@
 ---
-title: "Limiting Losses: Definition and Mechanism (Algo Trading)"
+title: "Limiting Losses: Definition and Mechanism"
 description: "Discover how algorithmic trading enhances risk management by automating strategies to minimize losses. Learn key techniques for safeguarding investments effectively."
 ---
 

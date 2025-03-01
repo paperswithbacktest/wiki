@@ -1,5 +1,5 @@
 ---
-title: "Long-Term Stock Investment Advantages (Algo Trading)"
+title: "Long-Term Stock Investment Advantages"
 description: "Discover the synergy between long-term stock investments and algorithmic trading to enhance wealth creation through data-driven strategies and compound growth."
 ---
 

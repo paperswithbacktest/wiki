@@ -1,5 +1,5 @@
 ---
-title: "CNN Effect and Its Economic Impact (Algo Trading)"
+title: "CNN Effect and Its Economic Impact"
 description: "Explore how the CNN Effect influences economic markets and impacts algorithmic trading by shaping investor perceptions and driving market dynamics."
 ---
 

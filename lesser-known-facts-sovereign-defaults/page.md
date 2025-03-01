@@ -1,5 +1,5 @@
 ---
-title: "Lesser-Known Facts About Sovereign Defaults (Algo Trading)"
+title: "Lesser-Known Facts About Sovereign Defaults"
 description: "Explore sovereign defaults and their impact on global markets through the lens of algorithmic trading uncovering financial stability challenges and opportunities."
 ---
 

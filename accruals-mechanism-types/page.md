@@ -1,5 +1,5 @@
 ---
-title: "Accruals: Mechanism and Types (Algo Trading)"
+title: "Accruals: Mechanism and Types"
 description: "Explore accruals in finance and algorithmic trading with insights on their importance in accurate financial reporting and strategy development."
 ---
 

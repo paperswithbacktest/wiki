@@ -1,5 +1,5 @@
 ---
-title: "Horizontal Spread in Finance (Algo Trading)"
+title: "Horizontal Spread in Finance"
 description: "Discover how horizontal spread strategies in options trading can enhance profitability through time decay and volatility analysis integrated with algo trading."
 ---
 

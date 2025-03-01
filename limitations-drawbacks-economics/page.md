@@ -1,5 +1,5 @@
 ---
-title: "Limitations and Drawbacks of Economics (Algo Trading)"
+title: "Limitations and Drawbacks of Economics"
 description: "Explore the limitations of economics in the age of algorithmic trading challenging traditional theories and highlighting the need for updated models and policies."
 ---
 

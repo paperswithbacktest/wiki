@@ -1,5 +1,5 @@
 ---
-title: "Inflation and Gross Domestic Product (Algo Trading)"
+title: "Inflation and Gross Domestic Product"
 description: "Explore the impact of inflation and GDP on algorithmic trading to optimize strategies and enhance market returns with data-driven insights into economic trends."
 ---
 

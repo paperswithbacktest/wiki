@@ -1,5 +1,5 @@
 ---
-title: "Impact of High Interest Rates on REITs (Algo Trading)"
+title: "Impact of High Interest Rates on REITs"
 description: "Explore the impact of high interest rates on REITs and algo trading Discover how these factors shape investment strategies and uncover potential market opportunities"
 ---
 

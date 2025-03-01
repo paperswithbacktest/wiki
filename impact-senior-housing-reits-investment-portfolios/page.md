@@ -1,5 +1,5 @@
 ---
-title: "Impact of Senior Housing REITs on Investment Portfolios (Algo Trading)"
+title: "Impact of Senior Housing REITs on Investment Portfolios"
 description: "Explore the benefits of incorporating senior housing REITs into investment portfolios using algorithmic trading to optimize returns and manage risks effectively."
 ---
 

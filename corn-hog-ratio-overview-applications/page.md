@@ -1,5 +1,5 @@
 ---
-title: "Corn-Hog Ratio: Overview and Applications (Algo Trading)"
+title: "Corn-Hog Ratio: Overview and Applications"
 description: "Explore how the corn-hog ratio impacts agricultural markets and profitability, with insights into its role in algorithmic trading and market strategies."
 ---
 

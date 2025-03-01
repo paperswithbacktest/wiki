@@ -1,5 +1,5 @@
 ---
-title: "Australian Dollar: Overview, History, and Investor Interest (Algo Trading)"
+title: "Australian Dollar: Overview, History, and Investor Interest"
 description: "Explore the Australian Dollar's role in global finance its history volatility driving investor interest and how algorithmic trading enhances opportunities with the currency."
 ---
 

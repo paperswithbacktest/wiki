@@ -1,5 +1,5 @@
 ---
-title: "Candlestick Trading: A Momentum Strategy with Example Excel Model (Algo Trading)"
+title: "Candlestick Trading: A Momentum Strategy with Example Excel Model"
 description: Explore the dynamic world of candlestick trading with our comprehensive guide that merges traditional patterns with modern algorithmic strategies. Discover how pivotal patterns like doji and hammer can inform your trades and enhance your algo trading framework. Our article investigates into interpreting these patterns within the context of momentum strategies and provides an example Excel model. Ideal for traders seeking to refine decision-making and integrate technical analysis into their automated systems for improved efficiency and profitability in financial markets.
 ---
 

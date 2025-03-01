@@ -1,5 +1,5 @@
 ---
-title: "Centre for European Economic Research (Algo Trading)"
+title: "Centre for European Economic Research"
 description: "Discover how the Centre for European Economic Research impacts economic policy and algorithmic trading through insightful analysis and expert data."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Collateralized Debt Obligations and the Mortgage Market (Algo Trading)"
+title: "Collateralized Debt Obligations and the Mortgage Market"
 description: "Explore the interplay between collateralized debt obligations and the mortgage market in the context of algorithmic trading revealing their economic impacts."
 ---
 

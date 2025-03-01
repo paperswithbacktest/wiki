@@ -1,5 +1,5 @@
 ---
-title: "Dependency Ratio and Its Calculation (Algo Trading)"
+title: "Dependency Ratio and Its Calculation"
 description: "Explore the dynamics of the dependency ratio and its significance in algorithmic trading and economic forecasting, providing insights for informed financial decisions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Insurtech and Its Impact on the Insurance Industry (Algo Trading)"
+title: "Insurtech and Its Impact on the Insurance Industry"
 description: "Discover how insurtech is revolutionizing the insurance industry by integrating technology and algorithmic trading for enhanced efficiency and customer experience."
 ---
 

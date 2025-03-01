@@ -1,5 +1,5 @@
 ---
-title: "Discounting Working Capital in Net Present Value (Algo Trading)"
+title: "Discounting Working Capital in Net Present Value"
 description: "Explore the integration of NPV, working capital, and algorithmic trading to optimize investment strategies and improve financial decision-making in dynamic markets."
 ---
 

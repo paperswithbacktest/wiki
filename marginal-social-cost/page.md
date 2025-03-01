@@ -1,5 +1,5 @@
 ---
-title: "Marginal Social Cost (Algo Trading)"
+title: "Marginal Social Cost"
 description: "Explore the concept of Marginal Social Cost (MSC) in algorithmic trading and its societal implications. MSC measures the total cost to society when producing an additional unit of a good or service, including private costs and external impacts. In finance, algorithmic trading enhances market efficiency but can add external costs like volatility and systemic risks. Understanding MSC helps stakeholders address hidden societal costs, aligning economic activities with social welfare and fostering sustainable market practices."
 ---
 

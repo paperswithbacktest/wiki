@@ -1,5 +1,5 @@
 ---
-title: "Authorized Share Capital (Algo Trading)"
+title: "Authorized Share Capital"
 description: "Explore the crucial financial concepts of capital stock, share capital, authorized shares, and algorithmic trading in our comprehensive article. Gain insights into how these elements shape corporate structure and investment strategies, impacting shareholder equity and market dynamics. This guide aims to enhance your understanding of these pivotal components, enabling informed decision-making in today's finance landscape."
 ---
 

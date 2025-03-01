@@ -1,5 +1,5 @@
 ---
-title: "Demo Accounts as Indicators of Investment Proficiency (Algo Trading)"
+title: "Demo Accounts as Indicators of Investment Proficiency"
 description: "Explore investment proficiency using demo accounts and algorithmic trading strategies to hone skills risk-free optimize trading speed and achieve better market outcomes."
 ---
 

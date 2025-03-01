@@ -1,5 +1,5 @@
 ---
-title: "Methods for Calculating Business Costs (Algo Trading)"
+title: "Methods for Calculating Business Costs"
 description: "Explore diverse cost calculation methods essential for algorithmic trading success. Understand direct and indirect costs to optimize strategies and enhance profitability."
 ---
 

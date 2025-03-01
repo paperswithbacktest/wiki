@@ -1,5 +1,5 @@
 ---
-title: "Accrued Expenses: Overview and Examples (Algo Trading)"
+title: "Accrued Expenses: Overview and Examples"
 description: "Explore the critical role of accrued expenses in financial accounting and algorithmic trading, enhancing fiscal efficiency and strategic growth. Understand how these financial obligations impact liquidity, cash flow, and financial reporting. Learn strategies for effective expense management to optimize financial performance and achieve a competitive edge."
 ---
 

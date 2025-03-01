@@ -1,5 +1,5 @@
 ---
-title: "Cryptocurrency in China: A Historical Overview (Algo Trading)"
+title: "Cryptocurrency in China: A Historical Overview"
 description: "Discover China's profound influence on cryptocurrency markets, exploring the country's historical engagement from early adoption to recent regulatory measures. This insightful article investigates into the evolution of crypto trading in China, highlighting the pivotal role of algorithmic trading within its unique financial landscape. Gain valuable perspectives on how technology, policy, and market dynamics interplay in one of the world's largest economies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Investopedia Online Broker Evaluation Process (Algo Trading)"
+title: "Investopedia Online Broker Evaluation Process"
 description: "Discover Investopedia's process for evaluating online brokers with a focus on algorithmic trading capabilities to aid investors in making informed decisions."
 ---
 

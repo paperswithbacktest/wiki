@@ -1,5 +1,5 @@
 ---
-title: "Managed Futures: Overview and Trading (Algo Trading)"
+title: "Managed Futures: Overview and Trading"
 description: "Explore the intricate world of managed futures and algorithmic trading Discover how these strategies enhance risk management and optimize returns in financial markets"
 ---
 

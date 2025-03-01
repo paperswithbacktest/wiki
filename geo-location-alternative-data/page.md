@@ -1,5 +1,5 @@
 ---
-title: "Geo-location Alternative Data (Algo Trading)"
+title: "Geo-location Alternative Data"
 description: Explore how geo-location alternative data is transforming algorithmic trading by offering new insights into market trends and consumer behavior. This article investigates into the advantages and ethical considerations of leveraging real-time physical movement data from devices like GPS to enhance trading strategies. Discover how traders can gain a competitive edge through timely and unique intelligence that complements traditional financial datasets, while also navigating the challenges of data integration and privacy concerns.
 ---
 

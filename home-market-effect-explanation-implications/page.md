@@ -1,5 +1,5 @@
 ---
-title: "Home Market Effect: Explanation and Implications (Algo Trading)"
+title: "Home Market Effect: Explanation and Implications"
 description: "Explore the intersection of trade theory, economic geography, home market effect, and algorithmic trading to understand their roles in global trade and strategy."
 ---
 

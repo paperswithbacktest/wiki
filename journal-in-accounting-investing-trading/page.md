@@ -1,5 +1,5 @@
 ---
-title: "Journal in Accounting, Investing, and Trading (Algo Trading)"
+title: "Journal in Accounting, Investing, and Trading"
 description: "Explore the vital role of journals in accounting investing and trading Learn how strategic documentation aids in decision-making and enhances financial success"
 ---
 

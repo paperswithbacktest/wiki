@@ -1,5 +1,5 @@
 ---
-title: "Accommodation Trading (Algo Trading)"
+title: "Accommodation Trading"
 description: "Explore accommodation and algorithmic trading methods in financial markets Uncover unique strategies facilitating trades and leveraging technology to enhance performance"
 ---
 

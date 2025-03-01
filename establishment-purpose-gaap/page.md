@@ -1,5 +1,5 @@
 ---
-title: "Establishment and Purpose of GAAP (Algo Trading)"
+title: "Establishment and Purpose of GAAP"
 description: "Explore the critical role of GAAP in enhancing algorithmic trading by providing reliable financial data, supporting compliance, and enabling informed decision-making."
 ---
 

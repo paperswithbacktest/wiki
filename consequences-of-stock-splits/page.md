@@ -1,5 +1,5 @@
 ---
-title: "Consequences of Stock Splits (Algo Trading)"
+title: "Consequences of Stock Splits"
 description: "Explore the intricate effects of stock splits on shareholder value and algorithmic trading to understand market dynamics and optimize investment strategies."
 ---
 

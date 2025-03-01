@@ -1,5 +1,5 @@
 ---
-title: "Impact of Goodwill on Financial Statements (Algo Trading)"
+title: "Impact of Goodwill on Financial Statements"
 description: "Explore the intersection of financial accounting goodwill assessment and algorithmic trading and its impact on company valuations and financial statements."
 ---
 

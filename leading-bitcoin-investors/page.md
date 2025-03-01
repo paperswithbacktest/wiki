@@ -1,5 +1,5 @@
 ---
-title: "Leading Bitcoin Investors (Algo Trading)"
+title: "Leading Bitcoin Investors"
 description: "Explore how leading investors utilize algorithmic trading in Bitcoin markets to optimize strategies for precision and efficiency in the dynamic cryptocurrency landscape."
 ---
 

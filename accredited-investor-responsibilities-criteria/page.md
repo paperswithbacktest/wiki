@@ -1,5 +1,5 @@
 ---
-title: "Accredited Investor Responsibilities and Criteria (Algo Trading)"
+title: "Accredited Investor Responsibilities and Criteria"
 description: "Accredited investors are individuals meeting specific financial criteria, enabling access to exclusive investment opportunities; discover their key roles and algo trading strategies."
 ---
 

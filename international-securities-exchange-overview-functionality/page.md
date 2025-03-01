@@ -1,5 +1,5 @@
 ---
-title: "International Securities Exchange: Overview and Functionality (Algo Trading)"
+title: "International Securities Exchange: Overview and Functionality"
 description: "Explore the International Securities Exchange's role in revolutionizing options trading with electronic platforms and algorithmic trading for enhanced market efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Accounting Control Types and Examples (Algo Trading)"
+title: "Accounting Control Types and Examples"
 description: "Explore the necessity of accounting controls in algorithmic trading to maintain data integrity and accuracy by using detective, preventive, and corrective measures."
 ---
 

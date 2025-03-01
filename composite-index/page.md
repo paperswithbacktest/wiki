@@ -1,5 +1,5 @@
 ---
-title: "Composite Index (Algo Trading)"
+title: "Composite Index"
 description: "Explore the significance of composite indexes in algorithmic trading Learn how these benchmarks provide insights into market conditions to inform trading strategies"
 ---
 

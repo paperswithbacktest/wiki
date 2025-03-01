@@ -1,5 +1,5 @@
 ---
-title: "Impact of Trade Balance on Exchange Rates (Algo Trading)"
+title: "Impact of Trade Balance on Exchange Rates"
 description: "Discover how trade balances and exchange rates influence global economies Impact currency volatility, analyze market trends, and optimize trading strategies"
 ---
 

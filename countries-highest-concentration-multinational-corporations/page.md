@@ -1,5 +1,5 @@
 ---
-title: "Countries With the Highest Concentration of Multinational Corporations (Algo Trading)"
+title: "Countries With the Highest Concentration of Multinational Corporations"
 description: "Discover the impact of algorithmic trading on multinational corporations and explore how these global entities leverage technology for strategic advantages."
 ---
 

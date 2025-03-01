@@ -1,5 +1,5 @@
 ---
-title: "Implementation shortfall statistics (Algo Trading)"
+title: "Implementation shortfall statistics"
 description: Explore the role of Implementation Shortfall in algorithmic trading as we delve into minimizing trade execution costs with the Almgren-Chriss framework. Uncover how this essential metric evaluates trade efficiency by accounting for market impacts and timing delays and learn about optimal execution strategies to enhance trading outcomes in dynamic markets.
 ---
 

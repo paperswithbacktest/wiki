@@ -1,5 +1,5 @@
 ---
-title: "Digital Natives and Immigrants (Algo Trading)"
+title: "Digital Natives and Immigrants"
 description: "Explore the generational differences between digital natives and immigrants in algorithmic trading and financial markets. Understand how these groups engage with technology and contribute to innovation in trading strategies and technology culture. Discover the importance of fostering collaboration between generations to enhance efficiency and integration in tech-driven environments."
 ---
 

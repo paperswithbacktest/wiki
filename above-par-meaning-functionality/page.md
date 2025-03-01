@@ -1,5 +1,5 @@
 ---
-title: "Above Par: Meaning and Functionality (Algo Trading)"
+title: "Above Par: Meaning and Functionality"
 description: "Explore the impact of algorithmic trading on modern finance focusing on above-par bonds and how automated strategies leverage AI for optimized trade execution."
 ---
 

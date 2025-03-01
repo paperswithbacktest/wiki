@@ -1,5 +1,5 @@
 ---
-title: "Discount Window: Usage and Purpose in Banking (Algo Trading)"
+title: "Discount Window: Usage and Purpose in Banking"
 description: "Explore the impact of the banking discount window and algorithmic trading on modern finance. Discover how these tools interplay in today's banking environment."
 ---
 

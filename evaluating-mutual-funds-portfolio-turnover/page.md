@@ -1,5 +1,5 @@
 ---
-title: "Evaluating Mutual Funds Through Portfolio Turnover (Algo Trading)"
+title: "Evaluating Mutual Funds Through Portfolio Turnover"
 description: "Explore how portfolio turnover affects mutual fund evaluation and algorithmic trading to optimize investment strategies reduce costs and enhance market success."
 ---
 

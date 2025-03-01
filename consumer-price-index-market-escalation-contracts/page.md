@@ -1,5 +1,5 @@
 ---
-title: "Consumer Price Index in Market Escalation Contracts (Algo Trading)"
+title: "Consumer Price Index in Market Escalation Contracts"
 description: "Discover how the Consumer Price Index enhances market escalation contracts and algorithmic trading strategies to optimize inflation adjustments and financial stability."
 ---
 

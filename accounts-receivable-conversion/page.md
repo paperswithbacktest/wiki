@@ -1,5 +1,5 @@
 ---
-title: "Accounts Receivable Conversion (Algo Trading)"
+title: "Accounts Receivable Conversion"
 description: "Explore Accounts Receivable Conversion and algorithmic trading synergies to enhance cash flow and trading strategies. Optimize financial operations with ARC and data-driven insights."
 ---
 

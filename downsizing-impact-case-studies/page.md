@@ -1,5 +1,5 @@
 ---
-title: "Downsizing: Impact and Case Studies (Algo Trading)"
+title: "Downsizing: Impact and Case Studies"
 description: "Explore the impacts of corporate downsizing and algorithmic trading on businesses Learn how these strategies drive efficiency and require innovative adaptation"
 ---
 

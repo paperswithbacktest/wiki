@@ -1,5 +1,5 @@
 ---
-title: "Equity Compensation Overview (Algo Trading)"
+title: "Equity Compensation Overview"
 description: "Explore the role of stock options and equity compensation in employee benefits, and discover how algorithmic trading optimizes financial returns."
 ---
 

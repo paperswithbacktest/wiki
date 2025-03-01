@@ -1,5 +1,5 @@
 ---
-title: "Jan Tinbergen: Biography and Achievements (Algo Trading)"
+title: "Jan Tinbergen: Biography and Achievements"
 description: "Discover the pioneering contributions of Jan Tinbergen to econometrics and algorithmic trading Explore his groundbreaking models and their lasting impact"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Exceptions to the Law of Demand in Economics (Algo Trading)"
+title: "Exceptions to the Law of Demand in Economics"
 description: "Explore the exceptions to the law of demand in economics and their implications in algorithmic trading Understand how demand theory can enhance trading strategies"
 ---
 

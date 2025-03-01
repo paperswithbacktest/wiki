@@ -1,5 +1,5 @@
 ---
-title: "Gearing Ratios and Calculation Methods (Algo Trading)"
+title: "Gearing Ratios and Calculation Methods"
 description: "Explore the significance of gearing ratios in evaluating financial leverage and their integration into algorithmic trading strategies. Understand key ratios like Debt-to-Equity and Interest Coverage to refine algo trading signals and enhance decision-making in the financial markets. Discover calculation methods to leverage these insights effectively."
 ---
 

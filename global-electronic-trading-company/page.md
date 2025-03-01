@@ -1,5 +1,5 @@
 ---
-title: "Global Electronic Trading Company (Algo Trading)"
+title: "Global Electronic Trading Company"
 description: "Discover the pivotal role of GETCO in revolutionizing algorithmic trading and electronic market making through innovation, speed, and strategic expansions."
 ---
 

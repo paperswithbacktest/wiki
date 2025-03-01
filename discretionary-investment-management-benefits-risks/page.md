@@ -1,5 +1,5 @@
 ---
-title: "Discretionary Investment Management: Benefits and Risks (Algo Trading)"
+title: "Discretionary Investment Management: Benefits and Risks"
 description: "Explore the benefits and risks of discretionary investment management and algorithmic trading in modern portfolios to enhance your financial strategies."
 ---
 

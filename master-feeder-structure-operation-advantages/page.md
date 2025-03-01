@@ -1,5 +1,5 @@
 ---
-title: "Master-Feeder Structure: Operation and Advantages (Algo Trading)"
+title: "Master-Feeder Structure: Operation and Advantages"
 description: "Explore the operation and advantages of the master-feeder structure in algo trading Discover how this fund setup enhances strategy execution and investment outcomes"
 ---
 

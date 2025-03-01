@@ -1,5 +1,5 @@
 ---
-title: "Fragmentation of Trading Venues (Algo Trading)"
+title: "Fragmentation of Trading Venues"
 description: "Explore the complexities of market fragmentation and algorithmic trading Gain insights on navigating multiple trading platforms with efficiency and precision"
 ---
 

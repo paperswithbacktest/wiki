@@ -1,5 +1,5 @@
 ---
-title: "Advertising-to-Sales Ratio (Algo Trading)"
+title: "Advertising-to-Sales Ratio"
 description: "Discover the significance of advertising-to-sales ratio in optimizing marketing spend and explore how algorithmic trading enhances financial strategies for growth."
 ---
 

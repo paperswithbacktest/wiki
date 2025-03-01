@@ -1,5 +1,5 @@
 ---
-title: "Hanging Man Candlestick Pattern Explained (Algo Trading)"
+title: "Hanging Man Candlestick Pattern Explained"
 description: Learn about the Hanging Man candlestick pattern in algorithmic trading and how it serves as a bearish reversal indicator. Discover its formation, significance, and application within trading algorithms to improve decision-making and strategy optimization.
 ---
 

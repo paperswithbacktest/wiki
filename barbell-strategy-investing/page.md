@@ -1,5 +1,5 @@
 ---
-title: "Barbell Strategy in Investing (Algo Trading)"
+title: "Barbell Strategy in Investing"
 description: "Explore the Barbell Strategy in investing which combines high-risk and low-risk assets to balance potential returns and risk mitigation in algorithmic trading."
 ---
 

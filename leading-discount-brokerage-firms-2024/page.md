@@ -1,5 +1,5 @@
 ---
-title: "Leading Discount Brokerage Firms of 2024 (Algo Trading)"
+title: "Leading Discount Brokerage Firms of 2024"
 description: "Discover the top discount brokerage firms of 2024 as they revolutionize algorithmic trading with advanced platforms and cost-effective solutions for investors."
 ---
 

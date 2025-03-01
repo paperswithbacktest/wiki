@@ -1,5 +1,5 @@
 ---
-title: "Altiplano Option (Algo Trading)"
+title: "Altiplano Option"
 description: "Explore Altiplano options with algorithmic trading in the derivatives market revealing strategic opportunities for investors to enhance portfolios and manage risk."
 ---
 

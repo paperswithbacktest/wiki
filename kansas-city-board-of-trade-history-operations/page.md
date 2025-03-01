@@ -1,5 +1,5 @@
 ---
-title: "Kansas City Board of Trade History and Operations (Algo Trading)"
+title: "Kansas City Board of Trade History and Operations"
 description: "Explore the Kansas City Board of Trade's rich history in grain futures trading and its modern innovations, such as algorithmic trading, impacting global markets."
 ---
 

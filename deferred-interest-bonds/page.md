@@ -1,5 +1,5 @@
 ---
-title: "Deferred Interest Bonds (Algo Trading)"
+title: "Deferred Interest Bonds"
 description: "Explore the intricacies of deferred interest bonds and algorithmic trading Discover their unique structures, benefits, and how tech optimizes bond market strategies"
 ---
 

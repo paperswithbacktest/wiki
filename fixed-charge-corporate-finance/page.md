@@ -1,5 +1,5 @@
 ---
-title: "Fixed Charge in Corporate Finance (Algo Trading)"
+title: "Fixed Charge in Corporate Finance"
 description: "Discover the significance of fixed charges in corporate finance and how they impact algorithmic trading decisions. Learn about FCCR for better risk assessment."
 ---
 

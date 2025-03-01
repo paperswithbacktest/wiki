@@ -1,5 +1,5 @@
 ---
-title: "Metaorders (Algo Trading)"
+title: "Metaorders"
 description: "Discover how metaorders optimize algorithmic trading by reducing market impact and transaction costs Master this strategy to enhance market stability and efficiency"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Labels (Algo Trading)"
+title: "Labels"
 description: Explore the crucial role of data labeling in algorithmic trading and discover how triple barrier labeling transforms financial time series data into actionable insights. This sophisticated approach ensures more robust trading strategies by using profit-taking, stop loss, and maximum holding period barriers. Learn how Python can implement these methods to enhance the reliability and profitability of your trades.
 ---
 

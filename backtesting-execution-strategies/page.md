@@ -1,5 +1,5 @@
 ---
-title: "backtesting execution strategies (Algo Trading)"
+title: "backtesting execution strategies"
 description: "Backtesting execution strategies in algorithmic trading enables traders to validate and refine their approaches using historical data, optimizing performance before live trading."
 ---
 

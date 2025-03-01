@@ -1,5 +1,5 @@
 ---
-title: "Employment-to-Population Ratio (Algo Trading)"
+title: "Employment-to-Population Ratio"
 description: "Explore how employment-to-population ratios shape algorithmic trading strategies, impacting global financial markets and economic policy insights."
 ---
 

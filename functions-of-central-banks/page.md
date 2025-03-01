@@ -1,5 +1,5 @@
 ---
-title: "Functions of Central Banks (Algo Trading)"
+title: "Functions of Central Banks"
 description: "Explore how central banks, financial regulation, and algorithmic trading shape global markets. Understand their interplay influencing stability and growth."
 ---
 

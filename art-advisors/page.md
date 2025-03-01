@@ -1,5 +1,5 @@
 ---
-title: "ART Advisors (Algo Trading)"
+title: "ART Advisors"
 description: "Discover how ART Advisors revolutionizes algo trading with advanced strategies and cutting-edge technology providing insights into optimizing financial markets."
 ---
 

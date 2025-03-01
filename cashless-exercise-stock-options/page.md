@@ -1,5 +1,5 @@
 ---
-title: "Cashless Exercise and Stock Options (Algo Trading)"
+title: "Cashless Exercise and Stock Options"
 description: "Discover the benefits of cashless exercise of stock options and how algorithmic trading can help employees maximize profits with minimal financial risk."
 ---
 

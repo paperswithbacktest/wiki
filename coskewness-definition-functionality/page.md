@@ -1,5 +1,5 @@
 ---
-title: "Coskewness: Definition and Functionality (Algo Trading)"
+title: "Coskewness: Definition and Functionality"
 description: "Discover the role of coskewness in finance and algorithmic trading Learn how this advanced statistical measure enhances risk analysis and portfolio optimization"
 ---
 

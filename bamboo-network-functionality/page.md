@@ -1,5 +1,5 @@
 ---
-title: "Bamboo Network and Its Functionality (Algo Trading)"
+title: "Bamboo Network and Its Functionality"
 description: "Explore the interplay of traditional Bamboo Networks with modern algorithmic trading in Southeast Asia boosting business adaptability and technological integration."
 ---
 

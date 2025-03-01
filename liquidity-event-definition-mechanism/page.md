@@ -1,5 +1,5 @@
 ---
-title: "Liquidity Event: Definition and Mechanism (Algo Trading)"
+title: "Liquidity Event: Definition and Mechanism"
 description: "Explore the transformative role of liquidity events and algorithmic trading in business strategies Understand how these mechanisms drive financial success and market efficiency"
 ---
 

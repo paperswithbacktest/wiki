@@ -1,5 +1,5 @@
 ---
-title: "Implied Contract: Examples, Types, and Rules (Algo Trading)"
+title: "Implied Contract: Examples, Types, and Rules"
 description: "Understand the role of implied contracts in algorithmic trading, including their formation, differentiation from express contracts, and impact on trading strategies and operations."
 ---
 

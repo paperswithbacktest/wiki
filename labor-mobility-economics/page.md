@@ -1,5 +1,5 @@
 ---
-title: "Labor Mobility Economics (Algo Trading)"
+title: "Labor Mobility Economics"
 description: "Explore how labor mobility and migration shape economic growth and productivity, highlighting their impact on algorithmic trading in the finance sector."
 ---
 

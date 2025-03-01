@@ -1,5 +1,5 @@
 ---
-title: "Factory plan (Algo Trading)"
+title: "Factory plan"
 description: Discover the transformative world of algorithmic trading through the factory plan approach in this informative article. Learn how this systematic method empowers traders by breaking down complex market interactions into manageable steps, from strategy development to risk management. Gain insights on optimizing algorithmic performance, ensuring adaptability to dynamic market conditions, and increasing trading efficiency using advanced methodologies. Whether you're a novice or an experienced trader, mastering these techniques provides a competitive edge for thriving in modern financial environments.
 ---
 

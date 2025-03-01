@@ -1,5 +1,5 @@
 ---
-title: "Infant Industry Theory (Algo Trading)"
+title: "Infant Industry Theory"
 description: "Explore the intersection of infant industry protectionism and algorithmic trading, analyzing how technology influences trade policies aimed at nurturing emerging sectors."
 ---
 

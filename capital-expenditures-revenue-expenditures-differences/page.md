@@ -1,5 +1,5 @@
 ---
-title: "Capital Expenditures and Revenue Expenditures: Differences (Algo Trading)"
+title: "Capital Expenditures and Revenue Expenditures: Differences"
 description: "Discover the differences between capital expenditures and revenue expenditures crucial for effective financial planning and impactful in algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Option-Adjusted and Zero-Volatility Spreads (Algo Trading)"
+title: "Comparison of Option-Adjusted and Zero-Volatility Spreads"
 description: "Explore the distinct roles of Option-Adjusted and Zero-Volatility Spreads in algorithmic trading Learn how these spreads optimize bond analysis and investment strategies"
 ---
 

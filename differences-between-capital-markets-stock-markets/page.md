@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Capital Markets and Stock Markets (Algo Trading)"
+title: "Differences Between Capital Markets and Stock Markets"
 description: "Explore the distinctions between stock and capital markets, focusing on their unique roles in finance. Understand how algo trading impacts these systems."
 ---
 

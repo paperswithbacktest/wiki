@@ -1,5 +1,5 @@
 ---
-title: "Andrew Wei (Algo Trading)"
+title: "Andrew Wei"
 description: "Discover Andrew Wei's journey from early achievements in mathematics to a successful career in algorithmic trading at Akuna Capital emphasizing innovation."
 ---
 

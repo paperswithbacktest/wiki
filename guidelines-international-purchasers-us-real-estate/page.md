@@ -1,5 +1,5 @@
 ---
-title: "Guidelines for International Purchasers of U.S. Real Estate (Algo Trading)"
+title: "Guidelines for International Purchasers of U.S. Real Estate"
 description: "Discover how algorithmic trading is transforming international real estate investments in the U.S. market Learn strategies to navigate this evolving landscape effectively"
 ---
 

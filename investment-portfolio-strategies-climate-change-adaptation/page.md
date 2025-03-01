@@ -1,5 +1,5 @@
 ---
-title: "Investment Portfolio Strategies for Climate Change Adaptation (Algo Trading)"
+title: "Investment Portfolio Strategies for Climate Change Adaptation"
 description: "Explore how investors can integrate climate change adaptation into portfolios using algorithmic trading to boost resilience and capture sustainable opportunities."
 ---
 

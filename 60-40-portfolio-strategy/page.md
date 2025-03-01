@@ -1,5 +1,5 @@
 ---
-title: "60/40 Portfolio Strategy Explained (Algo Trading)"
+title: "60/40 Portfolio Strategy Explained"
 description: Explore the 60/40 portfolio strategy in algorithmic trading where 60% is invested in equities and 40% in bonds offering balanced growth and stability. Learn how this traditional strategy compares to the S&P 500 in terms of risk management and potential returns while minimizing drawdowns making it ideal for investors with moderate risk profiles. Discover insights into historical performance suitability and how technological advancements are shaping these investment approaches for future financial success.
 ---
 

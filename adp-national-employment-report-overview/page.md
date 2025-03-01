@@ -1,5 +1,5 @@
 ---
-title: "ADP National Employment Report Overview (Algo Trading)"
+title: "ADP National Employment Report Overview"
 description: "Explore how ADP National Employment Report shapes algorithmic trading strategies by providing insights into private-sector job trends and influencing market dynamics."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Largest U.S. Stock Market Cap Single-Day Declines (Algo Trading)"
+title: "Largest U.S. Stock Market Cap Single-Day Declines"
 description: "Explore the impact of algorithmic trading on U.S. stock market cap declines amidst turbulent conditions offering insights into investor strategies and market dynamics."
 ---
 

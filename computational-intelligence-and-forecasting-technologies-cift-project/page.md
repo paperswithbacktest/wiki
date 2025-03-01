@@ -1,5 +1,5 @@
 ---
-title: "Computational Intelligence and Forecasting Technologies (CIFT) project (Algo Trading)"
+title: "Computational Intelligence and Forecasting Technologies (CIFT) project"
 description: Discover how Computational Intelligence and Forecasting Technologies (CIFT) revolutionize algorithmic trading with advanced methods like neural networks and machine learning. Enhance trading strategies by predicting market trends and adapting to real-time conditions, optimizing returns while managing risks.
 ---
 

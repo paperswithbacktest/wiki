@@ -1,5 +1,5 @@
 ---
-title: "Debt Bomb: Overview and Mechanisms (Algo Trading)"
+title: "Debt Bomb: Overview and Mechanisms"
 description: "Explore how debt bombs and algo trading mechanisms pose critical risks to global financial stability by disrupting markets and amplifying economic crises."
 ---
 

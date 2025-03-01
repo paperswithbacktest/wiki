@@ -1,5 +1,5 @@
 ---
-title: "Circus Swap (Algo Trading)"
+title: "Circus Swap"
 description: "Discover the exciting convergence of circus performances and algorithmic trading Explore how artistry and precision shape today’s financial and entertainment landscapes"
 ---
 

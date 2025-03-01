@@ -1,5 +1,5 @@
 ---
-title: "Housing Authority Bonds (Algo Trading)"
+title: "Housing Authority Bonds"
 description: "Explore the intersection of housing bonds and algorithmic trading in today's financial markets. Learn how these tools optimize investment opportunities and enhance market efficiency."
 ---
 

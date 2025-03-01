@@ -1,5 +1,5 @@
 ---
-title: "Block: Definition, Benefits, and Trading Signals (Algo Trading)"
+title: "Block: Definition, Benefits, and Trading Signals"
 description: "Explore the synergy between blockchain and algorithmic trading for enhanced market efficiency Discover benefits trading signals and future prospects of these technologies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Aggregate Demand: Formula, Components, and Limitations (Algo Trading)"
+title: "Aggregate Demand: Formula, Components, and Limitations"
 description: "Explore the formula components and limitations of aggregate demand and its role in economic stability with insights on algorithmic trading strategies."
 ---
 

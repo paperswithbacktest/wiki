@@ -1,5 +1,5 @@
 ---
-title: "Decision Support Systems in Business (Algo Trading)"
+title: "Decision Support Systems in Business"
 description: "Discover the vital role of Decision Support Systems in enhancing algorithmic trading strategies by leveraging data analysis to optimize decision-making and bolster trading efficiency."
 ---
 

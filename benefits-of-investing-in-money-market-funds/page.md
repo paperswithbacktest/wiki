@@ -1,5 +1,5 @@
 ---
-title: "Benefits of Investing in Money Market Funds (Algo Trading)"
+title: "Benefits of Investing in Money Market Funds"
 description: "Discover the advantages of investing in money market funds and how algorithmic trading can enhance your investment strategy and optimize your portfolio."
 ---
 

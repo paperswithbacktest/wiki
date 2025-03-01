@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Forex and Stock Investments (Algo Trading)"
+title: "Comparison of Forex and Stock Investments"
 description: "Explore the differences between forex and stock investments, understand algorithmic trading, and learn how these strategies impact financial decision-making today."
 ---
 

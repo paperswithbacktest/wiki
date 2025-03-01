@@ -1,5 +1,5 @@
 ---
-title: "Candlestick Pattern (Algo Trading)"
+title: "Candlestick Pattern"
 description: "Discover the essential role of candlestick patterns in algo trading Learn how these historical chart patterns and automated strategies enhance market analysis"
 ---
 

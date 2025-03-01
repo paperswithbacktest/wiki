@@ -1,5 +1,5 @@
 ---
-title: "Actuals: Definition, Functionality, and Market Applications (Algo Trading)"
+title: "Actuals: Definition, Functionality, and Market Applications"
 description: "Explore essential financial metrics and their role in algorithmic trading strategies. Learn how these metrics and market analysis drive trading success."
 ---
 

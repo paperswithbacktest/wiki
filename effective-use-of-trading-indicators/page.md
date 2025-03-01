@@ -1,5 +1,5 @@
 ---
-title: "Effective Use of Trading Indicators (Algo Trading)"
+title: "Effective Use of Trading Indicators"
 description: "Explore effective use of trading indicators in algo trading Learn how technical analysis enhances strategies offers market insights and optimizes execution"
 ---
 

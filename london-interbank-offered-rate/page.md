@@ -1,5 +1,5 @@
 ---
-title: "London Interbank Offered Rate (Algo Trading)"
+title: "London Interbank Offered Rate"
 description: "Explore the transition from LIBOR to new benchmarks like SOFR and its impact on algorithmic trading, ensuring reliable and transparent financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "CME Group Incorporated (Algo Trading)"
+title: "CME Group Incorporated"
 description: "Explore CME Group Inc's role in global derivatives trading with advanced electronic and algorithmic platforms, offering diverse risk management solutions."
 ---
 

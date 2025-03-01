@@ -1,5 +1,5 @@
 ---
-title: "Largest Natural Gas Companies in Canada (Algo Trading)"
+title: "Largest Natural Gas Companies in Canada"
 description: "Explore Canada's robust natural gas sector and leading companies like Enbridge and CNRL. Learn how algorithmic trading enhances market efficiency."
 ---
 

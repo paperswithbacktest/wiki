@@ -1,5 +1,5 @@
 ---
-title: "Commercial Visa: Overview and Functionality (Algo Trading)"
+title: "Commercial Visa: Overview and Functionality"
 description: "Explore the essentials of commercial visas for business travel, focusing on application processes, requirements, and their interplay with algorithmic trading trends."
 ---
 

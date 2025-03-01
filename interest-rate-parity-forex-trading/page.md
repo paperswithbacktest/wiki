@@ -1,5 +1,5 @@
 ---
-title: "Interest Rate Parity in Forex Trading (Algo Trading)"
+title: "Interest Rate Parity in Forex Trading"
 description: "Explore how interest rate parity in forex trading influences currency movement and arbitrage opportunities via algorithmic strategies to optimize trades."
 ---
 

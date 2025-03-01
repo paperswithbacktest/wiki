@@ -1,5 +1,5 @@
 ---
-title: "Ineffectiveness of Market Timing in Investment Strategies (Algo Trading)"
+title: "Ineffectiveness of Market Timing in Investment Strategies"
 description: "Market timing is difficult and risky in investment strategies often resulting in losses. Explore alternatives and understand the role of algorithmic trading."
 ---
 

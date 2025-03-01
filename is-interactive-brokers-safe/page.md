@@ -1,5 +1,5 @@
 ---
-title: "Is Interactive Brokers Safe? (Algo Trading)"
+title: "Is Interactive Brokers Safe?"
 description: Discover the safety and reliability of Interactive Brokers for algorithmic trading. Learn about its comprehensive asset protection mechanisms, industry compliance, and robust customer support, ensuring a secure trading experience for retailers and institutional clients in the fast-paced world of automated trading strategies.
 ---
 

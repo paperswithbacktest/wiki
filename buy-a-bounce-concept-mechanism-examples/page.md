@@ -1,5 +1,5 @@
 ---
-title: "Buy a Bounce: Concept, Mechanism, and Examples (Algo Trading)"
+title: "Buy a Bounce: Concept, Mechanism, and Examples"
 description: "Explore how the 'Buy a Bounce' strategy in algo trading leverages technical analysis to enhance investment decisions through strategic trade execution and automation."
 ---
 

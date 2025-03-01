@@ -1,5 +1,5 @@
 ---
-title: "Impact of Additional Equity Financing on Existing Shareholders (Algo Trading)"
+title: "Impact of Additional Equity Financing on Existing Shareholders"
 description: "Explore the impact of additional equity financing on existing shareholders and the interplay with algorithmic trading in modern financial markets."
 ---
 

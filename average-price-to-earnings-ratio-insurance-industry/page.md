@@ -1,5 +1,5 @@
 ---
-title: "Average Price-to-Earnings Ratio in the Insurance Industry (Algo Trading)"
+title: "Average Price-to-Earnings Ratio in the Insurance Industry"
 description: "Explore the dynamics of the insurance industry's average P/E ratio, a key metric for assessing company valuation, and its role in algorithmic trading strategies."
 ---
 

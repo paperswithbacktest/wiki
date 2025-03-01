@@ -1,5 +1,5 @@
 ---
-title: "Benchmarks in Investing (Algo Trading)"
+title: "Benchmarks in Investing"
 description: "Explore the vital role of investment benchmarks in algorithmic trading to enhance portfolio performance. Understand their impact on modern investing strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Capital Flight: Causes and Examples (Algo Trading)"
+title: "Capital Flight: Causes and Examples"
 description: "Explore the causes and consequences of capital flight and financial outflows, phenomena that can destabilize national economies and affect global markets. Understand how factors like currency depreciation, political instability, and unfavorable monetary policies trigger capital movements. Learn about the role of algorithmic trading in these scenarios and strategies to mitigate economic impacts, maintaining stability and investor confidence."
 ---
 

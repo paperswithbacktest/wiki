@@ -1,5 +1,5 @@
 ---
-title: "Baby Bond: Overview and Alternatives (Algo Trading)"
+title: "Baby Bond: Overview and Alternatives"
 description: "Explore how baby bonds offer retail investors a low-cost entry into fixed-income markets and learn about algorithmic trading for optimizing investment strategies."
 ---
 

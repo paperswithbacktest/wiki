@@ -1,5 +1,5 @@
 ---
-title: "Differences Among EBITDA, EBITDAR, and EBITDARM (Algo Trading)"
+title: "Differences Among EBITDA, EBITDAR, and EBITDARM"
 description: "Learn about the distinctions between EBITDA, EBITDAR, and EBITDARM and their integration into algorithmic trading to evaluate and optimize investment strategies."
 ---
 

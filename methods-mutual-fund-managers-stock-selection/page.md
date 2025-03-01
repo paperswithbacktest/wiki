@@ -1,5 +1,5 @@
 ---
-title: "Methods Used by Mutual Fund Managers for Stock Selection (Algo Trading)"
+title: "Methods Used by Mutual Fund Managers for Stock Selection"
 description: "Explore methods mutual fund managers use for stock selection, including fundamental analysis and algorithmic trading, and learn how to optimize portfolios."
 ---
 

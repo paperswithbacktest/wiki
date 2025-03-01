@@ -1,5 +1,5 @@
 ---
-title: "Methods for Changing Financial Advisors (Algo Trading)"
+title: "Methods for Changing Financial Advisors"
 description: "Explore methods for adapting to the evolving role of financial advisors amid the rise of algorithmic trading and digital tools in modern finance."
 ---
 

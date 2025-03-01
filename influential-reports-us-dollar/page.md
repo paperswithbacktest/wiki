@@ -1,5 +1,5 @@
 ---
-title: "Influential Reports on the U.S. Dollar (Algo Trading)"
+title: "Influential Reports on the U.S. Dollar"
 description: "Explore the dynamics between U.S. dollar trends and algorithmic trading strategies Discover how algo trading can optimize responses to currency fluctuations"
 ---
 

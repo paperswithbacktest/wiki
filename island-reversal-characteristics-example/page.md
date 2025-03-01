@@ -1,5 +1,5 @@
 ---
-title: "Island Reversal: Characteristics and Example (Algo Trading)"
+title: "Island Reversal: Characteristics and Example"
 description: "Island reversal patterns can signal trend changes in trading, vital for algo trading strategies. Learn how to spot and utilize them for better market predictions."
 ---
 

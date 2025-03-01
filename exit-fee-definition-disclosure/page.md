@@ -1,5 +1,5 @@
 ---
-title: "Exit Fee: Definition and Disclosure (Algo Trading)"
+title: "Exit Fee: Definition and Disclosure"
 description: "Explore the role of exit fees in algorithmic trading and investment strategies. Understand their impact, disclosure importance, and how they shape market dynamics."
 ---
 

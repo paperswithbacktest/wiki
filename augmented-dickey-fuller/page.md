@@ -1,5 +1,5 @@
 ---
-title: "Augmented Dickey-Fuller (Algo Trading)"
+title: "Augmented Dickey-Fuller"
 description: "Discover the significance of the Augmented Dickey-Fuller test in algorithmic trading by analyzing time series data for stationarity, crucial for robust trading strategies."
 ---
 

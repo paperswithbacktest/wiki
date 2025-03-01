@@ -1,5 +1,5 @@
 ---
-title: "Economic Relationship Between the U.S. Dollar and the Japanese Yen (Algo Trading)"
+title: "Economic Relationship Between the U.S. Dollar and the Japanese Yen"
 description: "Explore the dynamics of the USD/JPY currency pair and algorithmic trading's role in forex markets uncovering factors affecting exchange rates and unique trading strategies."
 ---
 

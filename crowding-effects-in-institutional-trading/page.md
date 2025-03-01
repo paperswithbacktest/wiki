@@ -1,5 +1,5 @@
 ---
-title: "crowding effects in institutional trading (Algo Trading)"
+title: "crowding effects in institutional trading"
 description: "Explore the impact of crowding effects in institutional algorithmic trading and how simultaneous trading strategies influence market dynamics and price stability."
 ---
 

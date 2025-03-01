@@ -1,5 +1,5 @@
 ---
-title: "Investing in Penny Stocks (Algo Trading)"
+title: "Investing in Penny Stocks"
 description: "Explore the synergy between investing in penny stocks and utilizing algorithmic trading. Discover how algo trading strategies enhance opportunities in the volatile penny stock market by optimizing trade execution and eliminating emotional biases. Understand the risks, technical indicators, and potential returns involved in this high-risk, high-reward domain for informed investment decisions."
 ---
 

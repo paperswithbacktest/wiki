@@ -1,5 +1,5 @@
 ---
-title: "Liberalization Clause: Definition and Mechanism (Algo Trading)"
+title: "Liberalization Clause: Definition and Mechanism"
 description: "Explore how liberalization clauses in contracts ensure adaptability in algorithmic trading by facilitating compliance amidst evolving regulations within financial markets."
 ---
 

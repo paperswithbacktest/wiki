@@ -1,5 +1,5 @@
 ---
-title: "Alphabet Stock Overview (Algo Trading)"
+title: "Alphabet Stock Overview"
 description: "Explore Alphabet Inc.'s stock performance fueled by AI innovations and algorithmic trading strategies for insights into its investment potential and market influence."
 ---
 

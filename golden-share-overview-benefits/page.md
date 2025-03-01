@@ -1,5 +1,5 @@
 ---
-title: "Golden Share: Overview and Benefits (Algo Trading)"
+title: "Golden Share: Overview and Benefits"
 description: "Explore the benefits of golden shares in corporate governance and their role alongside algorithmic trading in shaping financial landscapes and stakeholder influence."
 ---
 

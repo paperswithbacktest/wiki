@@ -1,5 +1,5 @@
 ---
-title: "Impact of the 2008 Housing Crisis on the American Dream (Algo Trading)"
+title: "Impact of the 2008 Housing Crisis on the American Dream"
 description: "Explore the profound impact of the 2008 housing crisis on the American Dream, including the role of algorithmic trading in reshaping financial landscapes."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Exchange-Traded Notes and Their Mechanisms (Algo Trading)"
+title: "Exchange-Traded Notes and Their Mechanisms"
 description: "Explore the intersection of ETNs and algo trading to unlock efficient investment strategies and insights on financial market innovations and challenges."
 ---
 

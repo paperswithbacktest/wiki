@@ -1,5 +1,5 @@
 ---
-title: "Calculating Variance in Excel (Algo Trading)"
+title: "Calculating Variance in Excel"
 description: "Learn how to calculate variance in Excel for algorithmic trading to better gauge risk and performance. Discover essential Excel functions for financial analysis."
 ---
 

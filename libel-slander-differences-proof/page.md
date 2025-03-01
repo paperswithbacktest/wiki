@@ -1,5 +1,5 @@
 ---
-title: "Libel and Slander: Differences and Proof (Algo Trading)"
+title: "Libel and Slander: Differences and Proof"
 description: "Explore the distinctions between libel, slander, and defamation within algorithmic trading. Understand the legal challenges involved in protecting the reputation of trading firms from false statements and unfounded claims. This article investigates into the definitions, implications, and strategies to safeguard against reputational and financial damages caused by defamation in the fast-paced world of financial markets."
 ---
 

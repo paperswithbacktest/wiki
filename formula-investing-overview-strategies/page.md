@@ -1,5 +1,5 @@
 ---
-title: "Formula Investing: Overview and Strategies (Algo Trading)"
+title: "Formula Investing: Overview and Strategies"
 description: "Explore formula investing and algorithmic trading strategies to optimize financial outcomes by minimizing risks and maximizing returns in volatile markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Betterment and E*TRADE Core Portfolios (Algo Trading)"
+title: "Comparison of Betterment and E*TRADE Core Portfolios"
 description: "Discover the key differences between Betterment and E*TRADE Core Portfolios, two leading robo-advisors, focusing on their algorithmic trading features and investor benefits."
 ---
 

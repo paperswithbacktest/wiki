@@ -1,5 +1,5 @@
 ---
-title: "Methods of Holding Real Property Titles (Algo Trading)"
+title: "Methods of Holding Real Property Titles"
 description: "Discover the various methods of holding real property titles and their significance in real estate transactions. Learn about joint tenancy, tenancy in common, tenants by entirety, sole ownership, and community property, and explore the innovative application of algorithmic trading in real estate for enhanced efficiency and decision-making. Understanding these key concepts ensures smoother property dealings and leverages technology for effective investment strategies."
 ---
 

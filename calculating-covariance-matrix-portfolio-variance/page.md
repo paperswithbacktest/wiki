@@ -1,5 +1,5 @@
 ---
-title: "Calculating the Covariance Matrix and Portfolio Variance (Algo Trading)"
+title: "Calculating the Covariance Matrix and Portfolio Variance"
 description: Explore the importance of the covariance variance matrix in algorithmic trading and its role in risk management and portfolio optimization. This matrix helps traders understand the relationships between financial assets to make informed decisions and enhance trading strategies by mitigating systemic risk and promoting diversification.
 ---
 

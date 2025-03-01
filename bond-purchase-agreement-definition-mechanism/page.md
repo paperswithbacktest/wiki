@@ -1,5 +1,5 @@
 ---
-title: "Bond Purchase Agreement: Definition and Mechanism (Algo Trading)"
+title: "Bond Purchase Agreement: Definition and Mechanism"
 description: "Explore the intricacies of Bond Purchase Agreements covering their role in bond issuance, key components, and the influence of algorithmic trading on BPAs."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Impact of Consumer Price Index on Investment Strategies (Algo Trading)"
+title: "Impact of Consumer Price Index on Investment Strategies"
 description: "Explore the critical role of the Consumer Price Index (CPI) in shaping investment strategies and algorithmic trading by leveraging economic data for market insights."
 ---
 

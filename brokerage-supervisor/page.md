@@ -1,5 +1,5 @@
 ---
-title: "Brokerage Supervisor (Algo Trading)"
+title: "Brokerage Supervisor"
 description: "Discover the evolving roles of brokerage supervisors and brokers in finance as they adapt to technological advancements in algorithmic trading for market efficiency."
 ---
 

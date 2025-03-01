@@ -1,5 +1,5 @@
 ---
-title: "Key Balance Sheet Metrics (Algo Trading)"
+title: "Key Balance Sheet Metrics"
 description: "Enhance your trading strategies by combining balance sheet analysis with algorithmic trading. Discover how financial metrics can optimize decision-making in the market."
 ---
 

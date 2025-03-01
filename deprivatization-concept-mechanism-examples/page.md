@@ -1,5 +1,5 @@
 ---
-title: "Deprivatization: Concept, Mechanism, and Examples (Algo Trading)"
+title: "Deprivatization: Concept, Mechanism, and Examples"
 description: "Explore the transformative concepts of deprivatization and algorithmic trading shaping modern economies with implications for public policy and market dynamics."
 ---
 

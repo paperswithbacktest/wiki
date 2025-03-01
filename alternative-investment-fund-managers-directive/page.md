@@ -1,5 +1,5 @@
 ---
-title: "Alternative Investment Fund Managers Directive (Algo Trading)"
+title: "Alternative Investment Fund Managers Directive"
 description: "Explore the regulatory landscape of AIFMD and its impact on algorithmic trading in alternative investment funds ensuring market integrity and investor protection."
 ---
 

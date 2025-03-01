@@ -1,5 +1,5 @@
 ---
-title: "ABCD Countries: Meaning and Functionality (Algo Trading)"
+title: "ABCD Countries: Meaning and Functionality"
 description: "Explore the significance of global cooperation among the ABCD countries in shaping algorithmic trading policies, fostering innovation, and maintaining market stability."
 ---
 

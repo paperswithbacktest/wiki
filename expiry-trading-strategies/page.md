@@ -1,5 +1,5 @@
 ---
-title: "Expiry Trading Strategies Explained (Algo Trading)"
+title: "Expiry Trading Strategies Explained"
 description: Discover efficient strategies for options expiry day trading within algorithmic trading. Explore the dynamics of increased market volatility and trading volumes, and learn how to harness these conditions to enhance trading efficiency and profit potential. This guide investigates into systematic strategies like Short Straddle and Short Strangle, along with risk management techniques, emphasizing the benefits of algorithmic trading on expiry days where speed, precision, and backtesting play crucial roles. Uncover the essential knowledge needed to capitalize on options expiration dynamics effectively.
 ---
 

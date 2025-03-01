@@ -1,5 +1,5 @@
 ---
-title: "Double Bottom Strategy Explained (Algo Trading)"
+title: "Double Bottom Strategy Explained"
 description: Learn about the double bottom strategy in algorithmic trading to enhance market reversal predictions. Discover how this pattern helps traders make informed decisions, manage risks, and leverage automation for efficiency. Understand the technical analysis involved in identifying double bottom patterns and develop strategies to optimize your trading outcomes in a dynamic market environment.
 ---
 

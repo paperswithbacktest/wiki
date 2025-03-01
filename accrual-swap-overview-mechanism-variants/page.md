@@ -1,5 +1,5 @@
 ---
-title: "Accrual Swap: Overview, Mechanism, and Variants (Algo Trading)"
+title: "Accrual Swap: Overview, Mechanism, and Variants"
 description: "Explore the dynamics of accrual swaps and their strategic applications in algo trading Learn how financial entities manage risk and enhance trade efficiency with swaps"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Globalization in Business: History, Benefits, and Drawbacks (Algo Trading)"
+title: "Globalization in Business: History, Benefits, and Drawbacks"
 description: "Explore the history, benefits, and challenges of globalization in business and algo trading in this article highlighting market reach and strategic impact."
 ---
 

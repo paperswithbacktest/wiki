@@ -1,5 +1,5 @@
 ---
-title: "Analysis of China's GDP: Service Sector Growth (Algo Trading)"
+title: "Analysis of China's GDP: Service Sector Growth"
 description: "Explore China's GDP growth via its expanding service sector and the rise of algorithmic trading Learn how these shifts impact global economic dynamics"
 ---
 

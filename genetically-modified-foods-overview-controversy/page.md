@@ -1,5 +1,5 @@
 ---
-title: "Genetically Modified Foods: Overview and Controversy (Algo Trading)"
+title: "Genetically Modified Foods: Overview and Controversy"
 description: "Explore the major advancements and controversies surrounding genetically modified foods and algo trading. Learn about benefits, regulations, and future implications."
 ---
 

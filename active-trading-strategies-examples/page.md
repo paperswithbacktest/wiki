@@ -1,5 +1,5 @@
 ---
-title: "Active Trading Strategies and Examples (Algo Trading)"
+title: "Active Trading Strategies and Examples"
 description: "Explore active and algorithmic trading strategies in this insightful guide to maximize returns and manage risks effectively in ever-changing financial markets."
 ---
 

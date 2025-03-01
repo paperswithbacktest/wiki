@@ -1,5 +1,5 @@
 ---
-title: "Implications of 'N/A' in Company P/E Ratios (Algo Trading)"
+title: "Implications of 'N/A' in Company P/E Ratios"
 description: "Discover the impact of 'N/A' in company P/E ratios on investment and algorithmic trading. Learn its implications for stock valuation and profitability analysis."
 ---
 

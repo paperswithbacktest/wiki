@@ -1,5 +1,5 @@
 ---
-title: "Absorption: Definition, Mechanism, and Examples (Algo Trading)"
+title: "Absorption: Definition, Mechanism, and Examples"
 description: "Explore the role of absorption in algorithmic trading Discover how it enhances trade execution by processing data and predicting market trends for optimal strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of REITs and Real Estate Crowdfunding (Algo Trading)"
+title: "Comparison of REITs and Real Estate Crowdfunding"
 description: "Explore the differences between REITs and real estate crowdfunding along with algorithmic trading as investment strategies Learn their benefits and risks"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Calculation Agent: Role, Significance, and Conflict Resolution (Algo Trading)"
+title: "Calculation Agent: Role, Significance, and Conflict Resolution"
 description: "Explore the crucial role of calculation agents in algorithmic trading and financial disputes Learn how they ensure accurate transactions and resolve conflicts in derivatives markets"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Factors Affecting Stock Opening Prices (Algo Trading)"
+title: "Factors Affecting Stock Opening Prices"
 description: "Explore the factors influencing stock opening prices in algo trading Uncover how algorithms impact market dynamics and optimize trading strategies efficiently"
 ---
 

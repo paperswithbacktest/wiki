@@ -1,5 +1,5 @@
 ---
-title: "European Central Bank Overview (Algo Trading)"
+title: "European Central Bank Overview"
 description: "Explore the intersection of ECB monetary policy and algorithmic trading, examining how changes in interest rates affect trading strategies and market conditions."
 ---
 

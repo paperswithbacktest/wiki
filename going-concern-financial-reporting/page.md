@@ -1,5 +1,5 @@
 ---
-title: "Going Concern in Financial Reporting (Algo Trading)"
+title: "Going Concern in Financial Reporting"
 description: "Explore the importance of going concern in financial reporting and the transformative role of algorithmic trading in today's dynamic financial markets."
 ---
 

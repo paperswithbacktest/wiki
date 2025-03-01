@@ -1,5 +1,5 @@
 ---
-title: "Insider Trading Sanctions Act of 1984 (Algo Trading)"
+title: "Insider Trading Sanctions Act of 1984"
 description: "Explore how the Insider Trading Sanctions Act of 1984 transformed regulations to deter illegal trading enhancing market integrity amid technological evolution."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Common Law and Civil Law Comparison (Algo Trading)"
+title: "Common Law and Civil Law Comparison"
 description: "Explore how common law and civil law systems impact algorithmic trading within financial markets Understanding these legal frameworks is key for global trading success"
 ---
 

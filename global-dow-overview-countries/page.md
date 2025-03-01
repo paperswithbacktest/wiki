@@ -1,5 +1,5 @@
 ---
-title: "The Global Dow: Overview and Constituent Countries (Algo Trading)"
+title: "The Global Dow: Overview and Constituent Countries"
 description: "Explore the Global Dow index and algorithmic trading principles to enhance your investment strategy with insights into international markets and economic trends."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Administrative Order on Consent (Algo Trading)"
+title: "Administrative Order on Consent"
 description: "Explore the role of Administrative Orders on Consent in environmental regulation and their influence in fields like algorithmic trading within financial markets."
 ---
 

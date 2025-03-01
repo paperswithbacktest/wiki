@@ -1,5 +1,5 @@
 ---
-title: "Default Judgment Process (Algo Trading)"
+title: "Default Judgment Process"
 description: "Explore the legal complexities of default judgments in algorithmic trading and learn strategies to manage risks and ensure regulatory compliance in financial markets."
 ---
 

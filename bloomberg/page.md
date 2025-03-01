@@ -1,5 +1,5 @@
 ---
-title: "Bloomberg (Algo Trading)"
+title: "Bloomberg"
 description: Explore how Bloomberg optimizes algorithmic trading by providing essential real-time data and robust analytics via its Bloomberg Terminal. This article highlights Bloomberg's major role in automating trading processes ensuring high speed and accuracy for traders. Discover how Bloomberg enhances strategy development execution and risk management for superior trading success in evolving financial markets.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Global Macro Strategy and Types of Funds (Algo Trading)"
+title: "Global Macro Strategy and Types of Funds"
 description: "Explore global macro strategy and algorithmic trading in investment funds using macroeconomic trends to inform decisions across asset classes like currencies and equities."
 ---
 

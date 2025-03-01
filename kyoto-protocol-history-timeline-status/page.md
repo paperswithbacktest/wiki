@@ -1,5 +1,5 @@
 ---
-title: "Kyoto Protocol: History, Timeline, and Current Status (Algo Trading)"
+title: "Kyoto Protocol: History, Timeline, and Current Status"
 description: "Explore the history and impact of the Kyoto Protocol on global climate policy and discover how algorithmic trading is transforming environmental markets."
 ---
 

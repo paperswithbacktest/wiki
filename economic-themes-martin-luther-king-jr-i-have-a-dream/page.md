@@ -1,5 +1,5 @@
 ---
-title: "Economic Themes in Martin Luther King Jr.'s 'I Have a Dream' Speech (Algo Trading)"
+title: "Economic Themes in Martin Luther King Jr.'s 'I Have a Dream' Speech"
 description: "Explore the economic themes in Martin Luther King Jr.'s speeches and their relevance to modern financial practices like algorithmic trading, promoting equity and justice."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Investment Risk Factors and Mitigation Strategies (Algo Trading)"
+title: "Investment Risk Factors and Mitigation Strategies"
 description: "Learn how to identify and manage investment risks such as market, credit, and liquidity risks, while exploring algo trading and effective risk mitigation strategies."
 ---
 

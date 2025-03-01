@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Canopy Growth and Tilray (Algo Trading)"
+title: "Comparison of Canopy Growth and Tilray"
 description: "Explore the competitive dynamics of Canopy Growth and Tilray in the cannabis sector, focusing on market strategies, regulatory challenges, and algorithmic trading."
 ---
 

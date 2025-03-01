@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Bank Financial Statements (Algo Trading)"
+title: "Analysis of Bank Financial Statements"
 description: "Explore the synergy between financial statement analysis and algorithmic trading in the banking sector Learn how technology reshapes bank operations and investment strategies"
 ---
 

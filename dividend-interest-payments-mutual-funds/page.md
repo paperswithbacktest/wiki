@@ -1,5 +1,5 @@
 ---
-title: "Dividend and Interest Payments by Mutual Funds (Algo Trading)"
+title: "Dividend and Interest Payments by Mutual Funds"
 description: "Explore the intricacies of dividends and interest payments, mutual funds, and algorithmic trading within modern investment strategies. Understand how these financial components interact to optimize wealth, manage risks, and achieve long-term financial goals in a evolving market landscape. Discover how to diversify income through dividends and interest, harness the benefits of mutual funds, and leverage the precision of algorithmic trading for enhanced portfolio management."
 ---
 

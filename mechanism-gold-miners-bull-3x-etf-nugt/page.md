@@ -1,5 +1,5 @@
 ---
-title: "Mechanism of Gold Miners Bull 3x ETF (NUGT) (Algo Trading)"
+title: "Mechanism of Gold Miners Bull 3x ETF (NUGT)"
 description: "Explore the intricacies of NUGT a leveraged ETF designed to amplify returns from the NYSE Arca Gold Miners Index Learn about its mechanics risks and algo trading impact"
 ---
 

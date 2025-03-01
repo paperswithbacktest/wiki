@@ -1,5 +1,5 @@
 ---
-title: "Maximum Adverse Excursion and Maximum Favorable Excursion Explained (Algo Trading)"
+title: "Maximum Adverse Excursion and Maximum Favorable Excursion Explained"
 description: Explore the essentials of Maximum Adverse Excursion (MAE) in algorithmic trading as a key tool for managing risks and optimizing trading strategies. Learn how MAE quantifies potential losses, informs stop-loss placement, and enhances decision-making by evaluating historical drawdowns, making it crucial for developing robust trading frameworks.
 ---
 

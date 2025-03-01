@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Global Accounting Standards (Algo Trading)"
+title: "Comparison of Global Accounting Standards"
 description: "Explore the crucial interplay between GAAP and IFRS accounting standards and algorithmic trading strategies Discover how they enhance transparency and efficiency"
 ---
 

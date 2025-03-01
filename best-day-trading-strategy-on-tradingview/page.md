@@ -1,5 +1,5 @@
 ---
-title: "Best Day Trading Strategy on TradingView (Algo Trading)"
+title: "Best Day Trading Strategy on TradingView"
 description: Explore the best day trading strategies on TradingView by leveraging algorithmic trading to optimize efficiency and reduce human error. Discover advanced techniques that allow traders to analyze data quickly and capitalize on fleeting market opportunities. TradingView is the platform of choice for algo traders due to its intuitive interface and robust charting tools. Enhance your trading outcomes by examining effective strategies and making use of TradingView's comprehensive resources and supportive community.
 ---
 

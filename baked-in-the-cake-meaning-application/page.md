@@ -1,5 +1,5 @@
 ---
-title: "Baked in the Cake: Meaning and Application (Algo Trading)"
+title: "Baked in the Cake: Meaning and Application"
 description: "Explore the financial term "baked in the cake" and its impact on investment strategies and algorithmic trading to better navigate market dynamics."
 ---
 

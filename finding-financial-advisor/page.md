@@ -1,5 +1,5 @@
 ---
-title: "Finding a Financial Advisor (Algo Trading)"
+title: "Finding a Financial Advisor"
 description: "Explore essential insights into financial advisors and algorithmic trading to empower your investment strategies. Learn how financial advisors tailor advice to align with your goals, while algorithmic trading offers technological advantages in execution speed and strategy optimization. This guide prepares you for informed decision-making in the evolving financial landscape."
 ---
 

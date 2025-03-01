@@ -1,5 +1,5 @@
 ---
-title: "EBITDA Margin: Definition and Application (Algo Trading)"
+title: "EBITDA Margin: Definition and Application"
 description: "Explore the significance of EBITDA margin in finance and its application in algorithmic trading to optimize strategies and enhance decision-making processes."
 ---
 

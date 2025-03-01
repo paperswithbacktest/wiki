@@ -1,5 +1,5 @@
 ---
-title: "Geneva Trading (Algo Trading)"
+title: "Geneva Trading"
 description: "Explore Geneva Trading's role in algorithmic trading, leveraging technology and innovation to optimize strategies and streamline trade execution efficiently."
 ---
 

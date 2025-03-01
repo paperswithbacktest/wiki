@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Capital Stock and Treasury Stock (Algo Trading)"
+title: "Differences Between Capital Stock and Treasury Stock"
 description: "Explore the essential differences between capital stock and treasury stock and how they impact investment strategies and company financials in algorithmic trading."
 ---
 

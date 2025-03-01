@@ -1,5 +1,5 @@
 ---
-title: "Impact of Industrialization on Economies of Less Developed Countries (Algo Trading)"
+title: "Impact of Industrialization on Economies of Less Developed Countries"
 description: "Explore the impact of industrialization on less developed countries focusing on the transformative role of algorithmic trading in market efficiency and economic growth."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "GSA Capital (Algo Trading)"
+title: "GSA Capital"
 description: GSA Capital is a leading algorithmic trading firm, known for its innovative use of technology and analytics to efficiently navigate global financial markets. Specializing in quantitative finance and systematic trading, the firm leverages mathematical models to exploit market inefficiencies with speed and precision, maintaining a competitive edge. Established in 2005, GSA Capital transitioned from a traditional hedge fund to a private trading firm in 2021, focusing on adaptable, data-driven strategies. The firm is acknowledged for its pioneering fee structures and diversification into alternative investments, including cryptocurrencies, demonstrating its commitment to evolving within the competitive financial landscape.
 ---
 

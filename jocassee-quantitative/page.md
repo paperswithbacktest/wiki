@@ -1,5 +1,5 @@
 ---
-title: "Jocassee Quantitative (Algo Trading)"
+title: "Jocassee Quantitative"
 description: "Explore Jocassee Quantitative's innovative algorithmic trading solutions leveraging advanced technologies to optimize market performance and drive trading efficiency."
 ---
 

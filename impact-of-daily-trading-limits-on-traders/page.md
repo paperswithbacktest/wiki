@@ -1,5 +1,5 @@
 ---
-title: "Impact of Daily Trading Limits on Traders (Algo Trading)"
+title: "Impact of Daily Trading Limits on Traders"
 description: "Discover how daily trading limits impact traders by shaping strategies, ensuring market stability, and influencing price movements in algorithmic trading environments."
 ---
 

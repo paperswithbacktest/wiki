@@ -1,5 +1,5 @@
 ---
-title: "Equity-Efficiency Tradeoff: Causes and Examples (Algo Trading)"
+title: "Equity-Efficiency Tradeoff: Causes and Examples"
 description: "Discover how algorithmic trading has transformed equity markets by analyzing the efficiency-equity tradeoff. Explore the challenges of maintaining fairness while maximizing economic efficiency and the implications for traders and policymakers."
 ---
 

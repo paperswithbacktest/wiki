@@ -1,5 +1,5 @@
 ---
-title: "Belize Dollar and Economy of Belize (Algo Trading)"
+title: "Belize Dollar and Economy of Belize"
 description: "Explore the Belize Dollar's role in stabilizing Belize's economy and discover opportunities in algorithmic trading with BZD. Understand its fixed USD peg and economic impact."
 ---
 

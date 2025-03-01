@@ -1,5 +1,5 @@
 ---
-title: "Harmonized Index of Consumer Prices: Overview and Functionality (Algo Trading)"
+title: "Harmonized Index of Consumer Prices: Overview and Functionality"
 description: "Discover the functionality and significance of the Harmonized Index of Consumer Prices HICP used in the European Union for measuring inflation The HICP facilitates cross-country inflation comparisons providing vital data for policymakers including the European Central Bank ECB It impacts algorithmic trading by informing investment strategies and market predictions based on inflation trends Understanding HICP is essential for navigating EU economic conditions and leveraging related market opportunities"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Correlation in Modern Portfolio Theory (Algo Trading)"
+title: "Correlation in Modern Portfolio Theory"
 description: "Explore how Modern Portfolio Theory correlation and algorithmic trading optimize investment strategies for analysts managers and investors seeking deeper insights"
 ---
 

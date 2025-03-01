@@ -1,5 +1,5 @@
 ---
-title: "Hyperledger Composer: Overview and Functionality (Algo Trading)"
+title: "Hyperledger Composer: Overview and Functionality"
 description: "Explore the transformative power of Hyperledger Composer in blockchain development with its user-friendly tools and integration with Hyperledger Fabric for advanced algo trading."
 ---
 

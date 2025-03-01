@@ -1,5 +1,5 @@
 ---
-title: "Blotter: Functions and Applications (Algo Trading)"
+title: "Blotter: Functions and Applications"
 description: "Discover the essential role blotter financial records play in algorithmic trading by ensuring compliance accuracy and performance optimization in fast-paced markets."
 ---
 

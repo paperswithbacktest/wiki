@@ -1,5 +1,5 @@
 ---
-title: "Defensive Investment Strategy (Algo Trading)"
+title: "Defensive Investment Strategy"
 description: "Explore the benefits of a defensive investment strategy enhanced by algorithmic trading for risk-averse investors seeking stability and capital preservation."
 ---
 

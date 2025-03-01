@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Mutual Funds and Money Market Funds (Algo Trading)"
+title: "Comparison of Mutual Funds and Money Market Funds"
 description: "Discover the key differences between mutual funds and money market funds while understanding the impact of algorithmic trading on investment strategies. This article investigates into the characteristics, benefits, and limitations of these investment options, providing insights to help investors make informed decisions. Whether you're prioritizing capital preservation or seeking growth, learn how to navigate the evolving financial landscape and optimize your portfolio with market knowledge."
 ---
 

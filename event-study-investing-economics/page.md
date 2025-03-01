@@ -1,5 +1,5 @@
 ---
-title: "Event Study in Investing and Economics (Algo Trading)"
+title: "Event Study in Investing and Economics"
 description: "Explore event studies, economic analysis, and algorithmic trading to gain valuable insights into market dynamics and enhance investment strategies."
 ---
 

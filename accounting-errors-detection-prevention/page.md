@@ -1,5 +1,5 @@
 ---
-title: "Accounting Errors: Detection and Prevention (Algo Trading)"
+title: "Accounting Errors: Detection and Prevention"
 description: "Detecting and preventing accounting errors in algorithmic trading is crucial to safeguard financial integrity minimize legal risks and ensure accurate trade executions."
 ---
 

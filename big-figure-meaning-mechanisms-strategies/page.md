@@ -1,5 +1,5 @@
 ---
-title: "Big Figure: Meaning, Mechanisms, and Strategies (Algo Trading)"
+title: "Big Figure: Meaning, Mechanisms, and Strategies"
 description: "Explore big figure trading and algo trading strategies including mechanisms and technological advances to navigate the complex financial markets efficiently."
 ---
 

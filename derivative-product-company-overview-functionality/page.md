@@ -1,5 +1,5 @@
 ---
-title: "Derivative Product Company: Overview and Functionality (Algo Trading)"
+title: "Derivative Product Company: Overview and Functionality"
 description: "Explore the critical role of Derivative Product Companies and algorithmic trading in modern financial markets to optimize risk management and investment strategies."
 ---
 

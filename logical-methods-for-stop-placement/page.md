@@ -1,5 +1,5 @@
 ---
-title: "Logical Methods for Stop Placement (Algo Trading)"
+title: "Logical Methods for Stop Placement"
 description: "Discover how logical stop placement strategies in transportation align with algorithmic trading tactics for enhanced efficiency and risk management across industries."
 ---
 

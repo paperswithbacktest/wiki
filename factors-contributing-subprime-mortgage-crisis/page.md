@@ -1,5 +1,5 @@
 ---
-title: "Factors Contributing to the Subprime Mortgage Crisis (Algo Trading)"
+title: "Factors Contributing to the Subprime Mortgage Crisis"
 description: "Explore the factors behind the subprime mortgage crisis focusing on how subprime mortgages and algorithmic trading contributed to financial instability."
 ---
 

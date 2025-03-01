@@ -1,5 +1,5 @@
 ---
-title: "Bar Chart Usage and Examples (Algo Trading)"
+title: "Bar Chart Usage and Examples"
 description: "Explore how bar charts enhance algorithmic trading by visualizing complex financial data, allowing traders to analyze trends and make informed decisions effortlessly."
 ---
 

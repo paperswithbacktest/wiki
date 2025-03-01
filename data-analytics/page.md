@@ -1,5 +1,5 @@
 ---
-title: "Data Analytics (Algo Trading)"
+title: "Data Analytics"
 description: "Explore how data analytics revolutionizes algorithmic trading by integrating advanced models and big data to optimize trading strategies and decision making."
 ---
 

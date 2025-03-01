@@ -1,5 +1,5 @@
 ---
-title: "Methods of Purchasing Silver (Algo Trading)"
+title: "Methods of Purchasing Silver"
 description: "Explore diverse methods of purchasing silver including physical assets, ETFs, and algorithmic trading to enhance your investment strategy and hedge against inflation."
 ---
 

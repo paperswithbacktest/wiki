@@ -1,5 +1,5 @@
 ---
-title: "Degrees of Freedom in Statistics (Algo Trading)"
+title: "Degrees of Freedom in Statistics"
 description: "Explore the essential concept of degrees of freedom in statistics and its implications for algorithmic trading strategies to enhance prediction accuracy."
 ---
 

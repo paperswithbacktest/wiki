@@ -1,5 +1,5 @@
 ---
-title: "Day Trading: Techniques, Strategies, And Risks (Algo Trading)"
+title: "Day Trading: Techniques, Strategies, And Risks"
 description: "Discover the techniques, strategies, and risks involved in day trading and algo trading. Learn how to navigate these fast-paced financial markets effectively."
 ---
 

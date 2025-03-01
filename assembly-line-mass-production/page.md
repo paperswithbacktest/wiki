@@ -1,5 +1,5 @@
 ---
-title: "Assembly Line in Mass Production (Algo Trading)"
+title: "Assembly Line in Mass Production"
 description: "Discover how the convergence of assembly line production and algorithmic trading is transforming manufacturing methodologies into a more efficient, data-driven process."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Fibonacci Extensions: Overview and Usage (Algo Trading)"
+title: "Fibonacci Extensions: Overview and Usage"
 description: "Utilize Fibonacci extensions in algorithmic trading to predict market movements and identify key support and resistance levels for informed decision-making."
 ---
 

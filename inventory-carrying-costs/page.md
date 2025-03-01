@@ -1,5 +1,5 @@
 ---
-title: "Inventory Carrying Costs (Algo Trading)"
+title: "Inventory Carrying Costs"
 description: "Explore strategic insights into reducing inventory carrying costs and the influence of algo trading on business decisions. Learn how managing expenses related to storing goods and leveraging algorithmic systems can enhance operational efficiency, profitability, and competitiveness. Discover techniques to optimize warehouse management and inventory strategies for smarter operations in today's dynamic market environment."
 ---
 

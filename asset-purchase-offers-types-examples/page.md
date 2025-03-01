@@ -1,5 +1,5 @@
 ---
-title: "Asset Purchase Offers: Types and Examples (Algo Trading)"
+title: "Asset Purchase Offers: Types and Examples"
 description: "Explore the complexities of asset purchase offers in algorithmic trading. Learn about types of transactions and their impact on financial success in fast-paced markets."
 ---
 

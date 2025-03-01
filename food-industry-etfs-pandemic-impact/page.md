@@ -1,5 +1,5 @@
 ---
-title: "Food Industry ETFs and Their Pandemic Impact (Algo Trading)"
+title: "Food Industry ETFs and Their Pandemic Impact"
 description: "Explore the pandemic's impact on Food Industry ETFs, highlighting shifts in consumer behavior, supply chain disruptions, and the role of algorithmic trading."
 ---
 

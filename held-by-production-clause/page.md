@@ -1,5 +1,5 @@
 ---
-title: "Held-By-Production Clause (Algo Trading)"
+title: "Held-By-Production Clause"
 description: "Explore the significance of Held-By-Production clauses in oil and gas leasing and their impact on drilling rights, economic stability, and landowner dynamics."
 ---
 

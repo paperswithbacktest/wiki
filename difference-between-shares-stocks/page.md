@@ -1,5 +1,5 @@
 ---
-title: "Difference Between Shares and Stocks (Algo Trading)"
+title: "Difference Between Shares and Stocks"
 description: "Explore the differences between shares and stocks with a focus on algorithmic trading Learn how modern strategies reshape investments in today's markets"
 ---
 

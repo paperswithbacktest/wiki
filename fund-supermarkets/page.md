@@ -1,5 +1,5 @@
 ---
-title: "Fund Supermarkets (Algo Trading)"
+title: "Fund Supermarkets"
 description: "Explore the synergy between mutual funds, fund supermarkets, and algorithmic trading to optimize your investment strategy and achieve better financial outcomes."
 ---
 

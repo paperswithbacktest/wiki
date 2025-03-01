@@ -1,5 +1,5 @@
 ---
-title: "Martingale Strategy in Forex Trading (Algo Trading)"
+title: "Martingale Strategy in Forex Trading"
 description: "Explore the intriguing dynamics of the Martingale strategy in forex trading as this article investigates into its roots in probability theory and its practical application in algorithmic trading. While this strategy offers a structured approach to recovering losses by doubling stakes on losing trades, it also presents significant risks tied to capital limits and market volatility. Gain insights into how this approach can be deployed within automated systems and discover the anti-Martingale method, which provides a compelling alternative. Equip yourself with the knowledge to navigate forex trading efficiently by understanding both the potential rewards and challenges associated with these strategies."
 ---
 

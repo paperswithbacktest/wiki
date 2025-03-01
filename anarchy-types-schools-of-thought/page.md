@@ -1,5 +1,5 @@
 ---
-title: "Anarchy: Types and Schools of Thought (Algo Trading)"
+title: "Anarchy: Types and Schools of Thought"
 description: "Explore the intriguing intersection of anarchy, political theories, and algorithmic trading in the modern socio-economic landscape. This page investigates into diverse ideologies and financial innovations, examining how anarchist principles and technological advancements are reshaping governance and economic strategies. Discover the complexities of decentralization and the future of societal structures."
 ---
 

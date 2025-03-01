@@ -1,5 +1,5 @@
 ---
-title: "Certified Stock: Definition and Function (Algo Trading)"
+title: "Certified Stock: Definition and Function"
 description: "Explore the fusion of certified stock and algorithmic trading in finance offering innovative, automated strategies for rigorous investment assurance and efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Contra Broker: Functionality and Example (Algo Trading)"
+title: "Contra Broker: Functionality and Example"
 description: "Explore the pivotal role of contra brokers in the evolving stock market landscape. Discover how they maintain market liquidity by taking the opposite side of trades and facilitating large transactions discretely. Delve into the brokerage process, where brokers act as intermediaries, offering access to financial markets and expert guidance. Understand the importance of regulatory oversight in ensuring transparency and fairness. Learn about algorithmic trading's impact, using technology to optimize trade execution and enhance market liquidity. Stay ahead by adapting to these technological advancements in today's dynamic trading environment."
 ---
 

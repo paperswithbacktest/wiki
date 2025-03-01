@@ -1,5 +1,5 @@
 ---
-title: "Commodity Prices and Currency Fluctuations (Algo Trading)"
+title: "Commodity Prices and Currency Fluctuations"
 description: "Understanding the impact of economic factors currency changes and algo trading is key for traders and investors shaping financial markets worldwide."
 ---
 

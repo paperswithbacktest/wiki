@@ -1,5 +1,5 @@
 ---
-title: "History and Replacement of Rule 10b-6 (Algo Trading)"
+title: "History and Replacement of Rule 10b-6"
 description: "Explore the history and impact of SEC Rule 10b-6 and its replacement by Rule M Learn about its role in preventing market manipulation and promoting fairness"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "liquidity consumption (Algo Trading)"
+title: "liquidity consumption"
 description: "Explore how algorithmic trading impacts liquidity consumption in financial markets by examining the dual role of algorithms in both providing and consuming liquidity."
 ---
 

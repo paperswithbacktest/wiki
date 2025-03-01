@@ -1,5 +1,5 @@
 ---
-title: "Forward Premium (Algo Trading)"
+title: "Forward Premium"
 description: "Explore the synergy of forward premiums and algo trading in forex to navigate market trends and optimize trades through insightful strategies and risk management."
 ---
 

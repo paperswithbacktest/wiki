@@ -1,5 +1,5 @@
 ---
-title: "Application of Parabolic SAR in Trading (Algo Trading)"
+title: "Application of Parabolic SAR in Trading"
 description: "Explore the application of Parabolic SAR in trading to identify market direction and reversals within algorithmic strategies optimize your trades and minimize risks."
 ---
 

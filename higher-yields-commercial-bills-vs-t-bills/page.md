@@ -1,5 +1,5 @@
 ---
-title: "Higher Yields of Commercial Bills Compared to T-Bills (Algo Trading)"
+title: "Higher Yields of Commercial Bills Compared to T-Bills"
 description: "Explore how algorithmic trading maximizes yields of commercial bills over T-bills by leveraging strategies that blend technology with traditional finance insights."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Investment Potential of the Swiss Franc (Algo Trading)"
+title: "Investment Potential of the Swiss Franc"
 description: "Discover the investment potential of the Swiss Franc with algorithmic trading Explore strategies that leverage its stability for enhanced trading outcomes"
 ---
 

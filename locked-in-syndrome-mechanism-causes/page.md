@@ -1,5 +1,5 @@
 ---
-title: "Locked-In Syndrome: Definition, Mechanism, Causes (Algo Trading)"
+title: "Locked-In Syndrome: Definition, Mechanism, Causes"
 description: "Explore locked-in syndrome's neurological impact and parallels in financial constraints from algorithmic trading highlighting adaptability and resilience within restrictions."
 ---
 

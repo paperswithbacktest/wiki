@@ -1,5 +1,5 @@
 ---
-title: "Emoluments in U.S. Constitutional History (Algo Trading)"
+title: "Emoluments in U.S. Constitutional History"
 description: "Discover the complex ties between US constitutional emoluments and algorithmic trading exploring legal and financial implications in modern markets."
 ---
 

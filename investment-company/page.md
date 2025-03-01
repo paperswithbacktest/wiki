@@ -1,5 +1,5 @@
 ---
-title: "Investment Company (Algo Trading)"
+title: "Investment Company"
 description: "Discover how investment companies and algorithmic trading strategies help investors navigate financial markets maximize returns and manage risk effectively."
 ---
 

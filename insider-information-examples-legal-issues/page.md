@@ -1,5 +1,5 @@
 ---
-title: "Insider Information: Examples and Legal Issues (Algo Trading)"
+title: "Insider Information: Examples and Legal Issues"
 description: "Explore the complexities of insider trading and algorithmic trading impacting financial markets while understanding the legal framework and ethical challenges."
 ---
 

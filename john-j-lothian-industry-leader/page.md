@@ -1,5 +1,5 @@
 ---
-title: "John J. Lothian: Industry Leader (Algo Trading)"
+title: "John J. Lothian: Industry Leader"
 description: "Discover the impact of John J. Lothian in the futures market and the rise of algorithmic trading shaping financial innovation and industry growth."
 ---
 

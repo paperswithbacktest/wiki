@@ -1,5 +1,5 @@
 ---
-title: "Benefits of Trading Low Volume Stocks (Algo Trading)"
+title: "Benefits of Trading Low Volume Stocks"
 description: "Discover the advantages of trading low volume stocks and algorithmic trading. Learn strategies to capitalize on stock dynamics and enhance your market returns."
 ---
 

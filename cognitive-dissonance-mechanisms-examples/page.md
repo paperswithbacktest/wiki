@@ -1,5 +1,5 @@
 ---
-title: "Cognitive Dissonance: Mechanisms and Examples (Algo Trading)"
+title: "Cognitive Dissonance: Mechanisms and Examples"
 description: "Explore the role of cognitive dissonance in algorithmic trading Learn how this psychological phenomenon impacts decision-making and trading strategies."
 ---
 

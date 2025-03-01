@@ -1,5 +1,5 @@
 ---
-title: "Accounts Receivable Overview and Applications (Algo Trading)"
+title: "Accounts Receivable Overview and Applications"
 description: "Discover the essential role of Accounts Receivable (AR) in financial health and cash flow management, and explore how algorithmic trading revolutionizes AR processes for enhanced optimization and predictive capabilities. Learn how integrating algorithmic models with AR can improve liquidity and strategic decision-making, providing businesses with a competitive edge in today's fast-evolving financial landscape."
 ---
 

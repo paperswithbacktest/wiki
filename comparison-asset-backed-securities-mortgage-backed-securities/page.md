@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Asset-Backed Securities and Mortgage-Backed Securities (Algo Trading)"
+title: "Comparison of Asset-Backed Securities and Mortgage-Backed Securities"
 description: "Explore the differences between Asset-Backed Securities and Mortgage-Backed Securities in relation to algorithmic trading. Understand their impact, benefits, and risks."
 ---
 

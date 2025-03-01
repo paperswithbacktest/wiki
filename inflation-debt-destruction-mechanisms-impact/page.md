@@ -1,5 +1,5 @@
 ---
-title: "Inflation and Debt Destruction: Mechanisms and Impact (Algo Trading)"
+title: "Inflation and Debt Destruction: Mechanisms and Impact"
 description: "Explore inflation, debt destruction, and their economic impact alongside the role of algorithmic trading. Understand market dynamics to better navigate fiscal challenges."
 ---
 

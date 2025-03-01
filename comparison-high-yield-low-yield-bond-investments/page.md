@@ -1,5 +1,5 @@
 ---
-title: "Comparison of High-Yield and Low-Yield Bond Investments (Algo Trading)"
+title: "Comparison of High-Yield and Low-Yield Bond Investments"
 description: "Explore high-yield and low-yield bond investments Plus learn how algorithmic trading optimizes bond portfolios by balancing risk and reward effectively"
 ---
 

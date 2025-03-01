@@ -1,5 +1,5 @@
 ---
-title: "Debt Signaling: Mechanism and Example (Algo Trading)"
+title: "Debt Signaling: Mechanism and Example"
 description: "Explore how debt signaling in algo trading impacts financial markets by decoding company debt actions for insights into financial stability and growth potential."
 ---
 

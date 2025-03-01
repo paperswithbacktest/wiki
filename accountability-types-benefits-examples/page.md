@@ -1,5 +1,5 @@
 ---
-title: "Accountability: Types, Benefits, and Examples (Algo Trading)"
+title: "Accountability: Types, Benefits, and Examples"
 description: "Explore the essential concept of accountability and its significance in algorithmic trading, emphasizing the need for transparency and responsibility in financial markets. Understand the benefits of accountability across various sectors, learn about its diverse types, and discover its critical role in ensuring ethical operations and building stakeholder trust within algorithmic trading practices. Dive into methods like back-testing and risk management to maintain integrity and compliance in high-frequency trading environments."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "ABX Index: Function and Mechanism (Algo Trading)"
+title: "ABX Index: Function and Mechanism"
 description: "Explore the synergy between the ABX Index, a key MBS market indicator, and algorithmic trading, highlighting their roles in modern investment strategies."
 ---
 

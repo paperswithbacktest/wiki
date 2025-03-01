@@ -1,5 +1,5 @@
 ---
-title: "Income Approach in Valuation and Calculation (Algo Trading)"
+title: "Income Approach in Valuation and Calculation"
 description: "Explore how integrating the Income Approach in real estate valuation with algorithmic trading can revolutionize property investment strategies by harnessing data-driven insights and predictive analytics to maximize income-generating potential in the dynamic property market."
 ---
 

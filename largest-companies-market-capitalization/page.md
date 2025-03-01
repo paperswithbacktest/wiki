@@ -1,5 +1,5 @@
 ---
-title: "Largest Companies by Market Capitalization (Algo Trading)"
+title: "Largest Companies by Market Capitalization"
 description: "Explore the role of algorithmic trading in shaping the landscape of the largest companies by market capitalization with insights into their financial influence."
 ---
 

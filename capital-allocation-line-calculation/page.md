@@ -1,5 +1,5 @@
 ---
-title: "Capital Allocation Line: Definition and Calculation (Algo Trading)"
+title: "Capital Allocation Line: Definition and Calculation"
 description: "Explore the Capital Allocation Line definition and its application in algorithmic trading to optimize risk-return portfolios and enhance investment strategies."
 ---
 

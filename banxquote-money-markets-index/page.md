@@ -1,5 +1,5 @@
 ---
-title: "BanxQuote Money Markets Index (Algo Trading)"
+title: "BanxQuote Money Markets Index"
 description: "Explore the BanxQuote Money Markets Index's role in algorithmic trading Discover how it aids traders by providing insights into short-term interest rates and trends"
 ---
 

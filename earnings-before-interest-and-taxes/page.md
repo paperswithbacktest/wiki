@@ -1,5 +1,5 @@
 ---
-title: "Earnings Before Interest and Taxes (Algo Trading)"
+title: "Earnings Before Interest and Taxes"
 description: "Explore how Earnings Before Interest and Taxes (EBIT) enhances algorithmic trading by providing crucial insights into a company's operational efficiency, guiding investment strategies."
 ---
 

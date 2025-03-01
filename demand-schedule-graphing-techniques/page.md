@@ -1,5 +1,5 @@
 ---
-title: "Demand Schedule: Overview and Graphing Techniques (Algo Trading)"
+title: "Demand Schedule: Overview and Graphing Techniques"
 description: "Explore demand schedules and graphing techniques crucial for algo trading and economic analysis Learn how supply and demand concepts shape market decisions"
 ---
 

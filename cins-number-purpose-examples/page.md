@@ -1,5 +1,5 @@
 ---
-title: "CINS Number: Purpose and Examples (Algo Trading)"
+title: "CINS Number: Purpose and Examples"
 description: "Explore the significance of CINS numbers in financial identification and algorithmic trading Discover how this global system enhances precision and market efficiency"
 ---
 

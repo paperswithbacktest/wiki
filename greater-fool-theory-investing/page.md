@@ -1,5 +1,5 @@
 ---
-title: "Greater Fool Theory in Investing (Algo Trading)"
+title: "Greater Fool Theory in Investing"
 description: "Delve into how the Greater Fool Theory impacts investment strategies, especially in algo trading, by balancing market momentum with risk management."
 ---
 

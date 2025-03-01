@@ -1,5 +1,5 @@
 ---
-title: "Difference Between Realized and Unrealized Profits (Algo Trading)"
+title: "Difference Between Realized and Unrealized Profits"
 description: "Explore the key distinctions between realized and unrealized profits in algorithmic trading Discover how these concepts shape trading strategies and financial outcomes"
 ---
 

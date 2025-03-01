@@ -1,5 +1,5 @@
 ---
-title: "Kickback: Mechanism and Examples (Algo Trading)"
+title: "Kickback: Mechanism and Examples"
 description: "Explore how corruption infiltrates algorithmic trading, impacting market integrity and efficiency. Discover mechanisms and examples, promoting ethical practices."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Capital Appreciation: Concepts and Types (Algo Trading)"
+title: "Capital Appreciation: Concepts and Types"
 description: "Explore the essentials of capital appreciation and algorithmic trading in investment growth Learn how these concepts shape strategies for informed decisions"
 ---
 

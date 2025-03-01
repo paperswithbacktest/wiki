@@ -1,5 +1,5 @@
 ---
-title: "Mechanism of Currency-Hedged ETFs (Algo Trading)"
+title: "Mechanism of Currency-Hedged ETFs"
 description: "Explore how currency-hedged ETFs and algorithmic trading work together to manage currency risk and optimize investment returns in global markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Market Basket in Investing (Algo Trading)"
+title: "Market Basket in Investing"
 description: "Discover how market baskets and algorithmic trading revolutionize investing. Learn to diversify risk, optimize returns, and leverage technology for smarter strategies."
 ---
 

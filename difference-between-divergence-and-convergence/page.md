@@ -1,5 +1,5 @@
 ---
-title: "Difference Between Divergence and Convergence (Algo Trading)"
+title: "Difference Between Divergence and Convergence"
 description: "Discover the key differences between convergence and divergence in algorithmic trading Learn how these concepts enhance market predictions and trading strategies"
 ---
 

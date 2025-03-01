@@ -1,5 +1,5 @@
 ---
-title: "Fair Practice Rules: Definition, Prohibited Actions, and Penalties (Algo Trading)"
+title: "Fair Practice Rules: Definition, Prohibited Actions, and Penalties"
 description: "Explore definition and rules of fair practice in algorithmic trading. Learn about prohibited actions, their impact, and penalties for violations to maintain market integrity."
 ---
 

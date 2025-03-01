@@ -1,5 +1,5 @@
 ---
-title: "Expected Value: Formula and Examples (Algo Trading)"
+title: "Expected Value: Formula and Examples"
 description: "Learn how expected value impacts algorithmic trading Discover formulas examples and principles that can optimize decisions and improve trading strategies"
 ---
 

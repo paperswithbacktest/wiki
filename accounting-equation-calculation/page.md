@@ -1,5 +1,5 @@
 ---
-title: "Accounting Equation and Calculation (Algo Trading)"
+title: "Accounting Equation and Calculation"
 description: "Explore the accounting equation's role in algorithmic trading for accurate analysis and decision-making enhancing financial strategies with core principles."
 ---
 

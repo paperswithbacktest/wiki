@@ -1,5 +1,5 @@
 ---
-title: "Deep learning in finance (Algo Trading)"
+title: "Deep learning in finance"
 description: "Explore the transformative power of deep learning in algorithmic trading Increasing accuracy and efficiency in finance this cutting-edge tech revolutionizes markets"
 ---
 

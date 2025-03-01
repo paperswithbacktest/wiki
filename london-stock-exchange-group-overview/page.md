@@ -1,5 +1,5 @@
 ---
-title: "London Stock Exchange Group Overview (Algo Trading)"
+title: "London Stock Exchange Group Overview"
 description: "Explore LSEG's impact on financial markets with cutting-edge algorithmic trading. Discover how innovative tech enhances market efficiency and trading strategies."
 ---
 

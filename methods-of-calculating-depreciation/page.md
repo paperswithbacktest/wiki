@@ -1,5 +1,5 @@
 ---
-title: "Methods of Calculating Depreciation (Algo Trading)"
+title: "Methods of Calculating Depreciation"
 description: "Explore various methods of calculating depreciation and their impact on financial reporting and algorithmic trading strategies, enhancing your financial insights."
 ---
 

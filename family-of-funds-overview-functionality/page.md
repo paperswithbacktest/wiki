@@ -1,5 +1,5 @@
 ---
-title: "Family of Funds: Overview and Functionality (Algo Trading)"
+title: "Family of Funds: Overview and Functionality"
 description: "Explore how investment and mutual funds democratize portfolio management and how algorithmic trading enhances market efficiency and liquidity in financial markets."
 ---
 

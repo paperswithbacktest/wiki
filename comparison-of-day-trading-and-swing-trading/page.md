@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Day Trading and Swing Trading (Algo Trading)"
+title: "Comparison of Day Trading and Swing Trading"
 description: "Explore the differences between day trading and swing trading in algorithmic trading Learn which strategy suits your investment goals and risk tolerance"
 ---
 

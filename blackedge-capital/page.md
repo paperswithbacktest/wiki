@@ -1,5 +1,5 @@
 ---
-title: "BlackEdge Capital (Algo Trading)"
+title: "BlackEdge Capital"
 description: "Discover BlackEdge Capital's innovative algorithmic trading strategies that leverage cutting-edge tech and expertise to enhance financial market efficiency."
 ---
 

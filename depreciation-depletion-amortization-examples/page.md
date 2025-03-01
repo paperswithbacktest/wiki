@@ -1,5 +1,5 @@
 ---
-title: "Depreciation, Depletion, and Amortization Examples (Algo Trading)"
+title: "Depreciation, Depletion, and Amortization Examples"
 description: "Explore the integration of depreciation depletion and amortization methods in algorithmic trading Learn how these accounting techniques enhance trading strategies"
 ---
 

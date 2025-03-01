@@ -1,5 +1,5 @@
 ---
-title: "Long Run in Economics: Explanation and Examples (Algo Trading)"
+title: "Long Run in Economics: Explanation and Examples"
 description: "Explore how long-run economic principles intersect with algorithmic trading to enhance decision-making through cost analysis, market dynamics, and technology."
 ---
 

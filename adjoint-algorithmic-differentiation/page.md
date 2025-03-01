@@ -1,5 +1,5 @@
 ---
-title: "Adjoint Algorithmic Differentiation (Algo Trading)"
+title: "Adjoint Algorithmic Differentiation"
 description: "Explore the integration of Adjoint Algorithmic Differentiation in algorithmic trading to enhance accuracy and efficiency in risk management and portfolio optimization."
 ---
 

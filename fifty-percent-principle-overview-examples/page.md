@@ -1,5 +1,5 @@
 ---
-title: "Fifty Percent Principle: Overview and Examples (Algo Trading)"
+title: "Fifty Percent Principle: Overview and Examples"
 description: "Master the Fifty Percent Principle in trading to forecast market corrections and enhance entry strategies with examples from algorithmic trading."
 ---
 

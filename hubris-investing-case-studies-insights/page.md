@@ -1,5 +1,5 @@
 ---
-title: "Hubris in Investing: Case Studies and Key Insights (Algo Trading)"
+title: "Hubris in Investing: Case Studies and Key Insights"
 description: "Explore hubris in investing and its influence on decision making especially in algorithmic trading Uncover psychological impacts and common investor mistakes"
 ---
 

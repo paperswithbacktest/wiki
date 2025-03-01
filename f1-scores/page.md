@@ -1,5 +1,5 @@
 ---
-title: "F1 scores (Algo Trading)"
+title: "F1 scores"
 description: Explore the significance of F1 scores in algorithmic trading as a vital metric balancing precision and recall to optimize trading algorithms for improved decision-making. This comprehensive guide investigates into the mathematical foundation of the F1 score and its role in fine-tuning models, offering strategies for navigating imbalanced datasets to maximize profitability while minimizing risks in fast-paced financial markets.
 ---
 

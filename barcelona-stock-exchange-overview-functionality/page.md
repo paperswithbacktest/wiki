@@ -1,5 +1,5 @@
 ---
-title: "Barcelona Stock Exchange: Overview and Functionality (Algo Trading)"
+title: "Barcelona Stock Exchange: Overview and Functionality"
 description: "Discover the Barcelona Stock Exchange, Spain's financial hub since 1915, enhancing market liquidity and efficiency with advanced electronic and algorithmic trading."
 ---
 

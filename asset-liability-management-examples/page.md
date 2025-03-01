@@ -1,5 +1,5 @@
 ---
-title: "Asset and Liability Management Examples (Algo Trading)"
+title: "Asset and Liability Management Examples"
 description: "Explore asset and liability management with examples of algorithmic trading techniques to optimize financial strategies reduce risks and ensure market efficiency."
 ---
 

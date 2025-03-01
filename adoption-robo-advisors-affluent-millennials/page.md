@@ -1,5 +1,5 @@
 ---
-title: "Adoption of Robo-Advisors Among Affluent Millennials (Algo Trading)"
+title: "Adoption of Robo-Advisors Among Affluent Millennials"
 description: "Explore how affluent millennials are transforming investment strategies with the rise of robo-advisors and algo trading integrating fintech innovation."
 ---
 

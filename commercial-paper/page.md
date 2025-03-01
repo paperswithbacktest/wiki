@@ -1,5 +1,5 @@
 ---
-title: "Commercial Paper (Algo Trading)"
+title: "Commercial Paper"
 description: "Discover the role of commercial paper and algorithmic trading in money markets offering short-term financing tools for corporations and strategic benefits for traders."
 ---
 

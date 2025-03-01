@@ -1,5 +1,5 @@
 ---
-title: "Bhutanese Ngultrum and Economy (Algo Trading)"
+title: "Bhutanese Ngultrum and Economy"
 description: "Discover the role of the Bhutanese Ngultrum in the economy, its peg to the Indian Rupee, and how it influences algorithmic trading opportunities."
 ---
 

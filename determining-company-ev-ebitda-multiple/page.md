@@ -1,5 +1,5 @@
 ---
-title: "Determining a Company's EV/EBITDA Multiple (Algo Trading)"
+title: "Determining a Company's EV/EBITDA Multiple"
 description: "Explore the EV/EBITDA ratio to assess company value in algo trading Discover its role in operational efficiency and uncover undervaluation opportunities"
 ---
 

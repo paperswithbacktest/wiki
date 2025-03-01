@@ -1,5 +1,5 @@
 ---
-title: "Fungible Goods: Explanation, Examples, and Trading (Algo Trading)"
+title: "Fungible Goods: Explanation, Examples, and Trading"
 description: "Explore how fungibility impacts algorithmic trading with examples of fungible goods like currencies, commodities, and securities, enhancing market efficiency."
 ---
 

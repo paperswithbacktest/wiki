@@ -1,5 +1,5 @@
 ---
-title: "Interpolation in Investment Analysis (Algo Trading)"
+title: "Interpolation in Investment Analysis"
 description: "Discover the crucial role of interpolation in financial modeling and algo trading Enhance investment analysis accuracy by estimating unknown data points for better decision-making"
 ---
 

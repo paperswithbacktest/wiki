@@ -1,5 +1,5 @@
 ---
-title: "Interval Fund: Overview and Functionality (Algo Trading)"
+title: "Interval Fund: Overview and Functionality"
 description: "Explore the strategic advantages of closed-end interval funds and algorithmic trading Discover how these investment models optimize returns and manage risk in dynamic markets"
 ---
 

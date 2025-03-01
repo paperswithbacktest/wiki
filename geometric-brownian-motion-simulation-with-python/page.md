@@ -1,5 +1,5 @@
 ---
-title: "Geometric Brownian Motion Simulation with Python (Algo Trading)"
+title: "Geometric Brownian Motion Simulation with Python"
 description: Explore the application of geometric Brownian motion in algorithmic trading with Python in our comprehensive guide. Learn how this stochastic process models stock price dynamics and integrates with trading strategies to enhance decision-making. Discover Python's role in implementing and visualizing these quantitative models using powerful libraries like NumPy and pandas, empowering traders to construct efficient algorithms in financial markets.
 ---
 

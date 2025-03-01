@@ -1,5 +1,5 @@
 ---
-title: "Blind Brokering (Algo Trading)"
+title: "Blind Brokering"
 description: "Explore the impact of algorithmic trading and blind brokering in modern financial markets Learn how automation and anonymity enhance transaction efficiency and fairness"
 ---
 

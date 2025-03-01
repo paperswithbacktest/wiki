@@ -1,5 +1,5 @@
 ---
-title: "Fiduciary Duty: Examples and Types (Algo Trading)"
+title: "Fiduciary Duty: Examples and Types"
 description: "Explore fiduciary duty's importance in algorithmic trading with examples and types to ensure ethical financial practices and safeguard investor interests."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Mean: Types and Formulas (Algo Trading)"
+title: "Mean: Types and Formulas"
 description: "Explore how different types of mean such as arithmetic geometric and harmonic are vital in algorithmic trading strategies for more informed financial decisions."
 ---
 

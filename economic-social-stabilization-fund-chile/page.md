@@ -1,5 +1,5 @@
 ---
-title: "Economic and Social Stabilization Fund of Chile (Algo Trading)"
+title: "Economic and Social Stabilization Fund of Chile"
 description: "Explore Chile's Economic and Social Stabilization Fund and its pivotal role in managing fiscal stability amid copper price volatility using innovative algo trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Use of MACD Histogram for Identifying Trend Changes (Algo Trading)"
+title: "Use of MACD Histogram for Identifying Trend Changes"
 description: "Use the MACD Histogram to identify trend changes in algo trading Optimize strategies using MACD for spotting momentum shifts and trend reversals effectively"
 ---
 

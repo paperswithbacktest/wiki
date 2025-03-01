@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Weighted Average Shares and Outstanding Shares (Algo Trading)"
+title: "Comparison of Weighted Average Shares and Outstanding Shares"
 description: "Discover the difference between outstanding shares and weighted average shares in stock market analysis and their crucial roles in algorithmic trading decisions."
 ---
 

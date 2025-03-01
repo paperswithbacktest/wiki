@@ -1,5 +1,5 @@
 ---
-title: "Incremental Cost Calculation and Examples (Algo Trading)"
+title: "Incremental Cost Calculation and Examples"
 description: "Explore how incremental cost analysis aids businesses in optimizing production efficiency and profitability by evaluating additional expenditure for unit increments in algo trading."
 ---
 

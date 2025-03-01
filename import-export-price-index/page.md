@@ -1,5 +1,5 @@
 ---
-title: "Import and Export Price Index (Algo Trading)"
+title: "Import and Export Price Index"
 description: "Explore the role of import and export price indexes in algo trading and global economics helping businesses strategize, manage risks, and optimize trading efficiency."
 ---
 

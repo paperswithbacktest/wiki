@@ -1,5 +1,5 @@
 ---
-title: "Hard Loan: Definition and Mechanics (Algo Trading)"
+title: "Hard Loan: Definition and Mechanics"
 description: "Explore the intricacies of hard loans and their role in financial markets Discover how algorithmic trading enhances loan strategies and manages risks effectively."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Commodity Pool (Algo Trading)"
+title: "Commodity Pool"
 description: "Discover the benefits of algorithmic trading and commodity pools in optimizing investment strategies for enhanced market exposure and risk management."
 ---
 

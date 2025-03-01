@@ -1,5 +1,5 @@
 ---
-title: "Cross-Currency Settlement Risk and Its Mechanisms (Algo Trading)"
+title: "Cross-Currency Settlement Risk and Its Mechanisms"
 description: "Explore cross-currency settlement risk and mechanisms in global finance focusing on algorithmic trading's role in risk mitigation through efficient trade execution."
 ---
 

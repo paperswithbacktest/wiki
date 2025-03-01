@@ -1,5 +1,5 @@
 ---
-title: "Impact of Outsourcing on Industry (Algo Trading)"
+title: "Impact of Outsourcing on Industry"
 description: "Explore the complexities of outsourcing in algorithmic trading, where cost efficiency meets global talent, impacting local economies and trading innovation."
 ---
 

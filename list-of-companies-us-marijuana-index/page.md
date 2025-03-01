@@ -1,5 +1,5 @@
 ---
-title: "List of Companies in the U.S. Marijuana Index (Algo Trading)"
+title: "List of Companies in the U.S. Marijuana Index"
 description: "Explore the U.S. Marijuana Index and algorithmic trading in cannabis stocks to understand market trends and make informed investment decisions."
 ---
 

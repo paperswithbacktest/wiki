@@ -1,5 +1,5 @@
 ---
-title: "Disclaim in Legal Contexts: Definition and Functionality (Algo Trading)"
+title: "Disclaim in Legal Contexts: Definition and Functionality"
 description: "Explore how legal disclaimers protect developers and traders in algorithmic trading, highlighting their role in risk mitigation and regulatory compliance."
 ---
 

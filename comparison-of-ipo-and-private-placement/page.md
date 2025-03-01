@@ -1,5 +1,5 @@
 ---
-title: "Comparison of IPO and Private Placement (Algo Trading)"
+title: "Comparison of IPO and Private Placement"
 description: "Compare IPOs and private placements two popular capital-raising strategies for businesses. Learn how algorithmic trading impacts these investment methods."
 ---
 

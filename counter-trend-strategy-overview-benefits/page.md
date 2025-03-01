@@ -1,5 +1,5 @@
 ---
-title: "Counter Trend Strategy: Overview and Benefits (Algo Trading)"
+title: "Counter Trend Strategy: Overview and Benefits"
 description: "Unlock the potential of counter trend trading with algorithmic strategies Capitalize on market reversals and enhance trading efficiency with advanced tools"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Dollar cost averaging (Algo Trading)"
+title: "Dollar cost averaging"
 description: "Explore dollar-cost averaging in algorithmic trading to mitigate market volatility, enhance investment strategies, and achieve long-term financial goals."
 ---
 

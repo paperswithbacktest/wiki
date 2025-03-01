@@ -1,5 +1,5 @@
 ---
-title: "Dirks Test: Overview and Application (Algo Trading)"
+title: "Dirks Test: Overview and Application"
 description: "Explore the intersection of the Dirks Test and algorithmic trading in tackling insider trading discover how global regulations adapt to maintain market integrity."
 ---
 

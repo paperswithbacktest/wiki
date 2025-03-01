@@ -1,5 +1,5 @@
 ---
-title: "Actively Managed ETFs and Their Effectiveness (Algo Trading)"
+title: "Actively Managed ETFs and Their Effectiveness"
 description: "Explore the efficiency of Actively Managed ETFs with algorithmic trading insights Discover strategic advantages and performance benefits over traditional funds"
 ---
 

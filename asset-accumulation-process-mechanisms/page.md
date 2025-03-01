@@ -1,5 +1,5 @@
 ---
-title: "Asset Accumulation Process and Mechanisms (Algo Trading)"
+title: "Asset Accumulation Process and Mechanisms"
 description: "Explore the evolving landscape of asset accumulation blending traditional financial strategies with modern algorithmic trading to maximize wealth and stability."
 ---
 

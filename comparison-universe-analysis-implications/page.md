@@ -1,5 +1,5 @@
 ---
-title: "Comparison Universe: Analysis and Implications (Algo Trading)"
+title: "Comparison Universe: Analysis and Implications"
 description: "Explore the transformation of financial markets through algorithmic trading with our comprehensive analysis ready to guide your investment strategy decisions"
 ---
 

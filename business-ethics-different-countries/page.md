@@ -1,5 +1,5 @@
 ---
-title: "Business Ethics Across Different Countries (Algo Trading)"
+title: "Business Ethics Across Different Countries"
 description: "Explore the complexities of business ethics in algorithmic trading across cultures. Discover how ethical standards vary globally and impact financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Hierarchical Clustering in Python (Algo Trading)"
+title: "Hierarchical Clustering in Python"
 description: Explore the significance of hierarchical clustering in data analysis and algorithmic trading with this comprehensive guide. Understand how this unsupervised learning technique can uncover complex patterns and relationships in datasets, enabling better visualization and interpretation through dendrograms. Discover its practical applications in trading, where it aids in organizing stocks into clusters for more informed investment decisions. Learn about its theoretical foundations and effective implementation in Python to enhance trading strategies, leading to improved portfolio construction and dynamic asset allocation in the fast-paced financial market.
 ---
 

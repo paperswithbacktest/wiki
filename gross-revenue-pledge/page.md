@@ -1,5 +1,5 @@
 ---
-title: "Gross Revenue Pledge (Algo Trading)"
+title: "Gross Revenue Pledge"
 description: "Explore the interplay between financial agreements, revenue commitments, gross revenue pledges, and algorithmic trading, highlighting their impact on market stability."
 ---
 

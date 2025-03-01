@@ -1,5 +1,5 @@
 ---
-title: "Batch-Level Activities: Overview and Historical Context (Algo Trading)"
+title: "Batch-Level Activities: Overview and Historical Context"
 description: "Explore the synergy between Activity-Based Costing and algorithmic trading to enhance cost management, optimize resources, and drive strategic decision-making."
 ---
 

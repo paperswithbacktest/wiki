@@ -1,5 +1,5 @@
 ---
-title: "Margin (finance) (Algo Trading)"
+title: "Margin (finance)"
 description: "Explore the synergy between margin and algorithmic trading in finance Learn to optimize trading capacity manage risks and improve efficiency with advanced strategies"
 ---
 

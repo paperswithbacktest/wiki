@@ -1,5 +1,5 @@
 ---
-title: "Impulse Wave Pattern: Theory and Rules (Algo Trading)"
+title: "Impulse Wave Pattern: Theory and Rules"
 description: "Explore the impulse wave pattern, a key tool in technical analysis and algorithmic trading, offering insights into market trends and investor sentiment."
 ---
 

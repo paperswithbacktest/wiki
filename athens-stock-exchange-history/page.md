@@ -1,5 +1,5 @@
 ---
-title: "Athens Stock Exchange History (Algo Trading)"
+title: "Athens Stock Exchange History"
 description: "Explore the evolution of the Athens Stock Exchange and its adaptation to global trends with algorithmic trading enhancing speed and efficiency in financial markets."
 ---
 

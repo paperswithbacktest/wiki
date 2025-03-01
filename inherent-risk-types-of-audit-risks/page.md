@@ -1,5 +1,5 @@
 ---
-title: "Inherent Risk and Types of Audit Risks (Algo Trading)"
+title: "Inherent Risk and Types of Audit Risks"
 description: "Explore the complexities of audit and inherent risk in algorithmic trading Understand crucial risk factors and management strategies to ensure financial integrity"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Financial Analysis of Chipotle Mexican Grill (Algo Trading)"
+title: "Financial Analysis of Chipotle Mexican Grill"
 description: "Explore the financial dynamics of Chipotle Mexican Grill with insights into profitability and the impact of algo trading strategies on stock performance."
 ---
 

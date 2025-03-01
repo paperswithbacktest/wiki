@@ -1,5 +1,5 @@
 ---
-title: "Clinical Trials: Overview and Process (Algo Trading)"
+title: "Clinical Trials: Overview and Process"
 description: "Explore the integration of clinical trials and algo trading examining their processes challenges and intersections to unlock synergies in medical investment and innovation."
 ---
 

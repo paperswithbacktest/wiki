@@ -1,5 +1,5 @@
 ---
-title: "KuCoin Exchange Analysis 2024 (Algo Trading)"
+title: "KuCoin Exchange Analysis 2024"
 description: "Explore KuCoin's advanced algorithmic trading features in 2024, including a robust API and built-in bots, enhancing your crypto trading strategies efficiently."
 ---
 

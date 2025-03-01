@@ -1,5 +1,5 @@
 ---
-title: "Jitney: Overview and Examples (Algo Trading)"
+title: "Jitney: Overview and Examples"
 description: "Explore the parallels between jitney transport and algorithmic trading both striving for efficiency through technology. Discover how they impact urban transit and financial markets."
 ---
 

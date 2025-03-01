@@ -1,5 +1,5 @@
 ---
-title: "McDonald's Competitors (Algo Trading)"
+title: "McDonald's Competitors"
 description: "Explore how McDonald's and its top competitors utilize algorithmic trading to navigate the dynamic fast-food industry and adapt to market changes."
 ---
 

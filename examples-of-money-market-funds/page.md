@@ -1,5 +1,5 @@
 ---
-title: "Examples of Money Market Funds (Algo Trading)"
+title: "Examples of Money Market Funds"
 description: "Learn about money market funds and algorithmic trading to enhance your investment strategy Explore their benefits and role in optimizing financial decisions"
 ---
 

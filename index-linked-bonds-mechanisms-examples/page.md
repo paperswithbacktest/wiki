@@ -1,5 +1,5 @@
 ---
-title: "Index-Linked Bonds: Mechanisms and Examples (Algo Trading)"
+title: "Index-Linked Bonds: Mechanisms and Examples"
 description: "Discover the mechanisms and advantages of inflation-linked bonds including Treasury Inflation-Protected Securities which safeguard investment value against inflation."
 ---
 

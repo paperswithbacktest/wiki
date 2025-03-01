@@ -1,5 +1,5 @@
 ---
-title: "Assumptions in Economic Models (Algo Trading)"
+title: "Assumptions in Economic Models"
 description: "Explore the role of assumptions in economic models and theories within algorithmic trading. Learn how they simplify complex systems to predict market behaviors."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Capital Appreciation Fund: Overview and Risks (Algo Trading)"
+title: "Capital Appreciation Fund: Overview and Risks"
 description: "Explore capital appreciation funds and algorithmic trading to maximize financial growth. Learn the risks and strategies to align with your investment goals."
 ---
 

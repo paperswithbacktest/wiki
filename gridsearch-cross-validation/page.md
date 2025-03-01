@@ -1,5 +1,5 @@
 ---
-title: "Gridsearch cross-validation (Algo Trading)"
+title: "Gridsearch cross-validation"
 description: Explore the benefits of gridsearch cross-validation for optimizing trading strategies in algorithmic trading. This methodical approach fine-tunes hyperparameters by evaluating a predefined parameter space, ensuring robust and effective strategy outcomes. Discover how cross-validation techniques prevent overfitting, adapt to time series data, and improve predictive accuracy in trading models.
 ---
 

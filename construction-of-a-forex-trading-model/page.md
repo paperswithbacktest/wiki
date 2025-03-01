@@ -1,5 +1,5 @@
 ---
-title: "Construction of a Forex Trading Model (Algo Trading)"
+title: "Construction of a Forex Trading Model"
 description: "Explore the construction of a Forex trading model using algorithmic strategies and financial modeling to optimize trading decisions and enhance profitability."
 ---
 

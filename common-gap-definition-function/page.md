@@ -1,5 +1,5 @@
 ---
-title: "Common Gap: Definition and Function (Algo Trading)"
+title: "Common Gap: Definition and Function"
 description: "Explore how common gaps in algo trading are leveraged for strategic advantage by automating decisions optimizing cost efficiency and minimizing human errors."
 ---
 

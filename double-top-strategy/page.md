@@ -1,5 +1,5 @@
 ---
-title: "Double Top Strategy Explained (Algo Trading)"
+title: "Double Top Strategy Explained"
 description: Learn about the double top strategy, a vital tool in algorithmic trading. This guide covers how the double top pattern indicates potential market reversals, aiding traders in predicting shifts from an uptrend to a downtrend. Discover how algorithms can automatically detect and act on these patterns, optimizing strategies for better trade outcomes. Explore its relevance and implementation in modern trading setups with insights into its mechanics and applications.
 ---
 

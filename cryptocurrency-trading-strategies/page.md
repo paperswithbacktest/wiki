@@ -1,5 +1,5 @@
 ---
-title: "Cryptocurrency Trading Strategies Explained (Algo Trading)"
+title: "Cryptocurrency Trading Strategies Explained"
 description: Explore how algorithmic trading enhances cryptocurrency trading by automating strategies to improve efficiency and profitability in volatile markets. Discover various tactics like day trading and arbitrage, and learn about the benefits of algorithmic systems in reducing emotional bias and boosting scalability.
 ---
 

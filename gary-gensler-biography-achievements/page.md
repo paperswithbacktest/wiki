@@ -1,5 +1,5 @@
 ---
-title: "Gary Gensler: Biography and Achievements (Algo Trading)"
+title: "Gary Gensler: Biography and Achievements"
 description: "Explore the biography and achievements of Gary Gensler a key figure in financial market regulation focusing on his impact in algorithmic trading and the SEC."
 ---
 

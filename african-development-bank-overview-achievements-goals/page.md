@@ -1,5 +1,5 @@
 ---
-title: "African Development Bank: Overview, Achievements, and Goals (Algo Trading)"
+title: "African Development Bank: Overview, Achievements, and Goals"
 description: "Explore the African Development Bank's pivotal role in economic and social development across Africa highlighting achievements in infrastructure and algorithmic trading."
 ---
 

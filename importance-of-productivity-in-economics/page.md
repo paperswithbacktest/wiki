@@ -1,5 +1,5 @@
 ---
-title: "Importance of Productivity in Economics (Algo Trading)"
+title: "Importance of Productivity in Economics"
 description: "Explore how productivity fuels economic efficiency and algorithmic trading's role in economic growth Technology in finance reshapes resource allocation and market dynamics"
 ---
 

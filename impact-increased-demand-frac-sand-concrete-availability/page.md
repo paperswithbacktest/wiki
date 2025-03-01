@@ -1,5 +1,5 @@
 ---
-title: "Impact of Increased Demand on Frac Sand and Concrete Availability (Algo Trading)"
+title: "Impact of Increased Demand on Frac Sand and Concrete Availability"
 description: "Explore the rising demand's impact on frac sand and concrete availability, highlighting scarcity issues and the role of algo trading in navigating market dynamics."
 ---
 

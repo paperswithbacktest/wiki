@@ -1,5 +1,5 @@
 ---
-title: "Conditional Order in Financial Markets (Algo Trading)"
+title: "Conditional Order in Financial Markets"
 description: "Explore the synergy between conditional order trading and algo trading to enhance trading efficiency by setting criteria-driven strategies for automated execution."
 ---
 

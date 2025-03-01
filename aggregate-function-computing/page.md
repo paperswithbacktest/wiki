@@ -1,5 +1,5 @@
 ---
-title: "Aggregate Function in Computing (Algo Trading)"
+title: "Aggregate Function in Computing"
 description: "Discover how aggregate functions enhance data analysis and algorithmic trading by transforming complex market data into actionable investment insights."
 ---
 

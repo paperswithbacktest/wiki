@@ -1,5 +1,5 @@
 ---
-title: "Bank of Canada: Overview, Historical Background, and Functions (Algo Trading)"
+title: "Bank of Canada: Overview, Historical Background, and Functions"
 description: "Discover the pivotal role of the Bank of Canada established in 1934 in managing monetary policy controlling inflation and fostering economic stability."
 ---
 

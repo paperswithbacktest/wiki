@@ -1,5 +1,5 @@
 ---
-title: "Graham Capital Management (Algo Trading)"
+title: "Graham Capital Management"
 description: "Discover Graham Capital Management's expertise in algorithmic trading and advanced investment strategies Take a closer look at their innovative approach to finance"
 ---
 

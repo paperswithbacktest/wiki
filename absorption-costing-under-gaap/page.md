@@ -1,5 +1,5 @@
 ---
-title: "Absorption Costing Under GAAP (Algo Trading)"
+title: "Absorption Costing Under GAAP"
 description: "Explore absorption costing under GAAP and its integration with algorithmic trading to enhance financial strategy efficiency and market competitiveness."
 ---
 

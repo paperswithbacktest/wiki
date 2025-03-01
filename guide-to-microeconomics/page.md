@@ -1,5 +1,5 @@
 ---
-title: "Guide to Microeconomics (Algo Trading)"
+title: "Guide to Microeconomics"
 description: "Explore the synergy between microeconomics consumer behavior and algorithmic trading in modern finance Learn how these fields enhance strategies for market innovation"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Glass-Steagall Act: 1933, Impact, and Repeal (Algo Trading)"
+title: "Glass-Steagall Act: 1933, Impact, and Repeal"
 description: "Explore the history and legacy of the Glass-Steagall Act its crucial role in financial reform balancing banking practices and modern regulatory challenges."
 ---
 

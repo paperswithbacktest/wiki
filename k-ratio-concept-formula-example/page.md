@@ -1,5 +1,5 @@
 ---
-title: "K-Ratio: Concept, Formula, and Example (Algo Trading)"
+title: "K-Ratio: Concept, Formula, and Example"
 description: "Explore the K-Ratio a key metric for algorithmic trading that assesses the consistency of investment returns offering insights beyond traditional performance measures."
 ---
 

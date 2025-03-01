@@ -1,5 +1,5 @@
 ---
-title: "Binomial Distribution: Formula, Analysis, and Example (Algo Trading)"
+title: "Binomial Distribution: Formula, Analysis, and Example"
 description: "Explore the binomial distribution's role in algorithmic trading with insights on formula application analysis and examples to optimize financial strategies and decisions."
 ---
 

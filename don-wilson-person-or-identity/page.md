@@ -1,5 +1,5 @@
 ---
-title: "Don Wilson (Person or Identity) (Algo Trading)"
+title: "Don Wilson (Person or Identity)"
 description: "Discover the influential career of Don Wilson, founder of DRW, a leader in algorithmic trading known for innovation and shaping modern financial markets."
 ---
 

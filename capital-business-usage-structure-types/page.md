@@ -1,5 +1,5 @@
 ---
-title: "Capital in Business: Usage, Structure, and Types (Algo Trading)"
+title: "Capital in Business: Usage, Structure, and Types"
 description: "Explore the crucial role of various business capital types in financial markets and algorithmic trading to enhance strategic planning and economic growth."
 ---
 

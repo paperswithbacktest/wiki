@@ -1,5 +1,5 @@
 ---
-title: "Junk Bonds Overview (Algo Trading)"
+title: "Junk Bonds Overview"
 description: "Explore the world of junk bonds and algorithmic trading. Understand the risks and rewards involved and learn how to effectively integrate them into your portfolio."
 ---
 

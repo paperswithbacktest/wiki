@@ -1,5 +1,5 @@
 ---
-title: "Buy to Open in Trading (Algo Trading)"
+title: "Buy to Open in Trading"
 description: "Discover how 'buy to open' strategies combined with algorithmic trading can enhance efficiency and optimize returns in the ever-evolving stock market."
 ---
 

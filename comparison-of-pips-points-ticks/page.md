@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Pips, Points, and Ticks (Algo Trading)"
+title: "Comparison of Pips, Points, and Ticks"
 description: "Explore the fundamental differences between pips, points, and ticks in trading to enhance your algorithmic strategies. Learn how these units of measure impact various financial markets like stocks, forex, and futures, and discover their critical role in developing precise and high-frequency trading strategies. This comprehensive guide will help traders optimize their risk management and capitalize on market opportunities by understanding how small price changes drive larger market dynamics."
 ---
 

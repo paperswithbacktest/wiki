@@ -1,5 +1,5 @@
 ---
-title: "Brevan Howard (Algo Trading)"
+title: "Brevan Howard"
 description: "Explore Brevan Howard's pioneering algo trading strategies powered by macro insights and risk management for optimized returns in complex financial markets."
 ---
 

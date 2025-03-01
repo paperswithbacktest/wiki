@@ -1,5 +1,5 @@
 ---
-title: "Debt Financing Mechanism (Algo Trading)"
+title: "Debt Financing Mechanism"
 description: "Explore the dynamic interplay between debt financing and algorithmic trading to understand how these financial mechanisms drive business growth and efficiency."
 ---
 

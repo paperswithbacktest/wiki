@@ -1,5 +1,5 @@
 ---
-title: "Flash Crash (Algo Trading)"
+title: "Flash Crash"
 description: "Explore the impact of algorithmic trading on financial markets. Discover how flash crashes happen, their consequences, and efforts to mitigate risks."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "McFadden Act: Overview, Mechanism, and Criticisms (Algo Trading)"
+title: "McFadden Act: Overview, Mechanism, and Criticisms"
 description: "This article investigates into the McFadden Act's role in shaping U.S. banking regulation, exploring its impact on interstate banking and how it set a foundation for future legislative reforms. It contrasts the historical context of the Act with modern advancements like algorithmic trading, highlighting their effects on market stability and competition. By examining these intersections, the article aims to provide insights into the ongoing evolution of financial regulations amidst technological progress."
 ---
 

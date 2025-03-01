@@ -1,5 +1,5 @@
 ---
-title: "Copyright: Types and Mechanisms (Algo Trading)"
+title: "Copyright: Types and Mechanisms"
 description: "Explore the intricate world of copyright and intellectual property protection for algorithmic trading in this insightful article. Learn how safeguarding proprietary algorithms is essential for maintaining market competitiveness and innovation. Discover the vital role of trade secrets and patents in shielding unique trading strategies and software code, ensuring creators can defend their intellectual assets against unauthorized use. Understand the complexities of copyright law and its applications in algorithmic trading to preserve innovation and secure financial market advancements."
 ---
 

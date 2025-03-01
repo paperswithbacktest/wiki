@@ -1,5 +1,5 @@
 ---
-title: "Directional Movement Indicator and Profitability (Algo Trading)"
+title: "Directional Movement Indicator and Profitability"
 description: "Explore how the Directional Movement Index (DMI) can boost algorithmic trading profitability by identifying market trends and optimizing trading strategies."
 ---
 

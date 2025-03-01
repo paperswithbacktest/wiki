@@ -1,5 +1,5 @@
 ---
-title: "Analyzing Market Volume Data to Identify Market Bottoms (Algo Trading)"
+title: "Analyzing Market Volume Data to Identify Market Bottoms"
 description: "Uncover insights into market volume and its role in identifying market bottoms using algorithmic trading. Enhance trading strategies with data-driven analysis."
 ---
 

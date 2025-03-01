@@ -1,5 +1,5 @@
 ---
-title: "Basis Risk: Definition, Types, Formula, and Examples (Algo Trading)"
+title: "Basis Risk: Definition, Types, Formula, and Examples"
 description: "Explore basis risk in algorithmic trading with insights into its types, examples, and management strategies to enhance risk efficiency and minimize losses."
 ---
 

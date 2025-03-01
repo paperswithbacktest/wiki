@@ -1,5 +1,5 @@
 ---
-title: "Availability of Spot Bitcoin ETFs in 2024 (Algo Trading)"
+title: "Availability of Spot Bitcoin ETFs in 2024"
 description: "Explore the anticipated rise of Spot Bitcoin ETFs in 2024 and their impact on algo trading strategies offering new opportunities in the cryptocurrency market."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Econometrics (Algo Trading)"
+title: "Econometrics"
 description: Explore the seamless integration of econometrics and algorithmic trading which empowers traders with advanced strategies derived from quantitative data analysis. Understand how econometrics enhances decision-making through robust frameworks for pattern recognition trend forecasting and risk management. This article investigates into core econometric models such as linear regression time-series analysis and cointegration highlighting their unique contributions to crafting adaptive and optimized trading algorithms. Equip yourself with knowledge on applying these techniques to gain a competitive edge and optimize trades in the fast-evolving financial markets.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Competitors of Procter & Gamble (Algo Trading)"
+title: "Competitors of Procter & Gamble"
 description: "Explore how consumer goods competitors of Procter & Gamble use algorithmic trading strategies to enhance trade efficiency and maintain a competitive edge."
 ---
 

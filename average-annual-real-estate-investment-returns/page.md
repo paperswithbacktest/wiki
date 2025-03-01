@@ -1,5 +1,5 @@
 ---
-title: "Average Annual Real Estate Investment Returns (Algo Trading)"
+title: "Average Annual Real Estate Investment Returns"
 description: "Explore the synergy between real estate investment and algorithmic trading to enhance portfolio returns through technology-driven strategies and data analytics."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Knight Capital Group (Algo Trading)"
+title: "Knight Capital Group"
 description: "Explore Knight Capital Group's rise and fall in the financial sector highlighting its role in U.S. markets and the crucial impact of technology and risk management."
 ---
 

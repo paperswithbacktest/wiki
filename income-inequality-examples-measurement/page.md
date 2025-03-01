@@ -1,5 +1,5 @@
 ---
-title: "Income Inequality: Examples and Measurement (Algo Trading)"
+title: "Income Inequality: Examples and Measurement"
 description: "Explore the complex relationship between algorithmic trading, income inequality, and wealth distribution in today's economy and its impact on market dynamics."
 ---
 

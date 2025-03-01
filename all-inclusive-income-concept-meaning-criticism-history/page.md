@@ -1,5 +1,5 @@
 ---
-title: "All-Inclusive Income Concept: Meaning, Criticism, and History (Algo Trading)"
+title: "All-Inclusive Income Concept: Meaning, Criticism, and History"
 description: "Explore the all-inclusive income concept in accounting highlighting its expansive approach to income reporting. Learn about the criticisms and history of this method."
 ---
 

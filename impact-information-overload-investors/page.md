@@ -1,5 +1,5 @@
 ---
-title: "Impact of Information Overload on Investors (Algo Trading)"
+title: "Impact of Information Overload on Investors"
 description: "Explore how information overload affects investors in algorithmic trading and learn strategies to manage data effectively for better financial decision-making."
 ---
 

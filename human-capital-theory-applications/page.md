@@ -1,5 +1,5 @@
 ---
-title: "Human Capital Theory and Its Applications (Algo Trading)"
+title: "Human Capital Theory and Its Applications"
 description: "Discover the transformative impact of integrating human capital theory with algo trading driving workforce development and innovation in today's economic landscape."
 ---
 

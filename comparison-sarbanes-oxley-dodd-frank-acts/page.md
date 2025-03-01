@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Sarbanes-Oxley and Dodd-Frank Acts (Algo Trading)"
+title: "Comparison of Sarbanes-Oxley and Dodd-Frank Acts"
 description: "Explore the impact of the Sarbanes-Oxley and Dodd-Frank Acts on algorithmic trading and learn how these regulations shape financial markets."
 ---
 

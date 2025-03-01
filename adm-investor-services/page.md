@@ -1,5 +1,5 @@
 ---
-title: "ADM Investor Services (Algo Trading)"
+title: "ADM Investor Services"
 description: "Explore the comprehensive investment services of ADM Investor Services emphasizing proficiency in algorithmic trading for a diverse global clientele."
 ---
 

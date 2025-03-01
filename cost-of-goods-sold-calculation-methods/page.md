@@ -1,5 +1,5 @@
 ---
-title: "Cost of Goods Sold: Calculation Methods (Algo Trading)"
+title: "Cost of Goods Sold: Calculation Methods"
 description: "Explore COGS in algo trading, understanding its calculation and accounting methods. Enhance business strategies by linking financial metrics with automation."
 ---
 

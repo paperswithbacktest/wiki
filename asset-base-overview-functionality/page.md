@@ -1,5 +1,5 @@
 ---
-title: "Asset Base: Overview and Functionality (Algo Trading)"
+title: "Asset Base: Overview and Functionality"
 description: "Explore asset base and algorithmic trading's role in modern finance. Learn strategies for asset management to optimize portfolios and improve trading efficiency."
 ---
 

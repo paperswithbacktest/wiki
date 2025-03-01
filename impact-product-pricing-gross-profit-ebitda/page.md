@@ -1,5 +1,5 @@
 ---
-title: "Impact of Product Pricing on Gross Profit and EBITDA (Algo Trading)"
+title: "Impact of Product Pricing on Gross Profit and EBITDA"
 description: "Explore how product pricing impacts gross profit and EBITDA in algo trading. Learn the importance of pricing strategies for maximizing business profitability."
 ---
 

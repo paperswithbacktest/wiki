@@ -1,5 +1,5 @@
 ---
-title: "CMC Markets 2024 Review (Algo Trading)"
+title: "CMC Markets 2024 Review"
 description: "Discover the key features of CMC Markets in 2024 with a focus on algorithmic trading. CMC Markets offers an advanced trading environment with a choice between the innovative Next Generation platform and the widely regarded MetaTrader 4. Each platform caters to different trading styles, from manual analysis to fully automated strategies. Assess the pros and cons of these platforms, their customization options, and the breadth of tradable instruments available, while considering the usability that suits both novices and experienced traders aiming to optimize their trading strategies."
 ---
 

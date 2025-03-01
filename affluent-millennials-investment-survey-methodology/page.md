@@ -1,5 +1,5 @@
 ---
-title: "Affluent Millennials Investment Survey Methodology (Algo Trading)"
+title: "Affluent Millennials Investment Survey Methodology"
 description: "Discover the investment trends and behaviors of affluent millennials born 1981-1996. Explore their unique preferences including algorithmic trading and sustainable investments."
 ---
 

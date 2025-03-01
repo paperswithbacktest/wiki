@@ -1,5 +1,5 @@
 ---
-title: "Coinbase Pro API Guide (Algo Trading)"
+title: "Coinbase Pro API Guide"
 description: Explore the advantages of using the Coinbase Pro API for algorithmic trading in the dynamic cryptocurrency market. This comprehensive guide offers insights into the API's features, such as real-time market data access, automated trade execution, and robust security measures. Discover how traders can enhance strategy execution speed, minimize emotional biases, and capitalize on 24/7 trading opportunities through automation, making it an essential tool for optimizing trading performance and outcomes in digital finance.
 ---
 

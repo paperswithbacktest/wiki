@@ -1,5 +1,5 @@
 ---
-title: "Cboe Global Markets VIX of VIX (VVIX) (Algo Trading)"
+title: "Cboe Global Markets VIX of VIX (VVIX)"
 description: "Explore the significance of VVIX in Cboe Global Markets and how algorithmic trading strategies utilize it to gain insights into market volatility and investor sentiment."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Hawthorne Effect: Mechanisms and Debates (Algo Trading)"
+title: "Hawthorne Effect: Mechanisms and Debates"
 description: "Explore the complex interplay between the Hawthorne Effect, Observer Effect, and algorithmic trading, delving into how awareness of observation can alter behavior. This article investigates how these observational phenomena can influence both human subjects and automated trading systems, highlighting implications for behavioral finance and trading strategies. Discover insights into how these effects can be incorporated into modern trading frameworks for enhanced financial market efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Fixed and Variable Overhead (Algo Trading)"
+title: "Differences Between Fixed and Variable Overhead"
 description: "Discover the key differences between fixed and variable overhead costs in algorithmic trading for effective cost management to boost profitability and sustainability."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Forex Career Opportunities for Financial Professionals (Algo Trading)"
+title: "Forex Career Opportunities for Financial Professionals"
 description: "Explore exciting career opportunities in the Forex and algorithmic trading sectors for financial professionals. Discover roles like market analyst, regulator, software developer, and more, each leveraging complex algorithms and quantitative analysis within the dynamic landscape of global finance markets."
 ---
 

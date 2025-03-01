@@ -1,5 +1,5 @@
 ---
-title: "Gearing Ratios: Ideal Values and Calculation Methods (Algo Trading)"
+title: "Gearing Ratios: Ideal Values and Calculation Methods"
 description: "Explore gearing ratios and their role in assessing financial leverage learn debt management strategies and discover applications in algorithmic trading."
 ---
 

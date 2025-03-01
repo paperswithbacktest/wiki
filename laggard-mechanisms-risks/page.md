@@ -1,5 +1,5 @@
 ---
-title: "Laggard: Definition, Mechanisms, and Associated Risks (Algo Trading)"
+title: "Laggard: Definition, Mechanisms, and Associated Risks"
 description: "Explore the dynamics of laggard investments in trading and discover the potential risks and rewards associated with identifying and investing in underperforming assets."
 ---
 

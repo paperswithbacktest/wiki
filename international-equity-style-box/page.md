@@ -1,5 +1,5 @@
 ---
-title: "International Equity Style Box (Algo Trading)"
+title: "International Equity Style Box"
 description: "Explore international equity style boxes and algo trading to enhance portfolio diversification and performance. Learn strategies for global investment success."
 ---
 

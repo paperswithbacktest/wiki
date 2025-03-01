@@ -1,5 +1,5 @@
 ---
-title: "Calculation of the S&P 500 Index Value (Algo Trading)"
+title: "Calculation of the S&P 500 Index Value"
 description: "Explore the calculation of the S&P 500 Index and its role in algorithmic trading to make informed decisions in today's dynamic financial markets."
 ---
 

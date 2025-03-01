@@ -1,5 +1,5 @@
 ---
-title: "Graviton Research Capital (Algo Trading)"
+title: "Graviton Research Capital"
 description: "Explore the innovative world of algorithmic trading with Graviton Research Capital which combines advanced technology and data-driven strategies for optimal performance."
 ---
 

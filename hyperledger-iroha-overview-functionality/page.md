@@ -1,5 +1,5 @@
 ---
-title: "Hyperledger Iroha: Overview and Functionality (Algo Trading)"
+title: "Hyperledger Iroha: Overview and Functionality"
 description: "Explore how Hyperledger Iroha revolutionizes algorithmic trading with its user-friendly blockchain, enhancing efficiency, transparency, and security in trading systems."
 ---
 

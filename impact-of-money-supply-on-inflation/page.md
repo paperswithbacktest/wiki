@@ -1,5 +1,5 @@
 ---
-title: "Impact of Money Supply on Inflation (Algo Trading)"
+title: "Impact of Money Supply on Inflation"
 description: "Explore how money supply influences inflation and its impact on algorithmic trading strategies Understand economic trends and enhance trading opportunities with insights into modern finance dynamics"
 ---
 

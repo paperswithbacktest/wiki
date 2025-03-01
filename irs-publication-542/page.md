@@ -1,5 +1,5 @@
 ---
-title: "IRS Publication 542 (Algo Trading)"
+title: "IRS Publication 542"
 description: "Discover essential tax guidance for algorithmic trading firms in IRS Publication 542, from corporate classifications to deductions, helping ensure compliance and optimize strategy."
 ---
 

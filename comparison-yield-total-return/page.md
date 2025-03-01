@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Yield and Total Return (Algo Trading)"
+title: "Comparison of Yield and Total Return"
 description: "Explore the intersection of yield and total return in investment strategies with a focus on algorithmic trading Discover how technology shapes modern finance"
 ---
 

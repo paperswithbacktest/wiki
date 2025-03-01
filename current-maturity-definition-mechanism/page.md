@@ -1,5 +1,5 @@
 ---
-title: "Current Maturity: Definition and Mechanism (Algo Trading)"
+title: "Current Maturity: Definition and Mechanism"
 description: "Explore the significance of financial maturity in algorithmic trading and fixed-income investments Learn how managing maturity dates can optimize investment strategies and returns"
 ---
 

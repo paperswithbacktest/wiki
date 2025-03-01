@@ -1,5 +1,5 @@
 ---
-title: "Mark-to-Market Losses: Overview and Examples (Algo Trading)"
+title: "Mark-to-Market Losses: Overview and Examples"
 description: "Explore how mark-to-market losses and algorithmic trading influence financial reporting and investor decisions in today's complex financial markets."
 ---
 

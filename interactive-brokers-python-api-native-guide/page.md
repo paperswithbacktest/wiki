@@ -1,5 +1,5 @@
 ---
-title: "Interactive Brokers Python API Native Guide (Algo Trading)"
+title: "Interactive Brokers Python API Native Guide"
 description: Explore the power of Interactive Brokers' API for developing advanced algorithmic trading applications. This guide investigates into how traders can leverage the API for market data access, automating trading strategies, and executing trades efficiently. Learn how the API's robust framework supports custom strategies and rapid decision-making, providing insights into optimizing trading operations for competitive advantages. Discover the versatility of using Python and other programming languages for seamless integration with Interactive Brokers' platform, enhancing automation and system scalability with security and compliance.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of Uphold (Algo Trading)"
+title: "Evaluation of Uphold"
 description: "Explore the synergy between Uphold crypto exchange and algorithmic trading where versatility meets precision ensuring a secure user-friendly trading experience."
 ---
 

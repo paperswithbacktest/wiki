@@ -1,5 +1,5 @@
 ---
-title: "Accrued Income: Earnings Recorded But Not Received (Algo Trading)"
+title: "Accrued Income: Earnings Recorded But Not Received"
 description: "Explore how accrued income and algo trading affect modern finance. Understand distinctions in income types and the role of algorithms in trading efficiency."
 ---
 

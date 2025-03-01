@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Retail and Proprietary Trading Accounts (Algo Trading)"
+title: "Comparison of Retail and Proprietary Trading Accounts"
 description: "Explore the differences between retail and proprietary trading accounts in algo trading Discover how these account types affect market liquidity and trading strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Custody-Only Trading: Overview and Challenges (Algo Trading)"
+title: "Custody-Only Trading: Overview and Challenges"
 description: "Explore the contrasting methodologies of custody-only trading and algorithmic trading highlighting their unique advantages and limitations in the evolving financial landscape."
 ---
 

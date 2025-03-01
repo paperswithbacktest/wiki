@@ -1,5 +1,5 @@
 ---
-title: "Market Jitters: Overview and Psychological Impact (Algo Trading)"
+title: "Market Jitters: Overview and Psychological Impact"
 description: "Explore the psychological impact of market jitters on investor behavior and how algo trading offers strategies to manage financial anxiety and market dynamics."
 ---
 

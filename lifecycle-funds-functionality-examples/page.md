@@ -1,5 +1,5 @@
 ---
-title: "Lifecycle Funds: Functionality and Examples (Algo Trading)"
+title: "Lifecycle Funds: Functionality and Examples"
 description: "Explore lifecycle funds and algorithmic trading contrasting hands-off investment strategies with dynamic market approaches to enhance long-term financial planning."
 ---
 

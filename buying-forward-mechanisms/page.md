@@ -1,5 +1,5 @@
 ---
-title: "Buying Forward and Its Mechanisms (Algo Trading)"
+title: "Buying Forward and Its Mechanisms"
 description: "Explore the strategic benefits of buying forward contracts in algorithmic trading to hedge against price volatility and enhance financial planning and stability."
 ---
 

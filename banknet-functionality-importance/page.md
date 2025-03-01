@@ -1,5 +1,5 @@
 ---
-title: "Banknet: Functionality And Importance (Algo Trading)"
+title: "Banknet: Functionality And Importance"
 description: "Explore the impact of Banknet's payment network on algorithmic trading discover how this integration enhances transaction speed and precision in financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Cross Price Elasticity: Calculation and Example (Algo Trading)"
+title: "Cross Price Elasticity: Calculation and Example"
 description: "Discover how cross price elasticity and elasticity of demand shape algo trading strategies enabling traders to anticipate market trends and optimize portfolios."
 ---
 

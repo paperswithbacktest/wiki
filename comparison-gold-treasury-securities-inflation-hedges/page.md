@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Gold and Treasury Securities as Inflation Hedges (Algo Trading)"
+title: "Comparison of Gold and Treasury Securities as Inflation Hedges"
 description: "Explore how gold and treasury securities, combined with algorithmic trading, serve as effective inflation hedges amidst economic fluctuations."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Impact of Bull Markets on Bonds (Algo Trading)"
+title: "Impact of Bull Markets on Bonds"
 description: "Explore the impact of bull markets on bonds and the strategic use of algorithmic trading to optimize returns while managing risks in this dynamic financial landscape."
 ---
 

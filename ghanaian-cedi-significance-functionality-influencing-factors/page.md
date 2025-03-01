@@ -1,5 +1,5 @@
 ---
-title: "Ghanaian Cedi: Significance, Functionality, and Influencing Factors (Algo Trading)"
+title: "Ghanaian Cedi: Significance, Functionality, and Influencing Factors"
 description: "Explore the dynamic world of algorithmic trading with a focus on the Ghanaian Cedi Discover economic factors affecting GHS and optimize your trading strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "EBITDA: Calculation, History, and Criticisms (Algo Trading)"
+title: "EBITDA: Calculation, History, and Criticisms"
 description: "Learn all about EBITDA how to calculate it its history and the criticisms associated with its use in financial analysis Discover how EBITDA is utilized in algorithmic trading and mergers and acquisitions to evaluate business performance and operational efficiency Understand its role in providing a normalized view of company earnings and how investors use it to assess profitability and make informed investment decisions"
 ---
 

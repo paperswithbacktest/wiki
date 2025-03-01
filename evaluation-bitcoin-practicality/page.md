@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of Bitcoin's Practicality (Algo Trading)"
+title: "Evaluation of Bitcoin's Practicality"
 description: "Explore Bitcoin's role in cryptocurrency and algorithmic trading Discover automated strategies enhancing crypto trade efficiency with speed precision and innovation"
 ---
 

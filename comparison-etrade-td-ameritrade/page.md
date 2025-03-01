@@ -1,5 +1,5 @@
 ---
-title: "Comparison of E*TRADE and TD Ameritrade (Algo Trading)"
+title: "Comparison of E*TRADE and TD Ameritrade"
 description: "Explore the algorithmic trading features of E*TRADE and TD Ameritrade. Compare usability, trading technology, and costs to optimize your trading strategy."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Insider and Institutional Stock Ownership (Algo Trading)"
+title: "Insider and Institutional Stock Ownership"
 description: "Explore the significance of insider and institutional stock ownership in trading decisions and gain insights into algorithmic trading strategies for optimal investment outcomes."
 ---
 

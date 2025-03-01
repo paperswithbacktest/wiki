@@ -1,5 +1,5 @@
 ---
-title: "Indicators for Tracking Stock Market and Economic Performance (Algo Trading)"
+title: "Indicators for Tracking Stock Market and Economic Performance"
 description: "Explore economic and stock market indicators with insights into algo trading to understand market dynamics. Learn how GDP, unemployment, and inflation data influence trading strategies."
 ---
 

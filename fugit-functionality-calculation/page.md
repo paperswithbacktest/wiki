@@ -1,5 +1,5 @@
 ---
-title: "Fugit: Functionality and Calculation (Algo Trading)"
+title: "Fugit: Functionality and Calculation"
 description: "Explore the intricacies of Fugit calculation in options trading and learn how it enhances decision-making, risk management, and strategy optimization."
 ---
 

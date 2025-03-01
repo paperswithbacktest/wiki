@@ -1,5 +1,5 @@
 ---
-title: "Calculation of Direct Cost Margin (Algo Trading)"
+title: "Calculation of Direct Cost Margin"
 description: "Explore the calculation of direct cost margin in algorithmic trading. Learn how understanding direct costs enhances trading strategies and boosts profitability."
 ---
 

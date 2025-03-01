@@ -1,5 +1,5 @@
 ---
-title: "History of the South African Rand (Algo Trading)"
+title: "History of the South African Rand"
 description: "Explore the intricate history of the South African Rand, from its introduction in 1961 as a replacement for the South African pound to its current role in the global forex market. Learn how economic and political changes, including the end of apartheid, have influenced its value. Delve into the impact of global factors such as commodity prices and geopolitical risks, and discover how algorithmic trading leverages the rand's volatility. Understand the South African Reserve Bank's role in maintaining price stability and how its monetary policies affect the rand's position within international markets."
 ---
 

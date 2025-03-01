@@ -1,5 +1,5 @@
 ---
-title: "Market Risk and Equity Risk Premium (Algo Trading)"
+title: "Market Risk and Equity Risk Premium"
 description: "Explore the essential concepts of market risk and equity risk premium in algorithmic trading. Understand how these elements shape investment strategies and optimize returns."
 ---
 

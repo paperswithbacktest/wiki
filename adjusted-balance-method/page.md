@@ -1,5 +1,5 @@
 ---
-title: "Adjusted Balance Method (Algo Trading)"
+title: "Adjusted Balance Method"
 description: "Explore the benefits of the adjusted balance method for credit calculation and discover how algo trading can optimize financial strategies and execution."
 ---
 

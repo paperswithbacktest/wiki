@@ -1,5 +1,5 @@
 ---
-title: "Conglomerate Boom: Definition and Examples (Algo Trading)"
+title: "Conglomerate Boom: Definition and Examples"
 description: "Explore the dynamism of the mid-20th century conglomerate boom and its influence on modern corporate strategies including the role of algorithmic trading."
 ---
 

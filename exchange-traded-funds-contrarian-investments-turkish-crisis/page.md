@@ -1,5 +1,5 @@
 ---
-title: "Exchange-Traded Funds for Contrarian Investments During Turkish Economic Crisis (Algo Trading)"
+title: "Exchange-Traded Funds for Contrarian Investments During Turkish Economic Crisis"
 description: "Explore contrarian investing with Turkey ETFs during economic crises highlighting algorithmic trading's role in maximizing potential returns amidst market volatility."
 ---
 

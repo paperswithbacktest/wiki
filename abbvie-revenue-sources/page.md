@@ -1,5 +1,5 @@
 ---
-title: "AbbVie's Revenue Sources (Algo Trading)"
+title: "AbbVie's Revenue Sources"
 description: "Explore AbbVie's diverse revenue sources from blockbuster drugs and acquisitions like Allergan. Learn how algorithmic trading influences investment decisions in the industry."
 ---
 

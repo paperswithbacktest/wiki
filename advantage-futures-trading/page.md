@@ -1,5 +1,5 @@
 ---
-title: "Advantage Futures Trading (Algo Trading)"
+title: "Advantage Futures Trading"
 description: "Discover the benefits of algorithmic futures trading with Advantage Futures Uncover how automation enhances speed precision and decision-making in trading strategies"
 ---
 

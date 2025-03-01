@@ -1,5 +1,5 @@
 ---
-title: "market reaction modeling (Algo Trading)"
+title: "market reaction modeling"
 description: "Explore market reaction modeling in algorithmic trading and its role in predicting and responding to market events enhancing trading precision and efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Dividend Policy (Algo Trading)"
+title: "Dividend Policy"
 description: "Explore how dividend policy can enhance investment strategies and corporate finance by maximizing dividends through algorithmic trading for consistent income."
 ---
 

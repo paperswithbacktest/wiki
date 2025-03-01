@@ -1,5 +1,5 @@
 ---
-title: "Generalized autoregressive conditional heteroskedasticity (GARCH) model (Algo Trading)"
+title: "Generalized autoregressive conditional heteroskedasticity (GARCH) model"
 description: Explore the GARCH model, a critical tool in algorithmic trading, for predicting market volatility. Learn how its advanced framework enhances risk management and trading strategies by capturing time-varying volatility in financial markets. Ideal for quantitative analysts, this model's adaptability continues to impact econometrics and trading algorithms, offering competitive advantages in volatile market environments. Discover its history, from its development by Tim Bollerslev to its practical applications in modern trading scenarios. Understand why GARCH models are indispensable for informed decision-making in financial contexts.
 ---
 

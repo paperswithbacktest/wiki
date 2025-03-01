@@ -1,5 +1,5 @@
 ---
-title: "How Debt Can Generate Income (Algo Trading)"
+title: "How Debt Can Generate Income"
 description: "Explore how debt strategies can generate income alongside algorithmic trading techniques to optimize financial growth and ensure long-term success."
 ---
 

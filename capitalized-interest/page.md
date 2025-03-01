@@ -1,5 +1,5 @@
 ---
-title: "Capitalized Interest (Algo Trading)"
+title: "Capitalized Interest"
 description: "Explore the intricate world of finance, focusing on capitalized interest and algorithmic trading, and learn their impact on financial planning and asset management."
 ---
 

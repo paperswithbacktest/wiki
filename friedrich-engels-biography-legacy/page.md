@@ -1,5 +1,5 @@
 ---
-title: "Friedrich Engels: Biography and Legacy (Algo Trading)"
+title: "Friedrich Engels: Biography and Legacy"
 description: "Explore the philosophical and economic contributions of Friedrich Engels in Marxist theory alongside today's algorithmic trading contrasting traditional capitalism."
 ---
 

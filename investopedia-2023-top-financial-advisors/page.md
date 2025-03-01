@@ -1,5 +1,5 @@
 ---
-title: "Investopedia's 2023 List of Top Financial Advisors (Algo Trading)"
+title: "Investopedia's 2023 List of Top Financial Advisors"
 description: "Explore 2023's top financial advisors blending traditional methods with cutting-edge algorithmic trading Learn how Investopedia highlights these industry leaders"
 ---
 

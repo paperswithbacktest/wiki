@@ -1,5 +1,5 @@
 ---
-title: "High-Speed Data Feed: Overview and Functionality (Algo Trading)"
+title: "High-Speed Data Feed: Overview and Functionality"
 description: "Boost algorithmic trade success with ultra-fast data feeds providing real-time market insights and minimal latency essential for risk management and profitability."
 ---
 

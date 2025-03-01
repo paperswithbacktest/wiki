@@ -1,5 +1,5 @@
 ---
-title: "The Bond Buyer: Overview, Legal Notices, And FAQs (Algo Trading)"
+title: "The Bond Buyer: Overview, Legal Notices, And FAQs"
 description: "Discover the intricate world of bond buying as legal notices shape algorithmic trading strategies Essential for navigating today's dynamic financial landscape"
 ---
 

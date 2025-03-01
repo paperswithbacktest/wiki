@@ -1,5 +1,5 @@
 ---
-title: "John Ramsay (Profile) (Algo Trading)"
+title: "John Ramsay (Profile)"
 description: "John Ramsay is a leading expert in market policy, aiding significantly in shaping modern financial markets and promoting transparency and fairness at IEX."
 ---
 

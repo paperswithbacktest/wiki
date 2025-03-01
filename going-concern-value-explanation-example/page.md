@@ -1,5 +1,5 @@
 ---
-title: "Going-Concern Value Explanation and Example (Algo Trading)"
+title: "Going-Concern Value Explanation and Example"
 description: "Explore the importance of going-concern value in corporate finance and algorithmic trading to enhance business valuation, decision-making, and strategic planning."
 ---
 

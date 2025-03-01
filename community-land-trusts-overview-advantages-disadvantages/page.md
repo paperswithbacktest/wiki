@@ -1,5 +1,5 @@
 ---
-title: "Community Land Trusts: Overview, Advantages, and Disadvantages (Algo Trading)"
+title: "Community Land Trusts: Overview, Advantages, and Disadvantages"
 description: "Discover how Community Land Trusts (CLTs) offer a sustainable solution to urban housing challenges by ensuring long-term affordability and promoting social equity. Explore their unique land ownership model which separates land and home ownership to prevent speculation and stabilize communities. Learn about the benefits and potential of CLTs, including the innovative integration of algorithmic trading to enhance real estate investment and financial sustainability. This insightful article investigates into CLTs' impact on affordable housing and community development to provide a comprehensive understanding for urban planners, policymakers, and communities."
 ---
 

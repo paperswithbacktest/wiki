@@ -1,5 +1,5 @@
 ---
-title: "Form 4562: Depreciation and Amortization (Algo Trading)"
+title: "Form 4562: Depreciation and Amortization"
 description: "Optimize algo trading strategies with Form 4562. Leverage depreciation and amortization to enhance returns and tax efficiency in dynamic financial markets."
 ---
 

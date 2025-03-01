@@ -1,5 +1,5 @@
 ---
-title: "Currency Risk Sharing (Algo Trading)"
+title: "Currency Risk Sharing"
 description: "Explore the vital role of currency risk sharing and algorithmic trading strategies in optimizing international trade and enhancing financial stability for businesses."
 ---
 

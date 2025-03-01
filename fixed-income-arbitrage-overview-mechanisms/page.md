@@ -1,5 +1,5 @@
 ---
-title: "Fixed-Income Arbitrage: Overview and Mechanisms (Algo Trading)"
+title: "Fixed-Income Arbitrage: Overview and Mechanisms"
 description: "Explore the art of fixed-income arbitrage in this article on algorithmic trading uncovering strategies for seizing market opportunities with skill and innovation."
 ---
 

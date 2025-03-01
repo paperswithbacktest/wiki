@@ -1,5 +1,5 @@
 ---
-title: "Floating Production Storage and Offloading (Algo Trading)"
+title: "Floating Production Storage and Offloading"
 description: "Discover how Floating Production Storage and Offloading systems optimize oil extraction with marine engineering and algorithmic trading for enhanced efficiency."
 ---
 

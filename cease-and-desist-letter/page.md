@@ -1,5 +1,5 @@
 ---
-title: "Cease and Desist Letter (Algo Trading)"
+title: "Cease and Desist Letter"
 description: "Explore the importance of cease and desist letters in protecting intellectual property within algorithmic trading to maintain competitive advantage and innovation."
 ---
 

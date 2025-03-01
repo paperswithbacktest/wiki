@@ -1,5 +1,5 @@
 ---
-title: "Effective Indicators for MACD Enhancement (Algo Trading)"
+title: "Effective Indicators for MACD Enhancement"
 description: "Optimize your MACD trading strategies with insights into its components and applications in algorithmic trading Enhance your buy and sell signals today"
 ---
 

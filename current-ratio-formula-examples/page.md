@@ -1,5 +1,5 @@
 ---
-title: "Current Ratio: Formula and Examples (Algo Trading)"
+title: "Current Ratio: Formula and Examples"
 description: "Discover how the current ratio formula offers key financial insights and aids in making informed investment choices. Explore its role in assessing liquidity, guiding algorithmic trading, and evaluating a company's financial health within the context of industry standards. Understanding these financial metrics can enhance trading strategies and provide a competitive edge in dynamic markets."
 ---
 

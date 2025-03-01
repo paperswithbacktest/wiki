@@ -1,5 +1,5 @@
 ---
-title: "Ceteris Paribus in Economics (Algo Trading)"
+title: "Ceteris Paribus in Economics"
 description: "Discover how the concept of ceteris paribus in economic theory is integrated into algorithmic trading to enhance strategies and predict market behaviors."
 ---
 

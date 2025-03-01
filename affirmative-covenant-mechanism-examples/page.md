@@ -1,5 +1,5 @@
 ---
-title: "Affirmative Covenant: Definition, Mechanism, and Examples (Algo Trading)"
+title: "Affirmative Covenant: Definition, Mechanism, and Examples"
 description: "Explore the importance of affirmative covenants in algorithmic trading, highlighting their role in legal agreements for ensuring compliance and managing financial risks."
 ---
 

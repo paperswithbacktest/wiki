@@ -1,5 +1,5 @@
 ---
-title: "Bear Stearns Acquisition by JPMorgan Chase During the 2008 Financial Crisis (Algo Trading)"
+title: "Bear Stearns Acquisition by JPMorgan Chase During the 2008 Financial Crisis"
 description: "Explore the pivotal 2008 financial crisis that led to Bear Stearns' acquisition by JPMorgan Chase, examining the impacts of algorithmic trading on market dynamics."
 ---
 

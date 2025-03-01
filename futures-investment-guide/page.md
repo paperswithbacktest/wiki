@@ -1,5 +1,5 @@
 ---
-title: "Futures Investment Guide (Algo Trading)"
+title: "Futures Investment Guide"
 description: "Explore the dynamic world of futures trading with a focus on algorithmic strategies Learn how to leverage algorithms to enhance speed precision and trading success"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Synthetic and Physical ETFs (Algo Trading)"
+title: "Differences Between Synthetic and Physical ETFs"
 description: "Discover the crucial differences between synthetic and physical ETFs and their roles in algo trading. Learn about their structures, benefits, and risks."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Boundary Conditions and Their Functionality (Algo Trading)"
+title: "Boundary Conditions and Their Functionality"
 description: "Optimize your algorithmic trading strategies by understanding the crucial role of boundary conditions in defining operational limits and managing market complexities."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Accumulated Benefit Obligation (Algo Trading)"
+title: "Accumulated Benefit Obligation"
 description: "Explore the importance of Accumulated Benefit Obligation (ABO) in understanding pension liabilities. Learn how ABO impacts financial planning and pension accounting."
 ---
 

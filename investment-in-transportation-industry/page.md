@@ -1,5 +1,5 @@
 ---
-title: "Investment in the Transportation Industry (Algo Trading)"
+title: "Investment in the Transportation Industry"
 description: "Explore investment opportunities in the evolving transportation industry powered by algorithmic trading. Discover how advanced strategies optimize returns in this dynamic sector."
 ---
 

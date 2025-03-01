@@ -1,5 +1,5 @@
 ---
-title: "House Money Effect (Algo Trading)"
+title: "House Money Effect"
 description: "Explore the House Money Effect a key concept in behavioral finance that impacts investor risk-taking behavior and decision-making with algorithmic trading systems."
 ---
 

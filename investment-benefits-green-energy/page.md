@@ -1,5 +1,5 @@
 ---
-title: "Investment Benefits in Green Energy (Algo Trading)"
+title: "Investment Benefits in Green Energy"
 description: "Explore the benefits of investing in green energy and algorithmic trading in our latest article Learn how these trends offer financial and environmental gains"
 ---
 

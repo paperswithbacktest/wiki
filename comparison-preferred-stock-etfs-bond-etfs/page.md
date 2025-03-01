@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Preferred Stock ETFs and Bond ETFs (Algo Trading)"
+title: "Comparison of Preferred Stock ETFs and Bond ETFs"
 description: "Discover the pros and cons of preferred stock and bond ETFs, exploring their characteristics, advantages, and the role of algorithmic trading in building robust portfolios."
 ---
 

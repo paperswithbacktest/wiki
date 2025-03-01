@@ -1,5 +1,5 @@
 ---
-title: "Demand Destruction: Analysis and Implications (Algo Trading)"
+title: "Demand Destruction: Analysis and Implications"
 description: "Explore the intricate link between demand destruction and algorithmic trading Discover how their interactions shape global economics and market dynamics"
 ---
 

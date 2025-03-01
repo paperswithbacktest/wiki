@@ -1,5 +1,5 @@
 ---
-title: "MBA Refinance Index (Algo Trading)"
+title: "MBA Refinance Index"
 description: "Explore the key factors influencing mortgage refinancing and learn how algorithmic trading impacts the MBA Refinance Index and the broader mortgage market."
 ---
 

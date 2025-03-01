@@ -1,5 +1,5 @@
 ---
-title: "How Much Does a Dollar Doubled Every Day for a Month End Up Being? (Algo Trading)"
+title: "How Much Does a Dollar Doubled Every Day for a Month End Up Being?"
 description: Discover the exponential potential of compounding in this comprehensive exploration of doubling a dollar every day for a month. Understand how this dramatic growth parallels algorithmic trading strategies that leverage compounding to maximize returns. Delve into the mathematical principles and practical implications of this financial phenomenon, illustrating the transformative power of consistent reinvestment and strategic trading.
 ---
 

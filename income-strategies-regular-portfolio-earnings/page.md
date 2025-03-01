@@ -1,5 +1,5 @@
 ---
-title: "Income Strategies for Regular Portfolio Earnings (Algo Trading)"
+title: "Income Strategies for Regular Portfolio Earnings"
 description: "Discover effective income strategies for portfolio earnings with algo trading. Learn how diversification and technology enhance returns for financial growth and stability."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Controlling Interest: Definition, Benefits, and Examples (Algo Trading)"
+title: "Controlling Interest: Definition, Benefits, and Examples"
 description: "Explore the definition and benefits of controlling interest in corporate governance, its impact on strategic decisions, and its interplay with algorithmic trading."
 ---
 

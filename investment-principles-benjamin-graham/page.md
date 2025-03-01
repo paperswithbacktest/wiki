@@ -1,5 +1,5 @@
 ---
-title: "Investment Principles of Benjamin Graham (Algo Trading)"
+title: "Investment Principles of Benjamin Graham"
 description: "Explore Benjamin Graham's timeless investment principles adapted to modern algorithmic trading techniques to spot undervalued stocks and leverage market volatility."
 ---
 

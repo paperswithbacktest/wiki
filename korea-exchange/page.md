@@ -1,5 +1,5 @@
 ---
-title: "Korea Exchange (Algo Trading)"
+title: "Korea Exchange"
 description: "Explore the Korea Exchange's role in South Korea's financial sector including insights on algorithmic trading's impact on market efficiency and global relevance."
 ---
 

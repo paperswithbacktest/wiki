@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Market and Limit Orders (Algo Trading)"
+title: "Comparison of Market and Limit Orders"
 description: "Discover the distinctions between market and limit orders in algorithmic trading Understand their advantages disadvantages and how they impact your investment strategy"
 ---
 

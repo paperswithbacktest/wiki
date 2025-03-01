@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Investing and Trading (Algo Trading)"
+title: "Differences Between Investing and Trading"
 description: "Explore the contrasts between investing and trading, focusing on strategies like technical and fundamental analysis and the rise of algorithmic trading."
 ---
 

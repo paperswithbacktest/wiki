@@ -1,5 +1,5 @@
 ---
-title: "Master-Servant Rule (Algo Trading)"
+title: "Master-Servant Rule"
 description: "Explore the Master-Servant Rule in employment law and its impact on algorithmic trading examining liability challenges and modern legal complexities."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Cantor Fitzgerald (Algo Trading)"
+title: "Cantor Fitzgerald"
 description: "Cantor Fitzgerald excels in financial services, offering advanced algorithmic trading solutions that enhance efficiency, precision, and customization for institutional clients."
 ---
 

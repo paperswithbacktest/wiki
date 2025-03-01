@@ -1,5 +1,5 @@
 ---
-title: "Adverse Selection in Trading (Algo Trading)"
+title: "Adverse Selection in Trading"
 description: "Explore adverse selection in algorithmic trading, where uneven information access can lead to financial imbalances, impacting market fairness and efficiency."
 ---
 

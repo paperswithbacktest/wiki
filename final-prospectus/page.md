@@ -1,5 +1,5 @@
 ---
-title: "Final Prospectus (Algo Trading)"
+title: "Final Prospectus"
 description: "Explore the key elements of a final prospectus in algorithmic trading and learn how financial documents shape modern investment strategies and risk assessment."
 ---
 

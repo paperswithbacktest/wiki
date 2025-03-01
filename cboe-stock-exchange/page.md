@@ -1,5 +1,5 @@
 ---
-title: "CBOE Stock Exchange (Algo Trading)"
+title: "CBOE Stock Exchange"
 description: "Discover the impact and legacy of the CBOE Stock Exchange, a pioneer in electronic trading since 2007, shaping modern algorithmic trading strategies."
 ---
 

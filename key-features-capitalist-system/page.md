@@ -1,5 +1,5 @@
 ---
-title: "Key Features of a Capitalist System (Algo Trading)"
+title: "Key Features of a Capitalist System"
 description: "Explore the synergy between capitalism and algorithmic trading shaping modern financial markets. Discover how tech-driven strategies optimize market efficiency."
 ---
 

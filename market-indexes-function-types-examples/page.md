@@ -1,5 +1,5 @@
 ---
-title: "Market Indexes: Function, Types, and Examples (Algo Trading)"
+title: "Market Indexes: Function, Types, and Examples"
 description: "Discover the vital role of market indices and algorithmic trading in finance Learn how these tools shape investment strategies and industry practices"
 ---
 

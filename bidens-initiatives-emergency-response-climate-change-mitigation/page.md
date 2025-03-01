@@ -1,5 +1,5 @@
 ---
-title: "Biden's Initiatives for Emergency Response and Climate Change Mitigation (Algo Trading)"
+title: "Biden's Initiatives for Emergency Response and Climate Change Mitigation"
 description: "Explore Biden's climate strategies and algorithmic trading's role in combating climate change by promoting resilient communities and sustainable investments."
 ---
 

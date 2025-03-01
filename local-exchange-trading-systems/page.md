@@ -1,5 +1,5 @@
 ---
-title: "Local Exchange Trading Systems (Algo Trading)"
+title: "Local Exchange Trading Systems"
 description: "Explore modern trading systems, including LETS and algorithmic trading. Learn how these systems offer alternatives to traditional trading and promote local economies."
 ---
 

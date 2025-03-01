@@ -1,5 +1,5 @@
 ---
-title: "Choosing a Financial Advisor (Algo Trading)"
+title: "Choosing a Financial Advisor"
 description: "Explore the benefits of choosing a financial advisor for personalized investment guidance and how algorithmic trading is revolutionizing financial market strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Clearing House Electronic Subregister System (Algo Trading)"
+title: "Clearing House Electronic Subregister System"
 description: "Explore how CHESS, operated by the ASX, revolutionizes securities transactions and supports algorithmic trading, enhancing efficiency and security in financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Google Tax: Overview and Mechanism (Algo Trading)"
+title: "Google Tax: Overview and Mechanism"
 description: "Explore the impact of Google Tax on digital taxation and its implications for algorithmic trading. Learn how these regulations affect global business practices."
 ---
 

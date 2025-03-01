@@ -1,5 +1,5 @@
 ---
-title: "Impact of Financial Leverage on Earnings Per Share (Algo Trading)"
+title: "Impact of Financial Leverage on Earnings Per Share"
 description: "Explore the impact of financial leverage on earnings per share and its significance for algorithmic trading strategies in analyzing market fluctuations."
 ---
 

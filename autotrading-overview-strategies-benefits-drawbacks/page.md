@@ -1,5 +1,5 @@
 ---
-title: "Autotrading: Overview, Strategies, Benefits, and Drawbacks (Algo Trading)"
+title: "Autotrading: Overview, Strategies, Benefits, and Drawbacks"
 description: "Explore the world of autotrading to understand its strategies benefits and drawbacks Learn how algorithmic systems can optimize trading while minimizing risks"
 ---
 

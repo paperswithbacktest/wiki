@@ -1,5 +1,5 @@
 ---
-title: "Chow-type Dickey-Fuller test (Algo Trading)"
+title: "Chow-type Dickey-Fuller test"
 description: Explore the role of the Chow-Type Dickey-Fuller Test in algorithmic trading to detect market explosiveness and speculative bubbles. Understand its theoretical foundations, practical applications, and implementation using Python to enhance trading strategies by identifying potential regime shifts and unsustainable market conditions.
 ---
 

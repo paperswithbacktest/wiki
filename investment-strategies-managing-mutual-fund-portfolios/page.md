@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategies for Managing Mutual Fund Portfolios (Algo Trading)"
+title: "Investment Strategies for Managing Mutual Fund Portfolios"
 description: "Explore effective investment strategies combining mutual funds portfolio management and algorithmic trading to maximize returns and manage risks efficiently."
 ---
 

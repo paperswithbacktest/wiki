@@ -1,5 +1,5 @@
 ---
-title: "Accommodative Monetary Policy and Examples (Algo Trading)"
+title: "Accommodative Monetary Policy and Examples"
 description: "Explore how accommodative monetary policy, with low interest rates, impacts algorithmic trading, shaping market dynamics and economic opportunities."
 ---
 

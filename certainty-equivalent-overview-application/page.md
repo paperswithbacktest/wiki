@@ -1,5 +1,5 @@
 ---
-title: "Certainty Equivalent Overview and Application (Algo Trading)"
+title: "Certainty Equivalent Overview and Application"
 description: "Explore the concept of certainty equivalent in finance and its role in risk management and algorithmic trading to enhance decision-making and optimize strategies."
 ---
 

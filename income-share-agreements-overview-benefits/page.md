@@ -1,5 +1,5 @@
 ---
-title: "Income Share Agreements: Overview and Benefits (Algo Trading)"
+title: "Income Share Agreements: Overview and Benefits"
 description: "Explore Income Share Agreements and their benefits in education financing Learn how ISAs offer a flexible alternative to traditional loans and investment opportunities"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Blackout Period in Finance: Rules and Examples (Algo Trading)"
+title: "Blackout Period in Finance: Rules and Examples"
 description: "Learn about blackout periods in finance rules and examples, their impact on trading, regulatory compliance, and how algorithmic trading adapts during these times."
 ---
 

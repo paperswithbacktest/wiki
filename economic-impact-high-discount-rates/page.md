@@ -1,5 +1,5 @@
 ---
-title: "Economic Impact of High Discount Rates (Algo Trading)"
+title: "Economic Impact of High Discount Rates"
 description: "Explore the interaction between high discount rates and algorithmic trading in today's economy Discover how these elements impact market dynamics and investment decisions"
 ---
 

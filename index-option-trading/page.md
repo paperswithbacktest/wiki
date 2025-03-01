@@ -1,5 +1,5 @@
 ---
-title: "Index Option Trading (Algo Trading)"
+title: "Index Option Trading"
 description: "Explore index option trading and algo trading to enhance your investment strategy with diversification and high-speed executions in the evolving financial market."
 ---
 

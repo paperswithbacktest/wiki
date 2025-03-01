@@ -1,5 +1,5 @@
 ---
-title: "China Foreign Exchange Trade System Overview (Algo Trading)"
+title: "China Foreign Exchange Trade System Overview"
 description: "Explore the pivotal role of the China Foreign Exchange Trade System as it drives algorithmic trading and innovation in China's currency markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Dividend Payment Practices of Companies (Algo Trading)"
+title: "Dividend Payment Practices of Companies"
 description: "Explore how dividends corporate finance and algorithmic trading impact investor strategies and firm value Discover insights into optimizing shareholder wealth"
 ---
 

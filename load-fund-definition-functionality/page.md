@@ -1,5 +1,5 @@
 ---
-title: "Load Fund: Definition and Functionality (Algo Trading)"
+title: "Load Fund: Definition and Functionality"
 description: "Explore the dynamic role of load funds and algorithmic trading in today's financial strategies Learn how they enhance portfolio management through advanced techniques"
 ---
 

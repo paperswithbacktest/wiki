@@ -1,5 +1,5 @@
 ---
-title: "Major Holdings in Warren Buffett's Investment Portfolio (Algo Trading)"
+title: "Major Holdings in Warren Buffett's Investment Portfolio"
 description: "Discover Warren Buffett's major stock holdings in Berkshire Hathaway's diverse portfolio. Learn about value investing principles and the role of algo trading."
 ---
 

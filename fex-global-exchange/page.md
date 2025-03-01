@@ -1,5 +1,5 @@
 ---
-title: "FEX Global Exchange (Algo Trading)"
+title: "FEX Global Exchange"
 description: "Explore FEX Global's innovative algo trading platform for commodities and derivatives Streamline your trading with advanced algorithms for optimal results"
 ---
 

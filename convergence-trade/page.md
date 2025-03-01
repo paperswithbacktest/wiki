@@ -1,5 +1,5 @@
 ---
-title: "Convergence trade (Algo Trading)"
+title: "Convergence trade"
 description: Convergence trading, a key strategy in algorithmic trading, focuses on buying and selling similar assets with the expectation their prices will align over time. This method leverages temporary price discrepancies in economically related assets, enhancing market efficiency by correcting anomalies. By using precise computer algorithms, traders identify and exploit these discrepancies quickly, capitalizing on historical price patterns and asset relationships. Convergence trading, differing from pure arbitrage due to its inherent risks, relies on algorithmic efficiency to manage trades systematically, reducing human error and optimizing profitability while facing challenges from potential systemic failures and market irrationality.
 ---
 

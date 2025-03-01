@@ -1,5 +1,5 @@
 ---
-title: "Elinor Ostrom: Biography, Contributions, and Theories (Algo Trading)"
+title: "Elinor Ostrom: Biography, Contributions, and Theories"
 description: "Explore Elinor Ostrom's groundbreaking theories on managing common pool resources sustainably and how they can inform algorithmic trading governance today."
 ---
 

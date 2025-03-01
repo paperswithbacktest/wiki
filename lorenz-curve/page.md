@@ -1,5 +1,5 @@
 ---
-title: "Lorenz Curve (Algo Trading)"
+title: "Lorenz Curve"
 description: "Explore income inequality the Lorenz curve and algorithmic trading with insights into economic distribution shaping policies in today's financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Impact of Commodities Speculators (Algo Trading)"
+title: "Impact of Commodities Speculators"
 description: "Explore the impact of speculators and algorithmic trading on commodities markets Uncover their influence on market efficiency price discovery and liquidity"
 ---
 

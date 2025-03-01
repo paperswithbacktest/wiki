@@ -1,5 +1,5 @@
 ---
-title: "Dividend Drag: Causes and Examples (Algo Trading)"
+title: "Dividend Drag: Causes and Examples"
 description: "Explore the impact of dividend drag on investment returns and discover how algorithmic trading strategies can help mitigate its effects for better portfolio performance."
 ---
 

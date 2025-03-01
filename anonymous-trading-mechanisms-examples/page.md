@@ -1,5 +1,5 @@
 ---
-title: "Anonymous Trading: Mechanisms and Examples (Algo Trading)"
+title: "Anonymous Trading: Mechanisms and Examples"
 description: "Explore mechanisms of anonymous trading and examples in algo trading Discover how technology-driven systems provide speed anonymity and efficiency in financial markets"
 ---
 

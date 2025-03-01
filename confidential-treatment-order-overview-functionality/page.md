@@ -1,5 +1,5 @@
 ---
-title: "Confidential Treatment Order: Overview and Functionality (Algo Trading)"
+title: "Confidential Treatment Order: Overview and Functionality"
 description: "Confidential Treatment Orders are vital tools in financial regulations allowing firms, particularly in algorithmic trading, to protect sensitive data and strategies."
 ---
 

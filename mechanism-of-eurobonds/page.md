@@ -1,5 +1,5 @@
 ---
-title: "Mechanism of Eurobonds (Algo Trading)"
+title: "Mechanism of Eurobonds"
 description: "Discover how Eurobonds and algorithmic trading are transforming global finance by enhancing market liquidity, accessibility, and efficiency for investors and issuers."
 ---
 

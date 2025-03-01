@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Mortgage and Paying Cash for Real Estate (Algo Trading)"
+title: "Comparison of Mortgage and Paying Cash for Real Estate"
 description: "Explore the benefits and drawbacks of mortgages and cash in real estate, with insights into leveraging algorithmic trading to optimize property investment strategies."
 ---
 

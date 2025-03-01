@@ -1,5 +1,5 @@
 ---
-title: "Gross Interest: Definition and Functionality (Algo Trading)"
+title: "Gross Interest: Definition and Functionality"
 description: "Discover the essentials of gross interest and its role in algorithmic trading Understand how gross interest impacts financial decisions and enhances trading strategies"
 ---
 

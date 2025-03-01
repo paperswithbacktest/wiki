@@ -1,5 +1,5 @@
 ---
-title: "Impact of OPEC on Global Oil Prices (Algo Trading)"
+title: "Impact of OPEC on Global Oil Prices"
 description: "Explore the impact of OPEC on global oil prices and the transformative role of algorithmic trading in the oil market. Understand how OPEC's strategic decisions influence pricing and the advanced methods traders use to respond to these changes."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Activist Investors: Roles and Major Figures (Algo Trading)"
+title: "Activist Investors: Roles and Major Figures"
 description: "Explore the dynamic roles of activist investors in shaping company strategies and delve into the world of algorithmic trading with insights from industry leaders."
 ---
 

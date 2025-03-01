@@ -1,5 +1,5 @@
 ---
-title: "Law of Diminishing Marginal Utility (Algo Trading)"
+title: "Law of Diminishing Marginal Utility"
 description: "Explore the intersection of diminishing marginal utility, consumer behavior, and algorithmic trading to understand market trends and enhance trading strategies."
 ---
 

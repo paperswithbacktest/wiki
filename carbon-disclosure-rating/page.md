@@ -1,5 +1,5 @@
 ---
-title: "Carbon Disclosure Rating (Algo Trading)"
+title: "Carbon Disclosure Rating"
 description: "Explore the intersection of sustainability and algorithmic trading with insights into carbon disclosure and environmental impact in today's financial markets."
 ---
 

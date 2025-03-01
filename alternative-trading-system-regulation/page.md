@@ -1,5 +1,5 @@
 ---
-title: "Alternative Trading System Regulation (Algo Trading)"
+title: "Alternative Trading System Regulation"
 description: "Explore the evolving regulation of Alternative Trading Systems in algo trading, focusing on key aspects like market liquidity, efficiency, and regulatory balance."
 ---
 

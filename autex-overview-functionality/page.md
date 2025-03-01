@@ -1,5 +1,5 @@
 ---
-title: "Autex: Overview and Functionality (Algo Trading)"
+title: "Autex: Overview and Functionality"
 description: "Discover how Autex revolutionizes algorithmic trading by offering seamless broker-client communication, insights on liquidity, and efficient trade execution."
 ---
 

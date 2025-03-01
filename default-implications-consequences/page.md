@@ -1,5 +1,5 @@
 ---
-title: "Default: Implications and Consequences (Algo Trading)"
+title: "Default: Implications and Consequences"
 description: "Explore the impacts of financial defaults on algorithmic trading and investment strategies while learning to manage risks in today's dynamic financial landscape."
 ---
 

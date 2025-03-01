@@ -1,5 +1,5 @@
 ---
-title: "Investment Management Division (Algo Trading)"
+title: "Investment Management Division"
 description: "Explore algorithmic trading within investment management and asset management divisions Learn how technology transforms strategies for efficient investment solutions"
 ---
 

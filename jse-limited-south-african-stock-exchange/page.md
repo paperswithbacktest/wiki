@@ -1,5 +1,5 @@
 ---
-title: "JSE Limited: South African Stock Exchange (Algo Trading)"
+title: "JSE Limited: South African Stock Exchange"
 description: "Explore the Johannesburg Stock Exchange, Africa's largest exchange offering a wide range of financial products and pioneering algorithmic trading technology."
 ---
 

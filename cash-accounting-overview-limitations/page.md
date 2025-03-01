@@ -1,5 +1,5 @@
 ---
-title: "Cash Accounting: Overview and Limitations (Algo Trading)"
+title: "Cash Accounting: Overview and Limitations"
 description: "Discover the pros and cons of cash accounting and its impact on algorithmic trading Understand how this method can affect financial management and decision-making"
 ---
 

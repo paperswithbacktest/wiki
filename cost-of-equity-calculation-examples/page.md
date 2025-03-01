@@ -1,5 +1,5 @@
 ---
-title: "Cost of Equity: Calculation and Examples (Algo Trading)"
+title: "Cost of Equity: Calculation and Examples"
 description: "Explore the cost of equity as a key financial metric essential for companies and investors to assess investment decisions using models like CAPM and DDM."
 ---
 

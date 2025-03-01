@@ -1,5 +1,5 @@
 ---
-title: "Hard Money and Its Uses (Algo Trading)"
+title: "Hard Money and Its Uses"
 description: "Discover how hard money and algorithmic trading redefine modern investment strategies highlighting stability innovation and precision for optimizing returns."
 ---
 

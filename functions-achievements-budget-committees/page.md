@@ -1,5 +1,5 @@
 ---
-title: "Functions and Achievements of Budget Committees (Algo Trading)"
+title: "Functions and Achievements of Budget Committees"
 description: "Explore the crucial roles and accomplishments of budget committees in guiding fiscal responsibility and supporting algorithmic trading within organizations."
 ---
 

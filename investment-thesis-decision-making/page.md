@@ -1,5 +1,5 @@
 ---
-title: "Investment Thesis in Decision-Making (Algo Trading)"
+title: "Investment Thesis in Decision-Making"
 description: "Explore essential concepts in decision-making for investment and algorithmic trading Learn to craft strategies and develop theses with this comprehensive guide"
 ---
 

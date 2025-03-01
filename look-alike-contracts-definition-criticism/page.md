@@ -1,5 +1,5 @@
 ---
-title: "Look-Alike Contracts: Definition and Criticism (Algo Trading)"
+title: "Look-Alike Contracts: Definition and Criticism"
 description: "Explore the essential role of look-alike contracts in algorithmic trading examining their efficiency, simplicity, and potential misalignments within diverse trends."
 ---
 

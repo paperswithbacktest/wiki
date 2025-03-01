@@ -1,5 +1,5 @@
 ---
-title: "Capabilities and Limitations of Robo-Advisors for Investors (Algo Trading)"
+title: "Capabilities and Limitations of Robo-Advisors for Investors"
 description: "Explore the advantages and limitations of robo-advisors and algorithmic trading to make informed investment decisions using cutting-edge financial technology."
 ---
 

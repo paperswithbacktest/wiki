@@ -1,5 +1,5 @@
 ---
-title: "Land Flipping: Meaning, Risks, and Examples (Algo Trading)"
+title: "Land Flipping: Meaning, Risks, and Examples"
 description: "Explore the world of real estate investment with insights on land flipping and algorithmic trading. Learn about their potential rewards and inherent risks."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Fixed-Income Securities: Types and Examples (Algo Trading)"
+title: "Fixed-Income Securities: Types and Examples"
 description: "Explore fixed-income securities and bond types, enhanced by algorithmic trading insights This article uncovers how these assets offer investors stable returns"
 ---
 

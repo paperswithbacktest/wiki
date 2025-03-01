@@ -1,5 +1,5 @@
 ---
-title: "Direct Bidder: Mechanism and Limitations (Algo Trading)"
+title: "Direct Bidder: Mechanism and Limitations"
 description: "Explore direct bidder auctions and their limitations compared to algorithmic trading highlighting the impact on investment strategies and market efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Average Profit Margin in the Electronics Industry (Algo Trading)"
+title: "Average Profit Margin in the Electronics Industry"
 description: "Explore the average profit margins in the electronics industry and the impact of algorithmic trading. Understand how these factors shape modern business finance."
 ---
 

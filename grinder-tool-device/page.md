@@ -1,5 +1,5 @@
 ---
-title: "Grinder (Tool or Device) (Algo Trading)"
+title: "Grinder (Tool or Device)"
 description: "Explore the Device Grinder Tool in algorithmic trading focusing on small incremental gains through high-frequency trades for consistent profit in dynamic markets."
 ---
 

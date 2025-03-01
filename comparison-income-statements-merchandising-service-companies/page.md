@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Income Statements: Merchandising and Service Companies (Algo Trading)"
+title: "Comparison of Income Statements: Merchandising and Service Companies"
 description: "Explore the differences in income statements between merchandising and service companies to enhance financial insights for algorithmic trading and business analysis."
 ---
 

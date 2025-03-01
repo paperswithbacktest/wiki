@@ -1,5 +1,5 @@
 ---
-title: "Efficient Techniques for Reading Annual Reports (Algo Trading)"
+title: "Efficient Techniques for Reading Annual Reports"
 description: "Explore efficient techniques for analyzing annual reports in algorithmic trading to make informed investment decisions and enhance trading strategies."
 ---
 

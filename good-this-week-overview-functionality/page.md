@@ -1,5 +1,5 @@
 ---
-title: "Good This Week: Overview and Functionality (Algo Trading)"
+title: "Good This Week: Overview and Functionality"
 description: "Explore the role of Good This Week orders in algorithmic trading to enhance efficiency. Learn the benefits and best practices to optimize short-term strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Key Considerations Before Investing in a Startup (Algo Trading)"
+title: "Key Considerations Before Investing in a Startup"
 description: "Explore key considerations before investing in startups and algorithmic trading Learn about risks involvement timeframes potential returns and exit strategies"
 ---
 

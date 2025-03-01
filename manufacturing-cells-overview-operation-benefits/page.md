@@ -1,5 +1,5 @@
 ---
-title: "Manufacturing Cells: Overview, Operation, and Benefits (Algo Trading)"
+title: "Manufacturing Cells: Overview, Operation, and Benefits"
 description: "Discover the transformative impact of manufacturing cells and algorithmic trading on industrial efficiency and financial systems driving innovation and productivity."
 ---
 

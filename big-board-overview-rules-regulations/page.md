@@ -1,5 +1,5 @@
 ---
-title: "Big Board: Overview, Rules, and Regulations (Algo Trading)"
+title: "Big Board: Overview, Rules, and Regulations"
 description: "Explore the intricacies of algorithmic trading on the NYSE Big Board with insights into regulations key rules and evolving technologies shaping the financial landscape."
 ---
 

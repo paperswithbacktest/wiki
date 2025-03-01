@@ -1,5 +1,5 @@
 ---
-title: "Labor Demand Forecasting in Human Resources Planning (Algo Trading)"
+title: "Labor Demand Forecasting in Human Resources Planning"
 description: "Explore how labor demand forecasting enhances human resources planning using predictive analytics and algorithmic trading techniques for strategic workforce alignment."
 ---
 

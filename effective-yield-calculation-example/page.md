@@ -1,5 +1,5 @@
 ---
-title: "Effective Yield: Calculation and Example (Algo Trading)"
+title: "Effective Yield: Calculation and Example"
 description: "Understand the concept of effective yield in algo trading. Learn its calculation and importance in modern finance for maximizing investment returns."
 ---
 

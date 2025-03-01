@@ -1,5 +1,5 @@
 ---
-title: "Indonesian Rupiah: Overview and History (Algo Trading)"
+title: "Indonesian Rupiah: Overview and History"
 description: "Explore the evolution of the Indonesian Rupiah and how algorithmic trading shapes its dynamics understanding its historical impact on Asia's financial landscape."
 ---
 

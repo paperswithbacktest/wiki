@@ -1,5 +1,5 @@
 ---
-title: "Bullet Bond Versus Amortizing Bond: Overview and Examples (Algo Trading)"
+title: "Bullet Bond Versus Amortizing Bond: Overview and Examples"
 description: "Explore the differences between bullet and amortizing bonds and learn how algorithmic trading influences bond investments for balanced portfolios."
 ---
 

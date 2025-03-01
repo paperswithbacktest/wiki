@@ -1,5 +1,5 @@
 ---
-title: "Instant History Bias: Definition, Mechanism, and Examples (Algo Trading)"
+title: "Instant History Bias: Definition, Mechanism, and Examples"
 description: "Explore the mechanisms and effects of instant history bias in algorithmic trading Learn how cognitive distortions impact trading models and investor expectations"
 ---
 

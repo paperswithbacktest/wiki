@@ -1,5 +1,5 @@
 ---
-title: "Behavioral Finance in Algo Trading (Algo Trading)"
+title: "Behavioral Finance in Algo Trading"
 description: "Explore the fusion of behavioral finance and algorithmic trading Learn how cognitive biases like overconfidence impact markets and optimize trading strategies"
 ---
 

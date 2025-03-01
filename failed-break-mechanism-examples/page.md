@@ -1,5 +1,5 @@
 ---
-title: "Failed Break: Mechanism and Examples (Algo Trading)"
+title: "Failed Break: Mechanism and Examples"
 description: "Explore failed breakouts in algorithmic trading analyzing factors that cause them and how traders can leverage these insights to improve trading strategies."
 ---
 

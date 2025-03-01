@@ -1,5 +1,5 @@
 ---
-title: "Currency Day Trading System (Algo Trading)"
+title: "Currency Day Trading System"
 description: "Explore the world of currency day trading systems and discover how technology integrates with strategies for improved outcomes in algo trading markets."
 ---
 

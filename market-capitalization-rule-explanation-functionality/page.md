@@ -1,5 +1,5 @@
 ---
-title: "Market Capitalization Rule: Explanation and Functionality (Algo Trading)"
+title: "Market Capitalization Rule: Explanation and Functionality"
 description: "Discover how market capitalization influences investment strategies through algo trading and financial rules Learn to balance risk and opportunity for success"
 ---
 

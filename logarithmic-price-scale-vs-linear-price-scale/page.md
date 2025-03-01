@@ -1,5 +1,5 @@
 ---
-title: "Logarithmic Price Scale vs Linear Price Scale (Algo Trading)"
+title: "Logarithmic Price Scale vs Linear Price Scale"
 description: "Explore the differences and applications of linear and logarithmic price scales in algorithmic trading to enhance decision-making and risk management strategies."
 ---
 

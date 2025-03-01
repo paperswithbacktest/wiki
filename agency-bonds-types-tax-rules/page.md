@@ -1,5 +1,5 @@
 ---
-title: "Agency Bonds: Types and Tax Rules (Algo Trading)"
+title: "Agency Bonds: Types and Tax Rules"
 description: "Explore the world of agency bonds, a key asset in portfolio management, known for their distinct characteristics and tax advantages. These bonds, issued by government-sponsored enterprises or federal agencies, offer higher yields compared to U.S. Treasury securities and entail specific tax rules. This article investigates into the different types of agency bonds, their yield structure, and their role in algorithmic trading, providing insights vital for crafting effective investment strategies. Perfect for investors seeking stable income with an understanding of associated risks and the impact of tax considerations on potential returns."
 ---
 

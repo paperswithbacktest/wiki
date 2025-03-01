@@ -1,5 +1,5 @@
 ---
-title: "Exchange Privilege: Overview, Operations, and Strategies (Algo Trading)"
+title: "Exchange Privilege: Overview, Operations, and Strategies"
 description: "Explore effective investment strategies operational expectations and exchange privileges with insights into algorithmic trading for optimal portfolio management."
 ---
 

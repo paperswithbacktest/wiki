@@ -1,5 +1,5 @@
 ---
-title: "Fixed-Income Style Box: Function and Application (Algo Trading)"
+title: "Fixed-Income Style Box: Function and Application"
 description: "Explore the strategic application of fixed-income style boxes and algorithmic trading to enhance portfolio management with insights into maturity, credit quality, and trade optimization."
 ---
 

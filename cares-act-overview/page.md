@@ -1,5 +1,5 @@
 ---
-title: "CARES Act Overview (Algo Trading)"
+title: "CARES Act Overview"
 description: "This page provides a comprehensive overview of the CARES Act, detailing its role as a $2.2 trillion stimulus measure during the COVID-19 pandemic aimed at providing economic relief to individuals, businesses, and healthcare providers while stabilizing markets. It also examines how algorithmic trading navigated the volatile economic conditions by leveraging automated strategies to manage risks and seize market opportunities."
 ---
 

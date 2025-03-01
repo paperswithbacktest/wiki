@@ -1,5 +1,5 @@
 ---
-title: "Methods for Investing Excess Cash (Algo Trading)"
+title: "Methods for Investing Excess Cash"
 description: "Explore advanced methods for investing excess cash with a focus on algorithmic trading Learn about diverse strategies risk management and the evolving regulatory landscape"
 ---
 

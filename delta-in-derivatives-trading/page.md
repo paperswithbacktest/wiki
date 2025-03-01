@@ -1,5 +1,5 @@
 ---
-title: "Delta in Derivatives Trading (Algo Trading)"
+title: "Delta in Derivatives Trading"
 description: "Explore delta derivatives trading and algo trading in this insightful article which covers key strategies concepts and tech advancements within financial markets."
 ---
 

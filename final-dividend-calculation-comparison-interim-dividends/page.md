@@ -1,5 +1,5 @@
 ---
-title: "Final Dividend: Calculation and Comparison with Interim Dividends (Algo Trading)"
+title: "Final Dividend: Calculation and Comparison with Interim Dividends"
 description: "Explore the essential aspects of final and interim dividends in algo trading, their calculation, and investor strategies to enhance returns and financial planning."
 ---
 

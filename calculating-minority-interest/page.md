@@ -1,5 +1,5 @@
 ---
-title: "Calculating Minority Interest (Algo Trading)"
+title: "Calculating Minority Interest"
 description: "Explore the significance of minority interest in financial accounting and algorithmic trading Learn how these calculations optimize strategies within today's dynamic market landscape"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Disposition of SEC Fines (Algo Trading)"
+title: "Disposition of SEC Fines"
 description: "Explore how the SEC enforces fines in algorithmic trading to uphold market integrity mitigate risks and ensure accountability among market participants."
 ---
 

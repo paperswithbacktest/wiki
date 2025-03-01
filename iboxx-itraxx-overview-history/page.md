@@ -1,5 +1,5 @@
 ---
-title: "IBoxx iTraxx: Overview and History (Algo Trading)"
+title: "IBoxx iTraxx: Overview and History"
 description: "Explore how iTraxx indices revolutionize finance by enabling efficient trading of credit derivatives through algorithmic strategies for risk management and speculation."
 ---
 

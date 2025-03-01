@@ -1,5 +1,5 @@
 ---
-title: "Challenges Facing the Cannabis Industry in 2024 (Algo Trading)"
+title: "Challenges Facing the Cannabis Industry in 2024"
 description: "Explore the challenges facing the cannabis industry in 2024 including algorithmic trading solutions and regulatory constraints, essential to sector growth."
 ---
 

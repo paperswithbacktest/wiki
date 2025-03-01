@@ -1,5 +1,5 @@
 ---
-title: "Choice Market: Definition and Mechanisms (Algo Trading)"
+title: "Choice Market: Definition and Mechanisms"
 description: "Explore how economic systems and algorithmic trading shape financial markets Discover the dynamics of choice markets and their impact on trading efficiency"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Degree of Operating Leverage (Algo Trading)"
+title: "Degree of Operating Leverage"
 description: "Explore the impact of operating leverage on profitability in algo trading. Learn how fixed costs and sales variations influence financial outcomes and guide strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Fibonacci Retracement Levels and Their Interpretation (Algo Trading)"
+title: "Fibonacci Retracement Levels and Their Interpretation"
 description: "Discover how Fibonacci retracement levels aid in algorithmic trading strategies, enhancing technical analysis with insights for both novice and experienced traders."
 ---
 

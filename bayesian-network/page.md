@@ -1,5 +1,5 @@
 ---
-title: "Bayesian Network (Algo Trading)"
+title: "Bayesian Network"
 description: "Bayesian Networks enhance algorithmic trading by modeling probabilistic relationships among market variables improving predictions and decision-making."
 ---
 

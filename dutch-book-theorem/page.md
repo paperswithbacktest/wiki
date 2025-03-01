@@ -1,5 +1,5 @@
 ---
-title: "Dutch Book Theorem (Algo Trading)"
+title: "Dutch Book Theorem"
 description: "Discover how the Dutch Book Theorem impacts betting strategies and algorithmic trading by highlighting inconsistent probability assessments and their financial implications."
 ---
 

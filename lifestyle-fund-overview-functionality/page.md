@@ -1,5 +1,5 @@
 ---
-title: "Lifestyle Fund: Overview And Functionality (Algo Trading)"
+title: "Lifestyle Fund: Overview And Functionality"
 description: "Discover how lifestyle funds and algorithmic trading revolutionize financial planning. Explore tailored strategies that align with risk profiles and enhance portfolio management."
 ---
 

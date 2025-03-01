@@ -1,5 +1,5 @@
 ---
-title: "Grantor: Roles, Responsibilities, and Types (Algo Trading)"
+title: "Grantor: Roles, Responsibilities, and Types"
 description: "Explore the roles and responsibilities of grantors, trustees, and beneficiaries in grantor trust law and their impact on algorithmic trading strategies."
 ---
 

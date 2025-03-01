@@ -1,5 +1,5 @@
 ---
-title: "Impact of Asset Bubbles on Economic Recessions (Algo Trading)"
+title: "Impact of Asset Bubbles on Economic Recessions"
 description: "Explore the complex connections between asset bubbles, economic recessions, and financial crises, focusing on algorithmic trading's role in these financial phenomena."
 ---
 

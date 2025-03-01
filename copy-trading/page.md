@@ -1,5 +1,5 @@
 ---
-title: "Copy trading (Algo Trading)"
+title: "Copy trading"
 description: "Explore how copy trading and algorithmic trading redefine market participation enabling both novice and experienced traders to capitalize on expert strategies."
 ---
 

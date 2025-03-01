@@ -1,5 +1,5 @@
 ---
-title: "Management Fee and Expense Ratio Differences (Algo Trading)"
+title: "Management Fee and Expense Ratio Differences"
 description: "Understand the differences between management fees and expense ratios in investment funds Learn how these costs impact returns and algorithmic trading strategies"
 ---
 

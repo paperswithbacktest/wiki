@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Return on Sales and Operating Margin (Algo Trading)"
+title: "Comparison of Return on Sales and Operating Margin"
 description: "Explore the key differences between return on sales and operating margin in financial analysis essential for investors and algorithmic trading strategies."
 ---
 

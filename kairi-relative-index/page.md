@@ -1,5 +1,5 @@
 ---
-title: "Kairi Relative Index (Algo Trading)"
+title: "Kairi Relative Index"
 description: "Explore the Kairi Relative Index and its role in algorithmic trading Learn how this technical analysis tool can enhance your trading strategy with programmatic insights"
 ---
 

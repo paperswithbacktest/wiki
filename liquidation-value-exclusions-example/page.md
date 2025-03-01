@@ -1,5 +1,5 @@
 ---
-title: "Liquidation Value Exclusions and Example (Algo Trading)"
+title: "Liquidation Value Exclusions and Example"
 description: "Explore the intersection of liquidation value asset valuation and algorithmic trading in financial markets Learn how these concepts impact investors and stakeholders"
 ---
 

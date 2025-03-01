@@ -1,5 +1,5 @@
 ---
-title: "Capacity Cost: Definition, Mechanisms, and Key Considerations (Algo Trading)"
+title: "Capacity Cost: Definition, Mechanisms, and Key Considerations"
 description: "Optimize financial management in algo trading by understanding capacity costs managing direct and indirect expenses and leveraging technology for profitability growth."
 ---
 

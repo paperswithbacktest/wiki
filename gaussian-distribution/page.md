@@ -1,5 +1,5 @@
 ---
-title: "Gaussian Distribution in Finance (Algo Trading)"
+title: "Gaussian Distribution in Finance"
 description: Explore the role of Gaussian distribution in algorithmic trading, a key element for modeling financial data. Understand its benefits and limitations in predicting market trends and managing risk for informed trading decisions.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "International Financial Reporting Standards (Algo Trading)"
+title: "International Financial Reporting Standards"
 description: "Explore the essential role of International Financial Reporting Standards in algorithmic trading enhancing transparency and data accuracy for global financial markets."
 ---
 

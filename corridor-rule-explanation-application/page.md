@@ -1,5 +1,5 @@
 ---
-title: "Corridor Rule: Explanation and Application (Algo Trading)"
+title: "Corridor Rule: Explanation and Application"
 description: "Explore the pivotal role of the Corridor Rule in managing pension plan expenses in financial statements and its synergy with actuarial science in trading."
 ---
 

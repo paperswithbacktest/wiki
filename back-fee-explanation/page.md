@@ -1,5 +1,5 @@
 ---
-title: "Back Fee Explanation (Algo Trading)"
+title: "Back Fee Explanation"
 description: "Explore the role of back fees in algorithmic trading understanding their impact on investment strategies to optimize market outcomes and maximize returns."
 ---
 

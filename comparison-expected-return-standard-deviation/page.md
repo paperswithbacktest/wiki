@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Expected Return and Standard Deviation (Algo Trading)"
+title: "Comparison of Expected Return and Standard Deviation"
 description: "Analyze the interplay between expected return and risk in algorithmic trading Understand key concepts and enhance strategies for optimal investment outcomes"
 ---
 

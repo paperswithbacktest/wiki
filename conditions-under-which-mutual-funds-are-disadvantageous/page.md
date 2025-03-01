@@ -1,5 +1,5 @@
 ---
-title: "Conditions Under Which Mutual Funds Are Disadvantageous (Algo Trading)"
+title: "Conditions Under Which Mutual Funds Are Disadvantageous"
 description: "Explore the disadvantages of mutual funds and algorithmic trading including risks, fees, and limitations. Learn essential financial planning strategies for investors."
 ---
 

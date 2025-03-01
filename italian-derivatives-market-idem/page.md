@@ -1,5 +1,5 @@
 ---
-title: "Italian Derivatives Market (IDEM) (Algo Trading)"
+title: "Italian Derivatives Market (IDEM)"
 description: "Explore algorithmic trading in the Italian Derivatives Market IDEM where technology revolutionizes market strategies enhancing efficiency and liquidity."
 ---
 

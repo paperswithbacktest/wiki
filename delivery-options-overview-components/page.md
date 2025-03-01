@@ -1,5 +1,5 @@
 ---
-title: "Delivery Options: Overview and Components (Algo Trading)"
+title: "Delivery Options: Overview and Components"
 description: "Explore how technology optimizes logistics and algo trading to enhance delivery options efficiency Discover the impact of advanced algorithmic strategies"
 ---
 

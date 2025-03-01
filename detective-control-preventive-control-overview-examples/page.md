@@ -1,5 +1,5 @@
 ---
-title: "Detective Control and Preventive Control: Overview and Examples (Algo Trading)"
+title: "Detective Control and Preventive Control: Overview and Examples"
 description: "Explore the essential roles of detective and preventive controls in algorithmic trading to ensure market integrity and risk management. Discover how these mechanisms safeguard financial processes against errors and manipulation within high-speed trading environments. Learn the significance of implementing robust control systems in maintaining transparency and compliance, crucial for upholding investor trust in a digitized trading landscape."
 ---
 

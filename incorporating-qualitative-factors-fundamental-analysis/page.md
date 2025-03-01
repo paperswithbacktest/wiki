@@ -1,5 +1,5 @@
 ---
-title: "Incorporating Qualitative Factors in Fundamental Analysis (Algo Trading)"
+title: "Incorporating Qualitative Factors in Fundamental Analysis"
 description: "Explore the integration of qualitative factors into fundamental analysis within algorithmic trading to enhance investment strategies. Understand the role of non-quantifiable elements such as management quality, brand strength, and market sentiment in evaluating securities. Discover how blending these factors with quantitative metrics offers investors a comprehensive view, enabling more informed decisions and a competitive edge in fast-evolving markets. This article investigates into the synergy between qualitative analysis and algorithmic solutions, highlighting their significance in maximizing returns and aligning with investment goals."
 ---
 

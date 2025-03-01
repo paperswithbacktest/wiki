@@ -1,5 +1,5 @@
 ---
-title: "Inverse Transaction: Definition and Mechanism (Algo Trading)"
+title: "Inverse Transaction: Definition and Mechanism"
 description: "Explore the definition and mechanism of inverse transactions in algorithmic trading Understand how these strategies manage risk offset positions and boost trading efficiency"
 ---
 

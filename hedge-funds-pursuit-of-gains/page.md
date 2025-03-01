@@ -1,5 +1,5 @@
 ---
-title: "Hedge Funds Pursuit of Gains in Any Market Condition (Algo Trading)"
+title: "Hedge Funds Pursuit of Gains in Any Market Condition"
 description: "Explore how hedge funds use algorithmic trading to achieve gains in any market condition Discover strategies to optimize performance in financial markets"
 ---
 

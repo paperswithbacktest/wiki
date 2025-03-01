@@ -1,5 +1,5 @@
 ---
-title: "Arbitrage Mutual Funds: Overview and Analysis (Algo Trading)"
+title: "Arbitrage Mutual Funds: Overview and Analysis"
 description: "Explore arbitrage mutual funds through the lens of algo trading to understand investment strategies, risks, and profit opportunities for optimized returns."
 ---
 

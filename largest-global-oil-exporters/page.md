@@ -1,5 +1,5 @@
 ---
-title: "Largest Global Oil Exporters (Algo Trading)"
+title: "Largest Global Oil Exporters"
 description: "Discover key insights into the global oil export landscape and the impact of algorithmic trading on markets. Explore the roles of top oil exporters."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Current Exposure Method: History and Examples (Algo Trading)"
+title: "Current Exposure Method: History and Examples"
 description: "Understand history and examples of risk exposure in algorithmic trading including analysis methods to mitigate financial risks and enhance trade execution."
 ---
 

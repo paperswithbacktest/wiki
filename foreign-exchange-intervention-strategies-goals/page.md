@@ -1,5 +1,5 @@
 ---
-title: "Foreign Exchange Intervention Strategies and Goals (Algo Trading)"
+title: "Foreign Exchange Intervention Strategies and Goals"
 description: "Explore the intricate relationship between foreign exchange intervention strategies and algorithmic trading. Delve into how central bank actions and algorithmic trading shape global markets while addressing challenges posed by rapid technological advancements. This article provides insights into the delicate balance of stabilizing currencies and fostering economic growth in a globalized economy, highlighting the strategies, objectives, and potential impacts on international trade and investment flows."
 ---
 

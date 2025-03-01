@@ -1,5 +1,5 @@
 ---
-title: "Investing in Rental Properties (Algo Trading)"
+title: "Investing in Rental Properties"
 description: "Explore the synergy of rental property investment with algorithmic trading to enhance returns and efficiency in real estate investing through modern tech."
 ---
 

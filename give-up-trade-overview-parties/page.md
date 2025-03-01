@@ -1,5 +1,5 @@
 ---
-title: "Give-Up Trade: Overview and Parties Involved (Algo Trading)"
+title: "Give-Up Trade: Overview and Parties Involved"
 description: "Explore the intricacies of give-up trades in financial markets Learn how these trades involve multiple brokers to streamline operations and manage risk effectively"
 ---
 

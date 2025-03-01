@@ -1,5 +1,5 @@
 ---
-title: "Association of International Bond Dealers (Algo Trading)"
+title: "Association of International Bond Dealers"
 description: "Explore the role of the Association of International Bond Dealers in shaping the bond market and how algorithmic trading is revolutionizing global finance."
 ---
 

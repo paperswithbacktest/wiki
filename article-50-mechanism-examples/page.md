@@ -1,5 +1,5 @@
 ---
-title: "Article 50: Mechanism and Examples (Algo Trading)"
+title: "Article 50: Mechanism and Examples"
 description: "Explore the intricacies of Article 50 and its role in Brexit while examining how algorithmic trading manages market uncertainties and impacts financial markets."
 ---
 

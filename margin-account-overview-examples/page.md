@@ -1,5 +1,5 @@
 ---
-title: "Margin Account: Overview and Examples (Algo Trading)"
+title: "Margin Account: Overview and Examples"
 description: "Discover how margin accounts and algorithmic trading combine to offer powerful investment opportunities and challenges. Understand how margin accounts amplify purchasing power and the benefits of algorithmic trading's automation and efficiency. Learn about the synergy of these financial tools and the potential risks and considerations for investors seeking optimal leverage and profitability."
 ---
 

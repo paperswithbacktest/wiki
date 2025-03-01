@@ -1,5 +1,5 @@
 ---
-title: "Core Plus: Overview and Functionality (Algo Trading)"
+title: "Core Plus: Overview and Functionality"
 description: "Explore how algorithmic trading enhances core plus investment strategies by optimizing trade execution with precision and speed for better returns and risk management."
 ---
 

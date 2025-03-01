@@ -1,5 +1,5 @@
 ---
-title: "Linear Regression: Assumptions and Limitations (Algo Trading)"
+title: "Linear Regression: Assumptions and Limitations"
 description: Explore the key assumptions and limitations of using linear regression in algorithmic trading to better understand its applications and shortcomings. Learn about the core principles, potential issues like multicollinearity and autocorrelation, and discover alternative methods to enhance trading strategies for more reliable market predictions.
 ---
 

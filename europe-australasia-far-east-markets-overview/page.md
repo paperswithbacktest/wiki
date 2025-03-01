@@ -1,5 +1,5 @@
 ---
-title: "Europe, Australasia, and Far East Markets Overview (Algo Trading)"
+title: "Europe, Australasia, and Far East Markets Overview"
 description: "Explore the dynamic interplay between algorithmic trading and EAFE markets. Discover how advanced technologies fuel trading efficiencies across diverse global economies."
 ---
 

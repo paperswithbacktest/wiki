@@ -1,5 +1,5 @@
 ---
-title: "Brazilian Real: Overview, Economic Impact, and Conversion (Algo Trading)"
+title: "Brazilian Real: Overview, Economic Impact, and Conversion"
 description: "Explore the Brazilian Real BRL focusing on its economic impact and conversion methods with algo trading Uncover investment insights in Brazil's emerging market"
 ---
 

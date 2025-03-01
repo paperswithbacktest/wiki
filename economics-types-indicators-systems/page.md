@@ -1,5 +1,5 @@
 ---
-title: "Economics: Types, Indicators, and Systems (Algo Trading)"
+title: "Economics: Types, Indicators, and Systems"
 description: "Explore economic systems, key indicators, and algorithmic trading essential for understanding modern economies. Learn how these elements shape economic practices."
 ---
 

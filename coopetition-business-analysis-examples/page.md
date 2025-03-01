@@ -1,5 +1,5 @@
 ---
-title: "Coopetition in Business: Analysis and Examples (Algo Trading)"
+title: "Coopetition in Business: Analysis and Examples"
 description: "Explore the intersection of coopetition and algorithmic trading to discover how strategic alliances can drive innovation, enhance efficiency and redefine market standards."
 ---
 

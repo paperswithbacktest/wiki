@@ -1,5 +1,5 @@
 ---
-title: "Major Financial Crises of the 21st Century (Algo Trading)"
+title: "Major Financial Crises of the 21st Century"
 description: "Explore how major 21st-century financial crises and the rise of algorithmic trading have reshaped global markets highlighting their impact on volatility and systemic risks."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Accounting Entries for Accrued Interest (Algo Trading)"
+title: "Accounting Entries for Accrued Interest"
 description: "Enhance your algorithmic trading strategy by mastering accounting entries for accrued interest Learn how automation ensures precise financial tracking and reporting"
 ---
 

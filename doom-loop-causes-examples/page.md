@@ -1,5 +1,5 @@
 ---
-title: "Doom Loop: Causes and Examples (Algo Trading)"
+title: "Doom Loop: Causes and Examples"
 description: "Explore the causes and examples of the doom loop in algorithmic trading and financial markets. Understand how this cycle contributes to market instability."
 ---
 

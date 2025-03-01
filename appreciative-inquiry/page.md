@@ -1,5 +1,5 @@
 ---
-title: "Appreciative Inquiry (Algo Trading)"
+title: "Appreciative Inquiry"
 description: "In an age of technological advancement, organizations are exploring innovative strategies like Appreciative Inquiry (AI) and algorithmic trading to drive positive change and development. AI focuses on strengths, fostering positivity and continuous improvement, while algorithmic trading enhances efficiency with automated decisions. Together, these methodologies boost innovation, adaptability, and competitive advantage. Understanding the synergy of these strategies is crucial for navigating evolving business landscapes and achieving lasting organizational growth and success."
 ---
 

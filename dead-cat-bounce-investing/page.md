@@ -1,5 +1,5 @@
 ---
-title: "Dead Cat Bounce in Investing (Algo Trading)"
+title: "Dead Cat Bounce in Investing"
 description: "Explore the concept of dead cat bounce in investing and uncover how algorithmic trading impacts modern market strategies and investor decisions."
 ---
 

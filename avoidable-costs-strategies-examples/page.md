@@ -1,5 +1,5 @@
 ---
-title: "Avoidable Costs: Strategies and Examples (Algo Trading)"
+title: "Avoidable Costs: Strategies and Examples"
 description: "Explore how to manage avoidable costs in algorithmic trading with strategic examples. Learn to optimize operations, reduce expenses, and sustain profitability."
 ---
 

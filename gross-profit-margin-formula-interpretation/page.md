@@ -1,5 +1,5 @@
 ---
-title: "Gross Profit Margin Formula and Interpretation (Algo Trading)"
+title: "Gross Profit Margin Formula and Interpretation"
 description: "Explore the significance of gross profit margin in financial analysis and algorithmic trading learn how this metric influences profitability and trading strategies"
 ---
 

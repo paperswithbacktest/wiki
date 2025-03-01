@@ -1,5 +1,5 @@
 ---
-title: "Digital Immigrant (Algo Trading)"
+title: "Digital Immigrant"
 description: "Explore how digital immigrants navigate the world of algorithmic trading and their impact on financial markets bridging technological generational gaps."
 ---
 

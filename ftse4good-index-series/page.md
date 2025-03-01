@@ -1,5 +1,5 @@
 ---
-title: "FTSE4Good Index Series (Algo Trading)"
+title: "FTSE4Good Index Series"
 description: "Explore how the FTSE4Good Index merges ESG investing with algorithmic trading offering insights into sustainable practices and rapid market adaptation."
 ---
 

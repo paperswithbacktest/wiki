@@ -1,5 +1,5 @@
 ---
-title: "Dollar Roll: Definition and Mechanism (Algo Trading)"
+title: "Dollar Roll: Definition and Mechanism"
 description: "Explore the mechanics of dollar roll transactions within mortgage-backed securities and their integration with algorithmic trading strategies to optimize market opportunities."
 ---
 

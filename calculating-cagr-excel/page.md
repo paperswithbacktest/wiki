@@ -1,5 +1,5 @@
 ---
-title: "Calculating CAGR in Excel (Algo Trading)"
+title: "Calculating CAGR in Excel"
 description: "Learn how to calculate CAGR in Excel for accurate investment growth analysis, crucial for optimizing portfolios and enhancing algorithmic trading strategies."
 ---
 

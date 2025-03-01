@@ -1,5 +1,5 @@
 ---
-title: "Auction Rate Securities: Overview, History, and Market Collapse (Algo Trading)"
+title: "Auction Rate Securities: Overview, History, and Market Collapse"
 description: "Explore the rise and fall of auction rate securities with insights into their market collapse in 2008 and the impact of algorithmic trading on financial stability."
 ---
 

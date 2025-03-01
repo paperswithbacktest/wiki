@@ -1,5 +1,5 @@
 ---
-title: "Excluded Commodity (Algo Trading)"
+title: "Excluded Commodity"
 description: "Explore how excluded commodities and algorithmic trading shape modern financial markets offering unique trading opportunities and strategies for investors."
 ---
 

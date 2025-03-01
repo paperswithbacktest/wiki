@@ -1,5 +1,5 @@
 ---
-title: "Discount Spread: Definition and Mechanism (Algo Trading)"
+title: "Discount Spread: Definition and Mechanism"
 description: "Explore the intricacies of discount spreads and spread trading mechanisms in algo trading Understand how these components impact trading strategies and market efficiency"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Oil Shale and Shale Oil (Algo Trading)"
+title: "Differences Between Oil Shale and Shale Oil"
 description: "Explore the key distinctions between shale oil and oil shale, their extraction processes, and the impact of algorithmic trading on the energy market dynamics."
 ---
 

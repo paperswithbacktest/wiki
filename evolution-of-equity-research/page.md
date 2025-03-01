@@ -1,5 +1,5 @@
 ---
-title: "Evolution of Equity Research (Algo Trading)"
+title: "Evolution of Equity Research"
 description: "Explore the transformation of equity research and algo trading in financial markets Discover how technology enhances investment strategies for optimized efficiency"
 ---
 

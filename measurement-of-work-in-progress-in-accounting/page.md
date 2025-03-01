@@ -1,5 +1,5 @@
 ---
-title: "Measurement of Work in Progress in Accounting (Algo Trading)"
+title: "Measurement of Work in Progress in Accounting"
 description: "Explore the measurement of Work in Progress (WIP) in accounting and its integration with algorithmic trading to optimize financial strategies and decision-making."
 ---
 

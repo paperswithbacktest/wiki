@@ -1,5 +1,5 @@
 ---
-title: "Limit Order Book Analytics (Algo Trading)"
+title: "Limit Order Book Analytics"
 description: "Explore how limit order books enhance algorithmic trading by providing market transparency and insights. Maximize trade execution efficiency and profitability."
 ---
 

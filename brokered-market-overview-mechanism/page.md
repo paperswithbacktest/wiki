@@ -1,5 +1,5 @@
 ---
-title: "Brokered Market: Overview and Mechanism (Algo Trading)"
+title: "Brokered Market: Overview and Mechanism"
 description: "Explore brokered markets algorithmic trading and financial structures Learn how they facilitate transactions liquidity and the interplay within today's financial markets"
 ---
 

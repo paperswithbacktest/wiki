@@ -1,5 +1,5 @@
 ---
-title: "Exchange Fees: Mechanisms and Implications (Algo Trading)"
+title: "Exchange Fees: Mechanisms and Implications"
 description: "Explore how transaction costs and exchange fees impact algorithmic trading strategies Learn to manage costs effectively to enhance trading performance"
 ---
 

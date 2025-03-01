@@ -1,5 +1,5 @@
 ---
-title: "Ginnie Mae Securities: Function and Significance (Algo Trading)"
+title: "Ginnie Mae Securities: Function and Significance"
 description: "Explore Ginnie Mae securities' pivotal role in MBS markets and uncover how algorithmic trading enhances investment strategies and stability in mortgage-backed securities."
 ---
 

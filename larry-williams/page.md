@@ -1,5 +1,5 @@
 ---
-title: "Larry Williams: A Trading Legend (Algo Trading)"
+title: "Larry Williams: A Trading Legend"
 description: Discover the journey of Larry Williams, a trading legend known for his innovative contributions to algorithmic trading and influential indicators. This article investigates into his career achievements, including his development of essential trading tools and educational impact, while also exploring his strategies and methodologies that continue to inspire traders globally. Gain insights into how his approaches can enhance your trading skills and strategies.
 ---
 

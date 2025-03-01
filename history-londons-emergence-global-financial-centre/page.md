@@ -1,5 +1,5 @@
 ---
-title: "History of London's Emergence as a Global Financial Centre (Algo Trading)"
+title: "History of London's Emergence as a Global Financial Centre"
 description: "Explore the rich history of London's evolution as a global financial hub and its role in algorithmic trading shaping modern finance through technology."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Energy Drink Industry (Algo Trading)"
+title: "Energy Drink Industry"
 description: "Explore the dynamic energy drink industry where market growth aligns with consumer trends toward health-conscious alternatives and innovative marketing strategies."
 ---
 

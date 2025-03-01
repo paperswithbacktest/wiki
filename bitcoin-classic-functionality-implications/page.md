@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin Classic: Functionality and Implications (Algo Trading)"
+title: "Bitcoin Classic: Functionality and Implications"
 description: "Explore Bitcoin Classic and its role in addressing Bitcoin's scalability issues through increased block size aiding algo trading with enhanced transaction capacity."
 ---
 

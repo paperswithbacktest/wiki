@@ -1,5 +1,5 @@
 ---
-title: "Channel Check: Definition and Operation (Algo Trading)"
+title: "Channel Check: Definition and Operation"
 description: "Explore the dynamics of channel checks and algorithmic trading in finance. Understand how these tools refine decision-making and risk assessment for investors."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Einhorn Effect (Algo Trading)"
+title: "Einhorn Effect"
 description: "Explore the impact of the Einhorn Effect in algorithmic trading and learn how David Einhorn's strategies influence market dynamics and investor behavior."
 ---
 

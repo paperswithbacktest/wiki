@@ -1,5 +1,5 @@
 ---
-title: "Investment Risk Levels: Low-Risk and High-Risk (Algo Trading)"
+title: "Investment Risk Levels: Low-Risk and High-Risk"
 description: "Explore investment risk levels with insights into low-risk and high-risk options, from stable bonds to volatile stocks and cryptocurrencies, and risk management strategies."
 ---
 

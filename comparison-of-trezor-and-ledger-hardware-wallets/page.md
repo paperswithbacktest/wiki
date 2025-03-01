@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Trezor and Ledger Hardware Wallets (Algo Trading)"
+title: "Comparison of Trezor and Ledger Hardware Wallets"
 description: "Compare Trezor and Ledger hardware wallets for secure cryptocurrency storage Explore their unique security features and benefits for algorithmic trading."
 ---
 

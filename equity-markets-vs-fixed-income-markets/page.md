@@ -1,5 +1,5 @@
 ---
-title: "Equity Markets vs. Fixed-Income Markets (Algo Trading)"
+title: "Equity Markets vs. Fixed-Income Markets"
 description: "Explore the dynamics between equity and fixed-income markets in algorithmic trading. Understand their varying risk profiles and potential for optimizing investment strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Butterfly Spread: Types and Examples (Algo Trading)"
+title: "Butterfly Spread: Types and Examples"
 description: "Explore the nuances of butterfly spread strategies in options trading and discover how algorithmic trading enhances execution precision and efficiency for optimized results."
 ---
 

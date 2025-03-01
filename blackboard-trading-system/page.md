@@ -1,5 +1,5 @@
 ---
-title: "Blackboard Trading System (Algo Trading)"
+title: "Blackboard Trading System"
 description: "Explore the transformation of finance from blackboard trading to high-speed algorithmic trading technology revolutionizing efficiency with computer algorithms."
 ---
 

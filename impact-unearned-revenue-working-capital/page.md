@@ -1,5 +1,5 @@
 ---
-title: "Impact of Unearned Revenue on Working Capital (Algo Trading)"
+title: "Impact of Unearned Revenue on Working Capital"
 description: "Explore how unearned revenue impacts working capital and algo trading, essential for financial health and strategy in modern business finance."
 ---
 

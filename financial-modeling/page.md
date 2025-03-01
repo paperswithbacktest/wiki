@@ -1,5 +1,5 @@
 ---
-title: "Financial Modeling (Algo Trading)"
+title: "Financial Modeling"
 description: "Explore the transformative role of financial modeling and economic forecasting in algorithmic trading Learn how these domains empower modern trading systems"
 ---
 

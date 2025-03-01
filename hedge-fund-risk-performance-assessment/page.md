@@ -1,5 +1,5 @@
 ---
-title: "Hedge Fund Risk and Performance Assessment (Algo Trading)"
+title: "Hedge Fund Risk and Performance Assessment"
 description: "Explore the complexities of hedge fund risk and performance in algorithmic trading, focusing on efficiency, strategy optimization, and risk management."
 ---
 

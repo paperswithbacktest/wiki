@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Gemini Cryptocurrency Exchange (Algo Trading)"
+title: "Analysis of Gemini Cryptocurrency Exchange"
 description: "Explore the Gemini Cryptocurrency Exchange founded by the Winklevoss twins focusing on security regulatory compliance and diverse trading tools for all levels."
 ---
 

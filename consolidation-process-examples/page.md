@@ -1,5 +1,5 @@
 ---
-title: "Consolidation Process and Examples (Algo Trading)"
+title: "Consolidation Process and Examples"
 description: "Explore the intricate relationship between financial consolidation and algorithmic trading Learn how consolidation influences trading strategies and decision-making."
 ---
 

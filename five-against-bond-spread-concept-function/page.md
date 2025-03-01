@@ -1,5 +1,5 @@
 ---
-title: "Five Against Bond Spread: Concept and Function (Algo Trading)"
+title: "Five Against Bond Spread: Concept and Function"
 description: "Explore the concept of Five Against Bond Spread in algorithmic trading. Learn how bond spreads, financial strategies, and automation optimize investment decisions."
 ---
 

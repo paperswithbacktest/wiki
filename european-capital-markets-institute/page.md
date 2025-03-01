@@ -1,5 +1,5 @@
 ---
-title: "European Capital Markets Institute (Algo Trading)"
+title: "European Capital Markets Institute"
 description: "Explore the role of ECMI in enhancing European capital markets through policy insights and research on algo trading that boosts market efficiency and liquidity."
 ---
 

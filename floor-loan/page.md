@@ -1,5 +1,5 @@
 ---
-title: "Floor Loan (Algo Trading)"
+title: "Floor Loan"
 description: "Discover how the convergence of floor loans, real estate finance, and algorithmic trading is redefining financial strategies, enhancing profitability, and mitigating risks."
 ---
 

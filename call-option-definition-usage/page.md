@@ -1,5 +1,5 @@
 ---
-title: "Call Option: Definition and Usage (Algo Trading)"
+title: "Call Option: Definition and Usage"
 description: "Explore the dynamic world of call options and algorithmic trading. Learn how these financial tools enhance investment strategies and risk management in today's markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bollinger Bands and Their Significance for Investors (Algo Trading)"
+title: "Bollinger Bands and Their Significance for Investors"
 description: "Discover how Bollinger Bands help investors identify market conditions in algorithmic trading Enhance your technical analysis with this guide to strategic integration"
 ---
 

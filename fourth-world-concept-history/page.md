@@ -1,5 +1,5 @@
 ---
-title: "Fourth World: Concept and History (Algo Trading)"
+title: "Fourth World: Concept and History"
 description: "Explore the intersection of Fourth World indigenous communities and the rise of algorithmic trading Impacting global development and economic integration"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Basic Earnings Per Share (EPS): Formula and Example (Algo Trading)"
+title: "Basic Earnings Per Share (EPS): Formula and Example"
 description: "Explore the significance of Earnings Per Share (EPS) in investment strategies and algorithmic trading by understanding its calculation and market implications."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Fuel Tax Credit and Its Mechanism (Algo Trading)"
+title: "Fuel Tax Credit and Its Mechanism"
 description: "Discover the impact of Fuel Tax Credits on business efficiency and sustainability while exploring their role in sectors like fuel taxation and algorithmic trading."
 ---
 

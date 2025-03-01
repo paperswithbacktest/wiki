@@ -1,5 +1,5 @@
 ---
-title: "Book-Entry Securities (Algo Trading)"
+title: "Book-Entry Securities"
 description: "Discover how book-entry securities and algorithmic trading are revolutionizing financial markets with digital efficiency, enhanced security, and reduced costs."
 ---
 

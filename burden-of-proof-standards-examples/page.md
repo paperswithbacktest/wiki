@@ -1,5 +1,5 @@
 ---
-title: "Burden of Proof: Standards and Examples (Algo Trading)"
+title: "Burden of Proof: Standards and Examples"
 description: "Explore the legal concept of burden of proof and its impact on algorithmic trading. Understand key standards and their implications in law and finance."
 ---
 

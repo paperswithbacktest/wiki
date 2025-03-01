@@ -1,5 +1,5 @@
 ---
-title: "Exceptional Items in Financial Reporting (Algo Trading)"
+title: "Exceptional Items in Financial Reporting"
 description: "Explore the role of exceptional items in financial reporting and their impact on algorithmic trading emphasizing transparency and accurate data for investors and models."
 ---
 

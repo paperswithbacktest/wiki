@@ -1,5 +1,5 @@
 ---
-title: "Demand Guarantee: Concept, Implementation, and Economic Impact (Algo Trading)"
+title: "Demand Guarantee: Concept, Implementation, and Economic Impact"
 description: "Explore the integration of demand guarantees in algo trading to enhance economic efficiency by mitigating risks and streamlining financial market operations."
 ---
 

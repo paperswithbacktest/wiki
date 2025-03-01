@@ -1,5 +1,5 @@
 ---
-title: "Actuarial Basis in Accounting (Algo Trading)"
+title: "Actuarial Basis in Accounting"
 description: "Explore the intersection of actuarial science accounting and algorithmic trading for optimized decision-making and regulatory compliance in financial markets."
 ---
 

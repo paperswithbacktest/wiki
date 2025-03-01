@@ -1,5 +1,5 @@
 ---
-title: "Maintenance Margin and Comparison to Margin Accounts (Algo Trading)"
+title: "Maintenance Margin and Comparison to Margin Accounts"
 description: "Explore the critical role of maintenance margin in algo trading. Learn how it safeguards investments by managing equity levels in margin accounts."
 ---
 

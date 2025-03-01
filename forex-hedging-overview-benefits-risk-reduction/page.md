@@ -1,5 +1,5 @@
 ---
-title: "Forex Hedging: Overview, Benefits, and Risk Reduction (Algo Trading)"
+title: "Forex Hedging: Overview, Benefits, and Risk Reduction"
 description: "Discover the essentials of forex hedging including benefits and risk reduction techniques to safeguard investments against volatile currency markets effectively."
 ---
 

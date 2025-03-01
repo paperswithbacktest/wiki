@@ -1,5 +1,5 @@
 ---
-title: "Analyzing Market Trends Using the VIX (Algo Trading)"
+title: "Analyzing Market Trends Using the VIX"
 description: "Understand how market trends and algorithmic trading revolve around the VIX a key indicator of market sentiment Discover strategic approaches to optimize trading performance"
 ---
 

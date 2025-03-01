@@ -1,5 +1,5 @@
 ---
-title: "CNBC Plus (Algo Trading)"
+title: "CNBC Plus"
 description: Explore the world of algorithmic trading with CNBC Plus, a subscription service providing traders with vital real-time financial news, insights, and analytical tools. Enhance your trading strategies with expert analyses and data-driven resources, empowering you to capitalize on market opportunities effectively. Gain a competitive edge in the fast-paced trading environment by staying informed about market trends and developments through CNBC Plus, helping to optimize your algorithmic trading efficiency and success.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Coupon Rate of a Bond and Its Calculation (Algo Trading)"
+title: "Coupon Rate of a Bond and Its Calculation"
 description: "Explore the essential elements of bond investments including coupon rate calculation and the impact of algorithmic trading in optimizing financial strategies."
 ---
 

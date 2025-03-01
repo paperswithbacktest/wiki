@@ -1,5 +1,5 @@
 ---
-title: "Calculating Compound Interest in Excel (Algo Trading)"
+title: "Calculating Compound Interest in Excel"
 description: "Learn how to calculate compound interest in Excel for effective financial planning and explore its intersection with algorithmic trading for optimal investment strategies."
 ---
 

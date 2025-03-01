@@ -1,5 +1,5 @@
 ---
-title: "Impact of Quantitative Easing on Stock Markets (Algo Trading)"
+title: "Impact of Quantitative Easing on Stock Markets"
 description: "Explore how quantitative easing impacts stock markets and algorithmic trading driving liquidity and asset prices in financial markets affected by central bank policies."
 ---
 

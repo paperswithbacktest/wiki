@@ -1,5 +1,5 @@
 ---
-title: "Basic Balance: Definition and Function (Algo Trading)"
+title: "Basic Balance: Definition and Function"
 description: "Explore the essential role of basic balance in economic health and algorithmic trading. Understand its impact on strategy execution, risk management, and market dynamics."
 ---
 

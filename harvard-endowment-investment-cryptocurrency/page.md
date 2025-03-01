@@ -1,5 +1,5 @@
 ---
-title: "Harvard Endowment Investment in Cryptocurrency (Algo Trading)"
+title: "Harvard Endowment Investment in Cryptocurrency"
 description: "Harvard's $39B endowment's venture into cryptocurrency highlights a strategic shift embracing digital assets, signaling institutional trust in crypto's future potential."
 ---
 

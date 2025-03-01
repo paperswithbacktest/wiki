@@ -1,5 +1,5 @@
 ---
-title: "Collusion: Examples and Prevention (Algo Trading)"
+title: "Collusion: Examples and Prevention"
 description: "Explore how algorithmic trading can lead to collusion with real-world examples and learn strategies to prevent unethical practices ensuring market integrity."
 ---
 

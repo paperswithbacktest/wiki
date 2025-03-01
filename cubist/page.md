@@ -1,5 +1,5 @@
 ---
-title: "Cubist (Algo Trading)"
+title: "Cubist"
 description: "Cubist Systematic Strategies leads in quantitative trading, leveraging cutting-edge technology and data analytics at Point72 for high-performance algorithmic trading."
 ---
 

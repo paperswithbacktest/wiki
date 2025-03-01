@@ -1,5 +1,5 @@
 ---
-title: "Legal Risks for Cryptocurrency Investors (Algo Trading)"
+title: "Legal Risks for Cryptocurrency Investors"
 description: "Explore the legal risks of algorithmic trading in cryptocurrency markets including compliance challenges and avoiding unethical practices like market manipulation."
 ---
 

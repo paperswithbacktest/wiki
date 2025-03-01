@@ -1,5 +1,5 @@
 ---
-title: "Basis Value: Concept, Calculation, and Example (Algo Trading)"
+title: "Basis Value: Concept, Calculation, and Example"
 description: "Explore the concept of basis value in algorithmic trading including calculation examples and how it integrates with valuation principles for informed trading decisions."
 ---
 

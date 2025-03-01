@@ -1,5 +1,5 @@
 ---
-title: "History and Terminology of Accounting (Algo Trading)"
+title: "History and Terminology of Accounting"
 description: "Explore the evolution and terminology of accounting, from ancient record-keeping to its crucial role in modern algorithmic trading, enhancing financial transparency and strategy."
 ---
 

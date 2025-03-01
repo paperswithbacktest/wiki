@@ -1,5 +1,5 @@
 ---
-title: "Investment in IPOs by Mutual Funds and ETFs (Algo Trading)"
+title: "Investment in IPOs by Mutual Funds and ETFs"
 description: "Discover strategies for investing in IPOs with mutual funds and ETFs. Learn the impact of algorithmic trading on investment choices and portfolio growth."
 ---
 

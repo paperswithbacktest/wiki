@@ -1,5 +1,5 @@
 ---
-title: "Hidden liquidity detection (Algo Trading)"
+title: "Hidden liquidity detection"
 description: "Explore hidden liquidity in algo trading to understand buy or sell orders that aren't fully visible. Learn strategies to detect and exploit these market dynamics."
 ---
 

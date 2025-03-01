@@ -1,5 +1,5 @@
 ---
-title: "30-Year Treasury Bond: History and Examples (Algo Trading)"
+title: "30-Year Treasury Bond: History and Examples"
 description: "Explore the impact of 30-Year Treasury Bonds on global finance and algorithmic trading Discover how these bonds shape interest rates and economic forecasts"
 ---
 

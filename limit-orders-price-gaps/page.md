@@ -1,5 +1,5 @@
 ---
-title: "Limit Orders and Price Gaps (Algo Trading)"
+title: "Limit Orders and Price Gaps"
 description: "Explore how limit orders, price gaps, and algorithmic trading shape efficient trading strategies, manage risks, and enhance market execution speed."
 ---
 

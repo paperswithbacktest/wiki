@@ -1,5 +1,5 @@
 ---
-title: "Liquidity-Driven Price Impact Models (Algo Trading)"
+title: "Liquidity-Driven Price Impact Models"
 description: "Explore the impact of liquidity on price in algorithmic trading Learn how liquidity-driven models optimize trades reducing transaction costs and improving efficiency"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Business Cycle: Overview, Measurement, and Phases (Algo Trading)"
+title: "Business Cycle: Overview, Measurement, and Phases"
 description: "Understand the business cycle's impact on economic trends and trading strategies by exploring its phases and measurement methods to optimize financial decisions."
 ---
 

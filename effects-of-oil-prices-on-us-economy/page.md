@@ -1,5 +1,5 @@
 ---
-title: "Effects of Oil Prices on the U.S. Economy (Algo Trading)"
+title: "Effects of Oil Prices on the U.S. Economy"
 description: "Explore the intricate effects of oil price fluctuations on the U.S. economy and the role of algorithmic trading in shaping energy markets and economic policies."
 ---
 

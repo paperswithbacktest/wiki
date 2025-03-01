@@ -1,5 +1,5 @@
 ---
-title: "Legging In: Definition, Risks, and Examples (Algo Trading)"
+title: "Legging In: Definition, Risks, and Examples"
 description: "Explore the intricate strategy of legging in within algorithmic trading including its benefits and risks Learn how to manage leg risk effectively for optimal results"
 ---
 

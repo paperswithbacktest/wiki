@@ -1,5 +1,5 @@
 ---
-title: "Estimated Long-Term Return: Overview, Mechanism, Calculation (Algo Trading)"
+title: "Estimated Long-Term Return: Overview, Mechanism, Calculation"
 description: "Explore the mechanisms that drive long-term investment returns and algorithmic trading. Learn calculation techniques to optimize strategies for sustainable growth."
 ---
 

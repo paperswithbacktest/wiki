@@ -1,5 +1,5 @@
 ---
-title: "Identifying Key Stock Chart Patterns (Algo Trading)"
+title: "Identifying Key Stock Chart Patterns"
 description: "Explore key stock chart patterns crucial for technical analysis in algo trading. Learn about pattern recognition, predictive price movements, and trading strategies."
 ---
 

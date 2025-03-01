@@ -1,5 +1,5 @@
 ---
-title: "Average Daily Trading Volume and Its Applications (Algo Trading)"
+title: "Average Daily Trading Volume and Its Applications"
 description: "Explore the impact of trading volume in algorithmic trading Discover how average daily trading volume informs strategic decisions and boosts market efficiency"
 ---
 

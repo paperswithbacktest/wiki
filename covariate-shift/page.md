@@ -1,5 +1,5 @@
 ---
-title: "Covariate shift (Algo Trading)"
+title: "Covariate shift"
 description: "Covariate shift in algorithmic trading affects input variable distribution, influencing model predictions and financial outcomes. Learn its impact and mitigation."
 ---
 

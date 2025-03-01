@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Political Futures (Algo Trading)"
+title: "Analysis of Political Futures"
 description: "Explore the intersection of politics and finance through political futures and algo trading Discover strategies to navigate market dynamics and seize opportunities"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Imbalance-based trading signals (Algo Trading)"
+title: "Imbalance-based trading signals"
 description: "Discover the nuances of imbalance-based trading signals in algo trading their role in predicting market shifts and optimizing strategies for better profitability."
 ---
 

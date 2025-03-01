@@ -1,5 +1,5 @@
 ---
-title: "Federal Reserve Model: Overview and Alternatives (Algo Trading)"
+title: "Federal Reserve Model: Overview and Alternatives"
 description: "Discover the Federal Reserve Model's role in investment valuation and explore its applications in algo trading to optimize asset pricing and market timing strategies."
 ---
 

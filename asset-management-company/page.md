@@ -1,5 +1,5 @@
 ---
-title: "Asset Management Company (Algo Trading)"
+title: "Asset Management Company"
 description: "Explore how asset management and algorithmic trading drive modern finance through technology enhancing investment strategies and market efficiencies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Contingent Immunization: Overview, Advantages, and Disadvantages (Algo Trading)"
+title: "Contingent Immunization: Overview, Advantages, and Disadvantages"
 description: "Discover how contingent immunization combines active and passive strategies to manage risk and maximize returns in today's volatile markets with algorithmic trading insights."
 ---
 

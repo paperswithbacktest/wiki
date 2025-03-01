@@ -1,5 +1,5 @@
 ---
-title: "Grey Wave Phenomenon (Algo Trading)"
+title: "Grey Wave Phenomenon"
 description: "Explore the intersection of the aging population trend and algorithmic trading their influence on financial markets and opportunities for adaptation and growth."
 ---
 

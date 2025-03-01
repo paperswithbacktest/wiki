@@ -1,5 +1,5 @@
 ---
-title: "Hedge Fund Investment Due Diligence (Algo Trading)"
+title: "Hedge Fund Investment Due Diligence"
 description: "Explore the importance of due diligence in hedge fund investments focusing on algorithmic trading strategies to ensure informed decisions and mitigate risks effectively."
 ---
 

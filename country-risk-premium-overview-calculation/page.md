@@ -1,5 +1,5 @@
 ---
-title: "Country Risk Premium: Overview and Calculation (Algo Trading)"
+title: "Country Risk Premium: Overview and Calculation"
 description: "Explore the impact of Country Risk Premium on algorithmic trading and international investments. Understand CRP calculation methods and its role in risk assessment."
 ---
 

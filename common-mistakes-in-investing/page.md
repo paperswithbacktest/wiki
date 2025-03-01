@@ -1,5 +1,5 @@
 ---
-title: "Common Mistakes in Investing (Algo Trading)"
+title: "Common Mistakes in Investing"
 description: "Discover key tips to avoid common investment mistakes in algo trading. Enhance decision-making by understanding risks, minimizing errors, and optimizing strategies."
 ---
 

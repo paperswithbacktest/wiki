@@ -1,5 +1,5 @@
 ---
-title: "EPS Calculation Using Excel (Algo Trading)"
+title: "EPS Calculation Using Excel"
 description: "Learn to calculate Earnings Per Share (EPS) using Excel to enhance your algorithmic trading strategies and make informed, data-driven investment decisions."
 ---
 

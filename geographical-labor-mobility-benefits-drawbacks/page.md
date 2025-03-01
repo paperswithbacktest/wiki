@@ -1,5 +1,5 @@
 ---
-title: "Geographical Labor Mobility: Benefits and Drawbacks (Algo Trading)"
+title: "Geographical Labor Mobility: Benefits and Drawbacks"
 description: "Explore the dynamics of geographical and labor mobility in relation to economic migration and algorithmic trading Understand their global economic impact and challenges"
 ---
 

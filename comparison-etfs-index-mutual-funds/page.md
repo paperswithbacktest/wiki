@@ -1,5 +1,5 @@
 ---
-title: "Comparison of ETFs and Index Mutual Funds (Algo Trading)"
+title: "Comparison of ETFs and Index Mutual Funds"
 description: "Explore the key differences between ETFs and index mutual funds in this comprehensive guide Discover their structures benefits and risks for investors"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Indirect Quote vs. Direct Quote (Algo Trading)"
+title: "Indirect Quote vs. Direct Quote"
 description: "Explore the role of direct and indirect quotes in forex trading and the impact of algorithmic trading on these processes for better trading outcomes."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Boot in Accounting: Explanation and Functionality (Algo Trading)"
+title: "Boot in Accounting: Explanation and Functionality"
 description: "Explore the concept of "boot" in accounting and algo trading Discover its implications for investment strategy tax liability and trading efficiency in finance"
 ---
 

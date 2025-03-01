@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategies for REITs (Algo Trading)"
+title: "Investment Strategies for REITs"
 description: "Explore investment strategies combining Real Estate Investment Trusts and algorithmic trading to optimize portfolio performance and enhance real estate investment returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Measurement of Utility in Economics (Algo Trading)"
+title: "Measurement of Utility in Economics"
 description: "Explore the fusion of economic utility measurement and algorithmic trading Discover how these concepts enhance trading strategies and drive market efficiency"
 ---
 

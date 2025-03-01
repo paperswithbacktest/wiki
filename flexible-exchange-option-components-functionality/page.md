@@ -1,5 +1,5 @@
 ---
-title: "Flexible Exchange Option: Components and Functionality (Algo Trading)"
+title: "Flexible Exchange Option: Components and Functionality"
 description: "Explore the components and functionalities of Flexible Exchange Options in algorithmic trading Learn how FLEX customization benefits traders in dynamic markets"
 ---
 

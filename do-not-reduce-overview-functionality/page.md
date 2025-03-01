@@ -1,5 +1,5 @@
 ---
-title: "Do Not Reduce: Overview and Functionality (Algo Trading)"
+title: "Do Not Reduce: Overview and Functionality"
 description: "Explore the significance of Do Not Reduce orders in algorithmic trading to maintain strategic price levels amid dividend announcements for effective trade management."
 ---
 

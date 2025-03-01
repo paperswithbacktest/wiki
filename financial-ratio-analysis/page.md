@@ -1,5 +1,5 @@
 ---
-title: "Financial Ratio Analysis (Algo Trading)"
+title: "Financial Ratio Analysis"
 description: "Explore the role of financial ratios in enhancing algo trading strategies by analyzing company performance to automate trading decisions and maximize returns."
 ---
 

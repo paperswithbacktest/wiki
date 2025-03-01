@@ -1,5 +1,5 @@
 ---
-title: "Financial Ratios for Evaluating Investment Banks (Algo Trading)"
+title: "Financial Ratios for Evaluating Investment Banks"
 description: "Explore essential financial ratios like ROA and ROE alongside algorithmic trading insights to evaluate investment banks' efficiency and market positioning."
 ---
 

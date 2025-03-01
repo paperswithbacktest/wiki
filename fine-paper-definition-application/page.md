@@ -1,5 +1,5 @@
 ---
-title: "Fine Paper: Definition and Application (Algo Trading)"
+title: "Fine Paper: Definition and Application"
 description: "Explore the fusion of high-grade securities and algorithmic trading enhancing investment strategies with optimal efficiency and profitability in financial markets."
 ---
 

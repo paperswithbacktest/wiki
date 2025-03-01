@@ -1,5 +1,5 @@
 ---
-title: "Cognitive and Emotional Investing Bias: Differences (Algo Trading)"
+title: "Cognitive and Emotional Investing Bias: Differences"
 description: "Explore the impact of cognitive and emotional biases in algorithmic trading Learn how these biases can affect investment decisions and ways to mitigate them"
 ---
 

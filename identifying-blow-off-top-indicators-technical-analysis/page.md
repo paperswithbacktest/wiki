@@ -1,5 +1,5 @@
 ---
-title: "Identifying Blow-Off Top Indicators in Technical Analysis (Algo Trading)"
+title: "Identifying Blow-Off Top Indicators in Technical Analysis"
 description: "Discover how to identify blow-off tops in trading through technical analysis and algorithmic trading, enhancing strategies for spotting rapid market shifts."
 ---
 

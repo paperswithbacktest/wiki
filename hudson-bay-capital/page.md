@@ -1,5 +1,5 @@
 ---
-title: "Hudson Bay Capital (Algo Trading)"
+title: "Hudson Bay Capital"
 description: "Explore Hudson Bay Capital’s innovative approaches in algorithmic trading renowned for precision and speed in investment management and market performance."
 ---
 

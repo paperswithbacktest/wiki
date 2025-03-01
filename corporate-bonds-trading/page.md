@@ -1,5 +1,5 @@
 ---
-title: "Corporate Bonds Trading (Algo Trading)"
+title: "Corporate Bonds Trading"
 description: "Explore the impact of algorithmic trading on corporate bonds trading highlighting benefits like increased speed and efficiency and addressing associated challenges."
 ---
 

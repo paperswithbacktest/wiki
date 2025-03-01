@@ -1,5 +1,5 @@
 ---
-title: "Kicker: Functionality and Types (Algo Trading)"
+title: "Kicker: Functionality and Types"
 description: "Explore the functionality and types of kickers in finance and trading, from equity and real estate incentives to candlestick patterns signaling market reversals."
 ---
 

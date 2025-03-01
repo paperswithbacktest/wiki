@@ -1,5 +1,5 @@
 ---
-title: "Determinants of Marginal Propensity to Consume (Algo Trading)"
+title: "Determinants of Marginal Propensity to Consume"
 description: "Explore how the Marginal Propensity to Consume influences economic trends and trading strategies for better financial planning and policy-making."
 ---
 

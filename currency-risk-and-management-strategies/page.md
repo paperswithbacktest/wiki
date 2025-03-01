@@ -1,5 +1,5 @@
 ---
-title: "Currency Risk and Management Strategies (Algo Trading)"
+title: "Currency Risk and Management Strategies"
 description: "Explore currency risk and management strategies in forex markets using algorithmic trading. Discover how technology enables efficient risk mitigation and seizes market opportunities."
 ---
 

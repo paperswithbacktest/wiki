@@ -1,5 +1,5 @@
 ---
-title: "Hashgraph Consensus: Overview and Mechanism (Algo Trading)"
+title: "Hashgraph Consensus: Overview and Mechanism"
 description: "Explore how Hashgraph consensus and distributed ledger technologies revolutionize algo trading with enhanced speed transparency and security in financial ecosystems."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Debt-to-Equity Ratio: Importance and Optimal Levels (Algo Trading)"
+title: "Debt-to-Equity Ratio: Importance and Optimal Levels"
 description: "Explore the significance of the debt-to-equity ratio as a crucial metric in understanding corporate financial health. This article investigates into its importance for investors and algorithmic traders, examining optimal levels across industries and its role in corporate growth strategy. Discover how this ratio aids in assessing financial leverage, risks, and opportunities, offering insights for informed decision-making in traditional and automated trading environments."
 ---
 

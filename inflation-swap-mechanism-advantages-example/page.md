@@ -1,5 +1,5 @@
 ---
-title: "Inflation Swap: Mechanism, Advantages, and Example (Algo Trading)"
+title: "Inflation Swap: Mechanism, Advantages, and Example"
 description: "Explore how inflation swaps help manage inflation risk using algorithmic trading Enhance your hedging strategy with insights into these vital financial instruments"
 ---
 

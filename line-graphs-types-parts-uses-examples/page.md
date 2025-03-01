@@ -1,5 +1,5 @@
 ---
-title: "Line Graphs: Types, Parts, Uses, and Examples (Algo Trading)"
+title: "Line Graphs: Types, Parts, Uses, and Examples"
 description: "Explore the importance of line graphs in algorithmic trading and data visualization Learn how they enhance decision-making by highlighting market trends and patterns"
 ---
 

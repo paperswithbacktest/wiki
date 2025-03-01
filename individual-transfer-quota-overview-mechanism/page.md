@@ -1,5 +1,5 @@
 ---
-title: "Individual Transfer Quota: Overview and Mechanism (Algo Trading)"
+title: "Individual Transfer Quota: Overview and Mechanism"
 description: "Explore how Individual Transfer Quotas (ITQs) improve fisheries management by promoting sustainable practices and efficient market-based quota exchange through algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Encumbered Securities (Algo Trading)"
+title: "Encumbered Securities"
 description: "Explore the dynamic world of encumbered securities and algorithmic trading, revealing their impact on risk management, liquidity, and investment strategies in finance."
 ---
 

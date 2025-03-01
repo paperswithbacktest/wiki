@@ -1,5 +1,5 @@
 ---
-title: "Calculating Historical Volatility Using Excel (Algo Trading)"
+title: "Calculating Historical Volatility Using Excel"
 description: "Learn to calculate historical volatility using Excel for improved risk management and informed trading decisions in algorithmic strategies. Discover key steps now."
 ---
 

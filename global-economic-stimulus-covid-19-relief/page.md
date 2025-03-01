@@ -1,5 +1,5 @@
 ---
-title: "Global Economic Stimulus and Relief Measures in Response to COVID-19 (Algo Trading)"
+title: "Global Economic Stimulus and Relief Measures in Response to COVID-19"
 description: "Explore global economic stimulus measures and the role of algorithmic trading during COVID-19 as countries navigate unprecedented financial challenges and recovery strategies."
 ---
 

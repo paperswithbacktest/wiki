@@ -1,5 +1,5 @@
 ---
-title: "Document Redaction Techniques (Algo Trading)"
+title: "Document Redaction Techniques"
 description: "Explore how document redaction intersects with algorithmic trading, focusing on safeguarding sensitive trading data amid global regulatory scrutiny. Learn about redaction strategies for ensuring confidentiality of proprietary algorithms and trading models. Discover methods ranging from manual to innovative software solutions. Gain insights on compliance with regulations like GDPR and HIPAA to maintain a competitive edge in financial markets."
 ---
 

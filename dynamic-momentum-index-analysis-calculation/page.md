@@ -1,5 +1,5 @@
 ---
-title: "Dynamic Momentum Index: Analysis and Calculation (Algo Trading)"
+title: "Dynamic Momentum Index: Analysis and Calculation"
 description: "Explore the Dynamic Momentum Index's unique adaptability in algorithmic trading Discover how the DMI adjusts to market conditions for smarter trading decisions"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "George Hanley: Overview of Life and Contributions (Algo Trading)"
+title: "George Hanley: Overview of Life and Contributions"
 description: "Explore George Hanley's transformative impact on algo trading and philanthropy His visionary approach has revolutionized trading and inspired future industry leaders"
 ---
 

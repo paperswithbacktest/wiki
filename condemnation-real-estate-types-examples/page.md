@@ -1,5 +1,5 @@
 ---
-title: "Condemnation in Real Estate: Types and Examples (Algo Trading)"
+title: "Condemnation in Real Estate: Types and Examples"
 description: "Explore how condemnation in real estate and algorithmic trading merge to impact property investments offering insights into legal processes and trading strategies."
 ---
 

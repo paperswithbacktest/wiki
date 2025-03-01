@@ -1,5 +1,5 @@
 ---
-title: "Items Purchasable with Cryptocurrency (Algo Trading)"
+title: "Items Purchasable with Cryptocurrency"
 description: "Explore how cryptocurrencies revolutionize transactions with their decentralized nature and algorithmic trading. Discover the benefits and challenges of using digital currencies."
 ---
 

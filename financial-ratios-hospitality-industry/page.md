@@ -1,5 +1,5 @@
 ---
-title: "Financial Ratios in the Hospitality Industry (Algo Trading)"
+title: "Financial Ratios in the Hospitality Industry"
 description: "Explore key financial ratios in the hospitality industry and their impact on investment strategies Discover how algorithmic trading enhances financial analysis"
 ---
 

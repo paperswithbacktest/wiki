@@ -1,5 +1,5 @@
 ---
-title: "Cost of Equity and Cost of Capital Comparison (Algo Trading)"
+title: "Cost of Equity and Cost of Capital Comparison"
 description: "Explore the interplay of cost of equity, cost of capital, and algorithmic trading to optimize investment strategies and enhance financial decision-making efficiency."
 ---
 

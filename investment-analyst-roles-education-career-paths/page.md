@@ -1,5 +1,5 @@
 ---
-title: "Investment Analyst: Roles, Education, Career Paths (Algo Trading)"
+title: "Investment Analyst: Roles, Education, Career Paths"
 description: "Explore key roles in financial analysis, investment analysis, and algorithmic trading. Discover career paths, education needs, and skills in the evolving finance sector."
 ---
 

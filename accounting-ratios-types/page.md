@@ -1,5 +1,5 @@
 ---
-title: "Accounting Ratios and Their Types (Algo Trading)"
+title: "Accounting Ratios and Their Types"
 description: "Explore how accounting ratios like profitability and liquidity are vital in both traditional financial analysis and modern algorithmic trading strategies."
 ---
 

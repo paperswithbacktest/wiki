@@ -1,5 +1,5 @@
 ---
-title: "Euro Notes and Denominations (Algo Trading)"
+title: "Euro Notes and Denominations"
 description: "Discover how algorithmic trading reshapes Euro currency markets, enhancing liquidity, stability, and efficiency in Europe's dynamic financial landscape."
 ---
 

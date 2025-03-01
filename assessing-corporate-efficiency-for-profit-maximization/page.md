@@ -1,5 +1,5 @@
 ---
-title: "Assessing Corporate Efficiency for Profit Maximization (Algo Trading)"
+title: "Assessing Corporate Efficiency for Profit Maximization"
 description: "Explore the essential link between corporate efficiency and profit maximization in algorithmic trading with strategies to enhance trading performance and business success."
 ---
 

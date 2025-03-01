@@ -1,5 +1,5 @@
 ---
-title: "Evaluating REIT Value Using Net Asset Value (Algo Trading)"
+title: "Evaluating REIT Value Using Net Asset Value"
 description: "Discover how Net Asset Value (NAV) serves as a cornerstone in evaluating Real Estate Investment Trusts (REITs), offering insights into their true worth versus market prices. This article explores the influence of algorithmic trading on REIT valuation, helping investors navigate the complex real estate investment landscape by integrating traditional metrics with modern trading technologies for optimized portfolio strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Authorized Forex Dealer: Overview and Functionality (Algo Trading)"
+title: "Authorized Forex Dealer: Overview and Functionality"
 description: "Discover the pivotal role of authorized forex dealers in ensuring secure and efficient trading within the global forex market through regulatory compliance."
 ---
 

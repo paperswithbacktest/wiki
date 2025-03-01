@@ -1,5 +1,5 @@
 ---
-title: "Gaussian probability distributions (Algo Trading)"
+title: "Gaussian probability distributions"
 description: Explore the foundational role of Gaussian probability distributions in algorithmic trading, highlighting their significance in modeling asset returns and price variations. Understand how Gaussian models, characterized by the bell-shaped normal distribution curve, assist in market trend analysis and risk management. Despite their advantages, these models have limitations due to market anomalies, requiring traders to complement them with additional statistical tools.
 ---
 

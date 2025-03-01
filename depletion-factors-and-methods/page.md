@@ -1,5 +1,5 @@
 ---
-title: "Depletion and Factors Influencing It (Algo Trading)"
+title: "Depletion and Factors Influencing It"
 description: "Explore the intersection of resource depletion management and algorithmic trading to understand how they influence sustainable and efficient financial strategies."
 ---
 

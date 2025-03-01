@@ -1,5 +1,5 @@
 ---
-title: "Interest Coverage Ratio (Algo Trading)"
+title: "Interest Coverage Ratio"
 description: "Explore the significance of the interest coverage ratio in algorithmic trading and business finance Understanding and leveraging this key metric can enhance assessments of company solvency"
 ---
 

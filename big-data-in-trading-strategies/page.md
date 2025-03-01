@@ -1,5 +1,5 @@
 ---
-title: "Big Data in Trading Strategies (Algo Trading)"
+title: "Big Data in Trading Strategies"
 description: "Explore how big data revolutionizes algorithmic trading by enabling data-driven strategies for faster and more accurate financial market decisions."
 ---
 

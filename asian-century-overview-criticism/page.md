@@ -1,5 +1,5 @@
 ---
-title: "Asian Century: Overview and Criticism (Algo Trading)"
+title: "Asian Century: Overview and Criticism"
 description: "Explore the Asian Century's potential in global politics and economy examining its economic growth, technological impacts and the criticism it faces."
 ---
 

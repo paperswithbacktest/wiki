@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Systematic Investment Plans and Mutual Funds (Algo Trading)"
+title: "Comparison of Systematic Investment Plans and Mutual Funds"
 description: "Learn about Systematic Investment Plans (SIPs), Mutual Funds, and Algo Trading with this comprehensive comparison designed to guide informed investment decisions."
 ---
 

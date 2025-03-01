@@ -1,5 +1,5 @@
 ---
-title: "Asset-Backed Credit Default Swap (Algo Trading)"
+title: "Asset-Backed Credit Default Swap"
 description: "Explore the essentials of asset-backed credit default swaps Discover how these financial instruments offer risk management and portfolio diversification benefits"
 ---
 

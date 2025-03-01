@@ -1,5 +1,5 @@
 ---
-title: "Financial Assistance for Climate-Smart Agriculture and Ranching (Algo Trading)"
+title: "Financial Assistance for Climate-Smart Agriculture and Ranching"
 description: "Discover how financial assistance supports climate-smart agriculture and ranching by facilitating sustainable practices and algorithmic trading for resilient growth."
 ---
 

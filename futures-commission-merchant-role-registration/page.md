@@ -1,5 +1,5 @@
 ---
-title: "Futures Commission Merchant: Role and Registration (Algo Trading)"
+title: "Futures Commission Merchant: Role and Registration"
 description: "Explore the evolving role of Futures Commission Merchants in algorithmic trading Learn how they drive innovation, ensure compliance, and safeguard market integrity"
 ---
 

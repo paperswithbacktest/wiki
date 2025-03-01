@@ -1,5 +1,5 @@
 ---
-title: "Lisbon Treaty: History, Impact, and Analysis (Algo Trading)"
+title: "Lisbon Treaty: History, Impact, and Analysis"
 description: "Explore the Lisbon Treaty as a vital EU milestone shaping financial markets and algorithmic trading through enhanced regulatory frameworks and governance."
 ---
 

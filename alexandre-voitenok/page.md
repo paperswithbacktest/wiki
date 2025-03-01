@@ -1,5 +1,5 @@
 ---
-title: "Alexandre Voitenok (Algo Trading)"
+title: "Alexandre Voitenok"
 description: "Alexandre Voitenok is a leader in algorithmic trading and finance with expertise in risk analysis and portfolio management at Acadian Asset Management."
 ---
 

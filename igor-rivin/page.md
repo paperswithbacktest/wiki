@@ -1,5 +1,5 @@
 ---
-title: "Igor Rivin (Algo Trading)"
+title: "Igor Rivin"
 description: "Discover the remarkable journey of Igor Rivin blending mathematics and finance from his academic beginnings to key roles in algorithmic trading and research."
 ---
 

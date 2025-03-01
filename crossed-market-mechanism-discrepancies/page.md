@@ -1,5 +1,5 @@
 ---
-title: "Crossed Market: Definition, Mechanism, and Discrepancies (Algo Trading)"
+title: "Crossed Market: Definition, Mechanism, and Discrepancies"
 description: "Explore the dynamics of crossed markets and trading mechanisms in algo trading Learn to navigate rare market opportunities that arise during volatility and low liquidity"
 ---
 

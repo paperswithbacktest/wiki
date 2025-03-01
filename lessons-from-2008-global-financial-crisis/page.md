@@ -1,5 +1,5 @@
 ---
-title: "Lessons From the 2008 Global Financial Crisis (Algo Trading)"
+title: "Lessons From the 2008 Global Financial Crisis"
 description: "Explore the critical lessons from the 2008 financial crisis delving into economic strategies, policy reforms, and the role of algorithmic trading in shaping today’s markets."
 ---
 

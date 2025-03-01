@@ -1,5 +1,5 @@
 ---
-title: "Hindenburg Omen: Criteria and Example (Algo Trading)"
+title: "Hindenburg Omen: Criteria and Example"
 description: "Discover the criteria and examples of the Hindenburg Omen in algo trading Understand how this controversial index provides insights into market instability"
 ---
 

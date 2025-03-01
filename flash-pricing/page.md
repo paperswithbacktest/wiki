@@ -1,5 +1,5 @@
 ---
-title: "Flash Pricing (Algo Trading)"
+title: "Flash Pricing"
 description: "Optimize your business's revenue with flash and dynamic pricing backed by algorithmic trading. Stay competitive with real-time, data-driven strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Irrational Exuberance: Origin and Examples (Algo Trading)"
+title: "Irrational Exuberance: Origin and Examples"
 description: "Explore irrational exuberance in finance, its impact on asset prices, and the role of algorithmic trading in navigating market bubbles and volatility."
 ---
 

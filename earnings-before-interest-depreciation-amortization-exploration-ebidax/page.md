@@ -1,5 +1,5 @@
 ---
-title: "Earnings Before Interest, Depreciation, Amortization, and Exploration (EBIDAX) (Algo Trading)"
+title: "Earnings Before Interest, Depreciation, Amortization, and Exploration (EBIDAX)"
 description: "Discover the impact of EBIDAX on algorithmic trading and its role in refining financial insights in the oil and gas sector beyond traditional GAAP measures."
 ---
 

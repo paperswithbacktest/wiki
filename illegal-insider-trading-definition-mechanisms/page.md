@@ -1,5 +1,5 @@
 ---
-title: "Illegal Insider Trading: Definition and Mechanisms (Algo Trading)"
+title: "Illegal Insider Trading: Definition and Mechanisms"
 description: "Explore the complexities of illegal insider trading and its implications for financial markets Understanding securities fraud mechanisms and the role of algorithmic trading"
 ---
 

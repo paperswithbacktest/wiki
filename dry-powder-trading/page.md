@@ -1,5 +1,5 @@
 ---
-title: "Dry Powder in Trading (Algo Trading)"
+title: "Dry Powder in Trading"
 description: "Discover how dry powder reserves and algorithmic trading can optimize investment strategies providing liquidity and automation for enhanced market agility."
 ---
 

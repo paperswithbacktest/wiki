@@ -1,5 +1,5 @@
 ---
-title: "Investment in Luxury Real Estate (Algo Trading)"
+title: "Investment in Luxury Real Estate"
 description: "Explore lucrative opportunities in luxury real estate investment with algorithmic trading Discover strategies to maximize returns in this exclusive market"
 ---
 

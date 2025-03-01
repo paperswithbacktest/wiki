@@ -1,5 +1,5 @@
 ---
-title: "mean field game (Algo Trading)"
+title: "mean field game"
 description: "Explore the synergy of Mean Field Games and algorithmic trading to optimize high-frequency trading strategies, enhance market liquidity, and reduce costs."
 ---
 

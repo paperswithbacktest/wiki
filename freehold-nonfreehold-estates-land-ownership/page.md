@@ -1,5 +1,5 @@
 ---
-title: "Freehold and Nonfreehold Estates in Land Ownership (Algo Trading)"
+title: "Freehold and Nonfreehold Estates in Land Ownership"
 description: "Explore the nuances of freehold and nonfreehold estates in land ownership, and discover how algorithmic trading is transforming real estate investment strategies."
 ---
 

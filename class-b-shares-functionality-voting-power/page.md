@@ -1,5 +1,5 @@
 ---
-title: "Class B Shares: Functionality and Voting Power (Algo Trading)"
+title: "Class B Shares: Functionality and Voting Power"
 description: "Discover the dynamics of Class B shares and their role in algorithmic trading Understand how reduced voting power and accessibility impact investment strategies"
 ---
 

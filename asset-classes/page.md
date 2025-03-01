@@ -1,5 +1,5 @@
 ---
-title: "Asset Classes (Algo Trading)"
+title: "Asset Classes"
 description: "Explore the diverse landscape of asset classes and the impact of algorithmic trading within financial markets. This article provides insights on maximizing returns and managing risks through strategic asset management. Discover various investment vehicles, including equities, fixed income, and digital assets, to enhance and diversify your portfolio for optimal financial outcomes."
 ---
 

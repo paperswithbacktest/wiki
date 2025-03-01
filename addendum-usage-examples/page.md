@@ -1,5 +1,5 @@
 ---
-title: "Addendum: Usage and Examples (Algo Trading)"
+title: "Addendum: Usage and Examples"
 description: "Explore the significance of meticulous documentation in algorithmic trading and how an addition addendum can enhance clarity, compliance, and strategy adaptability."
 ---
 

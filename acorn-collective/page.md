@@ -1,5 +1,5 @@
 ---
-title: "Acorn Collective (Algo Trading)"
+title: "Acorn Collective"
 description: "Discover how Acorn Collective is revolutionizing crowdfunding by merging blockchain and algo trading to create transparent, efficient, and inclusive fundraising."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "List of Largest Biotechnology Companies (Algo Trading)"
+title: "List of Largest Biotechnology Companies"
 description: "Explore the leading biotech companies driving innovation in healthcare agriculture and environmental sustainability with insights on algorithmic trading strategies."
 ---
 

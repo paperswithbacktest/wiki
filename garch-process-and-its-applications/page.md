@@ -1,5 +1,5 @@
 ---
-title: "GARCH Process and Its Applications (Algo Trading)"
+title: "GARCH Process and Its Applications"
 description: "Explore the GARCH process and its role in financial modeling and algorithmic trading Discover its impact on volatility estimation and risk management strategies"
 ---
 

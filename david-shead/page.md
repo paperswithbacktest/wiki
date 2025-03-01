@@ -1,5 +1,5 @@
 ---
-title: "David Shead (Algo Trading)"
+title: "David Shead"
 description: "Explore the journey of David Shead from his education in mathematics and engineering to his impactful career in algorithmic trading at Akuna Capital."
 ---
 

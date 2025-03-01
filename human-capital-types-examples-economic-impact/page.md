@@ -1,5 +1,5 @@
 ---
-title: "Human Capital: Types, Examples, and Economic Impact (Algo Trading)"
+title: "Human Capital: Types, Examples, and Economic Impact"
 description: "Explore the crucial impact of human capital on economic growth, focusing on its role in algorithmic trading and the diverse skills driving innovation."
 ---
 

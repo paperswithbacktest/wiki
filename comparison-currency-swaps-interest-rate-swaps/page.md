@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Currency Swaps and Interest Rate Swaps (Algo Trading)"
+title: "Comparison of Currency Swaps and Interest Rate Swaps"
 description: "Explore the benefits and risks of currency swaps and interest rate swaps in algorithmic trading Learn how these derivatives manage risks and enhance returns"
 ---
 

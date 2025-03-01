@@ -1,5 +1,5 @@
 ---
-title: "Boilerplate Language Usage and History (Algo Trading)"
+title: "Boilerplate Language Usage and History"
 description: "Explore the role of boilerplate language in algorithmic trading as a key tool for efficient strategy automation Learn about its history usage and future trends"
 ---
 

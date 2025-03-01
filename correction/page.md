@@ -1,5 +1,5 @@
 ---
-title: "Correction (Algo Trading)"
+title: "Correction"
 description: "Explore the essential processes of rectification amendment and correction in algorithmic trading to enhance accuracy and optimize trade strategies effectively."
 ---
 

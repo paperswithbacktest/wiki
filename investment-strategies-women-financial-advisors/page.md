@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategies for Women from Financial Advisors (Algo Trading)"
+title: "Investment Strategies for Women from Financial Advisors"
 description: "Explore diverse investment strategies tailored for women, addressing unique financial challenges and opportunities with insights into algorithmic trading."
 ---
 

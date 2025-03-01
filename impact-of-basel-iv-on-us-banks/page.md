@@ -1,5 +1,5 @@
 ---
-title: "Impact of Basel IV on U.S. Banks (Algo Trading)"
+title: "Impact of Basel IV on U.S. Banks"
 description: "Explore how Basel IV reshapes risk management for U.S. banks and impacts algorithmic trading strategies promoting stability in the financial sector."
 ---
 

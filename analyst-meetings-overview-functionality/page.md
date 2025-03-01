@@ -1,5 +1,5 @@
 ---
-title: "Analyst Meetings: Overview and Functionality (Algo Trading)"
+title: "Analyst Meetings: Overview and Functionality"
 description: "Explore the synergy between analyst meetings financial analysis and algorithmic trading in enhancing investment strategies and market transparency."
 ---
 

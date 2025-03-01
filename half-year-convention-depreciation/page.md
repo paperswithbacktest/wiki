@@ -1,5 +1,5 @@
 ---
-title: "Half-Year Convention in Depreciation (Algo Trading)"
+title: "Half-Year Convention in Depreciation"
 description: "Explore how the half-year convention in depreciation enhances algorithmic trading by aligning asset costs with revenues, optimizing efficiency, and aiding financial planning."
 ---
 

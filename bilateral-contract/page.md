@@ -1,5 +1,5 @@
 ---
-title: "Bilateral Contract (Algo Trading)"
+title: "Bilateral Contract"
 description: "Explore the intricacies of bilateral contracts within algorithmic trading. Understand their importance in legal and financial landscapes, ensuring smooth transactions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Cover: Definitions, Overview, And Applications (Algo Trading)"
+title: "Cover: Definitions, Overview, And Applications"
 description: "Explore algorithmic trading definitions overview and applications Discover how algo trading enhances efficiency across markets and the top platforms used today"
 ---
 

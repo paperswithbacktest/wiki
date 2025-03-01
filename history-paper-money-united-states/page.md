@@ -1,5 +1,5 @@
 ---
-title: "History of Paper Money in the United States (Algo Trading)"
+title: "History of Paper Money in the United States"
 description: "Discover the intertwined history of U.S. paper money and algorithmic trading from colonial innovations to modern economic transformations and digital currencies."
 ---
 

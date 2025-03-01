@@ -1,5 +1,5 @@
 ---
-title: "Gypsy Swap: Concept and Mechanism (Algo Trading)"
+title: "Gypsy Swap: Concept and Mechanism"
 description: "Explore Gypsy Swaps, a method for raising capital without adding debt, equity financing strategies, and the impact of algorithmic trading on financial markets."
 ---
 

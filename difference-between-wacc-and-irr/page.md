@@ -1,5 +1,5 @@
 ---
-title: "Difference Between WACC and IRR (Algo Trading)"
+title: "Difference Between WACC and IRR"
 description: "Explore the key differences between WACC and IRR in algorithmic trading and learn how these metrics aid investment decision-making and risk management."
 ---
 

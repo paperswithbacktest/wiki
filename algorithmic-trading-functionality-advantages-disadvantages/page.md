@@ -1,5 +1,5 @@
 ---
-title: "Algorithmic Trading: Functionality, Advantages, and Disadvantages (Algo Trading)"
+title: "Algorithmic Trading: Functionality, Advantages, and Disadvantages"
 description: "Explore the essential features, benefits, and drawbacks of algorithmic trading which uses computer algorithms to execute trades swiftly in financial markets."
 ---
 

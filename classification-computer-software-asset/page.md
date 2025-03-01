@@ -1,5 +1,5 @@
 ---
-title: "Classification of Computer Software as an Asset (Algo Trading)"
+title: "Classification of Computer Software as an Asset"
 description: "Discover how software is classified as an asset in algorithmic trading emphasizing its role in optimizing financial strategies and enhancing market operations."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Methods for Stock Valuation Selection (Algo Trading)"
+title: "Methods for Stock Valuation Selection"
 description: "Explore effective methods for stock valuation and selection, focusing on financial analysis and the role of algorithmic trading in making informed investment decisions. Gain insights into absolute and relative valuation models, key financial metrics, and how algorithms enhance trading speed and precision, empowering investors to optimize portfolios and navigate complex markets efficiently."
 ---
 

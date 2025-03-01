@@ -1,5 +1,5 @@
 ---
-title: "limit order book dynamics (Algo Trading)"
+title: "limit order book dynamics"
 description: "Explore the dynamics of limit order books in algorithmic trading Learn how they provide valuable market insights aid strategy development and enhance trade execution"
 ---
 

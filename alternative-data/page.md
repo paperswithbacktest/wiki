@@ -1,5 +1,5 @@
 ---
-title: "Alternative data (Algo Trading)"
+title: "Alternative data"
 description: Discover the transformative impact of alternative data in algorithmic trading, where innovative non-traditional data sources offer unique insights for strategic advantage. From social media sentiment to satellite imagery, these data sets reveal market trends beyond conventional metrics, enabling traders to optimize decisions and refine strategies. Explore the growing significance of alternative data, the challenges of its unstructured nature, and the advanced technologies like machine learning that are making its integration into trading systems both feasible and powerful.
 ---
 

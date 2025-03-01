@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Money Flow and Real Flow (Algo Trading)"
+title: "Differences Between Money Flow and Real Flow"
 description: "Explore the intricate relationship between money flow and real flow in algorithmic trading, highlighting their roles in economic exchanges and financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Distribution Stock: Definition and Sales Process (Algo Trading)"
+title: "Distribution Stock: Definition and Sales Process"
 description: "Unlock the intricacies of distribution stock in algorithmic trading. Learn the roles of institutional investors and the impact on market stability and prices."
 ---
 

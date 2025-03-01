@@ -1,5 +1,5 @@
 ---
-title: "Cram-Down Deals (Algo Trading)"
+title: "Cram-Down Deals"
 description: "Discover key insights into debt restructuring and cram-down deals in bankruptcy, alongside the impact and challenges of algorithmic trading in today's financial markets."
 ---
 

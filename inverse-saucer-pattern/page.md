@@ -1,5 +1,5 @@
 ---
-title: "Inverse Saucer Pattern (Algo Trading)"
+title: "Inverse Saucer Pattern"
 description: "Explore the inverse saucer pattern in algorithmic trading to identify potential market reversals. Understand its characteristics for improved trading strategies."
 ---
 

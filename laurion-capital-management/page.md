@@ -1,5 +1,5 @@
 ---
-title: "Laurion Capital Management (Algo Trading)"
+title: "Laurion Capital Management"
 description: "Discover the innovative world of Laurion Capital Management where cutting-edge algorithmic trading strategies redefine investment management for competitive returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Dark Pool Trading Strategies (Algo Trading)"
+title: "Dark Pool Trading Strategies"
 description: "Explore dark pool trading strategies using algorithmic components to optimize large transactions discreetly minimize market impact and enhance execution efficiency"
 ---
 

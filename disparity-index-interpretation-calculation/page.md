@@ -1,5 +1,5 @@
 ---
-title: "Disparity Index: Interpretation and Calculation (Algo Trading)"
+title: "Disparity Index: Interpretation and Calculation"
 description: "Explore the Disparity Index in algorithmic trading. Learn how this indicator enhances strategies by analyzing market trends and timing trade entries and exits."
 ---
 

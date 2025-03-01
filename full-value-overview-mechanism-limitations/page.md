@@ -1,5 +1,5 @@
 ---
-title: "Full Value: Overview, Mechanism, and Limitations (Algo Trading)"
+title: "Full Value: Overview, Mechanism, and Limitations"
 description: "Explore the mechanisms and limitations of algo trading and understand how traders can maximize the full value in rapidly evolving financial markets."
 ---
 

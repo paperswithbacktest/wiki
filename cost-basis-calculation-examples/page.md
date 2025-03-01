@@ -1,5 +1,5 @@
 ---
-title: "Cost Basis: Calculation and Examples (Algo Trading)"
+title: "Cost Basis: Calculation and Examples"
 description: "Understand how accurate cost basis calculations optimize trading strategies in algorithmic trading Learn methods like FIFO LIFO for significant tax impacts"
 ---
 

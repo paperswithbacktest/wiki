@@ -1,5 +1,5 @@
 ---
-title: "Energy Alternative Data (Algo Trading)"
+title: "Energy Alternative Data"
 description: Explore the transformative role of energy alternative data in algorithmic trading, revealing how non-traditional data sources like satellite imagery and geo-location can enhance market predictions. Discover how traders in the energy sector use innovative datasets and AI to optimize strategies, anticipate market moves, and maintain a competitive edge in volatile markets.
 ---
 

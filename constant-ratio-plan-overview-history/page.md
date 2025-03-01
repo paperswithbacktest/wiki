@@ -1,5 +1,5 @@
 ---
-title: "Constant Ratio Plan: Overview and Historical Context (Algo Trading)"
+title: "Constant Ratio Plan: Overview and Historical Context"
 description: "Explore the Constant Ratio Plan a strategic approach in investment management focusing on maintaining a fixed asset mix to optimize returns and manage risks."
 ---
 

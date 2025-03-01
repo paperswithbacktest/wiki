@@ -1,5 +1,5 @@
 ---
-title: "Laissez-Faire Economy and Its Functioning (Algo Trading)"
+title: "Laissez-Faire Economy and Its Functioning"
 description: "Explore the principles and challenges of laissez-faire economics in the context of modern technological advancements like algorithmic trading and its market impacts."
 ---
 

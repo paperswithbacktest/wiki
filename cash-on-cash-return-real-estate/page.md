@@ -1,5 +1,5 @@
 ---
-title: "Cash-on-Cash Return in Real Estate (Algo Trading)"
+title: "Cash-on-Cash Return in Real Estate"
 description: "Explore the significance of cash-on-cash return in real estate investments and how algorithmic trading can optimize strategies to enhance cash flow performance."
 ---
 

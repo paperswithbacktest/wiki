@@ -1,5 +1,5 @@
 ---
-title: "Classification of Mutual Funds as Equity Securities (Algo Trading)"
+title: "Classification of Mutual Funds as Equity Securities"
 description: "Explore how mutual funds are classified as equity securities and the role of algorithmic trading in investing to make informed financial decisions."
 ---
 

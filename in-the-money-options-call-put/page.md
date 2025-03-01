@@ -1,5 +1,5 @@
 ---
-title: "In-the-Money Options: Call and Put (Algo Trading)"
+title: "In-the-Money Options: Call and Put"
 description: "Explore the key elements of in-the-money call and put options and how algorithmic trading enhances strategies for optimized profitability in options trading."
 ---
 

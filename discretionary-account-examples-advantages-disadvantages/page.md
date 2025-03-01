@@ -1,5 +1,5 @@
 ---
-title: "Discretionary Account: Examples, Advantages, and Disadvantages (Algo Trading)"
+title: "Discretionary Account: Examples, Advantages, and Disadvantages"
 description: "Discover the pros and cons of discretionary accounts in algo trading including how tailored strategies and automation transform modern portfolio management."
 ---
 

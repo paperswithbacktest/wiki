@@ -1,5 +1,5 @@
 ---
-title: "Index Amortizing Note (Algo Trading)"
+title: "Index Amortizing Note"
 description: "Explore the innovative world of Index Amortizing Notes within algorithmic trading Learn how IANs can help investors manage interest rate risk and optimize returns"
 ---
 

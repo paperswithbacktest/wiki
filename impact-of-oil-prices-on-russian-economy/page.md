@@ -1,5 +1,5 @@
 ---
-title: "Impact of Oil Prices on the Russian Economy (Algo Trading)"
+title: "Impact of Oil Prices on the Russian Economy"
 description: "Explore how fluctuating oil prices impact Russia's economy, a leading global exporter, and discover the role of algorithmic trading in market dynamics."
 ---
 

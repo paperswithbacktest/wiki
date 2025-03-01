@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Operating Income and Net Income (Algo Trading)"
+title: "Comparison of Operating Income and Net Income"
 description: "Explore the distinctions between operating income and net income in algo trading to gain insights into a company's financial performance and enhance trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "History of Coinage in the United States (Algo Trading)"
+title: "History of Coinage in the United States"
 description: "Explore the evolution of U.S. coinage and its connection to modern algorithmic trading highlighting the shift from physical currency to advanced trading technologies."
 ---
 

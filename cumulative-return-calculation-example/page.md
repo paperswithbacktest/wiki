@@ -1,5 +1,5 @@
 ---
-title: "Cumulative Return and Calculation (Algo Trading)"
+title: "Cumulative Return and Calculation"
 description: "Understanding and accurately calculating cumulative returns is key for investors and algorithmic traders to assess asset performance and optimize trading strategies effectively."
 ---
 

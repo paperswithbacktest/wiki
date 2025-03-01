@@ -1,5 +1,5 @@
 ---
-title: "Efficient Market Hypothesis (Algo Trading)"
+title: "Efficient Market Hypothesis"
 description: "Explore how algorithmic trading impacts the Efficient Market Hypothesis EMH assessing its effect on market efficiency and challenging traditional financial theories."
 ---
 

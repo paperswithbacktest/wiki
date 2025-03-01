@@ -1,5 +1,5 @@
 ---
-title: "Display Book System (Algo Trading)"
+title: "Display Book System"
 description: "Explore how algorithmic trading systems like the Display Book have evolved to enhance efficiency in financial markets Discover their impact and future trends"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Biotechnology and Pharmaceuticals: Differences (Algo Trading)"
+title: "Biotechnology and Pharmaceuticals: Differences"
 description: "Explore the distinct methodologies between biotechnology and pharmaceuticals in healthcare development Discover investment insights in this evolving landscape"
 ---
 

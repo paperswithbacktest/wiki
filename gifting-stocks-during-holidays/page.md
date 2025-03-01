@@ -1,5 +1,5 @@
 ---
-title: "Gifting Stocks During Holidays (Algo Trading)"
+title: "Gifting Stocks During Holidays"
 description: "Gifting stocks during the holidays offers a unique, lasting present that fosters financial literacy and encourages long-term growth and wealth building."
 ---
 

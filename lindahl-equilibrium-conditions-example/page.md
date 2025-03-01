@@ -1,5 +1,5 @@
 ---
-title: "Lindahl Equilibrium and Its Conditions (Algo Trading)"
+title: "Lindahl Equilibrium and Its Conditions"
 description: "Explore the intersection of Lindahl Equilibrium and algorithmic trading to discover innovative approaches in public goods provision and modern financial markets."
 ---
 

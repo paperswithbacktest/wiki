@@ -1,5 +1,5 @@
 ---
-title: "Kondratiev Wave: Definition and Mechanism (Algo Trading)"
+title: "Kondratiev Wave: Definition and Mechanism"
 description: "Explore Kondratiev Waves to understand long-term economic cycles and their impact on algo trading Gain insights into strategic investment informed by macroeconomic trends"
 ---
 

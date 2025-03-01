@@ -1,5 +1,5 @@
 ---
-title: "Comparison of High and Low Equity Multipliers (Algo Trading)"
+title: "Comparison of High and Low Equity Multipliers"
 description: "Explore the intricate balance of high and low equity multipliers in algo trading Discover their impact on financial health leverage and strategic investment choices"
 ---
 

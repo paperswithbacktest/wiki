@@ -1,5 +1,5 @@
 ---
-title: "Hex Cryptocurrency: Overview, History, and Controversies (Algo Trading)"
+title: "Hex Cryptocurrency: Overview, History, and Controversies"
 description: "Explore HEX cryptocurrency's unique model its history and controversies; discover algorithmic trading's role in managing crypto market risks and opportunities."
 ---
 

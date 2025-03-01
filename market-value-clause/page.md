@@ -1,5 +1,5 @@
 ---
-title: "Market Value Clause (Algo Trading)"
+title: "Market Value Clause"
 description: "Explore the evolving intersection of insurance market value clauses and algorithmic trading, crucial for managing risks and optimizing trading in financial markets."
 ---
 

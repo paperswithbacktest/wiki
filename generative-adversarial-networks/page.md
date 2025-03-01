@@ -1,5 +1,5 @@
 ---
-title: "Generative Adversarial Networks (Algo Trading)"
+title: "Generative Adversarial Networks"
 description: "Explore how Generative Adversarial Networks enhance algorithmic trading by simulating market conditions generating realistic data and refining strategies effectively."
 ---
 

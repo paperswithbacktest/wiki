@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategies Using Bonds (Algo Trading)"
+title: "Investment Strategies Using Bonds"
 description: "Explore how bonds, a staple of investment portfolios, integrate with algorithmic trading to enhance precision, reduce costs, and manage risks in diverse financial markets."
 ---
 

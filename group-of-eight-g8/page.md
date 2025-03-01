@@ -1,5 +1,5 @@
 ---
-title: "Group of Eight (G8) (Algo Trading)"
+title: "Group of Eight (G8)"
 description: "Explore the intricate dynamics of the G8 and the transformative impact of algorithmic trading on global financial markets and policies."
 ---
 

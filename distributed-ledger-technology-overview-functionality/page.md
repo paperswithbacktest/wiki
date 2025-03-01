@@ -1,5 +1,5 @@
 ---
-title: "Distributed Ledger Technology: Overview and Functionality (Algo Trading)"
+title: "Distributed Ledger Technology: Overview and Functionality"
 description: "Explore how Distributed Ledger Technology enhances algorithmic trading by boosting efficiency and security. Discover the synergy revolutionizing financial operations."
 ---
 

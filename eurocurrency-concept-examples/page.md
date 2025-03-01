@@ -1,5 +1,5 @@
 ---
-title: "Eurocurrency: Concept and Examples (Algo Trading)"
+title: "Eurocurrency: Concept and Examples"
 description: "Explore Eurocurrency concepts and the impact of algorithmic trading on global finance markets with insights into their roles and mechanisms in international trade."
 ---
 

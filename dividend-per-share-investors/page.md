@@ -1,5 +1,5 @@
 ---
-title: "Dividend Per Share and Its Implications for Investors (Algo Trading)"
+title: "Dividend Per Share and Its Implications for Investors"
 description: "Discover how Dividend Per Share (DPS) impacts investment strategies and learn its integration in algorithmic trading to enhance decision-making and returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Long-Term Investing for Companies and Individuals (Algo Trading)"
+title: "Long-Term Investing for Companies and Individuals"
 description: "Explore successful long-term investment strategies for individuals and companies Learn how algorithmic trading enhances investment outcomes and financial planning"
 ---
 

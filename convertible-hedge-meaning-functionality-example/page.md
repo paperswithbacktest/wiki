@@ -1,5 +1,5 @@
 ---
-title: "Convertible Hedge: Meaning, Functionality, and Example (Algo Trading)"
+title: "Convertible Hedge: Meaning, Functionality, and Example"
 description: "Explore convertible hedge and algo trading strategies that manage risk and optimize returns in dynamic markets through automated, efficient processes."
 ---
 

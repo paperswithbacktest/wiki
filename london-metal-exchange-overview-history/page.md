@@ -1,5 +1,5 @@
 ---
-title: "London Metal Exchange: Overview and History (Algo Trading)"
+title: "London Metal Exchange: Overview and History"
 description: "Explore the London Metal Exchange's rich history and its evolution into modern digital trading, highlighting the impact of algorithmic trading on market dynamics."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Compound Net Annual Rate (CNAR) (Algo Trading)"
+title: "Compound Net Annual Rate (CNAR)"
 description: "Explore the Compound Net Annual Rate (CNAR) as a crucial metric in algorithmic trading that evaluates post-tax investment returns providing investors a realistic profitability view."
 ---
 

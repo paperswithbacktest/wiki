@@ -1,5 +1,5 @@
 ---
-title: "Defeasance and Commercial Real Estate Fee Reduction (Algo Trading)"
+title: "Defeasance and Commercial Real Estate Fee Reduction"
 description: "Explore how defeasance and algorithmic trading strategies are revolutionizing cost reduction in commercial real estate for investors and lenders."
 ---
 

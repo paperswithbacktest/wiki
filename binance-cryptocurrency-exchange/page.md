@@ -1,5 +1,5 @@
 ---
-title: "Binance Cryptocurrency Exchange (Algo Trading)"
+title: "Binance Cryptocurrency Exchange"
 description: "Explore algorithmic trading on Binance offering a user-friendly platform for implementing efficient and precise trading strategies to optimize cryptocurrency trades."
 ---
 

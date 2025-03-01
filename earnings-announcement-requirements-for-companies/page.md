@@ -1,5 +1,5 @@
 ---
-title: "Earnings Announcement Requirements for Companies (Algo Trading)"
+title: "Earnings Announcement Requirements for Companies"
 description: "Explore how algorithmic trading leverages earnings reports to enhance trading strategies and capitalize on financial insights such as revenue and EPS. Discover techniques like machine learning and natural language processing that aid in making informed decisions during volatile market periods resulting from earnings announcements. This guide investigates into the methodologies and technologies used by algorithms to optimize trading outcomes based on patterns and sentiment analysis within earnings data."
 ---
 

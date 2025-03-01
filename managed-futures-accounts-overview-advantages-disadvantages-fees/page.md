@@ -1,5 +1,5 @@
 ---
-title: "Managed Futures Accounts: Overview, Advantages and Disadvantages, Fees (Algo Trading)"
+title: "Managed Futures Accounts: Overview, Advantages and Disadvantages, Fees"
 description: "Explore the advantages and disadvantages of managed futures accounts using algorithmic trading This page provides insights into fees and diversification benefits"
 ---
 

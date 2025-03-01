@@ -1,5 +1,5 @@
 ---
-title: "Impact of Climate Change on Businesses (Algo Trading)"
+title: "Impact of Climate Change on Businesses"
 description: "Explore the dynamic impact of climate change on businesses, focusing on sustainability initiatives and the innovative role of algorithmic trading in climate finance."
 ---
 

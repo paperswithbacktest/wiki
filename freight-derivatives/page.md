@@ -1,5 +1,5 @@
 ---
-title: "Freight Derivatives (Algo Trading)"
+title: "Freight Derivatives"
 description: "Explore the crucial role of freight derivatives in the shipping industry as they aid in risk management and stabilize financial performance amidst market volatility."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Gifting Non-Fungible Tokens (Algo Trading)"
+title: "Gifting Non-Fungible Tokens"
 description: "Discover how NFTs are revolutionizing gift-giving by combining exclusivity and originality with algorithmic trading insights for a modern digital experience."
 ---
 

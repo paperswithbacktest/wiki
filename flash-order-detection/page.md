@@ -1,5 +1,5 @@
 ---
-title: "Flash Order Detection (Algo Trading)"
+title: "Flash Order Detection"
 description: "Explore the intricacies of flash order detection in algorithmic trading, uncovering its critical role, mechanisms, and impact on trading strategies and market dynamics."
 ---
 

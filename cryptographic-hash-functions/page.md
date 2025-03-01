@@ -1,5 +1,5 @@
 ---
-title: "Cryptographic Hash Functions (Algo Trading)"
+title: "Cryptographic Hash Functions"
 description: "Explore the pivotal role of cryptographic hash functions in algorithmic trading's security and data integrity while driving efficient and reliable transactions."
 ---
 

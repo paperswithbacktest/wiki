@@ -1,5 +1,5 @@
 ---
-title: "Investopedia Guide to 'Billions' (Algo Trading)"
+title: "Investopedia Guide to 'Billions'"
 description: "Explore algorithmic trading as depicted in 'Billions' TV series and understand its real-world implications with insights from Investopedia's trusted resources."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Amortization Schedule and Calculation Method (Algo Trading)"
+title: "Amortization Schedule and Calculation Method"
 description: "Explore the intersection of traditional finance and modern innovation with our insights into loan amortization schedules and algorithmic trading. Learn how these tools streamline complex processes in financial planning, asset management, debt restructuring, and investment strategies, empowering individuals and businesses for effective financial management."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Adjustment Bond: Function and Mechanism (Algo Trading)"
+title: "Adjustment Bond: Function and Mechanism"
 description: "Explore the role of algorithmic trading in bond markets including its impact on efficiency and risk management Discover how technology optimizes trading dynamics"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Back-End Load: Advantages, Criticisms, and Examples (Algo Trading)"
+title: "Back-End Load: Advantages, Criticisms, and Examples"
 description: "Explore the advantages and criticisms of back-end load in mutual funds and how algorithmic trading can optimize investment strategies for better returns"
 ---
 

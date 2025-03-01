@@ -1,5 +1,5 @@
 ---
-title: "Closure of Mutual Funds (Algo Trading)"
+title: "Closure of Mutual Funds"
 description: "Explore the evolving world of mutual funds and algorithmic trading Discover how technology and innovation are reshaping investment strategies and portfolio management."
 ---
 

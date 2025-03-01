@@ -1,5 +1,5 @@
 ---
-title: "In Specie in Asset Distributions (Algo Trading)"
+title: "In Specie in Asset Distributions"
 description: "Discover the intricacies of in specie asset distributions and algorithmic trading to enhance your financial strategies Understand how these concepts optimize risk and return"
 ---
 

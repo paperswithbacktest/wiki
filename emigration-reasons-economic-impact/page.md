@@ -1,5 +1,5 @@
 ---
-title: "Emigration: Reasons and Economic Impact (Algo Trading)"
+title: "Emigration: Reasons and Economic Impact"
 description: "Explore the complex interplay between migration, economic impacts, and algorithmic trading. Understand diverse motivations, benefits, and challenges shaping global economies."
 ---
 

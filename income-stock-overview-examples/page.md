@@ -1,5 +1,5 @@
 ---
-title: "Income Stock Overview and Examples (Algo Trading)"
+title: "Income Stock Overview and Examples"
 description: "Explore income stock investing and algorithmic trading to optimize returns. Learn how steady dividends and high-speed algorithms create investor opportunities."
 ---
 

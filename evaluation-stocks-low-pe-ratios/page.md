@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of Stocks with Low P/E Ratios (Algo Trading)"
+title: "Evaluation of Stocks with Low P/E Ratios"
 description: "Explore effective stock investment strategies by understanding low P/E ratios in algorithmic trading Learn how these insights help identify undervalued opportunities"
 ---
 

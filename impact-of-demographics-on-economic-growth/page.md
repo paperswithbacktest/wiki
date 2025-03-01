@@ -1,5 +1,5 @@
 ---
-title: "Impact of Demographics on Economic Growth (Algo Trading)"
+title: "Impact of Demographics on Economic Growth"
 description: "Discover how demographics shape economic growth and influence financial markets. Explore key economic indicators and their role in algorithmic trading strategies."
 ---
 

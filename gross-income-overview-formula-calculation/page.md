@@ -1,5 +1,5 @@
 ---
-title: "Gross Income: Overview, Formula, and Calculation (Algo Trading)"
+title: "Gross Income: Overview, Formula, and Calculation"
 description: "Explore the essentials of gross income its calculation and impact on personal finance and trading Discover how it guides financial planning and algorithmic trading"
 ---
 

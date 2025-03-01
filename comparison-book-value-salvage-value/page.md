@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Book Value and Salvage Value (Algo Trading)"
+title: "Comparison of Book Value and Salvage Value"
 description: "Explore the significance of book value and salvage value in finance Understand their roles in asset management valuation and algorithmic trading strategies"
 ---
 

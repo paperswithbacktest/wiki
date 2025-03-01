@@ -1,5 +1,5 @@
 ---
-title: "Capital Gearing Overview and Functionality (Algo Trading)"
+title: "Capital Gearing Overview and Functionality"
 description: "Explore the fundamentals of capital gearing and financial leverage in algorithmic trading Discover how these metrics influence financial health and trading strategies"
 ---
 

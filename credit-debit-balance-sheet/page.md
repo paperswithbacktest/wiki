@@ -1,5 +1,5 @@
 ---
-title: "Credit and Debit on a Balance Sheet (Algo Trading)"
+title: "Credit and Debit on a Balance Sheet"
 description: "Explore the essential role of credit and debit in accounting and their impact on balance sheets amidst algorithmic trading advancements for optimal financial strategies."
 ---
 

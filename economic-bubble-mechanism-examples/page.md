@@ -1,5 +1,5 @@
 ---
-title: "Economic Bubble: Definition, Mechanism, and Examples (Algo Trading)"
+title: "Economic Bubble: Definition, Mechanism, and Examples"
 description: "Explore economic bubbles their mechanisms and key historical examples like Tulip Mania and Dot-Com Bubble while examining the impact of algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Brett Steenbarger Trading Psychology (Algo Trading)"
+title: "Brett Steenbarger Trading Psychology"
 description: Explore the critical role of psychology in trading with insights from Brett Steenbarger. This page investigates into the intersection of trading psychology and algorithmic strategies addressing how psychological principles can enhance decision-making and performance. Understand how to break detrimental trading habits cultivate adaptability and leverage psychological awareness to maintain a competitive edge in financial markets. Discover Steenbarger's philosophy on fostering mental resilience and adaptability for improved trading outcomes.
 ---
 

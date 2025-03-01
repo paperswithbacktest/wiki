@@ -1,5 +1,5 @@
 ---
-title: "Market Creation: Definition and Mechanisms (Algo Trading)"
+title: "Market Creation: Definition and Mechanisms"
 description: "Explore market creation and mechanisms in trading Understand the impact of algorithmic trading on market dynamics liquidity and price discovery for traders"
 ---
 

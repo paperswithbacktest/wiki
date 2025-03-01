@@ -1,5 +1,5 @@
 ---
-title: "Impact of Gender Expression on Income (Algo Trading)"
+title: "Impact of Gender Expression on Income"
 description: "Explore the intersection of gender expression and income disparity in algorithmic trading Analyze how these factors impact marginalized groups in finance today"
 ---
 

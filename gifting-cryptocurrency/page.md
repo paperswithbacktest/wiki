@@ -1,5 +1,5 @@
 ---
-title: "Gifting Cryptocurrency (Algo Trading)"
+title: "Gifting Cryptocurrency"
 description: "Explore the exciting world of gifting cryptocurrency and learn how algo trading optimizes the process, ensuring both educational value and potential growth."
 ---
 

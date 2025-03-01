@@ -1,5 +1,5 @@
 ---
-title: "Bank of America Competitors (Algo Trading)"
+title: "Bank of America Competitors"
 description: "Explore how Bank of America navigates the competitive landscape of algorithmic trading, focusing on strategies and technological advancements that drive its market dominance."
 ---
 

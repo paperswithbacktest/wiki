@@ -1,5 +1,5 @@
 ---
-title: "Influence of Collective Behavior on Financial Markets (Algo Trading)"
+title: "Influence of Collective Behavior on Financial Markets"
 description: "Explore the interplay of collective behavior and algorithmic trading in financial markets uncovering how these elements shape market trends and investor decisions."
 ---
 

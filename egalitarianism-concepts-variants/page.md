@@ -1,5 +1,5 @@
 ---
-title: "Egalitarianism: Concepts and Variants (Algo Trading)"
+title: "Egalitarianism: Concepts and Variants"
 description: "Explore the multifaceted nature of egalitarianism in algorithmic trading highlighting how technological advancements democratize financial markets for equal opportunities."
 ---
 

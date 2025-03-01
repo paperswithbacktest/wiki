@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Coupon Bonds and Zero-Coupon Bonds (Algo Trading)"
+title: "Comparison of Coupon Bonds and Zero-Coupon Bonds"
 description: "Discover the differences between coupon and zero-coupon bonds and learn how algorithmic trading is transforming bond markets enhancing investor decisions."
 ---
 

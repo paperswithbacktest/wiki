@@ -1,5 +1,5 @@
 ---
-title: "Diner's Dilemma: Concept and Mechanism (Algo Trading)"
+title: "Diner's Dilemma: Concept and Mechanism"
 description: "Explore how the diner's dilemma in game theory impacts algorithmic trading showcasing how individual decisions can lead to suboptimal market outcomes and strategies to counteract them."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Internet of Energy: Overview and Applications (Algo Trading)"
+title: "Internet of Energy: Overview and Applications"
 description: "Explore the Internet of Energy and its applications in algorithmic trading to enhance energy efficiency, optimize distribution, and support a sustainable future."
 ---
 

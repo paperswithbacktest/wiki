@@ -1,5 +1,5 @@
 ---
-title: "Inflation Trading: Concept and Mechanism (Algo Trading)"
+title: "Inflation Trading: Concept and Mechanism"
 description: "Explore the intricacies of inflation trading and algorithmic strategies to navigate market dynamics effectively Learn to optimize trades against inflation impacts"
 ---
 

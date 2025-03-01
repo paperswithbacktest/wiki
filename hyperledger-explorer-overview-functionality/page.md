@@ -1,5 +1,5 @@
 ---
-title: "Hyperledger Explorer Overview and Functionality (Algo Trading)"
+title: "Hyperledger Explorer Overview and Functionality"
 description: "Discover how Hyperledger Explorer empowers algorithmic trading with blockchain technology managing data transparently to enhance decision-making in finance."
 ---
 

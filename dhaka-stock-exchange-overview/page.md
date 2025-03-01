@@ -1,5 +1,5 @@
 ---
-title: "Dhaka Stock Exchange Overview (Algo Trading)"
+title: "Dhaka Stock Exchange Overview"
 description: "Explore the Dhaka Stock Exchange's role in Bangladesh's economy, its transition to automated trading, and the impact of algorithmic trading on market efficiency."
 ---
 

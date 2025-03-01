@@ -1,5 +1,5 @@
 ---
-title: "Financial Ratios for Evaluating Consumer Packaged Goods (Algo Trading)"
+title: "Financial Ratios for Evaluating Consumer Packaged Goods"
 description: "Explore essential financial ratios for assessing the Consumer Packaged Goods industry and learn how algorithmic trading enhances investment strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Impact of Marketable Securities on Financial Statements (Algo Trading)"
+title: "Impact of Marketable Securities on Financial Statements"
 description: "Explore how marketable securities and algorithmic trading influence financial statements Learn the impact of these elements on liquidity ratios and investor perception"
 ---
 

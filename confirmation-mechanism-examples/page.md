@@ -1,5 +1,5 @@
 ---
-title: "Confirmation: Mechanism and Examples (Algo Trading)"
+title: "Confirmation: Mechanism and Examples"
 description: "Explore confirmation mechanisms in algorithmic trading that verify trade accuracy to ensure precise and efficient execution while mitigating potential risks and errors."
 ---
 

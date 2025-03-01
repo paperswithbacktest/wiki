@@ -1,5 +1,5 @@
 ---
-title: "Low Volume Pullback as a Stock Market Indicator (Algo Trading)"
+title: "Low Volume Pullback as a Stock Market Indicator"
 description: "Explore the use of low volume pullbacks as a key stock market indicator in algo trading, offering strategies to enhance risk/reward ratios and optimize trades."
 ---
 

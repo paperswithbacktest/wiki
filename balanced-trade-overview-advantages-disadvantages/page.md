@@ -1,5 +1,5 @@
 ---
-title: "Balanced Trade: Overview, Advantages, and Disadvantages (Algo Trading)"
+title: "Balanced Trade: Overview, Advantages, and Disadvantages"
 description: "Explore the fundamentals of balanced trade and algorithmic trading highlighting their benefits and drawbacks in shaping global economic stability and trade efficiency."
 ---
 

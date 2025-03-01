@@ -1,5 +1,5 @@
 ---
-title: "Euroclear and Clearstream: Functions and Comparison (Algo Trading)"
+title: "Euroclear and Clearstream: Functions and Comparison"
 description: "Euroclear and Clearstream are key to Europe's financial market efficiency offering infrastructure that supports algorithmic trading with enhanced speed and security."
 ---
 

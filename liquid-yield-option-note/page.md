@@ -1,5 +1,5 @@
 ---
-title: "Liquid Yield Option Note (Algo Trading)"
+title: "Liquid Yield Option Note"
 description: "Explore the benefits of Liquid Yield Option Notes (LYONs), convertible zero-coupon bonds offering growth opportunities for investors through algo trading strategies."
 ---
 

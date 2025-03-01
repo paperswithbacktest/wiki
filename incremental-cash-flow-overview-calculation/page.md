@@ -1,5 +1,5 @@
 ---
-title: "Incremental Cash Flow: Overview and Calculation (Algo Trading)"
+title: "Incremental Cash Flow: Overview and Calculation"
 description: "Understand incremental cash flow and its role in financial decisions and algo trading Discover the impact of cash flow analysis on investment strategies"
 ---
 

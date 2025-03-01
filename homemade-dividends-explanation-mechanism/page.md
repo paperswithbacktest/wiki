@@ -1,5 +1,5 @@
 ---
-title: "Homemade Dividends: Explanation and Mechanism (Algo Trading)"
+title: "Homemade Dividends: Explanation and Mechanism"
 description: "Discover how homemade dividends empower investors by providing control over income, offering flexibility and customization, and enhancing portfolio management."
 ---
 

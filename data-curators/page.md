@@ -1,5 +1,5 @@
 ---
-title: "Data curators (Algo Trading)"
+title: "Data curators"
 description: Explore the critical role of data curators in the dynamic field of algorithmic trading where precise data management is essential for executing successful trades. This article investigates into how data curators gather clean and organize vast datasets ensuring integrity and accessibility. We also examine the impact of machine learning on enhancing data curation practices and improving trading decisions through advanced anomaly detection techniques. Learn about the tools and techniques employed by data curators to maintain high-quality data and explore the future challenges within the evolving landscape of algotrading.
 ---
 

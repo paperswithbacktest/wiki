@@ -1,5 +1,5 @@
 ---
-title: "Binomial Tree: Concepts, Applications, Formulas (Algo Trading)"
+title: "Binomial Tree: Concepts, Applications, Formulas"
 description: "Explore the principles and applications of the binomial tree model for option pricing Discover its significance in algorithmic trading and market strategies"
 ---
 

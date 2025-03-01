@@ -1,5 +1,5 @@
 ---
-title: "Deep Market Overview and Functionality (Algo Trading)"
+title: "Deep Market Overview and Functionality"
 description: "Explore the complexities of deep market dynamics and discover how algorithmic trading is revolutionizing financial environments with speed and precision."
 ---
 

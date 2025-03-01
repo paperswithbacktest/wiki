@@ -1,5 +1,5 @@
 ---
-title: "Agent-Based Market Simulations (Algo Trading)"
+title: "Agent-Based Market Simulations"
 description: "Explore how agent-based market simulations enhance algorithmic trading by modeling participant interactions predicting market dynamics and refining strategies effectively."
 ---
 

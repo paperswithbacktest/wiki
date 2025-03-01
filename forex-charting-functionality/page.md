@@ -1,5 +1,5 @@
 ---
-title: "Forex Charting and Functionality (Algo Trading)"
+title: "Forex Charting and Functionality"
 description: "Explore forex trading with insights into charting and technical analysis Learn about algorithmic trading tools to enhance decision-making and trading success"
 ---
 

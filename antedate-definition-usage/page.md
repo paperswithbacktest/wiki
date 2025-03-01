@@ -1,5 +1,5 @@
 ---
-title: "Antedate: Definition and Usage (Algo Trading)"
+title: "Antedate: Definition and Usage"
 description: "Explore the intersection of antedate and algorithmic trading in finance emphasizing legal implications and algorithm efficiency. Learn key strategies for improved trading."
 ---
 

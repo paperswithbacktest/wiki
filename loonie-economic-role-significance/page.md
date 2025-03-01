@@ -1,5 +1,5 @@
 ---
-title: "Loonie: Economic Role and Significance (Algo Trading)"
+title: "Loonie: Economic Role and Significance"
 description: "Explore the pivotal role of the Canadian dollar, the loonie, in the economy and its dynamic connection with algorithmic trading in global markets."
 ---
 

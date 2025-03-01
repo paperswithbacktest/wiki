@@ -1,5 +1,5 @@
 ---
-title: "Market Distortion: Causes and Examples (Algo Trading)"
+title: "Market Distortion: Causes and Examples"
 description: "Explore the causes and examples of market distortion driven by economic factors and algorithmic trading Learn how these elements influence financial markets today"
 ---
 

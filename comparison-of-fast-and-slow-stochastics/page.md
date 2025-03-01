@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Fast and Slow Stochastics (Algo Trading)"
+title: "Comparison of Fast and Slow Stochastics"
 description: "Explore the effectiveness of fast vs slow stochastic oscillators in algo trading with insights on using these tools for momentum and signal optimization."
 ---
 

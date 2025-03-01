@@ -1,5 +1,5 @@
 ---
-title: "Balassa-Samuelson Effect in Economic Theory (Algo Trading)"
+title: "Balassa-Samuelson Effect in Economic Theory"
 description: "Explore how the Balassa-Samuelson Effect and Purchasing Power Parity impact algorithmic trading strategies by influencing exchange rates and currency valuation."
 ---
 

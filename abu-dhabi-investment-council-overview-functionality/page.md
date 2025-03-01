@@ -1,5 +1,5 @@
 ---
-title: "Abu Dhabi Investment Council: Overview and Functionality (Algo Trading)"
+title: "Abu Dhabi Investment Council: Overview and Functionality"
 description: "Explore the history and strategic investment approaches of the Abu Dhabi Investment Council including its use of algorithmic trading for efficient global asset management."
 ---
 

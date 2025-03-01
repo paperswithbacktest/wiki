@@ -1,5 +1,5 @@
 ---
-title: "Convergent Credit Default Swap (Algo Trading)"
+title: "Convergent Credit Default Swap"
 description: "Explore the transformative impact of algorithmic trading on credit derivatives like credit default swaps enhancing risk management and market efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Buy-Side and Sell-Side Analysts (Algo Trading)"
+title: "Differences Between Buy-Side and Sell-Side Analysts"
 description: "Explore the distinct roles of buy-side and sell-side analysts in finance contrasting their objectives methodologies and impacts in the evolving landscape of algorithmic trading."
 ---
 

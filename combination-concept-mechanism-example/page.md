@@ -1,5 +1,5 @@
 ---
-title: "Combination: Concept, Mechanism, and Example (Algo Trading)"
+title: "Combination: Concept, Mechanism, and Example"
 description: "Explore how combinatorics, permutations, and combinations enhance algorithmic trading. Learn to optimize trading strategies and decision-making processes for improved outcomes."
 ---
 

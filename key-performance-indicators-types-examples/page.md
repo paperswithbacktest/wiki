@@ -1,5 +1,5 @@
 ---
-title: "Key Performance Indicators: Types and Examples (Algo Trading)"
+title: "Key Performance Indicators: Types and Examples"
 description: "Explore the importance and types of Key Performance Indicators (KPIs) for both traditional business environments and algorithmic trading. Understand how KPIs help in evaluating efficiency and effectiveness, supporting informed decision-making. Learn about crucial metrics that contribute to business success and risk management in algorithmic trading, providing insights into strategic alignment for enhanced performance and competitive advantage."
 ---
 

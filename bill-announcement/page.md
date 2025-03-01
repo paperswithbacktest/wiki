@@ -1,5 +1,5 @@
 ---
-title: "Bill Announcement (Algo Trading)"
+title: "Bill Announcement"
 description: "Explore the impact of algorithmic trading on financial markets and recent legislative measures aimed at ensuring responsible practice and market integrity."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Market Chasing: Mechanisms, Advantages, and Disadvantages (Algo Trading)"
+title: "Market Chasing: Mechanisms, Advantages, and Disadvantages"
 description: "Discover the mechanisms advantages and disadvantages of market chasing in algo trading Understand how trends and algorithms impact investment decisions"
 ---
 

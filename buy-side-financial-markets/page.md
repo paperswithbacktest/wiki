@@ -1,5 +1,5 @@
 ---
-title: "Buy Side in Financial Markets (Algo Trading)"
+title: "Buy Side in Financial Markets"
 description: "Explore the benefits of algorithmic trading for buy-side firms in financial markets. Discover how automation enhances investment strategies, efficiency, and performance."
 ---
 

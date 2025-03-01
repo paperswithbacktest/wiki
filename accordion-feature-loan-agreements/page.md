@@ -1,5 +1,5 @@
 ---
-title: "Accordion Feature in Loan Agreements (Algo Trading)"
+title: "Accordion Feature in Loan Agreements"
 description: "Discover how the accordion feature in loan agreements offers borrowers dynamic credit line flexibility and strategic agility in algorithmic trading."
 ---
 

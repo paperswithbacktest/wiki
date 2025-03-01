@@ -1,5 +1,5 @@
 ---
-title: "Menu Costs: Overview and Examples (Algo Trading)"
+title: "Menu Costs: Overview and Examples"
 description: "Discover how menu costs affect price adjustments and economic stability. Explore examples in algorithmic trading and their impact on market efficiency."
 ---
 

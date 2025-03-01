@@ -1,5 +1,5 @@
 ---
-title: "Green Shoots: Concept and Influence by Ben Bernanke (Algo Trading)"
+title: "Green Shoots: Concept and Influence by Ben Bernanke"
 description: "Explore the concept of 'green shoots' in economic recovery introduced by Ben Bernanke and its influence on investor sentiment and algorithmic trading strategies."
 ---
 

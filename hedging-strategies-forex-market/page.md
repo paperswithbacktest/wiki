@@ -1,5 +1,5 @@
 ---
-title: "Hedging Strategies in Forex Market (Algo Trading)"
+title: "Hedging Strategies in Forex Market"
 description: "Explore essential hedging strategies in the forex market, focusing on how algorithmic trading enhances risk management and trade execution. Understand the benefits of combining hedging with algorithmic techniques to navigate market volatility and secure trading outcomes effectively. Learn the intricacies of forex hedging, including perfect and imperfect hedges, and discover the regulatory considerations shaping their application for optimal trading performance."
 ---
 

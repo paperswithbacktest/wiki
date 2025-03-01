@@ -1,5 +1,5 @@
 ---
-title: "Asian Currency Unit: Meaning and Function (Algo Trading)"
+title: "Asian Currency Unit: Meaning and Function"
 description: "Explore the Asian Currency Unit as a proposed currency basket designed to stabilize exchange rates and its implications for algorithmic trading in Asia."
 ---
 

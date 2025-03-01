@@ -1,5 +1,5 @@
 ---
-title: "Indexing in Economics and Investing (Algo Trading)"
+title: "Indexing in Economics and Investing"
 description: "Explore the intersection of economics indexing and algorithmic trading in modern investing Learn how technology enhances portfolio management and risk strategies"
 ---
 

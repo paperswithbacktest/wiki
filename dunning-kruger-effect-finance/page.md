@@ -1,5 +1,5 @@
 ---
-title: "Dunning-Kruger Effect in Finance (Algo Trading)"
+title: "Dunning-Kruger Effect in Finance"
 description: "Explore the impact of the Dunning-Kruger Effect in finance and trading. Learn how cognitive biases affect decision-making and how algorithmic trading offers solutions."
 ---
 

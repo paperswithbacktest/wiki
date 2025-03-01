@@ -1,5 +1,5 @@
 ---
-title: "Allowance for Doubtful Accounts: Accounting Methods (Algo Trading)"
+title: "Allowance for Doubtful Accounts: Accounting Methods"
 description: "Discover essential accounting practices and technological advancements in managing allowance for doubtful accounts to ensure accurate financial health assessment."
 ---
 

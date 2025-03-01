@@ -1,5 +1,5 @@
 ---
-title: "LSV Asset Management (Algo Trading)"
+title: "LSV Asset Management"
 description: LSV Asset Management is a pioneer in the investment management sector, renowned for its innovative use of quantitative and algorithmic trading strategies. Founded in 1994 by esteemed finance professors, the firm blends behavioral finance insights with rigorous quantitative analysis to identify market inefficiencies. LSV's systematic approach leverages mathematical models to optimize portfolio management and enhance value investing, ensuring robust and data-driven investment solutions for its clients. Headquartered in Chicago, LSV remains at the forefront of financial innovation, consistently delivering value through strategic asset management and advanced algorithmic trading techniques.
 ---
 

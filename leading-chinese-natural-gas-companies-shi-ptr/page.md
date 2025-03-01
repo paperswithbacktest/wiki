@@ -1,5 +1,5 @@
 ---
-title: "Leading Chinese Natural Gas Companies: SHI and PTR (Algo Trading)"
+title: "Leading Chinese Natural Gas Companies: SHI and PTR"
 description: "Explore Chinese natural gas leaders SHI and PTR embracing algorithmic trading to enhance efficiency and market influence in a dynamic energy landscape."
 ---
 

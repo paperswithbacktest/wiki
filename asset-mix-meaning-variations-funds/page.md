@@ -1,5 +1,5 @@
 ---
-title: "Asset Mix: Meaning, Variations, and Funds (Algo Trading)"
+title: "Asset Mix: Meaning, Variations, and Funds"
 description: "Explore the dynamics of asset mix strategies and algorithmic trading to optimize investment portfolios balancing risk and return for better financial outcomes."
 ---
 

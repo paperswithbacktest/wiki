@@ -1,5 +1,5 @@
 ---
-title: "Annualized Total Return (Algo Trading)"
+title: "Annualized Total Return"
 description: "Discover the importance of total return and annualized return in evaluating investment performance and algorithmic trading success, optimizing your financial strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Focus List: Overview and Examples (Algo Trading)"
+title: "Focus List: Overview and Examples"
 description: "Explore the significance of focus lists in algorithmic trading Delve into how curated stock selections and automated trading can enhance investment strategies and performance"
 ---
 

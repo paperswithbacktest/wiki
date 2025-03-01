@@ -1,5 +1,5 @@
 ---
-title: "Lady Godiva Accounting Principles (Algo Trading)"
+title: "Lady Godiva Accounting Principles"
 description: "Explore the Lady Godiva Accounting Principles to understand transparency's role in financial reporting and its impact on modern algorithmic trading practices."
 ---
 

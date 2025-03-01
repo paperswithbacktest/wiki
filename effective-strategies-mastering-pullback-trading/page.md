@@ -1,5 +1,5 @@
 ---
-title: "Effective Strategies for Mastering Pullback Trading (Algo Trading)"
+title: "Effective Strategies for Mastering Pullback Trading"
 description: "Master pullback trading with algo tools for optimized market entry during temporary price declines. Enhance profitability by strategically aligning with trend continuations."
 ---
 

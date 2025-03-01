@@ -1,5 +1,5 @@
 ---
-title: "Fibonacci Numbers as a Research Tool (Algo Trading)"
+title: "Fibonacci Numbers as a Research Tool"
 description: "Explore how Fibonacci numbers contribute to algorithmic trading as a tool to predict market trends by identifying key support and resistance levels."
 ---
 

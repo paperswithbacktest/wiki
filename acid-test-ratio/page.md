@@ -1,5 +1,5 @@
 ---
-title: "Acid-Test Ratio (Algo Trading)"
+title: "Acid-Test Ratio"
 description: "Explore how the acid-test ratio, or quick ratio, enhances algorithmic trading strategies by assessing liquidity for better financial market decisions."
 ---
 

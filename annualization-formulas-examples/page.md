@@ -1,5 +1,5 @@
 ---
-title: "Annualization: Formulas and Examples (Algo Trading)"
+title: "Annualization: Formulas and Examples"
 description: "Discover essential formulas and examples for utilizing annualization in algorithmic trading to compare investments and optimize trading strategies."
 ---
 

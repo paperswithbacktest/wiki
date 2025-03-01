@@ -1,5 +1,5 @@
 ---
-title: "Goal Seek in Microsoft Excel (Algo Trading)"
+title: "Goal Seek in Microsoft Excel"
 description: "Optimize your algorithmic trading strategies using Excel's Goal Seek for financial forecasting and scenario analysis enhancing decision-making accuracy."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Closing Entry and Recording Process (Algo Trading)"
+title: "Closing Entry and Recording Process"
 description: "Explore the essential process of closing entries in accounting and its influence on accurate financial statements crucial for optimizing algorithmic trading strategies."
 ---
 

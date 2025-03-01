@@ -1,5 +1,5 @@
 ---
-title: "Inflation Prediction Using the Producer Price Index (Algo Trading)"
+title: "Inflation Prediction Using the Producer Price Index"
 description: "Explore how the Producer Price Index (PPI) predicts inflation trends, aiding investors and traders in strategic decision-making through algorithmic trading insights."
 ---
 

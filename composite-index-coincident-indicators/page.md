@@ -1,5 +1,5 @@
 ---
-title: "Composite Index of Coincident Indicators (Algo Trading)"
+title: "Composite Index of Coincident Indicators"
 description: "Explore the role of economic indicators like the Composite Index of Coincident Indicators in algorithmic trading for real-time insights and strategic decisions."
 ---
 

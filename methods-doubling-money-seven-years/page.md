@@ -1,5 +1,5 @@
 ---
-title: "Methods for Doubling Money Over Seven Years (Algo Trading)"
+title: "Methods for Doubling Money Over Seven Years"
 description: "Explore effective methods for doubling your money in seven years with cutting-edge algorithmic trading. Discover strategies for financial growth and wealth optimization."
 ---
 

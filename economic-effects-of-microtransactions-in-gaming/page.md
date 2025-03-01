@@ -1,5 +1,5 @@
 ---
-title: "Economic Effects of Microtransactions in Gaming (Algo Trading)"
+title: "Economic Effects of Microtransactions in Gaming"
 description: "Explore the economic impact of microtransactions in gaming and their parallel to algorithmic trading Learn how these transactions transform revenue models and engage players"
 ---
 

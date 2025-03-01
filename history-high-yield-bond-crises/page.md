@@ -1,5 +1,5 @@
 ---
-title: "History of High-Yield Bond Crises (Algo Trading)"
+title: "History of High-Yield Bond Crises"
 description: "Explore the history of high-yield bond crises revealing their risks and market crashes and the impact of algorithmic trading in shaping bond market dynamics."
 ---
 

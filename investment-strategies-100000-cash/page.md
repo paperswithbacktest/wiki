@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategies for $100,000 Cash (Algo Trading)"
+title: "Investment Strategies for $100,000 Cash"
 description: "Explore effective investment strategies for managing $100000 cash with a focus on algo trading cash investments and financial planning. Learn to enhance financial growth stability and adaptability with a blend of risk management and technological advancements. Discover techniques for balancing security and returns through cash investments diversified portfolios and seamless integration of algorithmic trading solutions. Tailor your investment approach to align with personal goals and risk tolerance while navigating the dynamic financial markets."
 ---
 

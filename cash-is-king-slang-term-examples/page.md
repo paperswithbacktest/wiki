@@ -1,5 +1,5 @@
 ---
-title: "Cash Is King: Slang Term and Examples (Algo Trading)"
+title: "Cash Is King: Slang Term and Examples"
 description: "Discover the significance of "cash is king" in finance highlighting liquidity's crucial role. Explore how it impacts investment strategies and algorithmic trading."
 ---
 

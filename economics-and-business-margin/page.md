@@ -1,5 +1,5 @@
 ---
-title: "Economics and Business: Margin (Algo Trading)"
+title: "Economics and Business: Margin"
 description: "Explore the vital role of margins in algorithmic trading as this article investigates into economic margins, business margins, and their impact on strategy and risk management."
 ---
 

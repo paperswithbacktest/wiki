@@ -1,5 +1,5 @@
 ---
-title: "J Curve: Concept, Applications, and Case Study (Algo Trading)"
+title: "J Curve: Concept, Applications, and Case Study"
 description: "Explore the J Curve concept in economics, its application in algorithmic trading, and an insightful case study on leveraging currency fluctuations for strategic advantage."
 ---
 

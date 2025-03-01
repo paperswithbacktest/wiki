@@ -1,5 +1,5 @@
 ---
-title: "Bond Broker: Roles and Certifications (Algo Trading)"
+title: "Bond Broker: Roles and Certifications"
 description: "Discover the roles and certifications of bond brokers in the evolving financial market with insights into algorithmic trading for enhanced strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Basel I: Overview, History, Benefits, and Criticism (Algo Trading)"
+title: "Basel I: Overview, History, Benefits, and Criticism"
 description: "Explore the foundational principles of Basel I, a key international banking regulation aimed at fostering financial stability through minimum capital requirements. This article investigates into how Basel I influences modern banking practices, particularly in the context of algorithmic trading. With algorithmic trading's rapid execution and data-driven decision-making come regulatory challenges and opportunities in risk management and compliance. Gain insights into maintaining a balance between innovation and regulation to bolster the integrity of global financial systems."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Formation and Growth of Economies (Algo Trading)"
+title: "Formation and Growth of Economies"
 description: "Explore how economic growth and development intersect with algorithmic trading in shaping global economies. Discover its impact on policies and market dynamics."
 ---
 

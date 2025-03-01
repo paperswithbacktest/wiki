@@ -1,5 +1,5 @@
 ---
-title: "Collectible Items: Investing, Insurance, and Types (Algo Trading)"
+title: "Collectible Items: Investing, Insurance, and Types"
 description: "Discover how investing in collectibles like art and toys offers unique benefits such as diversification and growth potential amidst stock market volatility."
 ---
 

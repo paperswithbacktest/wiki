@@ -1,5 +1,5 @@
 ---
-title: "Market Value and Its Importance to Investors (Algo Trading)"
+title: "Market Value and Its Importance to Investors"
 description: "Discover the importance of market value and investor dynamics in algorithmic trading Explore investment analysis for optimizing portfolios in evolving markets"
 ---
 

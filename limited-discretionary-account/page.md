@@ -1,5 +1,5 @@
 ---
-title: "Limited Discretionary Account (Algo Trading)"
+title: "Limited Discretionary Account"
 description: "Discover how limited discretionary accounts and algorithmic trading can enhance your investment strategy, offering balance and efficiency for today's investors."
 ---
 

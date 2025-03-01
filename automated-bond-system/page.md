@@ -1,5 +1,5 @@
 ---
-title: "Automated Bond System (Algo Trading)"
+title: "Automated Bond System"
 description: "Discover how automated bond systems revolutionize the bond market with enhanced speed precision and transparency through sophisticated algorithmic trading technologies."
 ---
 

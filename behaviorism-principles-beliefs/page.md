@@ -1,5 +1,5 @@
 ---
-title: "Behaviorism: Principles and Beliefs (Algo Trading)"
+title: "Behaviorism: Principles and Beliefs"
 description: "Explore how behaviorism principles enhance algorithmic trading by reducing emotional biases and improving decision-making through a focus on observable actions."
 ---
 

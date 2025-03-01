@@ -1,5 +1,5 @@
 ---
-title: "Executive Order on Promotion of U.S. Economic Competition (Algo Trading)"
+title: "Executive Order on Promotion of U.S. Economic Competition"
 description: "The executive order promotes fair competition in the U.S. economy, impacting sectors like algo trading while addressing monopolistic practices and market access."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Collectible Investments (Algo Trading)"
+title: "Collectible Investments"
 description: "Explore investment collectibles as alternative assets with algorithmic trading. Discover how technology enhances strategies for informed, diversified portfolios."
 ---
 

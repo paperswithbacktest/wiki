@@ -1,5 +1,5 @@
 ---
-title: "Comparison of US and International Accounting Standards (Algo Trading)"
+title: "Comparison of US and International Accounting Standards"
 description: "Explore the convergence of US GAAP and IFRS with algorithmic trading shaping financial markets, enhancing transparency and efficiency in global finance."
 ---
 

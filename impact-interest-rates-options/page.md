@@ -1,5 +1,5 @@
 ---
-title: "Impact of Interest Rates on Options (Algo Trading)"
+title: "Impact of Interest Rates on Options"
 description: "Explore the intricate relationship between interest rates and options in algorithmic trading Learn how rate fluctuations impact strategies and pricing in finance"
 ---
 

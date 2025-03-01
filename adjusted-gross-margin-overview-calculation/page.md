@@ -1,5 +1,5 @@
 ---
-title: "Adjusted Gross Margin: Overview and Calculation (Algo Trading)"
+title: "Adjusted Gross Margin: Overview and Calculation"
 description: "Explore how adjusted gross margin refines algo trading by incorporating inventory costs for deeper profitability insights ensuring informed and strategic decision-making."
 ---
 

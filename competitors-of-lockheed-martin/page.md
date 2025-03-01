@@ -1,5 +1,5 @@
 ---
-title: "Competitors of Lockheed Martin Corporation (Algo Trading)"
+title: "Competitors of Lockheed Martin Corporation"
 description: "Discover the competitive landscape of Lockheed Martin in the defense aerospace industry, examining key rivals and the role of algorithmic trading in financial strategies."
 ---
 

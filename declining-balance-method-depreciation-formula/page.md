@@ -1,5 +1,5 @@
 ---
-title: "Declining Balance Method and Depreciation Formula (Algo Trading)"
+title: "Declining Balance Method and Depreciation Formula"
 description: "Explore the connection between algorithmic trading and declining balance depreciation, and learn how these concepts shape financial strategies and asset valuations."
 ---
 

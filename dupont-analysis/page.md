@@ -1,5 +1,5 @@
 ---
-title: "DuPont analysis (Algo Trading)"
+title: "DuPont analysis"
 description: "Explore the impact of DuPont Analysis on algorithmic trading, leveraging insights into net profit margin, asset turnover, and equity multiplier for better investment strategies."
 ---
 

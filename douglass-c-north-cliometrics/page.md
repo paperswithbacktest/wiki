@@ -1,5 +1,5 @@
 ---
-title: "Douglass C. North and Cliometrics (Algo Trading)"
+title: "Douglass C. North and Cliometrics"
 description: "Explore Douglass C. North's groundbreaking contributions to cliometrics and institutional economics, connecting historical economic patterns to modern algorithmic trading."
 ---
 

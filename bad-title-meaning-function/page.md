@@ -1,5 +1,5 @@
 ---
-title: "Bad Title: Meaning and Function (Algo Trading)"
+title: "Bad Title: Meaning and Function"
 description: "Explore the transformative impact of algorithmic trading on financial markets and understand the implications of a bad title in real estate transactions."
 ---
 

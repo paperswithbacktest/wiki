@@ -1,5 +1,5 @@
 ---
-title: "Crypto Lending: Overview and Types (Algo Trading)"
+title: "Crypto Lending: Overview and Types"
 description: "Discover the transformative potential of crypto lending and algorithmic trading. Learn how blockchain reshapes financial landscapes with innovative lending options."
 ---
 

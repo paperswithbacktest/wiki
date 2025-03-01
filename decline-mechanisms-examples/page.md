@@ -1,5 +1,5 @@
 ---
-title: "Decline: Mechanisms and Examples (Algo Trading)"
+title: "Decline: Mechanisms and Examples"
 description: "Explore the causes and impact of decline in algorithmic trading. Learn how shifts in market conditions and tech advancements challenge trading strategies."
 ---
 

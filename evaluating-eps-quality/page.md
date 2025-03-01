@@ -1,5 +1,5 @@
 ---
-title: "Evaluating EPS Quality (Algo Trading)"
+title: "Evaluating EPS Quality"
 description: "Evaluate EPS quality in algo trading to assess profitability and optimize strategies. Gain insights into trading decisions and competitive advantages using EPS trends."
 ---
 

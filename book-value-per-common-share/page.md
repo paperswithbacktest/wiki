@@ -1,5 +1,5 @@
 ---
-title: "Book Value Per Common Share (Algo Trading)"
+title: "Book Value Per Common Share"
 description: "Explore the significance of Book Value Per Common Share (BVPS) in evaluating companies. Learn how it aids in identifying undervalued stocks for better investment strategies."
 ---
 

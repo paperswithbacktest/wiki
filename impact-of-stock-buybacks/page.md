@@ -1,5 +1,5 @@
 ---
-title: "Impact of Stock Buybacks (Algo Trading)"
+title: "Impact of Stock Buybacks"
 description: "Explore the impact of stock buybacks corporate finance strategies and algorithmic trading on modern investments Learn how these elements shape financial outcomes"
 ---
 

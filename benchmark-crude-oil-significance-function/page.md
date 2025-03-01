@@ -1,5 +1,5 @@
 ---
-title: "Benchmark Crude Oil: Significance and Function (Algo Trading)"
+title: "Benchmark Crude Oil: Significance and Function"
 description: "Discover the significance of benchmark crude oils and algorithmic trading in the global oil market and learn how they influence pricing and trading strategies."
 ---
 

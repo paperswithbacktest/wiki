@@ -1,5 +1,5 @@
 ---
-title: "Assets Under Management: Overview and Calculation (Algo Trading)"
+title: "Assets Under Management: Overview and Calculation"
 description: "Explore the critical concepts of Assets Under Management and algorithmic trading to enhance investment strategies and make informed decisions in finance."
 ---
 

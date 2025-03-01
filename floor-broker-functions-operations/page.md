@@ -1,5 +1,5 @@
 ---
-title: "Floor Broker: Functions and Operations (Algo Trading)"
+title: "Floor Broker: Functions and Operations"
 description: "Explore the evolution from traditional floor brokers to advanced algorithmic trading, highlighting their roles and integration in today's stock exchanges."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Agency Security: Definition, Mechanisms, And Types (Algo Trading)"
+title: "Agency Security: Definition, Mechanisms, And Types"
 description: "Explore the critical role of security mechanisms in agencies and algorithmic trading, focusing on data protection, risk management, and safeguarding market integrity."
 ---
 

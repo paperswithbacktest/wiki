@@ -1,5 +1,5 @@
 ---
-title: "International Bond Investing: Overview and Risks (Algo Trading)"
+title: "International Bond Investing: Overview and Risks"
 description: "Explore international bond investing and understand the risks involved. Learn how algorithmic trading aids in managing complexities for optimal investment strategies."
 ---
 

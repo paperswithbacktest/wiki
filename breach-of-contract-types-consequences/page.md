@@ -1,5 +1,5 @@
 ---
-title: "Breach of Contract: Types and Consequences (Algo Trading)"
+title: "Breach of Contract: Types and Consequences"
 description: "Explore breaches of algo trading contracts including causes and consequences of such violations. Understand the legal implications and mechanisms for risk mitigation."
 ---
 

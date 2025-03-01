@@ -1,5 +1,5 @@
 ---
-title: "Index Hugger (Algo Trading)"
+title: "Index Hugger"
 description: "Explore SEO's vital role in enhancing digital presence through strategies like keyword research and technical audits along with insights from algorithmic trading."
 ---
 

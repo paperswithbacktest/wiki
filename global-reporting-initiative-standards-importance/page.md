@@ -1,5 +1,5 @@
 ---
-title: "Global Reporting Initiative: Standards and Importance (Algo Trading)"
+title: "Global Reporting Initiative: Standards and Importance"
 description: "Discover the importance of GRI standards in algorithmic trading to enhance transparency and integrate sustainability, crucial for business operations and stakeholder trust."
 ---
 

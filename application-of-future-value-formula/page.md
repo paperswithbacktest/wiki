@@ -1,5 +1,5 @@
 ---
-title: "Application of Future Value Formula (Algo Trading)"
+title: "Application of Future Value Formula"
 description: "Explore investment strategies using the future value formula and algorithmic trading to enhance asset growth focusing on technological integration in finance."
 ---
 

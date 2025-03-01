@@ -1,5 +1,5 @@
 ---
-title: "Calculating Credit and Debit Balances in General Ledgers (Algo Trading)"
+title: "Calculating Credit and Debit Balances in General Ledgers"
 description: "Explore the essentials of debit and credit balances in general ledgers and discover the impact of algorithmic trading on financial markets and strategy execution."
 ---
 

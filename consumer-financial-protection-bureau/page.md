@@ -1,5 +1,5 @@
 ---
-title: "Consumer Financial Protection Bureau (Algo Trading)"
+title: "Consumer Financial Protection Bureau"
 description: "Explore how the Consumer Financial Protection Bureau ensures consumer protection in algorithmic trading by regulating data usage and promoting market fairness."
 ---
 

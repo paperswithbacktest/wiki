@@ -1,5 +1,5 @@
 ---
-title: "Delta Neutral in Portfolio Management (Algo Trading)"
+title: "Delta Neutral in Portfolio Management"
 description: "Discover how delta neutral strategies and algorithmic trading synergize to minimize risk and optimize profits in dynamic markets through sophisticated portfolio management."
 ---
 

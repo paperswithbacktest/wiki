@@ -1,5 +1,5 @@
 ---
-title: "Demolition Insurance Overview (Algo Trading)"
+title: "Demolition Insurance Overview"
 description: "Discover how demolition insurance safeguards construction projects from unique risks. Learn about financial protection, liability coverage, and the role of algorithmic trading."
 ---
 

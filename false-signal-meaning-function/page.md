@@ -1,5 +1,5 @@
 ---
-title: "False Signal: Meaning and Function (Algo Trading)"
+title: "False Signal: Meaning and Function"
 description: "Explore the impact of false signals in algorithmic trading and learn strategies to mitigate misleading trends for improved trading accuracy and risk management."
 ---
 

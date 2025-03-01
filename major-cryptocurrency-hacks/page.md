@@ -1,5 +1,5 @@
 ---
-title: "Major Cryptocurrency Hacks (Algo Trading)"
+title: "Major Cryptocurrency Hacks"
 description: "Explore the pivotal cryptocurrency hacks highlighting cybersecurity challenges and the role of algorithmic trading in shaping a secure digital finance landscape."
 ---
 

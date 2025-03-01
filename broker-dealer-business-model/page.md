@@ -1,5 +1,5 @@
 ---
-title: "Broker-Dealer Business Model (Algo Trading)"
+title: "Broker-Dealer Business Model"
 description: "Explore the transformative impact of algorithmic trading on broker-dealers enhancing trade efficiency and market liquidity while navigating regulatory challenges in finance."
 ---
 

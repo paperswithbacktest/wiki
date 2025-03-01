@@ -1,5 +1,5 @@
 ---
-title: "Appellate Courts: Functions and Operation (Algo Trading)"
+title: "Appellate Courts: Functions and Operation"
 description: "Explore how appellate courts impact algorithmic trading shaping legal standards that influence finance industry stakeholders and regulators in evolving markets."
 ---
 

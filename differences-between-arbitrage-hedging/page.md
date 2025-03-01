@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Arbitrage and Hedging (Algo Trading)"
+title: "Differences Between Arbitrage and Hedging"
 description: "Explore the differences between hedging and arbitrage in algorithmic trading and how these strategies optimize trading, manage risk, and exploit market inefficiencies."
 ---
 

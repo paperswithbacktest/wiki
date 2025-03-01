@@ -1,5 +1,5 @@
 ---
-title: "Big Mac Index: Overview, Insights, and Examples (Algo Trading)"
+title: "Big Mac Index: Overview, Insights, and Examples"
 description: "Explore the Big Mac Index to understand currency valuation and purchasing power parity through the global pricing of McDonald's iconic burger. Discover insights and examples."
 ---
 

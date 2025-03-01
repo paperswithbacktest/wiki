@@ -1,5 +1,5 @@
 ---
-title: "Insurance of Stock Market Investments (Algo Trading)"
+title: "Insurance of Stock Market Investments"
 description: "Explore essential strategies for protecting stock market investments through financial risk management and investment insurance while understanding algorithmic trading risks."
 ---
 

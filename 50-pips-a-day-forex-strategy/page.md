@@ -1,5 +1,5 @@
 ---
-title: "50 Pips a Day Forex Strategy Explained (Algo Trading)"
+title: "50 Pips a Day Forex Strategy Explained"
 description: Learn how to implement the effective and straightforward 50 pips a day forex trading strategy using algorithmic trading techniques. This detailed guide explains capturing daily market fluctuations in major currency pairs for 50 pips of profit while maintaining controlled risk levels. Discover the benefits of integrating algorithmic trading to automate trades with precise entry and exit points, minimize errors, and improve performance through backtesting. Ideal for both beginners and seasoned traders, this strategy aims to help you achieve consistent trading success in the forex market.
 ---
 

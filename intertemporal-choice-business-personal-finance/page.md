@@ -1,5 +1,5 @@
 ---
-title: "Intertemporal Choice in Business and Personal Finance (Algo Trading)"
+title: "Intertemporal Choice in Business and Personal Finance"
 description: "Explore intertemporal choice and its impact on personal finance and algo trading. Learn how present decisions affect future outcomes and optimize strategies."
 ---
 

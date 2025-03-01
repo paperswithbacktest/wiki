@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Bitcoin and Credit Card Transactions (Algo Trading)"
+title: "Comparison of Bitcoin and Credit Card Transactions"
 description: "Explore the pros and cons of Bitcoin versus credit card transactions in algorithmic trading Discover which payment method offers speed and cost efficiency"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Australian Dollar in Forex Trading (Algo Trading)"
+title: "Australian Dollar in Forex Trading"
 description: "Discover the dynamic world of forex trading with a focus on the Australian Dollar and algorithmic trading Explore key strategies for optimized trading success"
 ---
 

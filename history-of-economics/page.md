@@ -1,5 +1,5 @@
 ---
-title: "History of Economics (Algo Trading)"
+title: "History of Economics"
 description: "Explore the history of economics from early theories to the rise of algorithmic trading highlighting key developments and their impact on modern financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Limited Trading Authorization (Algo Trading)"
+title: "Limited Trading Authorization"
 description: "Discover the role of limited trading authorization in balancing control and autonomy in algorithmic trading for effective investment portfolio management."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Capitalization (Algo Trading)"
+title: "Capitalization"
 description: "Improve your writing for algorithmic trading with a focus on grammar and capitalization essential for clear and precise communication in the tech and financial sectors."
 ---
 

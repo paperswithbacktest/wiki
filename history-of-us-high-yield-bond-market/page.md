@@ -1,5 +1,5 @@
 ---
-title: "History of the U.S. High-Yield Bond Market (Algo Trading)"
+title: "History of the U.S. High-Yield Bond Market"
 description: "Explore the evolution of the U.S. high-yield bond market and the impact of algorithmic trading Discover how these dynamics shape investment strategies today."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Bitcoin and Altcoins for Merchant Use (Algo Trading)"
+title: "Comparison of Bitcoin and Altcoins for Merchant Use"
 description: "Explore the evolving landscape of Bitcoin and altcoins for merchants using algorithmic trading to optimize efficiency, minimize bias, and seize market opportunities."
 ---
 

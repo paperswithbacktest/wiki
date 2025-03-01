@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Stock Price Maximization and Profit Maximization (Algo Trading)"
+title: "Comparison of Stock Price Maximization and Profit Maximization"
 description: "Explore the contrasts between stock price maximization and profit maximization in algorithmic trading Learn strategies and insights to elevate trading performance"
 ---
 

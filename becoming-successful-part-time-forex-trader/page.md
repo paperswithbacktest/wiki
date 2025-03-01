@@ -1,5 +1,5 @@
 ---
-title: "Becoming a Successful Part-Time Forex Trader (Algo Trading)"
+title: "Becoming a Successful Part-Time Forex Trader"
 description: "Unlock your potential in Forex trading by mastering part-time and algorithmic strategies Optimize your trading success and make informed decisions with actionable insights"
 ---
 

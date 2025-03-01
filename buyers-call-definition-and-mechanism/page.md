@@ -1,5 +1,5 @@
 ---
-title: "Buyer's Call: Definition and Mechanism (Algo Trading)"
+title: "Buyer's Call: Definition and Mechanism"
 description: "Explore the mechanics of buyer's calls in algorithmic trading and learn how options and algo-trading techniques enhance investment strategies for better returns."
 ---
 

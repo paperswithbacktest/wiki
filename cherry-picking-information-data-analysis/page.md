@@ -1,5 +1,5 @@
 ---
-title: "Cherry Picking in Information and Data Analysis (Algo Trading)"
+title: "Cherry Picking in Information and Data Analysis"
 description: "Understanding biases like cherry picking and information bias in algorithmic trading is crucial as they can lead to distorted analyses and poor investment decisions."
 ---
 

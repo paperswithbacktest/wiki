@@ -1,5 +1,5 @@
 ---
-title: "Blue Chip Stocks: Overview and Examples (Algo Trading)"
+title: "Blue Chip Stocks: Overview and Examples"
 description: "Discover the benefits of investing in blue chip stocks and algorithmic trading High stability and data-driven strategies for diverse investor profiles"
 ---
 

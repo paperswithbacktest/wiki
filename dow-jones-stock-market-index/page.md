@@ -1,5 +1,5 @@
 ---
-title: "Dow Jones Stock Market Index (Algo Trading)"
+title: "Dow Jones Stock Market Index"
 description: "Explore the impact of algorithmic trading on the Dow Jones stock market index Learn how automation transforms trading strategies for investors today"
 ---
 

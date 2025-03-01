@@ -1,5 +1,5 @@
 ---
-title: "Abnormal Spoilage: Definition, Process, and Examples (Algo Trading)"
+title: "Abnormal Spoilage: Definition, Process, and Examples"
 description: "Explore the integration of abnormal spoilage, inventory management, and algorithmic trading to optimize financial and operational efficiency for your business."
 ---
 

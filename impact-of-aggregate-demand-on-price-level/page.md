@@ -1,5 +1,5 @@
 ---
-title: "Impact of Aggregate Demand on Price Level (Algo Trading)"
+title: "Impact of Aggregate Demand on Price Level"
 description: "Explore the impact of aggregate demand on price levels and its significance in algorithmic trading with insights into economic theory and market strategies."
 ---
 

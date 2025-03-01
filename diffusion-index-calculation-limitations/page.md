@@ -1,5 +1,5 @@
 ---
-title: "Diffusion Index: Explanation, Calculation, and Limitations (Algo Trading)"
+title: "Diffusion Index: Explanation, Calculation, and Limitations"
 description: "Discover how diffusion indexes enhance algorithmic trading by evaluating economic indicators and statistical methods for improved market predictions."
 ---
 

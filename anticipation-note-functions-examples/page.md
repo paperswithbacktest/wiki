@@ -1,5 +1,5 @@
 ---
-title: "Anticipation Note: Functions and Examples (Algo Trading)"
+title: "Anticipation Note: Functions and Examples"
 description: "Explore how anticipation notes, financial instruments, and algorithmic trading shape modern market strategies. Enhance your trading insights with this comprehensive guide."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Differences Between U.S. Bonds, Bills, and Notes (Algo Trading)"
+title: "Differences Between U.S. Bonds, Bills, and Notes"
 description: "Explore the differences between U.S. bonds, bills, and notes and their impact on the financial markets alongside insights into algorithmic trading strategies."
 ---
 

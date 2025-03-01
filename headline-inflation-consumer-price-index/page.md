@@ -1,5 +1,5 @@
 ---
-title: "Headline Inflation and Its Relation to the Consumer Price Index (Algo Trading)"
+title: "Headline Inflation and Its Relation to the Consumer Price Index"
 description: "Explore the dynamic relationship between headline inflation, the Consumer Price Index (CPI), and algorithmic trading in financial markets. Understand how CPI serves as a key economic indicator for inflation, influencing trading strategies and market interpretations. Discover how algorithmic trading leverages CPI data for precise, speedy market reactions, aiding investors in optimizing trading outcomes amidst inflation-driven market dynamics."
 ---
 

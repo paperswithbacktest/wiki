@@ -1,5 +1,5 @@
 ---
-title: "Free Lunch Programs: Overview and Functionality (Algo Trading)"
+title: "Free Lunch Programs: Overview and Functionality"
 description: "Explore the impact of free lunch programs and nutritional assistance in addressing food insecurity while leveraging algorithmic tools to optimize resources."
 ---
 

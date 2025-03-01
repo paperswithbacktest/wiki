@@ -1,5 +1,5 @@
 ---
-title: "Investment Holdings and Their Role in Portfolio Diversity (Algo Trading)"
+title: "Investment Holdings and Their Role in Portfolio Diversity"
 description: "Explore how investment holdings and algorithmic trading optimize portfolio diversity by reducing risks and maximizing returns in the evolving financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Impact of Net Neutrality on Investment and Innovation (Algo Trading)"
+title: "Impact of Net Neutrality on Investment and Innovation"
 description: "Explore the critical impact of net neutrality on investment and algorithmic trading highlighting its vital role in fostering innovation and maintaining a level digital playing field."
 ---
 

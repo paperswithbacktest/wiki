@@ -1,5 +1,5 @@
 ---
-title: "Importance of Capital Adequacy Ratio to Shareholders (Algo Trading)"
+title: "Importance of Capital Adequacy Ratio to Shareholders"
 description: "Explore the significance of Capital Adequacy Ratio (CAR) for shareholders in banking sectors Learn how CAR ensures financial health aids in decision making and enhances trading strategies"
 ---
 

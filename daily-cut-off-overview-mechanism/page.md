@@ -1,5 +1,5 @@
 ---
-title: "Daily Cut-Off: Overview and Mechanism (Algo Trading)"
+title: "Daily Cut-Off: Overview and Mechanism"
 description: "Unlock the complexities of algo trading by understanding daily cut-off times crucial for optimizing strategies and achieving precise financial transactions."
 ---
 

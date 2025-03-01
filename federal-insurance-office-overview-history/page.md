@@ -1,5 +1,5 @@
 ---
-title: "Federal Insurance Office: Overview and History (Algo Trading)"
+title: "Federal Insurance Office: Overview and History"
 description: "Explore the Federal Insurance Office's role within the U.S. financial system its history and its impact on insurance and algorithmic trading markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Ansatz Capital (Algo Trading)"
+title: "Ansatz Capital"
 description: "Ansatz Capital leads in algorithmic trading with data-driven strategies blending finance and tech to enhance market efficiency and capture opportunities."
 ---
 

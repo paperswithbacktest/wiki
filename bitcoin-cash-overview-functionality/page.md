@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin Cash: Overview and Functionality (Algo Trading)"
+title: "Bitcoin Cash: Overview and Functionality"
 description: "Discover how Bitcoin Cash offers a unique advantage in crypto markets with low fees and fast transactions enhanced by algorithmic trading efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Concession Fees for Underwriters (Algo Trading)"
+title: "Concession Fees for Underwriters"
 description: "Explore the complexities of concession fees, finance underwriting, and algo trading in today's financial landscape Learn how these elements influence global markets"
 ---
 

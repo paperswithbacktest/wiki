@@ -1,5 +1,5 @@
 ---
-title: "Coiled Market: Meaning, Function, and Examples (Algo Trading)"
+title: "Coiled Market: Meaning, Function, and Examples"
 description: "Explore the intriguing concept of coiled markets where price tension builds like a compressed spring Discover how algorithmic trading taps into these dynamics for strategic gains"
 ---
 

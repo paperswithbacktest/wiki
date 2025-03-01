@@ -1,5 +1,5 @@
 ---
-title: "Hudson River Trading (Algo Trading)"
+title: "Hudson River Trading"
 description: "Explore Hudson River Trading's impact on financial markets through high-frequency algorithmic trading and innovative technology, enhancing trading efficiency."
 ---
 

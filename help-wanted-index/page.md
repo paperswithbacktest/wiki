@@ -1,5 +1,5 @@
 ---
-title: "Help-Wanted Index (Algo Trading)"
+title: "Help-Wanted Index"
 description: "Explore the role of the Help-Wanted Index in understanding labor demand and its integration into algorithmic trading for enhanced market predictions."
 ---
 

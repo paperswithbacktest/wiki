@@ -1,5 +1,5 @@
 ---
-title: "LGBTQ+ Wage Disparities and Employment Challenges (Algo Trading)"
+title: "LGBTQ+ Wage Disparities and Employment Challenges"
 description: "Explore the impact of wage disparities and employment challenges on LGBTQ+ individuals and how algorithmic trading offers a bias-free approach to financial markets."
 ---
 

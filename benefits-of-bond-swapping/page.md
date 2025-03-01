@@ -1,5 +1,5 @@
 ---
-title: "Benefits of Bond Swapping (Algo Trading)"
+title: "Benefits of Bond Swapping"
 description: "Discover the financial advantages of bond swapping and algorithmic trading Explore strategies to enhance yield reduce tax liabilities and optimize portfolios"
 ---
 

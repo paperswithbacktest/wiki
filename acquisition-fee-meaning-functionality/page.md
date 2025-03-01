@@ -1,5 +1,5 @@
 ---
-title: "Acquisition Fee: Meaning and Functionality (Algo Trading)"
+title: "Acquisition Fee: Meaning and Functionality"
 description: "Explore the essentials of acquisition fees in leasing and the impact of algorithmic trading on modern finance for efficient market transactions."
 ---
 

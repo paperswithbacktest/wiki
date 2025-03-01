@@ -1,5 +1,5 @@
 ---
-title: "Crypto Whales and Their Impact on Markets (Algo Trading)"
+title: "Crypto Whales and Their Impact on Markets"
 description: "Explore the significant impact of crypto whales on the cryptocurrency market. These large holders of digital assets can influence market liquidity and asset prices through substantial trading activities. Understanding their behavior and monitoring their transactions is crucial for investors to anticipate market trends, manage risks, and make informed decisions. As key players, crypto whales shape the dynamic market landscape, making their actions essential to comprehend for successful trading strategies."
 ---
 

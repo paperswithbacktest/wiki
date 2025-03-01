@@ -1,5 +1,5 @@
 ---
-title: "Determining Company Inclusion in Stock Indexes (Algo Trading)"
+title: "Determining Company Inclusion in Stock Indexes"
 description: "Explore the relationship between stock index inclusion and algorithmic trading to understand their profound impact on market dynamics and investment strategies."
 ---
 

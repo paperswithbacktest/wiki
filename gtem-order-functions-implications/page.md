@@ -1,5 +1,5 @@
 ---
-title: "GTEM Order: Functions and Implications (Algo Trading)"
+title: "GTEM Order: Functions and Implications"
 description: "Discover how GTEM orders in algorithmic trading provide extended market access, allowing strategic flexibility and response to pre-market and after-hours events."
 ---
 

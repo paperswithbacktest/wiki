@@ -1,5 +1,5 @@
 ---
-title: "B-Shares and Alternative Investments (Algo Trading)"
+title: "B-Shares and Alternative Investments"
 description: "Explore B-shares, alternative investments, and algorithmic trading to enhance portfolio diversification, access Chinese markets, and optimize trading efficiency."
 ---
 

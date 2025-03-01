@@ -1,5 +1,5 @@
 ---
-title: "China's Response to the 2015 Stock Market Crash (Algo Trading)"
+title: "China's Response to the 2015 Stock Market Crash"
 description: "Explore China's response to the 2015 stock market crash highlighting government interventions and the impact of algorithmic trading on market dynamics."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Cramer Bounce: Concept and Mechanism (Algo Trading)"
+title: "Cramer Bounce: Concept and Mechanism"
 description: "Explore the Cramer Bounce phenomenon in algorithmic trading analyzing media-driven stock price surges after Jim Cramer's recommendations and their temporary effects."
 ---
 

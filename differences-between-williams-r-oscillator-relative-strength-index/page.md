@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Williams %R Oscillator and Relative Strength Index (Algo Trading)"
+title: "Differences Between Williams %R Oscillator and Relative Strength Index"
 description: "Explore the differences between Williams %R and RSI indicators in algo trading Discover how each identifies market trends and optimizes trading strategies"
 ---
 

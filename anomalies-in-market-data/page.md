@@ -1,5 +1,5 @@
 ---
-title: "Anomalies in Market Data (Algo Trading)"
+title: "Anomalies in Market Data"
 description: "Discover how identifying market data anomalies can offer trading opportunities to algorithmic traders by exploiting deviations in financial patterns for profit."
 ---
 

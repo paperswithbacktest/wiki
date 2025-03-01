@@ -1,5 +1,5 @@
 ---
-title: "Government-Owned Property (Algo Trading)"
+title: "Government-Owned Property"
 description: "Explore how algorithmic trading revolutionizes the management of government-owned properties by optimizing asset allocation, enhancing decision-making, and elevating public utility."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Cumulative Volume Index: Calculation and Example (Algo Trading)"
+title: "Cumulative Volume Index: Calculation and Example"
 description: "Learn how to calculate and apply the Cumulative Volume Index in algorithmic trading. Explore its role in predicting market trends and improving trade strategies."
 ---
 

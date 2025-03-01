@@ -1,5 +1,5 @@
 ---
-title: "Key U.S. Housing Market Indicators (Algo Trading)"
+title: "Key U.S. Housing Market Indicators"
 description: "Explore key U.S. housing market indicators to guide strategic decisions for investors and homebuyers using insights for algorithmic trading optimization."
 ---
 

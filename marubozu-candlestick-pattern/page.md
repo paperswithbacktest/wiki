@@ -1,5 +1,5 @@
 ---
-title: "Marubozu Candlestick Pattern (Algo Trading)"
+title: "Marubozu Candlestick Pattern"
 description: "Discover the Marubozu candlestick pattern's significance in technical analysis and its application in algorithmic trading for effective market predictions."
 ---
 

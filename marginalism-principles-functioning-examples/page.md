@@ -1,5 +1,5 @@
 ---
-title: "Marginalism: Principles, Functioning, and Examples (Algo Trading)"
+title: "Marginalism: Principles, Functioning, and Examples"
 description: "Explore how marginalism—a key economic concept—enhances algorithmic trading by focusing on incremental changes in costs and benefits for optimal decision-making."
 ---
 

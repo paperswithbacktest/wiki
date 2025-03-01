@@ -1,5 +1,5 @@
 ---
-title: "Mandatory Seller Disclosures in Home Buying (Algo Trading)"
+title: "Mandatory Seller Disclosures in Home Buying"
 description: "Explore the importance of mandatory seller disclosures in home buying and how they ensure transparency in real estate transactions. Understand how algorithmic trading influences property valuations and the critical role accurate disclosures play in this tech-driven landscape. Learn about local disclosure laws and their impact on market dynamics, helping buyers and sellers make informed decisions."
 ---
 

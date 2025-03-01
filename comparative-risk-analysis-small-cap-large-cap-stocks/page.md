@@ -1,5 +1,5 @@
 ---
-title: "Comparative Risk Analysis of Small Cap and Large Cap Stocks (Algo Trading)"
+title: "Comparative Risk Analysis of Small Cap and Large Cap Stocks"
 description: "Discover the risks and rewards of investing in small-cap versus large-cap stocks and explore the impact of algorithmic trading in the volatile stock market."
 ---
 

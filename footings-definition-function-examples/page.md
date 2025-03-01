@@ -1,5 +1,5 @@
 ---
-title: "Footings: Definition, Function, and Examples (Algo Trading)"
+title: "Footings: Definition, Function, and Examples"
 description: "Explore the parallels between construction and finance by understanding footings and algorithms Discover how these concepts create strong foundations for success."
 ---
 

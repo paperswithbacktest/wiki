@@ -1,5 +1,5 @@
 ---
-title: "Investment Income: Examples and Tax Treatment (Algo Trading)"
+title: "Investment Income: Examples and Tax Treatment"
 description: "Explore the complexities of investment income and its tax implications. Learn how algo trading impacts earnings and strategies to maximize returns effectively."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Balance of Trade: Overview and Examples (Algo Trading)"
+title: "Balance of Trade: Overview and Examples"
 description: "Explore trade dynamics with insights on trade surplus, deficit, and balance of trade in global markets. Learn how algorithmic trading impacts these elements."
 ---
 

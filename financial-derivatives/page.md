@@ -1,5 +1,5 @@
 ---
-title: "Financial Derivatives (Algo Trading)"
+title: "Financial Derivatives"
 description: "Explore risk management strategies in financial markets, focusing on algorithmic trading, market risk, credit risk, and technology-driven solutions for investors."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Macaulay Duration: Overview, Formula, and Applications (Algo Trading)"
+title: "Macaulay Duration: Overview, Formula, and Applications"
 description: "Explore Macaulay Duration a vital metric in bond trading that measures interest rate sensitivity and aids algorithmic trading by refining risk management strategies."
 ---
 

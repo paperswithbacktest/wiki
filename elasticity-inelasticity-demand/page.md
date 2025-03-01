@@ -1,5 +1,5 @@
 ---
-title: "Elasticity and Inelasticity of Demand (Algo Trading)"
+title: "Elasticity and Inelasticity of Demand"
 description: "Explore how understanding demand elasticity and inelasticity enhances algorithmic trading by predicting market trends and optimizing strategies for reliable outcomes."
 ---
 

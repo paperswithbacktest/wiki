@@ -1,5 +1,5 @@
 ---
-title: "Argentinian Nuevo Peso: History and Overview (Algo Trading)"
+title: "Argentinian Nuevo Peso: History and Overview"
 description: "Discover the dynamic history and economic impact of the Argentinian Peso amidst inflation challenges and the rise of algorithmic trading in volatile markets."
 ---
 

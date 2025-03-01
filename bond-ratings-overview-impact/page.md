@@ -1,5 +1,5 @@
 ---
-title: "Bond Ratings: Overview and Impact (Algo Trading)"
+title: "Bond Ratings: Overview and Impact"
 description: "Explore the impact of bond ratings and algorithmic trading on financial markets Learn about credit rating agencies' roles and how they affect investment decisions"
 ---
 

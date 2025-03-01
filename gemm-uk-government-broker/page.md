@@ -1,5 +1,5 @@
 ---
-title: "GEMM as a U.K. Government Broker (Algo Trading)"
+title: "GEMM as a U.K. Government Broker"
 description: "Discover how Gilt-Edged Market Makers enhance U.K. government securities trading using algorithmic methods to boost market stability and liquidity."
 ---
 

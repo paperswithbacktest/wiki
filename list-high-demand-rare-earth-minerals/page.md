@@ -1,5 +1,5 @@
 ---
-title: "List of High-Demand Rare Earth Minerals (Algo Trading)"
+title: "List of High-Demand Rare Earth Minerals"
 description: "Explore the growing demand for high-demand rare earth minerals like lithium, nickel, and cobalt, vital for today's tech and energy solutions plus algo trading insights."
 ---
 

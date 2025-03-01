@@ -1,5 +1,5 @@
 ---
-title: "Credit Exposure (Algo Trading)"
+title: "Credit Exposure"
 description: "Explore the intricacies of credit risk and financial exposure in banking and discover how algorithmic trading enhances risk management for institutions and investors."
 ---
 

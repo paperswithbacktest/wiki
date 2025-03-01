@@ -1,5 +1,5 @@
 ---
-title: "Lowest Possible Price: Definition and Mechanisms (Algo Trading)"
+title: "Lowest Possible Price: Definition and Mechanisms"
 description: "Explore how algorithmic trading enhances pricing strategies and cost control in business. Discover the interplay of technology and market dynamics for competitive advantage."
 ---
 

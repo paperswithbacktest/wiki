@@ -1,5 +1,5 @@
 ---
-title: "Algorand and Ethereum: Differences and Overview (Algo Trading)"
+title: "Algorand and Ethereum: Differences and Overview"
 description: "Explore the key differences and strengths of Ethereum and Algorand in algorithmic trading Learn how these blockchain platforms enhance trading efficiency and speed"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Global Investment Performance Standards (Algo Trading)"
+title: "Global Investment Performance Standards"
 description: "Explore the intersection of global investment standards and algorithmic trading shaping modern finance and driving transparency and efficiency in market practices."
 ---
 

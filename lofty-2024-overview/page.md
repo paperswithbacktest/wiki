@@ -1,5 +1,5 @@
 ---
-title: "Lofty 2024 Overview (Algo Trading)"
+title: "Lofty 2024 Overview"
 description: "Discover the advanced features of Lofty 2024, a leading algorithmic trading platform. Enhance your trading strategies with cutting-edge tools and seamless data integration."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Loan-to-Value Ratio Calculation in Excel (Algo Trading)"
+title: "Loan-to-Value Ratio Calculation in Excel"
 description: "Discover how to calculate the Loan-to-Value (LTV) ratio in Excel and explore its relevance in assessing lending risks and algorithmic trading strategies."
 ---
 

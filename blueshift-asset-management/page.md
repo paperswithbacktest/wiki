@@ -1,5 +1,5 @@
 ---
-title: "Blueshift Asset Management (Algo Trading)"
+title: "Blueshift Asset Management"
 description: "Blueshift Asset Management specializes in systematic investing with a focus on algorithmic trading strategies that enhance market efficiency and investment returns."
 ---
 

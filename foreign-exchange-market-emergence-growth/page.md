@@ -1,5 +1,5 @@
 ---
-title: "Foreign Exchange Market: Emergence and Growth (Algo Trading)"
+title: "Foreign Exchange Market: Emergence and Growth"
 description: "Explore the growing impact of algorithmic trading in the Forex market, enhancing speed and efficiency for traders while minimizing human error in global currency exchanges."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Legality and Significance of Lobbying in the United States (Algo Trading)"
+title: "Legality and Significance of Lobbying in the United States"
 description: "Explore the impact of lobbying and algorithmic trading within the U.S. legislative and financial systems. This article investigates into how these forces shape public policy and market dynamics. Understand the role of lobbyists in influencing legislation, supported by acts like the Lobbying Disclosure Act, and the revolution brought by algorithmic trading in the financial sector. This comprehensive analysis provides insights into the interplay between these elements and the broader implications for governance and economic landscapes."
 ---
 

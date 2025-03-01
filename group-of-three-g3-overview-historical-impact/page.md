@@ -1,5 +1,5 @@
 ---
-title: "Group of Three (G3): Overview and Historical Impact (Algo Trading)"
+title: "Group of Three (G3): Overview and Historical Impact"
 description: "Discover the historical impact of the Group of Three G3 trade alliance among Mexico Colombia and Venezuela and its influence on trading dynamics and policies"
 ---
 

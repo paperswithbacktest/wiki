@@ -1,5 +1,5 @@
 ---
-title: "Bancor: Overview, Purpose, and Criticisms (Algo Trading)"
+title: "Bancor: Overview, Purpose, and Criticisms"
 description: "Explore Bancor's transformative role in decentralized finance and algorithmic trading while understanding its innovations, challenges, and impact on the crypto ecosystem."
 ---
 

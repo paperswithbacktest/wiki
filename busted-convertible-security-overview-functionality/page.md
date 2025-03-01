@@ -1,5 +1,5 @@
 ---
-title: "Busted Convertible Security: Overview and Functionality (Algo Trading)"
+title: "Busted Convertible Security: Overview and Functionality"
 description: "Explore the intriguing world of busted convertible securities blending debt and equity features for diverse portfolios and strategic algorithmic trading potential."
 ---
 

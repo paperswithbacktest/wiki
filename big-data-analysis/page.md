@@ -1,5 +1,5 @@
 ---
-title: "Big data analysis (Algo Trading)"
+title: "Big data analysis"
 description: Explore how big data and algorithmic trading intersect to transform modern financial markets. Discover the role of computer algorithms in automating and refining trading strategies through extensive datasets. Uncover insights into how high-frequency trading operates, leveraging vast amounts of structured and unstructured data to achieve speed, accuracy, and strategic decision-making in trading environments. Learn about the historical evolution of algo trading and its profound impact on market dynamics, risk management, and predictive analytics.
 ---
 

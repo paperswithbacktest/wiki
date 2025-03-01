@@ -1,5 +1,5 @@
 ---
-title: "Influence of Proxy Voting on Fund Shareholder Participation (Algo Trading)"
+title: "Influence of Proxy Voting on Fund Shareholder Participation"
 description: "Explore the impact of proxy voting on shareholder participation in corporate governance amid the rise of algorithmic trading and evolving regulatory frameworks."
 ---
 

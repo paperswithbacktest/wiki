@@ -1,5 +1,5 @@
 ---
-title: "Determinants of Home Value (Algo Trading)"
+title: "Determinants of Home Value"
 description: "Explore how technology, location, and market trends drive property value and shape algorithmic trading in real estate to optimize investments."
 ---
 

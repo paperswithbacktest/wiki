@@ -1,5 +1,5 @@
 ---
-title: "Methods for Screening Stock Investments (Algo Trading)"
+title: "Methods for Screening Stock Investments"
 description: "Explore essential methods for successful stock investment screening Stock screening stock ideas and algo trading enhance strategies providing data-driven insights and efficiency"
 ---
 

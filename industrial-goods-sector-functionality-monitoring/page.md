@@ -1,5 +1,5 @@
 ---
-title: "Industrial Goods Sector: Functionality and Monitoring (Algo Trading)"
+title: "Industrial Goods Sector: Functionality and Monitoring"
 description: "Explore the synergy of industrial goods, market tracking, and algo trading for optimized investment strategies. Gain insights into data-driven decision-making."
 ---
 

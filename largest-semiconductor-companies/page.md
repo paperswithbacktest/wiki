@@ -1,5 +1,5 @@
 ---
-title: "List of Largest Semiconductor Companies (Algo Trading)"
+title: "List of Largest Semiconductor Companies"
 description: "Explore the world of top semiconductor companies and their role in advancing technology through innovations and the evolving landscape of algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Government Grants: Function and Application Process (Algo Trading)"
+title: "Government Grants: Function and Application Process"
 description: "Explore the function and application process of government grants for algorithmic trading. Discover how these non-repayable financial awards support innovation and development in this capital-intensive sector. Learn about navigating the intricate application process, from selecting suitable grants to crafting compelling proposals that align with grant objectives. Government grants can provide critical funding to pursue advanced trading strategies, offering substantial advantages in the competitive landscape of algorithmic trading."
 ---
 

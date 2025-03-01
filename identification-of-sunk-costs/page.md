@@ -1,5 +1,5 @@
 ---
-title: "Identification of Sunk Costs (Algo Trading)"
+title: "Identification of Sunk Costs"
 description: "Explore the impact of sunk costs on decision-making in algorithmic trading, highlighting their role in shaping economic strategies. Understand the psychological biases and pitfalls of sunk cost fallacy while optimizing trading frameworks to enhance profitability through rational economic principles. Discover strategies that harness technological advancements and data-driven insights, empowering traders to prioritize future potential over irretrievable past expenditures for improved market performance and competitive edge."
 ---
 

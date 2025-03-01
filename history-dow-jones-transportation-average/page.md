@@ -1,5 +1,5 @@
 ---
-title: "History of the Dow Jones Transportation Average (Algo Trading)"
+title: "History of the Dow Jones Transportation Average"
 description: "Explore the rich history of the Dow Jones Transportation Average and its evolution in the transportation sector from railroads to airlines and logistics."
 ---
 

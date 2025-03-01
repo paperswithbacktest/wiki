@@ -1,5 +1,5 @@
 ---
-title: "Evaluating A Company's Balance Sheet (Algo Trading)"
+title: "Evaluating A Company's Balance Sheet"
 description: "Explore the synergy between balance sheet analysis and algorithmic trading Gain insights into financial assessment for strategic decision-making in trading"
 ---
 

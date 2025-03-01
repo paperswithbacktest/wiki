@@ -1,5 +1,5 @@
 ---
-title: "Average Selling Price (Algo Trading)"
+title: "Average Selling Price"
 description: "Discover the importance of Average Selling Price (ASP) in pricing strategy and algorithmic trading Learn how ASP guides decision-making to optimize market positioning"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Downstream Operations: Types and Examples (Algo Trading)"
+title: "Downstream Operations: Types and Examples"
 description: "Explore the integral role of downstream operations in algorithmic trading Details how these processes, from data refinement to strategy execution, enhance trading efficiency"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Exhaustion Gap in Technical Analysis (Algo Trading)"
+title: "Exhaustion Gap in Technical Analysis"
 description: "Explore the significance of exhaustion gaps in technical analysis and algorithmic trading to refine strategies and anticipate potential stock market trend reversals."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Impact of Seasonal Changes on Real Estate Patterns (Algo Trading)"
+title: "Impact of Seasonal Changes on Real Estate Patterns"
 description: "Explore how seasonal changes in real estate patterns influence market dynamics and the role of algorithmic trading in optimizing investment strategies."
 ---
 

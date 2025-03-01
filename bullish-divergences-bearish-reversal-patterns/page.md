@@ -1,5 +1,5 @@
 ---
-title: "Bullish Divergences and Bearish Reversal Patterns (Algo Trading)"
+title: "Bullish Divergences and Bearish Reversal Patterns"
 description: "Discover the power of bearish reversals and bullish divergences in algo trading to enhance trading strategies and optimize market positions effectively."
 ---
 

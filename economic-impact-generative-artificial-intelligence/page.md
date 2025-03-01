@@ -1,5 +1,5 @@
 ---
-title: "Economic Impact of Generative Artificial Intelligence (Algo Trading)"
+title: "Economic Impact of Generative Artificial Intelligence"
 description: "Explore the profound economic impacts of generative AI in algorithmic trading as it reshapes financial landscapes by enhancing strategies and market adaptability."
 ---
 

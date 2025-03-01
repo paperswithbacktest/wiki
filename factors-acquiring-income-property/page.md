@@ -1,5 +1,5 @@
 ---
-title: "Factors in Acquiring an Income Property (Algo Trading)"
+title: "Factors in Acquiring an Income Property"
 description: "Explore how algorithmic trading transforms real estate investment strategies by offering data-driven insights into buying and managing income properties for optimal returns."
 ---
 

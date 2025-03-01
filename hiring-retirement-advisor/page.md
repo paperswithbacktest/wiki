@@ -1,5 +1,5 @@
 ---
-title: "Hiring a Retirement Advisor (Algo Trading)"
+title: "Hiring a Retirement Advisor"
 description: "Hiring a retirement advisor ensures strategic planning, optimizing your financial future with expert guidance and innovative algorithmic trading for a secure retirement."
 ---
 

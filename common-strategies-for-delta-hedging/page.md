@@ -1,5 +1,5 @@
 ---
-title: "Common Strategies for Delta Hedging (Algo Trading)"
+title: "Common Strategies for Delta Hedging"
 description: "Discover effective delta hedging strategies in options trading to minimize risk and optimize returns Enhancing your trading with algorithmic precision and insight"
 ---
 

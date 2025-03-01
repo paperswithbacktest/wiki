@@ -1,5 +1,5 @@
 ---
-title: "Calculation of the U.S. Monthly Unemployment Rate (Algo Trading)"
+title: "Calculation of the U.S. Monthly Unemployment Rate"
 description: "Explore the relationship between U.S. unemployment rates and algorithmic trading strategies and discover how labor statistics influence financial markets."
 ---
 

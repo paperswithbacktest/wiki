@@ -1,5 +1,5 @@
 ---
-title: "Calculation of Effective Tax Rate from Income Statements (Algo Trading)"
+title: "Calculation of Effective Tax Rate from Income Statements"
 description: "Discover how calculating the effective tax rate from income statements aids algorithmic trading by optimizing tax strategies for improved profitability."
 ---
 

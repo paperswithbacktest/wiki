@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Product Differentiation and Price Discrimination (Algo Trading)"
+title: "Comparison of Product Differentiation and Price Discrimination"
 description: "Explore the dynamics of product differentiation and price discrimination within algorithmic trading and uncover strategies to boost market success."
 ---
 

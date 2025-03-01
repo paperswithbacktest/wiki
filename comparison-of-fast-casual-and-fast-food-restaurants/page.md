@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Fast-Casual and Fast-Food Restaurants (Algo Trading)"
+title: "Comparison of Fast-Casual and Fast-Food Restaurants"
 description: "Explore the distinctions between fast-casual and fast-food restaurants and their growth dynamics as technology and consumer preferences reshape industries."
 ---
 

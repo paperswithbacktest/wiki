@@ -1,5 +1,5 @@
 ---
-title: "Accounting Policies: Definition and Applications (Algo Trading)"
+title: "Accounting Policies: Definition and Applications"
 description: "Explore how strategic accounting policies shape financial reporting in algorithmic trading critical for ensuring accuracy facilitating informed decisions."
 ---
 

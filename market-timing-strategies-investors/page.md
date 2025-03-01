@@ -1,5 +1,5 @@
 ---
-title: "Market Timing Strategies for Investors (Algo Trading)"
+title: "Market Timing Strategies for Investors"
 description: "Explore market timing strategies using algorithmic trading for precise financial decisions. Understand and integrate these to enhance your investment strategy."
 ---
 

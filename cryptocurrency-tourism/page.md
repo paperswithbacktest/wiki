@@ -1,5 +1,5 @@
 ---
-title: "Cryptocurrency Tourism (Algo Trading)"
+title: "Cryptocurrency Tourism"
 description: "Explore the dynamic intersection of travel tourism cryptocurrency and algorithmic trading where technology transforms travel experiences and financial transactions. Discover how cryptocurrencies offer secure cost-effective payment options and how algorithmic trading optimizes cryptocurrency investments in this evolving digital landscape."
 ---
 

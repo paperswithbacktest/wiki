@@ -1,5 +1,5 @@
 ---
-title: "Economic Recession: Causes and Examples (Algo Trading)"
+title: "Economic Recession: Causes and Examples"
 description: "Explore the causes and historical examples of economic recessions including the influence of algorithmic trading on financial markets during downturns."
 ---
 

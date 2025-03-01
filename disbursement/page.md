@@ -1,5 +1,5 @@
 ---
-title: "Disbursement (Algo Trading)"
+title: "Disbursement"
 description: "Explore the dynamics of financial transactions and algo trading in today's economy Learn how tech innovations enhance speed efficiency and security in finance"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Accounts Receivable and Inventory Turnover (Algo Trading)"
+title: "Accounts Receivable and Inventory Turnover"
 description: "Explore the vital role of inventory turnover and accounts receivable turnover in evaluating financial health and enhancing algorithmic trading strategies."
 ---
 

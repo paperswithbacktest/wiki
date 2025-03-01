@@ -1,5 +1,5 @@
 ---
-title: "Differences Between ESG, SRI, and Impact Funds (Algo Trading)"
+title: "Differences Between ESG, SRI, and Impact Funds"
 description: "Discover the distinctions between ESG, SRI, and impact funds in algorithmic trading Explore investment strategies prioritizing ethical and sustainable practices"
 ---
 

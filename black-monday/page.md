@@ -1,5 +1,5 @@
 ---
-title: "Black Monday (Algo Trading)"
+title: "Black Monday"
 description: Discover the profound impact of Black Monday on October 19, 1987, a pivotal event in financial history that saw algorithmic trading significantly influence global stock markets. This page investigates into how automated trading systems, particularly portfolio insurance, accelerated the market downturn, contributing to the 22.6% drop in the Dow Jones Industrial Average. Explore the causes of this substantial market crash, including market interconnectedness, economic indicators, and technological advancements, and learn valuable lessons on managing market volatility through enhanced regulatory measures and robust trading systems.
 ---
 

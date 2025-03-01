@@ -1,5 +1,5 @@
 ---
-title: "Abandonment: Definition and Mechanisms (Algo Trading)"
+title: "Abandonment: Definition and Mechanisms"
 description: "Learn about abandonment mechanisms in algorithmic trading where automated strategies use predefined criteria to exit trades and minimize risks quickly."
 ---
 

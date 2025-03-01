@@ -1,5 +1,5 @@
 ---
-title: "Bond Market and Debt Securities Overview (Algo Trading)"
+title: "Bond Market and Debt Securities Overview"
 description: "Explore the dynamics of bond markets and debt securities, and understand the growing influence of algorithmic trading in optimizing investments and market efficiency."
 ---
 

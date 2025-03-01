@@ -1,5 +1,5 @@
 ---
-title: "Duration of Short Selling (Algo Trading)"
+title: "Duration of Short Selling"
 description: "Explore the world of short selling and algorithmic trading to enhance trading efficiency and profitability in the stock market by leveraging unique strategies."
 ---
 

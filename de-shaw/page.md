@@ -1,5 +1,5 @@
 ---
-title: "DE Shaw (Algo Trading)"
+title: "DE Shaw"
 description: "Explore DE Shaw's leading role in algorithmic trading employing quantitative models and cutting-edge tech to deliver efficient trading and robust returns."
 ---
 

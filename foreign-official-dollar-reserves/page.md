@@ -1,5 +1,5 @@
 ---
-title: "Foreign Official Dollar Reserves (Algo Trading)"
+title: "Foreign Official Dollar Reserves"
 description: "Explore the impact of Foreign Official Dollar Reserves on financial markets and algorithmic trading strategies in the global economic landscape."
 ---
 

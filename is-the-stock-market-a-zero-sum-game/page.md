@@ -1,5 +1,5 @@
 ---
-title: "Is the Stock Market a Zero-Sum Game? (Algo Trading)"
+title: "Is the Stock Market a Zero-Sum Game?"
 description: Explore whether the stock market functions as a zero-sum game with a focus on algorithmic trading. Understand the interaction between short-term trading's zero-sum characteristics and long-term investing's value creation in financial markets. Delve into how algo trading exploits market inefficiencies, raising questions about its impact on competitive market dynamics and the zero-sum framework.
 ---
 

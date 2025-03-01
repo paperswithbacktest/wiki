@@ -1,5 +1,5 @@
 ---
-title: "E-mini S&P 500 Futures by CME Group (Algo Trading)"
+title: "E-mini S&P 500 Futures by CME Group"
 description: "Explore the world of algorithmic trading with CME Group's E-mini S&P 500 futures. Discover how these contracts offer liquidity and scalability for optimal strategies."
 ---
 

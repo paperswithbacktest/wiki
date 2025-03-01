@@ -1,5 +1,5 @@
 ---
-title: "Impact of Purchase Price on Capital Gains in Finance (Algo Trading)"
+title: "Impact of Purchase Price on Capital Gains in Finance"
 description: "Explore the impact of purchase price on capital gains to enhance investment strategies and leverage the power of algorithmic trading for greater financial returns."
 ---
 

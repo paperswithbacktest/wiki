@@ -1,5 +1,5 @@
 ---
-title: "Generation X: Demographics and Influence (Algo Trading)"
+title: "Generation X: Demographics and Influence"
 description: "Learn how Generation X, with their balanced skepticism and optimism, influences algo trading by blending traditional methods with tech-driven solutions."
 ---
 

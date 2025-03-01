@@ -1,5 +1,5 @@
 ---
-title: "Foreign Direct Investment: Types and Examples (Algo Trading)"
+title: "Foreign Direct Investment: Types and Examples"
 description: "Explore the transformative impact of Foreign Direct Investment and algorithmic trading on the global financial landscape enhancing market efficiency and economic growth."
 ---
 

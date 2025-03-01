@@ -1,5 +1,5 @@
 ---
-title: "Environmental Impact Statement: Definition and Examples (Algo Trading)"
+title: "Environmental Impact Statement: Definition and Examples"
 description: "Explore how Environmental Impact Statements influence algorithmic trading strategies by assessing regulatory impacts on energy and commodities markets for informed decisions."
 ---
 

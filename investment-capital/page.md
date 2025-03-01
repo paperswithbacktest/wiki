@@ -1,5 +1,5 @@
 ---
-title: "Investment Capital (Algo Trading)"
+title: "Investment Capital"
 description: "Explore the integration of algorithmic trading in capital investment to understand how technology transforms investment strategies. This article highlights the benefits of enhancing trading speed and accuracy while managing risks including market volatility and regulatory challenges. Ideal for investors interested in automating their trading approach for improved portfolio management and efficiency."
 ---
 

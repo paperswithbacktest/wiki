@@ -1,5 +1,5 @@
 ---
-title: "Envelope Channel Overview and Functionality (Algo Trading)"
+title: "Envelope Channel Overview and Functionality"
 description: "Explore the importance of envelope channels in algorithmic trading Learn how these tools model prices and guide decision-making with technical insights"
 ---
 

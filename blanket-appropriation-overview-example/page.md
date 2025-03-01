@@ -1,5 +1,5 @@
 ---
-title: "Blanket Appropriation: Overview and Example (Algo Trading)"
+title: "Blanket Appropriation: Overview and Example"
 description: "Discover the role of blanket appropriation and algo trading in today's financial ecosystem Learn how these elements shape decisions and enhance market agility"
 ---
 

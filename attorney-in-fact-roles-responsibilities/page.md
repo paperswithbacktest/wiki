@@ -1,5 +1,5 @@
 ---
-title: "Attorney-in-Fact: Roles and Responsibilities (Algo Trading)"
+title: "Attorney-in-Fact: Roles and Responsibilities"
 description: "Explore how an attorney-in-fact can manage legal and financial responsibilities in algorithmic trading where swift decision-making is crucial for success."
 ---
 

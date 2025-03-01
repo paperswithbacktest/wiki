@@ -1,5 +1,5 @@
 ---
-title: "Information Theoretic Approaches to Trading (Algo Trading)"
+title: "Information Theoretic Approaches to Trading"
 description: "Discover the transformative power of Information Theoretic approaches in algorithmic trading to enhance decision-making and optimize trading strategies."
 ---
 

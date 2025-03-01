@@ -1,5 +1,5 @@
 ---
-title: "Calmar Ratio: Strengths and Weaknesses (Algo Trading)"
+title: "Calmar Ratio: Strengths and Weaknesses"
 description: "Explore the strengths and weaknesses of the Calmar Ratio in algorithmic trading, focusing on its role in assessing risk-adjusted returns and optimizing trading strategies."
 ---
 

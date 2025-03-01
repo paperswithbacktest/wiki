@@ -1,5 +1,5 @@
 ---
-title: "Enterprise Multiple and Its Significance for Value Investors (Algo Trading)"
+title: "Enterprise Multiple and Its Significance for Value Investors"
 description: "Explore the significance of Enterprise Multiple for value investors and algorithmic trading Discover how EV/EBITDA aids in evaluating company valuation and operations"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Dividend Investing Strategy Analysis (Algo Trading)"
+title: "Dividend Investing Strategy Analysis"
 description: "Explore the synergy between dividend investing and algorithmic trading to form a robust strategy that combines steady income with dynamic market opportunities."
 ---
 

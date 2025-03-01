@@ -1,5 +1,5 @@
 ---
-title: "Impaired Asset: Evaluation and Recording Procedures (Algo Trading)"
+title: "Impaired Asset: Evaluation and Recording Procedures"
 description: "Explore the intersection of asset impairment and algorithmic trading to enhance financial reporting accuracy and timely risk management through advanced analytics."
 ---
 

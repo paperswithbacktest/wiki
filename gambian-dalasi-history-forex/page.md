@@ -1,5 +1,5 @@
 ---
-title: "Gambian Dalasi: History and Role in Forex (Algo Trading)"
+title: "Gambian Dalasi: History and Role in Forex"
 description: "Explore the role of the Gambian Dalasi in Forex and algorithmic trading Discover its impact and opportunities for traders in emerging markets"
 ---
 

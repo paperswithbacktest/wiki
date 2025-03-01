@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Growth Investing (Algo Trading)"
+title: "Introduction to Growth Investing"
 description: "Explore the synergy of growth investing and algorithmic trading in stock market strategies Learn how these approaches can enhance portfolio resilience and returns"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Economy of Canada (Algo Trading)"
+title: "Economy of Canada"
 description: "Explore Canada's diverse economy in 2023 focusing on international trade, key sectors, and the rise of algorithmic trading driving growth and innovation."
 ---
 

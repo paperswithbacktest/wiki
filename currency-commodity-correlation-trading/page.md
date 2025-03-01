@@ -1,5 +1,5 @@
 ---
-title: "Currency and Commodity Correlation Trading (Algo Trading)"
+title: "Currency and Commodity Correlation Trading"
 description: "Understand currency and commodity correlations in algorithmic trading to optimize strategies and gain insights into economic dynamics and market impacts."
 ---
 

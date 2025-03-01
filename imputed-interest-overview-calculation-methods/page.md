@@ -1,5 +1,5 @@
 ---
-title: "Imputed Interest: Overview and Calculation Methods (Algo Trading)"
+title: "Imputed Interest: Overview and Calculation Methods"
 description: "Explore imputed interest in finance covering its significance, calculation methods, and its role in algo trading to enhance market strategies."
 ---
 

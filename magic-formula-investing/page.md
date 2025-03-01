@@ -1,5 +1,5 @@
 ---
-title: "Magic Formula Investing (Algo Trading)"
+title: "Magic Formula Investing"
 description: "Discover how the Magic Formula, a stock-picking strategy by Joel Greenblatt, integrates with algorithmic trading to enhance investment outcomes in today's market."
 ---
 

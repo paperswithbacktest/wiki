@@ -1,5 +1,5 @@
 ---
-title: "Call and Put Options: Meaning and Application (Algo Trading)"
+title: "Call and Put Options: Meaning and Application"
 description: "Discover how call and put options empower traders in algorithmic trading Enhance your understanding of options strategies for optimized risk management and returns"
 ---
 

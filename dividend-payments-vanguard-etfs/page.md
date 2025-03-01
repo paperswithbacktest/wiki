@@ -1,5 +1,5 @@
 ---
-title: "Dividend Payments by Vanguard ETFs (Algo Trading)"
+title: "Dividend Payments by Vanguard ETFs"
 description: "Discover the synergy of dividend-paying Vanguard ETFs and algorithmic trading to optimize investment returns. Learn how these strategies can elevate your portfolio."
 ---
 

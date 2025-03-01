@@ -1,5 +1,5 @@
 ---
-title: "Importance of Expense Ratios in Mutual Funds (Algo Trading)"
+title: "Importance of Expense Ratios in Mutual Funds"
 description: "Optimize your mutual fund investments by understanding expense ratios and leveraging algorithmic trading to enhance portfolio performance and maximize returns."
 ---
 

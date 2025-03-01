@@ -1,5 +1,5 @@
 ---
-title: "Intercontinental Exchange Group (Algo Trading)"
+title: "Intercontinental Exchange Group"
 description: "ICE, a leader in global finance, revolutionizes trading with algorithmic strategies, owning the NYSE and enhancing financial markets' efficiency and integrity."
 ---
 

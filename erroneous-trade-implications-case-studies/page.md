@@ -1,5 +1,5 @@
 ---
-title: "Erroneous Trade: Implications and Case Studies (Algo Trading)"
+title: "Erroneous Trade: Implications and Case Studies"
 description: "Explore the implications of erroneous trades in algorithmic trading Discover case studies and strategies to mitigate risks and maintain market integrity"
 ---
 

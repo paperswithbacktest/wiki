@@ -1,5 +1,5 @@
 ---
-title: "Competitors of Morningstar Inc. (Algo Trading)"
+title: "Competitors of Morningstar Inc."
 description: "Explore the competitive landscape of Morningstar Inc in algo trading, delving into rivals like Bloomberg and MarketWatch and the role of data."
 ---
 

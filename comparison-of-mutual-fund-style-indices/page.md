@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Mutual Fund Style Indices (Algo Trading)"
+title: "Comparison of Mutual Fund Style Indices"
 description: "Explore the synergy between mutual fund and index fund strategies with algorithmic trading to maximize returns and manage risk effectively in modern investing."
 ---
 

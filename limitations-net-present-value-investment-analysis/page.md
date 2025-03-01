@@ -1,5 +1,5 @@
 ---
-title: "Limitations of Net Present Value in Investment Analysis (Algo Trading)"
+title: "Limitations of Net Present Value in Investment Analysis"
 description: "Discover the limitations of Net Present Value in investment analysis especially within algorithmic trading Learn about alternative strategies for enhanced decisions"
 ---
 

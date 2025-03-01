@@ -1,5 +1,5 @@
 ---
-title: "liquidity providers (Algo Trading)"
+title: "liquidity providers"
 description: "Explore the crucial role of liquidity providers in algorithmic trading ensuring market stability and efficiency by managing buy and sell sides without volatility."
 ---
 

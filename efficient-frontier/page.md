@@ -1,5 +1,5 @@
 ---
-title: "Efficient frontier (Algo Trading)"
+title: "Efficient frontier"
 description: Explore the importance of the Efficient Frontier in algorithmic trading, which helps traders balance risk and return for optimal portfolio management. By applying Modern Portfolio Theory, traders can make informed decisions to enhance performance and adapt to market changes with efficient asset allocation strategies.
 ---
 

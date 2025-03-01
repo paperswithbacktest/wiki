@@ -1,5 +1,5 @@
 ---
-title: "History of Mutual Funds (Algo Trading)"
+title: "History of Mutual Funds"
 description: "Explore the evolution of mutual funds and algorithmic trading Discover how these investment tools have shaped financial strategies and broadened market access"
 ---
 

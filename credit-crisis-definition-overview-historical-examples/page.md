@@ -1,5 +1,5 @@
 ---
-title: "Credit Crisis: Definition, Overview, and Historical Examples (Algo Trading)"
+title: "Credit Crisis: Definition, Overview, and Historical Examples"
 description: "Explore credit crises, their historical impact on global markets, and the role of algorithmic trading in modern finance to understand financial stability."
 ---
 

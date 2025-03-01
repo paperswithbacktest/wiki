@@ -1,5 +1,5 @@
 ---
-title: "Forward Swap: Mechanism and Benefits (Algo Trading)"
+title: "Forward Swap: Mechanism and Benefits"
 description: "Explore the benefits of forward swaps in algorithmic trading, detailing their role in risk management, cash flow optimization, and strategy enhancement."
 ---
 

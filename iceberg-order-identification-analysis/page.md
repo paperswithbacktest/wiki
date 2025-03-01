@@ -1,5 +1,5 @@
 ---
-title: "Iceberg Order Identification and Analysis (Algo Trading)"
+title: "Iceberg Order Identification and Analysis"
 description: "Optimize your algorithmic trading strategy by understanding and identifying iceberg orders. Learn how to discreetly execute large trades while minimizing market impact."
 ---
 

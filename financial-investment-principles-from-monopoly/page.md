@@ -1,5 +1,5 @@
 ---
-title: "Financial and Investment Principles Derived From Monopoly (Algo Trading)"
+title: "Financial and Investment Principles Derived From Monopoly"
 description: "Discover how the classic board game Monopoly offers valuable insights into financial and investment principles, from cash flow management to strategic investment."
 ---
 

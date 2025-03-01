@@ -1,5 +1,5 @@
 ---
-title: "History of International Trade Agreements (Algo Trading)"
+title: "History of International Trade Agreements"
 description: "Explore the evolution of international trade agreements and the impact of algorithmic trading. Discover how historical accords and modern technology shape global commerce."
 ---
 

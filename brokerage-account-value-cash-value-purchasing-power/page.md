@@ -1,5 +1,5 @@
 ---
-title: "Brokerage Account Value, Cash Value, and Purchasing Power (Algo Trading)"
+title: "Brokerage Account Value, Cash Value, and Purchasing Power"
 description: "Explore the essential concepts of cash value, purchasing power, and brokerage account value in algorithmic trading to navigate and optimize your trading strategies effectively."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Existence of Perfect Competition in Reality (Algo Trading)"
+title: "Existence of Perfect Competition in Reality"
 description: "Explore the intersection of perfect competition and algorithmic trading in modern markets to understand their role in enhancing efficiency and tackling challenges."
 ---
 

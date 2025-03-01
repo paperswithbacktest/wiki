@@ -1,5 +1,5 @@
 ---
-title: "Cyclical and Non-Cyclical Stocks: Differences (Algo Trading)"
+title: "Cyclical and Non-Cyclical Stocks: Differences"
 description: "Explore the differences between cyclical and non-cyclical stocks to enhance your investment strategy. Learn how algorithmic trading optimizes portfolio performance."
 ---
 

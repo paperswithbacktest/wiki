@@ -1,5 +1,5 @@
 ---
-title: "Covered Combination Strategy (Algo Trading)"
+title: "Covered Combination Strategy"
 description: "Explore the synergy of covered combination strategy and algorithmic trading to boost portfolio returns manage risk and adapt swiftly to market changes."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Closed-End Management Companies: Overview and Operation (Algo Trading)"
+title: "Closed-End Management Companies: Overview and Operation"
 description: "Discover the unique benefits and operational mechanisms of closed-end management companies and explore how algorithmic trading impacts fund strategies today."
 ---
 

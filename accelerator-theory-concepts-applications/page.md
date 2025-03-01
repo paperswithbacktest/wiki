@@ -1,5 +1,5 @@
 ---
-title: "Accelerator Theory: Concepts and Applications (Algo Trading)"
+title: "Accelerator Theory: Concepts and Applications"
 description: "Explore the accelerator theory's role in economic frameworks and its impact on investment dynamics, with a focus on algorithmic trading applications. This article investigates into how changes in national income influence capital investment decisions and outlines the theory's integration into trading algorithms for optimized asset management. Gain insights into the interplay between economic theories and modern technology, highlighting strategies responsive to market conditions."
 ---
 

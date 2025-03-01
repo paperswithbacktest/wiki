@@ -1,5 +1,5 @@
 ---
-title: "Impact of Inverse ETFs on Falling Investment Portfolios (Algo Trading)"
+title: "Impact of Inverse ETFs on Falling Investment Portfolios"
 description: "Explore how inverse ETFs and algorithmic trading enhance risk management and returns in volatile markets. Uncover strategies for optimizing investment portfolios."
 ---
 

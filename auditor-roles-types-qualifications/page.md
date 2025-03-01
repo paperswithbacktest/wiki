@@ -1,5 +1,5 @@
 ---
-title: "Auditor Roles, Types, and Qualifications (Algo Trading)"
+title: "Auditor Roles, Types, and Qualifications"
 description: "Auditors ensure finance accuracy and integrity by verifying financial statements. Learn about auditor roles, types, qualifications, and algorithmic trading."
 ---
 

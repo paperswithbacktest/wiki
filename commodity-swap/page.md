@@ -1,5 +1,5 @@
 ---
-title: "Commodity Swap (Algo Trading)"
+title: "Commodity Swap"
 description: "Discover how algorithmic trading is revolutionizing commodity swap markets by enhancing efficiency and managing risk through automated and precise trade execution."
 ---
 

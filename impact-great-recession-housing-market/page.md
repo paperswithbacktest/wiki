@@ -1,5 +1,5 @@
 ---
-title: "Impact of the Great Recession on the Housing Market (Algo Trading)"
+title: "Impact of the Great Recession on the Housing Market"
 description: "Explore how the Great Recession reshaped the housing market and the rise of algorithmic trading unraveling economic impacts and recovery dynamics."
 ---
 

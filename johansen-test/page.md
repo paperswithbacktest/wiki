@@ -1,5 +1,5 @@
 ---
-title: "Johansen test (Algo Trading)"
+title: "Johansen test"
 description: Discover the transformative role of the Johansen test in algorithmic trading. This powerful statistical tool identifies cointegration among multiple financial time series, enabling traders to uncover long-term stable relationships and optimize trading strategies. The Johansen test enhances pairs trading by pinpointing assets that move together over time, facilitating profitable mean reversion strategies. Leverage its robust methodology to elevate trading strategies and risk management in complex financial systems.
 ---
 

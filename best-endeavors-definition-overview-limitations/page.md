@@ -1,5 +1,5 @@
 ---
-title: "Best Endeavors: Definition, Overview, and Limitations (Algo Trading)"
+title: "Best Endeavors: Definition, Overview, and Limitations"
 description: "Explore the critical legal term 'best endeavors' in algorithmic trading contracts Understand its implications and the necessity of making all feasible efforts to meet obligations"
 ---
 

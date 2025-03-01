@@ -1,5 +1,5 @@
 ---
-title: "Impact of Wall Street on Cryptocurrency (Algo Trading)"
+title: "Impact of Wall Street on Cryptocurrency"
 description: "Explore how Wall Street's embrace of algorithmic trading transforms cryptocurrency markets highlighting innovation, evolving strategies, and regulatory challenges."
 ---
 

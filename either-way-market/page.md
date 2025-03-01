@@ -1,5 +1,5 @@
 ---
-title: "Either-Way Market (Algo Trading)"
+title: "Either-Way Market"
 description: "Navigate either-way markets with confidence using algorithmic trading Explore strategies to optimize trades and adapt to dynamic financial environments efficiently"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Foregone Earnings: Overview and Examples (Algo Trading)"
+title: "Foregone Earnings: Overview and Examples"
 description: "Explore the critical economic concepts of foregone earnings and opportunity cost in algorithmic trading to improve financial decision-making and optimize trade strategies."
 ---
 

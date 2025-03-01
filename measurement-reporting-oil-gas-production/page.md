@@ -1,5 +1,5 @@
 ---
-title: "Measurement and Reporting of Oil and Gas Production (Algo Trading)"
+title: "Measurement and Reporting of Oil and Gas Production"
 description: "Explore the crucial role of oil and gas production measurement and reporting in the energy sector alongside the impact of algorithmic trading on market efficiency."
 ---
 

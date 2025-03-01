@@ -1,5 +1,5 @@
 ---
-title: "Franchised Monopoly: Definition, Criticism, and Examples (Algo Trading)"
+title: "Franchised Monopoly: Definition, Criticism, and Examples"
 description: "Explore the concept of franchised monopolies including their definition criticism and real-life examples from industries like tech and utilities to understand their impact."
 ---
 

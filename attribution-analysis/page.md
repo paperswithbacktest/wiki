@@ -1,5 +1,5 @@
 ---
-title: "Attribution analysis (Algo Trading)"
+title: "Attribution analysis"
 description: "Attribution analysis enhances algorithmic trading by revealing drivers of portfolio performance enabling strategy optimization and informed decision-making."
 ---
 

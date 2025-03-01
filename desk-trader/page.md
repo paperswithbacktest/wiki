@@ -1,5 +1,5 @@
 ---
-title: "Desk Trader (Algo Trading)"
+title: "Desk Trader"
 description: "Explore the evolution of desk and algorithmic trading in modern financial markets, emphasizing strategies for optimizing investment outcomes and market efficiency."
 ---
 

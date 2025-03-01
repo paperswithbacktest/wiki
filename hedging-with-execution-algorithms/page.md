@@ -1,5 +1,5 @@
 ---
-title: "hedging with execution algorithms (Algo Trading)"
+title: "hedging with execution algorithms"
 description: "Discover how execution algorithms enhance trading strategies with precision and efficiency Harness algo trading to optimize hedging and manage market risks effectively"
 ---
 

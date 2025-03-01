@@ -1,5 +1,5 @@
 ---
-title: "Impact of Infrastructure Spending on Economic Growth (Algo Trading)"
+title: "Impact of Infrastructure Spending on Economic Growth"
 description: "Explore how infrastructure spending acts as a catalyst for economic growth and influences markets through fiscal stimulus and algorithmic trading dynamics."
 ---
 

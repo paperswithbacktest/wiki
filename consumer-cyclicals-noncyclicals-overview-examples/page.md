@@ -1,5 +1,5 @@
 ---
-title: "Consumer Cyclicals and Noncyclicals: Overview and Examples (Algo Trading)"
+title: "Consumer Cyclicals and Noncyclicals: Overview and Examples"
 description: "Explore how consumer cyclicals and noncyclicals respond to economic cycles Discover algorithmic trading strategies to optimize your investment portfolio in these sectors"
 ---
 

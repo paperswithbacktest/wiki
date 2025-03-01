@@ -1,5 +1,5 @@
 ---
-title: "Absorption Rate in Real Estate (Algo Trading)"
+title: "Absorption Rate in Real Estate"
 description: "Discover how absorption rate, a key real estate metric, integrates with algorithmic trading to enhance market strategies and investment decisions."
 ---
 

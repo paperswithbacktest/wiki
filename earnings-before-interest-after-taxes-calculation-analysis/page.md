@@ -1,5 +1,5 @@
 ---
-title: "Earnings Before Interest After Taxes: Calculation and Analysis (Algo Trading)"
+title: "Earnings Before Interest After Taxes: Calculation and Analysis"
 description: "Explore how EBIAT impacts algorithmic trading by considering taxes in financial assessments for better strategy profitability analysis and decision making."
 ---
 

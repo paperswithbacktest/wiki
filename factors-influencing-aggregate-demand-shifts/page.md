@@ -1,5 +1,5 @@
 ---
-title: "Factors Influencing Aggregate Demand Shifts (Algo Trading)"
+title: "Factors Influencing Aggregate Demand Shifts"
 description: "Discover the key factors influencing shifts in aggregate demand and their impact on the economy including employment inflation and GDP growth. This comprehensive guide explores how algorithmic trading leverages these dynamics to optimize financial strategies providing insights into modern economic analysis for businesses policymakers and market observers seeking to navigate the complexities of today's economic landscape."
 ---
 

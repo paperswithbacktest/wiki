@@ -1,5 +1,5 @@
 ---
-title: "General Ledger and Double-Entry Accounting System (Algo Trading)"
+title: "General Ledger and Double-Entry Accounting System"
 description: "Explore the vital role of double-entry accounting systems and general ledgers in accurate financial management and modern algorithmic trading strategies."
 ---
 

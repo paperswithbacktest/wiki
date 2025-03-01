@@ -1,5 +1,5 @@
 ---
-title: "Estoppel: Overview and Historical Context (Algo Trading)"
+title: "Estoppel: Overview and Historical Context"
 description: "Explore the interplay between estoppel and algorithmic trading in the realms of law and finance. This article investigates into the historical evolution of estoppel, a legal principle ensuring fairness by barring contradictory actions, and examines its impact within global financial markets transformed by algorithmic trading. Understand how these intersections influence legal and financial frameworks, highlighting the necessity for comprehensive knowledge in navigating modern market complexities and ensuring integrity in financial operations."
 ---
 

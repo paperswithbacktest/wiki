@@ -1,5 +1,5 @@
 ---
-title: "Cost of Debt and Formula Overview (Algo Trading)"
+title: "Cost of Debt and Formula Overview"
 description: "Discover how understanding the cost of debt and its formula enhances financial strategies in the evolving world of algorithmic trading, optimizing investments and risk management."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Vanguard Dividend Funds: VDIGX and VEIPX (Algo Trading)"
+title: "Comparison of Vanguard Dividend Funds: VDIGX and VEIPX"
 description: "Explore the differences between Vanguard VEIPX and VDIGX dividend funds and learn how algorithmic trading optimizes their strategies for investors."
 ---
 

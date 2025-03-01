@@ -1,5 +1,5 @@
 ---
-title: "Comparison of S&P 500 and Fortune 500 (Algo Trading)"
+title: "Comparison of S&P 500 and Fortune 500"
 description: "Explore the distinctions between Fortune 500 and S&P 500 indices and their connection to algorithmic trading in shaping modern financial markets."
 ---
 

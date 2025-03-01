@@ -1,5 +1,5 @@
 ---
-title: "GDP Gap: Overview and Calculation (Algo Trading)"
+title: "GDP Gap: Overview and Calculation"
 description: "Explore the intricacies of GDP gaps and their influence on algorithmic trading Learn how understanding economic output and potential GDP helps optimize investment strategies"
 ---
 

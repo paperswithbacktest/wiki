@@ -1,5 +1,5 @@
 ---
-title: "GTS (Algo Trading)"
+title: "GTS"
 description: "Discover how GTS revolutionizes algo trading with automation and precision improving efficiency and accuracy while minimizing human error and enhancing market strategies."
 ---
 

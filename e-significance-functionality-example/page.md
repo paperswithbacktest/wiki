@@ -1,5 +1,5 @@
 ---
-title: "E: Significance, Functionality, and Example (Algo Trading)"
+title: "E: Significance, Functionality, and Example"
 description: "Discover how Euler's number enhances algorithmic trading models by improving prediction accuracy and trend analysis. Learn its pivotal role in trading strategies."
 ---
 

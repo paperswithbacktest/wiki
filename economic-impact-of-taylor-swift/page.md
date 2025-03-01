@@ -1,5 +1,5 @@
 ---
-title: "Economic Impact of Taylor Swift (Algo Trading)"
+title: "Economic Impact of Taylor Swift"
 description: "Explore the economic impact of Taylor Swift through Swiftonomics and algorithmic trading Discover the powerful influence of celebrity on financial markets"
 ---
 

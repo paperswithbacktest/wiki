@@ -1,5 +1,5 @@
 ---
-title: "American Association of Individual Investors (Algo Trading)"
+title: "American Association of Individual Investors"
 description: "Discover how the American Association of Individual Investors aids personal finance growth and explore algorithmic trading to automate and optimize investments."
 ---
 

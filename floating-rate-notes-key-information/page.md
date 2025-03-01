@@ -1,5 +1,5 @@
 ---
-title: "Floating-Rate Notes: Key Information (Algo Trading)"
+title: "Floating-Rate Notes: Key Information"
 description: "Explore the synergy of floating-rate notes and algorithmic trading to understand their role in optimizing investment returns and managing interest rate risks."
 ---
 

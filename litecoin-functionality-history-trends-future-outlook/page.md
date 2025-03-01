@@ -1,5 +1,5 @@
 ---
-title: "Litecoin: Functionality, History, Trends, and Future Outlook (Algo Trading)"
+title: "Litecoin: Functionality, History, Trends, and Future Outlook"
 description: "Explore Litecoin's history, trends, and future outlook in algorithmic trading Discover its role in crypto market evolution and trading strategies benefits"
 ---
 

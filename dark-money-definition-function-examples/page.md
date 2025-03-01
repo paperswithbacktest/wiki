@@ -1,5 +1,5 @@
 ---
-title: "Dark Money: Definition, Function, and Examples (Algo Trading)"
+title: "Dark Money: Definition, Function, and Examples"
 description: "Explore how dark money and algorithmic trading intersect to influence political campaigns and the democratic process with anonymous donations and advanced tech."
 ---
 

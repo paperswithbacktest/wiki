@@ -1,5 +1,5 @@
 ---
-title: "Best Bid: Explanation and Process (Algo Trading)"
+title: "Best Bid: Explanation and Process"
 description: "Discover the intricacies of best bid auction processes in algorithmic trading uncovering how advanced algorithms enhance bidding strategies and optimize outcomes."
 ---
 

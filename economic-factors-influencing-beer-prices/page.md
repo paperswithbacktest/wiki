@@ -1,5 +1,5 @@
 ---
-title: "Economic Factors Influencing Beer Prices (Algo Trading)"
+title: "Economic Factors Influencing Beer Prices"
 description: "Discover the economic factors that influence beer pricing including supply and demand dynamics regulatory impact and the role of algorithmic trading."
 ---
 

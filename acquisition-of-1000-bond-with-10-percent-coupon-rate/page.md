@@ -1,5 +1,5 @@
 ---
-title: "Acquisition of a $1,000 Bond With a 10% Coupon Rate (Algo Trading)"
+title: "Acquisition of a $1,000 Bond With a 10% Coupon Rate"
 description: "Understand the dynamics of acquiring a $1000 bond with a 10% coupon rate in the context of algorithmic trading to optimize investment strategies effectively."
 ---
 

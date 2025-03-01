@@ -1,5 +1,5 @@
 ---
-title: "Government's Role in Capitalism (Algo Trading)"
+title: "Government's Role in Capitalism"
 description: "Explore the government's role in capitalism and algorithmic trading Discover how economic policies shape markets and influence trading practices in today’s economy"
 ---
 

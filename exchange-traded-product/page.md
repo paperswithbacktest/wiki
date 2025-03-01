@@ -1,5 +1,5 @@
 ---
-title: "Exchange-Traded Product (Algo Trading)"
+title: "Exchange-Traded Product"
 description: "Explore the dynamic world of Exchange-Traded Products and algorithmic trading and discover how they collaborate to enhance modern investment strategies. Uncover the advantages of ETPs like ETFs and ETNs while managing market risks effectively. Learn how algorithmic trading optimizes trading decisions for improved portfolio management and diversified asset class engagement in the fast-evolving financial landscape."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Defense Production Act: Overview and COVID-19 Applications (Algo Trading)"
+title: "Defense Production Act: Overview and COVID-19 Applications"
 description: "Explore the pivotal role of the Defense Production Act during COVID-19 and its impact on algorithmic trading and the defense sector, highlighting crisis response."
 ---
 

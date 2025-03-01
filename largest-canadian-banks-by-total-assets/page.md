@@ -1,5 +1,5 @@
 ---
-title: "Largest Canadian Banks by Total Assets (Algo Trading)"
+title: "Largest Canadian Banks by Total Assets"
 description: "Discover the top Canadian banks by assets known as the Big Five offering robust financial services domestically and internationally while embracing digital innovation."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "May Day: Significance and Consequences (Algo Trading)"
+title: "May Day: Significance and Consequences"
 description: "Explore May Day's dual impact on labor rights and financial innovation through algorithmic trading, highlighting their influence on today’s global economy."
 ---
 

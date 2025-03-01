@@ -1,5 +1,5 @@
 ---
-title: "Information Asymmetry (Algo Trading)"
+title: "Information Asymmetry"
 description: "Discover how algorithmic trading impacts financial markets by creating information asymmetry which can lead to market inefficiencies like adverse selection and moral hazard."
 ---
 

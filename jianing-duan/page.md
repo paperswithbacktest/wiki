@@ -1,5 +1,5 @@
 ---
-title: "Jianing Duan (Algo Trading)"
+title: "Jianing Duan"
 description: "Explore the intriguing career of Jianing Duan in algo trading where his expertise in quantitative research and machine learning drives financial innovation."
 ---
 

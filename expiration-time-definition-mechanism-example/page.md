@@ -1,5 +1,5 @@
 ---
-title: "Expiration Time: Definition, Mechanism, and Example (Algo Trading)"
+title: "Expiration Time: Definition, Mechanism, and Example"
 description: "Discover how expiration time impacts algorithmic trading. Understand key mechanisms and strategies to optimize trading outcomes and navigate market dynamics."
 ---
 

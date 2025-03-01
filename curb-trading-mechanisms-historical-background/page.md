@@ -1,5 +1,5 @@
 ---
-title: "Curb Trading: Mechanisms and Historical Background (Algo Trading)"
+title: "Curb Trading: Mechanisms and Historical Background"
 description: "Explore the evolution of stock trading from informal curbside transactions to sophisticated algorithmic systems and their impact on today's markets."
 ---
 

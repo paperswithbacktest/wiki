@@ -1,5 +1,5 @@
 ---
-title: "Deferred Share Mechanics (Algo Trading)"
+title: "Deferred Share Mechanics"
 description: "Understand deferred share mechanics and algorithmic trading to enhance investment strategies. Explore equity investments, market dynamics, and corporate share structuring for informed decisions."
 ---
 

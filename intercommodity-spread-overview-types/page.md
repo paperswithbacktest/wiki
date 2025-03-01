@@ -1,5 +1,5 @@
 ---
-title: "Intercommodity Spread: Overview and Types (Algo Trading)"
+title: "Intercommodity Spread: Overview and Types"
 description: "Discover the intricacies of intercommodity spread trading and its blend with algorithmic trading to leverage price differentials in competitive commodities markets."
 ---
 

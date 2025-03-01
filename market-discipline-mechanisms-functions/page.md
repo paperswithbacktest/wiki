@@ -1,5 +1,5 @@
 ---
-title: "Market Discipline Mechanisms and Functions (Algo Trading)"
+title: "Market Discipline Mechanisms and Functions"
 description: "Explore market discipline mechanisms and functions in algorithmic trading Understand the role of regulation and incentives in ensuring financial stability today"
 ---
 

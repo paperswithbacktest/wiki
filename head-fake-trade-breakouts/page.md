@@ -1,5 +1,5 @@
 ---
-title: "Head-Fake Trade and Breakouts (Algo Trading)"
+title: "Head-Fake Trade and Breakouts"
 description: "Explore the mechanics of head-fake trades and breakouts in algo trading Understand how algorithmic actions influence market behavior to improve strategic decisions"
 ---
 

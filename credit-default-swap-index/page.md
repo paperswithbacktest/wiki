@@ -1,5 +1,5 @@
 ---
-title: "Credit Default Swap Index (Algo Trading)"
+title: "Credit Default Swap Index"
 description: "Explore the intricacies of the Credit Default Swap Index (CDX) and the transformative impact of algorithmic trading in this comprehensive guide. Discover how CDX aggregates CDS contracts to provide diversified exposure to credit risks and enhances hedging and speculative strategies. Learn about the benefits and risks of these financial derivatives and how algorithms optimize trading precision and efficiency in volatile markets. Ideal for market participants aiming to capitalize on opportunities in the credit derivatives space."
 ---
 

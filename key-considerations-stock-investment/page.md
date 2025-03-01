@@ -1,5 +1,5 @@
 ---
-title: "Key Considerations for Stock Investment (Algo Trading)"
+title: "Key Considerations for Stock Investment"
 description: "Explore key investment tips and the rise of algorithmic trading to enhance your financial strategy and navigate the evolving stock market landscape effectively."
 ---
 

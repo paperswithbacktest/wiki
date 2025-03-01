@@ -1,5 +1,5 @@
 ---
-title: "Financial Ratios of Starbucks (Algo Trading)"
+title: "Financial Ratios of Starbucks"
 description: "Explore the financial health of Starbucks through key ratios like ROE and operating margin alongside algorithmic trading insights to optimize investments."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Keynesian Economics and Monetarism (Algo Trading)"
+title: "Comparison of Keynesian Economics and Monetarism"
 description: "Explore the contrasts between Keynesian Economics and Monetarism and their impact on modern economic policies and algo trading's role in financial markets."
 ---
 

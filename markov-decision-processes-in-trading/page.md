@@ -1,5 +1,5 @@
 ---
-title: "Markov Decision Processes in Trading (Algo Trading)"
+title: "Markov Decision Processes in Trading"
 description: "Explore the role of Markov Decision Processes in algorithmic trading to enhance decision-making efficiency and optimize strategies based on current market dynamics."
 ---
 

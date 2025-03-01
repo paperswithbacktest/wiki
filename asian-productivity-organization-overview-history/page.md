@@ -1,5 +1,5 @@
 ---
-title: "Asian Productivity Organization: Overview and History (Algo Trading)"
+title: "Asian Productivity Organization: Overview and History"
 description: "Explore the role of the Asian Productivity Organization in advancing productivity and economic development in Asia through innovation and algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Hedging Strategies Using Index-Based ETFs (Algo Trading)"
+title: "Hedging Strategies Using Index-Based ETFs"
 description: "Explore hedging strategies using index-based ETFs to manage investment risks effectively and enhance portfolio performance through algorithmic trading insights."
 ---
 

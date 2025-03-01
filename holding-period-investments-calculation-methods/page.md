@@ -1,5 +1,5 @@
 ---
-title: "Holding Period in Investments and Calculation Methods (Algo Trading)"
+title: "Holding Period in Investments and Calculation Methods"
 description: "Discover the essentials of holding periods in investments and their impact on trading strategies, especially in algorithmic trading. Learn how the duration of holding an asset influences profitability, risk, transaction costs, and tax implications. This guide investigates into the significance of calculating optimal holding periods to align with financial goals and optimize returns in varying market conditions."
 ---
 

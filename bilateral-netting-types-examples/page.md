@@ -1,5 +1,5 @@
 ---
-title: "Bilateral Netting: Types and Examples (Algo Trading)"
+title: "Bilateral Netting: Types and Examples"
 description: "Explore the significance of bilateral netting in finance to streamline settlements reduce risks and improve efficiency in algorithmic trading and markets."
 ---
 

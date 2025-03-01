@@ -1,5 +1,5 @@
 ---
-title: "American Municipal Bond Assurance Corporation (Algo Trading)"
+title: "American Municipal Bond Assurance Corporation"
 description: "Discover how AMBAC plays a crucial role in municipal finance by providing bond insurance while navigating the evolving landscape of algorithmic trading."
 ---
 

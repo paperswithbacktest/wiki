@@ -1,5 +1,5 @@
 ---
-title: "Alexander Hamilton (Algo Trading)"
+title: "Alexander Hamilton"
 description: "Explore Alexander Hamilton's enduring influence on America's financial systems and the modern rise of algorithmic trading bridging his economic vision with today's markets."
 ---
 

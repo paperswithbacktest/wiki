@@ -1,5 +1,5 @@
 ---
-title: "AlphaMetrix Overview (Algo Trading)"
+title: "AlphaMetrix Overview"
 description: "Discover AlphaMetrix's rise and fall in algorithmic trading providing insights into technological innovation and financial management in the hedge fund industry."
 ---
 

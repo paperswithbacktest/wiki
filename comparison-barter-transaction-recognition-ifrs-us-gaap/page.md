@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Barter Transaction Recognition Under IFRS and US GAAP (Algo Trading)"
+title: "Comparison of Barter Transaction Recognition Under IFRS and US GAAP"
 description: "Explore how barter transactions are accounted for under US GAAP and IFRS focusing on valuation challenges and the impact on financial statements."
 ---
 

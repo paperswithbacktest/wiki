@@ -1,5 +1,5 @@
 ---
-title: "How Does War Affect the Stock Market? (Algo Trading)"
+title: "How Does War Affect the Stock Market?"
 description: Discover how geopolitical events like war impact stock markets, with a focus on algorithmic and high-frequency trading. Learn about the influence of modern trading technologies on market dynamics, investor behavior, and stock market performance during conflicts. Explore historical patterns, including market resilience and recovery post-war, offering insights into potential investment opportunities amidst market volatility and disruption.
 ---
 

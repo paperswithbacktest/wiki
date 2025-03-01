@@ -1,5 +1,5 @@
 ---
-title: "Absolute Breadth Index: Overview and Application (Algo Trading)"
+title: "Absolute Breadth Index: Overview and Application"
 description: "Discover how the Absolute Breadth Index is used to gauge market volatility without predicting direction vital for algorithmic trading and market strategy."
 ---
 

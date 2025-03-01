@@ -1,5 +1,5 @@
 ---
-title: "Hot Waitress Economic Index (Algo Trading)"
+title: "Hot Waitress Economic Index"
 description: "Explore the impact of economic indices and algorithmic trading on employment trends in the service industry highlighting the role of technology in shaping the future."
 ---
 

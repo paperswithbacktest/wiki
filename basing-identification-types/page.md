@@ -1,5 +1,5 @@
 ---
-title: "Basing: Identification and Types (Algo Trading)"
+title: "Basing: Identification and Types"
 description: "Discover the essentials of algorithmic trading including its types and identification. Learn how algo trading transforms financial markets with fast, precise strategies."
 ---
 

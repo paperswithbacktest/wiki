@@ -1,5 +1,5 @@
 ---
-title: "Electronic Identity Verification (Algo Trading)"
+title: "Electronic Identity Verification"
 description: "Explore the critical role of Electronic Identity Verification in enhancing security and compliance in algorithmic trading ensuring fraud protection in digital finance."
 ---
 

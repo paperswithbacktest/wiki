@@ -1,5 +1,5 @@
 ---
-title: "Japanese Yen: Symbol, History, and Trading (Algo Trading)"
+title: "Japanese Yen: Symbol, History, and Trading"
 description: "Discover the pivotal role of the Japanese Yen in global finance explore its history trading dynamics and algorithmic strategies for optimized performance"
 ---
 

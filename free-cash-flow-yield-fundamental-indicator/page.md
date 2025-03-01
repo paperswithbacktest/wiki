@@ -1,5 +1,5 @@
 ---
-title: "Free Cash Flow Yield as a Fundamental Indicator (Algo Trading)"
+title: "Free Cash Flow Yield as a Fundamental Indicator"
 description: "Free cash flow yield serves as a vital indicator in investment analysis revealing a company's cash generation efficiency. Explore its role in algorithmic trading strategies."
 ---
 

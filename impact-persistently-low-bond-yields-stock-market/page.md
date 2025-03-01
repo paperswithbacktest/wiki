@@ -1,5 +1,5 @@
 ---
-title: "Impact of Persistently Low Bond Yields on Stock Market (Algo Trading)"
+title: "Impact of Persistently Low Bond Yields on Stock Market"
 description: "Explore the impact of low bond yields on stock markets and algorithmic trading Learn how these elements shape market dynamics and investment strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "CUSIP Numbers for Stocks and Bonds (Algo Trading)"
+title: "CUSIP Numbers for Stocks and Bonds"
 description: "Explore how CUSIP numbers and algorithmic trading enhance stock and bond transactions ensuring precision and efficiency in modern investment strategies."
 ---
 

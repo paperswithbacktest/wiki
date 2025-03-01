@@ -1,5 +1,5 @@
 ---
-title: "Dividend Entitlement for Short Sellers in Dividend-Paying Stocks (Algo Trading)"
+title: "Dividend Entitlement for Short Sellers in Dividend-Paying Stocks"
 description: "Explore the nuances of dividend entitlements for short sellers in dividend stocks. Learn strategies like dividend investing short selling and algo trading."
 ---
 

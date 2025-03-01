@@ -1,5 +1,5 @@
 ---
-title: "Down-and-In Option (Algo Trading)"
+title: "Down-and-In Option"
 description: "Explore down-and-in options, a key barrier option for optimized trading strategies in algorithmic trading Learn how they provide cost-effective risk management"
 ---
 

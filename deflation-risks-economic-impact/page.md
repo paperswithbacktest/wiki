@@ -1,5 +1,5 @@
 ---
-title: "Deflation Risks and Economic Impact (Algo Trading)"
+title: "Deflation Risks and Economic Impact"
 description: "Explore the impact of deflation risks and algorithmic trading on global markets. Discover how these forces interact to influence economic growth and stability."
 ---
 

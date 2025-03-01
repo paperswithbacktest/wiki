@@ -1,5 +1,5 @@
 ---
-title: "Major Shareholders of PepsiCo (Algo Trading)"
+title: "Major Shareholders of PepsiCo"
 description: "Explore the major shareholders of PepsiCo and the role of algorithmic trading in optimizing stock investments uncovering their impact on market performance and investor confidence."
 ---
 

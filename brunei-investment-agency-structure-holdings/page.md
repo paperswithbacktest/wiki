@@ -1,5 +1,5 @@
 ---
-title: "Brunei Investment Agency: Structure and Holdings (Algo Trading)"
+title: "Brunei Investment Agency: Structure and Holdings"
 description: "Explore the Brunei Investment Agency's structure and investment strategies, including its innovative use of algorithmic trading to enhance performance and economic resilience."
 ---
 

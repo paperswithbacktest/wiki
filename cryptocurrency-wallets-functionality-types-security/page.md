@@ -1,5 +1,5 @@
 ---
-title: "Cryptocurrency Wallets: Functionality, Types, and Security (Algo Trading)"
+title: "Cryptocurrency Wallets: Functionality, Types, and Security"
 description: "Explore cryptocurrency security and various wallet types to protect digital assets. Gain insights on algorithmic trading to enhance crypto investment strategies."
 ---
 

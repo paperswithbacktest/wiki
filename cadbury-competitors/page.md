@@ -1,5 +1,5 @@
 ---
-title: "Cadbury Competitors (Algo Trading)"
+title: "Cadbury Competitors"
 description: "Explore Cadbury's competitive landscape and how algorithmic trading affects the chocolate industry. Discover market strategies of major rivals like Mars, Hershey, and Nestlé."
 ---
 

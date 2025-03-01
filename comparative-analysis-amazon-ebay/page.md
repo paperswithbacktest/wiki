@@ -1,5 +1,5 @@
 ---
-title: "Comparative Analysis of Amazon and eBay (Algo Trading)"
+title: "Comparative Analysis of Amazon and eBay"
 description: "Explore the comparative analysis of Amazon and eBay in algorithmic trading insights into their financial performance and strategic priorities."
 ---
 

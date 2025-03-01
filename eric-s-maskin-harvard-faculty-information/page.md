@@ -1,5 +1,5 @@
 ---
-title: "Eric S. Maskin: Harvard Faculty Information (Algo Trading)"
+title: "Eric S. Maskin: Harvard Faculty Information"
 description: "Explore how economics and algorithmic trading intersect through Eric S. Maskin's work in mechanism design at Harvard, impacting financial strategies."
 ---
 

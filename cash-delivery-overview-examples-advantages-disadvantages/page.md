@@ -1,5 +1,5 @@
 ---
-title: "Cash Delivery: Overview, Examples, Advantages and Disadvantages (Algo Trading)"
+title: "Cash Delivery: Overview, Examples, Advantages and Disadvantages"
 description: "Explore the benefits and challenges of cash delivery and algorithmic trading in financial markets Learn how these strategies affect liquidity and investor decisions"
 ---
 

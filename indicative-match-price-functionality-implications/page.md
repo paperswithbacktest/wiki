@@ -1,5 +1,5 @@
 ---
-title: "Indicative Match Price: Functionality and Implications (Algo Trading)"
+title: "Indicative Match Price: Functionality and Implications"
 description: "Explore how the Indicative Match Price and algorithmic trading enhance market transparency and efficiency through optimal price discovery in securities auctions."
 ---
 

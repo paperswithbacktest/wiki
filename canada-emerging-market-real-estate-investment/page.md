@@ -1,5 +1,5 @@
 ---
-title: "Canada as an Emerging Market for Real Estate Investment (Algo Trading)"
+title: "Canada as an Emerging Market for Real Estate Investment"
 description: "Explore Canada's dynamic real estate market for lucrative investment opportunities. Discover key strategies, market trends, and benefits of algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Impact of Full Disclosure on Financial Markets (Algo Trading)"
+title: "Impact of Full Disclosure on Financial Markets"
 description: "Explore the impact of full disclosure in financial markets, focusing on how transparency affects algorithmic trading. This article examines regulatory measures needed to ensure fairness and prevent market manipulation in a rapidly evolving digital marketplace."
 ---
 

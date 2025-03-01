@@ -1,5 +1,5 @@
 ---
-title: "Facebook Credits (Algo Trading)"
+title: "Facebook Credits"
 description: "Explore the evolution of Facebook Credits a pioneering virtual currency facilitating social media transactions since 2009 and their transition to blockchain projects."
 ---
 

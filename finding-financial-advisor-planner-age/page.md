@@ -1,5 +1,5 @@
 ---
-title: "Finding a Financial Advisor or Planner by Age (Algo Trading)"
+title: "Finding a Financial Advisor or Planner by Age"
 description: "Discover the importance of age-specific financial advice and the role of algorithmic trading to enhance financial strategies for different life stages."
 ---
 

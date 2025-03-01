@@ -1,5 +1,5 @@
 ---
-title: "GDP Per Capita and Its Usage Across Countries (Algo Trading)"
+title: "GDP Per Capita and Its Usage Across Countries"
 description: "Discover the impact of GDP per capita on global trading and economic strategies Examine how this vital metric shapes investor decisions and economic policies"
 ---
 

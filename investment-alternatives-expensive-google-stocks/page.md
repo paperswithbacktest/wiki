@@ -1,5 +1,5 @@
 ---
-title: "Investment Alternatives to Expensive Google Stocks (Algo Trading)"
+title: "Investment Alternatives to Expensive Google Stocks"
 description: "Explore investment alternatives to pricey Google stocks including stock options and algorithmic trading for diversifying portfolios and optimizing strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Imperfect Competition in Economics (Algo Trading)"
+title: "Imperfect Competition in Economics"
 description: "Explore the dynamics of imperfect competition in economics and its interplay with algorithmic trading impacting market structures and shaping modern financial landscapes."
 ---
 

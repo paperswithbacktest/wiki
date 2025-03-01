@@ -1,5 +1,5 @@
 ---
-title: "MetaMask Wallet Overview (Algo Trading)"
+title: "MetaMask Wallet Overview"
 description: "Explore the integration of MetaMask in algorithmic trading and cryptocurrency management. Discover how this wallet enhances trading efficiency and blockchain interactions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Forex Options Trading: Types and Examples (Algo Trading)"
+title: "Forex Options Trading: Types and Examples"
 description: "Explore the exciting world of forex options trading with strategies and examples that leverage algorithmic trading for enhanced decision-making and profitability."
 ---
 

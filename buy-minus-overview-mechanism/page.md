@@ -1,5 +1,5 @@
 ---
-title: "Buy-Minus: Overview and Mechanism (Algo Trading)"
+title: "Buy-Minus: Overview and Mechanism"
 description: "Explore the innovative buy-minus strategy in algorithmic trading designed for investors seeking new techniques to enhance returns and manage risks. This article provides a comprehensive look at how buy-minus can strategically capitalize on market conditions by buying below-market prices. Learn how algorithmic trading paired with AI and machine learning powers this approach offering insights on successful implementation in volatile markets for smarter trading decisions."
 ---
 

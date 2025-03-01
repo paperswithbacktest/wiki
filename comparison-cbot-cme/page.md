@@ -1,5 +1,5 @@
 ---
-title: "Comparison of CBOT and CME (Algo Trading)"
+title: "Comparison of CBOT and CME"
 description: "Discover the impact of algorithmic trading on the CME and CBOT exchanges exploring pivotal changes since their merger in 2006 and technology-driven strategies."
 ---
 

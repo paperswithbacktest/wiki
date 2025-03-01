@@ -1,5 +1,5 @@
 ---
-title: "Falling Three Methods Candlestick Pattern Explained (Algo Trading)"
+title: "Falling Three Methods Candlestick Pattern Explained"
 description: Discover the essence and applications of the Falling Three Methods candlestick pattern in technical analysis and algorithmic trading. Learn how this historical bearish continuation pattern helps traders identify and capitalize on downtrends in modern trading environments through systematic detection and strategic implementation.
 ---
 

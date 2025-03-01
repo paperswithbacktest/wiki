@@ -1,5 +1,5 @@
 ---
-title: "Medium of Exchange Overview (Algo Trading)"
+title: "Medium of Exchange Overview"
 description: "Explore how economic concepts like the medium of exchange intersect with modern trading practices and algorithmic trading to facilitate global commerce."
 ---
 

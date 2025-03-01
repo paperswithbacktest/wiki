@@ -1,5 +1,5 @@
 ---
-title: "Chain-Weighted Consumer Price Index (Algo Trading)"
+title: "Chain-Weighted Consumer Price Index"
 description: "Explore the impact of the Chain-Weighted Consumer Price Index on economic analysis and algorithmic trading by understanding its dynamic inflation measurement approach."
 ---
 

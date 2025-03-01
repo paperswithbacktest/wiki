@@ -1,5 +1,5 @@
 ---
-title: "Activity-Based Management: Concepts and Examples (Algo Trading)"
+title: "Activity-Based Management: Concepts and Examples"
 description: "Optimize business performance with Activity-Based Management by identifying inefficiencies and reducing costs. Explore its synergy with algorithmic trading."
 ---
 

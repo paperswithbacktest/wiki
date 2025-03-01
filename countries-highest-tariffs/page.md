@@ -1,5 +1,5 @@
 ---
-title: "Countries With the Highest Tariffs (Algo Trading)"
+title: "Countries With the Highest Tariffs"
 description: "Explore the impact of tariffs and trade policies on global markets and algorithmic trading Discover how these economic measures shape commerce in a digital era"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Asset Depreciation Range and Functionality (Algo Trading)"
+title: "Asset Depreciation Range and Functionality"
 description: "Explore how asset depreciation impacts algorithmic trading strategies and financial models Learn key depreciation methods like ADR ACRS and MACRS for trade optimization"
 ---
 

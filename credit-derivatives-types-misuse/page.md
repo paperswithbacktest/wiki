@@ -1,5 +1,5 @@
 ---
-title: "Credit Derivatives: Types and Misuse (Algo Trading)"
+title: "Credit Derivatives: Types and Misuse"
 description: "Explore the various types of credit derivatives and their influences on financial markets. Learn about their benefits, risks, and the role of algo trading."
 ---
 

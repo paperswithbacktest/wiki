@@ -1,5 +1,5 @@
 ---
-title: "Major Economic Indicators of the United States (Algo Trading)"
+title: "Major Economic Indicators of the United States"
 description: "Discover how major U.S. economic indicators and algorithmic trading are reshaping financial strategies enhancing decision-making and market adaptability."
 ---
 

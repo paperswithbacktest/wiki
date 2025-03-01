@@ -1,5 +1,5 @@
 ---
-title: "Black–Litterman model (Algo Trading)"
+title: "Black–Litterman model"
 description: The Black–Litterman model revolutionizes algorithmic trading by providing an advanced framework for portfolio allocation, overcoming limitations of traditional methods. Developed at Goldman Sachs by Fischer Black and Robert Litterman, the model combines market equilibrium views with investor insights, enhancing decision-making in financial markets. It refines asset allocation by balancing historical market data with subjective opinions, yielding more stable and realistic expected returns. This innovative approach has become indispensable in modern portfolio theory, enabling more strategic investment planning by integrating quantitative rigor and investor perspectives.
 ---
 

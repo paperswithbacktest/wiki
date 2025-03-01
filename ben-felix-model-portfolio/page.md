@@ -1,5 +1,5 @@
 ---
-title: "Ben Felix Model Portfolio (Algo Trading)"
+title: "Ben Felix Model Portfolio"
 description: The Ben Felix Model Portfolio is an innovative investment approach that integrates strategic factor-based investing with algorithmic trading techniques to optimize returns. Designed by Canadian portfolio manager Ben Felix, this portfolio focuses on global diversification through low-cost index funds, emphasizing factors like size, value, and profitability. By leveraging algorithmic tools, the portfolio enhances trade execution and rebalancing efficiency, aiming to deliver consistent long-term growth while minimizing risks and costs. Ideal for both algorithmic traders and long-term investors, this model provides a systematic, data-driven investment strategy tailored for contemporary market conditions.
 ---
 

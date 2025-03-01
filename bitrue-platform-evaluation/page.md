@@ -1,5 +1,5 @@
 ---
-title: "Bitrue Platform Evaluation (Algo Trading)"
+title: "Bitrue Platform Evaluation"
 description: "Discover a comprehensive review of Bitrue's crypto exchange platform. Explore features including algo trading and competitive fees to enhance your trading strategies."
 ---
 

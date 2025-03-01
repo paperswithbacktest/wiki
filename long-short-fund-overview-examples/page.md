@@ -1,5 +1,5 @@
 ---
-title: "Long/Short Fund: Overview and Examples (Algo Trading)"
+title: "Long/Short Fund: Overview and Examples"
 description: "Explore the intricate dynamics of long/short funds using algorithmic trading to enhance returns with strategies that thrive in both rising and falling markets."
 ---
 

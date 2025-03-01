@@ -1,5 +1,5 @@
 ---
-title: "Low Exercise Price Option: Overview, Advantages and Disadvantages (Algo Trading)"
+title: "Low Exercise Price Option: Overview, Advantages and Disadvantages"
 description: "Explore the strategic potential of Low Exercise Price Options (LEPOs) in algo trading offering leveraged exposure with minimal exercise price for savvy investors."
 ---
 

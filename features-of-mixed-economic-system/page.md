@@ -1,5 +1,5 @@
 ---
-title: "Features of a Mixed Economic System (Algo Trading)"
+title: "Features of a Mixed Economic System"
 description: "Discover the balance of capitalism and socialism in mixed economies with algo trading's role in enhancing market efficiency through technology and regulation."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Annual Fund Operating Expenses (Algo Trading)"
+title: "Annual Fund Operating Expenses"
 description: "Explore the impact of operating expenses on investment efficiency with a focus on algorithmic trading Learn strategies to optimize costs and enhance net returns"
 ---
 

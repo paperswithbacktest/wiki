@@ -1,5 +1,5 @@
 ---
-title: "Industrials Alternative Data (Algo Trading)"
+title: "Industrials Alternative Data"
 description: Discover the advantages of utilizing industrial alternative data in algorithmic trading to gain a competitive edge. Explore a range of non-traditional datasets from sensors and IoT devices within the industrial sector, revealing hidden patterns for more precise market predictions. Learn how alternative data enhances trading strategies, offering unique insights beyond conventional financial metrics and helping traders anticipate market trends and economic shifts.
 ---
 

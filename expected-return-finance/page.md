@@ -1,5 +1,5 @@
 ---
-title: "Expected Return in Finance (Algo Trading)"
+title: "Expected Return in Finance"
 description: "Explore the significance of expected return in finance, particularly in algorithmic trading, and understand its role in predicting investment outcomes and maximizing returns. Discover how expected return aids in risk assessment, decision-making, and performance benchmarking, while providing a statistical foundation for optimizing investment portfolios tailored to investors' risk preferences and financial objectives."
 ---
 

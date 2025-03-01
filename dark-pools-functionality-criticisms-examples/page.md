@@ -1,5 +1,5 @@
 ---
-title: "Dark Pools: Functionality, Criticisms, and Examples (Algo Trading)"
+title: "Dark Pools: Functionality, Criticisms, and Examples"
 description: "Explore the role of dark pools and algorithmic trading in modern markets including their functionality criticisms and examples to navigate trading dynamics efficiently."
 ---
 

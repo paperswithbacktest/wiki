@@ -1,5 +1,5 @@
 ---
-title: "After-Acquired Clause: Overview, Advantages, and Disadvantages (Algo Trading)"
+title: "After-Acquired Clause: Overview, Advantages, and Disadvantages"
 description: "Discover the role of after-acquired clauses in legal contracts exploring their impact on collateral security and challenges for algorithmic trading."
 ---
 

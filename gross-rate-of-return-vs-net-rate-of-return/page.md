@@ -1,5 +1,5 @@
 ---
-title: "Gross Rate of Return vs. Net Rate of Return (Algo Trading)"
+title: "Gross Rate of Return vs. Net Rate of Return"
 description: "Explore the differences between gross and net rates of return in algorithmic trading Discover how to optimize investment performance with these metrics"
 ---
 

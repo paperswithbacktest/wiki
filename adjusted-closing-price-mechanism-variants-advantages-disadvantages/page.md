@@ -1,5 +1,5 @@
 ---
-title: "Adjusted Closing Price: Mechanism, Variants, Advantages and Disadvantages (Algo Trading)"
+title: "Adjusted Closing Price: Mechanism, Variants, Advantages and Disadvantages"
 description: "Explore how adjusted closing prices aid investors by providing accurate stock value reflections over time, accounting for dividends, stock splits, and corporate actions."
 ---
 

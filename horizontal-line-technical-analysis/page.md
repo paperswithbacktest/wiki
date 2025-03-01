@@ -1,5 +1,5 @@
 ---
-title: "Horizontal Line in Technical Analysis (Algo Trading)"
+title: "Horizontal Line in Technical Analysis"
 description: "Explore horizontal line analysis in trading a method focusing on support and resistance levels essential in technical analysis and enhanced by algorithmic trading."
 ---
 

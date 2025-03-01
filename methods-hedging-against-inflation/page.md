@@ -1,5 +1,5 @@
 ---
-title: "Methods For Hedging Against Inflation (Algo Trading)"
+title: "Methods For Hedging Against Inflation"
 description: "Explore effective methods for hedging against inflation through algorithmic trading Learn how to protect your investments and maintain financial stability"
 ---
 

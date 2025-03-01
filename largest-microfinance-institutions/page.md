@@ -1,5 +1,5 @@
 ---
-title: "Largest Microfinance Institutions (Algo Trading)"
+title: "Largest Microfinance Institutions"
 description: "Explore the synergy between microfinance and algorithmic trading in reshaping financial sectors with innovative tech for enhanced efficiency, access, and growth."
 ---
 

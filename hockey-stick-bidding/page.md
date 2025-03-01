@@ -1,5 +1,5 @@
 ---
-title: "Hockey Stick Bidding (Algo Trading)"
+title: "Hockey Stick Bidding"
 description: "Explore the dynamics of hockey stick bidding in algo trading auctions and discover how this strategy manipulates pricing to maximize profit amidst market controversy."
 ---
 

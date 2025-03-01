@@ -1,5 +1,5 @@
 ---
-title: "Interbank Network for Electronic Transfers Overview (Algo Trading)"
+title: "Interbank Network for Electronic Transfers Overview"
 description: "Explore the transformative role of interbank networks and electronic transfers in algorithmic trading. With a focus on speed and security, these technologies underpin modern financial systems, driving efficiency and precision. Learn how this integration enhances global market liquidity and supports rapid transactions, offering insights into future trends and the challenges faced by stakeholders."
 ---
 

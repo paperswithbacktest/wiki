@@ -1,5 +1,5 @@
 ---
-title: "Christine Marie Nielsen Biography (Algo Trading)"
+title: "Christine Marie Nielsen Biography"
 description: "Discover the remarkable journey of Christine Marie Nielsen as she transforms journalism and finance through innovation in news dissemination and algorithmic trading."
 ---
 

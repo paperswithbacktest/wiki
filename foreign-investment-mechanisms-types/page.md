@@ -1,5 +1,5 @@
 ---
-title: "Foreign Investment: Mechanisms and Types (Algo Trading)"
+title: "Foreign Investment: Mechanisms and Types"
 description: "Explore the intricacies of foreign investment and its significant role in the global economy. This article investigates into various investment types like Foreign Direct Investment and Foreign Portfolio Investment, highlighting their impact on economic growth and market dynamics. Moreover, it examines algorithmic trading as a pivotal mechanism enhancing investment efficiency across borders. Discover how these elements shape international finance, aid technology transfer, and foster robust economic relationships worldwide. Perfect for investors seeking to diversify globally and understand the digital transformation in financial markets."
 ---
 

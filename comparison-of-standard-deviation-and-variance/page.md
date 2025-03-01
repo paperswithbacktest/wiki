@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Standard Deviation and Variance (Algo Trading)"
+title: "Comparison of Standard Deviation and Variance"
 description: "Explore the key differences and significance of standard deviation and variance in algorithmic trading. Learn how these statistical measures help traders quantify risk, assess market volatility, and optimize trading strategies for better decision-making in financial markets."
 ---
 

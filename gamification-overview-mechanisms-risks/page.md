@@ -1,5 +1,5 @@
 ---
-title: "Gamification: Overview, Mechanisms, and Potential Risks (Algo Trading)"
+title: "Gamification: Overview, Mechanisms, and Potential Risks"
 description: "Explore how gamification, game mechanics, and algorithmic trading interact in modern platforms. Discover their influence on trading strategies, user engagement, and risk awareness."
 ---
 

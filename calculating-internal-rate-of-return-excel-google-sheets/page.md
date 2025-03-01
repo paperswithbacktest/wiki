@@ -1,5 +1,5 @@
 ---
-title: "Calculating Internal Rate of Return in Excel and Google Sheets (Algo Trading)"
+title: "Calculating Internal Rate of Return in Excel and Google Sheets"
 description: "Learn how to calculate the Internal Rate of Return (IRR) using Excel and Google Sheets to evaluate investment profitability with step-by-step guidance."
 ---
 

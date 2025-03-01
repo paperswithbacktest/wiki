@@ -1,5 +1,5 @@
 ---
-title: "Community Development Block Grants (Algo Trading)"
+title: "Community Development Block Grants"
 description: "Explore how Community Development Block Grants and algo trading intersect to enhance urban development projects with data-driven decisions and impactful strategies."
 ---
 

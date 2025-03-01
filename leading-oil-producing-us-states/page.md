@@ -1,5 +1,5 @@
 ---
-title: "Leading Oil-Producing U.S. States (Algo Trading)"
+title: "Leading Oil-Producing U.S. States"
 description: "Explore the intersection of U.S. oil production and algorithmic trading, highlighting top states and transformative impacts on energy markets and strategies."
 ---
 

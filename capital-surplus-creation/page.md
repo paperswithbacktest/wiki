@@ -1,5 +1,5 @@
 ---
-title: "Capital Surplus and Its Creation (Algo Trading)"
+title: "Capital Surplus and Its Creation"
 description: "Discover the world of corporate finance with insights into company equity, capital surplus, and the impact of algorithmic trading on financial stability and growth."
 ---
 

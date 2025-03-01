@@ -1,5 +1,5 @@
 ---
-title: "Euroyen Bond: Overview and Benefits (Algo Trading)"
+title: "Euroyen Bond: Overview and Benefits"
 description: "Explore Euroyen bonds and algorithmic trading to uncover innovative investment strategies. Gain competitive advantage in today's dynamic international finance landscape."
 ---
 

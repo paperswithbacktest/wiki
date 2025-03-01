@@ -1,5 +1,5 @@
 ---
-title: "Lord Abbett (Algo Trading)"
+title: "Lord Abbett"
 description: "Explore how Lord Abbett leverages algorithmic trading to optimize investment strategies and trade execution while enhancing value for clients through technology."
 ---
 

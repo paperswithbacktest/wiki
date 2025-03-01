@@ -1,5 +1,5 @@
 ---
-title: "Differences Between IPOs and Seasoned Equity Offerings (Algo Trading)"
+title: "Differences Between IPOs and Seasoned Equity Offerings"
 description: "Discover the differences between IPOs and SEOs and explore the impact of algorithmic trading on equity offerings unlocking new possibilities for investors."
 ---
 

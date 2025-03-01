@@ -1,5 +1,5 @@
 ---
-title: "Effective Duration in Bond Investment (Algo Trading)"
+title: "Effective Duration in Bond Investment"
 description: "Effective duration is crucial for bond investment and algo trading enabling investors to manage interest rate risk and optimize portfolios for strategic gains."
 ---
 

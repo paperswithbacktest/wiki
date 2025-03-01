@@ -1,5 +1,5 @@
 ---
-title: "Cryptocurrency Exchange Rating Criteria (Algo Trading)"
+title: "Cryptocurrency Exchange Rating Criteria"
 description: "Discover exchange rating criteria essential for algorithmic trading in cryptocurrencies. Learn how security, fees, and features influence trading strategies."
 ---
 

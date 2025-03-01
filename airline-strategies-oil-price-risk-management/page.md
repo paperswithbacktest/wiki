@@ -1,5 +1,5 @@
 ---
-title: "Airline Strategies for Oil Price Risk Management (Algo Trading)"
+title: "Airline Strategies for Oil Price Risk Management"
 description: "Explore strategies airlines use to manage oil price risk including hedging with futures options swaps and the role of algorithmic trading in enhancing risk management."
 ---
 

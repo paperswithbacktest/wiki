@@ -1,5 +1,5 @@
 ---
-title: "Causes of Real Estate Bubbles (Algo Trading)"
+title: "Causes of Real Estate Bubbles"
 description: "Explore the causes behind real estate bubbles and the role of algorithmic trading. Learn how market dynamics and investor behavior contribute to economic volatility."
 ---
 

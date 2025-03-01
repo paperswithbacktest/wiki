@@ -1,5 +1,5 @@
 ---
-title: "Leasehold Improvements in Accounting (Algo Trading)"
+title: "Leasehold Improvements in Accounting"
 description: "Discover the essential aspects of leasehold improvements in accounting within the context of algo trading. This comprehensive guide examines how leasehold modifications impact financial reporting and align with the needs of automated trading systems. Learn about accounting standards, tax considerations, and practical examples vital for modern businesses aiming to optimize leased spaces and enhance operational efficiency through tailored improvements."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Exchange-Traded Derivatives and Over-the-Counter Comparison (Algo Trading)"
+title: "Exchange-Traded Derivatives and Over-the-Counter Comparison"
 description: "Explore the differences between exchange-traded and OTC derivatives, their benefits, and the impact of algorithmic trading on market efficiency."
 ---
 

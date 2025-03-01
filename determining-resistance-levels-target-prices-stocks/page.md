@@ -1,5 +1,5 @@
 ---
-title: "Determining Resistance Levels and Target Prices of Stocks (Algo Trading)"
+title: "Determining Resistance Levels and Target Prices of Stocks"
 description: "Explore the complexities of identifying resistance levels and target prices in stock trading using both traditional and algorithmic methods to enhance strategy."
 ---
 

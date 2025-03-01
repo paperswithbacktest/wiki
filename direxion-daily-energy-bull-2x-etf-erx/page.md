@@ -1,5 +1,5 @@
 ---
-title: "Direxion Daily Energy Bull 2X ETF (ERX) (Algo Trading)"
+title: "Direxion Daily Energy Bull 2X ETF (ERX)"
 description: "Explore how algorithmic trading can optimize strategies for the Direxion Daily Energy Bull 2X ETF ERX a leveraged tool in the volatile energy sector."
 ---
 

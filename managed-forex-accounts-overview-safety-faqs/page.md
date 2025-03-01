@@ -1,5 +1,5 @@
 ---
-title: "Managed Forex Accounts: Overview, Safety, and FAQs (Algo Trading)"
+title: "Managed Forex Accounts: Overview, Safety, and FAQs"
 description: "Discover the potential of managed forex accounts as a pathway for investors interested in forex trading without direct involvement. This guide outlines the benefits and risks associated with entrusting expert money managers to handle trades on your behalf. It also explores the role of algorithmic trading and addresses safety concerns, providing insightful answers to common queries. Whether you are new to forex or a seasoned investor, this resource will help you understand how managed accounts can enhance your investment portfolio while maintaining a focus on safety and strategic growth."
 ---
 

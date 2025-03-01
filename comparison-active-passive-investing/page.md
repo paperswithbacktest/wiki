@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Active and Passive Investing (Algo Trading)"
+title: "Comparison of Active and Passive Investing"
 description: "Explore the distinctions between active investing passive investing and algorithmic trading strategies to determine the best fit for your financial goals."
 ---
 

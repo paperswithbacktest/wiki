@@ -1,5 +1,5 @@
 ---
-title: "FTSE RAFI US 1000 Index: Overview and Functionality (Algo Trading)"
+title: "FTSE RAFI US 1000 Index: Overview and Functionality"
 description: "Explore the FTSE RAFI US 1000 Index's innovative approach to stock selection using fundamental financial metrics to capture economic value over market cap."
 ---
 

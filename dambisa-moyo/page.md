@@ -1,5 +1,5 @@
 ---
-title: "Dambisa Moyo (Algo Trading)"
+title: "Dambisa Moyo"
 description: "Explore Dambisa Moyo's impact on global economics and algorithmic trading insights offering a nuanced perspective on financial innovation and market dynamics."
 ---
 

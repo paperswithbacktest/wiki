@@ -1,5 +1,5 @@
 ---
-title: "Liquidated Damages: Definition and Application (Algo Trading)"
+title: "Liquidated Damages: Definition and Application"
 description: "Explore how liquidated damages within algorithmic trading contracts provide a structured approach to manage breach risks, ensuring security and compliance."
 ---
 

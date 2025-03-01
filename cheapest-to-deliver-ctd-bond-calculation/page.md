@@ -1,5 +1,5 @@
 ---
-title: "Cheapest to Deliver (CTD) Bond Calculation (Algo Trading)"
+title: "Cheapest to Deliver (CTD) Bond Calculation"
 description: "Learn about the 'Cheapest to Deliver' bond in futures trading and how algorithmic strategies enhance profitability by identifying cost-effective delivery options."
 ---
 

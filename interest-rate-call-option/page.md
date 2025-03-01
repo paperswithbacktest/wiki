@@ -1,5 +1,5 @@
 ---
-title: "Interest Rate Call Option (Algo Trading)"
+title: "Interest Rate Call Option"
 description: "Explore the utility of interest rate call options in algorithmic trading for risk management and speculation. Gain insights into optimizing derivative trading strategies."
 ---
 

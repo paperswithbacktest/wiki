@@ -1,5 +1,5 @@
 ---
-title: "Bankruptcy of Utility Companies (Algo Trading)"
+title: "Bankruptcy of Utility Companies"
 description: "Explore the complexities of utility company bankruptcies and the role of algorithmic trading in navigating financial risks. Learn about impacts on services and strategies for resilience."
 ---
 

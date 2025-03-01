@@ -1,5 +1,5 @@
 ---
-title: "Exporting Inline (Algo Trading)"
+title: "Exporting Inline"
 description: Explore how exporting inline revolutionizes algorithmic trading with real-time data handling, minimizing latency and enhancing accuracy while addressing challenges of infrastructure costs and complexity. Discover how Databento leverages this technology to offer superior market data, enabling traders to make informed decisions quickly in a competitive financial landscape.
 ---
 

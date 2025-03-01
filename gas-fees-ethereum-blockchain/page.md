@@ -1,5 +1,5 @@
 ---
-title: "Gas Fees on the Ethereum Blockchain (Algo Trading)"
+title: "Gas Fees on the Ethereum Blockchain"
 description: "Explore the impact of algorithmic trading on Ethereum gas fees Learn how automation can reduce costs and enhance transaction efficiency on the blockchain"
 ---
 

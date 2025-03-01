@@ -1,5 +1,5 @@
 ---
-title: "Hedging Strategies for Reducing Market Risk (Algo Trading)"
+title: "Hedging Strategies for Reducing Market Risk"
 description: "Explore hedging strategies and algorithmic trading to mitigate market risk and optimize investments. Learn techniques to protect asset value and ensure stability."
 ---
 

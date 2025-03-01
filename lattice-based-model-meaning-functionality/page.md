@@ -1,5 +1,5 @@
 ---
-title: "Lattice-Based Model: Meaning and Functionality (Algo Trading)"
+title: "Lattice-Based Model: Meaning and Functionality"
 description: "Optimize your algorithmic trading strategies by understanding lattice-based models crucial for pricing derivatives and managing market risks."
 ---
 

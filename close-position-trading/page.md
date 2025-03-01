@@ -1,5 +1,5 @@
 ---
-title: "Close Position in Trading (Algo Trading)"
+title: "Close Position in Trading"
 description: "Explore strategies for closing positions in algo trading and enhance profitability with insights on execution timing, risk management, and automation techniques."
 ---
 

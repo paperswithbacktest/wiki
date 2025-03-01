@@ -1,5 +1,5 @@
 ---
-title: "Big-Ticket Items and Major Purchases (Algo Trading)"
+title: "Big-Ticket Items and Major Purchases"
 description: "Explore the relationship between consumer behavior and major purchases with insights into how algorithmic trading and economic factors like inflation impact spending habits."
 ---
 

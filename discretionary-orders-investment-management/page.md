@@ -1,5 +1,5 @@
 ---
-title: "Discretionary Orders in Investment Management (Algo Trading)"
+title: "Discretionary Orders in Investment Management"
 description: "Enhance your trading strategy with discretionary orders for optimal investment management. Discover their benefits and risks in today's dynamic financial markets."
 ---
 

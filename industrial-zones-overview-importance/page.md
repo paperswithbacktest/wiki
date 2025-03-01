@@ -1,5 +1,5 @@
 ---
-title: "Industrial Zones: Overview and Importance (Algo Trading)"
+title: "Industrial Zones: Overview and Importance"
 description: "Explore the impact of industrial zones and algorithmic trading on economic growth These zones boost manufacturing and trade while enhancing financial efficiency"
 ---
 

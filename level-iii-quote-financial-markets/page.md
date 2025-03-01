@@ -1,5 +1,5 @@
 ---
-title: "Level III Quote in Financial Markets (Algo Trading)"
+title: "Level III Quote in Financial Markets"
 description: "Explore the pivotal role of Level III quotes in financial markets and algorithmic trading. Gain insights into bid-ask dynamics and enhance trading strategies."
 ---
 

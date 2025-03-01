@@ -1,5 +1,5 @@
 ---
-title: "Activity-Based Budgeting: Overview, Mechanics, and Example (Algo Trading)"
+title: "Activity-Based Budgeting: Overview, Mechanics, and Example"
 description: "Discover how Activity-Based Budgeting enhances financial management by focusing on activities that incur costs. Align resources with strategic objectives effectively."
 ---
 

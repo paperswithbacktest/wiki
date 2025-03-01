@@ -1,5 +1,5 @@
 ---
-title: "Daily Chart in Trading Strategies (Algo Trading)"
+title: "Daily Chart in Trading Strategies"
 description: "Discover how algorithmic trading leverages daily chart analysis to optimize strategies. Uncover essential techniques for seasoned and new traders in an evolving market."
 ---
 

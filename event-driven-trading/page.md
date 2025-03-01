@@ -1,5 +1,5 @@
 ---
-title: "Event-Driven Trading (Algo Trading)"
+title: "Event-Driven Trading"
 description: "Explore event-driven trading in finance which leverages algorithms to exploit price inefficiencies during events like earnings reports mergers and macroeconomic shifts."
 ---
 

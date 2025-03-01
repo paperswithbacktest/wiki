@@ -1,5 +1,5 @@
 ---
-title: "Bryan Lim (Algo Trading)"
+title: "Bryan Lim"
 description: "Discover the inspiring career of Bryan Lim from field systems support to VP at Panda Restaurant Group known for his impactful leadership in IT management."
 ---
 

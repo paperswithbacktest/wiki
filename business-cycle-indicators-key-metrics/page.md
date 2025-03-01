@@ -1,5 +1,5 @@
 ---
-title: "Business Cycle Indicators and Key Metrics (Algo Trading)"
+title: "Business Cycle Indicators and Key Metrics"
 description: "Unlock trading success by leveraging Business Cycle Indicators in algorithmic strategies Gain insights into economic trends to optimize decisions and mitigate risks"
 ---
 

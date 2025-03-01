@@ -1,5 +1,5 @@
 ---
-title: "Evolution of the Video Game Industry (Algo Trading)"
+title: "Evolution of the Video Game Industry"
 description: "Explore the dynamic evolution of the video game industry influenced by AI and algorithmic trading shaping immersive experiences and innovative business models."
 ---
 

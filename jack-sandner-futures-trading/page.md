@@ -1,5 +1,5 @@
 ---
-title: "Jack Sandner: Prominent Figure in Futures Trading (Algo Trading)"
+title: "Jack Sandner: Prominent Figure in Futures Trading"
 description: "Explore the influential role of Jack Sandner in shaping futures trading at the Chicago Mercantile Exchange and the evolution towards algorithmic trading."
 ---
 

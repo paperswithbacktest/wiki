@@ -1,5 +1,5 @@
 ---
-title: "Diversified Fund: Overview and Functionality (Algo Trading)"
+title: "Diversified Fund: Overview and Functionality"
 description: "Explore the benefits of diversified fund investment and algorithmic trading strategies for optimizing portfolio stability and efficiency in today's financial markets."
 ---
 

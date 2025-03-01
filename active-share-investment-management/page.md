@@ -1,5 +1,5 @@
 ---
-title: "Active Share in Investment Management (Algo Trading)"
+title: "Active Share in Investment Management"
 description: "Explore active share and algorithmic trading in investment management to enhance portfolio performance by understanding fund management and efficient trade execution."
 ---
 

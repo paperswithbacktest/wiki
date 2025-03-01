@@ -1,5 +1,5 @@
 ---
-title: "Locus Sigilli: Meaning, Examples, History (Algo Trading)"
+title: "Locus Sigilli: Meaning, Examples, History"
 description: "Explore the historical and modern significance of Locus Sigilli in law and finance from its origins in document sealing to its relevance in algorithmic trading."
 ---
 

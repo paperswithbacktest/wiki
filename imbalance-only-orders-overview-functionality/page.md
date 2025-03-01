@@ -1,5 +1,5 @@
 ---
-title: "Imbalance Only Orders: Overview and Functionality (Algo Trading)"
+title: "Imbalance Only Orders: Overview and Functionality"
 description: "Explore the strategic use of imbalance-only orders in algorithmic trading. Learn how these specialized orders optimize trade execution, enhance liquidity, and manage risk."
 ---
 

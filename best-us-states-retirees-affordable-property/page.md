@@ -1,5 +1,5 @@
 ---
-title: "Best U.S. States for Retirees to Purchase Affordable Property (Algo Trading)"
+title: "Best U.S. States for Retirees to Purchase Affordable Property"
 description: "Explore affordable retirement property options in top U.S. states and discover how algorithmic trading can boost retirement income and financial security."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Basis Trading: Overview and Functionality (Algo Trading)"
+title: "Basis Trading: Overview and Functionality"
 description: "Explore basis trading and algorithmic trading as key strategies in financial markets. Understand their mechanisms and applications, enhancing trading outcomes."
 ---
 

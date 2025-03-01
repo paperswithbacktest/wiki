@@ -1,5 +1,5 @@
 ---
-title: "Key Aspects of the 2016 Money Market Reform (Algo Trading)"
+title: "Key Aspects of the 2016 Money Market Reform"
 description: "Explore the key changes in the 2016 money market reforms and their impact on investors, highlighting the role of algorithmic trading in navigating these regulatory shifts."
 ---
 

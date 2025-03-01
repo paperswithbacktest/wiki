@@ -1,5 +1,5 @@
 ---
-title: "Compliance Audit (Algo Trading)"
+title: "Compliance Audit"
 description: "Explore the critical role of compliance audits in algorithmic trading ensuring adherence to regulations and maintaining integrity in fast-paced financial markets."
 ---
 

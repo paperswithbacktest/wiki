@@ -1,5 +1,5 @@
 ---
-title: "Buying and Selling Stocks Around Dividend Dates (Algo Trading)"
+title: "Buying and Selling Stocks Around Dividend Dates"
 description: "Explore the intricacies of dividend investing with algorithmic trading to optimize returns. Learn strategies for timing stock trades around dividend dates effectively."
 ---
 

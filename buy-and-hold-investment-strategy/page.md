@@ -1,5 +1,5 @@
 ---
-title: "Buy and Hold Investment Strategy (Algo Trading)"
+title: "Buy and Hold Investment Strategy"
 description: "Explore the benefits and strategies of Buy and Hold and Algo Trading for long-term investment success and enduring market growth potential."
 ---
 

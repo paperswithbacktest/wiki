@@ -1,5 +1,5 @@
 ---
-title: "K-Nearest Neighbors (KNN) Algorithm in Python (Algo Trading)"
+title: "K-Nearest Neighbors (KNN) Algorithm in Python"
 description: Explore how Python's K-Nearest Neighbors (KNN) algorithm enhances trading strategies by analyzing historical data to predict market movements. This guide simplifies KNN implementation for automated trading, detailing its core principles, practical steps, and optimization strategies to improve decision-making in dynamic markets.
 ---
 

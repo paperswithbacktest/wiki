@@ -1,5 +1,5 @@
 ---
-title: "Dun & Bradstreet: Operations, Funding, History, and Credit Ratings (Algo Trading)"
+title: "Dun & Bradstreet: Operations, Funding, History, and Credit Ratings"
 description: "Explore how Dun & Bradstreet enhances business strategies with credit ratings and algorithmic trading insights for optimized growth and risk management."
 ---
 

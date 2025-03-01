@@ -1,5 +1,5 @@
 ---
-title: "Customer Type Indicator Codes (Algo Trading)"
+title: "Customer Type Indicator Codes"
 description: "Explore the significance of Customer Type Indicator codes in algorithmic trading and their impact on market transparency efficiency and trading strategy optimization in futures exchanges."
 ---
 

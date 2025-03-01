@@ -1,5 +1,5 @@
 ---
-title: "Blackout Period: Purpose and Examples (Algo Trading)"
+title: "Blackout Period: Purpose and Examples"
 description: "Explore the crucial role of blackout periods in finance limiting trading activities to prevent insider trading while examining their impact on algorithmic trading strategies."
 ---
 

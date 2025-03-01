@@ -1,5 +1,5 @@
 ---
-title: "Inbound Cash Flow: Overview and Requirements (Algo Trading)"
+title: "Inbound Cash Flow: Overview and Requirements"
 description: "Explore how algorithmic trading leverages inbound cash flow management for optimized financial strategies and seamless integration, enhancing market responsiveness."
 ---
 

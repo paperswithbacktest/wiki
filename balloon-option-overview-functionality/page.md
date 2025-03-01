@@ -1,5 +1,5 @@
 ---
-title: "Balloon Option: Overview and Functionality (Algo Trading)"
+title: "Balloon Option: Overview and Functionality"
 description: "Explore the dynamic world of balloon options and their integration in algo trading for tailored risk management and optimized investment strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Focused Fund: Definition and Functionality (Algo Trading)"
+title: "Focused Fund: Definition and Functionality"
 description: "Explore the synergy of focused funds and algorithmic trading to boost return potential with targeted strategies and data-driven decisions for optimal performance."
 ---
 

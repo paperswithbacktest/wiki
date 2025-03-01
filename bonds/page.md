@@ -1,5 +1,5 @@
 ---
-title: "Bonds (Algo Trading)"
+title: "Bonds"
 description: "Explore the dynamic intersection of bonds and algorithmic trading and uncover how technology is reshaping fixed income markets. Discover the role of bonds in portfolio diversification and stability, and learn about the transformative potential of algorithmic trading in enhancing market accessibility, transparency, and efficiency. Understand the challenges and innovations driving the automation of trading practices in this evolving financial landscape."
 ---
 

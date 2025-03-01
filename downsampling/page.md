@@ -1,5 +1,5 @@
 ---
-title: "Downsampling (Algo Trading)"
+title: "Downsampling"
 description: Enhance the efficiency and speed of data analysis in algorithmic trading with downsampling a technique that reduces dataset size while maintaining trading signal integrity. Discover its importance in minimizing computational costs and filtering market noise alongside challenges like information loss. Learn about key techniques to achieve effective downsampling and its impact on trading strategies for better performance.
 ---
 

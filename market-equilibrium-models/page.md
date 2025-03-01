@@ -1,5 +1,5 @@
 ---
-title: "Market Equilibrium Models (Algo Trading)"
+title: "Market Equilibrium Models"
 description: "Explore market equilibrium models in algorithmic trading to optimize trade execution and enhance market efficiency by understanding supply-demand dynamics."
 ---
 

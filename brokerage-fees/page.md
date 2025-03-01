@@ -1,5 +1,5 @@
 ---
-title: "Brokerage Fees (Algo Trading)"
+title: "Brokerage Fees"
 description: "Discover the ins and outs of brokerage fees and algorithmic trading costs in financial services Learn strategies to minimize fees and maximize your returns"
 ---
 

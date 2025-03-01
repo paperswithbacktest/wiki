@@ -1,5 +1,5 @@
 ---
-title: "Historical Cases of Hyperinflation and Their Impact (Algo Trading)"
+title: "Historical Cases of Hyperinflation and Their Impact"
 description: "Explore historical hyperinflation cases like Germany's Weimar era and Zimbabwe's crisis and their impacts on economies and algorithmic trading strategies."
 ---
 

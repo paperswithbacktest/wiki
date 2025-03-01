@@ -1,5 +1,5 @@
 ---
-title: "Commodity Trading Advisors (Algo Trading)"
+title: "Commodity Trading Advisors"
 description: "Explore how Commodity Trading Advisors leverage algorithmic trading to enhance commodity investment strategies focusing on trend following and diversification for optimal returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Automated Confirmation Transaction Service (Algo Trading)"
+title: "Automated Confirmation Transaction Service"
 description: "Discover the essential role of automated transaction confirmation and algorithmic trading in modern finance improving efficiency accuracy and transparency."
 ---
 

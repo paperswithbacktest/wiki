@@ -1,5 +1,5 @@
 ---
-title: "Halloween Strategy in Stock Trading (Algo Trading)"
+title: "Halloween Strategy in Stock Trading"
 description: "Explore the Halloween strategy in algorithmic trading which leverages seasonal stock trends and advanced trading algorithms to optimize investment returns."
 ---
 

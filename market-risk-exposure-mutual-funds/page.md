@@ -1,5 +1,5 @@
 ---
-title: "Market Risk Exposure of Mutual Funds (Algo Trading)"
+title: "Market Risk Exposure of Mutual Funds"
 description: "Explore the dynamics of mutual funds market risk exposure and algorithmic trading Learn about strategies for managing investment risk in the evolving financial landscape"
 ---
 

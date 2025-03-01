@@ -1,5 +1,5 @@
 ---
-title: "Economic Boom and Bust Cycle (Algo Trading)"
+title: "Economic Boom and Bust Cycle"
 description: "Explore the interplay between economic cycles and algorithmic trading uncovering how technology enhances the analysis of boom and bust phases within financial markets."
 ---
 

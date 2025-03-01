@@ -1,5 +1,5 @@
 ---
-title: "Importance of Social Responsibility in Marketing (Algo Trading)"
+title: "Importance of Social Responsibility in Marketing"
 description: "Explore the significance of integrating social responsibility in marketing, especially in algorithmic trading. Understand how aligning marketing ethics, corporate social responsibility, and technological advancements can enhance business growth while maintaining public trust. Discover how ethical marketing and CSR initiatives can not only elevate brand reputation but also ensure long-term sustainability. Learn from real-world examples of successful brands to drive profitability with integrity. Stay ahead with strategies that balance profit and societal commitments, meeting evolving consumer and regulatory expectations."
 ---
 

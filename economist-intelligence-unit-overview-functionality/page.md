@@ -1,5 +1,5 @@
 ---
-title: "Economist Intelligence Unit: Overview and Functionality (Algo Trading)"
+title: "Economist Intelligence Unit: Overview and Functionality"
 description: "Explore Economist Intelligence Unit's role in economic forecasting and its synergy with algorithmic trading providing insights crucial for strategic decisions."
 ---
 

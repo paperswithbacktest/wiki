@@ -1,5 +1,5 @@
 ---
-title: "Duration of Short Positions in Trading (Algo Trading)"
+title: "Duration of Short Positions in Trading"
 description: "Explore the role of short positions in trading and how integrating them with algorithmic strategies can enhance trading speed accuracy and potential returns."
 ---
 

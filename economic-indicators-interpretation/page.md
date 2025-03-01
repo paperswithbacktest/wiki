@@ -1,5 +1,5 @@
 ---
-title: "Economic Indicators and Interpretation (Algo Trading)"
+title: "Economic Indicators and Interpretation"
 description: "Explore how economic indicators like GDP and unemployment rates integrate with algorithmic trading strategies to enhance trading decisions in financial markets."
 ---
 

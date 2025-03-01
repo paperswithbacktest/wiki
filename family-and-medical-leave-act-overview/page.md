@@ -1,5 +1,5 @@
 ---
-title: "Family and Medical Leave Act Overview (Algo Trading)"
+title: "Family and Medical Leave Act Overview"
 description: "Explore how the Family and Medical Leave Act and algorithmic trading innovations intersect to improve workforce management and financial efficiency in today’s world."
 ---
 

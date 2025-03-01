@@ -1,5 +1,5 @@
 ---
-title: "Break-Even Price: Calculation and Examples (Algo Trading)"
+title: "Break-Even Price: Calculation and Examples"
 description: "Understand break-even price in algorithmic trading to optimize strategies. This guide covers calculations, transaction costs, and examples for financial success."
 ---
 

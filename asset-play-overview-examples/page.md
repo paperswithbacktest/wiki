@@ -1,5 +1,5 @@
 ---
-title: "Asset Play: Overview and Examples (Algo Trading)"
+title: "Asset Play: Overview and Examples"
 description: "Explore the synergy of asset play and algorithmic trading to optimize investment returns. Learn how combining undervalued asset strategies with automation creates robust profits."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Golden Visa Programs by Country (Algo Trading)"
+title: "Golden Visa Programs by Country"
 description: "Discover the synergy between Golden Visa programs and algorithmic trading for strategic investment gains leading to global residency and optimized financial returns."
 ---
 

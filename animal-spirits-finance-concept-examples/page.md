@@ -1,5 +1,5 @@
 ---
-title: "Animal Spirits in Finance: Concept and Examples (Algo Trading)"
+title: "Animal Spirits in Finance: Concept and Examples"
 description: "Explore the impact of animal spirits from Keynes on financial behavior and how algorithmic trading interacts with emotional market dynamics in modern finance."
 ---
 

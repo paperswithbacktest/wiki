@@ -1,5 +1,5 @@
 ---
-title: "Floating Price: Explanation and Mechanism (Algo Trading)"
+title: "Floating Price: Explanation and Mechanism"
 description: "Explore the intricate world of algorithmic trading and floating prices Understanding how dynamic pricing mechanisms shape market strategies and enhance liquidity"
 ---
 

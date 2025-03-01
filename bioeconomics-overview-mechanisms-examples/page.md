@@ -1,5 +1,5 @@
 ---
-title: "Bioeconomics: Overview, Mechanisms, and Examples (Algo Trading)"
+title: "Bioeconomics: Overview, Mechanisms, and Examples"
 description: "Explore bioeconomics an interdisciplinary approach that integrates biology with economics to promote sustainable practices harnessing natural resources efficiently."
 ---
 

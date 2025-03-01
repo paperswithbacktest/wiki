@@ -1,5 +1,5 @@
 ---
-title: "Coinbase (Cryptocurrency Exchange) (Algo Trading)"
+title: "Coinbase (Cryptocurrency Exchange)"
 description: "Discover the synergy of Coinbase's role in crypto trading and blockchain innovations Learn how algorithmic trading shapes the future of digital finance"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Establishing a Hedge Fund (Algo Trading)"
+title: "Establishing a Hedge Fund"
 description: "Explore the impact of technology on financial startups and hedge funds with a focus on algorithmic trading enhancing efficiency and democratizing investment opportunities."
 ---
 

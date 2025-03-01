@@ -1,5 +1,5 @@
 ---
-title: "History and Organization of the Securities and Futures Commission (Algo Trading)"
+title: "History and Organization of the Securities and Futures Commission"
 description: "Explore the pivotal role of the Securities and Futures Commission in regulating and enhancing the integrity of Hong Kong's financial markets through robust oversight."
 ---
 

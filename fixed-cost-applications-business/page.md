@@ -1,5 +1,5 @@
 ---
-title: "Fixed Cost and Its Applications in Business (Algo Trading)"
+title: "Fixed Cost and Its Applications in Business"
 description: "Explore fixed costs and their impact on business profitability Discover strategies for optimizing fixed expenses and leveraging algorithmic trading for financial efficiency"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Distinction Between Real Estate And Real Property (Algo Trading)"
+title: "Distinction Between Real Estate And Real Property"
 description: "Explore the crucial differences between real estate and real property while discovering the role of algorithmic trading in transforming real estate investments."
 ---
 

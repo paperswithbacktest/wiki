@@ -1,5 +1,5 @@
 ---
-title: "Financial Institutions Regulatory Act (Algo Trading)"
+title: "Financial Institutions Regulatory Act"
 description: "Explore the impact of the Financial Institutions Regulatory Act on algorithmic trading and banking law Learn how regulation balances innovation and market stability"
 ---
 

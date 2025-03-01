@@ -1,5 +1,5 @@
 ---
-title: "Coinjoin: Functionality and Privacy Considerations (Algo Trading)"
+title: "Coinjoin: Functionality and Privacy Considerations"
 description: "Explore CoinJoin's role in enhancing Bitcoin privacy and its integration in algorithmic trading Discover how it obscures transactions while optimizing trading strategies"
 ---
 

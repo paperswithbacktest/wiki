@@ -1,5 +1,5 @@
 ---
-title: "Marketweight: Definition and Function (Algo Trading)"
+title: "Marketweight: Definition and Function"
 description: "Explore the marketweight investment strategy and its role in algorithmic trading Learn how these concepts optimize portfolio performance and enhance decision-making"
 ---
 

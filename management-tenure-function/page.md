@@ -1,5 +1,5 @@
 ---
-title: "Management Tenure and Its Function (Algo Trading)"
+title: "Management Tenure and Its Function"
 description: "Discover how management tenure impacts algorithmic trading and organizational success. Explore its influence on strategy, innovation, and market adaptability."
 ---
 

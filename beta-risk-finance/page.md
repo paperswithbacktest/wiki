@@ -1,5 +1,5 @@
 ---
-title: "Beta Risk in Finance (Algo Trading)"
+title: "Beta Risk in Finance"
 description: "Discover the role of beta risk in finance for assessing investment risk and optimizing strategies in algorithmic trading amid today’s dynamic financial environment."
 ---
 

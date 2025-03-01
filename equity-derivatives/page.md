@@ -1,5 +1,5 @@
 ---
-title: "Equity Derivatives (Algo Trading)"
+title: "Equity Derivatives"
 description: "Explore the synergy of equity derivatives and algorithmic trading to optimize investment strategies by managing risk and exploiting market inefficiencies efficiently."
 ---
 

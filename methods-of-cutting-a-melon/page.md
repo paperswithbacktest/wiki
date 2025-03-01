@@ -1,5 +1,5 @@
 ---
-title: "Methods of Cutting a Melon (Algo Trading)"
+title: "Methods of Cutting a Melon"
 description: "Explore the art of melon cutting and algorithmic trading, highlighting the precision and tools needed for success in both culinary and financial fields."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Mutual Funds and Individual Stocks (Algo Trading)"
+title: "Comparison of Mutual Funds and Individual Stocks"
 description: "Discover the pros and cons of mutual funds, individual stocks, and algorithmic trading to make smarter investment decisions that align with your financial goals."
 ---
 

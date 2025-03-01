@@ -1,5 +1,5 @@
 ---
-title: "Leonid Kantorovich (Algo Trading)"
+title: "Leonid Kantorovich"
 description: "Leonid Kantorovich's pioneering work in linear programming revolutionized resource allocation and optimization in economics and mathematics influencing the field of algorithmic trading today."
 ---
 

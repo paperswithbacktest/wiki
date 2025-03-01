@@ -1,5 +1,5 @@
 ---
-title: "Impact of Operating Leverage on Business (Algo Trading)"
+title: "Impact of Operating Leverage on Business"
 description: "Discover how operating leverage impacts business growth and risks in algo trading. Learn to optimize leverage use for enhanced profitability and stability."
 ---
 

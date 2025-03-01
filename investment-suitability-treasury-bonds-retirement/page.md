@@ -1,5 +1,5 @@
 ---
-title: "Investment Suitability of Treasury Bonds for Retirement (Algo Trading)"
+title: "Investment Suitability of Treasury Bonds for Retirement"
 description: "Explore Treasury bonds and algorithmic trading for retirement investing to achieve a secure, diversified portfolio with stable income and enhanced growth potential."
 ---
 

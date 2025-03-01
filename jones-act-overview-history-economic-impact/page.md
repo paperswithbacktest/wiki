@@ -1,5 +1,5 @@
 ---
-title: "Jones Act: Overview, Historical Context, and Economic Impact (Algo Trading)"
+title: "Jones Act: Overview, Historical Context, and Economic Impact"
 description: "Explore the economic impact of the Jones Act on U.S. maritime commerce and how algorithmic trading is reshaping industry efficiency and cost structures."
 ---
 

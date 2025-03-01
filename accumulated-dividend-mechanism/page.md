@@ -1,5 +1,5 @@
 ---
-title: "Accumulated Dividend and Its Mechanism (Algo Trading)"
+title: "Accumulated Dividend and Its Mechanism"
 description: "Explore the integration of accumulated dividends in algorithmic trading strategies to optimize investment returns and enhance portfolio performance in finance."
 ---
 

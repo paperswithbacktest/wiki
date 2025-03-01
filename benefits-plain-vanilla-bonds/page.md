@@ -1,5 +1,5 @@
 ---
-title: "Benefits of Plain Vanilla Bonds (Algo Trading)"
+title: "Benefits of Plain Vanilla Bonds"
 description: "Explore the benefits of plain vanilla bonds and their role in secure investing. Learn how algorithmic trading optimizes bond portfolios for better returns."
 ---
 

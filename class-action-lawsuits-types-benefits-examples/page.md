@@ -1,5 +1,5 @@
 ---
-title: "Class Action Lawsuits: Types, Benefits, and Examples (Algo Trading)"
+title: "Class Action Lawsuits: Types, Benefits, and Examples"
 description: "Discover how class action lawsuits navigate the complexities of algorithmic trading to address legal challenges, promote fair practices, and protect investors."
 ---
 

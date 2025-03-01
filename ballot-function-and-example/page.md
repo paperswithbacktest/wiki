@@ -1,5 +1,5 @@
 ---
-title: "Ballot: Function and Example (Algo Trading)"
+title: "Ballot: Function and Example"
 description: "Explore the intersection of algorithmic trading and electronic voting in finance and corporate governance highlighting the role of technology in decision-making."
 ---
 

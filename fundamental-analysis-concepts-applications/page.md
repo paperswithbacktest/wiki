@@ -1,5 +1,5 @@
 ---
-title: "Fundamental Analysis: Concepts and Applications (Algo Trading)"
+title: "Fundamental Analysis: Concepts and Applications"
 description: "Explore how combining fundamental analysis and algorithmic trading can enhance investment decisions and optimize portfolio performance while managing risks."
 ---
 

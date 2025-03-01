@@ -1,5 +1,5 @@
 ---
-title: "Eric Huang (Algo Trading)"
+title: "Eric Huang"
 description: "Eric Huang is an experienced algorithmic trader and portfolio manager with expertise in quantitative analysis and systematic investment strategies."
 ---
 

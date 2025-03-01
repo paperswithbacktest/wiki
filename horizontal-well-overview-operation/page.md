@@ -1,5 +1,5 @@
 ---
-title: "Horizontal Well: Overview and Operation (Algo Trading)"
+title: "Horizontal Well: Overview and Operation"
 description: "Discover the synergy of horizontal well drilling and algorithmic trading Explore how these two advanced technologies enhance operational efficiency and strategic advantages"
 ---
 

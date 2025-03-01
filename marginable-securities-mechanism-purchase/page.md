@@ -1,5 +1,5 @@
 ---
-title: "Marginable Securities: Mechanism and Purchase (Algo Trading)"
+title: "Marginable Securities: Mechanism and Purchase"
 description: "Explore how marginable securities and algorithmic trading revolutionize investment strategies by amplifying returns and optimizing efficiency in modern finance."
 ---
 

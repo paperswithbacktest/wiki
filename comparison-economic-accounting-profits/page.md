@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Economic and Accounting Profits (Algo Trading)"
+title: "Comparison of Economic and Accounting Profits"
 description: "Understand economic vs accounting profits in algo trading Discover differences in profit measurement calculation and impact on business strategy and decisions"
 ---
 

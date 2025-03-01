@@ -1,5 +1,5 @@
 ---
-title: "Bottom-Up and Top-Down Investing (Algo Trading)"
+title: "Bottom-Up and Top-Down Investing"
 description: "Explore the distinct advantages of top-down and bottom-up investing strategies alongside the precision of algorithmic trading to optimize investment returns."
 ---
 

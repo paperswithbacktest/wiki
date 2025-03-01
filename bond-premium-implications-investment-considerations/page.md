@@ -1,5 +1,5 @@
 ---
-title: "Bond Premium: Implications and Investment Considerations (Algo Trading)"
+title: "Bond Premium: Implications and Investment Considerations"
 description: "Explore the impact of bond premiums and algorithmic trading in investment strategies. Learn how these elements influence bond portfolios and optimize risk-reward balance."
 ---
 

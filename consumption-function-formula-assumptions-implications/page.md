@@ -1,5 +1,5 @@
 ---
-title: "Consumption Function: Formula, Assumptions, Implications (Algo Trading)"
+title: "Consumption Function: Formula, Assumptions, Implications"
 description: "Explore the relationship between the consumption function, economic assumptions, and algorithmic trading, and their implications for economic growth, stability, and market efficiency."
 ---
 

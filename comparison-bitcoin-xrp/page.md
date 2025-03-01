@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Bitcoin and XRP (Algo Trading)"
+title: "Comparison of Bitcoin and XRP"
 description: "Explore Bitcoin and XRP within algo trading Discover differences in market dynamics and strategies for optimizing cryptocurrency portfolios with these assets"
 ---
 

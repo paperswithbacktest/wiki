@@ -1,5 +1,5 @@
 ---
-title: "Impeachment: Definition, Overview, and Case Studies (Algo Trading)"
+title: "Impeachment: Definition, Overview, and Case Studies"
 description: "Explore the complexities of impeachment and algorithmic trading with case studies and insights into their impact on global governance and economic systems."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Investment Market Anomalies (Algo Trading)"
+title: "Investment Market Anomalies"
 description: "Explore how investment strategies and market anomalies shape stock market dynamics. Learn how algorithmic trading leverages technology for strategic advantages."
 ---
 

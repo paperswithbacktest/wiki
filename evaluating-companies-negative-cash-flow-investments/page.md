@@ -1,5 +1,5 @@
 ---
-title: "Evaluating Companies with Negative Cash Flow from Investments (Algo Trading)"
+title: "Evaluating Companies with Negative Cash Flow from Investments"
 description: "Explore strategies to evaluate investments with negative cash flow using financial analysis and algorithmic trading to unlock their growth potential."
 ---
 

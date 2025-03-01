@@ -1,5 +1,5 @@
 ---
-title: "Maritime Law and Its Significance (Algo Trading)"
+title: "Maritime Law and Its Significance"
 description: "Explore the significance of maritime law and its impact on algorithmic trading in the shipping industry. Understand legal frameworks, challenges, and innovations."
 ---
 

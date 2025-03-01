@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Debentures and Bonds (Algo Trading)"
+title: "Comparison of Debentures and Bonds"
 description: "Explore the distinctions between debentures and bonds, key elements of the debt market, and how algorithmic trading enhances investment strategies."
 ---
 

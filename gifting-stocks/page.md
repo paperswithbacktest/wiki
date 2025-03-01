@@ -1,5 +1,5 @@
 ---
-title: "Gifting Stocks (Algo Trading)"
+title: "Gifting Stocks"
 description: "Explore gifting stocks as a modern gift idea that offers financial growth potential and education in investing and benefits from algorithmic trading efficiency."
 ---
 

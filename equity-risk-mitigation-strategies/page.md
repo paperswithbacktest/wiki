@@ -1,5 +1,5 @@
 ---
-title: "Equity Risk Mitigation Strategies (Algo Trading)"
+title: "Equity Risk Mitigation Strategies"
 description: "Discover effective strategies for mitigating equity risk in trading by leveraging algorithmic trading techniques Optimize decision-making through sophisticated risk management methods"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Best Execution Rule: Overview and Requirements (Algo Trading)"
+title: "Best Execution Rule: Overview and Requirements"
 description: "Discover the key aspects of best execution rule in algo trading and its crucial role in maintaining trading compliance and financial regulations."
 ---
 

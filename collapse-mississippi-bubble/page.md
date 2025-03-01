@@ -1,5 +1,5 @@
 ---
-title: "Collapse of the Mississippi Bubble (Algo Trading)"
+title: "Collapse of the Mississippi Bubble"
 description: "Explore the early 18th-century Mississippi Bubble its financial innovations and speculative fervor providing insights for modern algorithmic trading and economic stability."
 ---
 

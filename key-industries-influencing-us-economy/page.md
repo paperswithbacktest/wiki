@@ -1,5 +1,5 @@
 ---
-title: "Key Industries Influencing the U.S. Economy (Algo Trading)"
+title: "Key Industries Influencing the U.S. Economy"
 description: "Discover how key industries like technology and healthcare drive U.S. economic growth Explore how algorithmic trading reshapes financial markets and boosts efficiency"
 ---
 

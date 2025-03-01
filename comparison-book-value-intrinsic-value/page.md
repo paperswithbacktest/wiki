@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Book Value and Intrinsic Value (Algo Trading)"
+title: "Comparison of Book Value and Intrinsic Value"
 description: "Explore the differences between book value and intrinsic value in finance and their integration with algorithmic trading to enhance investment strategies."
 ---
 

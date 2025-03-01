@@ -1,5 +1,5 @@
 ---
-title: "Layered Fees (Algo Trading)"
+title: "Layered Fees"
 description: "Understanding layered fees in algorithmic trading is crucial for maximizing returns by managing execution, data, and infrastructure costs effectively."
 ---
 

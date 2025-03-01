@@ -1,5 +1,5 @@
 ---
-title: "E-Mini in Futures Trading (Algo Trading)"
+title: "E-Mini in Futures Trading"
 description: "Explore the world of E-mini futures and algorithmic trading. Understand the benefits and risks for traders seeking affordable access and strategic market participation."
 ---
 

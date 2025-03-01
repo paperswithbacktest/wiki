@@ -1,5 +1,5 @@
 ---
-title: "Forward Dividend Yield and Trailing Yield Comparison (Algo Trading)"
+title: "Forward Dividend Yield and Trailing Yield Comparison"
 description: "Compare trailing and forward dividend yields for trading strategies and discover their significance in algorithmic trading. Enhance portfolio returns efficiently."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of 50-Day, 100-Day, and 200-Day Simple Moving Averages (Algo Trading)"
+title: "Comparison of 50-Day, 100-Day, and 200-Day Simple Moving Averages"
 description: "Explore how 50-day, 100-day, and 200-day simple moving averages in algo trading help identify market trends and enhance decision-making with varying sensitivities."
 ---
 

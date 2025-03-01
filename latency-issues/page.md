@@ -1,5 +1,5 @@
 ---
-title: "latency issues (Algo Trading)"
+title: "latency issues"
 description: "Learn how latency impacts algorithmic trading success. Discover strategies to minimize delays in trade execution for optimal performance and efficiency."
 ---
 

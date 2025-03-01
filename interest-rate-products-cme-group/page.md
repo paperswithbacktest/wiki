@@ -1,5 +1,5 @@
 ---
-title: "Interest Rate Products of CME Group (Algo Trading)"
+title: "Interest Rate Products of CME Group"
 description: "Explore CME Group's wide array of interest rate products and discover how algorithmic trading is reshaping their trade dynamics in global markets."
 ---
 

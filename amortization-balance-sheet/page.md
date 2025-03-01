@@ -1,5 +1,5 @@
 ---
-title: "Amortization in the Balance Sheet (Algo Trading)"
+title: "Amortization in the Balance Sheet"
 description: "Explore how balance sheet amortization and financial accounting principles integrate with algorithmic trading to impact financial decision-making and strategy development."
 ---
 

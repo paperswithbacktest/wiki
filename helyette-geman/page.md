@@ -1,5 +1,5 @@
 ---
-title: "Helyette Geman (Algo Trading)"
+title: "Helyette Geman"
 description: "Discover the impactful career of Helyette Geman renowned for her pioneering work in mathematical finance risk management and algorithmic trading."
 ---
 

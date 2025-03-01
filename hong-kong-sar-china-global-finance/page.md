@@ -1,5 +1,5 @@
 ---
-title: "Hong Kong SAR, China: Role in Global Finance (Algo Trading)"
+title: "Hong Kong SAR, China: Role in Global Finance"
 description: "Explore how Hong Kong SAR plays a pivotal role in global finance and algorithmic trading with its strategic location robust legal framework and advanced infrastructure."
 ---
 

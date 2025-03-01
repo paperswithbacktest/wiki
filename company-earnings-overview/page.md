@@ -1,5 +1,5 @@
 ---
-title: "Company Earnings Overview (Algo Trading)"
+title: "Company Earnings Overview"
 description: "Discover how company earnings reports are essential tools for investors by providing insights into a business's financial health and growth potential with an emphasis on the impact of algorithmic trading in the analysis. Understand the dynamics of financial performance indicators like revenue and net income which signal a company's operational efficiency and market competitiveness. Explore how company earnings and business income trends influence investment strategies and decision-making in today's financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Autoencoder for feature extraction (Algo Trading)"
+title: "Autoencoder for feature extraction"
 description: "Optimize trading strategies using autoencoders to extract features from complex financial data enabling accurate predictions and risk assessments in algorithmic trading."
 ---
 

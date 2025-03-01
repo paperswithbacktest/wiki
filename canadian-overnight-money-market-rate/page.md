@@ -1,5 +1,5 @@
 ---
-title: "Canadian Overnight Money Market Rate (Algo Trading)"
+title: "Canadian Overnight Money Market Rate"
 description: "Explore the Canadian money market with insights on the overnight rate and algorithmic trading unleashing liquidity and efficiency in the financial ecosystem."
 ---
 

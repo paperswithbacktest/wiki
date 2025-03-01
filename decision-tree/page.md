@@ -1,5 +1,5 @@
 ---
-title: "Decision tree (Algo Trading)"
+title: "Decision tree"
 description: "Explore how decision trees revolutionize algorithmic trading by predicting market trends using historical data Their clear structure enhances trading strategies"
 ---
 

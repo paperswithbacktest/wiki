@@ -1,5 +1,5 @@
 ---
-title: "Bank for International Settlements: History and Overview (Algo Trading)"
+title: "Bank for International Settlements: History and Overview"
 description: "Explore the history of the Bank for International Settlements and its impact on global banking and algorithmic trading in today's dynamic financial landscape."
 ---
 

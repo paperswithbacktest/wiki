@@ -1,5 +1,5 @@
 ---
-title: "Japan Exchange Group (Algo Trading)"
+title: "Japan Exchange Group"
 description: "Explore how Japan Exchange Group and Tokyo Stock Exchange leverage cutting-edge algorithmic trading technologies to enhance efficiency and drive market innovation."
 ---
 

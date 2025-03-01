@@ -1,5 +1,5 @@
 ---
-title: "Bid-to-Cover Ratio (Algo Trading)"
+title: "Bid-to-Cover Ratio"
 description: "Explore the bid-to-cover ratio's crucial role in Treasury auctions and its impact on algorithmic trading Learn how this metric influences investment strategies and economic conditions"
 ---
 

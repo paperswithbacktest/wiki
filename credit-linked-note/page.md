@@ -1,5 +1,5 @@
 ---
-title: "Credit-Linked Note (Algo Trading)"
+title: "Credit-Linked Note"
 description: "Explore the synergy between Credit-Linked Notes and algorithmic trading Discover how technology enhances CLN trading strategies optimizing returns and managing risks"
 ---
 

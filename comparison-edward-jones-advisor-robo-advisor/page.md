@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Edward Jones Financial Advisor and Robo-Advisor (Algo Trading)"
+title: "Comparison of Edward Jones Financial Advisor and Robo-Advisor"
 description: "Explore the key differences and advantages of Edward Jones' personalized financial advisory services versus the cost-efficient, automated strategies of robo-advisors."
 ---
 

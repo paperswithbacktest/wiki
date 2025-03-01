@@ -1,5 +1,5 @@
 ---
-title: "Flaws in Major Market Indicators (Algo Trading)"
+title: "Flaws in Major Market Indicators"
 description: "Explore the impact of algo trading on financial markets by examining economic metrics, financial analysis, and market indicators to enhance trading strategies."
 ---
 

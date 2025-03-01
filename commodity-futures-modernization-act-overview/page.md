@@ -1,5 +1,5 @@
 ---
-title: "Commodity Futures Modernization Act Overview (Algo Trading)"
+title: "Commodity Futures Modernization Act Overview"
 description: "Explore the impact of the Commodity Futures Modernization Act on algorithmic trading and its regulatory challenges within US commodity futures markets."
 ---
 

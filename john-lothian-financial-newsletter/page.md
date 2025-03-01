@@ -1,5 +1,5 @@
 ---
-title: "John Lothian Financial Newsletter (Algo Trading)"
+title: "John Lothian Financial Newsletter"
 description: "Discover insights into algorithmic trading with the John Lothian Financial Newsletter which covers financial market trends emerging technologies and trading strategies."
 ---
 

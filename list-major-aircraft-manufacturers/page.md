@@ -1,5 +1,5 @@
 ---
-title: "List of Major Aircraft Manufacturers (Algo Trading)"
+title: "List of Major Aircraft Manufacturers"
 description: "Discover how major aircraft manufacturers like Boeing, Airbus, and Lockheed Martin drive innovation in aerospace through algo trading and sustainable technologies."
 ---
 

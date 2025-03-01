@@ -1,5 +1,5 @@
 ---
-title: "Impact of Fracking on Oil Prices (Algo Trading)"
+title: "Impact of Fracking on Oil Prices"
 description: "Explore how fracking influences oil prices and the role of algorithmic trading in this dynamic landscape with insights for investors and policymakers."
 ---
 

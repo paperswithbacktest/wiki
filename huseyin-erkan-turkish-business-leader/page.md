@@ -1,5 +1,5 @@
 ---
-title: "Hüseyin Erkan - Turkish Business Leader (Algo Trading)"
+title: "Hüseyin Erkan - Turkish Business Leader"
 description: "Hüseyin Erkan is a leading Turkish business figure known for transformative contributions to algorithmic trading and global financial markets."
 ---
 

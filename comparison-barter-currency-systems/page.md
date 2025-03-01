@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Barter and Currency Systems (Algo Trading)"
+title: "Comparison of Barter and Currency Systems"
 description: "Explore the evolution of trade from barter to currency and algorithmic trading Discover how these systems have shaped modern economic practices and efficiencies"
 ---
 

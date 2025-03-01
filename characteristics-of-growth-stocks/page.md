@@ -1,5 +1,5 @@
 ---
-title: "Characteristics of Growth Stocks (Algo Trading)"
+title: "Characteristics of Growth Stocks"
 description: "Explore the synergy between growth stocks and algorithmic trading to enhance returns and achieve success in modern investing. Discover key strategies and benefits."
 ---
 

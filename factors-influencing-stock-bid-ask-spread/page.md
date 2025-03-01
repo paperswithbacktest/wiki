@@ -1,5 +1,5 @@
 ---
-title: "Factors Influencing Stock Bid-Ask Spread (Algo Trading)"
+title: "Factors Influencing Stock Bid-Ask Spread"
 description: "Discover how factors like market liquidity volatility and algorithmic trading influence the stock bid-ask spread Learn strategies to optimize trading costs"
 ---
 

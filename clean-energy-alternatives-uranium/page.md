@@ -1,5 +1,5 @@
 ---
-title: "Clean Energy Alternatives to Uranium (Algo Trading)"
+title: "Clean Energy Alternatives to Uranium"
 description: "Explore clean energy alternatives to uranium and discover the role of algorithmic trading in optimizing sustainable energy solutions in global markets."
 ---
 

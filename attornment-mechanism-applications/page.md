@@ -1,5 +1,5 @@
 ---
-title: "Attornment: Definition, Mechanism, and Applications (Algo Trading)"
+title: "Attornment: Definition, Mechanism, and Applications"
 description: "Explore the intersection of attornment in property law and algorithmic trading. Understand their implications, regulatory frameworks, and opportunities for investors."
 ---
 

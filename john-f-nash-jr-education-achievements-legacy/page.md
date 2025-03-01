@@ -1,5 +1,5 @@
 ---
-title: "John F. Nash Jr.: Education, Achievements, and Legacy (Algo Trading)"
+title: "John F. Nash Jr.: Education, Achievements, and Legacy"
 description: "Explore John F Nash Jr's profound impact on mathematics and economics from game theory and Nash Equilibrium to algorithmic trading strategies enhancing financial markets."
 ---
 

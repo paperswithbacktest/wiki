@@ -1,5 +1,5 @@
 ---
-title: "Block Header in Cryptocurrency (Algo Trading)"
+title: "Block Header in Cryptocurrency"
 description: "Explore how blockchain's block headers enhance cryptocurrency security through transparent transactions and examine their role in algo trading's efficiency."
 ---
 

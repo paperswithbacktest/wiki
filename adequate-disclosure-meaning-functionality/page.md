@@ -1,5 +1,5 @@
 ---
-title: "Adequate Disclosure: Meaning and Functionality (Algo Trading)"
+title: "Adequate Disclosure: Meaning and Functionality"
 description: "Learn about the importance of adequate disclosure and transparency in algorithmic trading Its role in ensuring market integrity and investor protection"
 ---
 

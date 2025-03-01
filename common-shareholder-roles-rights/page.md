@@ -1,5 +1,5 @@
 ---
-title: "Common Shareholder: Roles and Rights (Algo Trading)"
+title: "Common Shareholder: Roles and Rights"
 description: "Explore the roles and rights of common shareholders in the context of algorithmic trading Understand how these rights influence corporate governance and shareholder impact"
 ---
 

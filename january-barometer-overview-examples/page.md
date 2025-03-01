@@ -1,5 +1,5 @@
 ---
-title: "January Barometer: Overview and Examples (Algo Trading)"
+title: "January Barometer: Overview and Examples"
 description: "Discover how the January Barometer, a concept linking January stock performance to the year's market trends, integrates with algorithmic trading strategies."
 ---
 

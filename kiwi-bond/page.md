@@ -1,5 +1,5 @@
 ---
-title: "Kiwi Bond (Algo Trading)"
+title: "Kiwi Bond"
 description: "Explore Kiwi Bonds as a secure, government-backed investment for New Zealand residents. Learn how algorithmic trading can enhance returns on these fixed-income securities."
 ---
 

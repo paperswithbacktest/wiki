@@ -1,5 +1,5 @@
 ---
-title: "Benchmark Oils: Brent, WTI, Dubai (Algo Trading)"
+title: "Benchmark Oils: Brent, WTI, Dubai"
 description: "Explore the complexities of the global oil market and benchmark oils like Brent and WTI Discover how algorithmic trading reshapes oil price dynamics and strategies"
 ---
 

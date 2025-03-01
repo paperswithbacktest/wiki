@@ -1,5 +1,5 @@
 ---
-title: "Inside Day Pattern: Analysis and Example (Algo Trading)"
+title: "Inside Day Pattern: Analysis and Example"
 description: "Explore the inside day pattern to enhance your trading strategies. Learn its role in market dynamics, capitalizing on consolidation and potential breakouts."
 ---
 

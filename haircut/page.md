@@ -1,5 +1,5 @@
 ---
-title: "Haircut (Algo Trading)"
+title: "Haircut"
 description: "Learn about haircuts in algo trading crucial for risk management and market stability by adjusting asset values as collateral in volatile conditions."
 ---
 

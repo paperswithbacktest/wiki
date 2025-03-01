@@ -1,5 +1,5 @@
 ---
-title: "Effective Indicators Combined with Bollinger Bands (Algo Trading)"
+title: "Effective Indicators Combined with Bollinger Bands"
 description: "Enhance your algorithmic trading with effective indicators combined with Bollinger Bands to measure market volatility and identify optimal trading opportunities."
 ---
 

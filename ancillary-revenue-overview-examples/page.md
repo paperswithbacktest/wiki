@@ -1,5 +1,5 @@
 ---
-title: "Ancillary Revenue: Overview and Examples (Algo Trading)"
+title: "Ancillary Revenue: Overview and Examples"
 description: "Explore how ancillary revenue and algorithmic trading are reshaping business income strategies Learn through examples how these concepts can drive sustainable growth"
 ---
 

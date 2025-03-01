@@ -1,5 +1,5 @@
 ---
-title: "FactSet: Overview, Operations, and Corporate Structure (Algo Trading)"
+title: "FactSet: Overview, Operations, and Corporate Structure"
 description: "Explore FactSet's impact in financial services with insights on company structure and algorithmic trading Track market trends and optimize strategies for success"
 ---
 

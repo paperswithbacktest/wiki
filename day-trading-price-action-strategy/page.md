@@ -1,5 +1,5 @@
 ---
-title: "Day Trading Price Action Strategy Explained (Algo Trading)"
+title: "Day Trading Price Action Strategy Explained"
 description: Discover the essentials of price action trading, a strategy focusing on asset price fluctuations to interpret market dynamics without relying on external factors. This approach is crucial for intraday and algorithmic trading, offering a streamlined method for exploiting market inefficiencies. Learn how price action strategies enhance trading efficiency and profitability, and explore their integration into algorithmic systems for improved decision-making and emotional bias minimization. Gain insights into foundational principles and optimize trading performance with clear, real-time strategies tailored to current market conditions.
 ---
 

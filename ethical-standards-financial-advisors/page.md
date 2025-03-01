@@ -1,5 +1,5 @@
 ---
-title: "Ethical Standards for Financial Advisors (Algo Trading)"
+title: "Ethical Standards for Financial Advisors"
 description: "Explore the crucial role of ethical standards for financial advisors in navigating the complexities of modern finance, especially within algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Examples of Write-Ups in Accounting (Algo Trading)"
+title: "Examples of Write-Ups in Accounting"
 description: "Discover how write-ups and algorithmic trading enhance asset management through financial adjustments and data analysis to reflect true market values."
 ---
 

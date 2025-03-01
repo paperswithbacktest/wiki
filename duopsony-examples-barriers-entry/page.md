@@ -1,5 +1,5 @@
 ---
-title: "Duopsony: Definition, Examples, and Barriers to Entry (Algo Trading)"
+title: "Duopsony: Definition, Examples, and Barriers to Entry"
 description: "Explore the concept of duopsony its barriers to entry and its implications for algorithmic trading Discover how two dominant buyers affect market dynamics"
 ---
 

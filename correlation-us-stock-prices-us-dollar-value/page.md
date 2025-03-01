@@ -1,5 +1,5 @@
 ---
-title: "Correlation Between U.S. Stock Prices and U.S. Dollar Value (Algo Trading)"
+title: "Correlation Between U.S. Stock Prices and U.S. Dollar Value"
 description: "Explore the correlation between U.S. stock prices and the U.S. dollar value and its impact on algorithmic trading, investment strategies, and risk management."
 ---
 

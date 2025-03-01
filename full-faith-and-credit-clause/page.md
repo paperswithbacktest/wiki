@@ -1,5 +1,5 @@
 ---
-title: "Full Faith and Credit Clause (Algo Trading)"
+title: "Full Faith and Credit Clause"
 description: "Explore the intersection of constitutional law and modern tech as Full Faith and Credit Clause principles adapt alongside algorithmic trading in evolving financial landscapes."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Exhaustion in Stock Trading: Indicators and Examples (Algo Trading)"
+title: "Exhaustion in Stock Trading: Indicators and Examples"
 description: "Understand stock market exhaustion and maximize trading strategies using indicators like RSI and MA. Learn how algorithms enhance analysis for better outcomes."
 ---
 

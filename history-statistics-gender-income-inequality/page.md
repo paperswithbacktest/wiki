@@ -1,5 +1,5 @@
 ---
-title: "History and Statistics of Gender Income Inequality (Algo Trading)"
+title: "History and Statistics of Gender Income Inequality"
 description: "Explore the intersection of gender income inequality and algorithmic trading revealing their historical roots impacts on modern economics and role in shaping equity."
 ---
 

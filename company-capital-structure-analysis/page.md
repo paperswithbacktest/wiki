@@ -1,5 +1,5 @@
 ---
-title: "Company Capital Structure Analysis (Algo Trading)"
+title: "Company Capital Structure Analysis"
 description: "Explore the critical interplay between company financial and capital structures and algorithmic trading in our in-depth analysis. Understand how financial structure underpins firm stability and strategic growth enabling effective risk management and investment decisions. Learn about capital structure’s essential role in corporate finance through debt equity and hybrid financing impacts. Discover how algorithmic trading with its technological advancements enhances trading efficiency and how it intersects with financial frameworks to boost firms' operational and strategic capabilities for optimal performance."
 ---
 

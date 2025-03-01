@@ -1,5 +1,5 @@
 ---
-title: "Application of Implied Volatility in the Black-Scholes Model (Algo Trading)"
+title: "Application of Implied Volatility in the Black-Scholes Model"
 description: "Explore the role of implied volatility in the Black-Scholes model within algorithmic trading to enhance decision-making and strategy development in financial markets."
 ---
 

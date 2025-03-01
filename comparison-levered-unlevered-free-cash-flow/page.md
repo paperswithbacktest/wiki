@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Levered and Unlevered Free Cash Flow (Algo Trading)"
+title: "Comparison of Levered and Unlevered Free Cash Flow"
 description: "Explore Levered and Unlevered Free Cash Flow as essential metrics for assessing company performance and integrating them into algorithmic trading strategies."
 ---
 

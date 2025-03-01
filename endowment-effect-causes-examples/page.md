@@ -1,5 +1,5 @@
 ---
-title: "Endowment Effect: Causes and Examples (Algo Trading)"
+title: "Endowment Effect: Causes and Examples"
 description: "Explore the intersection of behavioral economics and algorithmic trading through the endowment effect which influences how traders value and manage assets."
 ---
 

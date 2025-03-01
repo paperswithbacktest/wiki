@@ -1,5 +1,5 @@
 ---
-title: "Importance of Book Value to Investors (Algo Trading)"
+title: "Importance of Book Value to Investors"
 description: "Discover the importance of book value to investors in algorithmic trading. Learn how this metric provides insights into a company's financial health and value."
 ---
 

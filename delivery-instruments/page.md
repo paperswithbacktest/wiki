@@ -1,5 +1,5 @@
 ---
-title: "Delivery Instruments (Algo Trading)"
+title: "Delivery Instruments"
 description: "Explore the powerful synergy between delivery logistics and algorithmic trading that enhances efficiency and decision-making, optimizing supply chains and market strategies."
 ---
 

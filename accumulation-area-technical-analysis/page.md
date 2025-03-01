@@ -1,5 +1,5 @@
 ---
-title: "Accumulation Area in Technical Analysis (Algo Trading)"
+title: "Accumulation Area in Technical Analysis"
 description: "Discover how understanding the accumulation area in technical analysis can enhance your algo trading strategy by identifying key market dynamics for strategic advantage."
 ---
 

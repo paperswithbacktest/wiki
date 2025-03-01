@@ -1,5 +1,5 @@
 ---
-title: "Cryptocurrency Spoofing: Mechanisms and Prevention (Algo Trading)"
+title: "Cryptocurrency Spoofing: Mechanisms and Prevention"
 description: "Explore the world of cryptocurrency spoofing and learn about the mechanisms behind this manipulative practice and its impact on market dynamics. Discover how algorithmic trading plays a role and the various strategies for prevention and regulation, all critical for maintaining financial integrity in growing crypto markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Black's Model: Overview and Functionality (Algo Trading)"
+title: "Black's Model: Overview and Functionality"
 description: "Discover Black's Model for options pricing on futures ideal for algorithmic trading Enhance your understanding of derivatives and high-frequency strategies"
 ---
 

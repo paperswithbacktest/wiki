@@ -1,5 +1,5 @@
 ---
-title: "Data Aggregator Alternative Data (Algo Trading)"
+title: "Data Aggregator Alternative Data"
 description: Discover how alternative data is transforming algorithmic trading by offering insights beyond traditional financial datasets. Explore the rise of data aggregators as key players in sourcing and processing diverse information streams like social media sentiments and satellite imagery. Understand the advantages and potential challenges of integrating alternative data into trading strategies to maintain a competitive edge.
 ---
 

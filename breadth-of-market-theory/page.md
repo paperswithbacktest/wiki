@@ -1,5 +1,5 @@
 ---
-title: "Breadth of Market Theory (Algo Trading)"
+title: "Breadth of Market Theory"
 description: "Explore how market theory, investment analysis, and algorithmic trading enhance investment strategies by leveraging market breadth to optimize trading decisions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "IPO Advisor: Roles and Responsibilities (Algo Trading)"
+title: "IPO Advisor: Roles and Responsibilities"
 description: "Explore the intricate role of IPO advisors in guiding companies through public offerings and the impact of algorithmic trading on IPO outcomes in financial markets."
 ---
 

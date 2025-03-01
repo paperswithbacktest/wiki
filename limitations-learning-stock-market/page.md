@@ -1,5 +1,5 @@
 ---
-title: "Limitations of Learning in the Stock Market (Algo Trading)"
+title: "Limitations of Learning in the Stock Market"
 description: "Discover the intricate challenges of learning stock market investments and navigate the complexities and limitations of algorithmic trading in today’s market."
 ---
 

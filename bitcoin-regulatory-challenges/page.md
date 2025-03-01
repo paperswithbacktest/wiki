@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin Regulatory Challenges (Algo Trading)"
+title: "Bitcoin Regulatory Challenges"
 description: "Explore the challenges and insights of Bitcoin regulation and algorithmic trading Discover how these factors shape cryptocurrency market dynamics and investor confidence"
 ---
 

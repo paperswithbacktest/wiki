@@ -1,5 +1,5 @@
 ---
-title: "International Fisher Effect (Algo Trading)"
+title: "International Fisher Effect"
 description: "Explore how the International Fisher Effect theory, merged with algorithmic trading, enhances currency market strategies by predicting exchange rate shifts."
 ---
 

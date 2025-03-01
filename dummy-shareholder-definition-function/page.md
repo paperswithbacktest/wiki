@@ -1,5 +1,5 @@
 ---
-title: "Dummy Shareholder: Definition and Function (Algo Trading)"
+title: "Dummy Shareholder: Definition and Function"
 description: "Explore the complexities of corporate governance with insights into dummy shareholders and algorithmic trading. Understand their impact on transparency and accountability."
 ---
 

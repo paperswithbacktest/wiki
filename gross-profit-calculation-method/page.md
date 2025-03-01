@@ -1,5 +1,5 @@
 ---
-title: "Gross Profit and Calculation Method (Algo Trading)"
+title: "Gross Profit and Calculation Method"
 description: "Discover how gross profit calculation is crucial for algorithmic trading strategies. Enhance profitability with precise metrics and automated trading tools."
 ---
 

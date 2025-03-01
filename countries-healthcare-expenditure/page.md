@@ -1,5 +1,5 @@
 ---
-title: "Countries by Healthcare Expenditure (Algo Trading)"
+title: "Countries by Healthcare Expenditure"
 description: "Explore how countries allocate financial resources to healthcare and the role of algorithmic trading in influencing economic dynamics and healthcare funding."
 ---
 

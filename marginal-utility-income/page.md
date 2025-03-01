@@ -1,5 +1,5 @@
 ---
-title: "Marginal Utility of Income (Algo Trading)"
+title: "Marginal Utility of Income"
 description: "Explore how marginal utility, income dynamics, and algorithmic trading influence modern finance, shaping efficient trading strategies and economic policies."
 ---
 

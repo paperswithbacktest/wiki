@@ -1,5 +1,5 @@
 ---
-title: "Amortized Bonds: Functionality and Examples (Algo Trading)"
+title: "Amortized Bonds: Functionality and Examples"
 description: "Explore the functionality and benefits of amortized bonds in algo trading Discover how structured repayments aid in financial planning and portfolio management."
 ---
 

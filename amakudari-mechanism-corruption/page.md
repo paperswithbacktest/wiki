@@ -1,5 +1,5 @@
 ---
-title: "Amakudari: Definition, Mechanism, and Associated Corruption (Algo Trading)"
+title: "Amakudari: Definition, Mechanism, and Associated Corruption"
 description: "Amakudari involves retired Japanese bureaucrats transitioning to private sector roles, raising concerns of corruption and regulatory bias affecting algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Fundrise Overview 2024 (Algo Trading)"
+title: "Fundrise Overview 2024"
 description: "Explore Fundrise's innovative real estate platform in 2024 featuring algorithmic trading for data-driven investment strategy and enhanced returns in real estate."
 ---
 

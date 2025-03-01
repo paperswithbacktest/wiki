@@ -1,5 +1,5 @@
 ---
-title: "Bear Market Rally: Definition and Examples (Algo Trading)"
+title: "Bear Market Rally: Definition and Examples"
 description: "Explore bear market rallies and algo trading in volatile markets Learn how investors can strategize to navigate challenges and seize opportunities effectively"
 ---
 

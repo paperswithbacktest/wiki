@@ -1,5 +1,5 @@
 ---
-title: "Hedonic Regression (Algo Trading)"
+title: "Hedonic Regression"
 description: "Explore hedonic regression in algorithmic trading to understand economic behaviors. Learn how econometric tools optimize strategies by analyzing market dynamics."
 ---
 

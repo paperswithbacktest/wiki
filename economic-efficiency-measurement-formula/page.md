@@ -1,5 +1,5 @@
 ---
-title: "Economic Efficiency and Measurement Formula (Algo Trading)"
+title: "Economic Efficiency and Measurement Formula"
 description: "Discover how economic efficiency and algorithmic trading intertwine in finance by exploring efficiency formula applications and maximizing resources for success."
 ---
 

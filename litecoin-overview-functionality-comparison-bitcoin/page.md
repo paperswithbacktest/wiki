@@ -1,5 +1,5 @@
 ---
-title: "Litecoin: Overview, Functionality, and Comparison with Bitcoin (Algo Trading)"
+title: "Litecoin: Overview, Functionality, and Comparison with Bitcoin"
 description: "Explore Litecoin and Bitcoin's functionalities and how algorithmic trading enhances crypto trading efficiency with improved speed and precision in volatile markets."
 ---
 

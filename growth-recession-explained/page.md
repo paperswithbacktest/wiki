@@ -1,5 +1,5 @@
 ---
-title: "Growth Recession Explained (Algo Trading)"
+title: "Growth Recession Explained"
 description: "Explore the role of algorithmic trading in managing economic fluctuations such as growth recessions Learn how GDP growth and slowdowns impact market strategies"
 ---
 

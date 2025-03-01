@@ -1,5 +1,5 @@
 ---
-title: "Hedge Fund Registration with the SEC (Algo Trading)"
+title: "Hedge Fund Registration with the SEC"
 description: "Explore SEC registration requirements for hedge funds using algorithmic trading Learn how these factors shape the industry's regulatory and technological landscape"
 ---
 

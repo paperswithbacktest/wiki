@@ -1,5 +1,5 @@
 ---
-title: "Loan-to-Cost Ratio Explanation and Calculation (Algo Trading)"
+title: "Loan-to-Cost Ratio Explanation and Calculation"
 description: "Explore the critical role of the Loan-to-Cost ratio in real estate financing and its integration with algorithmic trading. This article investigates into how the LTC ratio helps assess investment feasibility and risk, while highlighting the innovative integration of technology in real estate investments for optimized decision-making and enhanced portfolio management."
 ---
 

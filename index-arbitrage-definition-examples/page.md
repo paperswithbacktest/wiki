@@ -1,5 +1,5 @@
 ---
-title: "Index Arbitrage: Definition and Examples (Algo Trading)"
+title: "Index Arbitrage: Definition and Examples"
 description: "Discover the intricacies of index arbitrage in algo trading gain insights into how traders exploit market inefficiencies using algorithmic tools for optimal profits."
 ---
 

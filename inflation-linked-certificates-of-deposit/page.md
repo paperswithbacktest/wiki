@@ -1,5 +1,5 @@
 ---
-title: "Inflation-Linked Certificates of Deposit (Algo Trading)"
+title: "Inflation-Linked Certificates of Deposit"
 description: "Explore how inflation-linked CDs and algorithmic trading can manage inflation risks and enhance investments by preserving purchasing power and capital growth."
 ---
 

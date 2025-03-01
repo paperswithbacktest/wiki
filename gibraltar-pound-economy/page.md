@@ -1,5 +1,5 @@
 ---
-title: "Gibraltar Pound and Economy (Algo Trading)"
+title: "Gibraltar Pound and Economy"
 description: "Explore Gibraltar's unique economy blending British and Mediterranean influences with its pivotal industries and the role of the Gibraltar Pound and algorithmic trading."
 ---
 

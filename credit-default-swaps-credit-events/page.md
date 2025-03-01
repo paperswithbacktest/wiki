@@ -1,5 +1,5 @@
 ---
-title: "Credit Default Swaps and Credit Events (Algo Trading)"
+title: "Credit Default Swaps and Credit Events"
 description: "Explore the intricacies of credit default swaps (CDS) and credit events, and discover the role of algorithmic trading in modern financial markets."
 ---
 

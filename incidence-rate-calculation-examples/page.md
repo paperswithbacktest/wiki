@@ -1,5 +1,5 @@
 ---
-title: "Incidence Rate: Calculation and Examples (Algo Trading)"
+title: "Incidence Rate: Calculation and Examples"
 description: "Explore the transformative role of incidence rate calculations in algorithmic trading, a vital metric for predicting market trends and optimizing trading strategies. Gain insights into the frequency of specific trading events to enhance decision-making, manage risk, and improve trading efficiency within this rapidly evolving financial landscape. Master the application of incidence rates to stay ahead in algo trading."
 ---
 

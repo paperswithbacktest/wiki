@@ -1,5 +1,5 @@
 ---
-title: "De Minimis Tax Rule (Algo Trading)"
+title: "De Minimis Tax Rule"
 description: "Learn about the de minimis tax rule and its impact on algorithmic trading strategies. Understand how this rule affects bond taxation and trading optimization."
 ---
 

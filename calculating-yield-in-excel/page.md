@@ -1,5 +1,5 @@
 ---
-title: "Calculating Yield in Excel (Algo Trading)"
+title: "Calculating Yield in Excel"
 description: "Master financial yield calculations using Excel to optimize trading strategies with algorithmic integration Ensure informed investment decisions by leveraging Excel's robust tools."
 ---
 

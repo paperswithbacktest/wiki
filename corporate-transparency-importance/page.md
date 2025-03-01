@@ -1,5 +1,5 @@
 ---
-title: "Corporate Transparency Importance (Algo Trading)"
+title: "Corporate Transparency Importance"
 description: "Corporate transparency in algorithmic trading is crucial for fostering trust. It aligns technology with business ethics and accountability, maintaining market integrity."
 ---
 

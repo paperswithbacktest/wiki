@@ -1,5 +1,5 @@
 ---
-title: "Howey Test and Its Implications for Cryptocurrency (Algo Trading)"
+title: "Howey Test and Its Implications for Cryptocurrency"
 description: "Explore the Howey Test's role in cryptocurrency regulation its impact on algorithmic trading and how it defines investment contracts in the crypto space."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "IEX API Guide (Algo Trading)"
+title: "IEX API Guide"
 description: Explore the transformative impact of IEX APIs for algorithmic trading with insights into their cost-effectiveness real-time data access and robust analytics capabilities that enhance trading strategies and competitive market outcomes.
 ---
 

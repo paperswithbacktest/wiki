@@ -1,5 +1,5 @@
 ---
-title: "Guppy Multiple Moving Average: Formulas and Calculations (Algo Trading)"
+title: "Guppy Multiple Moving Average: Formulas and Calculations"
 description: "Explore the Guppy Multiple Moving Average to understand its role in enhancing trading strategies through trend identification and market momentum analysis."
 ---
 

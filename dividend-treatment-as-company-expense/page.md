@@ -1,5 +1,5 @@
 ---
-title: "Dividend Treatment as a Company Expense (Algo Trading)"
+title: "Dividend Treatment as a Company Expense"
 description: "Explore the relationship between dividends, company expenses, financial accounting, and algorithmic trading to enhance financial strategies and market positioning."
 ---
 

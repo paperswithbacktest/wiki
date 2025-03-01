@@ -1,5 +1,5 @@
 ---
-title: "Decentralized Blockchain-Based Internet (Algo Trading)"
+title: "Decentralized Blockchain-Based Internet"
 description: "Explore how decentralized blockchain technology and algo trading merge to revolutionize internet control and financial transactions fostering security and autonomy."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Condor Spread Strategy and Types (Algo Trading)"
+title: "Condor Spread Strategy and Types"
 description: "Discover the intricacies of the condor spread strategy in algo trading Learn about its types benefits and applications to optimize your investment portfolio"
 ---
 

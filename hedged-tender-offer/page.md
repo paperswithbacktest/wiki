@@ -1,5 +1,5 @@
 ---
-title: "Hedged Tender Offer (Algo Trading)"
+title: "Hedged Tender Offer"
 description: "Explore the synergy between algorithmic trading and hedged tender offer strategies to enhance investment efficiency, manage risk, and optimize profits."
 ---
 

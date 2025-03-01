@@ -1,5 +1,5 @@
 ---
-title: "Maldivian Rufiyaa (Algo Trading)"
+title: "Maldivian Rufiyaa"
 description: "Explore the unique trading opportunities with the Maldivian Rufiyaa using algorithmic trading strategies to navigate market volatility influenced by tourism dynamics."
 ---
 

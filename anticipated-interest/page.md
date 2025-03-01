@@ -1,5 +1,5 @@
 ---
-title: "Anticipated Interest (Algo Trading)"
+title: "Anticipated Interest"
 description: "Discover how changes in interest rates can shape financial strategies and trading decisions in algorithmic trading and economic dynamics."
 ---
 

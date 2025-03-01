@@ -1,5 +1,5 @@
 ---
-title: "Common Stock Funds: Overview and Types (Algo Trading)"
+title: "Common Stock Funds: Overview and Types"
 description: "Explore common stock funds and algorithmic trading to enhance your investment strategy through diversification, cost efficiency, and precision trading."
 ---
 

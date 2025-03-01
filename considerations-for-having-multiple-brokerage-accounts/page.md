@@ -1,5 +1,5 @@
 ---
-title: "Considerations for Having Multiple Brokerage Accounts (Algo Trading)"
+title: "Considerations for Having Multiple Brokerage Accounts"
 description: "Explore the benefits and considerations of having multiple brokerage accounts for algorithmic trading to enhance your investment strategy and financial planning."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Barometer: Functionality and Types (Algo Trading)"
+title: "Barometer: Functionality and Types"
 description: "Discover how barometers, like moving averages, transform algorithmic trading by gauging market trends and predicting economic conditions for informed decisions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Economic Effects of Importing and Exporting (Algo Trading)"
+title: "Economic Effects of Importing and Exporting"
 description: "Explore the economic effects of global trade and algorithmic trading analyzing their impact on GDP employment and market dynamics shaping international trade policies."
 ---
 

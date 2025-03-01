@@ -1,5 +1,5 @@
 ---
-title: "History and Functionality of Kin Cryptocurrency and Its Future (Algo Trading)"
+title: "History and Functionality of Kin Cryptocurrency and Its Future"
 description: "Explore Kin cryptocurrency's role in digital economies with insights into its functionality, history, and the influence of algorithmic trading on its future prospects."
 ---
 

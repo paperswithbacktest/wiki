@@ -1,5 +1,5 @@
 ---
-title: "Meaning of Financial Advisor Designations (Algo Trading)"
+title: "Meaning of Financial Advisor Designations"
 description: "Explore the significance of financial advisor designations such as CFA and CFP in algorithmic trading Discover how these credentials ensure expertise in finance and technology."
 ---
 

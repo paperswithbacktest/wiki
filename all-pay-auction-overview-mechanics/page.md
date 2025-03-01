@@ -1,5 +1,5 @@
 ---
-title: "All-Pay Auction: Overview and Mechanics (Algo Trading)"
+title: "All-Pay Auction: Overview and Mechanics"
 description: "Explore the all-pay auction model where all bidders pay their bids and discover its strategic insights and impact on algorithmic trading strategies."
 ---
 

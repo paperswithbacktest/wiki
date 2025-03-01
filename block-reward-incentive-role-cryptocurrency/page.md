@@ -1,5 +1,5 @@
 ---
-title: "Block Reward and Its Incentive Role in Cryptocurrency (Algo Trading)"
+title: "Block Reward and Its Incentive Role in Cryptocurrency"
 description: "Explore the pivotal role of block rewards in cryptocurrency. Discover how algorithmic trading enhances market efficiency and the evolving dynamics that shape this ecosystem."
 ---
 

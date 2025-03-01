@@ -1,5 +1,5 @@
 ---
-title: "Group One Trading (Algo Trading)"
+title: "Group One Trading"
 description: "Explore Group One Trading's journey in algorithmic trading and discover its innovative strategies that have reshaped modern financial markets."
 ---
 

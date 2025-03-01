@@ -1,5 +1,5 @@
 ---
-title: "Dow Jones 65 Composite Average Overview (Algo Trading)"
+title: "Dow Jones 65 Composite Average Overview"
 description: "Explore the intersection of the Dow Jones 65 Composite Average and algorithmic trading understand its impact on market stability and the future of financial indices."
 ---
 

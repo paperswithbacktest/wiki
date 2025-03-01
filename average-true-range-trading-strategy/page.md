@@ -1,5 +1,5 @@
 ---
-title: "Average True Range (ATR) Trading Strategy Explained (Algo Trading)"
+title: "Average True Range (ATR) Trading Strategy Explained"
 description: Explore the Average True Range (ATR) trading strategy for effective risk management in algorithmic trading. Discover how ATR-based stop-loss techniques adapt to market volatility, providing dynamic protection for your investments. Understand how this pivotal tool helps navigate volatile markets, maximizing trading opportunities while safeguarding capital from unforeseen market movements.
 ---
 

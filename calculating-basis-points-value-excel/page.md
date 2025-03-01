@@ -1,5 +1,5 @@
 ---
-title: "Calculating Basis Points Value in Excel (Algo Trading)"
+title: "Calculating Basis Points Value in Excel"
 description: "Enhance your financial analysis skills by learning how to calculate basis points in Excel, essential for precise algorithmic trading and strategic investment decisions."
 ---
 

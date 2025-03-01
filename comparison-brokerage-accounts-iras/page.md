@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Brokerage Accounts and IRAs (Algo Trading)"
+title: "Comparison of Brokerage Accounts and IRAs"
 description: "Explore the benefits and limitations of brokerage accounts and IRAs for algo trading. Understand key differences, strategies, and insights to enhance your portfolio."
 ---
 

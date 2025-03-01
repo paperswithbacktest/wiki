@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Quick Ratio and Current Ratio (Algo Trading)"
+title: "Comparison of Quick Ratio and Current Ratio"
 description: "Explore the quick and current ratios in algo trading to assess a company's liquidity and make informed investment decisions based on financial health insights."
 ---
 

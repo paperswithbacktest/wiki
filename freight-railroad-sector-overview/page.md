@@ -1,5 +1,5 @@
 ---
-title: "Freight Railroad Sector Overview (Algo Trading)"
+title: "Freight Railroad Sector Overview"
 description: "Explore the freight railroad sector's evolution from the Gilded Age to modern times delving into its economic impact and algorithmic trading opportunities."
 ---
 

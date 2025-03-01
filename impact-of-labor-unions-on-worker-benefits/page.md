@@ -1,5 +1,5 @@
 ---
-title: "Impact of Labor Unions on Worker Benefits (Algo Trading)"
+title: "Impact of Labor Unions on Worker Benefits"
 description: "Explore the impact of labor unions on worker benefits and employment rights amidst the rise of algorithmic trading. Understand the challenges and opportunities."
 ---
 

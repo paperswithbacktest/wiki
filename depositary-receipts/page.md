@@ -1,5 +1,5 @@
 ---
-title: "Depositary Receipts (Algo Trading)"
+title: "Depositary Receipts"
 description: "Explore how depositary receipts and algorithmic trading revolutionize global financial markets enabling streamlined international investments and data-driven trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Current Dividend Preference (Algo Trading)"
+title: "Current Dividend Preference"
 description: "Discover how dividend preferences impact investment strategies and the role of algorithmic trading in optimizing returns amidst evolving financial markets."
 ---
 

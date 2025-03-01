@@ -1,5 +1,5 @@
 ---
-title: "Bankruptcy of Cryptocurrency Exchanges (Algo Trading)"
+title: "Bankruptcy of Cryptocurrency Exchanges"
 description: "Discover the complexities of cryptocurrency exchange insolvencies and the role of algorithmic trading in these dynamics Learn about risks and regulatory challenges"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Financial and Managerial Accounting (Algo Trading)"
+title: "Differences Between Financial and Managerial Accounting"
 description: "Explore the differences between financial and managerial accounting and their roles in algorithmic trading Discover how each contributes to business success."
 ---
 

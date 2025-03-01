@@ -1,5 +1,5 @@
 ---
-title: "Funds From Operations to Total Debt Ratio (Algo Trading)"
+title: "Funds From Operations to Total Debt Ratio"
 description: "Explore the significance of the Funds From Operations to Total Debt ratio in assessing financial health and its role in algorithmic trading for market predictions."
 ---
 

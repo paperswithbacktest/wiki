@@ -1,5 +1,5 @@
 ---
-title: "Foreign Exchange Dealers Association of India (Algo Trading)"
+title: "Foreign Exchange Dealers Association of India"
 description: "Explore the impact of the Foreign Exchange Dealers Association of India on forex algo trading shaping regulatory frameworks and ensuring market stability in India."
 ---
 

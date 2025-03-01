@@ -1,5 +1,5 @@
 ---
-title: "Finex and Intercontinental Exchange: Overview and Functionality (Algo Trading)"
+title: "Finex and Intercontinental Exchange: Overview and Functionality"
 description: "Explore the impact of algorithmic trading and Finex's role in advancing financial markets within ICE highlighting benefits like efficiency and market adaptability."
 ---
 

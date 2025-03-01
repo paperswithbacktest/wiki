@@ -1,5 +1,5 @@
 ---
-title: "Debt-to-Equity Ratio Formula and Interpretation (Algo Trading)"
+title: "Debt-to-Equity Ratio Formula and Interpretation"
 description: "Discover how the debt-to-equity ratio formula reveals a company's financial leverage crucial for investors and algorithmic trading strategies to assess risk and stability."
 ---
 

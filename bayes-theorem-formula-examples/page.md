@@ -1,5 +1,5 @@
 ---
-title: "Bayes' Theorem: Formula and Examples (Algo Trading)"
+title: "Bayes' Theorem: Formula and Examples"
 description: "Explore how Bayes' Theorem enhances algorithmic trading with dynamic probability updates risk assessments and improved decision-making in volatile markets."
 ---
 

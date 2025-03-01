@@ -1,5 +1,5 @@
 ---
-title: "International Securities Association for Institutional Trade Communication (Algo Trading)"
+title: "International Securities Association for Institutional Trade Communication"
 description: "Discover how ISITC shapes efficient global financial markets through robust communication standards and the evolution of algorithmic trading technologies."
 ---
 

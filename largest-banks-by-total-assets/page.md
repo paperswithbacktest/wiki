@@ -1,5 +1,5 @@
 ---
-title: "Largest Banks by Total Assets (Algo Trading)"
+title: "Largest Banks by Total Assets"
 description: "Explore the evolution of the global banking industry as major banks leverage algorithmic trading to enhance financial strategies and asset management. Discover how leading institutions with substantial assets like JPMorgan Chase and ICBC use advanced algorithms for precision, efficiency, and risk mitigation. This article reveals the synergy between algo trading and asset management in shaping modern banking strategies."
 ---
 

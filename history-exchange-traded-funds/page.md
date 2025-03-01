@@ -1,5 +1,5 @@
 ---
-title: "History of Exchange-Traded Funds (Algo Trading)"
+title: "History of Exchange-Traded Funds"
 description: "Explore the transformative journey of ETFs and algorithmic trading in modern finance uncovering their impact on global markets and investment strategies."
 ---
 

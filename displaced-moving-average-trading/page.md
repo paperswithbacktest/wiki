@@ -1,5 +1,5 @@
 ---
-title: "Displaced Moving Average in Trading (Algo Trading)"
+title: "Displaced Moving Average in Trading"
 description: "Explore the Displaced Moving Average in algo trading to enhance strategies by offering advanced signals and timely insights for market analysis and decision-making."
 ---
 

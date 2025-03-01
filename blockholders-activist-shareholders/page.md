@@ -1,5 +1,5 @@
 ---
-title: "Blockholders and Activist Shareholders (Algo Trading)"
+title: "Blockholders and Activist Shareholders"
 description: "Explore the complex interactions between blockholders, activist shareholders, and algorithmic trading. Discover their impact on corporate governance and market dynamics."
 ---
 

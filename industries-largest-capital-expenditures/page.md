@@ -1,5 +1,5 @@
 ---
-title: "Industries with the Largest Capital Expenditures (Algo Trading)"
+title: "Industries with the Largest Capital Expenditures"
 description: "Discover industries leading in capital expenditures leveraging algorithmic trading to optimize investments enhance returns and maintain competitive advantages"
 ---
 

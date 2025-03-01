@@ -1,5 +1,5 @@
 ---
-title: "Impact of the Substitution Effect on Consumers (Algo Trading)"
+title: "Impact of the Substitution Effect on Consumers"
 description: "Explore the impact of the substitution effect on consumer behavior and its implications for algorithmic trading Understand how economic theories enhance market strategies."
 ---
 

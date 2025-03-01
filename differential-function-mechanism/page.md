@@ -1,5 +1,5 @@
 ---
-title: "Differential: Function and Mechanism (Algo Trading)"
+title: "Differential: Function and Mechanism"
 description: "Explore the function and mechanisms of algorithmic trading including the role of differentials in futures contracts and the impact of reinforcement learning."
 ---
 

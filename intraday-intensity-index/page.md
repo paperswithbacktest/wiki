@@ -1,5 +1,5 @@
 ---
-title: "Intraday Intensity Index (Algo Trading)"
+title: "Intraday Intensity Index"
 description: "Explore intraday intensity in financial index trading, where trading metrics merge with algorithmic strategies to harness market dynamics and enhance performance."
 ---
 

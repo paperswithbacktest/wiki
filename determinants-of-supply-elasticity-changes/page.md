@@ -1,5 +1,5 @@
 ---
-title: "Determinants of Supply Elasticity Changes (Algo Trading)"
+title: "Determinants of Supply Elasticity Changes"
 description: "Explore how production capacity, resource availability, and technology impact supply elasticity and how algorithmic trading leverages these insights for competitive advantage."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Management of Bull Put Option Spreads (Algo Trading)"
+title: "Management of Bull Put Option Spreads"
 description: "Explore effective bull put option spread strategies and algorithmic trading to optimize investment outcomes. Learn how to manage risk and enhance returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bias (Algo Trading)"
+title: "Bias"
 description: Explore the intricacies of bias in algorithmic trading to understand its challenges and learn strategies for mitigation. Discover how subtle human biases can infiltrate data-driven trading models, affecting decisions and performance. This article investigates into cognitive biases and offers actionable insights for traders to enhance their algorithmic systems, ensuring precision and market adaptability while maintaining financial integrity.
 ---
 

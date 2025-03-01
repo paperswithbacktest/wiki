@@ -1,5 +1,5 @@
 ---
-title: "Cross Trading in Financial Markets (Algo Trading)"
+title: "Cross Trading in Financial Markets"
 description: "Explore the complexities and efficiencies of cross trading in financial markets without centralized exchanges focusing on benefits, risks, and regulatory aspects."
 ---
 

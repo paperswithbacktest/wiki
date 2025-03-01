@@ -1,5 +1,5 @@
 ---
-title: "Liquidity Gap: Overview and Examples (Algo Trading)"
+title: "Liquidity Gap: Overview and Examples"
 description: "Explore liquidity gaps and algorithmic trading with insights into their influence on financial markets Understand how these concepts impact trading strategies and risk management"
 ---
 

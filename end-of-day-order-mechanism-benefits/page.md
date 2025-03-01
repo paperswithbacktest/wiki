@@ -1,5 +1,5 @@
 ---
-title: "End of Day Order: Mechanism and Benefits (Algo Trading)"
+title: "End of Day Order: Mechanism and Benefits"
 description: "Discover the benefits and mechanisms of end-of-day orders in algorithmic trading and learn how these strategies can enhance your financial market investments."
 ---
 

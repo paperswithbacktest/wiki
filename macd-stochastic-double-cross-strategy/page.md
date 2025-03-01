@@ -1,5 +1,5 @@
 ---
-title: "MACD and Stochastic Double-Cross Strategy (Algo Trading)"
+title: "MACD and Stochastic Double-Cross Strategy"
 description: "Enhance your trading strategy by combining the MACD and stochastic oscillator for robust buy and sell signals through dual confirmation, reducing false signals."
 ---
 

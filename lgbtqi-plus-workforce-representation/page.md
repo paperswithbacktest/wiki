@@ -1,5 +1,5 @@
 ---
-title: "LGBTQI+ Workforce Representation (Algo Trading)"
+title: "LGBTQI+ Workforce Representation"
 description: "Explore the importance of fostering LGBTQI+ representation in algorithmic trading to drive innovation address challenges and enhance workforce diversity and inclusion."
 ---
 

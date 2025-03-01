@@ -1,5 +1,5 @@
 ---
-title: "BOBL Futures Contract (Algo Trading)"
+title: "BOBL Futures Contract"
 description: "Discover the intricacies of BOBL futures, medium-term German government bond contracts, and how algorithmic trading enhances speed and efficiency in trading."
 ---
 

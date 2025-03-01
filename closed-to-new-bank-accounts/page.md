@@ -1,5 +1,5 @@
 ---
-title: "Closed To New Bank Accounts (Algo Trading)"
+title: "Closed To New Bank Accounts"
 description: "Explore the impact of bank account closures on financial strategies with a focus on algorithmic trading Discover risk mitigation and innovative solutions to stay resilient"
 ---
 

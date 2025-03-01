@@ -1,5 +1,5 @@
 ---
-title: "Cash on Delivery (Algo Trading)"
+title: "Cash on Delivery"
 description: "Explore the intricate dynamics between cash on delivery and algorithmic trading Learn how traditional payment methods impact modern trading strategies and liquidity"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Capital Pool Company: Overview and Operations (Algo Trading)"
+title: "Capital Pool Company: Overview and Operations"
 description: "Discover how Capital Pool Companies simplify IPOs for emerging businesses in Canada uniting CPCs with algorithmic trading for seamless financial market access."
 ---
 

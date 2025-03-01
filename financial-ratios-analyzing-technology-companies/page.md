@@ -1,5 +1,5 @@
 ---
-title: "Financial Ratios for Analyzing Technology Companies (Algo Trading)"
+title: "Financial Ratios for Analyzing Technology Companies"
 description: "Explore key financial ratios crucial for analyzing tech companies and their integration into algorithmic trading to enhance investment strategies in volatile markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "High-Frequency Trading: Mechanisms and Examples (Algo Trading)"
+title: "High-Frequency Trading: Mechanisms and Examples"
 description: "Discover the mechanisms and examples of high-frequency trading in this detailed exploration Learn how HFT strategies capitalize on speed and precision in financial markets"
 ---
 

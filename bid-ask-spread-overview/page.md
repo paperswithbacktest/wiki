@@ -1,5 +1,5 @@
 ---
-title: "Bid-Ask Spread Overview (Algo Trading)"
+title: "Bid-Ask Spread Overview"
 description: "This page provides an essential overview of the bid-ask spread within financial markets and its significant role in algorithmic trading. It explains how the bid-ask spread, which is the price difference between what buyers are willing to pay and what sellers accept, impacts market liquidity and trading efficiency. The article explores how algorithmic trading leverages advanced algorithms to optimize this spread, enhancing trading precision and market operations. By delving into the nuances of bid-ask spreads and the influence of tech innovations, traders can strategically navigate modern trading environments for better trading performance."
 ---
 

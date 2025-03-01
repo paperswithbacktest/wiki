@@ -1,5 +1,5 @@
 ---
-title: "Ifo Business Climate Survey: Overview and Functionality (Algo Trading)"
+title: "Ifo Business Climate Survey: Overview and Functionality"
 description: "Explore how the Ifo Business Climate Index informs algorithmic trading and economic strategies by offering valuable insights into German business sentiment and expectations."
 ---
 

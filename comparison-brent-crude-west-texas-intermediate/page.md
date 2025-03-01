@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Brent Crude and West Texas Intermediate (Algo Trading)"
+title: "Comparison of Brent Crude and West Texas Intermediate"
 description: "Compare Brent Crude and West Texas Intermediate oil benchmarks Understand their roles in global markets and how algorithmic trading impacts oil trading dynamics"
 ---
 

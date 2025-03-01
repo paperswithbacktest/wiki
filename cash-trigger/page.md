@@ -1,5 +1,5 @@
 ---
-title: "Cash Trigger (Algo Trading)"
+title: "Cash Trigger"
 description: "Optimize your investment strategy by integrating cash flow analysis with algorithmic trading Financial triggers automate decisions to enhance precision and returns"
 ---
 

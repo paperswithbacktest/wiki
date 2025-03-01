@@ -1,5 +1,5 @@
 ---
-title: "Basics of S&P 500 Price Progression Trading (Algo Trading)"
+title: "Basics of S&P 500 Price Progression Trading"
 description: "Explore the foundations of S&P 500 price progression trading and discover algorithmic strategies to optimize trading decisions and capitalize on market trends."
 ---
 

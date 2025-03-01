@@ -1,5 +1,5 @@
 ---
-title: "Disclosure in Business (Algo Trading)"
+title: "Disclosure in Business"
 description: "Explore the critical role of disclosure in business communication and algorithmic trading highlighting the importance of transparency and proper regulatory compliance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Boomernomics: Concept, Mechanisms, and Examples (Algo Trading)"
+title: "Boomernomics: Concept, Mechanisms, and Examples"
 description: "Explore Boomernomics where Baby Boomer economics intersect with algorithmic trading Learn how their influence shapes markets and investment strategies"
 ---
 

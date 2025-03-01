@@ -1,5 +1,5 @@
 ---
-title: "Liquidity and Measurement (Algo Trading)"
+title: "Liquidity and Measurement"
 description: "Explore liquidity, financial measurement, and algorithmic trading. Understand their roles in enabling efficient, informed, and innovative financial market operations."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Margin Buying: Methods, Risks, and Benefits (Algo Trading)"
+title: "Margin Buying: Methods, Risks, and Benefits"
 description: "Explore margin buying and algorithmic trading in this comprehensive guide. Learn the methods, risks, and benefits of these investment strategies today."
 ---
 

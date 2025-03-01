@@ -1,5 +1,5 @@
 ---
-title: "Impact of Dividends on Stockholder Equity (Algo Trading)"
+title: "Impact of Dividends on Stockholder Equity"
 description: "Explore how dividends impact stockholder equity and algorithmic trading Learn how these elements shape company financials and influence investment strategies"
 ---
 

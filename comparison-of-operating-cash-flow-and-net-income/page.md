@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Operating Cash Flow and Net Income (Algo Trading)"
+title: "Comparison of Operating Cash Flow and Net Income"
 description: "Explore the relationship between operating cash flow and net income and their impact on algorithmic trading to enhance investment strategies and financial analysis."
 ---
 

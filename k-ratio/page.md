@@ -1,5 +1,5 @@
 ---
-title: "K-Ratio Explained (Algo Trading)"
+title: "K-Ratio Explained"
 description: Explore the K-ratio, a key performance metric in algorithmic trading, which assesses the growth and consistency of returns to help evaluate trading strategies. This comprehensive guide investigates into its calculation and significance, revealing insights into risk-adjusted performance and aiding traders in strategy enhancement by balancing risk and reward effectively.
 ---
 

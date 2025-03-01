@@ -1,5 +1,5 @@
 ---
-title: "Face Value and Market Value in Finance (Algo Trading)"
+title: "Face Value and Market Value in Finance"
 description: "Explore the essentials of face value and market value in finance alongside algorithmic trading Discover how these elements shape investment strategies and market dynamics"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Impact of Corporate Events on Stock and Bond Values (Algo Trading)"
+title: "Impact of Corporate Events on Stock and Bond Values"
 description: "Explore how corporate events impact stock and bond values, and how algorithmic trading exploits these effects to optimize investment strategies."
 ---
 

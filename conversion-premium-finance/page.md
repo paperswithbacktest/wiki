@@ -1,5 +1,5 @@
 ---
-title: "Conversion Premium in Finance (Algo Trading)"
+title: "Conversion Premium in Finance"
 description: "Explore the benefits of convertible bonds in your investment portfolio including income and equity features, while leveraging algorithmic trading for optimized returns."
 ---
 

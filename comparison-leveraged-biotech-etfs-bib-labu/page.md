@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Leveraged Biotech ETFs: BIB and LABU (Algo Trading)"
+title: "Comparison of Leveraged Biotech ETFs: BIB and LABU"
 description: "Compare BIB and LABU to understand leveraged biotech ETFs Their different strategies offer unique opportunities and risks in the dynamic biotechnology sector"
 ---
 

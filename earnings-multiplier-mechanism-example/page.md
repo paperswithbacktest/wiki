@@ -1,5 +1,5 @@
 ---
-title: "Earnings Multiplier: Mechanism and Example (Algo Trading)"
+title: "Earnings Multiplier: Mechanism and Example"
 description: "Explore how earnings multiplier analysis enhances algorithmic trading decisions by optimizing trade precision and efficiency for informed stock valuation insights."
 ---
 

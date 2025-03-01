@@ -1,5 +1,5 @@
 ---
-title: "Abacus: Usage and Modern Applications (Algo Trading)"
+title: "Abacus: Usage and Modern Applications"
 description: "Explore the historical and contemporary relevance of the abacus as a tactile counting tool and its fascinating connection to modern algorithmic trading. This page investigates into the abacus's enduring role in education and accessibility while revealing the parallels it shares with algo trading in enhancing mathematical skills and financial strategies. Discover how ancient counting methods inform today's digital trading innovations, illustrating the synergy between tradition and technology."
 ---
 

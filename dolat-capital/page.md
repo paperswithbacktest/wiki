@@ -1,5 +1,5 @@
 ---
-title: "Dolat Capital (Algo Trading)"
+title: "Dolat Capital"
 description: "Explore Dolat Capital's transformation of modern finance with pioneering algorithmic trading. Learn how they utilize cutting-edge technology for superior market performance."
 ---
 

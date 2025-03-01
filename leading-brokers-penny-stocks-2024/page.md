@@ -1,5 +1,5 @@
 ---
-title: "Leading Brokers for Penny Stocks in 2024 (Algo Trading)"
+title: "Leading Brokers for Penny Stocks in 2024"
 description: "Explore leading brokers for penny stocks in 2024 focusing on algo trading strategies to enhance profits while mitigating risk in this volatile market."
 ---
 

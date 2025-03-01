@@ -1,5 +1,5 @@
 ---
-title: "Cash Return on Assets Ratio (Algo Trading)"
+title: "Cash Return on Assets Ratio"
 description: "Explore the significance of the Cash Return on Assets (CROA) ratio in financial analysis and algorithmic trading See how it aids in assessing cash efficiency"
 ---
 

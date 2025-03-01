@@ -1,5 +1,5 @@
 ---
-title: "Causes of Money Market Fund NAV Deviation (Algo Trading)"
+title: "Causes of Money Market Fund NAV Deviation"
 description: "Dive into the causes of money market fund NAV deviations with algorithmic trading. Discover risks, benefits, and historical impacts on fund stability."
 ---
 

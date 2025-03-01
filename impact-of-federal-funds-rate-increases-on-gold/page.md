@@ -1,5 +1,5 @@
 ---
-title: "Impact of Federal Funds Rate Increases on Gold (Algo Trading)"
+title: "Impact of Federal Funds Rate Increases on Gold"
 description: "Explore the complex relationship between Federal Funds Rate hikes and gold prices, considering the roles of monetary policy, algorithmic trading, and investor sentiment."
 ---
 

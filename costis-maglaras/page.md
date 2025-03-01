@@ -1,5 +1,5 @@
 ---
-title: "Costis Maglaras (Algo Trading)"
+title: "Costis Maglaras"
 description: "Explore the profound contributions of Costis Maglaras in financial technology and algorithmic trading as Dean of Columbia Business School and noted researcher."
 ---
 

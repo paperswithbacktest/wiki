@@ -1,5 +1,5 @@
 ---
-title: "Base Year Analysis: Function and Examples (Algo Trading)"
+title: "Base Year Analysis: Function and Examples"
 description: "Understand the role of base year analysis and algorithmic trading in financial strategies Gain insights into economic indicators and optimize investments"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Market Neutral Fund: Overview and Mechanism (Algo Trading)"
+title: "Market Neutral Fund: Overview and Mechanism"
 description: "Explore market neutral funds and how they deliver consistent returns independent of market trends using algorithmic trading strategies to diversify risk and stabilize gains."
 ---
 

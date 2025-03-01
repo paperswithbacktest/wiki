@@ -1,5 +1,5 @@
 ---
-title: "Investors Intelligence Sentiment Index Explained (Algo Trading)"
+title: "Investors Intelligence Sentiment Index Explained"
 description: Discover how the Investors Intelligence Sentiment Index influences algorithmic trading strategies by measuring investor sentiment. Learn how these insights help traders predict market movements, adapt strategies, and navigate financial markets with precision. Understanding the balance of bullish and bearish sentiments is essential for refining trading approaches and enhancing predictive capabilities, making sentiment analysis a key component of successful algorithmic trading.
 ---
 

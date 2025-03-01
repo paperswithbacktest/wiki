@@ -1,5 +1,5 @@
 ---
-title: "ISEE Sentiment Indicator (Algo Trading)"
+title: "ISEE Sentiment Indicator"
 description: "Explore the ISEE Sentiment Indicator's unique approach to gauging market trends through retail investor behavior and its integration in algorithmic trading strategies."
 ---
 

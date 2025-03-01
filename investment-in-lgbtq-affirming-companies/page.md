@@ -1,5 +1,5 @@
 ---
-title: "Investment in LGBTQ+ Affirming Companies (Algo Trading)"
+title: "Investment in LGBTQ+ Affirming Companies"
 description: "Explore the power of ethical investing in LGBTQ+ affirming companies using algorithmic trading to achieve financial returns while promoting inclusivity and equality."
 ---
 

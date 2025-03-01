@@ -1,5 +1,5 @@
 ---
-title: "Infinium Capital Management Overview (Algo Trading)"
+title: "Infinium Capital Management Overview"
 description: "Discover Infinium Capital Management's transformative journey in innovative algorithmic trading and asset management, setting industry standards since 2001 from Chicago and New York."
 ---
 

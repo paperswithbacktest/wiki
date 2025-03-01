@@ -1,5 +1,5 @@
 ---
-title: "Execution Overview (Algo Trading)"
+title: "Execution Overview"
 description: "Explore the transformative world of algorithmic trading, where sophisticated computer algorithms execute trades with unmatched speed and precision. This comprehensive overview highlights how algo-trading optimizes strategies through data-driven insights, enhances market efficiency, and minimizes human error. Delve into high-frequency trading and its market implications, and understand algorithmic trading's role in reshaping financial markets by automating decision-making to offer traders a strategic edge."
 ---
 

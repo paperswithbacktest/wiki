@@ -1,5 +1,5 @@
 ---
-title: "Clean Float: Mechanism and Limitations (Algo Trading)"
+title: "Clean Float: Mechanism and Limitations"
 description: "Explore the dynamics of clean float exchange rates in the currency market highlighting their advantages and limitations amid the rise of algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Applying GAAP to Inventory Reserves (Algo Trading)"
+title: "Applying GAAP to Inventory Reserves"
 description: "Explore how GAAP's inventory reserve application and algorithmic trading intersect in finance to ensure accuracy and strategic financial management."
 ---
 

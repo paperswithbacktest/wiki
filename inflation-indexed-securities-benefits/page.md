@@ -1,5 +1,5 @@
 ---
-title: "Inflation-Indexed Securities and Their Benefits (Algo Trading)"
+title: "Inflation-Indexed Securities and Their Benefits"
 description: "Explore the advantages of inflation-indexed securities and algorithmic trading Discover how these tools protect against inflation and enhance trading efficiency"
 ---
 

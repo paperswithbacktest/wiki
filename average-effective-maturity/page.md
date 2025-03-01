@@ -1,5 +1,5 @@
 ---
-title: "Average Effective Maturity (Algo Trading)"
+title: "Average Effective Maturity"
 description: "Explore effective maturity in bond investing and how algorithmic trading enhances strategies like bond ladders. Optimize returns while managing risks efficiently."
 ---
 

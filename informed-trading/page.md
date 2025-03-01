@@ -1,5 +1,5 @@
 ---
-title: "informed trading (Algo Trading)"
+title: "informed trading"
 description: "Explore the world of informed trading with algorithmic trading, a tech-driven approach that enhances market efficiency, reduces human error, and boosts precision."
 ---
 

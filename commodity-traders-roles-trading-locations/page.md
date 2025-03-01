@@ -1,5 +1,5 @@
 ---
-title: "Commodity Traders: Roles and Trading Locations (Algo Trading)"
+title: "Commodity Traders: Roles and Trading Locations"
 description: "Explore the world of commodity trading and uncover how algorithmic trading is transforming this dynamic market and shaping the roles of traders and major exchanges."
 ---
 

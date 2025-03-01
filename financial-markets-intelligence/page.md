@@ -1,5 +1,5 @@
 ---
-title: "Financial Markets Intelligence (Algo Trading)"
+title: "Financial Markets Intelligence"
 description: "Unlock the potential of financial markets with the speed and precision of algorithmic trading and stay ahead in the rapidly changing landscape of finance."
 ---
 

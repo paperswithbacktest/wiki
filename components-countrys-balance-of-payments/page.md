@@ -1,5 +1,5 @@
 ---
-title: "Components of a Country's Balance of Payments (Algo Trading)"
+title: "Components of a Country's Balance of Payments"
 description: "Explore the intricate relationship between a country's balance of payments and algorithmic trading within global finance, showcasing economic stability and trade dynamics."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Free Cash Flow Per Share: Overview and Calculations (Algo Trading)"
+title: "Free Cash Flow Per Share: Overview and Calculations"
 description: "Discover the importance of Free Cash Flow and Cash Flow per Share for assessing a company's financial health and making informed algo trading decisions."
 ---
 

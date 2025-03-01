@@ -1,5 +1,5 @@
 ---
-title: "Closed Loop MRP: Definition and Functionality (Algo Trading)"
+title: "Closed Loop MRP: Definition and Functionality"
 description: "Explore how Closed Loop MRP systems, with their feedback-driven adaptability, can enhance algorithmic trading strategies through improved resource optimization and real-time adjustments."
 ---
 

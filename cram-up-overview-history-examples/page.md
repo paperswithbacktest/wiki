@@ -1,5 +1,5 @@
 ---
-title: "Cram Up: Overview, Historical Context, and Examples (Algo Trading)"
+title: "Cram Up: Overview, Historical Context, and Examples"
 description: "Discover effective study habits and explore the historical evolution of educational strategies, enriched by algorithmic trading concepts to enhance learning efficiency."
 ---
 

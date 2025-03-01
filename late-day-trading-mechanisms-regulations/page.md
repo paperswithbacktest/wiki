@@ -1,5 +1,5 @@
 ---
-title: "Late-Day Trading: Mechanisms and Regulations (Algo Trading)"
+title: "Late-Day Trading: Mechanisms and Regulations"
 description: "Explore the world of late-day trading and regulations in algorithmic trading understand mechanisms involved legal aspects and impact on market integrity."
 ---
 

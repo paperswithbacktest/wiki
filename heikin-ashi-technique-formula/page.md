@@ -1,5 +1,5 @@
 ---
-title: "Heikin-Ashi Technique and Formula (Algo Trading)"
+title: "Heikin-Ashi Technique and Formula"
 description: "Discover the Heikin-Ashi technique for algorithmic trading Learn how this method smooths price data enabling clearer trend identification and enhanced strategy formulation"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Benchmark for Correlation Values (Algo Trading)"
+title: "Benchmark for Correlation Values"
 description: "Explore the vital role of correlation analysis in algorithmic trading uncovering essential benchmarks and statistical methods for optimizing strategies and managing risk."
 ---
 

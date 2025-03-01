@@ -1,5 +1,5 @@
 ---
-title: "Economics as a Science (Algo Trading)"
+title: "Economics as a Science"
 description: "Explore the fascinating intersection of economics and algorithmic trading Discover how economic theories shape trading strategies and insights in financial markets"
 ---
 

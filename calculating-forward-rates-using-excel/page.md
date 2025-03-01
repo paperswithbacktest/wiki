@@ -1,5 +1,5 @@
 ---
-title: "Calculating Forward Rates Using Excel (Algo Trading)"
+title: "Calculating Forward Rates Using Excel"
 description: "Master forward rate calculations in Excel, essential for predicting future interest rates in finance. Enhance trading strategies by leveraging Excel's powerful tools."
 ---
 

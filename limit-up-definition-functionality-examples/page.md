@@ -1,5 +1,5 @@
 ---
-title: "Limit Up: Definition and Functionality with Examples (Algo Trading)"
+title: "Limit Up: Definition and Functionality with Examples"
 description: "Discover the functionality and benefits of the "limit up" trading mechanism Essential for stabilizing markets and vital for effective algorithmic trading strategies"
 ---
 

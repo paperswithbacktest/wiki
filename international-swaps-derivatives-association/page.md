@@ -1,5 +1,5 @@
 ---
-title: "International Swaps and Derivatives Association (Algo Trading)"
+title: "International Swaps and Derivatives Association"
 description: "Explore the transformative impact of algorithmic trading on derivatives markets and how ISDA's frameworks enhance market stability and operational efficiency."
 ---
 

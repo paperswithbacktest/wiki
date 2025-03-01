@@ -1,5 +1,5 @@
 ---
-title: "Forex Associations: Function and Mechanisms (Algo Trading)"
+title: "Forex Associations: Function and Mechanisms"
 description: "Explore the dynamic intersection of forex associations and algorithmic trading in the global forex market. Understand how these professional bodies enhance market standards and ethics while algorithmic trading reshapes trading strategies, offering precision and speed. Delve into the roles of entities like ACI FMA in promoting industry standards and the FX Global Code to ensure transparency and integrity. Discover the educational and networking benefits provided by forex associations to support professional growth and market innovation."
 ---
 

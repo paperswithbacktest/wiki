@@ -1,5 +1,5 @@
 ---
-title: "Antitrust Laws (Algo Trading)"
+title: "Antitrust Laws"
 description: "Explore how antitrust laws address the challenges of monopoly behavior and competitive practices in the rapidly advancing world of algorithmic trading and pricing."
 ---
 

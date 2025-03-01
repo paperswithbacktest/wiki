@@ -1,5 +1,5 @@
 ---
-title: "Industry Classification Codes (Algo Trading)"
+title: "Industry Classification Codes"
 description: "Explore the role of industry classification codes like SIC and NAICS in algorithmic trading. Discover how these codes enhance precision in market analysis and trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Extended Trading: Mechanics, Risks, and Timing (Algo Trading)"
+title: "Extended Trading: Mechanics, Risks, and Timing"
 description: "Explore the nuances of extended trading, its timing, risks, and the role of algorithmic strategies crucial for seizing opportunities in today’s evolving markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Causes of Bitcoin Volatility (Algo Trading)"
+title: "Causes of Bitcoin Volatility"
 description: "Explore Bitcoin's notorious volatility and how algorithmic trading offers strategic opportunities to harness market fluctuations for potential gains."
 ---
 

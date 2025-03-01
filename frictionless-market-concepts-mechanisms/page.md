@@ -1,5 +1,5 @@
 ---
-title: "Frictionless Market: Concepts and Mechanisms (Algo Trading)"
+title: "Frictionless Market: Concepts and Mechanisms"
 description: "Explore the interplay between frictionless market concepts and algorithmic trading in modern finance Understanding market dynamics and optimizing trade efficiencies"
 ---
 

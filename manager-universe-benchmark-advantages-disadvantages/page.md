@@ -1,5 +1,5 @@
 ---
-title: "Manager Universe Benchmark: Advantages and Disadvantages (Algo Trading)"
+title: "Manager Universe Benchmark: Advantages and Disadvantages"
 description: "Explore the impact of manager universe benchmarks in algo trading uncovering their advantages and disadvantages for investment performance evaluation."
 ---
 

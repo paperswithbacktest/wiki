@@ -1,5 +1,5 @@
 ---
-title: "Group of Twenty: Member Countries, Influence, and Agenda (Algo Trading)"
+title: "Group of Twenty: Member Countries, Influence, and Agenda"
 description: "Explore how the G20's influential policies impact algorithmic trading and contribute to global economic stability while navigating modern financial market challenges."
 ---
 

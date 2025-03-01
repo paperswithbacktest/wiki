@@ -1,5 +1,5 @@
 ---
-title: "GPU Utilization in Cryptocurrency Mining (Algo Trading)"
+title: "GPU Utilization in Cryptocurrency Mining"
 description: "Explore how GPU utilization boosts cryptocurrency mining efficiency and enhances algorithmic trading strategies offering insights into the crypto economy's backbone."
 ---
 

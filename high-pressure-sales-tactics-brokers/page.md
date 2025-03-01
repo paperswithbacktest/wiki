@@ -1,5 +1,5 @@
 ---
-title: "High-Pressure Sales Tactics Used by Brokers (Algo Trading)"
+title: "High-Pressure Sales Tactics Used by Brokers"
 description: "Discover how brokers employ high-pressure sales tactics and exploit algorithmic trading to manipulate investors while circumventing ethical standards. Stay informed and vigilant."
 ---
 

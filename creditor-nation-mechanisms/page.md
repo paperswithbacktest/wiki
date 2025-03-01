@@ -1,5 +1,5 @@
 ---
-title: "Creditor Nation and Its Mechanisms (Algo Trading)"
+title: "Creditor Nation and Its Mechanisms"
 description: "Explore the influence of creditor nations in global trade and the role of algorithmic trading in enhancing their market power and economic stability."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Adjudication: Process, Applications, and Examples (Algo Trading)"
+title: "Adjudication: Process, Applications, and Examples"
 description: "Explore the intersection of legal adjudication and algorithmic trading in today's financial markets, emphasizing the importance of understanding their interplay to maintain market integrity. Discover how adjudication addresses disputes arising from high-speed, automated trades and enhances compliance. Learn about leveraging technologies like blockchain and AI to improve adjudication processes, ensuring a transparent and equitable trading environment. This article highlights the significant convergence of these domains, providing insights for investors, regulators, and financial professionals to adapt in a rapidly evolving landscape."
 ---
 

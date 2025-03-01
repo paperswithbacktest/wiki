@@ -1,5 +1,5 @@
 ---
-title: "Market Disruption and Mechanisms (Algo Trading)"
+title: "Market Disruption and Mechanisms"
 description: "Explore how market disruption and algorithmic trading reshape industries in this insightful piece. Learn how innovation fuels new business models and technologies."
 ---
 

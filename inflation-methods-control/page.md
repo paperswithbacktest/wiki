@@ -1,5 +1,5 @@
 ---
-title: "Inflation and Methods of Control (Algo Trading)"
+title: "Inflation and Methods of Control"
 description: "Explore the complexities of inflation and its control methods in modern financial contexts. Understand the different types of inflation, including demand-pull, cost-push, and built-in, alongside their economic implications. Discover how monetary and fiscal policies can be strategically crafted to mitigate inflationary pressures, ensuring economic stability and growth. Learn how algorithmic trading offers innovative solutions to predict and adapt to market fluctuations caused by inflation, enhancing investment strategies and financial decision-making in an ever-changing economic landscape."
 ---
 

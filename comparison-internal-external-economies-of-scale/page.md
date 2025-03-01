@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Internal and External Economies of Scale (Algo Trading)"
+title: "Comparison of Internal and External Economies of Scale"
 description: "Understand the role of internal and external economies of scale in algorithmic trading and how they influence strategies and market performance in this evolving field."
 ---
 

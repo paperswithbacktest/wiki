@@ -1,5 +1,5 @@
 ---
-title: "Books by John Bogle, Creator of Index Funds (Algo Trading)"
+title: "Books by John Bogle, Creator of Index Funds"
 description: "Explore the impactful books of John Bogle, the pioneer of index funds, and discover his insights on low-cost investing strategies for long-term success."
 ---
 

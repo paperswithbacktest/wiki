@@ -1,5 +1,5 @@
 ---
-title: "Instantaneous impact (Algo Trading)"
+title: "Instantaneous impact"
 description: "Explore how instantaneous impact affects algorithmic trading strategies and market dynamics Understand its role in optimizing trade execution and minimizing costs"
 ---
 

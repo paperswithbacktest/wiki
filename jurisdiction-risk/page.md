@@ -1,5 +1,5 @@
 ---
-title: "Jurisdiction Risk (Algo Trading)"
+title: "Jurisdiction Risk"
 description: "Explore the legal jurisdiction risks in algorithmic trading Learn how varying regulations impact profitability and compliance on global trading platforms"
 ---
 

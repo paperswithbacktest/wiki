@@ -1,5 +1,5 @@
 ---
-title: "Growth Accounting Methods and Calculations (Algo Trading)"
+title: "Growth Accounting Methods and Calculations"
 description: "Explore growth accounting methods and calculations in algorithmic trading, highlighting how GDP metrics inform trading strategies and enhance investment decisions."
 ---
 

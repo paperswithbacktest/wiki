@@ -1,5 +1,5 @@
 ---
-title: "Fintech Companies Transforming Real Estate (Algo Trading)"
+title: "Fintech Companies Transforming Real Estate"
 description: "Discover how fintech companies are revolutionizing real estate with cutting-edge algorithmic trading, leveraging AI and machine learning to streamline processes, reduce inefficiencies, and open new investment opportunities while enhancing market efficiency and transparency."
 ---
 

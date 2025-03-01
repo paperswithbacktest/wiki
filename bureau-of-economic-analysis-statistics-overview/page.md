@@ -1,5 +1,5 @@
 ---
-title: "Bureau of Economic Analysis: Statistics and Overview (Algo Trading)"
+title: "Bureau of Economic Analysis: Statistics and Overview"
 description: "Explore how Bureau of Economic Analysis data fuels algorithmic trading strategies for informed market decisions and economic insights with precision and speed."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Asset Classes: Beyond Stocks and Bonds (Algo Trading)"
+title: "Asset Classes: Beyond Stocks and Bonds"
 description: "Explore the evolving world of asset classes beyond traditional stocks and bonds through algorithmic trading strategies for portfolio diversification and risk management."
 ---
 

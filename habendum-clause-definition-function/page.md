@@ -1,5 +1,5 @@
 ---
-title: "Habendum Clause: Definition and Function (Algo Trading)"
+title: "Habendum Clause: Definition and Function"
 description: "The habendum clause in real estate contracts outlines property rights transfer making it essential for clarity in ownership and any conditions attached."
 ---
 

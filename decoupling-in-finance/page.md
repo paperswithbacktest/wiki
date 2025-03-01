@@ -1,5 +1,5 @@
 ---
-title: "Decoupling in Finance (Algo Trading)"
+title: "Decoupling in Finance"
 description: "Explore the concept of decoupling in finance and how it impacts investment strategies. Gain insights into market dynamics and the role of algorithmic trading in this complex landscape."
 ---
 

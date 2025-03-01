@@ -1,5 +1,5 @@
 ---
-title: "Deferred Revenue and Accrued Expense: Differences (Algo Trading)"
+title: "Deferred Revenue and Accrued Expense: Differences"
 description: "Explore the key differences between accrued expenses and deferred revenue in financial accounting, and discover how these concepts impact algorithmic trading strategies and financial reporting."
 ---
 

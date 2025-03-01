@@ -1,5 +1,5 @@
 ---
-title: "All-Cap Fund: Overview and Examples (Algo Trading)"
+title: "All-Cap Fund: Overview and Examples"
 description: "Explore the dynamic world of all-cap mutual funds and algorithmic trading Discover how these innovative strategies can enhance investment portfolios and optimize returns"
 ---
 

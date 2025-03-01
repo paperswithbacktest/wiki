@@ -1,5 +1,5 @@
 ---
-title: "Drawdown (DD) (Algo Trading)"
+title: "Drawdown (DD)"
 description: Explore the significance of drawdown in algorithmic trading as a vital performance metric for evaluating trading strategies and managing risk. Understand how drawdown measures help traders assess financial loss and risk profiles enabling informed decisions on capital allocation and risk-adjusted returns. Learn about types of drawdowns including max and mean drawdown and their roles in identifying worst-case scenarios and consistent losses. See how drawdown analysis supports strategy optimization by enhancing risk management and ensuring stable performance amidst market volatility.
 ---
 

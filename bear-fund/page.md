@@ -1,5 +1,5 @@
 ---
-title: "Bear Fund (Algo Trading)"
+title: "Bear Fund"
 description: "Explore the world of bear funds and algorithmic trading strategies designed to profit from market downturns by leveraging precise data-driven decision-making."
 ---
 

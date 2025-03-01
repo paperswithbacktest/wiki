@@ -1,5 +1,5 @@
 ---
-title: "Impact of Open Market Operations on Bond Prices (Algo Trading)"
+title: "Impact of Open Market Operations on Bond Prices"
 description: "Explore how Open Market Operations impact bond prices and monetary policy decision-making. Understand their relevance in algorithmic trading and economic dynamics."
 ---
 

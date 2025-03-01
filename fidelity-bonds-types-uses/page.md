@@ -1,5 +1,5 @@
 ---
-title: "Fidelity Bonds: Types and Uses (Algo Trading)"
+title: "Fidelity Bonds: Types and Uses"
 description: "Explore the essential role of fidelity bonds in safeguarding assets against employee fraud. Understand their types, uses, and significance in risk management."
 ---
 

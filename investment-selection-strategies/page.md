@@ -1,5 +1,5 @@
 ---
-title: "Investment Selection Strategies (Algo Trading)"
+title: "Investment Selection Strategies"
 description: "Explore modern investment selection strategies and financial planning, highlighting how algorithmic trading and technology can optimize portfolio management and achieve financial goals."
 ---
 

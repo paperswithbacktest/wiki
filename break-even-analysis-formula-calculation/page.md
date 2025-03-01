@@ -1,5 +1,5 @@
 ---
-title: "Break-Even Analysis: Formula and Calculation (Algo Trading)"
+title: "Break-Even Analysis: Formula and Calculation"
 description: "Master break-even analysis for algorithmic trading and financial planning Discover formulas cost calculations and strategies for optimal profitability"
 ---
 

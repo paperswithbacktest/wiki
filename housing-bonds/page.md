@@ -1,5 +1,5 @@
 ---
-title: "Housing Bonds (Algo Trading)"
+title: "Housing Bonds"
 description: "Explore the intersection of municipal finance, real estate investment, and algorithmic trading in housing bonds, revealing strategies for stable growth and tax benefits."
 ---
 

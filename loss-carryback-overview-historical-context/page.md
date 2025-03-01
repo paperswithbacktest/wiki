@@ -1,5 +1,5 @@
 ---
-title: "Loss Carryback: Overview and Historical Context (Algo Trading)"
+title: "Loss Carryback: Overview and Historical Context"
 description: "Explore the convergence of loss carryback tax strategies, financial history, and algorithmic trading to maximize gains and improve tax efficiency in finance."
 ---
 

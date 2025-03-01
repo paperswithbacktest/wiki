@@ -1,5 +1,5 @@
 ---
-title: "Economic Rent: Types and Mechanisms (Algo Trading)"
+title: "Economic Rent: Types and Mechanisms"
 description: "Explore the concept of economic rent, its types, and effects on market dynamics and asset valuation. Delve into algorithmic trading's impact on rent and efficiency."
 ---
 

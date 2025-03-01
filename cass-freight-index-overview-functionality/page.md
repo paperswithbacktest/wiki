@@ -1,5 +1,5 @@
 ---
-title: "Cass Freight Index Overview and Functionality (Algo Trading)"
+title: "Cass Freight Index Overview and Functionality"
 description: "Discover the pivotal role of the Cass Freight Index in logistics and finance. Uncover insights into freight trends, economy forecasting, and algorithmic trading."
 ---
 

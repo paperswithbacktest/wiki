@@ -1,5 +1,5 @@
 ---
-title: "Callable Certificate of Deposit (Algo Trading)"
+title: "Callable Certificate of Deposit"
 description: "Explore the benefits and risks of investing in callable certificates of deposit and how algorithmic trading can optimize returns by navigating market dynamics."
 ---
 

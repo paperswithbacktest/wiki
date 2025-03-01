@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Corn, Soy, and Wheat for Investors (Algo Trading)"
+title: "Comparison of Corn, Soy, and Wheat for Investors"
 description: "Explore investment opportunities in corn, soy, and wheat with algo trading. Discover how these agricultural commodities can diversify and strengthen your portfolio."
 ---
 

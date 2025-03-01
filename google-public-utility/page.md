@@ -1,5 +1,5 @@
 ---
-title: "Google as a Public Utility (Algo Trading)"
+title: "Google as a Public Utility"
 description: "Explore Google's potential classification as a public utility and its impact on internet access and algorithmic trading Proponents emphasize fair access and regulation."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Gambling Statistics and Player Outcomes (Algo Trading)"
+title: "Gambling Statistics and Player Outcomes"
 description: "Explore the intricate relationship between gambling and algorithmic trading through probabilities and statistical models. This page investigates into the influence of player odds and casino statistics on gambling outcomes and how algorithmic trading uses data-driven strategies. Discover how probability theory guides decisions in both gambling and financial markets while exploring methods that attempt to optimize benefits and minimize risks."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Identifying Index-Tracking Mutual Funds (Algo Trading)"
+title: "Identifying Index-Tracking Mutual Funds"
 description: "Explore how index-tracking mutual funds and algorithmic trading can enhance investment portfolios by balancing traditional diversification with modern efficiency strategies."
 ---
 

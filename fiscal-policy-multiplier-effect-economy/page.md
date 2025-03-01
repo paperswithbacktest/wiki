@@ -1,5 +1,5 @@
 ---
-title: "Fiscal Policy and Its Multiplier Effect on the Economy (Algo Trading)"
+title: "Fiscal Policy and Its Multiplier Effect on the Economy"
 description: "Explore how fiscal policy impacts economic growth through the multiplier effect and the role of algorithmic trading in leveraging these economic shifts for financial gains."
 ---
 

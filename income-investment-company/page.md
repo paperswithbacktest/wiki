@@ -1,5 +1,5 @@
 ---
-title: "Income Investment Company (Algo Trading)"
+title: "Income Investment Company"
 description: "Explore income investment companies and algorithmic trading merging in modern finance for stable returns and agile market opportunities maximizing financial growth."
 ---
 

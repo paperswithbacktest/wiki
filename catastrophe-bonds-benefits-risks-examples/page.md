@@ -1,5 +1,5 @@
 ---
-title: "Catastrophe Bonds: Benefits, Risks, and Examples (Algo Trading)"
+title: "Catastrophe Bonds: Benefits, Risks, and Examples"
 description: "Explore the benefits and risks of catastrophe bonds and insurance-linked securities, plus insights into their integration with algorithmic trading for risk management."
 ---
 

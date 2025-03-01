@@ -1,5 +1,5 @@
 ---
-title: "Bulldog Bond: Characteristics and Function (Algo Trading)"
+title: "Bulldog Bond: Characteristics and Function"
 description: "Discover Bulldog Bonds issued in the UK by foreign corporations and the role of algorithmic trading in optimizing bond market efficiency and liquidity."
 ---
 

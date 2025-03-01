@@ -1,5 +1,5 @@
 ---
-title: "Dow Jones & Co. (Algo Trading)"
+title: "Dow Jones & Co."
 description: "Explore the intersection of business news, financial data, and algorithmic trading to understand modern markets and capitalize on opportunities effectively."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Basic Attention Token and Consumer Tracking (Algo Trading)"
+title: "Basic Attention Token and Consumer Tracking"
 description: "Explore the transformative impact of Basic Attention Token in digital advertising and its innovative use of blockchain for secure consumer tracking and algorithmic trading."
 ---
 

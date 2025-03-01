@@ -1,5 +1,5 @@
 ---
-title: "Initial Margin Requirements and Examples (Algo Trading)"
+title: "Initial Margin Requirements and Examples"
 description: "Explore the fundamental role of initial margin requirements in algorithmic trading with practical examples and insights into various market applications."
 ---
 

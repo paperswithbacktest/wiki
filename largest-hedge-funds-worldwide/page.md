@@ -1,5 +1,5 @@
 ---
-title: "Largest Hedge Funds Worldwide (Algo Trading)"
+title: "Largest Hedge Funds Worldwide"
 description: "Explore the dynamic world of the largest hedge funds globally focusing on their innovative strategies and significant market influence. Discover how algorithmic trading and advanced technologies are reshaping the landscape and powering these investment powerhouses."
 ---
 

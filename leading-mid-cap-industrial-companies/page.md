@@ -1,5 +1,5 @@
 ---
-title: "Leading Mid-Cap Industrial Companies (Algo Trading)"
+title: "Leading Mid-Cap Industrial Companies"
 description: "Explore the compelling potential of mid-cap industrial stocks and the transformative impact of algorithmic trading in this dynamic investment sector. Uncover unique growth opportunities with these innovative trading strategies."
 ---
 

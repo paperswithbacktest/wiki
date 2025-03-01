@@ -1,5 +1,5 @@
 ---
-title: "Futures Contract in Financial Markets (Algo Trading)"
+title: "Futures Contract in Financial Markets"
 description: "Futures contracts, integral to financial markets, allow risk management and speculation. Algorithmic trading enhances efficiency by leveraging these contracts."
 ---
 

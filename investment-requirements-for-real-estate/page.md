@@ -1,5 +1,5 @@
 ---
-title: "Investment Requirements for Real Estate (Algo Trading)"
+title: "Investment Requirements for Real Estate"
 description: "Explore the transformative blend of real estate investment and algorithmic trading Discover how automation and data analytics enhance returns and decision-making"
 ---
 

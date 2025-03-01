@@ -1,5 +1,5 @@
 ---
-title: "Investing in Nasdaq and NYSE (Algo Trading)"
+title: "Investing in Nasdaq and NYSE"
 description: "Explore the power of algorithmic trading on NYSE and Nasdaq Learn how automation with complex algorithms can optimize trading decisions and efficiency"
 ---
 

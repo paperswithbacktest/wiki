@@ -1,5 +1,5 @@
 ---
-title: "Applications of Coefficient of Variation (Algo Trading)"
+title: "Applications of Coefficient of Variation"
 description: "Discover how the Coefficient of Variation helps algorithmic traders assess risk and optimize portfolios by providing insights into financial asset variability."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "CAPM Formula in Excel: Analyzing Risk and Reward (Algo Trading)"
+title: "CAPM Formula in Excel: Analyzing Risk and Reward"
 description: "Analyze risk and reward using the CAPM formula in Excel with insights into algorithmic trading enabling precision in financial decisions and portfolio management."
 ---
 

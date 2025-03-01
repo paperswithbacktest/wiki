@@ -1,5 +1,5 @@
 ---
-title: "Examples of Foreign Institutional Investors (Algo Trading)"
+title: "Examples of Foreign Institutional Investors"
 description: "Explore the role of Foreign Institutional Investors in global markets their impact on capital flow and how they leverage algorithmic trading for efficient investments."
 ---
 

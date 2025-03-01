@@ -1,5 +1,5 @@
 ---
-title: "Farm Credit System: Overview, Functionality, and History (Algo Trading)"
+title: "Farm Credit System: Overview, Functionality, and History"
 description: "Discover how the Farm Credit System supports the agricultural sector, providing crucial financial services and adapting to modern challenges in agricultural finance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Hot Money: Overview, Mechanism, and Economic Impact (Algo Trading)"
+title: "Hot Money: Overview, Mechanism, and Economic Impact"
 description: "Discover the role of hot money in global economics through the lens of algorithmic trading Learn its impact on market dynamics stability and trading strategies"
 ---
 

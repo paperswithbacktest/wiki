@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Operating Income and EBITDA (Algo Trading)"
+title: "Comparison of Operating Income and EBITDA"
 description: "Explore the role of operating income and EBITDA in algorithmic trading Compare these crucial metrics to enhance trading strategies and optimize profitability"
 ---
 

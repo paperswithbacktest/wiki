@@ -1,5 +1,5 @@
 ---
-title: "Energy Exchange-Traded Funds: Overview and Investment Strategies (Algo Trading)"
+title: "Energy Exchange-Traded Funds: Overview and Investment Strategies"
 description: "Explore strategic investment in Energy ETFs focusing on oil gas and alternative energy sectors. Discover how algorithmic trading enhances returns and risk management."
 ---
 

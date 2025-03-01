@@ -1,5 +1,5 @@
 ---
-title: "Emergency Banking Act of 1933 (Algo Trading)"
+title: "Emergency Banking Act of 1933"
 description: "Explore the significance of the Emergency Banking Act of 1933 which restored public confidence during the Great Depression offering insights into modern financial reforms."
 ---
 

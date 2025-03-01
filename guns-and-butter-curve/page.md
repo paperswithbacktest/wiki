@@ -1,5 +1,5 @@
 ---
-title: "Guns and Butter Curve (Algo Trading)"
+title: "Guns and Butter Curve"
 description: "Explore the Guns and Butter Curve and Production Possibility Frontier to understand trade-offs in economics and their impact on algorithmic trading strategies."
 ---
 

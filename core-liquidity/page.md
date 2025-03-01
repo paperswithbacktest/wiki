@@ -1,5 +1,5 @@
 ---
-title: "Core Liquidity (Algo Trading)"
+title: "Core Liquidity"
 description: "Explore the characteristics and vital role of core liquidity and algorithmic trading within financial markets to enrich trading processes and ensure stability."
 ---
 

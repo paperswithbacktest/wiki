@@ -1,5 +1,5 @@
 ---
-title: "History of Impact Investing (Algo Trading)"
+title: "History of Impact Investing"
 description: "Explore the dynamic evolution of impact investing and algorithmic trading A fusion driving responsible finance by aligning ethical values with high-tech strategies"
 ---
 

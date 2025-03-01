@@ -1,5 +1,5 @@
 ---
-title: "Cult Stock (Algo Trading)"
+title: "Cult Stock"
 description: "Explore the complexities of cult stocks and algorithmic trading in today's dynamic stock market to enhance investment strategies and navigate market trends."
 ---
 

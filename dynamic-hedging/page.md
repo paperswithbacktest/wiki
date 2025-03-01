@@ -1,5 +1,5 @@
 ---
-title: "Dynamic hedging (Algo Trading)"
+title: "Dynamic hedging"
 description: "Dynamic hedging in algorithmic trading is a strategy for managing financial risks, using real-time adjustments and derivatives to stabilize returns amid market volatility."
 ---
 

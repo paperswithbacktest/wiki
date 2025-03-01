@@ -1,5 +1,5 @@
 ---
-title: "Italexit: Overview and Economic Impact (Algo Trading)"
+title: "Italexit: Overview and Economic Impact"
 description: "Explore the concept of Italexit and its economic impact including potential changes in Italy's trade dynamics financial markets and the role of algorithmic trading."
 ---
 

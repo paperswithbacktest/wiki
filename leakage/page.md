@@ -1,5 +1,5 @@
 ---
-title: "Leakage (Algo Trading)"
+title: "Leakage"
 description: Explore the critical challenge of information leakage in algorithmic trading which involves the unintended release of sensitive data affecting market efficiency and trading outcomes. Understand the implications and discover strategies to mitigate leakage ensuring optimal algorithmic trading performance in competitive financial markets.
 ---
 

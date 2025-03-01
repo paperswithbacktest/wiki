@@ -1,5 +1,5 @@
 ---
-title: "FTX US Derivatives (Algo Trading)"
+title: "FTX US Derivatives"
 description: "Explore FTX US platform with its innovative derivatives and algo trading offerings, designed to help traders optimize strategies in the crypto market."
 ---
 

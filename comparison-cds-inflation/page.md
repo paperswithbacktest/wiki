@@ -1,5 +1,5 @@
 ---
-title: "Comparison of CDs and Inflation (Algo Trading)"
+title: "Comparison of CDs and Inflation"
 description: "Discover how inflation influences CDs and the role of algorithmic trading in optimizing investment strategies to preserve purchasing power and enhance returns."
 ---
 

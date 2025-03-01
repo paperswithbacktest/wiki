@@ -1,5 +1,5 @@
 ---
-title: "FDIC Problem Bank List (Algo Trading)"
+title: "FDIC Problem Bank List"
 description: "Explore the interplay between FDIC's Problem Bank List and algorithmic trading assessing impact on financial stability risk management and regulatory challenges."
 ---
 

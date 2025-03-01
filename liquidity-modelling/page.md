@@ -1,5 +1,5 @@
 ---
-title: "Liquidity Modelling (Algo Trading)"
+title: "Liquidity Modelling"
 description: "Explore advanced liquidity modeling techniques in algorithmic trading and their practical applications. Discover strategies to enhance trading efficiency and reduce market risk."
 ---
 

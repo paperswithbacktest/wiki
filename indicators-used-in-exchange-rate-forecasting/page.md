@@ -1,5 +1,5 @@
 ---
-title: "Indicators Used in Exchange Rate Forecasting (Algo Trading)"
+title: "Indicators Used in Exchange Rate Forecasting"
 description: "Discover key economic indicators and advanced methods like algorithmic trading and machine learning used in exchange rate forecasting to optimize forex trading."
 ---
 

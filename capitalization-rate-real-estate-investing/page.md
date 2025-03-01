@@ -1,5 +1,5 @@
 ---
-title: "Capitalization Rate in Real Estate Investing (Algo Trading)"
+title: "Capitalization Rate in Real Estate Investing"
 description: "Explore the evolving landscape of real estate investing by understanding cap rates and algorithmic trading Discover how these concepts enhance valuation techniques"
 ---
 

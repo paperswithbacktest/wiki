@@ -1,5 +1,5 @@
 ---
-title: "Diversity Score: Concepts, Evolution, and Challenges (Algo Trading)"
+title: "Diversity Score: Concepts, Evolution, and Challenges"
 description: "Explore the vital role of diversity scores in algorithmic trading and how DEI metrics impact investment strategies and organizational success."
 ---
 

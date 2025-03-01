@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategies in Electric Vehicles (Algo Trading)"
+title: "Investment Strategies in Electric Vehicles"
 description: "Explore investment strategies in electric vehicles with insights on algo trading for optimized returns EV market trends and tools for strategic portfolio growth"
 ---
 

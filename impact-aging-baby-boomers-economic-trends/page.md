@@ -1,5 +1,5 @@
 ---
-title: "Impact of Aging Baby Boomers on Economic Trends (Algo Trading)"
+title: "Impact of Aging Baby Boomers on Economic Trends"
 description: "Explore how aging Baby Boomers and algorithmic trading reshape economic trends impacting labor markets social security liquidity and financial market stability."
 ---
 

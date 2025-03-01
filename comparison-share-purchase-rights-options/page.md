@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Share Purchase Rights and Options (Algo Trading)"
+title: "Comparison of Share Purchase Rights and Options"
 description: "Explore the differences between options and share purchase rights in financial markets Understand their benefits, risks, and roles in algo trading strategies"
 ---
 

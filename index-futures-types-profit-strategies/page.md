@@ -1,5 +1,5 @@
 ---
-title: "Index Futures: Types and Profit Strategies (Algo Trading)"
+title: "Index Futures: Types and Profit Strategies"
 description: "Explore types of index futures and profit strategies in algorithmic trading Gain insights into hedging speculating and leveraging tech in futures markets"
 ---
 

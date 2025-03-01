@@ -1,5 +1,5 @@
 ---
-title: "Economic Effects of Hosting the Olympics (Algo Trading)"
+title: "Economic Effects of Hosting the Olympics"
 description: "Explore the economic effects of hosting the Olympics including potential benefits like urban development and tourism growth alongside the challenges of financial risks and cost overruns. Understand how these global events impact market dynamics especially with the rise of algorithmic trading strategies. Analyze the economic outcomes of past host cities and the evolving strategies for future Games to balance economic opportunity with long-term financial sustainability."
 ---
 

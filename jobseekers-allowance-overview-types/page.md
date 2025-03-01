@@ -1,5 +1,5 @@
 ---
-title: "Jobseeker's Allowance: Overview and Types (Algo Trading)"
+title: "Jobseeker's Allowance: Overview and Types"
 description: "Explore the Jobseeker's Allowance JSA types in the UK providing essential support to those seeking work including insights into algorithmic trading opportunities."
 ---
 

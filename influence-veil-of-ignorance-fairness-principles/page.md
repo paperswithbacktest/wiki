@@ -1,5 +1,5 @@
 ---
-title: "Influence of the Veil of Ignorance on Fairness Principles (Algo Trading)"
+title: "Influence of the Veil of Ignorance on Fairness Principles"
 description: "Explore how John Rawls' Veil of Ignorance can guide fair algorithmic trading systems, ensuring ethical design and equitable market practices."
 ---
 

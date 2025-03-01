@@ -1,5 +1,5 @@
 ---
-title: "Gross Profit and Net Income Comparison (Algo Trading)"
+title: "Gross Profit and Net Income Comparison"
 description: "This article offers an in-depth comparison of net income and gross profit with a focus on their roles in algorithmic trading. By understanding the efficiency of production processes and comprehensive company profitability, traders can enhance data-driven strategies and optimize trading performance in financial markets."
 ---
 

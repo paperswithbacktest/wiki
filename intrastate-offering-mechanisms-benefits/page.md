@@ -1,5 +1,5 @@
 ---
-title: "Intrastate Offering: Mechanisms and Benefits (Algo Trading)"
+title: "Intrastate Offering: Mechanisms and Benefits"
 description: "Explore the benefits and mechanisms of intrastate offerings in algorithmic trading Learn how these regulatory frameworks impact investors and market efficiency"
 ---
 

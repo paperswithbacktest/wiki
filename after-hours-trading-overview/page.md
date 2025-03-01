@@ -1,5 +1,5 @@
 ---
-title: "After-Hours Trading Overview (Algo Trading)"
+title: "After-Hours Trading Overview"
 description: "Discover the world of after-hours trading where you can engage in stock transactions outside traditional hours optimize your strategy with insights into its benefits and risks and explore the role algorithmic trading plays in this unique market environment"
 ---
 

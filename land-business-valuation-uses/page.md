@@ -1,5 +1,5 @@
 ---
-title: "Land in Business: Valuation and Uses (Algo Trading)"
+title: "Land in Business: Valuation and Uses"
 description: "Explore the dynamic connection between land use, business valuation, and algorithmic trading. Discover strategic insights for maximizing investment potential."
 ---
 

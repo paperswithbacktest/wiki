@@ -1,5 +1,5 @@
 ---
-title: "Long-Term Capital Management: History and Impact (Algo Trading)"
+title: "Long-Term Capital Management: History and Impact"
 description: "Explore the rise and fall of Long-Term Capital Management a hedge fund known for its algorithmic trading strategies and impact on financial risk management."
 ---
 

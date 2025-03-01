@@ -1,5 +1,5 @@
 ---
-title: "Crude Oil Stockpiles (Algo Trading)"
+title: "Crude Oil Stockpiles"
 description: "Explore how crude oil stockpiles, energy markets, and algorithmic trading converge, offering insights and strategies for navigating this dynamic investment arena."
 ---
 

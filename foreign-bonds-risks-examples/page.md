@@ -1,5 +1,5 @@
 ---
-title: "Foreign Bonds: Risks and Examples (Algo Trading)"
+title: "Foreign Bonds: Risks and Examples"
 description: "Explore foreign bonds in the global financial market and discover risks and opportunities like currency volatility and algorithmic trading optimizations."
 ---
 

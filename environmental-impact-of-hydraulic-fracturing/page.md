@@ -1,5 +1,5 @@
 ---
-title: "Environmental Impact of Hydraulic Fracturing (Algo Trading)"
+title: "Environmental Impact of Hydraulic Fracturing"
 description: "Explore the environmental impacts of fracking and the operational dynamics of algo trading while uncovering their intersection in modern economic landscapes."
 ---
 

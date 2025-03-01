@@ -1,5 +1,5 @@
 ---
-title: "Digital Currency Types and Characteristics (Algo Trading)"
+title: "Digital Currency Types and Characteristics"
 description: "Explore the transformative power of digital currencies and algorithmic trading Discover their unique traits and impact on the global financial system."
 ---
 

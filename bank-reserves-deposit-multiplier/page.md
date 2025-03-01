@@ -1,5 +1,5 @@
 ---
-title: "Bank Reserves and the Deposit Multiplier (Algo Trading)"
+title: "Bank Reserves and the Deposit Multiplier"
 description: "Explore how bank reserves, the deposit multiplier, and algorithmic trading influence modern banking and economic stability, aiding finance professionals and consumers."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Largest Healthcare Corporations (Algo Trading)"
+title: "Largest Healthcare Corporations"
 description: "Explore the transformative impact of algorithmic trading on top healthcare companies like UnitedHealth, CVS, and McKesson, enhancing their financial strategies."
 ---
 

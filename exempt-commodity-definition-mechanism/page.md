@@ -1,5 +1,5 @@
 ---
-title: "Exempt Commodity: Definition and Mechanism (Algo Trading)"
+title: "Exempt Commodity: Definition and Mechanism"
 description: "Explore the dynamic intersection of exempt commodities and algorithmic trading, highlighting regulatory frameworks ensuring fairness and market stability."
 ---
 

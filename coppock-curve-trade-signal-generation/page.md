@@ -1,5 +1,5 @@
 ---
-title: "Coppock Curve Trade Signal Generation (Algo Trading)"
+title: "Coppock Curve Trade Signal Generation"
 description: "Explore how the Coppock Curve, a momentum indicator, integrates into algorithmic trading for generating effective trade signals and optimizing strategies."
 ---
 

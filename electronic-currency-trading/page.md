@@ -1,5 +1,5 @@
 ---
-title: "Electronic Currency Trading (Algo Trading)"
+title: "Electronic Currency Trading"
 description: "Explore the transformative impact of electronic currency trading and algorithmic strategies in the forex market Enhance trading efficiency and accessibility globally"
 ---
 

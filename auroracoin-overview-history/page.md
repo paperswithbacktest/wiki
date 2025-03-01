@@ -1,5 +1,5 @@
 ---
-title: "Auroracoin: Overview and History (Algo Trading)"
+title: "Auroracoin: Overview and History"
 description: "Explore the unique journey of Auroracoin developed from Iceland's financial crisis to its role in algorithmic trading offering a decentralized currency solution."
 ---
 

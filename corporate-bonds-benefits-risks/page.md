@@ -1,5 +1,5 @@
 ---
-title: "Corporate Bonds: Benefits and Risks (Algo Trading)"
+title: "Corporate Bonds: Benefits and Risks"
 description: "Explore the benefits and risks of corporate bonds as fixed-income investments, including insights on algorithmic trading's impact on bond markets."
 ---
 

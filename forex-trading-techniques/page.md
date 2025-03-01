@@ -1,5 +1,5 @@
 ---
-title: "Forex Trading Techniques (Algo Trading)"
+title: "Forex Trading Techniques"
 description: "Explore key forex trading techniques and algorithmic strategies to enhance your market proficiency, manage risk, and navigate the forex landscape effectively."
 ---
 

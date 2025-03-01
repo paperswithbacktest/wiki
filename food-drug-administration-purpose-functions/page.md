@@ -1,5 +1,5 @@
 ---
-title: "Food and Drug Administration: Purpose and Functions (Algo Trading)"
+title: "Food and Drug Administration: Purpose and Functions"
 description: "Discover the expanding role of the Food and Drug Administration in regulating advanced technologies like algorithmic trading platforms. This article explores how the FDA's oversight extends beyond traditional domains to include digital health technologies and AI-based financial software, impacting market integrity and investor protection. Learn about the challenges and implications for tech companies as the FDA adapts its regulatory framework to safeguard public health while fostering innovation."
 ---
 

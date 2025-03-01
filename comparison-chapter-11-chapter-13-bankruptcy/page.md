@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Chapter 11 and Chapter 13 Bankruptcy (Algo Trading)"
+title: "Comparison of Chapter 11 and Chapter 13 Bankruptcy"
 description: "Discover key differences between Chapter 11 and Chapter 13 bankruptcy for debt reorganization Learn about their unique benefits and how algo trading impacts decisions"
 ---
 

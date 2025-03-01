@@ -1,5 +1,5 @@
 ---
-title: "Debt-To-Equity Ratios in the Oil and Gas Industry (Algo Trading)"
+title: "Debt-To-Equity Ratios in the Oil and Gas Industry"
 description: "Discover how the debt-to-equity ratio impacts financial stability in the oil and gas industry and how algorithmic trading enhances investment analysis."
 ---
 

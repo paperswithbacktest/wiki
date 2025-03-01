@@ -1,5 +1,5 @@
 ---
-title: "Bayesian Inference in Financial Markets (Algo Trading)"
+title: "Bayesian Inference in Financial Markets"
 description: "Explore how Bayesian inference enhances algorithmic trading by dynamically updating predictions in financial markets, ensuring robust and precise trading strategies."
 ---
 

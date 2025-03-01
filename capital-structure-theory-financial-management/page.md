@@ -1,5 +1,5 @@
 ---
-title: "Capital Structure Theory in Financial Management (Algo Trading)"
+title: "Capital Structure Theory in Financial Management"
 description: "Explore how financial management, capital structure theories, and algorithmic trading intersect to redefine strategies and enhance competitive advantage in finance."
 ---
 

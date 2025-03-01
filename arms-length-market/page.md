@@ -1,5 +1,5 @@
 ---
-title: "Arm's Length Market (Algo Trading)"
+title: "Arm's Length Market"
 description: "Explore arm's length transactions and algorithmic trading's impact on modern markets highlighting their roles in ensuring fair dealings and market efficiency."
 ---
 

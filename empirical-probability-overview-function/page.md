@@ -1,5 +1,5 @@
 ---
-title: "Empirical Probability: Overview and Function (Algo Trading)"
+title: "Empirical Probability: Overview and Function"
 description: "Explore how empirical probability enhances algorithmic trading by providing data-driven insights to predict market movements minimize risks and improve trading outcomes."
 ---
 

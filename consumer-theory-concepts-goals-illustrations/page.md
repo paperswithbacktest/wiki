@@ -1,5 +1,5 @@
 ---
-title: "Consumer Theory: Concepts, Goals, and Illustrations (Algo Trading)"
+title: "Consumer Theory: Concepts, Goals, and Illustrations"
 description: "Explore how consumer theory and behavior influence algorithmic trading, offering insights into market mechanisms, enhancing algorithm efficiency, and trader strategies."
 ---
 

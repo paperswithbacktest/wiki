@@ -1,5 +1,5 @@
 ---
-title: "Implications of EBITDA Margin for Companies (Algo Trading)"
+title: "Implications of EBITDA Margin for Companies"
 description: "Explore the role of EBITDA margin in companies with a focus on algo trading strategies. Understand calculation, benefits, and integration for better investment decisions."
 ---
 

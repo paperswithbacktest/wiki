@@ -1,5 +1,5 @@
 ---
-title: "Earnings yield (Algo Trading)"
+title: "Earnings yield"
 description: "Unlock trading potential with earnings yield, a key metric for assessing profitability and stock valuation. Optimize investment strategies effectively."
 ---
 

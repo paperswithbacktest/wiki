@@ -1,5 +1,5 @@
 ---
-title: "Leading Oil Companies and Their Environmental Initiatives (Algo Trading)"
+title: "Leading Oil Companies and Their Environmental Initiatives"
 description: "Explore how leading oil companies are responding to environmental challenges by integrating sustainability initiatives with algorithmic trading for optimized operations."
 ---
 

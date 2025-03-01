@@ -1,5 +1,5 @@
 ---
-title: "Crowded Short: Definition and Mechanisms (Algo Trading)"
+title: "Crowded Short: Definition and Mechanisms"
 description: "Explore the dynamics of crowded short positions and algorithmic trading strategies Learn how to manage risks and navigate market trends effectively"
 ---
 

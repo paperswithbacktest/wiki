@@ -1,5 +1,5 @@
 ---
-title: "General Provisions: Function and Operation (Algo Trading)"
+title: "General Provisions: Function and Operation"
 description: "Discover the impact of financial accounting on algorithmic trading. Learn how provision accounting enhances trading strategies by managing risks effectively."
 ---
 

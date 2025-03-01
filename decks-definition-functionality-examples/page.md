@@ -1,5 +1,5 @@
 ---
-title: "Decks: Definition, Functionality, and Examples (Algo Trading)"
+title: "Decks: Definition, Functionality, and Examples"
 description: "Explore how deck card games and algorithmic trading share strategic principles that enhance decision-making and risk management in financial markets. Discover the parallels in probability assessment and planning, where skills in games like Poker and Bridge apply to trading strategies. This article investigates into using strategic foresight from games to optimize trading performance amidst market unpredictability."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Commercial Investment Overview (Algo Trading)"
+title: "Commercial Investment Overview"
 description: "Explore the dynamic intersection of commercial investment and algorithmic trading to uncover innovative strategies and essential insights for today's investors."
 ---
 

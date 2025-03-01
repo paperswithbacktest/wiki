@@ -1,5 +1,5 @@
 ---
-title: "Distributed Applications: Overview and Blockchain Examples (Algo Trading)"
+title: "Distributed Applications: Overview and Blockchain Examples"
 description: "Explore the potential of Distributed Applications (DApps) in blockchain and algorithmic trading to enhance security, transparency, and user autonomy across industries."
 ---
 

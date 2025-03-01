@@ -1,5 +1,5 @@
 ---
-title: "Dividends vs. Capital Gains (Algo Trading)"
+title: "Dividends vs. Capital Gains"
 description: "Explore the differences between dividends and capital gains in algo trading and learn how they can jointly optimize your investment returns for financial success."
 ---
 

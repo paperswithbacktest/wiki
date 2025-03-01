@@ -1,5 +1,5 @@
 ---
-title: "Cross Margining: Mechanism and Implications (Algo Trading)"
+title: "Cross Margining: Mechanism and Implications"
 description: "Explore how cross margining and algorithmic trading serve as essential risk management tools in today's financial markets to optimize liquidity and financial flexibility."
 ---
 

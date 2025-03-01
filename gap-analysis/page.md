@@ -1,5 +1,5 @@
 ---
-title: "Gap Analysis (Algo Trading)"
+title: "Gap Analysis"
 description: "Optimize your algorithmic trading strategies with effective gap analysis. Evaluate performance, identify discrepancies, and enhance profitability and risk management."
 ---
 

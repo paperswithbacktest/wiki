@@ -1,5 +1,5 @@
 ---
-title: "Collection, Analysis, and Utilization of Demographic Data (Algo Trading)"
+title: "Collection, Analysis, and Utilization of Demographic Data"
 description: "Explore how demographic data collection and algorithmic trading combine to drive strategic decision-making in business and finance, enhancing insights and efficiency."
 ---
 

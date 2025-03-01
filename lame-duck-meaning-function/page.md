@@ -1,5 +1,5 @@
 ---
-title: "Lame Duck: Meaning and Function (Algo Trading)"
+title: "Lame Duck: Meaning and Function"
 description: "Explore how 'lame duck' political periods influence market uncertainty and volatility, and discover the role of algorithmic trading in navigating these complex dynamics."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Cash Flow Per Share Calculation (Algo Trading)"
+title: "Cash Flow Per Share Calculation"
 description: "Discover the power of Cash Flow Per Share CFPS for analyzing a company's financial health and enhancing algorithmic trading strategies with authentic insights."
 ---
 

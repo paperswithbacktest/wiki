@@ -1,5 +1,5 @@
 ---
-title: "Master Fund (Algo Trading)"
+title: "Master Fund"
 description: "Explore the benefits and intricacies of the master-feeder fund structure in algorithmic trading Discover how this setup optimizes strategy execution and management"
 ---
 

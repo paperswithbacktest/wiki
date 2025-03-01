@@ -1,5 +1,5 @@
 ---
-title: "All-In Cost and Its Types (Algo Trading)"
+title: "All-In Cost and Its Types"
 description: "Discover the impact of all-in costs in algorithmic trading and financial transactions Essential insights for optimizing strategies and maximizing profitability"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bidder: Meaning, Functionality, and Types (Algo Trading)"
+title: "Bidder: Meaning, Functionality, and Types"
 description: "Discover the role of bidders in auctions and how algorithmic trading enhances bidding strategies for more precision and efficiency in financial markets."
 ---
 

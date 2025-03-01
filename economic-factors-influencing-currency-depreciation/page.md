@@ -1,5 +1,5 @@
 ---
-title: "Economic Factors Influencing Currency Depreciation (Algo Trading)"
+title: "Economic Factors Influencing Currency Depreciation"
 description: "Explore the intricate dynamics of currency depreciation influenced by economic factors such as inflation and interest rates within the algorithmic trading landscape."
 ---
 

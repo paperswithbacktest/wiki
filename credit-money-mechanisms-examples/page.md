@@ -1,5 +1,5 @@
 ---
-title: "Credit Money: Mechanisms and Examples (Algo Trading)"
+title: "Credit Money: Mechanisms and Examples"
 description: "Explore the critical role of monetary systems and credit money in today's financial landscape plus how algorithmic trading transforms global market dynamics."
 ---
 

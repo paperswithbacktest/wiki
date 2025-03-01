@@ -1,5 +1,5 @@
 ---
-title: "Comparison of U.S. and China Military Expenditures (Algo Trading)"
+title: "Comparison of U.S. and China Military Expenditures"
 description: "Explore how U.S. and China military expenditures impact global security and economic stability. Analyze budget trends and algorithmic trading effects on defense markets."
 ---
 

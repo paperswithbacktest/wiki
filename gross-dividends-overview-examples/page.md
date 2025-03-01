@@ -1,5 +1,5 @@
 ---
-title: "Gross Dividends: Overview and Examples (Algo Trading)"
+title: "Gross Dividends: Overview and Examples"
 description: "Explore the synergy between gross dividends and algorithmic trading to optimize your investment strategy. Enhance returns through strategic dividend investing powered by advanced algorithms."
 ---
 

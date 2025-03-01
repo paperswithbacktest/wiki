@@ -1,5 +1,5 @@
 ---
-title: "Asset Allocation Fund: Overview and Types (Algo Trading)"
+title: "Asset Allocation Fund: Overview and Types"
 description: "Discover the fundamentals of asset allocation and types of funds, including mutual funds and ETFs, with insights into modern algorithmic trading strategies."
 ---
 

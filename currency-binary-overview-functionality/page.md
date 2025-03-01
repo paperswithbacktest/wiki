@@ -1,5 +1,5 @@
 ---
-title: "Currency Binary: Overview and Functionality (Algo Trading)"
+title: "Currency Binary: Overview and Functionality"
 description: "Explore the essentials of currency binary options trading and algorithmic strategies to make informed decisions in the fast-paced forex market."
 ---
 

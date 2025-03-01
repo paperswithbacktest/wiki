@@ -1,5 +1,5 @@
 ---
-title: "Behavioral Accounting: Overview and Examples (Algo Trading)"
+title: "Behavioral Accounting: Overview and Examples"
 description: "Explore the integration of behavioral accounting and algorithmic trading to enhance financial decision-making by merging psychology and advanced trading techniques."
 ---
 

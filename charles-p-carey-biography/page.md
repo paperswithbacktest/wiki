@@ -1,5 +1,5 @@
 ---
-title: "Charles P. Carey Biography (Algo Trading)"
+title: "Charles P. Carey Biography"
 description: "Discover the remarkable career of Charles P. Carey a finance leader who played a pivotal role in advancing algorithmic trading and revolutionizing financial markets."
 ---
 

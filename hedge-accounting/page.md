@@ -1,5 +1,5 @@
 ---
-title: "Hedge Accounting (Algo Trading)"
+title: "Hedge Accounting"
 description: "Discover the critical synergy between hedge accounting and algorithmic trading in today's financial landscape. Learn how these elements enhance financial reporting, risk management, and trading strategies. Gain insights into effective integration for sustainable growth and resilience in an evolving market."
 ---
 

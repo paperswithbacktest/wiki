@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Helicopter Money and Quantitative Easing (Algo Trading)"
+title: "Comparison of Helicopter Money and Quantitative Easing"
 description: "Explore the differences between helicopter money and quantitative easing as monetary policies and their effects on economic stability and algorithmic trading."
 ---
 

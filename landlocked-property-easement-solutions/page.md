@@ -1,5 +1,5 @@
 ---
-title: "Landlocked Property and Easement Solutions in Real Estate (Algo Trading)"
+title: "Landlocked Property and Easement Solutions in Real Estate"
 description: "Navigate the challenges and opportunities of landlocked properties in real estate with insights on easement solutions and the role of algorithmic trading."
 ---
 

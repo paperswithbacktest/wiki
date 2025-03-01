@@ -1,5 +1,5 @@
 ---
-title: "Goodwill as a Capital Asset (Algo Trading)"
+title: "Goodwill as a Capital Asset"
 description: "Explore how goodwill as a capital asset intersects with algorithmic trading strategies. Understand its role in stock valuation and market sentiment insights."
 ---
 

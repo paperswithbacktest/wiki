@@ -1,5 +1,5 @@
 ---
-title: "Djiboutian Franc and Economy of Djibouti (Algo Trading)"
+title: "Djiboutian Franc and Economy of Djibouti"
 description: "Explore the impact of the Djiboutian Franc on Djibouti's economy and the potential of algorithmic trading to enhance market stability and growth."
 ---
 

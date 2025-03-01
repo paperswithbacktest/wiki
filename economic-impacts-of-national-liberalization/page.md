@@ -1,5 +1,5 @@
 ---
-title: "Economic Impacts of National Liberalization (Algo Trading)"
+title: "Economic Impacts of National Liberalization"
 description: "Explore how national economic liberalization and algorithmic trading are reshaping global markets driving efficiency innovation and boosting economic growth."
 ---
 

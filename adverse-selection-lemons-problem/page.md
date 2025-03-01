@@ -1,5 +1,5 @@
 ---
-title: "Adverse Selection and The Lemons Problem (Algo Trading)"
+title: "Adverse Selection and The Lemons Problem"
 description: "Explore the effects of adverse selection and the lemons problem in algo trading where information asymmetry distorts market efficiency and challenges fairness."
 ---
 

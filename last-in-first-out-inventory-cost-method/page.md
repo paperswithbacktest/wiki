@@ -1,5 +1,5 @@
 ---
-title: "Last In, First Out Inventory Cost Method (Algo Trading)"
+title: "Last In, First Out Inventory Cost Method"
 description: "Explore how the Last In, First Out (LIFO) inventory method impacts accounting, taxes, and algorithmic trading strategies, offering unique financial advantages during inflation."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Capping: Meaning, Mechanism, and Example (Algo Trading)"
+title: "Capping: Meaning, Mechanism, and Example"
 description: "Explore the intricacies of capping in algorithmic trading a strategy to influence market prices safeguarding investments and addressing regulatory challenges."
 ---
 

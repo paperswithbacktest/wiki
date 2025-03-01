@@ -1,5 +1,5 @@
 ---
-title: "Current Account Deficit: Structural and Cyclical Causes (Algo Trading)"
+title: "Current Account Deficit: Structural and Cyclical Causes"
 description: "Explore the cyclical and structural causes of a current account deficit and the role of algorithmic trading in influencing global trade balances."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Commercial and Residential Real Estate Investing (Algo Trading)"
+title: "Comparison of Commercial and Residential Real Estate Investing"
 description: "Explore the differences between commercial and residential real estate investing and learn how algorithmic trading is transforming investment strategies."
 ---
 

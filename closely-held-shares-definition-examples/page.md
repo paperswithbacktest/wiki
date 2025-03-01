@@ -1,5 +1,5 @@
 ---
-title: "Closely Held Shares: Definition and Examples (Algo Trading)"
+title: "Closely Held Shares: Definition and Examples"
 description: "Explore the intricacies of closely held shares and algorithmic trading Understand how these elements shape private companies and modern financial markets"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Methodology of Cryptocurrency Software Wallets (Algo Trading)"
+title: "Methodology of Cryptocurrency Software Wallets"
 description: "Explore software wallets and algorithmic trading in crypto providing secure storage solutions and advanced trading techniques for optimized market strategies."
 ---
 

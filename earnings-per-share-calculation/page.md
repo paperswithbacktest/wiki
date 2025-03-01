@@ -1,5 +1,5 @@
 ---
-title: "Earnings Per Share: Definition and Calculation (Algo Trading)"
+title: "Earnings Per Share: Definition and Calculation"
 description: "Earnings Per Share (EPS) is a key financial metric used to evaluate a company's profitability per outstanding share and is crucial in both stock valuation and algorithmic trading. Understanding EPS helps investors assess a company's financial health and predict stock price movements, integrating traditional analysis with modern trading techniques. As technology reshapes the trading landscape, mastering EPS aids in making informed decisions, highlighting its significance for investors and traders aiming to navigate the complexities of financial markets effectively."
 ---
 

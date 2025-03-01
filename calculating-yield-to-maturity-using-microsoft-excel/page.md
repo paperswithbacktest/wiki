@@ -1,5 +1,5 @@
 ---
-title: "Calculating Yield to Maturity Using Microsoft Excel (Algo Trading)"
+title: "Calculating Yield to Maturity Using Microsoft Excel"
 description: "Learn how to calculate yield to maturity (YTM) in Excel for better bond investment decisions and algorithmic trading strategies. Master bond analytics."
 ---
 

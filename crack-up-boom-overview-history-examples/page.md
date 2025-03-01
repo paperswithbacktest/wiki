@@ -1,5 +1,5 @@
 ---
-title: "Crack-Up Boom: Overview and Historical Examples (Algo Trading)"
+title: "Crack-Up Boom: Overview and Historical Examples"
 description: "Explore the concept of a crack-up boom in finance highlighting its impact on modern algorithmic trading and historical examples of hyperinflation crises."
 ---
 

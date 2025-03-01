@@ -1,5 +1,5 @@
 ---
-title: "Economics of Philately (Algo Trading)"
+title: "Economics of Philately"
 description: "Explore the economics of philately with insights into its history and value, and discover how algorithmic trading creates new investment opportunities in stamp collecting."
 ---
 

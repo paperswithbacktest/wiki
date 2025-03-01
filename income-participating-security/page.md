@@ -1,5 +1,5 @@
 ---
-title: "Income Participating Security (Algo Trading)"
+title: "Income Participating Security"
 description: "Discover how Income Participating Securities (IPS) combine equity and fixed-income benefits to enhance investment returns and manage risk via algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Independence of Central Banks (Algo Trading)"
+title: "Independence of Central Banks"
 description: "Explore the dynamic between central banks and algorithmic trading focusing on the independence vital for monetary policy and its influence on global economies."
 ---
 

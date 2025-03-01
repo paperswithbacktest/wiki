@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin RSI Explained (Algo Trading)"
+title: "Bitcoin RSI Explained"
 description: Discover how the Relative Strength Index (RSI) enhances algorithmic trading of Bitcoin in the volatile crypto market. Learn how RSI provides insights into market momentum, identifies overbought or oversold conditions, and optimizes trading strategies by signaling potential entry and exit points. Explore the adaptability of RSI for Bitcoin trading through parameter optimization and integration with other technical indicators, equipping traders to navigate market dynamics effectively.
 ---
 

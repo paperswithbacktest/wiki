@@ -1,5 +1,5 @@
 ---
-title: "Comparison of ROE and ROCE (Algo Trading)"
+title: "Comparison of ROE and ROCE"
 description: "Explore the crucial role of ROE and ROCE in algorithmic trading and learn how these metrics can optimize trading strategies by analyzing a company's financial health."
 ---
 

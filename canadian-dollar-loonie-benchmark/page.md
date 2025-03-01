@@ -1,5 +1,5 @@
 ---
-title: "Canadian Dollar as Loonie Benchmark (Algo Trading)"
+title: "Canadian Dollar as Loonie Benchmark"
 description: "Explore the significance of the Canadian Dollar as a global benchmark. Understand its role in finance, algorithmic trading, and the intricate forex market dynamics."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Fee-Only Financial Advisors (Algo Trading)"
+title: "Fee-Only Financial Advisors"
 description: "Explore the advantages of fee-only financial advisors and algorithmic trading to enhance your financial strategy with unbiased guidance and automated precision."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Impact of Investment Banks on the Economy (Algo Trading)"
+title: "Impact of Investment Banks on the Economy"
 description: "Investment banks drive economic growth by facilitating capital flow and optimizing trading through algorithmic strategies. Explore their impact on global finance."
 ---
 

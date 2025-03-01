@@ -1,5 +1,5 @@
 ---
-title: "Iridium: Properties and Applications (Algo Trading)"
+title: "Iridium: Properties and Applications"
 description: "Explore the exceptional properties and diverse applications of iridium in technology industries and algorithmic trading highlighting its pivotal role in innovation."
 ---
 

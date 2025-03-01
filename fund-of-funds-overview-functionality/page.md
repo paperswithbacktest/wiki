@@ -1,5 +1,5 @@
 ---
-title: "Fund of Funds: Overview and Functionality (Algo Trading)"
+title: "Fund of Funds: Overview and Functionality"
 description: "Explore the synergy between Fund of Funds and algorithmic trading to enhance diversification and optimize trade execution, aiming for improved returns and reduced risk."
 ---
 

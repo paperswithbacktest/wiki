@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Implied and Historical Volatility (Algo Trading)"
+title: "Comparison of Implied and Historical Volatility"
 description: "Explore the differences between implied and historical volatility in algo trading to enhance decision-making optimize strategies and improve risk management."
 ---
 

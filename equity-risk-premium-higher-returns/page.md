@@ -1,5 +1,5 @@
 ---
-title: "Equity Risk Premium and Higher Returns (Algo Trading)"
+title: "Equity Risk Premium and Higher Returns"
 description: "Explore how understanding the equity risk premium and leveraging algorithmic trading can optimize investment strategies and maximize financial returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Key Investing Concepts for Beginners (Algo Trading)"
+title: "Key Investing Concepts for Beginners"
 description: "Discover essential investing concepts for beginners including algorithmic trading Learn financial principles develop strategies and harness technology's role in trading"
 ---
 

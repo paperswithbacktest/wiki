@@ -1,5 +1,5 @@
 ---
-title: "3P Oil Reserves: Definition and Mechanism (Algo Trading)"
+title: "3P Oil Reserves: Definition and Mechanism"
 description: "Explore the crucial role 3P oil reserves play in the industry. Understand Proven, Probable, and Possible reserves and their impact on trading and investment strategies."
 ---
 

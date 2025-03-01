@@ -1,5 +1,5 @@
 ---
-title: "Cashless Conversion: Overview and Example (Algo Trading)"
+title: "Cashless Conversion: Overview and Example"
 description: "Explore how the cashless conversion is transforming the economy by enhancing convenience, boosting digital transactions, and reshaping financial markets globally."
 ---
 

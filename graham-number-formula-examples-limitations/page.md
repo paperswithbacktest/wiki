@@ -1,5 +1,5 @@
 ---
-title: "Graham Number: Formula, Examples, and Limitations (Algo Trading)"
+title: "Graham Number: Formula, Examples, and Limitations"
 description: "Explore the Graham Number a key valuation metric for assessing stock value based on earnings and book value Discover its relevance in algorithmic trading."
 ---
 

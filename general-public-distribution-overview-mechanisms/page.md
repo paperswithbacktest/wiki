@@ -1,5 +1,5 @@
 ---
-title: "General Public Distribution: Overview and Mechanisms (Algo Trading)"
+title: "General Public Distribution: Overview and Mechanisms"
 description: "Explore the synergy between public distribution and algo trading in financial markets Learn how algo trading enhances distribution efficiency and market liquidity"
 ---
 

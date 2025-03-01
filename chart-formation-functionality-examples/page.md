@@ -1,5 +1,5 @@
 ---
-title: "Chart Formation and Functionality with Examples (Algo Trading)"
+title: "Chart Formation and Functionality with Examples"
 description: "Explore the power of chart patterns in algo trading to predict market trends. Learn their role in strategic decision-making and gain a competitive edge."
 ---
 

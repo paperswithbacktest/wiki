@@ -1,5 +1,5 @@
 ---
-title: "Hockey Stick Chart in Investing (Algo Trading)"
+title: "Hockey Stick Chart in Investing"
 description: "Explore how hockey stick charts enhance financial analysis and algorithmic trading, enabling investors to spot lucrative growth opportunities and improve decision-making."
 ---
 

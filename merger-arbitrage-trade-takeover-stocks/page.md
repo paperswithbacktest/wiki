@@ -1,5 +1,5 @@
 ---
-title: "Merger Arbitrage in Trade Takeover Stocks (Algo Trading)"
+title: "Merger Arbitrage in Trade Takeover Stocks"
 description: "Explore the strategic realm of merger arbitrage, leveraging algorithmic trading to profit from merger and acquisition announcements while mitigating traditional market risks."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of Cheap Stocks and Value Traps (Algo Trading)"
+title: "Evaluation of Cheap Stocks and Value Traps"
 description: "Explore cheap stocks and avoid value traps with our guide on investment strategies and algorithmic trading insights to enhance decision-making and returns."
 ---
 

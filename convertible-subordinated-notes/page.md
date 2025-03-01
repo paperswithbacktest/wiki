@@ -1,5 +1,5 @@
 ---
-title: "Convertible Subordinated Notes (Algo Trading)"
+title: "Convertible Subordinated Notes"
 description: "Explore the complex world of convertible subordinated notes and algorithmic trading Learn how these instruments can optimize returns and manage portfolio risk"
 ---
 

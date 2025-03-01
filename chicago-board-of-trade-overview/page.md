@@ -1,5 +1,5 @@
 ---
-title: "Chicago Board of Trade Overview (Algo Trading)"
+title: "Chicago Board of Trade Overview"
 description: "Explore the Chicago Board of Trade's pivotal role in futures trading with insights on algorithmic strategies, technological influence, and market evolution."
 ---
 

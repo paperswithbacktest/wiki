@@ -1,5 +1,5 @@
 ---
-title: "Average Price-to-Earnings Ratio in the Banking Industry (Algo Trading)"
+title: "Average Price-to-Earnings Ratio in the Banking Industry"
 description: "Explore the banking sector's average P/E ratios in the context of algorithmic trading enhancing informed investment decisions through financial insights."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Eschaton Trading (Algo Trading)"
+title: "Eschaton Trading"
 description: "Discover how Eschaton Trading leads in algorithmic trading with precision and innovation through advanced AI and machine learning technologies."
 ---
 

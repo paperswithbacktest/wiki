@@ -1,5 +1,5 @@
 ---
-title: "Cash Return on Gross Investment (Algo Trading)"
+title: "Cash Return on Gross Investment"
 description: "Explore the significance of Cash Return on Gross Investment (CROGI) in evaluating capital efficiency for investors and its application in algorithmic trading strategies."
 ---
 

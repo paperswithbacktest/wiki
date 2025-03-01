@@ -1,5 +1,5 @@
 ---
-title: "Exchange Controls and Corporate Evasion Strategies (Algo Trading)"
+title: "Exchange Controls and Corporate Evasion Strategies"
 description: "Explore the dynamic intersection of currency regulation, corporate finance exchange controls, and algorithmic trading, and their impact on the global financial landscape."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Age Discrimination in Employment Act of 1967 (Algo Trading)"
+title: "Age Discrimination in Employment Act of 1967"
 description: "Explore the Age Discrimination in Employment Act protecting workers 40 and older from age-based bias in hiring, promotions, and other workplace aspects."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Largest Canadian Software Companies (Algo Trading)"
+title: "Largest Canadian Software Companies"
 description: "Explore Canada's largest software companies in algorithmic trading, highlighting industry leaders driving innovation and efficiency in financial markets."
 ---
 

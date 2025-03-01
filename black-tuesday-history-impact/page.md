@@ -1,5 +1,5 @@
 ---
-title: "Black Tuesday: History and Impact (Algo Trading)"
+title: "Black Tuesday: History and Impact"
 description: "Explore Black Tuesday's history and impact on financial markets as it triggered the Great Depression and led to market regulation and modern trading evolution."
 ---
 

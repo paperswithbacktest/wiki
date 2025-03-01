@@ -1,5 +1,5 @@
 ---
-title: "Cash Flow Return on Investment (Algo Trading)"
+title: "Cash Flow Return on Investment"
 description: "Explore how Cash Flow Return on Investment (CFROI) enhances algorithmic trading by offering a precise financial metric focused on cash flow, bolstering investment decisions."
 ---
 

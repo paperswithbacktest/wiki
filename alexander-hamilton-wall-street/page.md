@@ -1,5 +1,5 @@
 ---
-title: "Alexander Hamilton and the Foundations of Wall Street (Algo Trading)"
+title: "Alexander Hamilton and the Foundations of Wall Street"
 description: "Explore how Alexander Hamilton's innovative financial policies laid the groundwork for Wall Street's development and the rise of algorithmic trading."
 ---
 

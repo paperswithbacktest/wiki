@@ -1,5 +1,5 @@
 ---
-title: "Heston Model: Concepts and Applications (Algo Trading)"
+title: "Heston Model: Concepts and Applications"
 description: "Explore the Heston Model a pivotal tool in financial derivatives for algorithmic trading. Learn its significance in volatility modeling and practical applications."
 ---
 

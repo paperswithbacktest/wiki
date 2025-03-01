@@ -1,5 +1,5 @@
 ---
-title: "EBITDAL: Earnings Before Interest, Taxes, Depreciation, Amortization, and Losses (Algo Trading)"
+title: "EBITDAL: Earnings Before Interest, Taxes, Depreciation, Amortization, and Losses"
 description: "Learn about EBITDAL Earnings Before Interest Taxes Depreciation Amortization and Losses and how this metric influences algorithmic trading strategies effectively."
 ---
 

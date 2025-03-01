@@ -1,5 +1,5 @@
 ---
-title: "Hard Assets: Types and Examples (Algo Trading)"
+title: "Hard Assets: Types and Examples"
 description: "Explore the significance of hard assets such as real estate and commodities in investment portfolios and how algorithmic trading enhances asset management."
 ---
 

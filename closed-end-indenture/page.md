@@ -1,5 +1,5 @@
 ---
-title: "Closed-End Indenture (Algo Trading)"
+title: "Closed-End Indenture"
 description: "Explore the dynamic relationship between closed-end indentures and algorithmic trading to understand their impact on bond agreements and modern finance strategies."
 ---
 

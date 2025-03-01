@@ -1,5 +1,5 @@
 ---
-title: "An Introduction to Stooq Pricing Data (Algo Trading)"
+title: "An Introduction to Stooq Pricing Data"
 description: Discover how Stooq, a financial data provider based in Poland, offers a comprehensive range of historic and current pricing data for securities, commodities, indices, forex, and cryptocurrencies essential for algorithmic trading. This guide explores how traders can utilize Stooq's extensive data, highlighting its ease of access through CSV downloads, compatibility with Python tools like Pandas for sophisticated data analysis, and the steps to integrate this valuable resource into trading strategies. Uncover the potential of Stooq data to enhance trading efficiency and performance in financial markets.
 ---
 

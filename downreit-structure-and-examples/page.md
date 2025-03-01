@@ -1,5 +1,5 @@
 ---
-title: "DownREIT: Structure and Examples (Algo Trading)"
+title: "DownREIT: Structure and Examples"
 description: "Explore DownREIT structures with tax advantages for real estate investments. Compare benefits, including algorithmic trading, to navigate property investments efficiently."
 ---
 

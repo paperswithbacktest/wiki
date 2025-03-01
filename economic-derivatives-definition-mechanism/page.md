@@ -1,5 +1,5 @@
 ---
-title: "Economic Derivatives: Definition and Mechanism (Algo Trading)"
+title: "Economic Derivatives: Definition and Mechanism"
 description: "Discover the mechanisms and significance of economic derivatives and algorithmic trading Learn how these financial tools impact modern financial markets and risk management strategies"
 ---
 

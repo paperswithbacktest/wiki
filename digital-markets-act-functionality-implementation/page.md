@@ -1,5 +1,5 @@
 ---
-title: "Digital Markets Act: Functionality and Implementation (Algo Trading)"
+title: "Digital Markets Act: Functionality and Implementation"
 description: "Explore how the Digital Markets Act impacts algorithmic trading by fostering fair competition and transparency in digital platforms, reshaping market dynamics."
 ---
 

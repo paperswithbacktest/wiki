@@ -1,5 +1,5 @@
 ---
-title: "Largest Microcap ETFs (Algo Trading)"
+title: "Largest Microcap ETFs"
 description: "Explore the dynamic world of microcap ETFs focusing on potential high returns from small-cap stocks Enhanced by algorithmic trading strategies for optimal performance"
 ---
 

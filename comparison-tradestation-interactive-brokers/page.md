@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Tradestation and Interactive Brokers (Algo Trading)"
+title: "Comparison of Tradestation and Interactive Brokers"
 description: "Explore the strengths of TradeStation and Interactive Brokers in algorithmic trading through a detailed comparison, focusing on features, pricing, user experience, and security. Understand how each platform caters to different trading styles and find the right fit for your trading needs and objectives."
 ---
 

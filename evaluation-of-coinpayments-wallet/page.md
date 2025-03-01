@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of CoinPayments Wallet (Algo Trading)"
+title: "Evaluation of CoinPayments Wallet"
 description: "Explore CoinPayments Wallet for seamless crypto transactions. Discover its integration with algo trading, low fees, and robust security features."
 ---
 

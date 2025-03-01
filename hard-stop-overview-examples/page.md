@@ -1,5 +1,5 @@
 ---
-title: "Hard Stop: Overview and Examples (Algo Trading)"
+title: "Hard Stop: Overview and Examples"
 description: "Learn about the crucial role of hard stops in algorithmic trading to manage risks and enhance trade stability with predefined exit strategies."
 ---
 

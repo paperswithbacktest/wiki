@@ -1,5 +1,5 @@
 ---
-title: "Bank Bill Swap Rate: Meaning, Calculation, and Example (Algo Trading)"
+title: "Bank Bill Swap Rate: Meaning, Calculation, and Example"
 description: "Discover the significance of the Bank Bill Swap Rate (BBSR) in Australian markets, its calculation, and its crucial role in algorithmic trading strategies."
 ---
 

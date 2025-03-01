@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Call Options and Forward Contracts (Algo Trading)"
+title: "Comparison of Call Options and Forward Contracts"
 description: "Explore the benefits and intricacies of call options, forward contracts, and algorithmic trading in this guide to optimize your financial strategies."
 ---
 

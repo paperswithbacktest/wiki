@@ -1,5 +1,5 @@
 ---
-title: "Advantages and Disadvantages of a Forex Trading Career (Algo Trading)"
+title: "Advantages and Disadvantages of a Forex Trading Career"
 description: "Explore the dynamic world of forex and algorithmic trading. Understand the unique benefits and challenges these career paths offer for informed decision-making."
 ---
 

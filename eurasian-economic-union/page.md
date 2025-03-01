@@ -1,5 +1,5 @@
 ---
-title: "Eurasian Economic Union (Algo Trading)"
+title: "Eurasian Economic Union"
 description: "Explore the impact of the Eurasian Economic Union's economic integration on algorithmic trading highlighting the role of technology in financial markets across member states."
 ---
 

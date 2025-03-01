@@ -1,5 +1,5 @@
 ---
-title: "Execution Latency Optimization (Algo Trading)"
+title: "Execution Latency Optimization"
 description: "Optimize execution latency in algorithmic trading to improve trade efficiency and competitiveness by minimizing network hardware and software delays."
 ---
 

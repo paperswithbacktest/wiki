@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Load and No-Load Mutual Funds (Algo Trading)"
+title: "Comparison of Load and No-Load Mutual Funds"
 description: "Explore the key differences between load and no-load mutual funds while examining how algorithmic trading affects mutual fund performance to refine strategies."
 ---
 

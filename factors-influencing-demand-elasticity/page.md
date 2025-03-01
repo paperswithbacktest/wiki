@@ -1,5 +1,5 @@
 ---
-title: "Factors Influencing Demand Elasticity (Algo Trading)"
+title: "Factors Influencing Demand Elasticity"
 description: "Explore how demand elasticity and algorithmic trading shape market strategies and pricing decisions for traders and businesses in a dynamic economic landscape."
 ---
 

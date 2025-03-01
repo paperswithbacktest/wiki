@@ -1,5 +1,5 @@
 ---
-title: "Consumer Sentiment: Measurement and Importance (Algo Trading)"
+title: "Consumer Sentiment: Measurement and Importance"
 description: "Explore the importance of consumer sentiment as a key economic indicator in understanding financial markets and algorithmic trading. This article investigates into how sentiment analysis influences market trends and investment strategies, highlighting its role in economic growth predictions and decision-making for financial market participants. Discover the integration of consumer sentiment data into trading algorithms to predict and capitalize on market shifts effectively."
 ---
 

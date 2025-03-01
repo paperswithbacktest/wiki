@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Forex Futures Trading (Algo Trading)"
+title: "Introduction to Forex Futures Trading"
 description: "Discover the convergence of forex futures and algorithmic trading for improved risk management and profitability in forex markets with cutting-edge strategies."
 ---
 

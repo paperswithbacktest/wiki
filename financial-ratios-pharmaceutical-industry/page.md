@@ -1,5 +1,5 @@
 ---
-title: "Financial Ratios in the Pharmaceutical Industry (Algo Trading)"
+title: "Financial Ratios in the Pharmaceutical Industry"
 description: "Explore how financial ratios impact pharmaceutical industry performance and algo trading strategies Optimize trading with key metrics on profitability and investment efficiency"
 ---
 

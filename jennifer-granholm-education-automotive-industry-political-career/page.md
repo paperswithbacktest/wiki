@@ -1,5 +1,5 @@
 ---
-title: "Jennifer Granholm: Education, Automotive Industry, and Political Career (Algo Trading)"
+title: "Jennifer Granholm: Education, Automotive Industry, and Political Career"
 description: "Explore Jennifer Granholm's role in transforming the auto industry and algorithmic trading through progressive policies and technological integration."
 ---
 

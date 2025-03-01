@@ -1,5 +1,5 @@
 ---
-title: "Asian Development Bank: Overview, Operations, and Membership (Algo Trading)"
+title: "Asian Development Bank: Overview, Operations, and Membership"
 description: "Explore how the Asian Development Bank's initiatives in infrastructure and finance bolster economic growth and algorithmic trading across the Asia-Pacific region."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Global Depositary Receipt (Algo Trading)"
+title: "Global Depositary Receipt"
 description: "Explore the synergy between Global Depositary Receipts and algorithmic trading as they reshape global finance enhancing access to international markets and investors."
 ---
 

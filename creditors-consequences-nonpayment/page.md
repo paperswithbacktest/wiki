@@ -1,5 +1,5 @@
 ---
-title: "Creditors and Consequences of Nonpayment (Algo Trading)"
+title: "Creditors and Consequences of Nonpayment"
 description: "Explore the dynamics of nonpayment in algo trading and its impact on creditors. Understand risk management and strategies to mitigate financial challenges."
 ---
 

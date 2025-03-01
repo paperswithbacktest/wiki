@@ -1,5 +1,5 @@
 ---
-title: "Deutsche Bank Overview (Algo Trading)"
+title: "Deutsche Bank Overview"
 description: "Explore Deutsche Bank's pioneering role in algorithmic trading and its impact on global finance Discover how innovative strategies enhance market efficiency"
 ---
 

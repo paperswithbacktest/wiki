@@ -1,5 +1,5 @@
 ---
-title: "Legal Measures Addressing Income Inequality (Algo Trading)"
+title: "Legal Measures Addressing Income Inequality"
 description: "Explore how legal measures and economic policies interact to tackle income inequality in algorithmic trading, promoting fair economic practices and justice."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Forward Guidance: Overview, Mechanisms, and Examples (Algo Trading)"
+title: "Forward Guidance: Overview, Mechanisms, and Examples"
 description: "Explore how forward guidance by central banks influences monetary policy and algorithmic trading Discover its impact on market expectations and decision-making strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "IShares: Fund Types and Examples (Algo Trading)"
+title: "IShares: Fund Types and Examples"
 description: "Explore iShares funds and algorithmic trading strategies to optimize investments and diversify your portfolio with cost-effective ETFs managed by BlackRock."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Deposit in Transit: Explanation and Example (Algo Trading)"
+title: "Deposit in Transit: Explanation and Example"
 description: "Explore the importance of deposits in transit and bank reconciliation in financial accounting to ensure accurate cash flow management and reliable financial reporting."
 ---
 

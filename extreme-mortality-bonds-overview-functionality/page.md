@@ -1,5 +1,5 @@
 ---
-title: "Extreme Mortality Bonds: Overview and Functionality (Algo Trading)"
+title: "Extreme Mortality Bonds: Overview and Functionality"
 description: "Explore Extreme Mortality Bonds the cutting-edge intersection of insurance, financial securities and algorithmic trading in today's complex financial landscape."
 ---
 

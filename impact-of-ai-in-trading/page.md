@@ -1,5 +1,5 @@
 ---
-title: "impact of AI in trading (Algo Trading)"
+title: "impact of AI in trading"
 description: "Discover how AI transforms trading by enhancing accuracy, speed, and efficiency in algorithmic processes. Explore its impact on trading strategies and challenges."
 ---
 

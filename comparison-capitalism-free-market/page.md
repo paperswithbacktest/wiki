@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Capitalism and Free Market (Algo Trading)"
+title: "Comparison of Capitalism and Free Market"
 description: "Compare capitalism's private ownership with free market principles of voluntary exchange and minimal intervention. Explore algorithmic trading's role in enhancing market efficiency within capitalistic systems."
 ---
 

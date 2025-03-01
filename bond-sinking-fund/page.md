@@ -1,5 +1,5 @@
 ---
-title: "Bond Sinking Fund (Algo Trading)"
+title: "Bond Sinking Fund"
 description: "Dive into the integration of sinking fund bonds and algorithmic trading to enhance portfolio diversification. Learn strategies for robust investment outcomes."
 ---
 

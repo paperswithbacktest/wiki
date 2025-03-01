@@ -1,5 +1,5 @@
 ---
-title: "History and Purpose of Swap Agreements (Algo Trading)"
+title: "History and Purpose of Swap Agreements"
 description: "Discover the history and purpose of swap agreements in algorithmic trading Learn how they enhance risk management and strategy execution in financial markets"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Due to Account (Algo Trading)"
+title: "Due to Account"
 description: "Explore how integrating 'due to accounts' into algorithmic trading platforms enhances market strategies by providing precise financial insights and optimizing performance."
 ---
 

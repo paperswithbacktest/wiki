@@ -1,5 +1,5 @@
 ---
-title: "Importance of Trailing Twelve Months in Finance (Algo Trading)"
+title: "Importance of Trailing Twelve Months in Finance"
 description: "Explore the significance of the Trailing Twelve Months in finance and algorithmic trading for improved financial analysis predictability and strategic decisions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "John Locke: An Overview (Algo Trading)"
+title: "John Locke: An Overview"
 description: "Explore the profound influence of John Locke, an Enlightenment thinker, on modern algorithmic trading. Locke's ideas on property, labor, and empiricism align with the core principles of automated trading systems. His emphasis on rational analysis and empirical evidence echoes in data-driven trading algorithms that process vast datasets to make financially beneficial decisions. Understand how Locke's philosophy, focusing on individual rights and minimal government intervention, continues to shape contemporary economic practices and the efficient operation of modern capitalist economies."
 ---
 

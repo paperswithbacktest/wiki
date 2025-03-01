@@ -1,5 +1,5 @@
 ---
-title: "Gabor Fath (Algo Trading)"
+title: "Gabor Fath"
 description: "Explore the impactful career of Gabor Fath in algorithmic trading and finance research with expertise in quantum computing and quantitative strategies."
 ---
 

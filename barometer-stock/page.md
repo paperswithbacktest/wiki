@@ -1,5 +1,5 @@
 ---
-title: "Barometer Stock (Algo Trading)"
+title: "Barometer Stock"
 description: "Explore the dynamic world of stock market indicators and algorithmic trading. Learn how technical and economic trends guide investor decisions for strategic success."
 ---
 

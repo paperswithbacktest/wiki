@@ -1,5 +1,5 @@
 ---
-title: "Insurance Strategies for Stock Market Losses (Algo Trading)"
+title: "Insurance Strategies for Stock Market Losses"
 description: "Explore strategies to protect stock market investments from losses with insights into diversification, risk management, and the role of algorithmic trading."
 ---
 

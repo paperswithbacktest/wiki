@@ -1,5 +1,5 @@
 ---
-title: "deep learning for order flow (Algo Trading)"
+title: "deep learning for order flow"
 description: "Explore the transformative role of deep learning in algorithmic trading by enhancing order flow prediction to optimize trade execution and market analysis."
 ---
 

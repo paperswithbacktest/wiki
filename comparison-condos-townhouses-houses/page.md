@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Condos, Townhouses, and Houses (Algo Trading)"
+title: "Comparison of Condos, Townhouses, and Houses"
 description: "Explore the pros and cons of condos, townhouses, and detached houses to make an informed real estate decision that suits your lifestyle and financial goals."
 ---
 

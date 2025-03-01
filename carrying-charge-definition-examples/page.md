@@ -1,5 +1,5 @@
 ---
-title: "Carrying Charge: Definition and Examples (Algo Trading)"
+title: "Carrying Charge: Definition and Examples"
 description: "Explore the essential role of carrying charges in finance and algorithmic trading Learn cost management strategies to maximize returns and optimize investments"
 ---
 

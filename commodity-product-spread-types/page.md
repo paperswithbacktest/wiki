@@ -1,5 +1,5 @@
 ---
-title: "Commodity-Product Spread and Types (Algo Trading)"
+title: "Commodity-Product Spread and Types"
 description: "Discover the intricacies of commodity-product spread trading and learn how algorithmic trading optimizes strategic execution for enhanced profits and reduced risks."
 ---
 

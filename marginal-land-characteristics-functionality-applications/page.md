@@ -1,5 +1,5 @@
 ---
-title: "Marginal Land: Characteristics, Functionality, and Applications (Algo Trading)"
+title: "Marginal Land: Characteristics, Functionality, and Applications"
 description: "Explore the potential of transforming marginal lands through innovative agricultural practices and harnessing algorithmic trading to optimize market success."
 ---
 

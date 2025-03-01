@@ -1,5 +1,5 @@
 ---
-title: "Industrial Espionage: Overview and Legal Aspects (Algo Trading)"
+title: "Industrial Espionage: Overview and Legal Aspects"
 description: "Explore industrial espionage in algo trading highlighting legal risks and protective strategies to safeguard trade secrets in the evolving corporate landscape."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "HSBC Money Laundering Controversy (Algo Trading)"
+title: "HSBC Money Laundering Controversy"
 description: "Explore the HSBC money laundering controversy highlighting regulatory failures and the complex dynamics of modern banking amidst technological advancements."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Evaluating the Value of Old Stock Certificates (Algo Trading)"
+title: "Evaluating the Value of Old Stock Certificates"
 description: "Discover the financial worth of old stock certificates and the impact of algorithmic trading on investment strategies to enhance your market acumen."
 ---
 

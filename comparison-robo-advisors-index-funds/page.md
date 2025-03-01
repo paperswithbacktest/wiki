@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Robo-Advisors and Index Funds (Algo Trading)"
+title: "Comparison of Robo-Advisors and Index Funds"
 description: "Explore the benefits of index funds and robo-advisors in this comprehensive guide to automated trading solutions. Compare strategies to optimize your investments."
 ---
 

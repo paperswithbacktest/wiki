@@ -1,5 +1,5 @@
 ---
-title: "Environmental, Social, and Governance (ESG) Criteria (Algo Trading)"
+title: "Environmental, Social, and Governance (ESG) Criteria"
 description: "Explore the integration of ESG criteria in algorithmic trading Discover how aligning sustainable practices with financial goals enhances ethical investment strategies"
 ---
 

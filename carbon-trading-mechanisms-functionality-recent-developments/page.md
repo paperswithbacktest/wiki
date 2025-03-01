@@ -1,5 +1,5 @@
 ---
-title: "Carbon Trading: Mechanisms, Functionality, and Recent Developments (Algo Trading)"
+title: "Carbon Trading: Mechanisms, Functionality, and Recent Developments"
 description: "Explore the world of carbon trading including mechanisms functionality and developments in algo trading enhancing efficiency in global climate change mitigation efforts."
 ---
 

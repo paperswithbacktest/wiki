@@ -1,5 +1,5 @@
 ---
-title: "Economic Capital and Risk Assessment (Algo Trading)"
+title: "Economic Capital and Risk Assessment"
 description: "Explore the crucial roles of risk management and economic capital in algorithmic trading focusing on effective risk assessment and mitigation for optimized trading outcomes."
 ---
 

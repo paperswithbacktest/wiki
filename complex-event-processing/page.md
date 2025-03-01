@@ -1,5 +1,5 @@
 ---
-title: "Complex Event Processing (Algo Trading)"
+title: "Complex Event Processing"
 description: "Explore the transformative impact of Complex Event Processing (CEP) in algorithmic trading by analyzing real-time data streams to identify market opportunities."
 ---
 

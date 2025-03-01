@@ -1,5 +1,5 @@
 ---
-title: "Fulcrum Fee: Overview and Examples (Algo Trading)"
+title: "Fulcrum Fee: Overview and Examples"
 description: "Explore the world of fulcrum fees and their impact on algorithmic trading. Understand performance-based fee structures and their implications for investors."
 ---
 

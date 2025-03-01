@@ -1,5 +1,5 @@
 ---
-title: "History of the South Korean Won (Algo Trading)"
+title: "History of the South Korean Won"
 description: "Explore the history of the South Korean Won and its role in algorithmic trading Discover how technological advancements shape KRW's global financial influence"
 ---
 

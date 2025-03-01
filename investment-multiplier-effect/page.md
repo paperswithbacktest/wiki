@@ -1,5 +1,5 @@
 ---
-title: "Investment Multiplier Effect (Algo Trading)"
+title: "Investment Multiplier Effect"
 description: "Explore the dynamics between Keynesian investment multiplier and algorithmic trading to understand their impact on modern financial systems and market strategies."
 ---
 

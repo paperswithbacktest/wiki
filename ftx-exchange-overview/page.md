@@ -1,5 +1,5 @@
 ---
-title: "FTX Exchange Overview (Algo Trading)"
+title: "FTX Exchange Overview"
 description: "Discover how FTX revolutionized cryptocurrency trading with innovative algo trading features before its collapse highlighted critical insights into exchange operations."
 ---
 

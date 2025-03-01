@@ -1,5 +1,5 @@
 ---
-title: "Becoming a Sophisticated Investor (Algo Trading)"
+title: "Becoming a Sophisticated Investor"
 description: "Optimize your investment strategies with insights into financial literacy and algorithmic trading Learn how sophisticated investors leverage tech to enhance portfolio performance"
 ---
 

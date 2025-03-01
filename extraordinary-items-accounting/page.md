@@ -1,5 +1,5 @@
 ---
-title: "Extraordinary Items in Accounting (Algo Trading)"
+title: "Extraordinary Items in Accounting"
 description: "Explore the impact of extraordinary items on financial reporting and algorithmic trading. Learn how these elements enhance data precision for investment strategies."
 ---
 

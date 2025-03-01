@@ -1,5 +1,5 @@
 ---
-title: "Closely Held Stock: Overview and Benefits (Algo Trading)"
+title: "Closely Held Stock: Overview and Benefits"
 description: "Discover the benefits and challenges of closely held stocks and private company shares and their intersection with algorithmic trading to shape effective investment strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Cash Flow from Financing Activities (Algo Trading)"
+title: "Analysis of Cash Flow from Financing Activities"
 description: "Explore how cash flow analysis enhances algorithmic trading by providing insights into financial statements and improving investment strategies for better decision-making."
 ---
 

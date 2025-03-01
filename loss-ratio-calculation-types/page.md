@@ -1,5 +1,5 @@
 ---
-title: "Loss Ratio: Explanation, Calculation, and Types (Algo Trading)"
+title: "Loss Ratio: Explanation, Calculation, and Types"
 description: "Explore the role of loss ratios in insurance and the impact of algorithmic trading in finance Learn how these metrics enhance risk management and decision-making"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bill of Lading: Types, Examples, and Purpose (Algo Trading)"
+title: "Bill of Lading: Types, Examples, and Purpose"
 description: "Explore the critical role of Bills of Lading in freight shipping and how algorithmic trading enhances logistics through efficiency and data-driven insights."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Average Cost Flow Assumption (Algo Trading)"
+title: "Average Cost Flow Assumption"
 description: "Explore the benefits of average cost flow assumption in inventory valuation for better financial stability in algorithmic trading and strategic decision-making."
 ---
 

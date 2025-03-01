@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Penny Stocks and Small Cap Stocks (Algo Trading)"
+title: "Comparison of Penny Stocks and Small Cap Stocks"
 description: "Explore the characteristics, advantages, and risks of penny stocks and small cap stocks in this detailed comparison to optimize your investment strategy."
 ---
 

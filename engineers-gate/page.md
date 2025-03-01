@@ -1,5 +1,5 @@
 ---
-title: "Engineers Gate (Algo Trading)"
+title: "Engineers Gate"
 description: "Discover how Engineers Gate leverages cutting-edge algorithms and data-driven strategies to excel in the fast-paced world of algorithmic trading"
 ---
 

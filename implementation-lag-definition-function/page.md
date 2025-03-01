@@ -1,5 +1,5 @@
 ---
-title: "Implementation Lag: Definition and Function (Algo Trading)"
+title: "Implementation Lag: Definition and Function"
 description: "Explore the critical role of implementation lag in economic policy and its impact on algorithmic trading strategies in modern financial markets."
 ---
 

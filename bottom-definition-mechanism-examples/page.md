@@ -1,5 +1,5 @@
 ---
-title: "Bottom: Definition and Mechanism with Examples (Algo Trading)"
+title: "Bottom: Definition and Mechanism with Examples"
 description: "Explore the concept of the 'bottom' in algo trading and learn how to utilize algorithmic strategies to identify buying opportunities for maximizing returns."
 ---
 

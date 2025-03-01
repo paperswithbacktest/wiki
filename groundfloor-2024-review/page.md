@@ -1,5 +1,5 @@
 ---
-title: "Groundfloor 2024 Review (Algo Trading)"
+title: "Groundfloor 2024 Review"
 description: "Explore Groundfloor's 2024 algorithmic trading services. Discover how this innovative platform empowers individual investors with sophisticated trading tools."
 ---
 

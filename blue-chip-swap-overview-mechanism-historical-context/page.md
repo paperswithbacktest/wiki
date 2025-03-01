@@ -1,5 +1,5 @@
 ---
-title: "Blue Chip Swap: Overview, Mechanism, and Historical Context (Algo Trading)"
+title: "Blue Chip Swap: Overview, Mechanism, and Historical Context"
 description: "Explore how blue chip swap strategies combined with algorithmic trading optimize investment returns by balancing risk and reward in the financial markets."
 ---
 

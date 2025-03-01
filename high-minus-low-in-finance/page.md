@@ -1,5 +1,5 @@
 ---
-title: "High Minus Low in Finance (Algo Trading)"
+title: "High Minus Low in Finance"
 description: "Discover the integral role of High Minus Low (HML) in algorithmic trading and finance, unlocking value stocks' premium returns over growth stocks using data-driven strategies."
 ---
 

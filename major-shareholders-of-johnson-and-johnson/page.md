@@ -1,5 +1,5 @@
 ---
-title: "Major Shareholders of Johnson & Johnson (Algo Trading)"
+title: "Major Shareholders of Johnson & Johnson"
 description: "Discover the major shareholders of Johnson & Johnson and their influence on the company's strategic decisions in the evolving landscape of algorithmic trading."
 ---
 

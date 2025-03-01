@@ -1,5 +1,5 @@
 ---
-title: "Economic Impact of a Weak Euro (Algo Trading)"
+title: "Economic Impact of a Weak Euro"
 description: "Explore the complex effects of a weak euro on global economics and forex algorithmic trading Discover opportunities and risks presented by currency fluctuations"
 ---
 

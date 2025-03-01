@@ -1,5 +1,5 @@
 ---
-title: "Examples of Free Market Economies (Algo Trading)"
+title: "Examples of Free Market Economies"
 description: "Explore the fundamental characteristics and advantages of free market economies through real-world examples featuring countries like Singapore, Switzerland, and Ireland. Understand how minimal governmental intervention fosters innovation and competition, while algorithmic trading showcases advanced free market mechanisms. Discover the balance of economic freedom with regulatory measures to enhance global economic development."
 ---
 

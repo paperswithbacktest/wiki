@@ -1,5 +1,5 @@
 ---
-title: "Gross Merchandise Value: Formula, Advantages and Disadvantages, Example (Algo Trading)"
+title: "Gross Merchandise Value: Formula, Advantages and Disadvantages, Example"
 description: "Explore how Gross Merchandise Value (GMV) serves as a vital metric in e-commerce and how algorithmic trading enhances GMV to optimize business strategies."
 ---
 

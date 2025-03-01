@@ -1,5 +1,5 @@
 ---
-title: "Charlie Shrem (Algo Trading)"
+title: "Charlie Shrem"
 description: "Explore Charlie Shrem's pivotal role in the early adoption of Bitcoin and the relevance of algorithmic trading in managing cryptocurrency market complexities efficiently."
 ---
 

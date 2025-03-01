@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Floating and Fixed Interest Rates (Algo Trading)"
+title: "Comparison of Floating and Fixed Interest Rates"
 description: "Explore the essential differences between floating and fixed interest rates and their impact on algorithmic trading to make informed investment decisions."
 ---
 

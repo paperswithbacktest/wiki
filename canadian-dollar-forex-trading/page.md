@@ -1,5 +1,5 @@
 ---
-title: "Canadian Dollar in Forex Trading (Algo Trading)"
+title: "Canadian Dollar in Forex Trading"
 description: "Explore the impact of economic factors on the Canadian dollar and the role of algorithmic trading in the forex market to enhance trading strategies."
 ---
 

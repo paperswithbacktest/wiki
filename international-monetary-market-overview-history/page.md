@@ -1,5 +1,5 @@
 ---
-title: "International Monetary Market: Overview and History (Algo Trading)"
+title: "International Monetary Market: Overview and History"
 description: "Explore the development of the International Monetary Market and algorithmic trading's impact on global markets while navigating monetary policies and historical trends."
 ---
 

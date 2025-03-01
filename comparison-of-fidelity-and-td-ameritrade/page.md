@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Fidelity and TD Ameritrade (Algo Trading)"
+title: "Comparison of Fidelity and TD Ameritrade"
 description: "Explore the comprehensive algorithmic trading features of Fidelity and TD Ameritrade Discover which platform meets your investment needs with cutting-edge tools"
 ---
 

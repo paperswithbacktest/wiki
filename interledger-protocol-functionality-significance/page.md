@@ -1,5 +1,5 @@
 ---
-title: "Interledger Protocol: Functionality and Significance (Algo Trading)"
+title: "Interledger Protocol: Functionality and Significance"
 description: "Explore the Interledger Protocol's role in blockchain interoperability and digital payments revolutionizing finance through seamless currency exchanges and algo trading."
 ---
 

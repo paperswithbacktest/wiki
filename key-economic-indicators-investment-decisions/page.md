@@ -1,5 +1,5 @@
 ---
-title: "Key Economic Indicators for Investment Decisions (Algo Trading)"
+title: "Key Economic Indicators for Investment Decisions"
 description: "Algorithmic trading integrates key economic indicators such as GDP CPI and unemployment rates to enhance investment strategies and capitalize on market movements."
 ---
 

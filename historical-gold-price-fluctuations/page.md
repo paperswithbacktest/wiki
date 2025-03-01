@@ -1,5 +1,5 @@
 ---
-title: "Historical Gold Price Fluctuations (Algo Trading)"
+title: "Historical Gold Price Fluctuations"
 description: "Explore historical gold price fluctuations and their significance in trading decisions Discover how algorithmic trading redefines strategies in this dynamic market"
 ---
 

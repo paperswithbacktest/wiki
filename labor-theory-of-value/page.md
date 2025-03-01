@@ -1,5 +1,5 @@
 ---
-title: "Labor Theory of Value (Algo Trading)"
+title: "Labor Theory of Value"
 description: "Discover the intersection of classical economics and modern finance as we explore how the labor theory of value influences algorithmic trading. Delve into the historical roots of economic thought with insights from Adam Smith and Karl Marx and understand how these theories integrate with cutting-edge trading technology. Gain valuable insights into contemporary market dynamics through the lens of economic history and the impact of algorithmic trading on financial markets today."
 ---
 

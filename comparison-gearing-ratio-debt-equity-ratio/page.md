@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Gearing Ratio and Debt-to-Equity Ratio (Algo Trading)"
+title: "Comparison of Gearing Ratio and Debt-to-Equity Ratio"
 description: "Dive into the differences between gearing and debt-to-equity ratios, essential for evaluating a company's financial leverage and risk in algorithmic trading."
 ---
 

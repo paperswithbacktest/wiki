@@ -1,5 +1,5 @@
 ---
-title: "Income Effect: Meaning and Examples (Algo Trading)"
+title: "Income Effect: Meaning and Examples"
 description: "Explore the income effect's impact on consumer behavior and algorithmic trading Learn how income changes influence demand for goods and market strategies"
 ---
 

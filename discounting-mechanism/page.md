@@ -1,5 +1,5 @@
 ---
-title: "Discounting Mechanism (Algo Trading)"
+title: "Discounting Mechanism"
 description: "Discover how discounting mechanisms integrate with economics, finance, and algorithmic trading to revolutionize financial markets and risk management strategies."
 ---
 

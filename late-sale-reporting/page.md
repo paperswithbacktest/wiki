@@ -1,5 +1,5 @@
 ---
-title: "Late Sale Reporting (Algo Trading)"
+title: "Late Sale Reporting"
 description: "Explore the crucial role of trade reporting in algorithmic trading, its impact on market transparency and efficiency, and key challenges faced in finance sale reporting."
 ---
 

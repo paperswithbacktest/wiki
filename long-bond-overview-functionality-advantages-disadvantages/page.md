@@ -1,5 +1,5 @@
 ---
-title: "Long Bond: Overview, Functionality, Advantages and Disadvantages (Algo Trading)"
+title: "Long Bond: Overview, Functionality, Advantages and Disadvantages"
 description: "Explore how long bonds can enhance portfolios with stability and predictable returns. Discover the impact of algorithmic trading on bond markets and investment strategies."
 ---
 

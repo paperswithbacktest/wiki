@@ -1,5 +1,5 @@
 ---
-title: "Impact of Quarter-End on Portfolio Management (Algo Trading)"
+title: "Impact of Quarter-End on Portfolio Management"
 description: "Quarter-end impacts portfolio management by providing a strategic period for assessing investments. Algorithmic trading exploits this data-rich time to optimize outcomes."
 ---
 

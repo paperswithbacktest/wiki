@@ -1,5 +1,5 @@
 ---
-title: "HODL Strategy in Cryptocurrency (Algo Trading)"
+title: "HODL Strategy in Cryptocurrency"
 description: "Explore the HODL strategy alongside algorithmic trading for cryptocurrency investments Discover how combining long-term holding with tech-driven trades enhances potential returns"
 ---
 

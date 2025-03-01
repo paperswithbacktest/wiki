@@ -1,5 +1,5 @@
 ---
-title: "Financial Institutions and Prudential Policy (Algo Trading)"
+title: "Financial Institutions and Prudential Policy"
 description: "Explore the dynamic world of financial institutions and algorithmic trading, understanding the crucial role of prudential policy in maintaining market integrity and stability."
 ---
 

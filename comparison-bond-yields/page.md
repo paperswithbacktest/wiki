@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Bond Yields (Algo Trading)"
+title: "Comparison of Bond Yields"
 description: "Explore how bond yields, comparison methodologies, and algorithmic trading influence investment strategies in the bond market to optimize returns and manage risks."
 ---
 

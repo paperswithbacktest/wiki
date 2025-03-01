@@ -1,5 +1,5 @@
 ---
-title: "Factors and Timing of Gold Price Declines (Algo Trading)"
+title: "Factors and Timing of Gold Price Declines"
 description: "Explore factors influencing gold price declines such as economic indicators geopolitical events and the rise of algorithmic trading in shaping investment strategies."
 ---
 

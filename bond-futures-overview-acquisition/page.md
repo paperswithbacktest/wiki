@@ -1,5 +1,5 @@
 ---
-title: "Bond Futures: Overview and Acquisition (Algo Trading)"
+title: "Bond Futures: Overview and Acquisition"
 description: "Discover how bond futures enable traders to hedge against interest rate risks and leverage algorithmic trading for competitive advantage in financial markets."
 ---
 

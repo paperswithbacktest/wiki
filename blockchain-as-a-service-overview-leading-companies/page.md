@@ -1,5 +1,5 @@
 ---
-title: "Blockchain-as-a-Service: Overview and Leading Companies (Algo Trading)"
+title: "Blockchain-as-a-Service: Overview and Leading Companies"
 description: "Discover Blockchain-as-a-Service BaaS and how top companies like Microsoft IBM and AWS are simplifying blockchain adoption for businesses seeking efficiency and security."
 ---
 

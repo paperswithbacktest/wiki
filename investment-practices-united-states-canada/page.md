@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Investment Practices in the United States and Canada (Algo Trading)"
+title: "Comparison of Investment Practices in the United States and Canada"
 description: "Explore the contrasts in algorithmic trading practices between the U.S. and Canada considering market dynamics regulatory environments and technological advancements."
 ---
 

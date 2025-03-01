@@ -1,5 +1,5 @@
 ---
-title: "Ed Seykota’s Trading Strategies Explained (Algo Trading)"
+title: "Ed Seykota’s Trading Strategies Explained"
 description: Discover how Ed Seykota revolutionized algorithmic trading with his innovative strategies and disciplined approach. Explore his methods that leverage trend following and systematic risk management to turn modest investments into substantial wealth. Gain insights into his pioneering impact on trading psychology and market analysis, offering valuable lessons for modern traders.
 ---
 

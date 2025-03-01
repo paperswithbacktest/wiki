@@ -1,5 +1,5 @@
 ---
-title: "Bond Violation and Its Processes (Algo Trading)"
+title: "Bond Violation and Its Processes"
 description: "Explore the intricate dynamics of bond violations in algorithmic trading focusing on legal processes and implications for issuers and investors navigating complex markets."
 ---
 

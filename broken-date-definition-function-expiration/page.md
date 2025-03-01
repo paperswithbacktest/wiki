@@ -1,5 +1,5 @@
 ---
-title: "Broken Date: Definition, Function, and Expiration (Algo Trading)"
+title: "Broken Date: Definition, Function, and Expiration"
 description: "Explore the concept of broken dates in financial trading to manage risk and optimize algorithmic strategies affected by nonstandard expiration schedules."
 ---
 

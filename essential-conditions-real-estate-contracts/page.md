@@ -1,5 +1,5 @@
 ---
-title: "Essential Conditions in Real Estate Contracts (Algo Trading)"
+title: "Essential Conditions in Real Estate Contracts"
 description: "Explore the dynamic intersection of real estate contracts and algorithmic trading Discover how traditional agreements adapt to technology-driven markets in this insightful article"
 ---
 

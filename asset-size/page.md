@@ -1,5 +1,5 @@
 ---
-title: "Asset Size (Algo Trading)"
+title: "Asset Size"
 description: "Explore how asset size, key financial metrics, and algorithmic trading influence banking strategies and improve decision-making in modern finance."
 ---
 

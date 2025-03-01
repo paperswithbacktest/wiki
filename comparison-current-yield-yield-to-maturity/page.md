@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Current Yield and Yield to Maturity (Algo Trading)"
+title: "Comparison of Current Yield and Yield to Maturity"
 description: "Discover key differences between current yield and yield to maturity in bond investments Learn how algorithmic trading enhances decision-making for optimal strategies"
 ---
 

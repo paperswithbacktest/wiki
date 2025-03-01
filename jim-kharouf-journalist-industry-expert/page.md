@@ -1,5 +1,5 @@
 ---
-title: "Jim Kharouf: Journalist and Industry Expert (Algo Trading)"
+title: "Jim Kharouf: Journalist and Industry Expert"
 description: "Discover Jim Kharouf's influential career as a journalist and industry expert in algorithmic trading, contributing significantly to financial media and market analysis."
 ---
 

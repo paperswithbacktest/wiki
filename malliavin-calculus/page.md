@@ -1,5 +1,5 @@
 ---
-title: "Malliavin calculus (Algo Trading)"
+title: "Malliavin calculus"
 description: "Malliavin calculus enhances algorithmic trading by improving pricing models and risk management through advanced analysis of stochastic processes in financial markets."
 ---
 

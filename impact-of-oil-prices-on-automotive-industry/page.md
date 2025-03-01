@@ -1,5 +1,5 @@
 ---
-title: "Impact of Oil Prices on the Automotive Industry (Algo Trading)"
+title: "Impact of Oil Prices on the Automotive Industry"
 description: "Explore how oil prices impact the auto industry and algorithmic trading offering insights for investors and manufacturers to capitalize on market changes."
 ---
 

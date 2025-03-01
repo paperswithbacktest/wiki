@@ -1,5 +1,5 @@
 ---
-title: "Correlation in Finance and Calculation Formula (Algo Trading)"
+title: "Correlation in Finance and Calculation Formula"
 description: "Explore the role of financial correlation in algorithmic trading and how it impacts trading strategies and risk management. This guide discusses correlation as a critical tool in portfolio diversification, offering insights for both novice traders and experienced analysts. Learn about the use of Pearson correlation and its significance in developing automated trading systems for optimized investment strategies. Discover how understanding correlation can minimize risks and maximize returns in a dynamic financial market."
 ---
 

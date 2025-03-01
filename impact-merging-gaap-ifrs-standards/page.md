@@ -1,5 +1,5 @@
 ---
-title: "Impact of Merging GAAP and IFRS Standards (Algo Trading)"
+title: "Impact of Merging GAAP and IFRS Standards"
 description: "Explore the impact of merging IFRS and GAAP standards on algorithmic trading and how it enhances financial transparency and strategic decision making."
 ---
 

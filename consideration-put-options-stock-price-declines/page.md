@@ -1,5 +1,5 @@
 ---
-title: "Consideration Of Put Options During Stock Price Declines (Algo Trading)"
+title: "Consideration Of Put Options During Stock Price Declines"
 description: "Explore strategies like put options and algo trading to manage risk during stock declines. Uncover techniques to capitalize on market downturns effectively."
 ---
 

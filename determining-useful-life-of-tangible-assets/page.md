@@ -1,5 +1,5 @@
 ---
-title: "Determining Useful Life of Tangible Assets (Algo Trading)"
+title: "Determining Useful Life of Tangible Assets"
 description: "Explore how tangible assets' valuation and their useful life impact financial strategies in algo trading, enhancing investment decisions and profitability."
 ---
 

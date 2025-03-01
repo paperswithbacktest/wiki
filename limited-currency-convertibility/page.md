@@ -1,5 +1,5 @@
 ---
-title: "Limited Currency Convertibility (Algo Trading)"
+title: "Limited Currency Convertibility"
 description: "Explore the impact of limited currency convertibility on forex trading and international trade Learn about algorithmic trading and how it shapes currency exchange dynamics"
 ---
 

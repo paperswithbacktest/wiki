@@ -1,5 +1,5 @@
 ---
-title: "Equity Unit Investment Trust: Overview and Function (Algo Trading)"
+title: "Equity Unit Investment Trust: Overview and Function"
 description: "Explore how Equity Unit Investment Trusts and algorithmic trading combine traditional investment stability with cutting-edge precision to boost returns."
 ---
 

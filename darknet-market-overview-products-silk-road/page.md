@@ -1,5 +1,5 @@
 ---
-title: "Darknet Market: Overview, Products, and Silk Road (Algo Trading)"
+title: "Darknet Market: Overview, Products, and Silk Road"
 description: "Explore the complex world of darknet markets with a focus on the Silk Road's illegal trade activities and implications for modern digital commerce."
 ---
 

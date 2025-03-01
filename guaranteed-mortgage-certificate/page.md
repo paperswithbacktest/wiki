@@ -1,5 +1,5 @@
 ---
-title: "Guaranteed Mortgage Certificate (Algo Trading)"
+title: "Guaranteed Mortgage Certificate"
 description: "Explore how Guaranteed Mortgage Certificates & algorithmic trading synergize to revolutionize real estate finance, offering innovative investment opportunities."
 ---
 

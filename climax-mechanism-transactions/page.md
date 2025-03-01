@@ -1,5 +1,5 @@
 ---
-title: "Climax: Mechanism and Transactions (Algo Trading)"
+title: "Climax: Mechanism and Transactions"
 description: "Explore the role of algorithmic trading in recognizing and exploiting climax patterns for market reversals Learn how algorithms enhance trade decisions unbiasedly"
 ---
 

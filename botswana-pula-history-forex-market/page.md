@@ -1,5 +1,5 @@
 ---
-title: "Botswana Pula: History and Forex Market (Algo Trading)"
+title: "Botswana Pula: History and Forex Market"
 description: "Explore the Botswana Pula as a stable and intriguing investment in forex markets. Discover how algorithmic trading enhances opportunities and manages risks effectively."
 ---
 

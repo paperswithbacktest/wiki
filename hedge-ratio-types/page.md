@@ -1,5 +1,5 @@
 ---
-title: "Hedge Ratio and Types (Algo Trading)"
+title: "Hedge Ratio and Types"
 description: "Enhance your investment strategy by mastering hedge ratios and algorithmic trading for optimized portfolio management and effective risk control."
 ---
 

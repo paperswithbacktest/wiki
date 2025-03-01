@@ -1,5 +1,5 @@
 ---
-title: "Directional Drilling: Overview, Advantages, and Disadvantages (Algo Trading)"
+title: "Directional Drilling: Overview, Advantages, and Disadvantages"
 description: "Explore the advantages and challenges of directional drilling in oil extraction Learn about its environmental impact economic benefits and role in algo trading."
 ---
 

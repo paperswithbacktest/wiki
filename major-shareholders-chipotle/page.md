@@ -1,5 +1,5 @@
 ---
-title: "Major Shareholders of Chipotle (Algo Trading)"
+title: "Major Shareholders of Chipotle"
 description: "Discover how algorithmic trading impacts Chipotle investors by enhancing trading precision, cost efficiency, and market analysis for optimized shareholder value."
 ---
 

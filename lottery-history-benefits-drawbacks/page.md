@@ -1,5 +1,5 @@
 ---
-title: "Lottery: History, Benefits, and Drawbacks (Algo Trading)"
+title: "Lottery: History, Benefits, and Drawbacks"
 description: "Explore the intriguing history of lotteries alongside the rise of algorithmic trading while understanding their benefits and drawbacks in modern finance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Calculating Current Liabilities Using Excel (Algo Trading)"
+title: "Calculating Current Liabilities Using Excel"
 description: "Explore how Excel simplifies tracking current liabilities, enhancing liquidity assessment in financial analysis, and learn its significance in algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Mark Minervini’s Trading Strategies Explained (Algo Trading)"
+title: "Mark Minervini’s Trading Strategies Explained"
 description: Discover Mark Minervini's influential trading strategies and their integration with algorithmic trading. Learn how these techniques, known for impressive market performance, enhance trading through computer algorithms, maximizing efficiency and precision in stock selection and risk management. Explore the application of Minervini’s Specific Entry Point Analysis for strategic trades in this insightful guide, offering valuable insights into advanced trading methods and future prospects.
 ---
 

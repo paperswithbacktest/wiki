@@ -1,5 +1,5 @@
 ---
-title: "High Flier (Algo Trading)"
+title: "High Flier"
 description: "Discover the innovative world of algorithmic trading where speed and technology redefine financial markets and offer exciting career opportunities."
 ---
 

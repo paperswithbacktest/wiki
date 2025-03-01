@@ -1,5 +1,5 @@
 ---
-title: "History of Currency (Algo Trading)"
+title: "History of Currency"
 description: "Explore the evolution of currency from ancient barter systems to algorithmic trading highlighting key advancements in finance and monetary systems."
 ---
 

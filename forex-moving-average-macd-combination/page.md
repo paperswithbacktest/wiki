@@ -1,5 +1,5 @@
 ---
-title: "Forex Moving Average and MACD Combination (Algo Trading)"
+title: "Forex Moving Average and MACD Combination"
 description: "Explore the combination of moving averages and the MACD indicator in forex algorithmic trading to identify momentum shifts and optimize trading strategies."
 ---
 

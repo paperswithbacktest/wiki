@@ -1,5 +1,5 @@
 ---
-title: "Assessment of Bond Fund Performance and Risk (Algo Trading)"
+title: "Assessment of Bond Fund Performance and Risk"
 description: "Explore the synergy of bond funds financial risk and algorithmic trading in optimizing investment strategies to aid informed decision-making for investors."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Average Balance: Usage and Effects on Interest (Algo Trading)"
+title: "Average Balance: Usage and Effects on Interest"
 description: "Explore the essential role of average balance and interest calculation in algorithmic trading Learn their impact on financial decisions and trading strategies"
 ---
 

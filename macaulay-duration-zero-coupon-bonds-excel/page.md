@@ -1,5 +1,5 @@
 ---
-title: "Macaulay Duration of Zero-Coupon Bonds in Excel (Algo Trading)"
+title: "Macaulay Duration of Zero-Coupon Bonds in Excel"
 description: "Explore how to calculate Macaulay Duration for zero-coupon bonds in Excel to enhance your algorithmic trading strategies by understanding bond sensitivity to interest rates."
 ---
 

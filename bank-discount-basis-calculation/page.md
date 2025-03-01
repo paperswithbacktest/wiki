@@ -1,5 +1,5 @@
 ---
-title: "Bank Discount Basis: Definition and Calculation (Algo Trading)"
+title: "Bank Discount Basis: Definition and Calculation"
 description: "Explore the bank discount basis and its calculation for financial instruments like Treasury bills Learn how algorithmic trading benefits from these key concepts"
 ---
 

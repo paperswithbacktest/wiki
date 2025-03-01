@@ -1,5 +1,5 @@
 ---
-title: "Bear Straddle: Definition and Mechanism (Algo Trading)"
+title: "Bear Straddle: Definition and Mechanism"
 description: "Explore the bear straddle strategy in algorithmic trading, leveraging options for bearish markets to capitalize on volatility and optimize profitability."
 ---
 

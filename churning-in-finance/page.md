@@ -1,5 +1,5 @@
 ---
-title: "Churning in Finance (Algo Trading)"
+title: "Churning in Finance"
 description: "Explore the dynamics of investment strategies and algorithmic trading while unraveling the ethical implications of churning in finance, ensuring optimal investor returns."
 ---
 

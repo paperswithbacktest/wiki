@@ -1,5 +1,5 @@
 ---
-title: "Daniel Kahneman: Education, Achievements, and Legacy (Algo Trading)"
+title: "Daniel Kahneman: Education, Achievements, and Legacy"
 description: "Discover Daniel Kahneman's revolutionary contributions to psychology and economics that have transformed understanding of decision-making and impacted algorithmic trading."
 ---
 

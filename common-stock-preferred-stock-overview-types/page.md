@@ -1,5 +1,5 @@
 ---
-title: "Common Stock and Preferred Stock: Overview and Types (Algo Trading)"
+title: "Common Stock and Preferred Stock: Overview and Types"
 description: "Explore the key differences between common and preferred stock including voting rights and dividends Discover how algorithmic trading impacts modern markets"
 ---
 

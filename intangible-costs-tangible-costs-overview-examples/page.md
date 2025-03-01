@@ -1,5 +1,5 @@
 ---
-title: "Intangible Costs and Tangible Costs: Overview and Examples (Algo Trading)"
+title: "Intangible Costs and Tangible Costs: Overview and Examples"
 description: "Explore tangible and intangible costs in algorithmic trading to optimize your strategies. Learn how these costs impact profitability and decision-making."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Grid Trading in Finance (Algo Trading)"
+title: "Grid Trading in Finance"
 description: "Explore the intricacies of grid trading in finance a strategic method employed in forex and crypto to capitalize on market volatility through automated trade grids."
 ---
 

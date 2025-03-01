@@ -1,5 +1,5 @@
 ---
-title: "Current Price (Algo Trading)"
+title: "Current Price"
 description: "Discover the importance of current prices in algo trading a pivotal aspect of effective strategies Explore how pricing and algorithms shape modern trading dynamics"
 ---
 

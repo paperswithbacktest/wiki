@@ -1,5 +1,5 @@
 ---
-title: "Growth Investing Strategy Overview (Algo Trading)"
+title: "Growth Investing Strategy Overview"
 description: "Explore strategies for maximizing wealth through growth investing and algorithmic trading Learn how these methodologies optimize investment portfolios and enhance returns"
 ---
 

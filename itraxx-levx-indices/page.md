@@ -1,5 +1,5 @@
 ---
-title: "ITraxx LevX Indices (Algo Trading)"
+title: "ITraxx LevX Indices"
 description: "Discover how the iTraxx LevX indexes and algorithmic trading enhance credit risk management and trading strategies in European credit markets."
 ---
 

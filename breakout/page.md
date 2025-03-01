@@ -1,5 +1,5 @@
 ---
-title: "Breakout (Algo Trading)"
+title: "Breakout"
 description: Explore the intricacies of breakout strategies in algorithmic trading, a powerful tool for identifying significant market shifts through automated systems. Discover how understanding support and resistance levels can provide traders with strategic entry and exit points, leveraging technical indicators to maximize trading success in fast-paced financial markets.
 ---
 

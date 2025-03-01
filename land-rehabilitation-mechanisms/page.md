@@ -1,5 +1,5 @@
 ---
-title: "Land Rehabilitation and Its Mechanisms (Algo Trading)"
+title: "Land Rehabilitation and Its Mechanisms"
 description: "Explore the synergy between land rehabilitation and algorithmic strategies to manage complex systems and drive sustainable environmental restoration efforts."
 ---
 

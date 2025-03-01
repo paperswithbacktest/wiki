@@ -1,5 +1,5 @@
 ---
-title: "Insider Buying: Overview, Mechanism, and Types (Algo Trading)"
+title: "Insider Buying: Overview, Mechanism, and Types"
 description: "Explore how insider buying and algorithmic trading intersect to impact stock transactions Discover insights from company insiders combined with automated strategies"
 ---
 

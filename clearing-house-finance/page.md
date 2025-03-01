@@ -1,5 +1,5 @@
 ---
-title: "Clearing House (Finance) (Algo Trading)"
+title: "Clearing House (Finance)"
 description: "Explore the crucial role of clearing houses in algorithmic trading as they ensure efficient and secure trade settlements, mitigating risks and enhancing market reliability."
 ---
 

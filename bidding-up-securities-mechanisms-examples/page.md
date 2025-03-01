@@ -1,5 +1,5 @@
 ---
-title: "Bidding Up Securities: Mechanisms and Examples (Algo Trading)"
+title: "Bidding Up Securities: Mechanisms and Examples"
 description: "Explore how algorithmic trading transforms bidding up securities with speed and precision allowing investors to navigate and capitalize in dynamic financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Gemini API Guide (Algo Trading)"
+title: "Gemini API Guide"
 description: Explore the Gemini API Guide for insights into leveraging APIs for algorithmic trading on a leading cryptocurrency exchange. Discover the features of Gemini's REST, WebSocket, and FIX APIs to automate and optimize trading strategies. This resource provides comprehensive guidance for traders seeking efficiency, security, and real-time data access. Understanding Gemini's API capabilities can enhance trading outcomes, offering precision in the fast-paced world of crypto markets. Perfect for developers and traders aiming to maintain a competitive edge, Gemini APIs support seamless integration and strategic automation.
 ---
 

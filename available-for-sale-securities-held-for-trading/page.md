@@ -1,5 +1,5 @@
 ---
-title: "Available-for-Sale Securities vs. Held-for-Trading Securities (Algo Trading)"
+title: "Available-for-Sale Securities vs. Held-for-Trading Securities"
 description: "Explore the key distinctions between Available-for-Sale and Held-for-Trading securities to enhance your trading strategy and align with financial objectives."
 ---
 

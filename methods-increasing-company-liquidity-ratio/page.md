@@ -1,5 +1,5 @@
 ---
-title: "Methods for Quickly Increasing a Company's Liquidity Ratio (Algo Trading)"
+title: "Methods for Quickly Increasing a Company's Liquidity Ratio"
 description: "Explore strategies to enhance a company's liquidity ratio quickly with insights on algorithmic trading benefits such as efficiency and reduced transaction costs."
 ---
 

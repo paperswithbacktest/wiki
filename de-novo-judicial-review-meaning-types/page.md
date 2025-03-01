@@ -1,5 +1,5 @@
 ---
-title: "De Novo Judicial Review: Meaning and Types (Algo Trading)"
+title: "De Novo Judicial Review: Meaning and Types"
 description: "Learn about de novo judicial review its role in law and implications for algorithmic trading. Understand this critical reevaluation process and its impact."
 ---
 

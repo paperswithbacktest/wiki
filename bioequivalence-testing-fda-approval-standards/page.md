@@ -1,5 +1,5 @@
 ---
-title: "Bioequivalence Testing and FDA Approval Standards (Algo Trading)"
+title: "Bioequivalence Testing and FDA Approval Standards"
 description: "Explore the intriguing intersections between bioequivalence testing, FDA approval, and algorithmic trading revealing their complex relationships and shared methodologies."
 ---
 

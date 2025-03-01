@@ -1,5 +1,5 @@
 ---
-title: "Block Time: Measurement and Verification (Algo Trading)"
+title: "Block Time: Measurement and Verification"
 description: "Explore block time and verification in blockchain, crucial for cryptocurrency security and algorithmic trading. Learn how block time impacts transaction speed."
 ---
 

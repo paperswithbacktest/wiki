@@ -1,5 +1,5 @@
 ---
-title: "Liquidation Level and Its Functionality (Algo Trading)"
+title: "Liquidation Level and Its Functionality"
 description: "Explore the risks and dynamics of algorithmic trading and liquidation levels Learn how these elements affect trading strategies and the broader market environment"
 ---
 

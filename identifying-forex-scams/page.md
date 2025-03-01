@@ -1,5 +1,5 @@
 ---
-title: "Identifying Forex Scams (Algo Trading)"
+title: "Identifying Forex Scams"
 description: "Discover how to protect yourself from forex scams in algorithmic trading by exploring common fraudulent tactics, understanding the misuse of trading technology, and learning to identify reliable trading systems. Gain insights on how to navigate the forex market securely and responsibly to safeguard your investments and make informed decisions."
 ---
 

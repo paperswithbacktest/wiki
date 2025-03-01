@@ -1,5 +1,5 @@
 ---
-title: "Economic Factors Affecting Consumer Goods Demand (Algo Trading)"
+title: "Economic Factors Affecting Consumer Goods Demand"
 description: "Explore how economic factors like income levels, inflation, and employment rates affect consumer goods demand and algorithmic trading strategies for better market insights."
 ---
 

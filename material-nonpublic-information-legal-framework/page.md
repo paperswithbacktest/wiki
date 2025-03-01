@@ -1,5 +1,5 @@
 ---
-title: "Material Nonpublic Information and Legal Framework (Algo Trading)"
+title: "Material Nonpublic Information and Legal Framework"
 description: "Explore the vital role of Material Nonpublic Information in finance and its impact on insider trading and algorithmic trading under evolving regulations."
 ---
 

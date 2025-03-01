@@ -1,5 +1,5 @@
 ---
-title: "Economic Impact of Korean Reunification (Algo Trading)"
+title: "Economic Impact of Korean Reunification"
 description: "Explore how the reunification of North and South Korea could transform algorithmic trading in global markets by leveraging unique economic synergies."
 ---
 

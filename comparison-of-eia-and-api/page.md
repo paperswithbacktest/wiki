@@ -1,5 +1,5 @@
 ---
-title: "Comparison of EIA and API (Algo Trading)"
+title: "Comparison of EIA and API"
 description: "Explore the role of EIA and API reports in algorithmic trading and how APIs facilitate swift access to vital market data enhancing trading strategies in commodities."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Danish Krone: Overview and History (Algo Trading)"
+title: "Danish Krone: Overview and History"
 description: "Explore the historical journey of the Danish Krone and its integration into algorithmic trading enhancing currency strategies in today's evolving markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "GDAX and Its Rebranding to Coinbase Pro (Algo Trading)"
+title: "GDAX and Its Rebranding to Coinbase Pro"
 description: "Explore the transition from GDAX to Coinbase Pro and its impact on algorithmic trading. Learn about enhanced features that cater to professional traders."
 ---
 

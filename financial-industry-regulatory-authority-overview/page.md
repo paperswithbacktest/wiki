@@ -1,5 +1,5 @@
 ---
-title: "Financial Industry Regulatory Authority Overview (Algo Trading)"
+title: "Financial Industry Regulatory Authority Overview"
 description: "Discover how FINRA regulates algorithmic trading to maintain market integrity and protect investors, ensuring fair and transparent financial operations."
 ---
 

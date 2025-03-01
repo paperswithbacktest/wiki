@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Gold ETFs and Gold Futures (Algo Trading)"
+title: "Comparison of Gold ETFs and Gold Futures"
 description: "Discover the differences between Gold ETFs and Gold Futures in algo trading. Explore their benefits, risks, and how they fit diverse investment strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Aftermarket Report (Algo Trading)"
+title: "Aftermarket Report"
 description: "Explore the transformative impact of algorithmic trading in modern finance Uncover market trends and aftermarket implications that drive trading efficiency"
 ---
 

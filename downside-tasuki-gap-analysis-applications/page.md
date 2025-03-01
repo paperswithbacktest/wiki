@@ -1,5 +1,5 @@
 ---
-title: "Downside Tasuki Gap Analysis and Applications (Algo Trading)"
+title: "Downside Tasuki Gap Analysis and Applications"
 description: "Explore the Downside Tasuki Gap candlestick pattern for insights in bear market trends and learn its applications for improving algorithmic trading strategies."
 ---
 

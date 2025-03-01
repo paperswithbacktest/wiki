@@ -1,5 +1,5 @@
 ---
-title: "Markov Processes (Algo Trading)"
+title: "Markov Processes"
 description: "Explore how Markov Processes enhance algorithmic trading by predicting market movements using mathematical models that transition probabilistically."
 ---
 

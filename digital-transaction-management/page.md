@@ -1,5 +1,5 @@
 ---
-title: "Digital Transaction Management (Algo Trading)"
+title: "Digital Transaction Management"
 description: "Discover the transformative world of digital transaction management focusing on algorithmic trading and electronic signatures for enhanced efficiency and security."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategies and Considerations (Algo Trading)"
+title: "Investment Strategies and Considerations"
 description: "Explore the synergy between investment strategies and algo trading to enhance financial planning understand diverse asset classes and optimize portfolio management."
 ---
 

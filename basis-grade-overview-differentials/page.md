@@ -1,5 +1,5 @@
 ---
-title: "Basis Grade: Overview and Differentials (Algo Trading)"
+title: "Basis Grade: Overview and Differentials"
 description: "Explore the impact of basis grade and finance differentials in algorithmic trading Learn how these factors optimize strategies and enhance trading outcomes"
 ---
 

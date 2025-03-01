@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Mid-Cap Stocks (Algo Trading)"
+title: "Analysis of Mid-Cap Stocks"
 description: "Explore the potential of mid-cap stocks in a diversified portfolio by analyzing their profitability growth and financial health through algorithmic trading strategies."
 ---
 

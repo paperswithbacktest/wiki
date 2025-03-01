@@ -1,5 +1,5 @@
 ---
-title: "Investment in Film Industry (Algo Trading)"
+title: "Investment in Film Industry"
 description: "Explore the transformative role of algorithmic trading in film financing. Discover how modern strategies optimize investments and democratize opportunities worldwide."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Ability to Outperform Financial Markets (Algo Trading)"
+title: "Ability to Outperform Financial Markets"
 description: "Explore the dynamics of financial markets and investment strategies including the power of algorithmic trading to outperform with efficiency and precision."
 ---
 

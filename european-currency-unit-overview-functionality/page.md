@@ -1,5 +1,5 @@
 ---
-title: "European Currency Unit: Overview and Functionality (Algo Trading)"
+title: "European Currency Unit: Overview and Functionality"
 description: "Discover the European Currency Unit’s pivotal role in history and its influence on algorithmic trading trends in European markets within the EMS framework."
 ---
 

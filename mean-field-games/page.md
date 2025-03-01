@@ -1,5 +1,5 @@
 ---
-title: "Mean field games (Algo Trading)"
+title: "Mean field games"
 description: "Explore the intersection of mean field games and algorithmic trading within quantitative finance. Uncover frameworks that enhance market modeling and strategy development."
 ---
 

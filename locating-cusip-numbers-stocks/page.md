@@ -1,5 +1,5 @@
 ---
-title: "Locating CUSIP Numbers for Stocks (Algo Trading)"
+title: "Locating CUSIP Numbers for Stocks"
 description: "Discover the strategic role of CUSIP numbers in enhancing algorithmic trading, boosting efficiency in investment strategies, and ensuring regulatory compliance."
 ---
 

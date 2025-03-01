@@ -1,5 +1,5 @@
 ---
-title: "Biofuel: Examples and Limitations (Algo Trading)"
+title: "Biofuel: Examples and Limitations"
 description: "Explore the potential of biofuels in reducing carbon emissions and the role of algorithmic trading in energy markets while facing scalability challenges."
 ---
 

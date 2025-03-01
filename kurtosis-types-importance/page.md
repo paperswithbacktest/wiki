@@ -1,5 +1,5 @@
 ---
-title: "Kurtosis: Types and Importance (Algo Trading)"
+title: "Kurtosis: Types and Importance"
 description: "Explore the influence of kurtosis in algorithmic trading to improve price volatility assessment and risk management. Enhance trading strategies by understanding data distribution extremes."
 ---
 

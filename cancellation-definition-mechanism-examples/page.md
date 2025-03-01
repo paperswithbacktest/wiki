@@ -1,5 +1,5 @@
 ---
-title: "Cancellation: Definition, Mechanism, and Examples (Algo Trading)"
+title: "Cancellation: Definition, Mechanism, and Examples"
 description: "Explore the definition and examples of cancellation in algorithmic trading. Understand its mechanisms and implications for modern financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "International Depository Receipt: Overview and Applications (Algo Trading)"
+title: "International Depository Receipt: Overview and Applications"
 description: "Explore International Depository Receipts and their synergy with algorithmic trading to enhance cross-border investments and optimize global financial strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Investment Styles and Their Suitability (Algo Trading)"
+title: "Investment Styles and Their Suitability"
 description: "Explore suitable investment styles from traditional methods like value investing to modern techniques like algorithmic trading, optimizing your strategies for better financial outcomes."
 ---
 

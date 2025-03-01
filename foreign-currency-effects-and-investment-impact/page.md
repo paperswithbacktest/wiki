@@ -1,5 +1,5 @@
 ---
-title: "Foreign Currency Effects and Investment Impact (Algo Trading)"
+title: "Foreign Currency Effects and Investment Impact"
 description: "Explore how foreign currency fluctuations impact investment returns and how algorithmic trading can effectively navigate forex market volatility."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bid and Ask Size in Stock Quotes (Algo Trading)"
+title: "Bid and Ask Size in Stock Quotes"
 description: "Explore the fundamentals of stock quotes including bid and ask sizes, and their vital role in algorithmic trading. Unlock insights into market liquidity and dynamics."
 ---
 

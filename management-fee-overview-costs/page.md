@@ -1,5 +1,5 @@
 ---
-title: "Management Fee: Overview and Costs (Algo Trading)"
+title: "Management Fee: Overview and Costs"
 description: "Explore the impact of management fees on algorithmic trading strategies Discover how these costs influence profitability and investor decision-making."
 ---
 

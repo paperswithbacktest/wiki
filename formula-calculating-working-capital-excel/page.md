@@ -1,5 +1,5 @@
 ---
-title: "Formula for Calculating Working Capital in Excel (Algo Trading)"
+title: "Formula for Calculating Working Capital in Excel"
 description: "Explore how to calculate working capital in Excel essential for financial health and supporting algorithmic trading strategies through efficient data analysis."
 ---
 

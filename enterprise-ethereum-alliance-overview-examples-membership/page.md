@@ -1,5 +1,5 @@
 ---
-title: "Enterprise Ethereum Alliance: Overview, Examples, and Membership (Algo Trading)"
+title: "Enterprise Ethereum Alliance: Overview, Examples, and Membership"
 description: "Discover how Enterprise Ethereum Alliance membership enhances algorithmic trading with blockchain technology fostering innovation and optimizing strategies."
 ---
 

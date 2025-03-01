@@ -1,5 +1,5 @@
 ---
-title: "Historical Capitalization Rates in New York City Real Estate (Algo Trading)"
+title: "Historical Capitalization Rates in New York City Real Estate"
 description: "Explore the synergy between NYC real estate and algorithmic trading to enhance investment returns by leveraging cap rate evaluations and data-driven strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Buy-and-Hold Strategy in Forex Trading (Algo Trading)"
+title: "Buy-and-Hold Strategy in Forex Trading"
 description: "Explore the application of a buy-and-hold strategy in forex trading through algorithmic techniques Learn how to leverage long-term currency investments effectively."
 ---
 

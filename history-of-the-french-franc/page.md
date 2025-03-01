@@ -1,5 +1,5 @@
 ---
-title: "History of the French Franc (Algo Trading)"
+title: "History of the French Franc"
 description: "Explore the rich history of the French Franc spanning over six centuries and its impact on current economic strategies and algorithmic trading insights."
 ---
 

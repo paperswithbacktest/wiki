@@ -1,5 +1,5 @@
 ---
-title: "Demand Curves: Types and Examples (Algo Trading)"
+title: "Demand Curves: Types and Examples"
 description: "Explore the fundamental concepts of demand curves and learn how they influence market forecasts and algorithmic trading strategies in this insightful article"
 ---
 

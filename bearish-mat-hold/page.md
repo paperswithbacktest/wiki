@@ -1,5 +1,5 @@
 ---
-title: "Bearish Mat Hold Explained (Algo Trading)"
+title: "Bearish Mat Hold Explained"
 description: Explore the Mat Hold candlestick pattern in algorithmic trading. Understand how this robust continuation pattern can enhance your trading strategies by identifying key signals within market trends. Learn about the bullish and bearish Mat Hold variations, common errors to avoid, and how to integrate volume indicators for validated signals. Gain valuable insights and skills to leverage the Mat Hold pattern in your algo trading framework, empowering informed decisions in market entries and exits.
 ---
 

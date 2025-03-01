@@ -1,5 +1,5 @@
 ---
-title: "Call Options: Rights Versus Obligations (Algo Trading)"
+title: "Call Options: Rights Versus Obligations"
 description: "Explore the dynamic world of call options and their role in algorithmic trading strategies. Learn how technology optimizes call options for better market performance."
 ---
 

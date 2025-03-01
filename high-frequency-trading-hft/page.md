@@ -1,5 +1,5 @@
 ---
-title: "High-frequency trading (HFT) (Algo Trading)"
+title: "High-frequency trading (HFT)"
 description: "Explore the world of high-frequency trading HFT a cutting-edge algorithmic trading method reshaping finance with rapid trades and market influence."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "CHIPS and Science Act of 2022 (Algo Trading)"
+title: "CHIPS and Science Act of 2022"
 description: "Explore the transformative impact of the CHIPS and Science Act of 2022 on algorithmic trading. Delve into how this major legislation reshapes US tech."
 ---
 

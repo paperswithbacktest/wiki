@@ -1,5 +1,5 @@
 ---
-title: "Legal Monopolies in the United States and Europe (Algo Trading)"
+title: "Legal Monopolies in the United States and Europe"
 description: "Explore how legal monopolies shape European sectors and the impact of algorithmic trading on US financial markets highlighting regulatory approaches and market dynamics."
 ---
 

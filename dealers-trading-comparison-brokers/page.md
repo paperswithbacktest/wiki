@@ -1,5 +1,5 @@
 ---
-title: "Dealers in Trading and Their Comparison to Brokers (Algo Trading)"
+title: "Dealers in Trading and Their Comparison to Brokers"
 description: "Explore the dynamic relationships between brokers and dealers in algorithmic trading Discover their roles in enhancing market liquidity and efficiency"
 ---
 

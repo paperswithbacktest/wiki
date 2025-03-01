@@ -1,5 +1,5 @@
 ---
-title: "Initial Capital Requirements for Trading (Algo Trading)"
+title: "Initial Capital Requirements for Trading"
 description: "navigate fewer transactions and are not subject to the Pattern Day Trader rule. Swing traders focus on capturing incremental gains in a trending market, balancing risk and return over an intermediate time frame. Successful swing trading hinges on the ability to analyze market trends and employ effective risk management techniques.
 
 ### Forex Trading

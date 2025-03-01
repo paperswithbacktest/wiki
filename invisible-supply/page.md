@@ -1,5 +1,5 @@
 ---
-title: "Invisible Supply (Algo Trading)"
+title: "Invisible Supply"
 description: "Explore the roles of invisible supply and algorithmic trading in modern markets Discover how they impact market dynamics efficiency and economic strategies"
 ---
 

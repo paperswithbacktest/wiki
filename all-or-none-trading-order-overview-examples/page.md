@@ -1,5 +1,5 @@
 ---
-title: "All Or None Trading Order: Overview and Examples (Algo Trading)"
+title: "All Or None Trading Order: Overview and Examples"
 description: "Discover the strategic advantage of All Or None (AON) orders in trading minimize partial fills and enhance efficiency through integrated algorithmic strategies."
 ---
 

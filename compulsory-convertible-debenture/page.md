@@ -1,5 +1,5 @@
 ---
-title: "Compulsory Convertible Debenture (Algo Trading)"
+title: "Compulsory Convertible Debenture"
 description: "Explore Compulsory Convertible Debentures and algorithmic trading and discover how these innovative financial tools enhance investment strategies in modern markets."
 ---
 

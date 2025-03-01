@@ -1,5 +1,5 @@
 ---
-title: "Impact of Glass-Steagall Act Repeal on the 2008 Financial Crisis (Algo Trading)"
+title: "Impact of Glass-Steagall Act Repeal on the 2008 Financial Crisis"
 description: "Explore how the Glass-Steagall Act repeal contributed to the 2008 financial crisis by allowing riskier banking practices and the rise of algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Fiat Money and Legal Tender (Algo Trading)"
+title: "Comparison of Fiat Money and Legal Tender"
 description: "Explore the critical differences between fiat money and legal tender, key currency components shaping algorithmic trading strategies in today's financial markets."
 ---
 

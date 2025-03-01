@@ -1,5 +1,5 @@
 ---
-title: "David Ricardo: Contributions and Legacy (Algo Trading)"
+title: "David Ricardo: Contributions and Legacy"
 description: "Explore David Ricardo's comparative advantage theory and its impact on international trade and algorithmic trading strategies in today's economy."
 ---
 

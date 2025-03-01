@@ -1,5 +1,5 @@
 ---
-title: "Group of Seven Member Countries and Function (Algo Trading)"
+title: "Group of Seven Member Countries and Function"
 description: "Explore how the G7 countries collaborate to tackle the challenges and opportunities of algorithmic trading ensuring global market stability and transparency."
 ---
 

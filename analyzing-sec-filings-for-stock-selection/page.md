@@ -1,5 +1,5 @@
 ---
-title: "Analyzing SEC Filings for Stock Selection (Algo Trading)"
+title: "Analyzing SEC Filings for Stock Selection"
 description: "Unlock the power of analyzing SEC filings for informed stock selection and algorithmic trading Discover tools and strategies for modern investors"
 ---
 

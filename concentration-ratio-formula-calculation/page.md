@@ -1,5 +1,5 @@
 ---
-title: "Concentration Ratio: Formula and Calculation (Algo Trading)"
+title: "Concentration Ratio: Formula and Calculation"
 description: "Explore the significance of the concentration ratio in market analysis and algorithmic trading, highlighting how it measures competition levels within an industry. Understand how this metric influences market dynamics by identifying key players and revealing the extent of competition. Learn how traders use concentration ratios to fine-tune algorithms and optimize investment strategies, providing a competitive edge in complex markets. Gain insights into the formula and calculation of concentration ratios, enhancing your ability to navigate and succeed in the evolving financial landscape."
 ---
 

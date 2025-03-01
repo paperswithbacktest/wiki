@@ -1,5 +1,5 @@
 ---
-title: "Bangladeshi Taka: Uses and Exchange Rate Trends (Algo Trading)"
+title: "Bangladeshi Taka: Uses and Exchange Rate Trends"
 description: "Explore Bangladeshi Taka trends in exchange rates with a focus on algorithmic trading Understand how BDT is influenced by economic and global factors"
 ---
 

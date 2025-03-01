@@ -1,5 +1,5 @@
 ---
-title: "Adjusted Debit Balance (Algo Trading)"
+title: "Adjusted Debit Balance"
 description: "Balance, as it directly influences their capacity for executing trades. By understanding and managing their adjusted debit balances, traders can optimize strategies and maintain effective risk control within algorithmic trading environments."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Gross National Product: Understanding and Calculation (Algo Trading)"
+title: "Gross National Product: Understanding and Calculation"
 description: "Explore the significance of Gross National Product in economic measurement and algorithmic trading Discover how GNP informs policies and enhances investment strategies"
 ---
 

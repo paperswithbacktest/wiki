@@ -1,5 +1,5 @@
 ---
-title: "Core Durable Goods Orders (Algo Trading)"
+title: "Core Durable Goods Orders"
 description: "Discover how core durable goods orders serve as crucial economic indicators impacting algorithmic trading strategies. Gain insights into the economic health of nations as these data points reflect consumer and business confidence, influencing stock prices, bond yields, and currency values. Learn to forecast market movements and make informed investment decisions by understanding the nuances of core durable goods metrics and their role in economic analysis."
 ---
 

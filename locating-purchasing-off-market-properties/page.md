@@ -1,5 +1,5 @@
 ---
-title: "Locating and Purchasing Off-Market Properties (Algo Trading)"
+title: "Locating and Purchasing Off-Market Properties"
 description: "Unlock hidden real estate opportunities with Algo Trading Discover how algorithmic strategies transform off-market property acquisition to gain a competitive edge"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Common Questions for Financial Advisors (Algo Trading)"
+title: "Common Questions for Financial Advisors"
 description: "Optimize your financial strategies by exploring key questions to ask your financial advisor about investment planning and algorithmic trading for better outcomes."
 ---
 

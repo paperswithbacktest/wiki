@@ -1,5 +1,5 @@
 ---
-title: "David Swensen Portfolio (Algo Trading)"
+title: "David Swensen Portfolio"
 description: Explore the innovative integration of the Yale Endowment Model into algorithmic trading. Discover how David Swensen's approach to diversification and alternative investments reshapes investment strategies with its focus on long-term gains and risk management. This blend brings efficiency to automated trading systems, offering potential synergies that enrich modern financial markets.
 ---
 

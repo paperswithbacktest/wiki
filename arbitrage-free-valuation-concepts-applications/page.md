@@ -1,5 +1,5 @@
 ---
-title: "Arbitrage-Free Valuation: Concepts and Applications (Algo Trading)"
+title: "Arbitrage-Free Valuation: Concepts and Applications"
 description: "Explore arbitrage-free valuation and its role in algo trading Discover how this method ensures fair pricing and unlocks profit opportunities in financial markets"
 ---
 

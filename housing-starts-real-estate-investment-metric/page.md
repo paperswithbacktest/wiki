@@ -1,5 +1,5 @@
 ---
-title: "Housing Starts as a Real Estate Investment Metric (Algo Trading)"
+title: "Housing Starts as a Real Estate Investment Metric"
 description: "Discover how housing starts impact real estate investment and explore the use of algorithmic trading to optimize returns and manage risks effectively."
 ---
 

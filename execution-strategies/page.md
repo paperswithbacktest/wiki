@@ -1,5 +1,5 @@
 ---
-title: "Execution Strategies (Algo Trading)"
+title: "Execution Strategies"
 description: "Optimize your algo trading with effective execution strategies to minimize costs and risks Ensure optimal trade execution by understanding market dynamics and order types"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Debit Spread Comparison With Credit Spread (Algo Trading)"
+title: "Debit Spread Comparison With Credit Spread"
 description: "Explore the differences between debit and credit spreads in options trading with insights on algorithmic trading strategies to enhance your trading approach."
 ---
 

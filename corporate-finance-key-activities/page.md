@@ -1,5 +1,5 @@
 ---
-title: "Corporate Finance: Key Activities (Algo Trading)"
+title: "Corporate Finance: Key Activities"
 description: "Explore the significant role of algorithmic trading in corporate finance improving speed and efficiency in trade execution while minimizing human error and optimizing financial strategies."
 ---
 

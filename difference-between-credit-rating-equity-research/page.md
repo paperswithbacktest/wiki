@@ -1,5 +1,5 @@
 ---
-title: "Difference Between Credit Rating and Equity Research (Algo Trading)"
+title: "Difference Between Credit Rating and Equity Research"
 description: "Explore the differences between credit ratings and equity research in algo trading to enhance investment strategies with comprehensive financial insights."
 ---
 

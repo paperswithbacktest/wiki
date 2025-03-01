@@ -1,5 +1,5 @@
 ---
-title: "CAIA Fundamentals for Alternative Investments (Algo Trading)"
+title: "CAIA Fundamentals for Alternative Investments"
 description: "Explore the powerful intersection of CAIA certification with algorithmic trading to excel in alternative investments optimizing portfolios and enhancing decision-making."
 ---
 

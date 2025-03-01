@@ -1,5 +1,5 @@
 ---
-title: "Enterprise Value And Market Capitalization Comparison (Algo Trading)"
+title: "Enterprise Value And Market Capitalization Comparison"
 description: "Understand the synergy between enterprise value and market capitalization in algo trading Learn how these financial metrics drive modern investment strategies"
 ---
 

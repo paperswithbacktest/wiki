@@ -1,5 +1,5 @@
 ---
-title: "Marginal Analysis in Business and Economics (Algo Trading)"
+title: "Marginal Analysis in Business and Economics"
 description: "Discover how marginal analysis aids decision-making in economics and algo trading by evaluating cost benefits, optimizing strategies, and enhancing efficiency."
 ---
 

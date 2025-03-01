@@ -1,5 +1,5 @@
 ---
-title: "Internal Audit: Types and the Five Cs (Algo Trading)"
+title: "Internal Audit: Types and the Five Cs"
 description: "Explore the impact of different internal audit types and the Five Cs framework on business efficiency and compliance within the algo trading sector."
 ---
 

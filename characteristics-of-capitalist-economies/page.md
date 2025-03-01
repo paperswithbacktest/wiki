@@ -1,5 +1,5 @@
 ---
-title: "Characteristics of Capitalist Economies (Algo Trading)"
+title: "Characteristics of Capitalist Economies"
 description: "Explore the dynamics of capitalist economies and algorithmic trading by examining how private ownership and free markets interact with technological innovation to shape today's global economy."
 ---
 

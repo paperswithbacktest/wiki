@@ -1,5 +1,5 @@
 ---
-title: "Acceptance Market: Definition, Function, and Types (Algo Trading)"
+title: "Acceptance Market: Definition, Function, and Types"
 description: "Explore the acceptance market's pivotal role in today's finance, understanding its types and functions, and the impact of algorithmic trading on global investments."
 ---
 

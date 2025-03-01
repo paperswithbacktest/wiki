@@ -1,5 +1,5 @@
 ---
-title: "Berlin Stock Exchange: Overview and Function (Algo Trading)"
+title: "Berlin Stock Exchange: Overview and Function"
 description: "Explore the Berlin Stock Exchange's historic evolution and current role in global finance as a hub for algorithmic trading and international investments."
 ---
 

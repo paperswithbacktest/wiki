@@ -1,5 +1,5 @@
 ---
-title: "Administered Prices and Examples (Algo Trading)"
+title: "Administered Prices and Examples"
 description: "Explore how administered price controls shape markets by influencing supply and demand dynamics and their interplay with algorithmic trading systems."
 ---
 

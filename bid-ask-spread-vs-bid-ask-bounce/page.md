@@ -1,5 +1,5 @@
 ---
-title: "Bid-Ask Spread vs. Bid-Ask Bounce (Algo Trading)"
+title: "Bid-Ask Spread vs. Bid-Ask Bounce"
 description: "Understand essential financial concepts with our detailed comparison of bid-ask spread and bounce These insights reveal market liquidity and trading strategies"
 ---
 

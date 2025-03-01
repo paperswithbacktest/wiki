@@ -1,5 +1,5 @@
 ---
-title: "Absolute Priority Rule in Bankruptcy (Algo Trading)"
+title: "Absolute Priority Rule in Bankruptcy"
 description: "Explore the absolute priority rule in bankruptcy and its impact on algorithmic trading of distressed assets, emphasizing creditor hierarchy and investment strategies."
 ---
 

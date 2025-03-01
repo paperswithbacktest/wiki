@@ -1,5 +1,5 @@
 ---
-title: "Emerging Market ETFs: Advantages and Disadvantages (Algo Trading)"
+title: "Emerging Market ETFs: Advantages and Disadvantages"
 description: "Explore the pros and cons of Emerging Market ETFs and learn how algorithmic trading can optimize investments in these high-growth but volatile markets."
 ---
 

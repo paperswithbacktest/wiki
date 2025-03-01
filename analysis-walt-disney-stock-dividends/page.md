@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Walt Disney Stock Dividends (Algo Trading)"
+title: "Analysis of Walt Disney Stock Dividends"
 description: "Discover key insights on Walt Disney's stock dividends and explore the role of algorithmic trading in optimizing investment strategies for potential returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of North Korean and South Korean Economies (Algo Trading)"
+title: "Comparison of North Korean and South Korean Economies"
 description: "Explore the stark economic differences between North and South Korea highlighting South Korea's global market prowess versus North Korea's isolated struggles."
 ---
 

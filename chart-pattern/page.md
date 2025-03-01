@@ -1,5 +1,5 @@
 ---
-title: "Chart pattern (Algo Trading)"
+title: "Chart pattern"
 description: Chart patterns play a crucial role in algorithmic trading by helping traders identify trends and potential market movements in stock and commodity markets. These patterns, including traditional, harmonic, and candlestick patterns, provide indicators of market dynamics and are used to forecast price directions and market trends. Traditional patterns like Double Top and Head and Shoulders signal reversals, while continuation patterns like Triangles suggest ongoing trends. Harmonic patterns use Fibonacci ratios for predicting reversals, providing traders with high-probability opportunities. Candlestick patterns visually represent price actions and are integral to market analysis. Understanding and applying these patterns empower traders to make more strategic trading decisions.
 ---
 

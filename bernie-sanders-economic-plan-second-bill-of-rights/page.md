@@ -1,5 +1,5 @@
 ---
-title: "Bernie Sanders Economic Plan: Second Bill of Rights (Algo Trading)"
+title: "Bernie Sanders Economic Plan: Second Bill of Rights"
 description: "Bernie Sanders' Second Bill of Rights economic plan emphasizes economic security by advocating for universal healthcare, debt cancellation, and workers' rights. It includes Wall Street and corporate reforms, targeting algo trading with a financial transaction tax to reduce market volatility. The plan seeks to enhance economic justice, ensuring fair opportunities and reducing socio-economic disparities in the U.S."
 ---
 

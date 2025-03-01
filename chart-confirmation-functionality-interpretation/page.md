@@ -1,5 +1,5 @@
 ---
-title: "Chart Confirmation: Functionality and Interpretation (Algo Trading)"
+title: "Chart Confirmation: Functionality and Interpretation"
 description: "Discover the key role of chart confirmation in algorithmic trading Learn to verify signals using patterns and indicators for informed trading strategies and decisions"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Group of Thirty: Overview, History, Membership (Algo Trading)"
+title: "Group of Thirty: Overview, History, Membership"
 description: "Explore the Group of Thirty's global influence in economic policy and algorithmic trading through its history and impactful membership since its 1978 inception."
 ---
 

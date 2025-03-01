@@ -1,5 +1,5 @@
 ---
-title: "Data Anonymization Techniques and Purposes (Algo Trading)"
+title: "Data Anonymization Techniques and Purposes"
 description: "Explore data anonymization techniques crucial for algorithmic trading to protect sensitive information while maintaining data utility. Discover methods ensuring privacy compliance."
 ---
 

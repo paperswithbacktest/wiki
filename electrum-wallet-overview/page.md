@@ -1,5 +1,5 @@
 ---
-title: "Electrum Wallet Overview (Algo Trading)"
+title: "Electrum Wallet Overview"
 description: "Explore Electrum Wallet's robust security and efficiency, designed for Bitcoin algorithmic trading. Discover why traders trust Electrum for seamless, secure transactions."
 ---
 

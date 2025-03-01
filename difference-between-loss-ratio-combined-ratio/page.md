@@ -1,5 +1,5 @@
 ---
-title: "Difference Between Loss Ratio and Combined Ratio (Algo Trading)"
+title: "Difference Between Loss Ratio and Combined Ratio"
 description: "Explore the difference between loss ratio and combined ratio in insurance and understand how algorithmic trading can enhance strategic decisions and financial performance."
 ---
 

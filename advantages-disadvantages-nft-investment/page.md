@@ -1,5 +1,5 @@
 ---
-title: "Advantages and Disadvantages of NFT Investment (Algo Trading)"
+title: "Advantages and Disadvantages of NFT Investment"
 description: "Explore the advantages and disadvantages of NFT investments and algorithmic trading Discover the potential rewards and risks in these emerging markets"
 ---
 

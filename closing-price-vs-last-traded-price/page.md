@@ -1,5 +1,5 @@
 ---
-title: "Closing Price Vs. Last Traded Price (Algo Trading)"
+title: "Closing Price Vs. Last Traded Price"
 description: "Explore the significance of closing and last traded prices in stock trading and how they are used in algorithmic trading strategies to enhance market decisions."
 ---
 

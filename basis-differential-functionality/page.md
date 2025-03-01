@@ -1,5 +1,5 @@
 ---
-title: "Basis Differential and Its Functionality (Algo Trading)"
+title: "Basis Differential and Its Functionality"
 description: "Explore the intricate roles of price spread, basis differential, and algorithmic trading in modern financial markets to optimize strategies and trading outcomes."
 ---
 

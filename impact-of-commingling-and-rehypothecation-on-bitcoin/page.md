@@ -1,5 +1,5 @@
 ---
-title: "Impact of Commingling and Rehypothecation on Bitcoin (Algo Trading)"
+title: "Impact of Commingling and Rehypothecation on Bitcoin"
 description: "Discover how practices like rehypothecation and commingling impact Bitcoin trading Understand the complexities and risks involved in this evolving crypto landscape"
 ---
 

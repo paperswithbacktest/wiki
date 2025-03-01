@@ -1,5 +1,5 @@
 ---
-title: "Impact of Blockchain on the GPU Industry (Algo Trading)"
+title: "Impact of Blockchain on the GPU Industry"
 description: "Discover how blockchain transforms the GPU industry and algorithmic trading. Explore future trends, tech evolution, and market impacts in this dynamic field."
 ---
 

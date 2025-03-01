@@ -1,5 +1,5 @@
 ---
-title: "Accidental High Yielder (Algo Trading)"
+title: "Accidental High Yielder"
 description: "Discover accidental high-yield opportunities in algo trading Leverage powerful algorithms to identify undervalued assets and maximize returns with minimal risk"
 ---
 

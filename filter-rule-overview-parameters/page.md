@@ -1,5 +1,5 @@
 ---
-title: "Filter Rule: Overview and Parameters (Algo Trading)"
+title: "Filter Rule: Overview and Parameters"
 description: "Discover how the filter rule enhances algo trading by setting objective criteria for trades based on price changes Boost efficiency and precision in trading decisions"
 ---
 

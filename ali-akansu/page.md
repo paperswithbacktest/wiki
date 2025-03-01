@@ -1,5 +1,5 @@
 ---
-title: "Ali Akansu (Algo Trading)"
+title: "Ali Akansu"
 description: "Discover the remarkable journey of Ali Akansu whose expertise in signal processing and algorithmic trading has significantly impacted finance and technology sectors."
 ---
 

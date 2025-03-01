@@ -1,5 +1,5 @@
 ---
-title: "Day-Count Conventions in Bond Markets (Algo Trading)"
+title: "Day-Count Conventions in Bond Markets"
 description: "Explore the intricacies of day-count conventions, essential rules that underpin interest calculations and pricing in bond markets. Gain insights into how these conventions affect bond valuation and trading strategies in algorithmic trading. Understand the impact of different day-count rules on accrued interest and market decisions for enhanced financial analysis and portfolio management. Discover how these conventions are crucial for accurate fixed-income security assessments and algorithmic trading models."
 ---
 

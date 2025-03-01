@@ -1,5 +1,5 @@
 ---
-title: "Autoregressive Moving Average (ARMA) Models for Time Series Analysis (Algo Trading)"
+title: "Autoregressive Moving Average (ARMA) Models for Time Series Analysis"
 description: Explore the application of ARMA models in algorithmic trading to enhance strategy development by understanding autocorrelations in time series data. Learn how ARMA helps predict market behaviors crucial for executing profitable trades and optimizing risk management.
 ---
 

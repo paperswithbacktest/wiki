@@ -1,5 +1,5 @@
 ---
-title: "Diffusion of Innovations Theory (Algo Trading)"
+title: "Diffusion of Innovations Theory"
 description: "Explore the impact of algo trading within the context of the Diffusion of Innovations theory understanding how technology adoption is influenced by social change."
 ---
 

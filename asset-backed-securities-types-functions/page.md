@@ -1,5 +1,5 @@
 ---
-title: "Asset-Backed Securities: Types and Functions (Algo Trading)"
+title: "Asset-Backed Securities: Types and Functions"
 description: "Discover the dynamics of asset-backed securities and the role of algorithmic trading in modern financial markets. Gain insights on ABS types and trading strategies."
 ---
 

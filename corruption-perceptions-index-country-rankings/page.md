@@ -1,5 +1,5 @@
 ---
-title: "Corruption Perceptions Index and Country Rankings (Algo Trading)"
+title: "Corruption Perceptions Index and Country Rankings"
 description: "Explore global corruption perceptions with the 2023 Corruption Perceptions Index. Gain insights into rankings, economic impacts, and algorithmic trading links."
 ---
 

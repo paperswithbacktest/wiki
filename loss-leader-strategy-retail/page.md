@@ -1,5 +1,5 @@
 ---
-title: "Loss Leader Strategy in Retail (Algo Trading)"
+title: "Loss Leader Strategy in Retail"
 description: "Explore how the loss leader strategy in retail enhances sales with below-cost pricing attracting customers who buy additional high-margin items, linked to algo trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Medium-Term Investment Time Periods (Algo Trading)"
+title: "Medium-Term Investment Time Periods"
 description: "Explore the benefits and challenges of medium-term investments in algorithmic trading defined as strategies with a timeframe of two to ten years for balanced growth."
 ---
 

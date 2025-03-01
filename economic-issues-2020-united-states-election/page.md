@@ -1,5 +1,5 @@
 ---
-title: "Economic Issues of the 2020 United States Election (Algo Trading)"
+title: "Economic Issues of the 2020 United States Election"
 description: "Explore how the 2020 U.S. election shaped economic policies and influenced algorithmic trading activities. Uncover the dynamic impact on global financial markets."
 ---
 

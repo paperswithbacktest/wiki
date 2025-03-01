@@ -1,5 +1,5 @@
 ---
-title: "Discounted After-Tax Cash Flow (Algo Trading)"
+title: "Discounted After-Tax Cash Flow"
 description: "Explore how discounted after-tax cash flow integrates with algorithmic trading for smarter financial decisions. Enhance strategy and investment returns."
 ---
 

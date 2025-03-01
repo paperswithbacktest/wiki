@@ -1,5 +1,5 @@
 ---
-title: "Attorney Fee Awards (Algo Trading)"
+title: "Attorney Fee Awards"
 description: "Understand attorney fees, legal costs, and fee awards in the context of algorithmic trading. Find insights on cost structures and legal implications."
 ---
 

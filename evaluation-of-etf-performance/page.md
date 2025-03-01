@@ -1,5 +1,5 @@
 ---
-title: "Evaluation Of ETF Performance (Algo Trading)"
+title: "Evaluation Of ETF Performance"
 description: "Explore the comprehensive process of evaluating ETF performance with a focus on key performance metrics and the impact of algorithmic trading strategies. Gain insight into essential factors such as expense ratios, liquidity, and tracking error to make informed investment decisions in the dynamic ETF market. Discover how financial analysis aids in navigating ETF investments effectively."
 ---
 

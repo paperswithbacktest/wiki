@@ -1,5 +1,5 @@
 ---
-title: "Federal Poverty Level (Algo Trading)"
+title: "Federal Poverty Level"
 description: "Explore the intersection of Federal Poverty Level and algorithmic trading to understand how socio-economic factors can influence financial market strategies and decisions."
 ---
 

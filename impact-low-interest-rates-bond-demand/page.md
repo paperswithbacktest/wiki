@@ -1,5 +1,5 @@
 ---
-title: "Impact Of Low Interest Rates On Bond Demand (Algo Trading)"
+title: "Impact Of Low Interest Rates On Bond Demand"
 description: "Explore the impact of low interest rates on bond demand, and learn how algorithmic trading shapes the bond market, enhancing investment strategies."
 ---
 

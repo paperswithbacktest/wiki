@@ -1,5 +1,5 @@
 ---
-title: "Dual Exchange Rate: Overview, Examples, and Limitations (Algo Trading)"
+title: "Dual Exchange Rate: Overview, Examples, and Limitations"
 description: "Explore the dual exchange rate system and its challenges including arbitrage and black markets alongside the influence and benefits of algorithmic trading in currency markets."
 ---
 

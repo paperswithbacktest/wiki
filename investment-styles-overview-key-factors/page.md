@@ -1,5 +1,5 @@
 ---
-title: "Investment Styles: Overview and Key Factors (Algo Trading)"
+title: "Investment Styles: Overview and Key Factors"
 description: "Explore the transformative impact of algorithmic trading on investment strategies. Discover how technology enhances precision and personalizes financial plans."
 ---
 

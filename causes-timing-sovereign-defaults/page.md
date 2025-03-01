@@ -1,5 +1,5 @@
 ---
-title: "Causes and Timing of Sovereign Defaults (Algo Trading)"
+title: "Causes and Timing of Sovereign Defaults"
 description: "Explore the dynamic interplay of economic crises, sovereign defaults, and algorithmic trading's role in shaping global financial ecosystems and economic resilience."
 ---
 

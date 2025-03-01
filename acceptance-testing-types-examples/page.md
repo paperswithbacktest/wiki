@@ -1,5 +1,5 @@
 ---
-title: "Acceptance Testing: Types and Examples (Algo Trading)"
+title: "Acceptance Testing: Types and Examples"
 description: "Explore the importance of acceptance testing in algorithmic trading. Learn how different types ensure software meets user needs legal regulations and business goals."
 ---
 

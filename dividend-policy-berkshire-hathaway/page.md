@@ -1,5 +1,5 @@
 ---
-title: "Dividend Policy of Berkshire Hathaway (Algo Trading)"
+title: "Dividend Policy of Berkshire Hathaway"
 description: "Explore Berkshire Hathaway's unique no-dividend policy under Warren Buffett and its impact, alongside the rise of algorithmic trading in modern financial markets."
 ---
 

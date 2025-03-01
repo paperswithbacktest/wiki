@@ -1,5 +1,5 @@
 ---
-title: "Economic Decline of Greece (Algo Trading)"
+title: "Economic Decline of Greece"
 description: "Explore the impact of Greece's economic crisis and the role of algorithmic trading in today's market dynamics unraveling lessons to prevent future financial instability."
 ---
 

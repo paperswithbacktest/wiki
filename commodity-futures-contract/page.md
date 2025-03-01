@@ -1,5 +1,5 @@
 ---
-title: "Commodity Futures Contract (Algo Trading)"
+title: "Commodity Futures Contract"
 description: "Explore the evolving role of commodity futures contracts and algorithmic trading in financial markets Discover how technology enhances trading strategies and market efficiency"
 ---
 

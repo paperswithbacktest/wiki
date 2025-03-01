@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Cash Flow From Investing Activities (Algo Trading)"
+title: "Analysis of Cash Flow From Investing Activities"
 description: "Explore the significance of cash flow from investing activities in algo trading highlighting its impact on financial analysis operational efficiency and strategic decisions."
 ---
 

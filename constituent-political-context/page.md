@@ -1,5 +1,5 @@
 ---
-title: "Constituent in Political Context (Algo Trading)"
+title: "Constituent in Political Context"
 description: "Explore how constituent representation in politics and algorithmic trading in finance impact governance and markets providing insights for strategic decision-making."
 ---
 

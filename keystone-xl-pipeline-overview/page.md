@@ -1,5 +1,5 @@
 ---
-title: "Keystone XL Pipeline Overview (Algo Trading)"
+title: "Keystone XL Pipeline Overview"
 description: "Discover the complexities of the Keystone XL Pipeline and its impact on energy security environmental policy and the evolving role of algorithmic trading in energy markets."
 ---
 

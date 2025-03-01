@@ -1,5 +1,5 @@
 ---
-title: "Bundesbank: Structure and Function (Algo Trading)"
+title: "Bundesbank: Structure and Function"
 description: "Explore the interplay between Germany's Bundesbank monetary policies and algorithmic trading's rise highlighting impacts on market liquidity and economic stability."
 ---
 

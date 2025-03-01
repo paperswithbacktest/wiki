@@ -1,5 +1,5 @@
 ---
-title: "Commodity ETF: Overview and Guide (Algo Trading)"
+title: "Commodity ETF: Overview and Guide"
 description: "Discover the essentials of Commodity ETFs and algorithmic trading to maximize investment strategies with insight into market dynamics and trading efficiencies."
 ---
 

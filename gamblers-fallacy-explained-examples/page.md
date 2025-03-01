@@ -1,5 +1,5 @@
 ---
-title: "Gambler's Fallacy Explained with Examples (Algo Trading)"
+title: "Gambler's Fallacy Explained with Examples"
 description: "Learn about the Gambler's Fallacy and its impact on trading decisions. Discover how understanding probability can help improve your trading strategies."
 ---
 

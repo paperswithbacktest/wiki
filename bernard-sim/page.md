@@ -1,5 +1,5 @@
 ---
-title: "Bernard Sim (Algo Trading)"
+title: "Bernard Sim"
 description: "Explore the career of Bernard Sim a leading expert in algorithmic trading. Discover his journey from education to shaping global financial markets."
 ---
 

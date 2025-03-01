@@ -1,5 +1,5 @@
 ---
-title: "Central America-Dominican Republic Free Trade Agreement (Algo Trading)"
+title: "Central America-Dominican Republic Free Trade Agreement"
 description: "Examine the impact of CAFTA-DR on Central America's economy and explore how it supports the integration of advanced technologies like algorithmic trading."
 ---
 

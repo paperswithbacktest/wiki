@@ -1,5 +1,5 @@
 ---
-title: "Actively Managed ETFs: Overview and Limitations (Algo Trading)"
+title: "Actively Managed ETFs: Overview and Limitations"
 description: "Discover the benefits and drawbacks of actively managed ETFs, including impact from algorithmic trading and how these investment vehicles can fit your strategy."
 ---
 

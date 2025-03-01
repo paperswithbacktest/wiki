@@ -1,5 +1,5 @@
 ---
-title: "Alternative Investment Strategies (Algo Trading)"
+title: "Alternative Investment Strategies"
 description: "Explore alternative investment strategies like algorithmic trading for diversification and enhanced returns Discover insights into optimizing your investment portfolio"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bullet Trade: Mechanism and Options (Algo Trading)"
+title: "Bullet Trade: Mechanism and Options"
 description: "Explore the world of Bullet Trade and algorithmic trading Discover how advanced technology transforms trade mechanisms offering speed precision and investment opportunities"
 ---
 

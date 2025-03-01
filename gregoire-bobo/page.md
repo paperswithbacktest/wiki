@@ -1,5 +1,5 @@
 ---
-title: "Grégoire Bobo (Algo Trading)"
+title: "Grégoire Bobo"
 description: "Grégoire Bobo excels in algorithmic trading, blending financial engineering with C++ and Python skills to craft advanced trading strategies."
 ---
 

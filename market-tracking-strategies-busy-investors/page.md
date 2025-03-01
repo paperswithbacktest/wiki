@@ -1,5 +1,5 @@
 ---
-title: "Market Tracking Strategies for Busy Investors (Algo Trading)"
+title: "Market Tracking Strategies for Busy Investors"
 description: "Explore innovative market tracking strategies tailored for busy investors leveraging algorithmic trading to maximize returns and stay ahead in a dynamic sector."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Factors Contributing to the Liquidity of the Mexican Peso (Algo Trading)"
+title: "Factors Contributing to the Liquidity of the Mexican Peso"
 description: "Discover the key factors enhancing the liquidity of the Mexican Peso with insights into global forex trends and the impact of algo trading on MXN's dynamic market presence."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Deferred Charge (Algo Trading)"
+title: "Deferred Charge"
 description: "Explore the critical role of deferred charges in accounting and algorithmic trading for better cash flow management and financial strategy optimization."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Lina Khan (Algo Trading)"
+title: "Lina Khan"
 description: "Explore Lina Khan's pivotal role at the FTC in reshaping antitrust regulations, focusing on Big Tech and digital markets. Her leadership redefines market fairness."
 ---
 

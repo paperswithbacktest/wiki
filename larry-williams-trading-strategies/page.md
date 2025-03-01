@@ -1,5 +1,5 @@
 ---
-title: "Larry Williams Trading Strategies Explained (Algo Trading)"
+title: "Larry Williams Trading Strategies Explained"
 description: Discover how Larry Williams' renowned trading strategies can be seamlessly integrated into algorithmic trading systems. This detailed exploration highlights Williams' innovative methods, providing traders with the tools to automate decision-making and enhance trading precision. Learn about the key indicators such as Williams %R and Ultimate Oscillator and how they can be adapted for improved market analysis in dynamic scenarios, paving the way for disciplined and profitable trade executions.
 ---
 

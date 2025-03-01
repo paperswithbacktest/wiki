@@ -1,5 +1,5 @@
 ---
-title: "Go-Shop Period and Its Criticisms (Algo Trading)"
+title: "Go-Shop Period and Its Criticisms"
 description: "Explore the go-shop period and its role in mergers and acquisitions, alongside the impact of algorithmic trading on corporate transactions and market dynamics."
 ---
 

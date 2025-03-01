@@ -1,5 +1,5 @@
 ---
-title: "China Credit Information Service (Algo Trading)"
+title: "China Credit Information Service"
 description: "Explore China's evolving credit reporting landscape with the China Credit Information Service CCIS leading crucial fintech and algorithmic trading advancements."
 ---
 

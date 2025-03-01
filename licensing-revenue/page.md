@@ -1,5 +1,5 @@
 ---
-title: "Licensing Revenue (Algo Trading)"
+title: "Licensing Revenue"
 description: "Explore how licensing in algorithmic trading generates revenue while enhancing market performance by monetizing proprietary algorithms and fostering innovation."
 ---
 

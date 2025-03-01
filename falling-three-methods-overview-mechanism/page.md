@@ -1,5 +1,5 @@
 ---
-title: "Falling Three Methods: Overview and Mechanism (Algo Trading)"
+title: "Falling Three Methods: Overview and Mechanism"
 description: "Explore the falling three methods pattern a key tool in technical analysis that helps predict bearish trend continuations especially in algorithmic trading."
 ---
 

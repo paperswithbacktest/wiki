@@ -1,5 +1,5 @@
 ---
-title: "Americans with Disabilities Act: History and Impact (Algo Trading)"
+title: "Americans with Disabilities Act: History and Impact"
 description: "Explore the impact of the Americans with Disabilities Act on industries and discover its intersection with algorithmic trading for enhanced inclusivity."
 ---
 

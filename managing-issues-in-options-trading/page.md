@@ -1,5 +1,5 @@
 ---
-title: "Managing Issues in Options Trading (Algo Trading)"
+title: "Managing Issues in Options Trading"
 description: "Master options trading complexity manage risks and capitalize on market movements with algorithmic strategies and sound financial practices for optimal success"
 ---
 

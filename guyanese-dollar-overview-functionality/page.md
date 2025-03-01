@@ -1,5 +1,5 @@
 ---
-title: "Guyanese Dollar: Overview and Functionality (Algo Trading)"
+title: "Guyanese Dollar: Overview and Functionality"
 description: "Explore the role of the Guyanese Dollar in Guyana's economy amid rapid growth and oil discoveries Learn how algorithmic trading impacts the currency market"
 ---
 

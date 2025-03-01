@@ -1,5 +1,5 @@
 ---
-title: "Investment in Pollution Control and Waste Reduction (Algo Trading)"
+title: "Investment in Pollution Control and Waste Reduction"
 description: "Explore the synergy between sustainable investing pollution control waste reduction and algorithmic trading for a cleaner future with promising financial returns"
 ---
 

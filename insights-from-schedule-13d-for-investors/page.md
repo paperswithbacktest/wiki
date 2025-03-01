@@ -1,5 +1,5 @@
 ---
-title: "Insights from Schedule 13D for Investors (Algo Trading)"
+title: "Insights from Schedule 13D for Investors"
 description: "Explore how Schedule 13D filings impact market dynamics and investor strategies highlighting the intersection with algorithmic trading for timely insights."
 ---
 

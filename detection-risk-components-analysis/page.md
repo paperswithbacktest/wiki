@@ -1,5 +1,5 @@
 ---
-title: "Detection Risk: Components and Analysis (Algo Trading)"
+title: "Detection Risk: Components and Analysis"
 description: "Explore the complexities of detection risk in auditing financial statements coupled with insights into audit risk and algorithmic trading in financial markets."
 ---
 

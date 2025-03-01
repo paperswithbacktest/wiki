@@ -1,5 +1,5 @@
 ---
-title: "Development of Trading Strategies Using Chikou Span (Algo Trading)"
+title: "Development of Trading Strategies Using Chikou Span"
 description: "Optimize your trading strategies with the Chikou Span from the Ichimoku system Learn how this tool offers unique market insights to enhance your trading skills"
 ---
 

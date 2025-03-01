@@ -1,5 +1,5 @@
 ---
-title: "Comparison of T. Rowe Price and Vanguard (Algo Trading)"
+title: "Comparison of T. Rowe Price and Vanguard"
 description: "Explore the strategies of renowned investment firms Vanguard and T. Rowe Price, focusing on their integration of algorithmic trading. Understand how Vanguard's passive approach with low-cost index funds contrasts with T. Rowe Price's active management and research-driven strategies. Delve into the impact of technology in enhancing investment decisions and compare their offerings to align financial goals with innovative trading solutions."
 ---
 

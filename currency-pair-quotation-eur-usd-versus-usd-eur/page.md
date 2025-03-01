@@ -1,5 +1,5 @@
 ---
-title: "Currency Pair Quotation of EUR/USD Versus USD/EUR (Algo Trading)"
+title: "Currency Pair Quotation of EUR/USD Versus USD/EUR"
 description: "Explore the pivotal role of EUR/USD in forex trading and discover how algorithmic trading enhances efficiency and precision for optimal trading outcomes."
 ---
 

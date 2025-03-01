@@ -1,5 +1,5 @@
 ---
-title: "Angel Bonds: Overview and Examples (Algo Trading)"
+title: "Angel Bonds: Overview and Examples"
 description: "Explore the world of angel bonds and algorithmic trading Learn how these low-risk, high-rating bonds can enhance your portfolio with stability and efficiency"
 ---
 

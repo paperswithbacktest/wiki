@@ -1,5 +1,5 @@
 ---
-title: "Economic Security in the United States (Algo Trading)"
+title: "Economic Security in the United States"
 description: "Explore the evolution of economic security and algorithmic trading in the U.S. Discover how historical milestones impact financial practices and economic stability."
 ---
 

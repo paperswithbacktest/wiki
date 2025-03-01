@@ -1,5 +1,5 @@
 ---
-title: "Bond-for-Bond Lending (Algo Trading)"
+title: "Bond-for-Bond Lending"
 description: "Discover how integrating financial securities, bond lending, and algorithmic trading reshapes investment strategies, balancing risk and return effectively."
 ---
 

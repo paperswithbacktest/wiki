@@ -1,5 +1,5 @@
 ---
-title: "Impact of the Great Recession on Structural Unemployment (Algo Trading)"
+title: "Impact of the Great Recession on Structural Unemployment"
 description: "Explore the impact of the Great Recession on structural unemployment and the rise of algorithmic trading in shaping post-recession economic trends."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Contingent Assets: Overview and Considerations (Algo Trading)"
+title: "Contingent Assets: Overview and Considerations"
 description: "Explore the transformative role of algorithmic trading and contingent assets in asset management. Discover strategies to optimize financial returns and manage risks effectively."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Advantages and Disadvantages of Passive Buy and Hold Strategy (Algo Trading)"
+title: "Advantages and Disadvantages of Passive Buy and Hold Strategy"
 description: "Explore the pros and cons of passive buy-and-hold strategy in algorithmic trading. Learn how this approach combines stability with advanced technology for long-term gains."
 ---
 

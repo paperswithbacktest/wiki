@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Guarda Wallet (Algo Trading)"
+title: "Analysis of Guarda Wallet"
 description: "Explore how Guarda Wallet secures crypto assets while algorithmic trading enhances profitability. Discover the potential of combining these strategies effectively."
 ---
 

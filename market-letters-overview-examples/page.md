@@ -1,5 +1,5 @@
 ---
-title: "Market Letters: Overview and Examples (Algo Trading)"
+title: "Market Letters: Overview and Examples"
 description: "Explore the synergy between market letters and algorithmic trading in optimizing investment strategies Discover how these tools enhance decision-making and trading precision"
 ---
 

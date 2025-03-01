@@ -1,5 +1,5 @@
 ---
-title: "ISDA Master Agreement: Functions and Requirements (Algo Trading)"
+title: "ISDA Master Agreement: Functions and Requirements"
 description: "Explore the crucial interplay between the ISDA Master Agreement and algo trading in derivatives markets highlighting their roles in risk management and market efficiency."
 ---
 

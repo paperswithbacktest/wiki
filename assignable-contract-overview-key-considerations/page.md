@@ -1,5 +1,5 @@
 ---
-title: "Assignable Contract: Overview and Key Considerations (Algo Trading)"
+title: "Assignable Contract: Overview and Key Considerations"
 description: "Explore the intersection of assignable contracts and algorithmic trading, uncovering strategic advantages and insights into modern financial instruments and markets."
 ---
 

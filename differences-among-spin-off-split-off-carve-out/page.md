@@ -1,5 +1,5 @@
 ---
-title: "Differences Among Spin-Off, Split-Off, and Carve-Out (Algo Trading)"
+title: "Differences Among Spin-Off, Split-Off, and Carve-Out"
 description: "Explore the nuances of spin-offs, split-offs, and carve-outs in corporate restructuring to unlock new market opportunities and enhance shareholder value."
 ---
 

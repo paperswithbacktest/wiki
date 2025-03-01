@@ -1,5 +1,5 @@
 ---
-title: "Investment Funds: Types and Historical Overview (Algo Trading)"
+title: "Investment Funds: Types and Historical Overview"
 description: "Explore the history and types of investment funds like mutual funds, ETFs, and hedge funds, and how algorithmic trading has transformed fund management."
 ---
 

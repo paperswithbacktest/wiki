@@ -1,5 +1,5 @@
 ---
-title: "H-1B Visa Green Card Backlog and Tech Industry Advocacy (Algo Trading)"
+title: "H-1B Visa Green Card Backlog and Tech Industry Advocacy"
 description: "Discover how the H-1B visa green card backlog impacts the U.S. tech industry and explores the role of skilled foreign workers in maintaining innovation."
 ---
 

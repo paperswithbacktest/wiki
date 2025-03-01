@@ -1,5 +1,5 @@
 ---
-title: "Futures Spread Basics and Types (Algo Trading)"
+title: "Futures Spread Basics and Types"
 description: "Explore futures spread strategies in algo trading to maximize trading efficiency by leveraging price discrepancies in related futures contracts, enhancing decision-making."
 ---
 

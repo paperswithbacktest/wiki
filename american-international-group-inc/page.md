@@ -1,5 +1,5 @@
 ---
-title: "American International Group, Inc. (Algo Trading)"
+title: "American International Group, Inc."
 description: "Explore how American International Group leverages algorithmic trading to enhance risk management and operational efficiency in the evolving insurance sector."
 ---
 

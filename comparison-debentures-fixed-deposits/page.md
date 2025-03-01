@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Debentures and Fixed Deposits (Algo Trading)"
+title: "Comparison of Debentures and Fixed Deposits"
 description: "Explore the key differences and advantages of fixed deposits and debentures while understanding their roles in algo trading to make informed investment decisions."
 ---
 

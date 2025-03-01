@@ -1,5 +1,5 @@
 ---
-title: "Factors Influencing Weighted Average Cost of Capital (Algo Trading)"
+title: "Factors Influencing Weighted Average Cost of Capital"
 description: "Explore the factors influencing Weighted Average Cost of Capital WACC and its impact on algorithmic trading strategies interest rates and capital structure decisions"
 ---
 

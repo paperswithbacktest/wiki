@@ -1,5 +1,5 @@
 ---
-title: "Application of Simple Random Sampling in Population Studies (Algo Trading)"
+title: "Application of Simple Random Sampling in Population Studies"
 description: "Discover the significance of simple random sampling in population studies and algorithmic trading highlighting its role in reducing bias and enhancing data analysis."
 ---
 

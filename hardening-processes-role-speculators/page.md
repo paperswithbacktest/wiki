@@ -1,5 +1,5 @@
 ---
-title: "Hardening Processes and the Role of Speculators (Algo Trading)"
+title: "Hardening Processes and the Role of Speculators"
 description: "Explore the intertwined roles of speculators and algorithmic trading in modern financial markets. Understand their impact on liquidity market volatility and economic stability."
 ---
 

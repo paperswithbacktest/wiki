@@ -1,5 +1,5 @@
 ---
-title: "Determination of Treasury Bond Interest Rates (Algo Trading)"
+title: "Determination of Treasury Bond Interest Rates"
 description: "Discover how interest rates and algorithmic trading influence Treasury bond prices in the complex bond market Learn key strategies to optimize your investments"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "List of Major Russian Oil Companies (Algo Trading)"
+title: "List of Major Russian Oil Companies"
 description: "Discover major Russian oil companies and explore how algorithmic trading is reshaping the oil market enhancing efficiency and influencing global dynamics."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Distribution Reinvestment: Overview, Advantages, and Disadvantages (Algo Trading)"
+title: "Distribution Reinvestment: Overview, Advantages, and Disadvantages"
 description: "Explore the pros and cons of distribution reinvestment, its significance in algorithmic trading, and how it can optimize investment strategies for better returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bandwagon Effect and Crowd Behavior (Algo Trading)"
+title: "Bandwagon Effect and Crowd Behavior"
 description: "Explore the bandwagon effect's influence on algorithmic trading and crowd behavior. Discover how herd mentality impacts markets, strategies, and decisions."
 ---
 

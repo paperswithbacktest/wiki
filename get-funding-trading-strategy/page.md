@@ -1,5 +1,5 @@
 ---
-title: "Get Funding for Your Trading Strategy (Algo Trading)"
+title: "Get Funding for Your Trading Strategy"
 description: Discover how to secure essential funding for your algorithmic trading strategy and enhance your market presence. Explore various financing options such as partnerships with proprietary trading firms, brokers, and online platforms tailored for algo traders. Learn the importance of adequate capital in maximizing returns, leveraging market opportunities, and achieving sustained trading success with diverse strategies. Understand the prerequisites for attracting funding, including a strong educational background and real-world trading experience. Optimize key performance metrics like volatility and drawdown to make your strategy more appealing to investors.
 ---
 

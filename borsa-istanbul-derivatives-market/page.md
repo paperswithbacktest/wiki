@@ -1,5 +1,5 @@
 ---
-title: "Borsa Istanbul Derivatives Market (Algo Trading)"
+title: "Borsa Istanbul Derivatives Market"
 description: "Explore algorithmic trading's impact on Borsa Istanbul's derivatives market. Discover VIOP's evolution, market structure, and future prospects in Turkey's finance landscape."
 ---
 

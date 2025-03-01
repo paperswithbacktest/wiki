@@ -1,5 +1,5 @@
 ---
-title: "Jekyll and Hyde (Algo Trading)"
+title: "Jekyll and Hyde"
 description: "Explore the dual nature of algorithmic trading with insights from Jekyll and Hyde reflecting on market stability and volatility for optimized trading strategies."
 ---
 

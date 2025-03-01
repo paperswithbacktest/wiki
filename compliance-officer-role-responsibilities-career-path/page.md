@@ -1,5 +1,5 @@
 ---
-title: "Compliance Officer: Role, Responsibilities, and Career Path (Algo Trading)"
+title: "Compliance Officer: Role, Responsibilities, and Career Path"
 description: "Explore the key role and responsibilities of compliance officers in algorithmic trading ensuring regulatory adherence and ethical standards in dynamic financial markets."
 ---
 

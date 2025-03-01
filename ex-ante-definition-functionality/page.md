@@ -1,5 +1,5 @@
 ---
-title: "Ex-Ante: Definition and Functionality (Algo Trading)"
+title: "Ex-Ante: Definition and Functionality"
 description: "Explore the integration of ex-ante forecasting in algorithmic trading to predict market trends and optimize strategies using statistical models and machine learning."
 ---
 

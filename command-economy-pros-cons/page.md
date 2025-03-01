@@ -1,5 +1,5 @@
 ---
-title: "Command Economy: Pros and Cons (Algo Trading)"
+title: "Command Economy: Pros and Cons"
 description: "Explore the pros and cons of command economies and algorithmic trading. Discover how these distinct systems impact economic stability, innovation, and resource allocation."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Gwei in Cryptocurrency (Algo Trading)"
+title: "Gwei in Cryptocurrency"
 description: "Explore the role of Gwei in Ethereum's algorithmic trading. Understand Gwei's impact on transaction costs and learn strategies to optimize trading profits."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Deferred Long-Term Liabilities: Overview and Examples (Algo Trading)"
+title: "Deferred Long-Term Liabilities: Overview and Examples"
 description: "Explore the relationship between long-term liabilities and algorithmic trading impacting financial strategies. Understand how deferred liabilities influence cash flow and growth."
 ---
 

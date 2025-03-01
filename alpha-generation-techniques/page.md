@@ -1,5 +1,5 @@
 ---
-title: "Alpha Generation Techniques (Algo Trading)"
+title: "Alpha Generation Techniques"
 description: "Explore alpha generation techniques in algorithmic trading and discover how innovative strategies leverage quantitative models and machine learning for superior returns."
 ---
 

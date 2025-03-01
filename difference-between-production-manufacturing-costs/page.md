@@ -1,5 +1,5 @@
 ---
-title: "Difference Between Production and Manufacturing Costs (Algo Trading)"
+title: "Difference Between Production and Manufacturing Costs"
 description: "Explore the distinctions and importance of manufacturing and production costs in algo trading to enhance efficiency and profitability through precise cost analysis."
 ---
 

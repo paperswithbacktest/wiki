@@ -1,5 +1,5 @@
 ---
-title: "Bayesian Financial Forecasting (Algo Trading)"
+title: "Bayesian Financial Forecasting"
 description: "Discover the power of Bayesian financial forecasting in algorithmic trading Learn how Bayesian methods improve predictive modeling by adapting to new market data"
 ---
 

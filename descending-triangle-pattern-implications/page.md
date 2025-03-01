@@ -1,5 +1,5 @@
 ---
-title: "Descending Triangle Pattern and Its Implications (Algo Trading)"
+title: "Descending Triangle Pattern and Its Implications"
 description: "Learn how the descending triangle pattern can enhance trading strategies. Discover its role in technical analysis to better predict market trends."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Dollar imbalance bars (DIBs) (Algo Trading)"
+title: "Dollar imbalance bars (DIBs)"
 description: Explore the power of Dollar Imbalance Bars (DIBs) in algorithmic trading as a sophisticated method to enhance market analysis and strategy development. This article investigates into the unique advantages of DIBs over traditional data sampling methods such as time, tick, and volume bars, highlighting their ability to adapt to market activity for richer insights. With a focus on the flow of dollar value, DIBs offer traders a deeper understanding of market dynamics, enabling more informed decision-making and improved trading performance. Discover how DIBs can refine your trading algorithms for better market prediction and efficiency.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Drew Mauck: Biography (Algo Trading)"
+title: "Drew Mauck: Biography"
 description: "Explore the impactful journey of Drew Mauck in public relations, founding 3Points Communications, and his ventures into community service and philanthropy."
 ---
 

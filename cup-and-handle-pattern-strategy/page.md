@@ -1,5 +1,5 @@
 ---
-title: "Cup and Handle Pattern Trading Strategy (Algo Trading)"
+title: "Cup and Handle Pattern Trading Strategy"
 description: Discover the advantages of the Cup Strategy in algo trading. This article investigates into automating the 'Cup and Handle' pattern to enhance trade precision, speed, and consistency while minimizing emotional biases and human error. Ideal for traders seeking disciplined, efficient market navigation.
 ---
 

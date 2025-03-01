@@ -1,5 +1,5 @@
 ---
-title: "Globex: Overview, Mechanism, and Historical Context (Algo Trading)"
+title: "Globex: Overview, Mechanism, and Historical Context"
 description: "Explore the impact of Globex on algorithmic trading and modern financial markets with insights into its mechanism and historical milestones."
 ---
 

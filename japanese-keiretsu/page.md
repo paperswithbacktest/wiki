@@ -1,5 +1,5 @@
 ---
-title: "Japanese Keiretsu (Algo Trading)"
+title: "Japanese Keiretsu"
 description: "Discover the keiretsu structure's impact on Japan's economy and explore how algorithmic trading influences these networks in Japan's ever-evolving market."
 ---
 

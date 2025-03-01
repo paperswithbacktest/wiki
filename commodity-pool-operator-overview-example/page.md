@@ -1,5 +1,5 @@
 ---
-title: "Commodity Pool Operator: Overview and Example (Algo Trading)"
+title: "Commodity Pool Operator: Overview and Example"
 description: "Explore the role of Commodity Pool Operators and algorithmic trading in diversifying investments and accessing futures markets while ensuring regulatory compliance."
 ---
 

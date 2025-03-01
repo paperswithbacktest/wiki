@@ -1,5 +1,5 @@
 ---
-title: "Methods for Improving Cash Flow (Algo Trading)"
+title: "Methods for Improving Cash Flow"
 description: "Discover powerful strategies to enhance business cash flow by integrating cash flow analysis and algorithmic trading techniques for improved financial management."
 ---
 

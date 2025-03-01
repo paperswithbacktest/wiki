@@ -1,5 +1,5 @@
 ---
-title: "Funding Agreement: Overview and Functionality (Algo Trading)"
+title: "Funding Agreement: Overview and Functionality"
 description: "Explore the synergy of funding agreements and algorithmic trading in modern investment strategies. Learn how these tools ensure precision, compliance, and efficiency."
 ---
 

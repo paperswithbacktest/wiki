@@ -1,5 +1,5 @@
 ---
-title: "Certificate of Title (Algo Trading)"
+title: "Certificate of Title"
 description: "Explore the integration of property titles and algorithmic trading in real estate Discover how technology reshapes investment strategies and ownership validation"
 ---
 

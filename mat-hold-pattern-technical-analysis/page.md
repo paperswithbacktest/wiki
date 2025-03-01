@@ -1,5 +1,5 @@
 ---
-title: "Mat Hold Pattern in Technical Analysis (Algo Trading)"
+title: "Mat Hold Pattern in Technical Analysis"
 description: "Discover how the Mat Hold pattern aids traders in identifying trends within algorithmic trading, leveraging technical analysis for more informed market decisions."
 ---
 

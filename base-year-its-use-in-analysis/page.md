@@ -1,5 +1,5 @@
 ---
-title: "Base Year and Its Use in Analysis (Algo Trading)"
+title: "Base Year and Its Use in Analysis"
 description: "Explore the significance of economic indicators and base years in financial analysis and their integration in algorithmic trading to enhance decision-making and optimize investment strategies in today's dynamic financial markets."
 ---
 

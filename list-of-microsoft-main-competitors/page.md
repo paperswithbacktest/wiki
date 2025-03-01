@@ -1,5 +1,5 @@
 ---
-title: "List of Microsoft's Main Competitors (Algo Trading)"
+title: "List of Microsoft's Main Competitors"
 description: "Explore Microsoft's main competitors, including Apple, Google, IBM, Oracle, and SAP SE, particularly in the rapidly evolving field of algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Divergence in Trading and Momentum Analysis (Algo Trading)"
+title: "Divergence in Trading and Momentum Analysis"
 description: "Explore the synergy of momentum analysis and divergence in trading to optimize strategies and enhance decision-making through algorithmic trading solutions."
 ---
 

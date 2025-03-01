@@ -1,5 +1,5 @@
 ---
-title: "Inevitability of Economic Recessions (Algo Trading)"
+title: "Inevitability of Economic Recessions"
 description: "Explore the inevitability of economic recessions and the role of algorithmic trading in economic cycles, examining their impact on stability and potential mitigation strategies."
 ---
 

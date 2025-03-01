@@ -1,5 +1,5 @@
 ---
-title: "Frequency Distribution (Algo Trading)"
+title: "Frequency Distribution"
 description: "Explore the critical role of frequency distribution in algorithmic trading and how it enhances data analysis by providing insights into market trends and patterns. This article investigates into the statistical tools and methodologies that optimize trading strategies via automated decision-making, leveraging frequency distributions to forecast movements in the stock market. Gain a comprehensive understanding of how these distributions simplify complex data sets into understandable patterns for better financial decision-making."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Decile: Calculation and Examples (Algo Trading)"
+title: "Decile: Calculation and Examples"
 description: "Discover how deciles and algorithmic trading intersect to optimize trading strategies. Learn to calculate deciles and apply them for insightful market analysis."
 ---
 

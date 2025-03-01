@@ -1,5 +1,5 @@
 ---
-title: "Dividend Reinvestment Plans and Earnings Compounding (Algo Trading)"
+title: "Dividend Reinvestment Plans and Earnings Compounding"
 description: "Explore how Dividend Reinvestment Plans and algorithmic trading can enhance investment returns through compounding providing insights for maximizing wealth growth."
 ---
 

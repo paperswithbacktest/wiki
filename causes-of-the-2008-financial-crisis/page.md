@@ -1,5 +1,5 @@
 ---
-title: "Causes of the 2008 Financial Crisis (Algo Trading)"
+title: "Causes of the 2008 Financial Crisis"
 description: "Explore the multifaceted causes of the 2008 financial crisis focusing on economic bubbles and algorithmic trading's role in market volatility."
 ---
 

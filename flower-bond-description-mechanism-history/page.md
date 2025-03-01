@@ -1,5 +1,5 @@
 ---
-title: "Flower Bond: Description, Mechanism, and Historical Context (Algo Trading)"
+title: "Flower Bond: Description, Mechanism, and Historical Context"
 description: "Discover the historical context and mechanics of flower bonds in algo trading Explore their role, benefits, and technological influence on modern bond markets."
 ---
 

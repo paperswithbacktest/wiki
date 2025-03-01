@@ -1,5 +1,5 @@
 ---
-title: "Equilibrium Price and Its Calculation (Algo Trading)"
+title: "Equilibrium Price and Its Calculation"
 description: "Explore equilibrium price calculation in algorithmic trading where supply meets demand transforming financial markets with technology-driven stability."
 ---
 

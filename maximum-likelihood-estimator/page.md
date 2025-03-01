@@ -1,5 +1,5 @@
 ---
-title: "Maximum likelihood estimator (Algo Trading)"
+title: "Maximum likelihood estimator"
 description: Explore how Maximum Likelihood Estimation (MLE) enhances algorithmic trading by optimizing trade strategies and refining predictive models. Crucial for parameter estimation, MLE aids traders in accurately modeling market behavior, leveraging Python’s comprehensive libraries for statistical analysis. Unlock MLE’s potential to improve strategy performance and adaptability, allowing traders to effectively respond to financial market dynamics.
 ---
 

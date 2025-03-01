@@ -1,5 +1,5 @@
 ---
-title: "Commodity Channel Index Calculation (Algo Trading)"
+title: "Commodity Channel Index Calculation"
 description: "Learn how to calculate and interpret the Commodity Channel Index (CCI), a significant tool in technical analysis used to identify cyclical price trends and potential buy and sell signals."
 ---
 

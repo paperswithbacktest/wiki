@@ -1,5 +1,5 @@
 ---
-title: "Expenditure Approach to GDP Calculation (Algo Trading)"
+title: "Expenditure Approach to GDP Calculation"
 description: "Explore how the expenditure approach calculates GDP by analyzing consumer spending, government expenditure, investments, and net exports, crucial for economic insights."
 ---
 

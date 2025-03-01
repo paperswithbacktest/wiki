@@ -1,5 +1,5 @@
 ---
-title: "At-or-Better Concept (Algo Trading)"
+title: "At-or-Better Concept"
 description: "Explore the 'at-or-better' order in algorithmic trading where trades execute at a specified price or better offering enhanced control and strategic execution."
 ---
 

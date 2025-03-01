@@ -1,5 +1,5 @@
 ---
-title: "Gross National Product Deflator (Algo Trading)"
+title: "Gross National Product Deflator"
 description: "Explore the role of macroeconomic indicators and the GNP deflator in algorithmic trading examining how these tools influence market analysis and investment decisions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Covered Call Exchange-Traded Funds and Investment Returns (Algo Trading)"
+title: "Covered Call Exchange-Traded Funds and Investment Returns"
 description: "Discover how covered call ETFs provide stable income through options strategies by selling call options for additional income. Uncover the advantages and limitations of this approach and explore the impact of algorithmic trading on managing these funds for optimized returns. This article offers insights into incorporating covered call ETFs into investment portfolios to balance income generation with growth objectives."
 ---
 

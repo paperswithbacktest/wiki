@@ -1,5 +1,5 @@
 ---
-title: "A-/A3 Bond Ratings Scale and Examples (Algo Trading)"
+title: "A-/A3 Bond Ratings Scale and Examples"
 description: "Explore the A-/A3 bond ratings scale and examples in algo trading Discover how these metrics impact investment decisions and enhance bond market strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Gamma Hedging and Delta Hedging: Comparison and Function (Algo Trading)"
+title: "Gamma Hedging and Delta Hedging: Comparison and Function"
 description: "Discover the intricacies of gamma and delta hedging in algorithmic trading Learn how these strategies help manage risk and enhance trading precision"
 ---
 

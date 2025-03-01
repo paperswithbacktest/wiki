@@ -1,5 +1,5 @@
 ---
-title: "Future of ETFs: Guide for Advanced Investors (Algo Trading)"
+title: "Future of ETFs: Guide for Advanced Investors"
 description: "Explore advanced investment strategies focusing on ETFs and algorithmic trading Discover how to use these tools to enhance returns and manage risk effectively"
 ---
 

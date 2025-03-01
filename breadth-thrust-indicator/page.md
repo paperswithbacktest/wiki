@@ -1,5 +1,5 @@
 ---
-title: "Breadth Thrust Indicator (Algo Trading)"
+title: "Breadth Thrust Indicator"
 description: "Discover the Breadth Thrust Indicator's role in advanced trading strategies Learn how this unique tool predicts bull markets by analyzing stock market momentum"
 ---
 

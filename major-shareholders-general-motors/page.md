@@ -1,5 +1,5 @@
 ---
-title: "Major Shareholders of General Motors (Algo Trading)"
+title: "Major Shareholders of General Motors"
 description: "Explore GM's major shareholders and the impact of algorithmic trading on its stock performance Insights on how algorithms influence GM's market valuation"
 ---
 

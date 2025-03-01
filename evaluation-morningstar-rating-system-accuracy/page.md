@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of Morningstar's Rating System Accuracy (Algo Trading)"
+title: "Evaluation of Morningstar's Rating System Accuracy"
 description: "Discover how Morningstar's rating system and algorithmic trading collaborate to enhance investment analysis through historical fund insights and tech-driven strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Internal Rate of Return Calculation Formula (Algo Trading)"
+title: "Internal Rate of Return Calculation Formula"
 description: "Discover how to calculate and utilize Internal Rate of Return (IRR) to gauge investment profitability in the fast-paced world of algorithmic trading."
 ---
 

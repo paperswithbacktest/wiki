@@ -1,5 +1,5 @@
 ---
-title: "Capital Adequacy Ratio Significance (Algo Trading)"
+title: "Capital Adequacy Ratio Significance"
 description: "Explore the significance of the Capital Adequacy Ratio in banking stability and its interplay with algorithmic trading for a future-proof financial environment."
 ---
 

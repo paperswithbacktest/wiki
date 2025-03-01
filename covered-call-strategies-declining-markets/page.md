@@ -1,5 +1,5 @@
 ---
-title: "Covered Call Strategies in Declining Markets (Algo Trading)"
+title: "Covered Call Strategies in Declining Markets"
 description: "Discover effective covered call strategies using algorithmic trading in declining markets Enhance income generation manage risks and optimize trade outcomes"
 ---
 

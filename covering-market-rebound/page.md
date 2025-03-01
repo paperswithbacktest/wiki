@@ -1,5 +1,5 @@
 ---
-title: "Covering a Market Rebound (Algo Trading)"
+title: "Covering a Market Rebound"
 description: "Harnessing the power of investment strategy and algorithmic trading, this article explores navigating market rebounds, identifying opportunities, and managing risks."
 ---
 

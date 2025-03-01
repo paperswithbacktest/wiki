@@ -1,5 +1,5 @@
 ---
-title: "Forex Account Overview and Functionality (Algo Trading)"
+title: "Forex Account Overview and Functionality"
 description: "Explore the synergy between forex trading and algorithmic trading Learn how technology-driven strategies optimize forex participation and enhance trading efficiency"
 ---
 

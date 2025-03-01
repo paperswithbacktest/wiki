@@ -1,5 +1,5 @@
 ---
-title: "Forfeiture in Investing (Algo Trading)"
+title: "Forfeiture in Investing"
 description: "Explore the dynamic world of investing with insights on financial forfeiture and algorithmic trading Learn how these elements are transforming finance today"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Equal Employment Opportunity Commission (Algo Trading)"
+title: "Equal Employment Opportunity Commission"
 description: "Explore how the Equal Employment Opportunity Commission tackles workplace discrimination and the emerging challenges of bias in algorithmic trading."
 ---
 

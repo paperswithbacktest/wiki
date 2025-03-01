@@ -1,5 +1,5 @@
 ---
-title: "Filter: Definition, Functionality, and Examples (Algo Trading)"
+title: "Filter: Definition, Functionality, and Examples"
 description: "Explore the pivotal role of filters in algorithmic trading to streamline data, optimize strategies, and enhance decision-making for traders and investors."
 ---
 

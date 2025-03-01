@@ -1,5 +1,5 @@
 ---
-title: "EBIT to EV Multiple: Overview and Examples (Algo Trading)"
+title: "EBIT to EV Multiple: Overview and Examples"
 description: "Explore the EBIT to EV multiple's role in assessing company profitability and value, enhancing algorithmic trading decisions for strategic investment insights."
 ---
 

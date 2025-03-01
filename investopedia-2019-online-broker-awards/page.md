@@ -1,5 +1,5 @@
 ---
-title: "Investopedia 2019 Online Broker Awards (Algo Trading)"
+title: "Investopedia 2019 Online Broker Awards"
 description: "Explore Investopedia's 2019 Online Broker Awards highlighting top-performing brokers for algorithmic trading and helping investors make informed decisions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Inclusion of Qualified Dividends in Ordinary Dividends for Tax Reporting (Algo Trading)"
+title: "Inclusion of Qualified Dividends in Ordinary Dividends for Tax Reporting"
 description: "Optimize tax benefits of algorithmic trading by understanding qualified dividends, taxed at favorable rates, unlike ordinary dividends. Essential for maximizing returns."
 ---
 

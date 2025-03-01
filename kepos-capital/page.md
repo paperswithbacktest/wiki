@@ -1,5 +1,5 @@
 ---
-title: "Kepos Capital (Algo Trading)"
+title: "Kepos Capital"
 description: "Explore algorithmic trading with Kepos Capital, a leader since 2010. Discover how cutting-edge strategies drive efficiency, liquidity, and risk management."
 ---
 

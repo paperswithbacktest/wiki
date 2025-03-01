@@ -1,5 +1,5 @@
 ---
-title: "Benefits of Financial Accounting for Investors and Lenders (Algo Trading)"
+title: "Benefits of Financial Accounting for Investors and Lenders"
 description: "Explore the synergy between financial accounting and algorithmic trading for investors and lenders Empower informed decision-making and enhance market efficiency"
 ---
 

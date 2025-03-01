@@ -1,5 +1,5 @@
 ---
-title: "Coattail Investing: Mechanism and Example (Algo Trading)"
+title: "Coattail Investing: Mechanism and Example"
 description: "Explore coattail investing and algorithmic trading to enhance your investment strategy gain insights on mimicking successful investors and tech-driven trade execution."
 ---
 

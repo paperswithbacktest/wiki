@@ -1,5 +1,5 @@
 ---
-title: "All Weather Fund: Overview and Strategies (Algo Trading)"
+title: "All Weather Fund: Overview and Strategies"
 description: "Discover the All Weather Fund strategy, a diversified approach using algorithmic trading to achieve consistent returns across any economic condition."
 ---
 

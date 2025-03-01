@@ -1,5 +1,5 @@
 ---
-title: "Legislative Risk and Mechanisms (Algo Trading)"
+title: "Legislative Risk and Mechanisms"
 description: "Explore the complex interactions between algorithmic trading and legislative risk Understand how policy changes and risk management strategies impact this dynamic market"
 ---
 

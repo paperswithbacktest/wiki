@@ -1,5 +1,5 @@
 ---
-title: "Capital Reduction Process and Examples (Algo Trading)"
+title: "Capital Reduction Process and Examples"
 description: "Explore the strategic impacts of capital reduction and algorithmic trading on shareholder equity and business finance, enhancing firms' market performance."
 ---
 

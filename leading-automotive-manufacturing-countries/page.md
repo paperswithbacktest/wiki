@@ -1,5 +1,5 @@
 ---
-title: "Leading Automotive Manufacturing Countries (Algo Trading)"
+title: "Leading Automotive Manufacturing Countries"
 description: "Explore how leading automotive manufacturing countries like China, the US, Japan, and Germany shape global car production and embrace algorithmic trading innovations."
 ---
 

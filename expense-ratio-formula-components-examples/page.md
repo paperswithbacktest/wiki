@@ -1,5 +1,5 @@
 ---
-title: "Expense Ratio: Formula, Components, and Examples (Algo Trading)"
+title: "Expense Ratio: Formula, Components, and Examples"
 description: "Explore the critical role of expense ratios in investment funds, including mutual funds, ETFs, and hedge funds Discover how they affect overall fund performance and investor returns"
 ---
 

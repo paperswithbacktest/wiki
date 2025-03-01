@@ -1,5 +1,5 @@
 ---
-title: "Implications of Insider Selling in the Stock Market (Algo Trading)"
+title: "Implications of Insider Selling in the Stock Market"
 description: "Explore the implications of insider selling in the stock market and its effect on investment strategies leveraging financial analysis and algorithmic trading."
 ---
 

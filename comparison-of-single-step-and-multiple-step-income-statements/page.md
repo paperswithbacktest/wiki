@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Single-Step and Multiple-Step Income Statements (Algo Trading)"
+title: "Comparison of Single-Step and Multiple-Step Income Statements"
 description: "Explore how single-step and multiple-step income statements impact algorithmic trading. Learn which format enhances decision-making and trading strategy outcomes."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Fiscal Capacity and Its Mechanisms (Algo Trading)"
+title: "Fiscal Capacity and Its Mechanisms"
 description: "Explore the interplay between fiscal capacity, taxation, and algorithmic trading in modern economies, highlighting their influence on fiscal policies and revenue generation."
 ---
 

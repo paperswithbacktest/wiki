@@ -1,5 +1,5 @@
 ---
-title: "Bretton Woods Agreement and Its Institutions (Algo Trading)"
+title: "Bretton Woods Agreement and Its Institutions"
 description: "Explore the impact of the Bretton Woods Agreement on global finance by examining the roles of the World Bank and IMF alongside the rise of algorithmic trading"
 ---
 

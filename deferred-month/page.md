@@ -1,5 +1,5 @@
 ---
-title: "Deferred Month (Algo Trading)"
+title: "Deferred Month"
 description: "Explore the role of deferred month contracts in algorithmic trading to manage risk and enhance strategies using long-term financial planning and market analysis."
 ---
 

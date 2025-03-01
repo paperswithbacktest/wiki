@@ -1,5 +1,5 @@
 ---
-title: "Discounting Terminal Value (Algo Trading)"
+title: "Discounting Terminal Value"
 description: "Discover the role of terminal value in algo trading to estimate long-term asset worth and enhance the accuracy of algorithmic models for better investment strategies."
 ---
 

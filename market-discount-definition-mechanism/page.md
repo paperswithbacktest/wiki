@@ -1,5 +1,5 @@
 ---
-title: "Market Discount: Definition and Mechanism (Algo Trading)"
+title: "Market Discount: Definition and Mechanism"
 description: "Explore the dynamics of investment market discounts and algorithmic trading in modern finance Learn how these concepts create opportunities for informed investors"
 ---
 

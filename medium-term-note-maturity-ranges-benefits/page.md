@@ -1,5 +1,5 @@
 ---
-title: "Medium Term Note: Maturity Ranges and Benefits (Algo Trading)"
+title: "Medium Term Note: Maturity Ranges and Benefits"
 description: "Explore the advantages and maturity ranges of Medium Term Notes in banking Learn how MTNs and algorithmic trading optimize financial strategies in today's market"
 ---
 

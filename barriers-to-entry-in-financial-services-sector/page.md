@@ -1,5 +1,5 @@
 ---
-title: "Barriers to Entry in the Financial Services Sector (Algo Trading)"
+title: "Barriers to Entry in the Financial Services Sector"
 description: "Entering the algorithmic trading sector in financial services requires overcoming significant barriers like high capital requirements, technological demands, and regulatory compliance."
 ---
 

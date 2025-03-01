@@ -1,5 +1,5 @@
 ---
-title: "Appurtenance in Real Estate (Algo Trading)"
+title: "Appurtenance in Real Estate"
 description: "Explore how appurtenance influences property value and algorithmic trading in real estate. Understand these concepts to enhance investment strategies and make informed decisions."
 ---
 

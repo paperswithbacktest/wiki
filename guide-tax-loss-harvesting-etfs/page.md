@@ -1,5 +1,5 @@
 ---
-title: "Guide to Tax-Loss Harvesting With ETFs (Algo Trading)"
+title: "Guide to Tax-Loss Harvesting With ETFs"
 description: "Explore tax-loss harvesting using ETFs and algorithmic trading to optimize investment strategies. Learn how these tools can enhance returns and manage risk effectively."
 ---
 

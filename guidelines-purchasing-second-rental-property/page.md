@@ -1,5 +1,5 @@
 ---
-title: "Guidelines for Purchasing a Second Rental Property (Algo Trading)"
+title: "Guidelines for Purchasing a Second Rental Property"
 description: "Explore the benefits and challenges of investing in a second rental property alongside algorithmic trading strategies for enhanced financial growth."
 ---
 

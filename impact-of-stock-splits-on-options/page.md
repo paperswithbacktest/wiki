@@ -1,5 +1,5 @@
 ---
-title: "Impact of Stock Splits on Options (Algo Trading)"
+title: "Impact of Stock Splits on Options"
 description: "Explore how stock splits impact options in algorithmic trading. Understand the interplay between splits, derivatives, and algo trading in today's market."
 ---
 

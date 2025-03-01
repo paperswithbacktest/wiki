@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Market and Command Economies (Algo Trading)"
+title: "Comparison of Market and Command Economies"
 description: "Explore the differences between market and command economies with a focus on their impact on algorithmic trading. Understand how these economic systems affect resource management, wealth distribution, and market operations. Discover the role of algorithmic trading in these environments, leveraging market dynamics and technological advancements. Gain insights into the complexities and economic intricacies shaping global financial landscapes."
 ---
 

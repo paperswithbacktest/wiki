@@ -1,5 +1,5 @@
 ---
-title: "Cash Position and Financial Ratios (Algo Trading)"
+title: "Cash Position and Financial Ratios"
 description: "Explore the synergy between cash management, financial ratios, and algorithmic trading to optimize financial performance and enhance strategic decision-making."
 ---
 

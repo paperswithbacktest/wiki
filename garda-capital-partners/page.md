@@ -1,5 +1,5 @@
 ---
-title: "Garda Capital Partners (Algo Trading)"
+title: "Garda Capital Partners"
 description: "Garda Capital Partners leverages algorithmic trading with advanced technology and innovative strategies to offer superior market solutions and enhance investor confidence."
 ---
 

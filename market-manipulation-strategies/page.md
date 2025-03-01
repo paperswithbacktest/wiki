@@ -1,5 +1,5 @@
 ---
-title: "Market Manipulation Strategies (Algo Trading)"
+title: "Market Manipulation Strategies"
 description: "Discover how algorithmic trading can lead to market manipulation, unveiling deceptive strategies that impact financial markets and regulatory responses."
 ---
 

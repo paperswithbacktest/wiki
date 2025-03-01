@@ -1,5 +1,5 @@
 ---
-title: "History of the First Publicly Traded Company (Algo Trading)"
+title: "History of the First Publicly Traded Company"
 description: "Explore the emergence of publicly traded companies and algorithmic trading, highlighting their roles in market evolution, capital growth, and investor dynamics."
 ---
 

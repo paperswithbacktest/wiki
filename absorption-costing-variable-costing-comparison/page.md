@@ -1,5 +1,5 @@
 ---
-title: "Absorption Costing and Variable Costing Comparison (Algo Trading)"
+title: "Absorption Costing and Variable Costing Comparison"
 description: "Explore the differences between absorption costing and variable costing and their impact on algorithmic trading. Understand how these accounting methods inform business decisions by evaluating costs and optimizing financial performance, crucial in today’s dynamic markets. Discover their roles in pricing, product management, and profitability."
 ---
 

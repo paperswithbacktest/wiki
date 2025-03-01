@@ -1,5 +1,5 @@
 ---
-title: "Fill or Kill Order (Algo Trading)"
+title: "Fill or Kill Order"
 description: "Discover the strategic benefits of Fill or Kill orders in algorithmic trading, crucial for scenarios demanding immediate and complete execution without partial fills."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Broker's Call: Overview and Functionality (Algo Trading)"
+title: "Broker's Call: Overview and Functionality"
 description: "Explore the intricacies of broker's calls and their impact on algo trading Discover how financial advice and technology empower traders in modern markets"
 ---
 

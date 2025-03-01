@@ -1,5 +1,5 @@
 ---
-title: "Impact of Government Subsidies on Industries (Algo Trading)"
+title: "Impact of Government Subsidies on Industries"
 description: "Explore how government subsidies impact industries and the role of algorithmic trading in reshaping markets driving economic growth and stability."
 ---
 

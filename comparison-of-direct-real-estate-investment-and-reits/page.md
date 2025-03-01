@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Direct Real Estate Investment and REITs (Algo Trading)"
+title: "Comparison of Direct Real Estate Investment and REITs"
 description: "Explore the pros and cons of direct real estate investments REITs and algorithmic trading for informed investment decisions in the real estate sector."
 ---
 

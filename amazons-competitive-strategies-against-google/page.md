@@ -1,5 +1,5 @@
 ---
-title: "Amazon's Competitive Strategies Against Google (Algo Trading)"
+title: "Amazon's Competitive Strategies Against Google"
 description: "Explore Amazon's competitive strategies in algorithmic trading as it rivals Google focusing on their strengths in AI cloud computing and financial technologies"
 ---
 

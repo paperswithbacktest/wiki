@@ -1,5 +1,5 @@
 ---
-title: "Disparate Impact: Definition, Mechanism, and Historical Context (Algo Trading)"
+title: "Disparate Impact: Definition, Mechanism, and Historical Context"
 description: "Explore the complexities of algorithmic trading and its potential for disparate impact. Learn about legal considerations and ensuring fairness in financial markets."
 ---
 

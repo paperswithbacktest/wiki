@@ -1,5 +1,5 @@
 ---
-title: "Guaranteed Income Bond (Algo Trading)"
+title: "Guaranteed Income Bond"
 description: "Explore Guaranteed Income Bonds and their role in stable investment portfolios. Learn how algotrading enhances GIB investments for predictable, reliable returns."
 ---
 

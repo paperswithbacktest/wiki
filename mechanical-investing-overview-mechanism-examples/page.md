@@ -1,5 +1,5 @@
 ---
-title: "Mechanical Investing: Overview, Mechanism, and Examples (Algo Trading)"
+title: "Mechanical Investing: Overview, Mechanism, and Examples"
 description: "Explore mechanical investing and algorithmic trading for disciplined portfolio management Learn how predefined rules eliminate emotional biases for optimal investment"
 ---
 

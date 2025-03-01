@@ -1,5 +1,5 @@
 ---
-title: "Meeting of the Minds in Contract Law (Algo Trading)"
+title: "Meeting of the Minds in Contract Law"
 description: "Explore the complexity of the "meeting of the minds" in contract law with a focus on its significance in algorithmic trading and evolving legal challenges."
 ---
 

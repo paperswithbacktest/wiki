@@ -1,5 +1,5 @@
 ---
-title: "Aerospace Industry: Overview, Subsectors, and Historical Development (Algo Trading)"
+title: "Aerospace Industry: Overview, Subsectors, and Historical Development"
 description: "Explore the intertwined history and impact of the aerospace industry and algorithmic trading Discover innovations shaping military aviation space exploration and financial markets"
 ---
 

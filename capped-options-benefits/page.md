@@ -1,5 +1,5 @@
 ---
-title: "Capped Options and Their Benefits (Algo Trading)"
+title: "Capped Options and Their Benefits"
 description: "Explore the benefits of capped options in algo trading where capped investment outcomes and algorithmic precision merge to enhance risk management and efficiency."
 ---
 

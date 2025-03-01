@@ -1,5 +1,5 @@
 ---
-title: "Developed Economy: Overview and Human Development Index (Algo Trading)"
+title: "Developed Economy: Overview and Human Development Index"
 description: "Explore the links between developed economies, the Human Development Index, and algorithmic trading to understand their impact on global market dynamics."
 ---
 

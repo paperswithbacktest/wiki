@@ -1,5 +1,5 @@
 ---
-title: "Accounting Interpretation Overview (Algo Trading)"
+title: "Accounting Interpretation Overview"
 description: "Explore the intersection of accounting standards and algorithmic trading in modern finance to understand their roles in enhancing market transparency and efficiency."
 ---
 

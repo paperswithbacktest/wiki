@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Operating Income and Revenue (Algo Trading)"
+title: "Comparison of Operating Income and Revenue"
 description: "Explore the roles of revenue and operating income in algo trading to enhance trading strategies and decision-making by understanding financial health and efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Altman Z-Score: Calculation and Interpretation (Algo Trading)"
+title: "Altman Z-Score: Calculation and Interpretation"
 description: "Explore the calculation and interpretation of the Altman Z-Score a key tool in assessing company financial health and guiding algorithmic trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bit Gold: Concept and Comparison with Bitcoin (Algo Trading)"
+title: "Bit Gold: Concept and Comparison with Bitcoin"
 description: "Explore the historical significance of Bit Gold and Bitcoin in the world of cryptocurrencies Discover their foundational concepts and influence on algo trading"
 ---
 

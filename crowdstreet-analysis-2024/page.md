@@ -1,5 +1,5 @@
 ---
-title: "CrowdStreet Analysis 2024 (Algo Trading)"
+title: "CrowdStreet Analysis 2024"
 description: "Explore CrowdStreet's 2024 performance analysis and the rise of algorithmic trading in real estate Discover updated strategies and tech-driven insights"
 ---
 

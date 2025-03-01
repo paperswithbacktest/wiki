@@ -1,5 +1,5 @@
 ---
-title: "Clearing Corporation: Overview and Functionality (Algo Trading)"
+title: "Clearing Corporation: Overview and Functionality"
 description: "Discover how clearing corporations support modern financial markets by ensuring efficient trade settlement and mitigating counterparty risk, especially in algorithmic trading."
 ---
 

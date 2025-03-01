@@ -1,5 +1,5 @@
 ---
-title: "History of Technical Analysis (Algo Trading)"
+title: "History of Technical Analysis"
 description: "Explore the key developments in technical analysis history from pioneers like Charles Dow to modern algorithmic trading, highlighting influential figures and methodologies."
 ---
 

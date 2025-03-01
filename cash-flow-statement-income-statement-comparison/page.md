@@ -1,5 +1,5 @@
 ---
-title: "Cash Flow Statement and Income Statement Comparison (Algo Trading)"
+title: "Cash Flow Statement and Income Statement Comparison"
 description: "Compare cash flow and income statements for better algorithmic trading decisions Discover insights into profitability and liquidity to maximize investment returns"
 ---
 

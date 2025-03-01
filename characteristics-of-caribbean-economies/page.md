@@ -1,5 +1,5 @@
 ---
-title: "Characteristics of Caribbean Economies (Algo Trading)"
+title: "Characteristics of Caribbean Economies"
 description: "Explore the diverse economies of the Caribbean with insights into tourism financial services and algorithmic trading highlighting growth and resilience opportunities"
 ---
 

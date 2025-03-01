@@ -1,5 +1,5 @@
 ---
-title: "Calculating a Bond's Coupon Rate Using Excel (Algo Trading)"
+title: "Calculating a Bond's Coupon Rate Using Excel"
 description: "Learn to calculate bond coupon rates using Excel by setting up precise formulae, enabling effective analysis for algo trading strategies and informed decisions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Gross Value Added: Explanation, Formula, and Example (Algo Trading)"
+title: "Gross Value Added: Explanation, Formula, and Example"
 description: "Discover how Gross Value Added enhances algorithmic trading by providing detailed insights into sector productivity and refining GDP calculations for better market strategies."
 ---
 

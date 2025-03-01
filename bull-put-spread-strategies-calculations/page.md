@@ -1,5 +1,5 @@
 ---
-title: "Bull Put Spread Strategies and Calculations (Algo Trading)"
+title: "Bull Put Spread Strategies and Calculations"
 description: "Explore how the bull put spread strategy in options trading can generate income while managing risk in anticipated moderate bullish markets. Discover the role of algorithmic trading in enhancing strategy execution with precision and speed."
 ---
 

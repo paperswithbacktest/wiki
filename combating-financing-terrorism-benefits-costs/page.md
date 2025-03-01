@@ -1,5 +1,5 @@
 ---
-title: "Combating the Financing of Terrorism: Benefits and Costs (Algo Trading)"
+title: "Combating the Financing of Terrorism: Benefits and Costs"
 description: "Explore how algorithmic trading impacts counter-terrorism financing efforts balancing between technological advancement and global security measures in financial sectors."
 ---
 

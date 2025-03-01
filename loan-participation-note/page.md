@@ -1,5 +1,5 @@
 ---
-title: "Loan Participation Note (Algo Trading)"
+title: "Loan Participation Note"
 description: "Explore the benefits of Loan Participation Notes LPNs including yield enhancement risk diversification and algorithmic trading integration in investment portfolios"
 ---
 

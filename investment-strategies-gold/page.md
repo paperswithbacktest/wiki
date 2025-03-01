@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategies in Gold (Algo Trading)"
+title: "Investment Strategies in Gold"
 description: "Explore diverse investment strategies in gold, from traditional physical ownership to modern gold ETFs and mining stocks. This guide also investigates into how algorithmic trading optimizes gold investment returns. Discover how gold's unique attributes aid in portfolio diversification and stability."
 ---
 

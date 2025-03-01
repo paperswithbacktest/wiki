@@ -1,5 +1,5 @@
 ---
-title: "Bid Tick: Explanation, Mechanism, and Index (Algo Trading)"
+title: "Bid Tick: Explanation, Mechanism, and Index"
 description: "Explore the bid tick mechanism and algorithmic trading in financial markets to enhance decision-making with real-time insights and automated strategies."
 ---
 

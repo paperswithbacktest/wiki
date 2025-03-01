@@ -1,5 +1,5 @@
 ---
-title: "Importance of Gold (Algo Trading)"
+title: "Importance of Gold"
 description: "Explore the importance of gold in investment portfolios and how algorithmic trading enhances efficiency and decision making, bridging traditional assets with technology."
 ---
 

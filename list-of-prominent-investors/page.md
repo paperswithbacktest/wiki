@@ -1,5 +1,5 @@
 ---
-title: "List of Prominent Investors (Algo Trading)"
+title: "List of Prominent Investors"
 description: "Explore the groundbreaking strategies of leading investors and discover how algorithmic trading is reshaping modern finance by optimizing investment processes."
 ---
 

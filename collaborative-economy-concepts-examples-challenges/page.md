@@ -1,5 +1,5 @@
 ---
-title: "Collaborative Economy: Concepts, Examples, and Challenges (Algo Trading)"
+title: "Collaborative Economy: Concepts, Examples, and Challenges"
 description: "Explore the evolution of the collaborative and sharing economies through peer-to-peer platforms and algorithmic trading and uncover their new economic dynamics."
 ---
 

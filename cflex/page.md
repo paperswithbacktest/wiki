@@ -1,5 +1,5 @@
 ---
-title: "CFLEX (Algo Trading)"
+title: "CFLEX"
 description: "Explore CFLEX a platform for customized options in trading boosting efficiency through flexibility anonymity and real-time execution for traders and algorithms."
 ---
 

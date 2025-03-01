@@ -1,5 +1,5 @@
 ---
-title: "Caisse des Dépôts et Consignations (Algo Trading)"
+title: "Caisse des Dépôts et Consignations"
 description: "Explore Caisse des Dépôts et Consignations' role in France's economy through algorithmic trading and sustainable investment focusing on growth and innovation."
 ---
 

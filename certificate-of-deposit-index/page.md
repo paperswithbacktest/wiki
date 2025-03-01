@@ -1,5 +1,5 @@
 ---
-title: "Certificate of Deposit Index (Algo Trading)"
+title: "Certificate of Deposit Index"
 description: "Explore the historical impact and continued influence of the Certificate of Deposit Index in algorithmic trading modern finance's fusion of traditional benchmarks and new strategies."
 ---
 

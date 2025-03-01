@@ -1,5 +1,5 @@
 ---
-title: "Construction of a High-Risk Investment Portfolio (Algo Trading)"
+title: "Construction of a High-Risk Investment Portfolio"
 description: "Explore high-risk investment strategies and algorithmic trading to construct a portfolio with potential for high returns while managing associated risks."
 ---
 

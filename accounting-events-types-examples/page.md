@@ -1,5 +1,5 @@
 ---
-title: "Accounting Events: Types and Examples (Algo Trading)"
+title: "Accounting Events: Types and Examples"
 description: "Explore the dynamics of financial transactions and accounting events and their impact on algorithmic trading Learn how these elements form modern financial management's backbone"
 ---
 

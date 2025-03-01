@@ -1,5 +1,5 @@
 ---
-title: "Allocational Efficiency and Its Requirements (Algo Trading)"
+title: "Allocational Efficiency and Its Requirements"
 description: "Explore the synergy between economic and allocational efficiency in algorithmic trading Discover how advanced tech optimizes resource allocation in financial markets"
 ---
 

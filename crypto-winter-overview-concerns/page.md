@@ -1,5 +1,5 @@
 ---
-title: "Crypto Winter: Overview and Concerns (Algo Trading)"
+title: "Crypto Winter: Overview and Concerns"
 description: "Discover the dynamics of crypto winter and the role of algorithmic trading in navigating market downturns to mitigate losses and adapt to volatility."
 ---
 

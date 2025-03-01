@@ -1,5 +1,5 @@
 ---
-title: "Collapse of The Reserve Fund in Money Market (Algo Trading)"
+title: "Collapse of The Reserve Fund in Money Market"
 description: "Explore the 2008 financial crisis impact on money markets provoked by the Reserve Fund collapse and examine the rise of algorithmic trading in modern finance."
 ---
 

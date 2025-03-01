@@ -1,5 +1,5 @@
 ---
-title: "Discretionary portfolio managers (PMs) (Algo Trading)"
+title: "Discretionary portfolio managers (PMs)"
 description: Explore the debate between discretionary trading and algorithmic trading as this page investigates into the strengths of discretionary portfolio managers who use intuition and experience to make nuanced trading decisions. Learn how integrating human insight with algorithmic precision can enhance trading performance creating a dynamic strategy that leverages the best of both approaches in today's complex financial landscape.
 ---
 

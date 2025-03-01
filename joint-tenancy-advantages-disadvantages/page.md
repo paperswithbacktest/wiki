@@ -1,5 +1,5 @@
 ---
-title: "Joint Tenancy: Advantages and Disadvantages (Algo Trading)"
+title: "Joint Tenancy: Advantages and Disadvantages"
 description: "Explore the benefits and challenges of joint tenancy in property ownership and discover how algorithmic trading is transforming real estate investment strategies."
 ---
 

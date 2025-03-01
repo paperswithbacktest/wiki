@@ -1,5 +1,5 @@
 ---
-title: "Gender Representation in Judiciary (Algo Trading)"
+title: "Gender Representation in Judiciary"
 description: "Explore gender representation in judiciary and the impact of algorithmic trading. Understand how AI affects equity and inclusion in legal and financial sectors."
 ---
 

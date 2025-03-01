@@ -1,5 +1,5 @@
 ---
-title: "Mandatory Convertible Bonds (Algo Trading)"
+title: "Mandatory Convertible Bonds"
 description: "Explore the hybrid nature of mandatory convertible bonds and their role in algorithmic trading for enhanced market efficiency and strategic capital management."
 ---
 

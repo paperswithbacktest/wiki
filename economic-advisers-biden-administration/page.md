@@ -1,5 +1,5 @@
 ---
-title: "Economic Advisers of the Biden Administration (Algo Trading)"
+title: "Economic Advisers of the Biden Administration"
 description: "Explore how the Biden Administration's economic policies intersect with the rise of algorithmic trading highlighting their impacts on market dynamics and economic stability."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Calculating Year-to-Date Return on Investment Portfolio (Algo Trading)"
+title: "Calculating Year-to-Date Return on Investment Portfolio"
 description: "Explore calculating year-to-date ROI on investment portfolios, learn how algorithmic trading enhances performance, and master techniques for optimal outcomes."
 ---
 

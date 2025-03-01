@@ -1,5 +1,5 @@
 ---
-title: "Dividend Irrelevance Theory (Algo Trading)"
+title: "Dividend Irrelevance Theory"
 description: "Explore the Dividend Irrelevance Theory and the role of algorithmic trading in modern finance as it transforms investment strategies and trading efficiency. Understand how Dividend Irrelevance challenges traditional views on dividends and market value, while algorithmic trading enhances market liquidity and efficiency. Discover insights into effective portfolio management using technology and classic theories to optimize decision-making in dynamic markets."
 ---
 

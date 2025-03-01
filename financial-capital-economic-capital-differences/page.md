@@ -1,5 +1,5 @@
 ---
-title: "Financial Capital and Economic Capital: Differences (Algo Trading)"
+title: "Financial Capital and Economic Capital: Differences"
 description: "Explore the differences between financial and economic capital in the context of algorithmic trading Learn how these capitals drive strategies and mitigate risks."
 ---
 

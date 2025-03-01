@@ -1,5 +1,5 @@
 ---
-title: "Biden's American Families Plan Overview (Algo Trading)"
+title: "Biden's American Families Plan Overview"
 description: "Explore the impact of Biden's American Families Plan on economic growth through investments in education and healthcare while considering algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Effective Annual Interest Rate (Algo Trading)"
+title: "Effective Annual Interest Rate"
 description: "Understand the Effective Annual Interest Rate (EAR) and its importance in financial decisions and algorithmic trading Enhance your knowledge on compounding effects"
 ---
 

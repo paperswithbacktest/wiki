@@ -1,5 +1,5 @@
 ---
-title: "Austrian School of Economics (Algo Trading)"
+title: "Austrian School of Economics"
 description: "Explore the fusion of Austrian Economics and algorithmic trading, delving into individual actions and cutting-edge market strategies driven by technology."
 ---
 

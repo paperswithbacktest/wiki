@@ -1,5 +1,5 @@
 ---
-title: "At the Money in Options Trading (Algo Trading)"
+title: "At the Money in Options Trading"
 description: "Explore the synergy between at the money options and algorithmic trading to enhance strategies and risk management in options trading environments."
 ---
 

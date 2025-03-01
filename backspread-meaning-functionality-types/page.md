@@ -1,5 +1,5 @@
 ---
-title: "Backspread: Meaning, Functionality, and Types (Algo Trading)"
+title: "Backspread: Meaning, Functionality, and Types"
 description: "Discover the intricacies of backspread options and algorithmic trading Learn how these innovative strategies can help you navigate complex market conditions effectively"
 ---
 

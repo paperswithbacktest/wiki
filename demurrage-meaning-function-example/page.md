@@ -1,5 +1,5 @@
 ---
-title: "Demurrage: Meaning, Function, and Example (Algo Trading)"
+title: "Demurrage: Meaning, Function, and Example"
 description: "Discover the pivotal role of demurrage, cargo fees, and algorithmic trading in logistics. Learn to optimize costs and enhance efficiency in supply chain operations."
 ---
 

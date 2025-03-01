@@ -1,5 +1,5 @@
 ---
-title: "Follow-Up Action: Meaning and Functionality (Algo Trading)"
+title: "Follow-Up Action: Meaning and Functionality"
 description: "Explore the essential role of follow-up actions in algorithmic trading, focusing on real-time strategy adjustments for enhanced risk management and trading efficiency."
 ---
 

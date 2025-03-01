@@ -1,5 +1,5 @@
 ---
-title: "Arrears Swap: Explanation and Mechanism (Algo Trading)"
+title: "Arrears Swap: Explanation and Mechanism"
 description: "Explore how arrears swaps function as a strategic tool in algo trading, their role in interest rate risk management, and their impact on financial planning."
 ---
 

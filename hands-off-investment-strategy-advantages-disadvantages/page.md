@@ -1,5 +1,5 @@
 ---
-title: "Hands-Off Investment Strategy: Advantages and Disadvantages (Algo Trading)"
+title: "Hands-Off Investment Strategy: Advantages and Disadvantages"
 description: "Explore the pros and cons of hands-off investing with algorithmic trading. Learn how this approach can automate your investment strategy for long-term growth."
 ---
 

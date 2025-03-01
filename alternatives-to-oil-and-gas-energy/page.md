@@ -1,5 +1,5 @@
 ---
-title: "Alternatives to Oil and Gas Energy (Algo Trading)"
+title: "Alternatives to Oil and Gas Energy"
 description: "Explore new horizons in energy investment with insights on oil and gas alternatives and how algo trading optimizes sustainable energy market strategies."
 ---
 

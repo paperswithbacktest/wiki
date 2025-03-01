@@ -1,5 +1,5 @@
 ---
-title: "Angelo Ranaldo (Algo Trading)"
+title: "Angelo Ranaldo"
 description: "Discover the academic journey and groundbreaking research contributions of Angelo Ranaldo a leading figure in finance and financial economics at the University of Basel."
 ---
 

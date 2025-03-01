@@ -1,5 +1,5 @@
 ---
-title: "Financial Advantages of Hire Purchase (Algo Trading)"
+title: "Financial Advantages of Hire Purchase"
 description: "Discover the financial perks of hire purchase and algorithmic trading. Enhance liquidity with installment-based asset acquisition and boost trading precision with AI."
 ---
 

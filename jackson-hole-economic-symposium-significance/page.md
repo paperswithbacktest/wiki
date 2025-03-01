@@ -1,5 +1,5 @@
 ---
-title: "Jackson Hole Economic Symposium Significance (Algo Trading)"
+title: "Jackson Hole Economic Symposium Significance"
 description: "The Jackson Hole Economic Symposium is an essential annual event hosted by the Federal Reserve Bank of Kansas City, bringing together global central bankers, economists, and market experts to discuss critical economic issues. Known for its impactful discussions and influential speeches, the symposium plays a crucial role in shaping market sentiments and economic policies. It serves as a forum for presenting research and facilitating informal exchanges, often leading to significant policy developments. This article explores the relationship between central bank policies highlighted at the symposium and the evolving role of algorithmic trading in financial markets, highlighting their combined impact on market dynamics and economic strategy."
 ---
 

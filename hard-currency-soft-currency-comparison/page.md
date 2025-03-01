@@ -1,5 +1,5 @@
 ---
-title: "Hard Currency and Soft Currency Comparison (Algo Trading)"
+title: "Hard Currency and Soft Currency Comparison"
 description: "Explore the differences between hard and soft currencies in algorithmic trading. Understand their economic impact and how they influence global market strategies."
 ---
 

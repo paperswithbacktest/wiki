@@ -1,5 +1,5 @@
 ---
-title: "Enhancing Skills Through Simulated Trading (Algo Trading)"
+title: "Enhancing Skills Through Simulated Trading"
 description: "Enhance your trading skills risk-free with simulated trading. Perfect strategies using real-time data and analytics, preparing for real market scenarios with confidence."
 ---
 

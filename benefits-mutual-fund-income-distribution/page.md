@@ -1,5 +1,5 @@
 ---
-title: "Benefits of Mutual Fund Income Distribution (Algo Trading)"
+title: "Benefits of Mutual Fund Income Distribution"
 description: "Explore how mutual fund income distribution and algorithmic trading combine to maximize investment efficiency and resilience in modern portfolios."
 ---
 

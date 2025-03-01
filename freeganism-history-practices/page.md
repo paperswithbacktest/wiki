@@ -1,5 +1,5 @@
 ---
-title: "Freeganism: History and Practices (Algo Trading)"
+title: "Freeganism: History and Practices"
 description: "Explore how sustainable living through freeganism and advanced financial strategies like algorithmic trading can coexist driving eco-friendly economic progress."
 ---
 

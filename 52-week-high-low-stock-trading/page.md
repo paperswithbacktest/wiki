@@ -1,5 +1,5 @@
 ---
-title: "52-Week High/Low in Stock Trading (Algo Trading)"
+title: "52-Week High/Low in Stock Trading"
 description: "Discover how to enhance your trading strategy using the 52-week high/low indicators in algorithmic trading for better market insights and decision-making."
 ---
 

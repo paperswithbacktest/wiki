@@ -1,5 +1,5 @@
 ---
-title: "CAC 40 Index: Overview, Function, Economic Impact (Algo Trading)"
+title: "CAC 40 Index: Overview, Function, Economic Impact"
 description: "Algorithmic trading significantly impacts the CAC 40 index by enhancing market efficiency and liquidity while introducing challenges like increased volatility."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Business Forecasting: Methods and Models (Algo Trading)"
+title: "Business Forecasting: Methods and Models"
 description: "Discover essential business forecasting methods and models, including their vital role in algorithmic trading. Enhance decision-making with future trend predictions."
 ---
 

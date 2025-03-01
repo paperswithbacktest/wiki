@@ -1,5 +1,5 @@
 ---
-title: "Analysis of the Most Liquid Commodity Futures (Algo Trading)"
+title: "Analysis of the Most Liquid Commodity Futures"
 description: "Explore the dynamics of liquidity in commodity futures trading and understand how algorithmic trading enhances market efficiency in agricultural and energy sectors."
 ---
 

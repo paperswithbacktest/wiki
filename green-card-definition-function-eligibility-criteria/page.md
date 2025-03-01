@@ -1,5 +1,5 @@
 ---
-title: "Green Card: Definition, Function, and Eligibility Criteria (Algo Trading)"
+title: "Green Card: Definition, Function, and Eligibility Criteria"
 description: "Explore the intricacies of the Green Card lottery and the world of algorithmic trading Learn about eligibility criteria while understanding modern investment strategies"
 ---
 

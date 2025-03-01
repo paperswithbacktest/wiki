@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Schaff Trend Cycle Indicator and MACD (Algo Trading)"
+title: "Comparison of Schaff Trend Cycle Indicator and MACD"
 description: "Explore the benefits of Schaff Trend Cycle and MACD indicators for algorithmic trading Learn how these tools optimize trading strategies through insights into market trends"
 ---
 

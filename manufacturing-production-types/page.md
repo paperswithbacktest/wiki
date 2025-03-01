@@ -1,5 +1,5 @@
 ---
-title: "Manufacturing Production and Types (Algo Trading)"
+title: "Manufacturing Production and Types"
 description: "Explore how manufacturing production types impact economic indicators and enhance algorithmic trading strategies for improved market predictions and efficiency."
 ---
 

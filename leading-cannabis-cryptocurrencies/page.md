@@ -1,5 +1,5 @@
 ---
-title: "List of Leading Cannabis Cryptocurrencies (Algo Trading)"
+title: "List of Leading Cannabis Cryptocurrencies"
 description: "Explore the dynamic intersection of cannabis, cryptocurrencies, and algorithmic trading. Discover their growth, challenges, and investment opportunities today."
 ---
 

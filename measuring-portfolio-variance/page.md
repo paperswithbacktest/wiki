@@ -1,5 +1,5 @@
 ---
-title: "Measuring Portfolio Variance (Algo Trading)"
+title: "Measuring Portfolio Variance"
 description: "Explore how financial metrics portfolio variance and algorithmic trading empower investors to enhance investment analysis and manage risks in financial markets."
 ---
 

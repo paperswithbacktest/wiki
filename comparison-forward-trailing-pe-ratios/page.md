@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Forward P/E and Trailing P/E Ratios (Algo Trading)"
+title: "Comparison of Forward P/E and Trailing P/E Ratios"
 description: "Explore key differences between forward and trailing P/E ratios and their role in algorithmic trading to optimize investment strategies and maximize returns."
 ---
 

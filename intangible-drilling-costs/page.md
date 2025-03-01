@@ -1,5 +1,5 @@
 ---
-title: "Intangible Drilling Costs (Algo Trading)"
+title: "Intangible Drilling Costs"
 description: "Discover how Intangible Drilling Costs impact financial strategies in the oil and gas industry by offering immediate tax advantages and influencing operational decisions. Explore the integration of algorithmic trading and IDCs to optimize financial returns and manage risk in an evolving energy landscape."
 ---
 

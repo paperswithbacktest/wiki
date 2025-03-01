@@ -1,5 +1,5 @@
 ---
-title: "Hong Kong Dollar: Overview and Functionality (Algo Trading)"
+title: "Hong Kong Dollar: Overview and Functionality"
 description: "Explore the significance of the Hong Kong Dollar and algorithmic trading within Hong Kong's vibrant financial system as they shape a leading global finance hub."
 ---
 

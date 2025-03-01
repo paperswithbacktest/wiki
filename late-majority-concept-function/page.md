@@ -1,5 +1,5 @@
 ---
-title: "Late Majority: Concept and Function (Algo Trading)"
+title: "Late Majority: Concept and Function"
 description: "Explore the late majority's role in adopting algo trading highlighting their unique challenges and opportunities to bring this innovation to mainstream acceptance."
 ---
 

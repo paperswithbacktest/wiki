@@ -1,5 +1,5 @@
 ---
-title: "Atomic Swap in Cryptocurrency Trading (Algo Trading)"
+title: "Atomic Swap in Cryptocurrency Trading"
 description: "Explore the transformative world of cryptocurrency trading with atomic swaps and algorithmic trading enhancing decentralized finance and optimizing cross-chain exchanges."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Arbitration: Mechanisms, Processes, and Considerations (Algo Trading)"
+title: "Arbitration: Mechanisms, Processes, and Considerations"
 description: "Explore arbitration and algorithmic trading as they converge to enhance efficiency and fairness in financial markets providing effective dispute resolution."
 ---
 

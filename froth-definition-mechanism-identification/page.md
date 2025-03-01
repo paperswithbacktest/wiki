@@ -1,5 +1,5 @@
 ---
-title: "Froth: Definition, Mechanism, and Identification (Algo Trading)"
+title: "Froth: Definition, Mechanism, and Identification"
 description: "Explore algorithmic trading and its role in detecting market froth through computational techniques to enhance financial stability and protect investors from bubbles."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Dividend-Adjusted Return (Algo Trading)"
+title: "Dividend-Adjusted Return"
 description: "Explore the significance of dividend-adjusted returns, a crucial metric that evaluates investment performance by including both capital appreciation and dividends."
 ---
 

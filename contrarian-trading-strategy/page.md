@@ -1,5 +1,5 @@
 ---
-title: "Contrarian Trading Strategy Explained (Algo Trading)"
+title: "Contrarian Trading Strategy Explained"
 description: Explore the contrarian trading strategy in algorithmic trading where going against prevailing market trends can offer profitable opportunities. Understand how emotional market inefficiencies can be leveraged through automated algorithms to exploit mispricings and capitalize on market corrections. Delve into how this strategic integration can transform market sentiment patterns into systematic and efficient trading outcomes.
 ---
 

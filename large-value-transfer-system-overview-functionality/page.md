@@ -1,5 +1,5 @@
 ---
-title: "Large Value Transfer System: Overview and Functionality (Algo Trading)"
+title: "Large Value Transfer System: Overview and Functionality"
 description: "Explore the Large Value Transfer System's pivotal role in secure high-value transaction processing, its impact on algo trading, and its lasting influence on financial stability."
 ---
 

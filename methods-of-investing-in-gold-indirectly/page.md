@@ -1,5 +1,5 @@
 ---
-title: "Methods of Investing in Gold Indirectly (Algo Trading)"
+title: "Methods of Investing in Gold Indirectly"
 description: "Explore how algorithmic trading offers indirect investment opportunities in gold without physical possession. Discover the benefits and risks of gold derivatives and ETFs."
 ---
 

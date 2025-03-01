@@ -1,5 +1,5 @@
 ---
-title: "ETF of ETFs: Explanation, Operation, and Limitations (Algo Trading)"
+title: "ETF of ETFs: Explanation, Operation, and Limitations"
 description: "Discover the mechanics and benefits of ETFs of ETFs as innovative investment vehicles Explore their diversification advantages cost savings and algorithmic trading role"
 ---
 

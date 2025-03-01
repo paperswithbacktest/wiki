@@ -1,5 +1,5 @@
 ---
-title: "Dividend-Paying Gold Miner ETFs (Algo Trading)"
+title: "Dividend-Paying Gold Miner ETFs"
 description: "Discover the investment potential of dividend-paying Gold Miner ETFs with insights into algorithmic trading enhanced strategies and market diversification."
 ---
 

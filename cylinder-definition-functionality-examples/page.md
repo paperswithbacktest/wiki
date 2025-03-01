@@ -1,5 +1,5 @@
 ---
-title: "Cylinder: Definition, Functionality, and Examples (Algo Trading)"
+title: "Cylinder: Definition, Functionality, and Examples"
 description: "Explore how cylinder functionality and algorithmic trading blend in finance, offering strategies with no initial cash, enhancing returns, and managing risks."
 ---
 

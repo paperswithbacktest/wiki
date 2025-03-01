@@ -1,5 +1,5 @@
 ---
-title: "continuous trading (Algo Trading)"
+title: "continuous trading"
 description: "Discover how continuous trading and algorithmic trading transform financial markets by enabling instantaneous transactions, enhancing efficiency, and optimizing strategies."
 ---
 

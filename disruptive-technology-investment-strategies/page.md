@@ -1,5 +1,5 @@
 ---
-title: "Disruptive Technology and Investment Strategies (Algo Trading)"
+title: "Disruptive Technology and Investment Strategies"
 description: "Explore how disruptive technologies like AI and algorithmic trading are revolutionizing investment strategies enhancing trade precision and market dynamics."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Calculating R-Squared in Excel (Algo Trading)"
+title: "Calculating R-Squared in Excel"
 description: "Learn how to calculate R-Squared in Excel to enhance your algorithmic trading strategies. Master regression models to improve financial predictions."
 ---
 

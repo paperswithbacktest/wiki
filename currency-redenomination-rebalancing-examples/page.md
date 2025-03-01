@@ -1,5 +1,5 @@
 ---
-title: "Currency Redenomination and Rebalancing Examples (Algo Trading)"
+title: "Currency Redenomination and Rebalancing Examples"
 description: "Explore effective strategies like rebalancing and redenomination in algorithmic and currency trading to optimize portfolio performance and navigate market shifts."
 ---
 

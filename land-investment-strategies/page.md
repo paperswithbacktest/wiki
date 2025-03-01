@@ -1,5 +1,5 @@
 ---
-title: "Land Investment Strategies (Algo Trading)"
+title: "Land Investment Strategies"
 description: "Explore how investors enhance real estate land investment strategies using algorithmic trading to optimize portfolio returns and navigate market complexities."
 ---
 

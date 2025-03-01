@@ -1,5 +1,5 @@
 ---
-title: "Haitian Gourde: Overview and Historical Context (Algo Trading)"
+title: "Haitian Gourde: Overview and Historical Context"
 description: "Explore the historical backdrop and economic dynamics of the Haitian Gourde HTG in Forex markets Discover algorithmic trading strategies for potential gains"
 ---
 

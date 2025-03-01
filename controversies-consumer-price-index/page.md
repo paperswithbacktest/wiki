@@ -1,5 +1,5 @@
 ---
-title: "Controversies Surrounding the Consumer Price Index (Algo Trading)"
+title: "Controversies Surrounding the Consumer Price Index"
 description: "Explore the controversies surrounding the Consumer Price Index and its impact on inflation, economic indicators, and algorithmic trading strategies in financial markets."
 ---
 

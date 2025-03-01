@@ -1,5 +1,5 @@
 ---
-title: "Capital as a Factor of Production (Algo Trading)"
+title: "Capital as a Factor of Production"
 description: "Explore how capital, production resources, and economic factors drive the success of algorithmic trading, enhancing decision-making, trade execution, and market adaptability."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin Dust: Overview, Challenges, and Examples (Algo Trading)"
+title: "Bitcoin Dust: Overview, Challenges, and Examples"
 description: "Explore the intricacies of Bitcoin dust and algorithmic trading to enhance your cryptocurrency portfolio. Uncover valuable strategies for effective crypto trading."
 ---
 

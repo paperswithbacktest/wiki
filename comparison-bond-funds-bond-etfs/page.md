@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Bond Funds and Bond ETFs (Algo Trading)"
+title: "Comparison of Bond Funds and Bond ETFs"
 description: "Explore the differences between bond funds and bond ETFs with insights on management styles trading flexibility and algorithmic trading impact on bonds."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Covered Bear in Finance (Algo Trading)"
+title: "Covered Bear in Finance"
 description: "Navigate bear markets with covered bear strategies and algorithmic trading Stay ahead by managing risks and seizing profit opportunities amid market fluctuations"
 ---
 

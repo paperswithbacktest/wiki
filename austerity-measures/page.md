@@ -1,5 +1,5 @@
 ---
-title: "Austerity Measures (Algo Trading)"
+title: "Austerity Measures"
 description: "Explore the complex relationship between austerity measures and algorithmic trading Discover how fiscal policies impact trading strategies in today's economy"
 ---
 

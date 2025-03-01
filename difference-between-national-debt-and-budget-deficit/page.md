@@ -1,5 +1,5 @@
 ---
-title: "Difference Between National Debt and Budget Deficit (Algo Trading)"
+title: "Difference Between National Debt and Budget Deficit"
 description: "Explore the nuanced distinctions between national debt and budget deficits, their economic impacts, and how algorithmic trading influences global financial systems."
 ---
 

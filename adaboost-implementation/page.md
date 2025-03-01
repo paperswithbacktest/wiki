@@ -1,5 +1,5 @@
 ---
-title: "AdaBoost implementation (Algo Trading)"
+title: "AdaBoost implementation"
 description: Discover how AdaBoost, an advanced machine learning technique, can enhance algorithmic trading strategies. This article explores its role in improving stock price predictions, handling complex market datasets, and refining trading system accuracy. Gain practical insights into implementation with tools like Python's scikit-learn, develop robust trading strategies, and delve into a real-world case study showcasing AdaBoost's effectiveness in financial markets. Perfect for traders and developers aiming to optimize their trading tactics with cutting-edge machine learning approaches.
 ---
 

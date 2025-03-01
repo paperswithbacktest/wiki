@@ -1,5 +1,5 @@
 ---
-title: "L Bond: Overview and Characteristics (Algo Trading)"
+title: "L Bond: Overview and Characteristics"
 description: "Discover the unique characteristics of L Bonds, intertwined with algorithmic trading, offering insights into innovative investment strategies and market dynamics."
 ---
 

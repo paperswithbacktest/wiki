@@ -1,5 +1,5 @@
 ---
-title: "Flow of Funds Accounts: Uses and Data Reports (Algo Trading)"
+title: "Flow of Funds Accounts: Uses and Data Reports"
 description: "Discover the significance of Flow of Funds accounts in economic analysis and algorithmic trading to gain insights into financial dynamics and market trends."
 ---
 

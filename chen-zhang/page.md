@@ -1,5 +1,5 @@
 ---
-title: "Chen Zhang (Algo Trading)"
+title: "Chen Zhang"
 description: "Discover Chen Zhang's journey from math prodigy to machine learning expert at Akuna Capital Explore his impactful contributions to algorithmic trading."
 ---
 

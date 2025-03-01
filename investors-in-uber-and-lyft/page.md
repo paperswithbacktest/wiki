@@ -1,5 +1,5 @@
 ---
-title: "Investors in Uber and Lyft (Algo Trading)"
+title: "Investors in Uber and Lyft"
 description: "Explore the crucial role of investors and algorithmic trading in the growth and innovation of Uber and Lyft within the dynamic ride-sharing industry."
 ---
 

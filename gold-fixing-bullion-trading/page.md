@@ -1,5 +1,5 @@
 ---
-title: "Gold Fixing and Bullion Trading (Algo Trading)"
+title: "Gold Fixing and Bullion Trading"
 description: "Explore the dynamic world of gold fixing and bullion trading with algorithmic trading Learn how technology reshapes these age-old investment practices"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Axie Infinity Overview and Functionality (Algo Trading)"
+title: "Axie Infinity Overview and Functionality"
 description: "Discover the revolutionary intersection of blockchain technology and gaming with Axie Infinity. Leveraging NFTs for unique asset ownership, this platform enables a play-to-earn model, allowing users to earn real income through engaging gameplay. Explore the integration of algorithmic trading to optimize NFT transactions, enhancing market liquidity and efficiency. Uncover the challenges and opportunities in this evolving digital gaming landscape, highlighting the potential for blockchain gaming to reshape global entertainment."
 ---
 

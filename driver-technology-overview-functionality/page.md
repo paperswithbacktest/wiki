@@ -1,5 +1,5 @@
 ---
-title: "Driver Technology: Overview and Functionality (Algo Trading)"
+title: "Driver Technology: Overview and Functionality"
 description: "Discover how algorithmic trading leverages technology to revolutionize financial markets by enhancing speed, precision, and data-driven decision-making."
 ---
 

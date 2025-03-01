@@ -1,5 +1,5 @@
 ---
-title: "Bear Stearns Hedge Fund Collapse Analysis (Algo Trading)"
+title: "Bear Stearns Hedge Fund Collapse Analysis"
 description: "Gain insights into the factors behind Bear Stearns' hedge fund collapse amid the 2008 financial crisis exploring risky strategies and regulatory lessons."
 ---
 

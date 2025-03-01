@@ -1,5 +1,5 @@
 ---
-title: "Impact of Fiscal Deficits on Economic Growth (Algo Trading)"
+title: "Impact of Fiscal Deficits on Economic Growth"
 description: "Explore the complex relationship between fiscal deficits and economic growth, focusing on their influence on algorithmic trading and global market strategies."
 ---
 

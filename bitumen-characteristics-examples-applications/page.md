@@ -1,5 +1,5 @@
 ---
-title: "Bitumen: Characteristics, Examples, and Applications (Algo Trading)"
+title: "Bitumen: Characteristics, Examples, and Applications"
 description: "Explore bitumen's essential industrial uses and the innovations of algorithmic trading where traditional practices meet cutting-edge financial technology."
 ---
 

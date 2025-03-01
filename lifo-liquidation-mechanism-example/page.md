@@ -1,5 +1,5 @@
 ---
-title: "LIFO Liquidation: Mechanism and Example (Algo Trading)"
+title: "LIFO Liquidation: Mechanism and Example"
 description: "Explore the impacts of LIFO liquidation in inventory accounting, its role in algorithmic trading, and its influence on financial reporting and taxable income."
 ---
 

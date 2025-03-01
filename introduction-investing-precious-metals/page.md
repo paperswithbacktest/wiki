@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Investing in Precious Metals (Algo Trading)"
+title: "Introduction to Investing in Precious Metals"
 description: "Explore investing in precious metals such as gold and silver through physical assets and algorithmic trading Gain insights into diversification and market strategies"
 ---
 

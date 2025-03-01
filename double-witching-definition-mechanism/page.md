@@ -1,5 +1,5 @@
 ---
-title: "Double Witching: Definition and Mechanism (Algo Trading)"
+title: "Double Witching: Definition and Mechanism"
 description: "Explore the impact of double witching in stocks and the role of algorithmic trading in navigating increased volatility and optimizing trade strategies."
 ---
 

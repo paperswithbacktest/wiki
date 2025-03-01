@@ -1,5 +1,5 @@
 ---
-title: "Impact of U.S. Election Results on Stock Market (Algo Trading)"
+title: "Impact of U.S. Election Results on Stock Market"
 description: "Explore the connection between U.S. elections and stock market dynamics, highlighting how election outcomes influence investor behavior and market volatility. Understand the role of algorithmic trading in navigating these politically charged environments by examining historical trends and case studies. Discover how technology and data-driven strategies shape modern trading responses to electoral events, providing insights into financial market behaviors tied to political developments and policy shifts."
 ---
 

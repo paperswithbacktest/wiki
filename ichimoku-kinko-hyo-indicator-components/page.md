@@ -1,5 +1,5 @@
 ---
-title: "Ichimoku Kinko Hyo Indicator and Its Components (Algo Trading)"
+title: "Ichimoku Kinko Hyo Indicator and Its Components"
 description: "Explore the Ichimoku Kinko Hyo indicator to gain insights on market momentum and support levels, empowering trading decisions with its five key components."
 ---
 

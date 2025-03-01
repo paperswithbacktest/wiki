@@ -1,5 +1,5 @@
 ---
-title: "Grayscale Bitcoin Trust ETF (Algo Trading)"
+title: "Grayscale Bitcoin Trust ETF"
 description: "Explore the intersection of Grayscale Bitcoin Trust ETFs with algorithmic trading and learn how they are reshaping Bitcoin investments and financial markets."
 ---
 

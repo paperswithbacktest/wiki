@@ -1,5 +1,5 @@
 ---
-title: "Easy-To-Borrow List (Algo Trading)"
+title: "Easy-To-Borrow List"
 description: "Explore the dynamics of securities lending and algorithmic trading Discover how these crucial components bolster liquidity optimize trading strategies and drive market efficiency"
 ---
 

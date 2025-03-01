@@ -1,5 +1,5 @@
 ---
-title: "Annual Overview and Examples (Algo Trading)"
+title: "Annual Overview and Examples"
 description: "Explore the impact of annual financial events and algorithmic trading on investment strategies and market dynamics to optimize returns and minimize risks."
 ---
 

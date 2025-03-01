@@ -1,5 +1,5 @@
 ---
-title: "Derivatives Pricing: Pricing Under the Black-Scholes Model (Algo Trading)"
+title: "Derivatives Pricing: Pricing Under the Black-Scholes Model"
 description: Explore the critical role of derivative pricing in algorithmic trading under the Black-Scholes model. Understand how accurate pricing affects trading strategies and market stability while integrating real-time data to enhance trading precision and risk management. Discover the benefits of using derivative pricing models to optimize trading decisions and capitalize on market opportunities through sophisticated algorithmic systems for better financial outcomes.
 ---
 

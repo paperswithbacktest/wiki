@@ -1,5 +1,5 @@
 ---
-title: "Fibonacci Sequence and Golden Ratio (Algo Trading)"
+title: "Fibonacci Sequence and Golden Ratio"
 description: "Explore how the mathematical elegance of the Fibonacci sequence and the Golden Ratio enhances modern algorithmic trading strategies and market analysis."
 ---
 

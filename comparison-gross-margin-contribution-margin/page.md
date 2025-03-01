@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Gross Margin and Contribution Margin (Algo Trading)"
+title: "Comparison of Gross Margin and Contribution Margin"
 description: "Explore the role of gross margin and contribution margin in algorithmic trading Discover how these financial metrics optimize strategy efficiency and profitability"
 ---
 

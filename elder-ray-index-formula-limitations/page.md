@@ -1,5 +1,5 @@
 ---
-title: "Elder-Ray Index: Formula and Limitations (Algo Trading)"
+title: "Elder-Ray Index: Formula and Limitations"
 description: "Explore the Elder-Ray Index a technical analysis tool by Dr. Alexander Elder crucial for algorithmic traders assessing market dynamics and improving strategies."
 ---
 

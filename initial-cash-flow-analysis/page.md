@@ -1,5 +1,5 @@
 ---
-title: "Initial Cash Flow Analysis (Algo Trading)"
+title: "Initial Cash Flow Analysis"
 description: "Explore the integration of cash flow analysis and algorithmic trading to enhance financial strategies improve financial health and optimize investment decisions."
 ---
 

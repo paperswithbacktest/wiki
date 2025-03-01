@@ -1,5 +1,5 @@
 ---
-title: "Indicative Quote: Function and Examples (Algo Trading)"
+title: "Indicative Quote: Function and Examples"
 description: "Explore the significance of indicative quotes and algorithmic trading in financial markets Discover how these concepts enhance trading efficiency and decision-making"
 ---
 

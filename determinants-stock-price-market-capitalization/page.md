@@ -1,5 +1,5 @@
 ---
-title: "Determinants of Stock Price and Market Capitalization (Algo Trading)"
+title: "Determinants of Stock Price and Market Capitalization"
 description: "Explore the fundamental concepts of stock price and market capitalization along with their intricate connections to algorithmic trading. Understand how stock price serves as a real-time indicator of a company’s financial health and market perception driven by supply and demand dynamics. Delve into company valuation processes that guide investment decisions and the categorization of companies based on market capitalization size such as large-cap mid-cap and small-cap. Gain insights into how algorithmic trading influences stock prices and market dynamics affecting investors and financial markets."
 ---
 

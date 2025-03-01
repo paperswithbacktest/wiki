@@ -1,5 +1,5 @@
 ---
-title: "Difference Between Yuan and Renminbi (Algo Trading)"
+title: "Difference Between Yuan and Renminbi"
 description: "Discover the differences between Yuan and Renminbi along with the role of algorithmic trading in currency markets and its impact on trading strategy."
 ---
 

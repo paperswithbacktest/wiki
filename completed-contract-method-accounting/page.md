@@ -1,5 +1,5 @@
 ---
-title: "Completed Contract Method in Accounting (Algo Trading)"
+title: "Completed Contract Method in Accounting"
 description: "Explore the Completed Contract Method in accounting a revenue recognition approach vital for industries with project-based contracts like construction and software development."
 ---
 

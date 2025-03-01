@@ -1,5 +1,5 @@
 ---
-title: "Cross-Correlation: Applications and Examples (Algo Trading)"
+title: "Cross-Correlation: Applications and Examples"
 description: "Explore the use of cross-correlation in algorithmic trading to uncover lead-lag relationships, enhance strategies, and optimize trade executions in financial markets."
 ---
 

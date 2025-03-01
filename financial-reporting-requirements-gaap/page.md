@@ -1,5 +1,5 @@
 ---
-title: "Financial Reporting Requirements Under GAAP (Algo Trading)"
+title: "Financial Reporting Requirements Under GAAP"
 description: "Explore how GAAP integrates with algorithmic trading to enhance transparency and consistency in financial reporting a crucial aspect for investor confidence and market efficiency."
 ---
 

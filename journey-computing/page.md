@@ -1,5 +1,5 @@
 ---
-title: "The Journey of Computing in Trading (Algo Trading)"
+title: "The Journey of Computing in Trading"
 description: Discover the evolution of algorithmic trading from its beginnings in the 1970s to its role in today's financial markets, highlighting how AI and machine learning have transformed trading strategies to achieve speed, accuracy, and efficiency.
 ---
 

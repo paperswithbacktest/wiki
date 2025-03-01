@@ -1,5 +1,5 @@
 ---
-title: "Liability Swap: Concepts, Advantages, and Drawbacks (Algo Trading)"
+title: "Liability Swap: Concepts, Advantages, and Drawbacks"
 description: "Explore the benefits and challenges of liability swaps in algo trading for effective risk management and optimized financial strategies in today's markets."
 ---
 

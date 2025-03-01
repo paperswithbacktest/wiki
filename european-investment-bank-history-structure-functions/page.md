@@ -1,5 +1,5 @@
 ---
-title: "European Investment Bank: History, Structure, and Functions (Algo Trading)"
+title: "European Investment Bank: History, Structure, and Functions"
 description: "Explore the European Investment Bank's history, structure, and functions including its key role in algorithmic trading and strategic initiatives in the EU."
 ---
 

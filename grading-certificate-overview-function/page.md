@@ -1,5 +1,5 @@
 ---
-title: "Grading Certificate: Overview and Function (Algo Trading)"
+title: "Grading Certificate: Overview and Function"
 description: "Explore the essential role of grading certificates in commodities and algorithmic trading. Discover how certification enhances market efficiency and reduces risks."
 ---
 

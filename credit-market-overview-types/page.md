@@ -1,5 +1,5 @@
 ---
-title: "Credit Market Overview and Types (Algo Trading)"
+title: "Credit Market Overview and Types"
 description: "Explore key aspects of the credit market and algorithmic trading Discover how debt instruments enable capital flow and efficiencies in the financial ecosystem"
 ---
 

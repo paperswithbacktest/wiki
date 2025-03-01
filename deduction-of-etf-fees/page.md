@@ -1,5 +1,5 @@
 ---
-title: "Deduction of ETF Fees (Algo Trading)"
+title: "Deduction of ETF Fees"
 description: "Discover how ETF fees impact investment returns and explore algorithmic trading strategies to minimize costs and enhance portfolio profitability."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Impact of Inflation on Fixed-Income Investments (Algo Trading)"
+title: "Impact of Inflation on Fixed-Income Investments"
 description: "Explore how inflation impacts fixed-income investments and the advantages of algorithmic trading in mitigating associated risks for efficient portfolio management."
 ---
 

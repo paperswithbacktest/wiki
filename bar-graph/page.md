@@ -1,5 +1,5 @@
 ---
-title: "Bar Graph (Algo Trading)"
+title: "Bar Graph"
 description: "Bar graphs are crucial in algorithmic trading offering clear visualizations of complex data enhancing traders' ability to identify patterns and optimize strategies."
 ---
 

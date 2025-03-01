@@ -1,5 +1,5 @@
 ---
-title: "Investment in Hedge Funds (Algo Trading)"
+title: "Investment in Hedge Funds"
 description: "Explore how hedge funds leverage algorithmic trading to enhance investment strategies and manage portfolios effectively in a dynamic financial landscape."
 ---
 

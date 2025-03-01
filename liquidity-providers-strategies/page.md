@@ -1,5 +1,5 @@
 ---
-title: "liquidity providers strategies (Algo Trading)"
+title: "liquidity providers strategies"
 description: "Explore the strategies of liquidity providers in algorithmic trading focusing on HFT methodologies to understand their impact on market behavior and efficiency."
 ---
 

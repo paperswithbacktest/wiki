@@ -1,5 +1,5 @@
 ---
-title: "Chastity Bond (Algo Trading)"
+title: "Chastity Bond"
 description: "Discover the evolving dynamics of bond trading, including the rise of algorithmic trading and innovative financial instruments like chastity bonds."
 ---
 

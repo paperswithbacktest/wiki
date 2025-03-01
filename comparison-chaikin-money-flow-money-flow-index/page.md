@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Chaikin Money Flow and Money Flow Index (Algo Trading)"
+title: "Comparison of Chaikin Money Flow and Money Flow Index"
 description: "Explore the key differences between Chaikin Money Flow and Money Flow Index in trading. These indicators empower analysts with unique insights into market dynamics."
 ---
 

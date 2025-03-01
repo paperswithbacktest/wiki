@@ -1,5 +1,5 @@
 ---
-title: "Employability and the Labor Force in Economic Context (Algo Trading)"
+title: "Employability and the Labor Force in Economic Context"
 description: "Discover the interplay between employability and labor markets in a tech-driven economy Learn how algorithmic trading reshapes job roles and skill demands"
 ---
 

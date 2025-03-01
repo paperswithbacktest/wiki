@@ -1,5 +1,5 @@
 ---
-title: "Cash for Bond Lending: Overview, Mechanism, Advantages and Disadvantages (Algo Trading)"
+title: "Cash for Bond Lending: Overview, Mechanism, Advantages and Disadvantages"
 description: "Discover the benefits and risks of cash for bond lending and bond lending Explore how these mechanisms integrate with algorithmic trading in the financial markets"
 ---
 

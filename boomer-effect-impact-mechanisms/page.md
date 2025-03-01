@@ -1,5 +1,5 @@
 ---
-title: "Boomer Effect: Impact and Mechanisms (Algo Trading)"
+title: "Boomer Effect: Impact and Mechanisms"
 description: "Explore the 'Boomer Effect' in algorithmic trading and understand how Baby Boomers' financial influence shapes investment strategies and market dynamics."
 ---
 

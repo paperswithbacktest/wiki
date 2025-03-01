@@ -1,5 +1,5 @@
 ---
-title: "Exchange-Traded Commodity (Algo Trading)"
+title: "Exchange-Traded Commodity"
 description: "Explore the role of Exchange-Traded Commodities in investment strategies and how algorithmic trading enhances efficiency and precision for modern investors."
 ---
 

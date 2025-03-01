@@ -1,5 +1,5 @@
 ---
-title: "Foreign Currency Convertible Bonds (Algo Trading)"
+title: "Foreign Currency Convertible Bonds"
 description: "Discover how Foreign Currency Convertible Bonds (FCCBs) blend debt and equity features to offer firms international market access and investors unique strategic benefits."
 ---
 

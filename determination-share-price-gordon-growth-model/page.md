@@ -1,5 +1,5 @@
 ---
-title: "Determination of Share Price Using the Gordon Growth Model (Algo Trading)"
+title: "Determination of Share Price Using the Gordon Growth Model"
 description: "Discover how the Gordon Growth Model estimates share prices and intrinsic stock values, providing insights for informed investment strategies in algo trading."
 ---
 

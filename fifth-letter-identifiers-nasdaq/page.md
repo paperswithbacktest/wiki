@@ -1,5 +1,5 @@
 ---
-title: "Fifth-Letter Identifiers on Nasdaq (Algo Trading)"
+title: "Fifth-Letter Identifiers on Nasdaq"
 description: "Discover how fifth-letter identifiers in Nasdaq ticker symbols inform algo trading strategies with precise, timely insights into stock conditions and trading dynamics."
 ---
 

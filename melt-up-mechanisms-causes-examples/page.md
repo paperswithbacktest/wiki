@@ -1,5 +1,5 @@
 ---
-title: "Melt-Up: Mechanisms, Causes, and Historical Examples (Algo Trading)"
+title: "Melt-Up: Mechanisms, Causes, and Historical Examples"
 description: "Explore the intricacies of market melt-ups and algorithmic trading how they shape financial markets guide investor strategy in a rapidly changing environment."
 ---
 

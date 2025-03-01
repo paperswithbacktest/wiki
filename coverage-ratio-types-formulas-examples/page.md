@@ -1,5 +1,5 @@
 ---
-title: "Coverage Ratio: Types, Formulas, and Examples (Algo Trading)"
+title: "Coverage Ratio: Types, Formulas, and Examples"
 description: "Explore coverage ratios and algorithmic trading applications in investment strategies Discover formulas, examples, and their impact on financial analysis"
 ---
 

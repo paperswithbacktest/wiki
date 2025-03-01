@@ -1,5 +1,5 @@
 ---
-title: "Bank of America Corporation (Algo Trading)"
+title: "Bank of America Corporation"
 description: "Bank of America is front-lining algorithmic trading in the banking sector to enhance speed and decision-making driving industry innovation and efficiency."
 ---
 

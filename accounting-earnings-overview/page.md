@@ -1,5 +1,5 @@
 ---
-title: "Accounting Earnings Overview (Algo Trading)"
+title: "Accounting Earnings Overview"
 description: "Explore the intersection of financial reporting, performance accounting, and algorithmic trading to optimize strategies and gain a competitive edge."
 ---
 

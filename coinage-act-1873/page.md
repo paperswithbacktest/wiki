@@ -1,5 +1,5 @@
 ---
-title: "Coinage Act of 1873 (Algo Trading)"
+title: "Coinage Act of 1873"
 description: "Explore the transformative impact of the Coinage Act of 1873 on monetary policy and its influence on modern algo trading shaping market dynamics today."
 ---
 

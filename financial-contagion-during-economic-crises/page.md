@@ -1,5 +1,5 @@
 ---
-title: "Financial Contagion During Economic Crises (Algo Trading)"
+title: "Financial Contagion During Economic Crises"
 description: "Explore the origins and impact of financial contagion during economic crises and the role of algorithmic trading in modern markets. Discover strategies for resilience."
 ---
 

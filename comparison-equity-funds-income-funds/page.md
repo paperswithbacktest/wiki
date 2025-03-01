@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Equity Funds and Income Funds (Algo Trading)"
+title: "Comparison of Equity Funds and Income Funds"
 description: "Explore the key differences between equity and income funds and the impact of algorithmic trading on investment strategies for effective portfolio management."
 ---
 

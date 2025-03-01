@@ -1,5 +1,5 @@
 ---
-title: "Auto Industry ETF: Overview and Functionality (Algo Trading)"
+title: "Auto Industry ETF: Overview and Functionality"
 description: "Explore the synergy of the auto industry ETFs and algorithmic trading offering innovative investment opportunities amidst dynamic market transformations."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Issued vs. Subscribed Share Capital (Algo Trading)"
+title: "Issued vs. Subscribed Share Capital"
 description: "Discover the crucial differences between issued and subscribed share capital in corporate finance and how they impact trading, governance, and investment strategies."
 ---
 

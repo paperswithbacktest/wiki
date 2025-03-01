@@ -1,5 +1,5 @@
 ---
-title: "Equity Market Capitalization: Overview, Function, and Challenges (Algo Trading)"
+title: "Equity Market Capitalization: Overview, Function, and Challenges"
 description: "Explore the dynamics of equity markets focusing on the crucial role of market capitalization and algorithmic trading Its impact on investment decisions and market trends"
 ---
 

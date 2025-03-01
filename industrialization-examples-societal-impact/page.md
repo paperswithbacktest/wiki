@@ -1,5 +1,5 @@
 ---
-title: "Industrialization: Definition, Examples, and Societal Impact (Algo Trading)"
+title: "Industrialization: Definition, Examples, and Societal Impact"
 description: "Explore how industrialization and algorithmic trading have reshaped economies and financial markets influencing societal structures and economic dynamics."
 ---
 

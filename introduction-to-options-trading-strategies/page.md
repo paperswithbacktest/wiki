@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Options Trading Strategies (Algo Trading)"
+title: "Introduction to Options Trading Strategies"
 description: "Explore options trading strategies with a focus on risk management and returns. Learn how algorithmic trading enhances efficiency for diverse investment goals."
 ---
 

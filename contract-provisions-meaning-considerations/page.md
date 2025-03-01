@@ -1,5 +1,5 @@
 ---
-title: "Contract Provisions: Meaning and Considerations (Algo Trading)"
+title: "Contract Provisions: Meaning and Considerations"
 description: "Explore the legal complexities of algorithmic trading contracts, focusing on provisions and challenges in forming binding agreements within automated systems."
 ---
 

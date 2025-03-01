@@ -1,5 +1,5 @@
 ---
-title: "Chain Of Title in Real Estate (Algo Trading)"
+title: "Chain Of Title in Real Estate"
 description: "Explore how algorithmic trading can transform real estate investment by optimizing strategies and ensuring secure transactions with an accurate chain of title."
 ---
 

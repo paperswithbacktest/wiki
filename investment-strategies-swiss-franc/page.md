@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategies for the Swiss Franc (Algo Trading)"
+title: "Investment Strategies for the Swiss Franc"
 description: "Explore investment strategies focusing on the Swiss Franc using algorithmic trading to unlock potential opportunities in currency trading while managing risks."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Euromarket: Overview and Historical Background (Algo Trading)"
+title: "Euromarket: Overview and Historical Background"
 description: "Explore the Euromarket's impact on global finance and trade through its development, key financial instruments, and the role of algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Fibonacci Channel: Functionality and Limitations (Algo Trading)"
+title: "Fibonacci Channel: Functionality and Limitations"
 description: "Explore the functionality and limitations of the Fibonacci Channel in algo trading Learn how this tool enhances strategies by automating trade actions"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Cox-Ingersoll-Ross model (Algo Trading)"
+title: "Cox-Ingersoll-Ross model"
 description: "Explore the CIR model for interest rate dynamics in algorithmic trading Learn how it captures realistic rate paths and aids in derivative pricing and risk management"
 ---
 

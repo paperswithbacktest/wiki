@@ -1,5 +1,5 @@
 ---
-title: "Calculating the Production Possibility Frontier Using Excel (Algo Trading)"
+title: "Calculating the Production Possibility Frontier Using Excel"
 description: "Explore how to calculate the Production Possibility Frontier using Excel for efficient resource allocation and strategic economic planning in algorithmic trading."
 ---
 

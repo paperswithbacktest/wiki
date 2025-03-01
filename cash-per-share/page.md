@@ -1,5 +1,5 @@
 ---
-title: "Cash Per Share (Algo Trading)"
+title: "Cash Per Share"
 description: "Discover how Cash Per Share enhances investment strategies by providing insight into liquidity and operational potential, intersecting with algorithmic trading."
 ---
 

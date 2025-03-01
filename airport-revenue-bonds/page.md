@@ -1,5 +1,5 @@
 ---
-title: "Airport Revenue Bonds (Algo Trading)"
+title: "Airport Revenue Bonds"
 description: "Explore the role of airport revenue bonds in financing aviation infrastructure projects and how algorithmic trading enhances market efficiency and investor strategies."
 ---
 

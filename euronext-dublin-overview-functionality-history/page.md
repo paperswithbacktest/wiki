@@ -1,5 +1,5 @@
 ---
-title: "Euronext Dublin: Overview, Functionality, and History (Algo Trading)"
+title: "Euronext Dublin: Overview, Functionality, and History"
 description: "Explore Euronext Dublin's pivotal role in Europe's stock exchanges focusing on the rise of algorithmic trading that enhances liquidity and market efficiency."
 ---
 

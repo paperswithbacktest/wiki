@@ -1,5 +1,5 @@
 ---
-title: "Cumulative Discount Policy (Algo Trading)"
+title: "Cumulative Discount Policy"
 description: "Explore various pricing models and discount strategies including cost-plus and value-based pricing in the context of algorithmic trading for business success."
 ---
 

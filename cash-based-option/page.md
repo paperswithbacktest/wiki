@@ -1,5 +1,5 @@
 ---
-title: "Cash-Based Option (Algo Trading)"
+title: "Cash-Based Option"
 description: "Explore the powerful synergy of cash-based options and algorithmic trading for enhanced market efficiency Learn how these tools optimize risk management and strategy execution"
 ---
 

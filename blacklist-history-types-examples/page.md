@@ -1,5 +1,5 @@
 ---
-title: "Blacklist: History, Types, and Examples (Algo Trading)"
+title: "Blacklist: History, Types, and Examples"
 description: "Discover the role and impact of blacklisting in various sectors, from its historical roots to its contemporary applications in fields like cybersecurity and algorithmic trading. Explore how blacklists function as tools for risk management and regulatory compliance, safeguarding digital ecosystems and financial markets by restricting interactions with undesirable entities. Gain insights into different types of blacklists, including government and IP address lists, and understand their significance in maintaining security and ethical standards."
 ---
 

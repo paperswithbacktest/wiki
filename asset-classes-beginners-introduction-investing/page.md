@@ -1,5 +1,5 @@
 ---
-title: "Asset Classes: A Beginner's Introduction to Investing (Algo Trading)"
+title: "Asset Classes: A Beginner's Introduction to Investing"
 description: "Explore the fundamentals of asset classes and discover how algorithmic trading can simplify investing for beginners and seasoned investors alike."
 ---
 

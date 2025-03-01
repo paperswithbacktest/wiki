@@ -1,5 +1,5 @@
 ---
-title: "Administrative Accounting: Overview and Example (Algo Trading)"
+title: "Administrative Accounting: Overview and Example"
 description: "Explore effective financial management through administrative accounting and algorithmic trading. Learn key methods for accurate financial reporting and strategic decision-making."
 ---
 

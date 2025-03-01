@@ -1,5 +1,5 @@
 ---
-title: "Disaffirmance: Meaning and Function (Algo Trading)"
+title: "Disaffirmance: Meaning and Function"
 description: "Explore the concept of disaffirmance in algorithmic trading where contracts might be voided due to capacity issues. Understand its implications in today’s markets."
 ---
 

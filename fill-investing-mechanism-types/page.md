@@ -1,5 +1,5 @@
 ---
-title: "Fill in Investing: Mechanism and Types (Algo Trading)"
+title: "Fill in Investing: Mechanism and Types"
 description: "Discover how trade execution and algorithmic trading revolutionize investing with advanced technology streamlining transactions and enhancing market strategies."
 ---
 

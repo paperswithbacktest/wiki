@@ -1,5 +1,5 @@
 ---
-title: "Active Risk: Concepts, Calculations, and Examples (Algo Trading)"
+title: "Active Risk: Concepts, Calculations, and Examples"
 description: "Explore key concepts of active risk in algo trading including portfolio deviations from benchmarks security selection market timing and risk management."
 ---
 

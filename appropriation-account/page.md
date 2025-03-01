@@ -1,5 +1,5 @@
 ---
-title: "Appropriation Account (Algo Trading)"
+title: "Appropriation Account"
 description: "Explore the intersection of financial statements, appropriation accounts, and algo trading to enhance strategic financial planning and optimize trading strategies."
 ---
 

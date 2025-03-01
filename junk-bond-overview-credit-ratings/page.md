@@ -1,5 +1,5 @@
 ---
-title: "Junk Bond Overview and Credit Ratings (Algo Trading)"
+title: "Junk Bond Overview and Credit Ratings"
 description: "Explore the dynamics of junk bonds, credit ratings, and algorithmic trading in financial markets. Understand their interactions and impact on investment strategies."
 ---
 

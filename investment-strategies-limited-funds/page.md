@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategies for Individuals with Limited Funds (Algo Trading)"
+title: "Investment Strategies for Individuals with Limited Funds"
 description: "Explore effective investment strategies for individuals with limited funds focusing on algorithmic trading to optimize returns and build wealth through technology."
 ---
 

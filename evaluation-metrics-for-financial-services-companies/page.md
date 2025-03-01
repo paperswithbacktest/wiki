@@ -1,5 +1,5 @@
 ---
-title: "Evaluation Metrics for Financial Services Companies (Algo Trading)"
+title: "Evaluation Metrics for Financial Services Companies"
 description: "Explore essential evaluation metrics for algorithmic trading in financial services. Gain insights into measuring performance and enhancing investment strategies for better returns."
 ---
 

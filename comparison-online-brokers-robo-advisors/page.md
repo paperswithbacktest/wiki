@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Online Brokers and Robo-Advisors (Algo Trading)"
+title: "Comparison of Online Brokers and Robo-Advisors"
 description: "Discover the key features and benefits of online brokers, robo-advisors, and algorithmic trading to optimize your investment strategy in today's digital age."
 ---
 

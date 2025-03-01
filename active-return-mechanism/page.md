@@ -1,5 +1,5 @@
 ---
-title: "Active Return and Its Mechanism (Algo Trading)"
+title: "Active Return and Its Mechanism"
 description: "Explore the dynamics of active return in algorithmic trading and its role in outperforming benchmarks for successful investment strategies in today's markets."
 ---
 

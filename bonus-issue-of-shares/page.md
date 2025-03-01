@@ -1,5 +1,5 @@
 ---
-title: "Bonus Issue of Shares (Algo Trading)"
+title: "Bonus Issue of Shares"
 description: "Explore how bonus shares, stock issuance, and algorithmic trading impact corporate finance, enhancing shareholder value while maintaining company liquidity."
 ---
 

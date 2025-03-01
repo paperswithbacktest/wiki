@@ -1,5 +1,5 @@
 ---
-title: "Financial Ratios in the Mining Industry (Algo Trading)"
+title: "Financial Ratios in the Mining Industry"
 description: "Explore the financial vitality of the mining industry through essential ratios that evaluate operational efficiency and profitability. Delve into how these financial metrics, along with algorithmic trading, enhance investment strategies, offering insights into a sector crucial to economic growth amidst commodity price fluctuations."
 ---
 

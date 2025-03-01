@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Market and Specific Risk (Algo Trading)"
+title: "Comparison of Market and Specific Risk"
 description: "Explore the contrast between market and specific risks in algorithmic trading Understand their impact on strategies and manage them effectively for better trade outcomes"
 ---
 

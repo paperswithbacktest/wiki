@@ -1,5 +1,5 @@
 ---
-title: "Fine-Tuning: Overview and Mechanisms (Algo Trading)"
+title: "Fine-Tuning: Overview and Mechanisms"
 description: "Explore how machine learning fine-tuning and model optimization enhance algorithmic trading strategies by boosting predictive accuracy and managing risks effectively."
 ---
 

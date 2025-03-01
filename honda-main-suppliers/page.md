@@ -1,5 +1,5 @@
 ---
-title: "List of Honda's Main Suppliers (Algo Trading)"
+title: "List of Honda's Main Suppliers"
 description: "Explore Honda's supply chain dynamics and the pivotal role of its key suppliers in innovation and efficiency, with insights into the impact of algo trading."
 ---
 

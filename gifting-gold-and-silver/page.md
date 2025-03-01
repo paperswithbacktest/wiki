@@ -1,5 +1,5 @@
 ---
-title: "Gifting Gold and Silver (Algo Trading)"
+title: "Gifting Gold and Silver"
 description: "Explore the timeless appeal and financial security of gifting gold and silver Discover tangible assets like bullion and coins or modern investment options with algo trading"
 ---
 

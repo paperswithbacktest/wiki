@@ -1,5 +1,5 @@
 ---
-title: "Buy to Close in Options Trading (Algo Trading)"
+title: "Buy to Close in Options Trading"
 description: "Explore how the 'Buy to Close' order integrates with algorithmic trading strategies to manage short options positions, optimize tactics, and enhance financial gains."
 ---
 

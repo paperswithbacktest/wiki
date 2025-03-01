@@ -1,5 +1,5 @@
 ---
-title: "Bearish Abandoned Baby Pattern (Algo Trading)"
+title: "Bearish Abandoned Baby Pattern"
 description: "Discover the Bearish Abandoned Baby pattern a key candlestick formation signaling a potential market reversal. Enhance trading strategies with this insightful guide."
 ---
 

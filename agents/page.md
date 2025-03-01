@@ -1,5 +1,5 @@
 ---
-title: "Agents (Algo Trading)"
+title: "Agents"
 description: Discover the role of agents in algorithmic trading, a game-changer in the ever-evolving world of finance. Learn how these autonomous market players, equipped with AI capabilities, analyze markets, optimize orders, and monitor trends. Explore the potential impact on market homogenization and ethical concerns. Prepare for the future of algo trading with valuable resources and insights.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Open-Market and Closed-Market Transactions (Algo Trading)"
+title: "Comparison of Open-Market and Closed-Market Transactions"
 description: "Discover the differences between open-market and closed-market transactions in algorithmic trading for better investment insights and market participation strategies."
 ---
 

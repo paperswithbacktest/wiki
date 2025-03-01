@@ -1,5 +1,5 @@
 ---
-title: "Definitive Securities and Their Functionality (Algo Trading)"
+title: "Definitive Securities and Their Functionality"
 description: "Explore the critical role of definitive securities and algorithmic trading in modern finance as they shape investment strategies and enhance market efficiency."
 ---
 

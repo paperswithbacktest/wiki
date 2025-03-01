@@ -1,5 +1,5 @@
 ---
-title: "Count: Definition, Functionality, Varieties (Algo Trading)"
+title: "Count: Definition, Functionality, Varieties"
 description: "Explore the essentials of counting techniques in algorithmic trading learn how permutations combinations and factorials enhance trading strategies and risk management."
 ---
 

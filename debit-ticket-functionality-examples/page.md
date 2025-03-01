@@ -1,5 +1,5 @@
 ---
-title: "Debit Ticket: Functionality and Examples (Algo Trading)"
+title: "Debit Ticket: Functionality and Examples"
 description: "Explore debit tickets in algorithmic trading understanding their crucial role in transaction recording compliance and optimizing trading strategies within modern finance."
 ---
 

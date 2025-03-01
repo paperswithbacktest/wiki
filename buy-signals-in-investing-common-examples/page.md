@@ -1,5 +1,5 @@
 ---
-title: "Buy Signals in Investing: Common Examples (Algo Trading)"
+title: "Buy Signals in Investing: Common Examples"
 description: "Learn how buy signals and algorithmic trading transform modern investing. Discover key indicators like moving averages and RSI to enhance trading strategies."
 ---
 

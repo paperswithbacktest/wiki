@@ -1,5 +1,5 @@
 ---
-title: "Evening Star Candlestick Pattern Explained (Algo Trading)"
+title: "Evening Star Candlestick Pattern Explained"
 description: Explore the intricacies of the Evening Star candlestick pattern, a key bearish reversal signal in technical analysis. Uncover how this pattern is effectively used in algorithmic trading, enhancing decision-making and precision by eliminating emotional trading biases. Learn to identify the pattern, which comprises a bullish candle, a small candle, and a bearish candle, signaling a shift from bullish to bearish sentiment. This guide investigates into the implementation of the Evening Star pattern in automated trading systems, offering insights into its role in shaping robust trading algorithms adaptable to market dynamics.
 ---
 

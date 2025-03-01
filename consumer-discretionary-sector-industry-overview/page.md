@@ -1,5 +1,5 @@
 ---
-title: "Consumer Discretionary Sector: Industry Overview (Algo Trading)"
+title: "Consumer Discretionary Sector: Industry Overview"
 description: "Explore the impact of algorithmic trading on the consumer discretionary sector highlighting key industries, market dynamics, trends, and risks for informed investing."
 ---
 

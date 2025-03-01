@@ -1,5 +1,5 @@
 ---
-title: "Breakpoint Sale Mechanism and Impact (Algo Trading)"
+title: "Breakpoint Sale Mechanism and Impact"
 description: "Explore the impact of breakpoint sales and algorithmic trading on financial markets Discover mechanisms driving investment efficiency and strategic advantages"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Lock-Up Option: Overview and Mechanism (Algo Trading)"
+title: "Lock-Up Option: Overview and Mechanism"
 description: "Discover the importance of lock-up options and algorithmic trading in financial markets. Learn how they stabilize IPOs and optimize trading strategies."
 ---
 

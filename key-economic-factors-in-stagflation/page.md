@@ -1,5 +1,5 @@
 ---
-title: "Key Economic Factors in Stagflation (Algo Trading)"
+title: "Key Economic Factors in Stagflation"
 description: "Explore the key economic factors in stagflation and algorithmic trading Learn how inflation and stagflation impact markets and the role of trading technologies"
 ---
 

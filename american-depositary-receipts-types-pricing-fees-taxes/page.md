@@ -1,5 +1,5 @@
 ---
-title: "American Depositary Receipts: Types, Pricing, Fees, and Taxes (Algo Trading)"
+title: "American Depositary Receipts: Types, Pricing, Fees, and Taxes"
 description: "Explore American Depositary Receipts (ADRs) including their types, pricing, fees, and taxation. Learn how algo trading impacts ADR investments and market dynamics."
 ---
 

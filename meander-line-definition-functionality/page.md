@@ -1,5 +1,5 @@
 ---
-title: "Meander Line: Definition and Functionality (Algo Trading)"
+title: "Meander Line: Definition and Functionality"
 description: "Discover the role of meander lines in land surveying, crucial for property boundaries near water bodies, and explore the impact of algo trading in finance."
 ---
 

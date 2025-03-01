@@ -1,5 +1,5 @@
 ---
-title: "Interest Expenses and Coverage Ratio (Algo Trading)"
+title: "Interest Expenses and Coverage Ratio"
 description: "Gain insights into financial stability by mastering coverage ratios and interest expenses Essential for algo trading these metrics enhance decision-making and risk management"
 ---
 

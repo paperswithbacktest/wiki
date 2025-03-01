@@ -1,5 +1,5 @@
 ---
-title: "Forex System Trading (Algo Trading)"
+title: "Forex System Trading"
 description: "Explore the competitive edge of forex trading with algorithmic systems Discover enhanced efficiency and emotion-free strategies in today's dynamic market"
 ---
 

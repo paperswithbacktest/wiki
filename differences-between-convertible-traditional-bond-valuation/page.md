@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Convertible and Traditional Bond Valuation (Algo Trading)"
+title: "Differences Between Convertible and Traditional Bond Valuation"
 description: "Explore the nuances of traditional and convertible bond valuation and how algorithmic trading enhances efficiency and precision in modern financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Abu Dhabi Investment Authority (Algo Trading)"
+title: "Abu Dhabi Investment Authority"
 description: "The Abu Dhabi Investment Authority employs algorithmic trading to optimize investment strategies enhancing precision and efficiency while navigating global markets."
 ---
 

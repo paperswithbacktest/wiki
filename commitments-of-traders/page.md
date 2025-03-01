@@ -1,5 +1,5 @@
 ---
-title: "Commitments of Traders Explained (Algo Trading)"
+title: "Commitments of Traders Explained"
 description: Explore the impact of the Commitments of Traders report on algorithmic trading. Uncover how this vital tool enhances trading strategies by providing insights into market dynamics and sentiments. Discover the significance of trader positioning data in forecasting trends and optimizing trades, offering a competitive edge in today's data-driven trading environments.
 ---
 

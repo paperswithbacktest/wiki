@@ -1,5 +1,5 @@
 ---
-title: "Advantages of Using Real Estate Agents Over FSBO (Algo Trading)"
+title: "Advantages of Using Real Estate Agents Over FSBO"
 description: "Discover the key advantages of using real estate agents over FSBO sales amid evolving trends like algorithmic trading and how they impact property transactions."
 ---
 

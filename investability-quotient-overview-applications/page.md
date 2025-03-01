@@ -1,5 +1,5 @@
 ---
-title: "Investability Quotient: Overview and Applications (Algo Trading)"
+title: "Investability Quotient: Overview and Applications"
 description: "Understand how the investability quotient and financial metrics enhance algorithmic trading to maximize returns and manage risks in today's investment landscape."
 ---
 

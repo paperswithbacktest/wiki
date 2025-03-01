@@ -1,5 +1,5 @@
 ---
-title: "Calculating Expected Portfolio Return in Excel (Algo Trading)"
+title: "Calculating Expected Portfolio Return in Excel"
 description: "Learn how to enhance your algorithmic trading strategies with Excel by calculating expected portfolio returns. This guide shows the steps needed to use Excel's robust functions for accurate return estimations, vital for informed decision-making in dynamic financial markets. Explore Excel's tools like AVERAGE and SUMPRODUCT, and master real-time data integrations to optimize trading performance and align with risk-return profiles."
 ---
 

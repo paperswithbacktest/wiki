@@ -1,5 +1,5 @@
 ---
-title: "Econometrics toolbox (Algo Trading)"
+title: "Econometrics toolbox"
 description: Explore the econometric toolkit essential for enhancing algorithmic trading strategies through quantitative analysis of financial data. Learn how econometrics integrates statistical methods with economic theories to model market behaviors, develop data-driven strategies, and improve trading performance. Discover key models like time-series and regression, and utilize platforms like MATLAB and WFAToolbox to refine your trading algorithms.
 ---
 

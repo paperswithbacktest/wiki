@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Equity and Mortgage REITs (Algo Trading)"
+title: "Comparison of Equity and Mortgage REITs"
 description: "Explore how Equity and Mortgage REITs differ in investment strategy and risk plus how algorithmic trading can enhance real estate investment returns."
 ---
 

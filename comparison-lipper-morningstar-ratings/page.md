@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Lipper Ratings and Morningstar Ratings (Algo Trading)"
+title: "Comparison of Lipper Ratings and Morningstar Ratings"
 description: "Explore the key differences between Lipper and Morningstar Ratings in algo trading. Understand how each system impacts investment decisions with detailed analysis."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Cockroach Theory: Meaning and Effects (Algo Trading)"
+title: "Cockroach Theory: Meaning and Effects"
 description: "Explore the Cockroach Theory and its effects on algorithmic trading. Learn how behavioral finance insights enhance trading strategies and predict market movements."
 ---
 

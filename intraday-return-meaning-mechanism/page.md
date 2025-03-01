@@ -1,5 +1,5 @@
 ---
-title: "Intraday Return: Meaning and Mechanism (Algo Trading)"
+title: "Intraday Return: Meaning and Mechanism"
 description: "Explore intraday return trading and algorithmic strategies for better market efficiency Learn how technology optimizes trades and enhances risk management"
 ---
 

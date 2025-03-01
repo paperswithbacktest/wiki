@@ -1,5 +1,5 @@
 ---
-title: "Major Risks for International Investors (Algo Trading)"
+title: "Major Risks for International Investors"
 description: "Explore key international investment risks and discover how algorithmic trading helps mitigate issues like currency volatility and political instability."
 ---
 

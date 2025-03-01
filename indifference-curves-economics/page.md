@@ -1,5 +1,5 @@
 ---
-title: "Indifference Curves in Economics (Algo Trading)"
+title: "Indifference Curves in Economics"
 description: "Explore how indifference curves in consumer theory can enhance algorithmic trading strategies by optimizing portfolio selections and risk management."
 ---
 

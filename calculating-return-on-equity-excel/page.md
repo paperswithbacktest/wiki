@@ -1,5 +1,5 @@
 ---
-title: "Calculating Return on Equity in Excel (Algo Trading)"
+title: "Calculating Return on Equity in Excel"
 description: "Learn how to calculate Return on Equity (ROE) in Excel through a step-by-step guide ideal for algorithmic trading to optimize investment strategies effectively."
 ---
 

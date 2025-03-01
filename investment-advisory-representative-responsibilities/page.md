@@ -1,5 +1,5 @@
 ---
-title: "Investment Advisory Representative Responsibilities (Algo Trading)"
+title: "Investment Advisory Representative Responsibilities"
 description: "Explore the essential responsibilities of Investment Advisory Representatives in algorithmic trading and discover how they enhance client financial strategies."
 ---
 

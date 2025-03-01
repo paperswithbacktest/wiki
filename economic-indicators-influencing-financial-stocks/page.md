@@ -1,5 +1,5 @@
 ---
-title: "Economic Indicators Influencing Financial Stocks (Algo Trading)"
+title: "Economic Indicators Influencing Financial Stocks"
 description: "Discover how economic indicators and algorithmic trading shape the financial stock market. Gain insights into crucial trends and enhance your trading strategy."
 ---
 

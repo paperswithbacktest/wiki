@@ -1,5 +1,5 @@
 ---
-title: "Asset Coverage Ratio (Algo Trading)"
+title: "Asset Coverage Ratio"
 description: "Explore the critical concepts of financial ratios, asset coverage, and algorithmic trading in this insightful guide. Understand how financial ratios help in evaluating a company's performance, offering essential insights into profitability, liquidity, and solvency. Learn about the asset coverage ratio's role in assessing a company's capability to repay its debts by liquidating assets, highlighting financial stability and risk. Discover how algorithmic trading leverages computer algorithms to enhance trading efficiency and decision-making. This comprehensive article underscores the importance of these elements in crafting effective investment strategies for dynamic financial markets."
 ---
 

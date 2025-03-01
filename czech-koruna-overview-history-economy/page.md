@@ -1,5 +1,5 @@
 ---
-title: "Czech Koruna: Overview, Historical Perspective, and Economic Role (Algo Trading)"
+title: "Czech Koruna: Overview, Historical Perspective, and Economic Role"
 description: "Explore the Czech Koruna's evolution, its economic impact, and its role in algorithmic trading. Understand its significance in Central Europe."
 ---
 

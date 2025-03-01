@@ -1,5 +1,5 @@
 ---
-title: "Feasibility of Earning a Living Through Mutual Fund Trading (Algo Trading)"
+title: "Feasibility of Earning a Living Through Mutual Fund Trading"
 description: "Explore the potential of earning a living through mutual fund investing and algo trading Learn how these methods can be integrated for financial success"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Initial Offering Date: Explanation and Mechanism (Algo Trading)"
+title: "Initial Offering Date: Explanation and Mechanism"
 description: "Explore the significance of the initial offering date in IPOs and discover how algorithmic trading impacts market dynamics through efficient trading strategies."
 ---
 

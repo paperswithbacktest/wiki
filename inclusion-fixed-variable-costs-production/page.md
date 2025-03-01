@@ -1,5 +1,5 @@
 ---
-title: "Inclusion of Fixed and Variable Costs in Production Costs (Algo Trading)"
+title: "Inclusion of Fixed and Variable Costs in Production Costs"
 description: "Understand how fixed and variable costs impact profitability in algorithmic trading. Optimize strategies by managing costs like software licenses and transaction fees."
 ---
 

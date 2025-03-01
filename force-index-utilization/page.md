@@ -1,5 +1,5 @@
 ---
-title: "Force Index Utilization (Algo Trading)"
+title: "Force Index Utilization"
 description: "Understand market momentum with the Force Index a vital tool for traders using technical indicators for informed trading decisions in algorithmic strategies."
 ---
 

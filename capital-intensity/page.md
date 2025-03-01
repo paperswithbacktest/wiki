@@ -1,5 +1,5 @@
 ---
-title: "Capital Intensity (Algo Trading)"
+title: "Capital Intensity"
 description: "Explore the interplay between capital-intensive industries and algorithmic trading Learn how economic metrics aid stakeholders in optimizing resources and investment strategies"
 ---
 

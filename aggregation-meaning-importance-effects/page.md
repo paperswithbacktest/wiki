@@ -1,5 +1,5 @@
 ---
-title: "Aggregation: Meaning, Importance, and Effects (Algo Trading)"
+title: "Aggregation: Meaning, Importance, and Effects"
 description: "Explore how aggregation revolutionizes algorithmic trading by enhancing market insights and execution strategies Learn about its impact on risk management and efficiency"
 ---
 

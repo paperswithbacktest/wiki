@@ -1,5 +1,5 @@
 ---
-title: "Fixed Income Microstructure (Algo Trading)"
+title: "Fixed Income Microstructure"
 description: "Explore the transformative impact of algorithmic trading in fixed income markets as it enhances efficiency and precision in executing bond trades efficiently and accurately."
 ---
 

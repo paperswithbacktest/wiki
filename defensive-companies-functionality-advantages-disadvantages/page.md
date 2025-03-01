@@ -1,5 +1,5 @@
 ---
-title: "Defensive Companies: Definition, Functionality, Advantages, and Disadvantages (Algo Trading)"
+title: "Defensive Companies: Definition, Functionality, Advantages, and Disadvantages"
 description: "Explore the key attributes of defensive companies and algorithmic trading two robust investment strategies offering stability and precision in today's financial markets."
 ---
 

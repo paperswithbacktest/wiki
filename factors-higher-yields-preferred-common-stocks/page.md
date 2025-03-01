@@ -1,5 +1,5 @@
 ---
-title: "Factors Influencing Higher Yields in Preferred vs. Common Stocks (Algo Trading)"
+title: "Factors Influencing Higher Yields in Preferred vs. Common Stocks"
 description: "Explore how algorithmic trading enhances yield comparisons in preferred and common stocks, offering unique advantages to optimize portfolio decisions and align financial goals."
 ---
 

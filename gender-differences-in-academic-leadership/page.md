@@ -1,5 +1,5 @@
 ---
-title: "Gender Differences in Academic Leadership (Algo Trading)"
+title: "Gender Differences in Academic Leadership"
 description: "Explore gender disparities in academic and financial leadership, focusing on challenges in representation, pay equity, and inclusivity within algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Impact of Jobless Claims on Financial Markets (Algo Trading)"
+title: "Impact of Jobless Claims on Financial Markets"
 description: "Explore how US jobless claims impact financial markets and trading strategies. Understand this key economic indicator, its role in algorithmic trading, and how it helps traders optimize decisions and gain insights into market dynamics for smarter investing."
 ---
 

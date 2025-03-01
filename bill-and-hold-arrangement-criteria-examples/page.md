@@ -1,5 +1,5 @@
 ---
-title: "Bill-And-Hold Arrangement Criteria and Examples (Algo Trading)"
+title: "Bill-And-Hold Arrangement Criteria and Examples"
 description: "Understand bill-and-hold criteria and trading strategies for accurate revenue recognition in finance. Learn how algorithmic trading impacts market dynamics."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Kijun Line in Technical Analysis (Algo Trading)"
+title: "Kijun Line in Technical Analysis"
 description: "Explore the vital role of the Kijun Line in technical analysis and algo trading. Learn how it helps forecast market trends and make informed trading decisions."
 ---
 

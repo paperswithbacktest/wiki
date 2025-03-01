@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Dividend Yield and Dividend Payout Ratio (Algo Trading)"
+title: "Differences Between Dividend Yield and Dividend Payout Ratio"
 description: "Discover the key differences between dividend yield and dividend payout ratio and how these metrics impact investment strategies particularly in algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Inclusion of Dividends in the S&P 500 Index (Algo Trading)"
+title: "Inclusion of Dividends in the S&P 500 Index"
 description: "Enhance your investment strategy by integrating algorithmic trading with dividend stocks in the S&P 500 Index for optimized returns and portfolio performance."
 ---
 

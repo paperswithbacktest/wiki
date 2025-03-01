@@ -1,5 +1,5 @@
 ---
-title: "David Ardia (Algo Trading)"
+title: "David Ardia"
 description: "Explore the achievements of David Ardia in algorithmic trading and quantitative finance from his academic pursuits to his industry contributions and awards."
 ---
 

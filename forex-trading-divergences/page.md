@@ -1,5 +1,5 @@
 ---
-title: "Forex Trading Divergences (Algo Trading)"
+title: "Forex Trading Divergences"
 description: "Explore how divergences in forex trading offer reliable signals for trend reversals or continuations. Learn to enhance your algo trading strategies with precision."
 ---
 

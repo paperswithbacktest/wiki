@@ -1,5 +1,5 @@
 ---
-title: "Electronic Trading Systems (Algo Trading)"
+title: "Electronic Trading Systems"
 description: "Discover how electronic and algorithmic trading are revolutionizing financial markets with faster execution speeds and enhanced tools for traders and investors."
 ---
 

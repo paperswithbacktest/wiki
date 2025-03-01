@@ -1,5 +1,5 @@
 ---
-title: "Cost Accounting: Advantages and Disadvantages (Algo Trading)"
+title: "Cost Accounting: Advantages and Disadvantages"
 description: "Explore the critical advantages and disadvantages of cost accounting in algorithmic trading Discover insights on optimizing financial strategies and performance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Investing in Stocks: Getting Started in 2024 (Algo Trading)"
+title: "Investing in Stocks: Getting Started in 2024"
 description: "Discover how algorithmic trading is revolutionizing stock investments in 2024. Learn how modern technology enhances trade precision, eliminates emotional influences, and provides opportunities for greater returns. Explore leading platforms and strategies to effectively integrate algo trading into your investment approach and maximize performance."
 ---
 

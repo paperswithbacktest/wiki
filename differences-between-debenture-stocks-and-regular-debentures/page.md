@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Debenture Stocks and Regular Debentures (Algo Trading)"
+title: "Differences Between Debenture Stocks and Regular Debentures"
 description: "Explore the key differences between debenture stocks and regular debentures and learn how algorithmic trading can optimize investment strategies in your portfolio."
 ---
 

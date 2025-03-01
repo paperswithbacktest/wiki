@@ -1,5 +1,5 @@
 ---
-title: "Largest Global Oil Companies (Algo Trading)"
+title: "Largest Global Oil Companies"
 description: "Discover how algorithmic trading is transforming the financial operations of the largest oil companies globally and uncover key industry insights."
 ---
 

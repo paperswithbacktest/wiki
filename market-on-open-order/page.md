@@ -1,5 +1,5 @@
 ---
-title: "Market-On-Open Order (Algo Trading)"
+title: "Market-On-Open Order"
 description: "Explore the benefits, risks, and strategic integration of Market-On-Open orders in stock trading to enhance decision-making and optimize order execution."
 ---
 

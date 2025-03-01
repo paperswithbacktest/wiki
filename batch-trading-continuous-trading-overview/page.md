@@ -1,5 +1,5 @@
 ---
-title: "Batch Trading and Continuous Trading Overview (Algo Trading)"
+title: "Batch Trading and Continuous Trading Overview"
 description: "Explore the dynamics of batch and continuous trading in financial markets Uncover the advantages and challenges of each method to optimize trading strategies"
 ---
 

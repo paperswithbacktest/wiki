@@ -1,5 +1,5 @@
 ---
-title: "ETF Liquidity Importance (Algo Trading)"
+title: "ETF Liquidity Importance"
 description: "Explore the crucial role of ETF liquidity and algorithmic trading in modern financial markets Learn how these elements enhance trading efficiency and portfolio management"
 ---
 

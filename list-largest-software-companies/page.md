@@ -1,5 +1,5 @@
 ---
-title: "List of Largest Software Companies (Algo Trading)"
+title: "List of Largest Software Companies"
 description: "Explore the dynamics of leading software companies in algorithmic trading driven by innovation from giants like Microsoft and Oracle, shaping tech and finance."
 ---
 

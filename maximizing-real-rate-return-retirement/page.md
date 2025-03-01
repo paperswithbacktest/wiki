@@ -1,5 +1,5 @@
 ---
-title: "Maximizing Real Rate of Return for Retirement (Algo Trading)"
+title: "Maximizing Real Rate of Return for Retirement"
 description: "Maximize your retirement funds with strategies focused on the real rate of return and algorithmic trading. Learn how to counter inflation's impact effectively."
 ---
 

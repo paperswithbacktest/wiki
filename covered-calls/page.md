@@ -1,5 +1,5 @@
 ---
-title: "Covered Calls Strategy Explained (Algo Trading)"
+title: "Covered Calls Strategy Explained"
 description: Discover the intricacies of integrating covered call strategies into algorithmic trading. Explore how this popular options trading method may pose challenges due to its capped upside potential, risk/reward profile, and limited effectiveness in rapidly changing markets. Learn why covered calls might not align with algorithms designed to exploit significant market movements and trends. Uncover the complexities and potential drawbacks, equipping traders with insights to make informed decisions about using covered calls within automated trading systems.
 ---
 

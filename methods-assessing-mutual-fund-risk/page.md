@@ -1,5 +1,5 @@
 ---
-title: "Methods for Assessing Mutual Fund Risk (Algo Trading)"
+title: "Methods for Assessing Mutual Fund Risk"
 description: "Explore methods to assess mutual fund risks with algorithmic trading to optimize returns and minimize losses through advanced financial analysis and prediction tools."
 ---
 

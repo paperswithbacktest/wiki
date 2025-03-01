@@ -1,5 +1,5 @@
 ---
-title: "Generic Securities: Overview and Mechanisms (Algo Trading)"
+title: "Generic Securities: Overview and Mechanisms"
 description: "Explore the world of generic securities and algorithmic trading to enhance investment strategies Discover how these modern financial tools can optimize your portfolio"
 ---
 

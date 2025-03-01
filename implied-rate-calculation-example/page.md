@@ -1,5 +1,5 @@
 ---
-title: "Implied Rate Calculation and Example (Algo Trading)"
+title: "Implied Rate Calculation and Example"
 description: "Explore the essential role of implied rate calculations in algorithmic trading revealing interest rates that align present asset values with future values for strategic insights."
 ---
 

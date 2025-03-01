@@ -1,5 +1,5 @@
 ---
-title: "Cambist: Overview and Examples (Algo Trading)"
+title: "Cambist: Overview and Examples"
 description: "Explore the evolution of cambist roles in forex as algorithmic trading reshapes currency exchange strategies and enhances market efficiency globally."
 ---
 

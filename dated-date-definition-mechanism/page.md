@@ -1,5 +1,5 @@
 ---
-title: "Dated Date: Definition and Mechanism (Algo Trading)"
+title: "Dated Date: Definition and Mechanism"
 description: "Explore the intricacies of dated dates in bond finance and the impact of algorithmic trading in modern markets to enhance investment strategies."
 ---
 

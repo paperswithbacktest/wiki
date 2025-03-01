@@ -1,5 +1,5 @@
 ---
-title: "Mario Draghi: Significance in Economics (Algo Trading)"
+title: "Mario Draghi: Significance in Economics"
 description: "Explore Mario Draghi's economic policies and their impact on the evolving world of algorithmic trading reflecting on how central bank strategies shape financial technologies."
 ---
 

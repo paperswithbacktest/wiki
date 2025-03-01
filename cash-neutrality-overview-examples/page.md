@@ -1,5 +1,5 @@
 ---
-title: "Cash Neutrality: Overview and Examples (Algo Trading)"
+title: "Cash Neutrality: Overview and Examples"
 description: "Explore how cash neutrality and algo trading enhance financial strategies by optimizing resource allocation and improving trading precision for lasting growth."
 ---
 

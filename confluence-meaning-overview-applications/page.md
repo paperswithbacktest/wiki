@@ -1,5 +1,5 @@
 ---
-title: "Confluence: Meaning, Overview, and Applications (Algo Trading)"
+title: "Confluence: Meaning, Overview, and Applications"
 description: "Discover how the concept of Confluence enhances trading strategies by combining multiple techniques, particularly in algorithmic trading, for informed decisions."
 ---
 

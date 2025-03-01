@@ -1,5 +1,5 @@
 ---
-title: "Due Bill and Dividend Stocks (Algo Trading)"
+title: "Due Bill and Dividend Stocks"
 description: "Discover essential insights into due bills, dividend stocks, and algorithmic trading to enhance your investment strategies. Learn how due bills ensure fair dividend allocation, explore the income potential of dividend stocks, and understand how algorithmic trading can optimize trading efficiency. Equip yourself with the knowledge to navigate the complexities of modern financial markets and maximize your investment opportunities while minimizing risks. Whether you're a seasoned investor or new to the market, this guide offers valuable information to support your financial goals."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Determining Optimal Leverage in Forex Trading (Algo Trading)"
+title: "Determining Optimal Leverage in Forex Trading"
 description: "Discover the key concepts of leverage and algorithmic trading in forex markets. This comprehensive guide explores how traders can amplify returns, manage risks, and effectively utilize automated systems for increased trading precision. Learn about the benefits and drawbacks of leveraging borrowed capital and the strategic implementation of algorithmic trading to enhance your forex strategies."
 ---
 

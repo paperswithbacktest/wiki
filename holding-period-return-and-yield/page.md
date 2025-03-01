@@ -1,5 +1,5 @@
 ---
-title: "Holding Period Return and Yield (Algo Trading)"
+title: "Holding Period Return and Yield"
 description: "Explore the vital aspects of investment yield and holding period return within the context of financial analysis and algorithmic trading essentials for informed investing."
 ---
 

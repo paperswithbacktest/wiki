@@ -1,5 +1,5 @@
 ---
-title: "Freeze Out or Squeeze Out: Definition and Mechanism (Algo Trading)"
+title: "Freeze Out or Squeeze Out: Definition and Mechanism"
 description: "Explore the definition and mechanism of freeze outs in algorithmic trading where majority shareholders pressure minority stakeholders to sell their shares."
 ---
 

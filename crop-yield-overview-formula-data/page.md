@@ -1,5 +1,5 @@
 ---
-title: "Crop Yield: Overview, Formula, and Data (Algo Trading)"
+title: "Crop Yield: Overview, Formula, and Data"
 description: "Explore the significance of crop yield in agriculture and its connection to algorithmic trading for optimizing market decisions through data-driven insights."
 ---
 

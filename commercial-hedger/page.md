@@ -1,5 +1,5 @@
 ---
-title: "Commercial Hedger (Algo Trading)"
+title: "Commercial Hedger"
 description: "Explore how Commercial Hedger leverages algo trading and hedging strategies to minimize market risks and maximize returns in dynamic financial environments."
 ---
 

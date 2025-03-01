@@ -1,5 +1,5 @@
 ---
-title: "EBITDAX Overview and Comparison with EBITDA (Algo Trading)"
+title: "EBITDAX Overview and Comparison with EBITDA"
 description: "Explore EBITDAX and its comparison with EBITDA in the context of algo trading uncovering strategies for smarter financial decisions in evolving markets."
 ---
 

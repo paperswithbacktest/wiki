@@ -1,5 +1,5 @@
 ---
-title: "Evolution of U.S. Financial Regulations: From Glass-Steagall to Dodd-Frank (Algo Trading)"
+title: "Evolution of U.S. Financial Regulations: From Glass-Steagall to Dodd-Frank"
 description: "Explore the evolution of U.S. financial regulations from Glass-Steagall to Dodd-Frank and how they impact algorithmic trading and market stability."
 ---
 

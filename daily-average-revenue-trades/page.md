@@ -1,5 +1,5 @@
 ---
-title: "Daily Average Revenue Trades (Algo Trading)"
+title: "Daily Average Revenue Trades"
 description: "Explore the importance of Daily Average Revenue Trades (DARTs) in the brokerage industry as a key metric for assessing trading success and profitability. This comprehensive article investigates into how DARTs have evolved, particularly with the rise of zero-commission trading, and examines various trade types like stocks and options that impact overall revenue. Gain insights into the adaptation strategies of brokerages and the dynamic nature of the trading industry, highlighting the ongoing challenge of calculating DARTs accurately amidst shifting revenue models."
 ---
 

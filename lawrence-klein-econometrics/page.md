@@ -1,5 +1,5 @@
 ---
-title: "Lawrence Klein and the Field of Econometrics (Algo Trading)"
+title: "Lawrence Klein and the Field of Econometrics"
 description: "Discover how Lawrence Klein revolutionized econometrics and shaped algorithmic trading This article investigates into his legacy and its impact on modern financial systems"
 ---
 

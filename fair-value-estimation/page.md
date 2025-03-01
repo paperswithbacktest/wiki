@@ -1,5 +1,5 @@
 ---
-title: "Fair value estimation (Algo Trading)"
+title: "Fair value estimation"
 description: "Explore the importance of fair value estimation in algorithmic trading to capitalize on market opportunities and mispriced assets, optimizing trading strategies for profitability."
 ---
 

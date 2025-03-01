@@ -1,5 +1,5 @@
 ---
-title: "Automated Trading Systems (Algo Trading)"
+title: "Automated Trading Systems"
 description: "Explore the benefits and strategies of automated trading systems in financial markets, learn how they increase speed, minimize emotional bias, and boost efficiency."
 ---
 

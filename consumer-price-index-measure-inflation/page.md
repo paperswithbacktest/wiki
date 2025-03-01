@@ -1,5 +1,5 @@
 ---
-title: "Consumer Price Index as a Measure of Inflation (Algo Trading)"
+title: "Consumer Price Index as a Measure of Inflation"
 description: "Explore the role of the Consumer Price Index in inflation measurement and its integration into algorithmic trading strategies to enhance market predictions."
 ---
 

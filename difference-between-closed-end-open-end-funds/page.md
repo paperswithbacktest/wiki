@@ -1,5 +1,5 @@
 ---
-title: "Difference Between Closed-End and Open-End Funds (Algo Trading)"
+title: "Difference Between Closed-End and Open-End Funds"
 description: "Explore the differences between open-end and closed-end funds in investing, highlighting their unique structures and benefits. Open-end funds like mutual funds and ETFs offer flexibility and liquidity with shares linked to net asset value. Closed-end funds have a fixed share count, trading like stocks, often at discounts or premiums. The rise of algorithmic trading adds layers of speed and efficiency to fund management, impacting investment strategies. Understanding these elements equips investors to make informed decisions that align with their financial goals."
 ---
 

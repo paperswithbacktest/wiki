@@ -1,5 +1,5 @@
 ---
-title: "Contingent Liabilities Accounting Guidelines (Algo Trading)"
+title: "Contingent Liabilities Accounting Guidelines"
 description: "Explore how accounting standards, contingent liabilities, and algorithmic trading impact financial markets, enhance transparency, and support strategic decisions."
 ---
 

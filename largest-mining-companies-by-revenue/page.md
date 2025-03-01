@@ -1,5 +1,5 @@
 ---
-title: "Largest Mining Companies by Revenue (Algo Trading)"
+title: "Largest Mining Companies by Revenue"
 description: "Explore the dynamic world of the largest mining companies by revenue. Uncover how these industry giants shape the global economy by sourcing essential raw materials for technology, construction, and manufacturing. Delve into the role of algorithmic trading in enhancing profitability and efficiency in the mining sector, while gaining insight into the strategic innovations that drive the industry forward. Discover the impact of these companies on regional economic landscapes and global supply chains, highlighting the integral function of mining in modern infrastructure."
 ---
 

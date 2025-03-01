@@ -1,5 +1,5 @@
 ---
-title: "Determining an Appropriate Price-to-Sales Ratio (Algo Trading)"
+title: "Determining an Appropriate Price-to-Sales Ratio"
 description: "Explore the significance of the price-to-sales ratio in algorithmic trading to enhance decision-making by identifying investment opportunities efficiently."
 ---
 

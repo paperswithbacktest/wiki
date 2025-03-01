@@ -1,5 +1,5 @@
 ---
-title: "Letter of Guarantee: Purposes and Example (Algo Trading)"
+title: "Letter of Guarantee: Purposes and Example"
 description: "Discover the role of letters of guarantee in business finance and algo trading Learn how these financial instruments secure transactions and mitigate risks"
 ---
 

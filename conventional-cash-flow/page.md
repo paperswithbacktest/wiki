@@ -1,5 +1,5 @@
 ---
-title: "Conventional Cash Flow (Algo Trading)"
+title: "Conventional Cash Flow"
 description: "Explore the fusion of cash flow analysis with algorithmic trading to understand financial health and enhance trading strategies for optimized investment outcomes."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Examples of Debt Instruments (Algo Trading)"
+title: "Examples of Debt Instruments"
 description: "Explore debt instruments, their role in finance, and how algorithmic trading enhances investment strategies by optimizing returns and managing risks efficiently."
 ---
 

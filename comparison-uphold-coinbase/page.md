@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Uphold and Coinbase (Algo Trading)"
+title: "Comparison of Uphold and Coinbase"
 description: "Explore the benefits of algorithmic trading on Uphold and Coinbase Compare fees security supported currencies and special tools to choose the best platform"
 ---
 

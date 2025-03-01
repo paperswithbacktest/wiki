@@ -1,5 +1,5 @@
 ---
-title: "Custodian (Algo Trading)"
+title: "Custodian"
 description: "Explore the vital role of custodians in algorithmic trading where they ensure secure financial asset storage verification and regulatory compliance to maintain market stability. This guide highlights their responsibilities including ownership verification meticulous record-keeping and risk management crucial for supporting efficient and compliant trading operations in modern financial markets. Understand how custodians contribute to transparency and investor confidence by safeguarding assets and upholding legal standards in the fast-paced world of automated trading."
 ---
 

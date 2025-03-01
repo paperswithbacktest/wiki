@@ -1,5 +1,5 @@
 ---
-title: "Issuance of Federal Bonds (Algo Trading)"
+title: "Issuance of Federal Bonds"
 description: "Explore the intricate world of federal bonds issuance and the transformative impact of algorithmic trading Learn how these factors influence financial markets today"
 ---
 

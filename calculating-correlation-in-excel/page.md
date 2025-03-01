@@ -1,5 +1,5 @@
 ---
-title: "Calculating Correlation in Excel (Algo Trading)"
+title: "Calculating Correlation in Excel"
 description: "Discover how to calculate correlation in Excel for algorithmic trading and financial analysis. Explore the importance of correlation as a statistical measure to understand asset relationships in trading. Learn how Excel's tools make correlation analysis accessible, aiding in risk management and portfolio diversification for informed trading decisions."
 ---
 

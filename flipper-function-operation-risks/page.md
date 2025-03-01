@@ -1,5 +1,5 @@
 ---
-title: "Flipper: Function, Operation, and Risks (Algo Trading)"
+title: "Flipper: Function, Operation, and Risks"
 description: "Explore the intricate dynamics of Operation Flipper in algotrading. Discover its profit potential and inherent risks including technical glitches and market volatility."
 ---
 

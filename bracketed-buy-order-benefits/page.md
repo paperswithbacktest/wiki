@@ -1,5 +1,5 @@
 ---
-title: "Bracketed Buy Order and Its Benefits (Algo Trading)"
+title: "Bracketed Buy Order and Its Benefits"
 description: "Discover the power of bracketed buy orders in algo trading Ideal for risk management and profit securing this strategy automates entry and exit points seamlessly"
 ---
 

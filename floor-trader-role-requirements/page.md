@@ -1,5 +1,5 @@
 ---
-title: "Floor Trader: Role and Requirements (Algo Trading)"
+title: "Floor Trader: Role and Requirements"
 description: "Explore the evolving role of floor traders in the digital era of algorithmic trading emphasizing the skills required to thrive in today's tech-driven markets."
 ---
 

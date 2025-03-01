@@ -1,5 +1,5 @@
 ---
-title: "Average Qualitative Opinion (Algo Trading)"
+title: "Average Qualitative Opinion"
 description: "Discover the Average Qualitative Opinion (AQO) a novel tool in algorithmic trading that blends qualitative insights with quantitative data for enhanced trading decisions."
 ---
 

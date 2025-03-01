@@ -1,5 +1,5 @@
 ---
-title: "Dual Listing: Uses, Advantages, and Disadvantages (Algo Trading)"
+title: "Dual Listing: Uses, Advantages, and Disadvantages"
 description: "Explore dual listing in algo trading, its uses, advantages, and drawbacks Discover how this strategy enhances liquidity, diversifies investors, yet poses challenges."
 ---
 

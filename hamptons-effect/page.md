@@ -1,5 +1,5 @@
 ---
-title: "Hamptons Effect (Algo Trading)"
+title: "Hamptons Effect"
 description: "Discover the Hamptons Effect in financial markets where seasonal travel impacts trading volumes and real estate trends offering strategic investment insights."
 ---
 

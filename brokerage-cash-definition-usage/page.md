@@ -1,5 +1,5 @@
 ---
-title: "Brokerage Cash: Definition and Usage (Algo Trading)"
+title: "Brokerage Cash: Definition and Usage"
 description: "Explore brokerage cash investment accounts and algorithmic trading in financial management to maximize investments diversify portfolios and manage risk efficiently."
 ---
 

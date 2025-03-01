@@ -1,5 +1,5 @@
 ---
-title: "Calendar Trading and Spread Option Strategies (Algo Trading)"
+title: "Calendar Trading and Spread Option Strategies"
 description: "Discover effective calendar trading and spread option strategies in algo trading Increase profitability while managing risk with bull, bear, and calendar spreads"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "AlphaSimplex Group (Algo Trading)"
+title: "AlphaSimplex Group"
 description: Explore AlphaSimplex Group's pioneering impact on algorithmic trading, utilizing quantitative analysis to optimize investment strategies. This Boston-based firm, established in 1999, employs advanced mathematical models for dynamic market adaptation, emphasizing systematic and data-driven investment techniques. Learn how AlphaSimplex's flagship products, like the Managed Futures Strategy Fund, capture market trends and diversify portfolios, positioning the firm as a leader in quantitative asset management and setting a benchmark for innovation in financial markets.
 ---
 

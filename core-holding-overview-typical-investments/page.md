@@ -1,5 +1,5 @@
 ---
-title: "Core Holding: Overview and Typical Investments (Algo Trading)"
+title: "Core Holding: Overview and Typical Investments"
 description: "Explore the synergy between typical investments core holdings and algorithmic trading to craft robust adaptive portfolios that optimize performance and manage risks."
 ---
 

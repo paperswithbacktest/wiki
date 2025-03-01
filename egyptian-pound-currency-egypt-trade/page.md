@@ -1,5 +1,5 @@
 ---
-title: "Egyptian Pound as Currency of Egypt and Its Trade (Algo Trading)"
+title: "Egyptian Pound as Currency of Egypt and Its Trade"
 description: "Explore the significance of the Egyptian Pound in Egypt's economy and global trade Discover how algorithmic trading impacts EGP and financial stability"
 ---
 

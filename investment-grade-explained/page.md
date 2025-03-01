@@ -1,5 +1,5 @@
 ---
-title: "Investment Grade Explained (Algo Trading)"
+title: "Investment Grade Explained"
 description: "Explore the complexities of investment grade classifications and algorithmic trading Discover how these elements enhance your financial market strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Stock Brokers and Underwriters (Algo Trading)"
+title: "Comparison of Stock Brokers and Underwriters"
 description: "Explore the roles of underwriters, stock brokers, and algorithmic trading in financial markets. Understand their unique functions and impact on today's trading landscape."
 ---
 

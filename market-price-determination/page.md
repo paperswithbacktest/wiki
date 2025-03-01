@@ -1,5 +1,5 @@
 ---
-title: "Market Price and Determination (Algo Trading)"
+title: "Market Price and Determination"
 description: "Explore how market prices are determined and the role of algorithmic trading in finance Learn about pricing strategies and technologies shaping modern markets"
 ---
 

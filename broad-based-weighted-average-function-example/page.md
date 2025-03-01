@@ -1,5 +1,5 @@
 ---
-title: "Broad-Based Weighted Average: Function and Example (Algo Trading)"
+title: "Broad-Based Weighted Average: Function and Example"
 description: "Explore the significance of broad-based weighted averages in finance and algorithmic trading for investment strategies and shareholder protection against dilution."
 ---
 

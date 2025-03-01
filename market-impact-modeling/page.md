@@ -1,5 +1,5 @@
 ---
-title: "market impact modeling (Algo Trading)"
+title: "market impact modeling"
 description: "Optimize algorithmic trading strategies by mastering market impact modeling Learn how to minimize costs and maximize profits through informed trading decisions"
 ---
 

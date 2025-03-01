@@ -1,5 +1,5 @@
 ---
-title: "Macro Hedge: Concepts, ETF Strategies, and Alternatives (Algo Trading)"
+title: "Macro Hedge: Concepts, ETF Strategies, and Alternatives"
 description: "Explore diverse investment options with a focus on ETF strategies, macro hedge funds, and algorithmic trading to enhance portfolios and manage risk effectively."
 ---
 

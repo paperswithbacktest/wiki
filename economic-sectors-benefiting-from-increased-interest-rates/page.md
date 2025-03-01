@@ -1,5 +1,5 @@
 ---
-title: "Economic Sectors Benefiting From Increased Interest Rates (Algo Trading)"
+title: "Economic Sectors Benefiting From Increased Interest Rates"
 description: "Discover how rising interest rates impact various economic sectors and financial markets while exploring the role of algorithmic trading in modern finance."
 ---
 

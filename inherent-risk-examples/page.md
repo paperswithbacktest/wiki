@@ -1,5 +1,5 @@
 ---
-title: "Inherent Risk Examples (Algo Trading)"
+title: "Inherent Risk Examples"
 description: "Explore the inherent risks of algorithmic trading and discover effective strategies for risk management Learn how to safeguard investments from technical and market challenges"
 ---
 

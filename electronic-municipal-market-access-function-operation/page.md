@@ -1,5 +1,5 @@
 ---
-title: "Electronic Municipal Market Access: Function and Operation (Algo Trading)"
+title: "Electronic Municipal Market Access: Function and Operation"
 description: "Explore how EMMA facilitates informed municipal bond investments and enhances algorithmic trading opportunities for smarter, more efficient strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Methods of Oil Price Forecasting in Companies (Algo Trading)"
+title: "Methods of Oil Price Forecasting in Companies"
 description: "Explore diverse methods companies use for forecasting oil prices including econometric and machine learning models. Learn how algorithmic trading enhances market efficiency."
 ---
 

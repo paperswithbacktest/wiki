@@ -1,5 +1,5 @@
 ---
-title: "Internal Capital Generation Rate: Overview and Mechanism (Algo Trading)"
+title: "Internal Capital Generation Rate: Overview and Mechanism"
 description: "Explore the Internal Capital Generation Rate in algo trading and learn how it aids banks in fostering growth and sustainability without external funding."
 ---
 

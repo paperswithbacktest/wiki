@@ -1,5 +1,5 @@
 ---
-title: "Joe Kruft (Algo Trading)"
+title: "Joe Kruft"
 description: "Discover the journey of Joe Kruft from a tech enthusiast in Illinois to a leading figure in algorithmic trading Known for his innovative trading platforms"
 ---
 

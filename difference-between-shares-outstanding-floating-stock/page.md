@@ -1,5 +1,5 @@
 ---
-title: "Difference Between Shares Outstanding and Floating Stock (Algo Trading)"
+title: "Difference Between Shares Outstanding and Floating Stock"
 description: "Explore the key differences between shares outstanding and floating stock, and their impact on market dynamics and algorithmic trading strategies, boosting investor insights."
 ---
 

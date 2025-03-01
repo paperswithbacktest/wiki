@@ -1,5 +1,5 @@
 ---
-title: "Economic Miracle in Germany After World War II (Algo Trading)"
+title: "Economic Miracle in Germany After World War II"
 description: "Discover the pivotal strategies and technological innovations behind Germany's post-WWII economic miracle and its ongoing evolution with algorithmic trading."
 ---
 

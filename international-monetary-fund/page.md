@@ -1,5 +1,5 @@
 ---
-title: "International Monetary Fund (Algo Trading)"
+title: "International Monetary Fund"
 description: "Explore the interplay between IMF policies and algorithmic trading. Learn how global financial challenges are addressed with evolving tech and economic stability efforts."
 ---
 

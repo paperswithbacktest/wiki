@@ -1,5 +1,5 @@
 ---
-title: "Italian Economic Crisis of 2018 (Algo Trading)"
+title: "Italian Economic Crisis of 2018"
 description: "Explore the Italian economic crisis of 2018 examining its political and financial roots as well as the stabilizing role of algorithmic trading amidst eurozone uncertainties."
 ---
 

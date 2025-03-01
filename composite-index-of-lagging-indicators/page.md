@@ -1,5 +1,5 @@
 ---
-title: "Composite Index of Lagging Indicators (Algo Trading)"
+title: "Composite Index of Lagging Indicators"
 description: "Explore the significance of the Composite Index of Lagging Indicators in economic analysis and algorithmic trading validating past trends and guiding informed strategies."
 ---
 

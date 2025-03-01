@@ -1,5 +1,5 @@
 ---
-title: "Dollar-Cost Averaging with Exchange-Traded Funds (Algo Trading)"
+title: "Dollar-Cost Averaging with Exchange-Traded Funds"
 description: "Explore the power of dollar-cost averaging with ETFs and algorithmic trading to enhance your investment strategy and achieve efficient, disciplined results."
 ---
 

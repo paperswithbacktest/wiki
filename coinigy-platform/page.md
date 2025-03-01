@@ -1,5 +1,5 @@
 ---
-title: "Coinigy Platform (Algo Trading)"
+title: "Coinigy Platform"
 description: "Enhance your cryptocurrency trading with Coinigy the premier platform for algorithmic trading. Manage and trade assets seamlessly across multiple exchanges."
 ---
 

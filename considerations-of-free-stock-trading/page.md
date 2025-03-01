@@ -1,5 +1,5 @@
 ---
-title: "Considerations of Free Stock Trading (Algo Trading)"
+title: "Considerations of Free Stock Trading"
 description: "Explore how commission-free stock trading platforms have democratized investing with no transaction costs while highlighting potential hidden fees and revenue models."
 ---
 

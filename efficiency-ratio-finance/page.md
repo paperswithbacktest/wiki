@@ -1,5 +1,5 @@
 ---
-title: "Efficiency Ratio in Finance (Algo Trading)"
+title: "Efficiency Ratio in Finance"
 description: "Explore the efficiency ratio as a key financial metric in banking and algorithmic trading Learn how it measures operational efficiency and boosts performance"
 ---
 

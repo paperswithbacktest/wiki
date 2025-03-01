@@ -1,5 +1,5 @@
 ---
-title: "Limited Government and Its Functioning (Algo Trading)"
+title: "Limited Government and Its Functioning"
 description: "Explore how limited government principles influence innovation within algorithmic trading, highlighting the historical and modern implications for financial markets."
 ---
 

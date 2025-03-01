@@ -1,5 +1,5 @@
 ---
-title: "Difference Between Gross Profit and Gross Margin (Algo Trading)"
+title: "Difference Between Gross Profit and Gross Margin"
 description: "Discover the essential differences between gross profit and gross margin in algorithmic trading to enhance trading strategies and improve financial insights."
 ---
 

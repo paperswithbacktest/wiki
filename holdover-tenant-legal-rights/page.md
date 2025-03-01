@@ -1,5 +1,5 @@
 ---
-title: "Holdover Tenant Legal Rights (Algo Trading)"
+title: "Holdover Tenant Legal Rights"
 description: "Explore the intricacies of holdover tenant legal rights and algo trading Learn how to navigate lease terminations and optimize trading investments effectively"
 ---
 

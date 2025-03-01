@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Real GDP and Nominal GDP Indicators (Algo Trading)"
+title: "Comparison of Real GDP and Nominal GDP Indicators"
 description: "Discover the crucial differences between Real GDP and Nominal GDP for economic analysis and algorithmic trading to enhance your investment strategies."
 ---
 

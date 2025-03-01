@@ -1,5 +1,5 @@
 ---
-title: "Japanese Government Bonds: Overview and Examples (Algo Trading)"
+title: "Japanese Government Bonds: Overview and Examples"
 description: "Explore Japanese Government Bonds JGBs their types and market dynamics Learn how algorithmic trading optimizes investments amidst economic shifts"
 ---
 

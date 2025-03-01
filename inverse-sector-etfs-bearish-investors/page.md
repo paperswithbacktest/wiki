@@ -1,5 +1,5 @@
 ---
-title: "Inverse Sector ETFs for Bearish Investors (Algo Trading)"
+title: "Inverse Sector ETFs for Bearish Investors"
 description: "Explore strategies combining inverse sector ETFs and algorithmic trading for bearish investors aiming to optimize returns and manage risks in volatile markets."
 ---
 

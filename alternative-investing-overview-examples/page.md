@@ -1,5 +1,5 @@
 ---
-title: "Alternative Investing: Overview and Examples (Algo Trading)"
+title: "Alternative Investing: Overview and Examples"
 description: "Explore alternative investing, algorithmic trading, and modern strategies to enhance portfolio diversity and returns in today's competitive financial markets."
 ---
 

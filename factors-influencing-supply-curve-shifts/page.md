@@ -1,5 +1,5 @@
 ---
-title: "Factors Influencing Supply Curve Shifts (Algo Trading)"
+title: "Factors Influencing Supply Curve Shifts"
 description: "Explore how supply curve shifts impact market dynamics and algorithmic trading, focusing on technological, cost, and regulatory influences in financial strategies."
 ---
 

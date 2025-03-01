@@ -1,5 +1,5 @@
 ---
-title: "Marginalism in Microeconomics (Algo Trading)"
+title: "Marginalism in Microeconomics"
 description: "Discover how marginalism, a key concept in microeconomics, influences algorithmic trading strategies by enhancing decision-making in complex financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Energy Institute (Algo Trading)"
+title: "Energy Institute"
 description: "Discover how the Energy Institute is advancing the energy sector with algorithmic trading unlocking efficiency and adaptability in a dynamic and complex market."
 ---
 

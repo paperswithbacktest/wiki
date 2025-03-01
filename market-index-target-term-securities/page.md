@@ -1,5 +1,5 @@
 ---
-title: "Market Index Target-Term Securities (Algo Trading)"
+title: "Market Index Target-Term Securities"
 description: "Explore Market Index Target-Term Securities and algorithmic trading to understand a balanced investment approach that combines capital safety with potential growth."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Financial Guarantee: Forms and Types with Example (Algo Trading)"
+title: "Financial Guarantee: Forms and Types with Example"
 description: "Explore the pivotal role of financial guarantees in algorithmic trading examining their types forms and applications to enhance operations and manage risk."
 ---
 

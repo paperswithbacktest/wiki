@@ -1,5 +1,5 @@
 ---
-title: "Asset Financing: Overview, Mechanism, Pros and Cons (Algo Trading)"
+title: "Asset Financing: Overview, Mechanism, Pros and Cons"
 description: "Discover how asset financing and algorithmic trading can efficiently manage resources enabling quick capital access precision in trading and enhanced risk management."
 ---
 

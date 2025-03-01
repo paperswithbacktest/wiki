@@ -1,5 +1,5 @@
 ---
-title: "Economic Growth and Measurement (Algo Trading)"
+title: "Economic Growth and Measurement"
 description: "Explore the synergy between economic indicators and algorithmic trading to understand economic growth. Learn how GDP and algo trading impact financial decisions."
 ---
 

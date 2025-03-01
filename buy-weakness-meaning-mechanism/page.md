@@ -1,5 +1,5 @@
 ---
-title: "Buy Weakness: Meaning and Mechanism (Algo Trading)"
+title: "Buy Weakness: Meaning and Mechanism"
 description: "Explore the 'buy weakness' investment strategy in algo trading to capitalize on market retracements and price undervaluations using sophisticated algorithms."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Distributed Ledgers: Usage and Potential Applications (Algo Trading)"
+title: "Distributed Ledgers: Usage and Potential Applications"
 description: "Explore the transformative potential of distributed ledger technology in algorithmic trading and beyond. Discover how blockchain enhances security, transparency, and efficiency by decentralizing data storage, reducing risks, and improving transaction integrity. Unleash innovation in financial systems and beyond by leveraging the auditability and traceability offered by distributed ledgers, paving the way for a new era of digital transactions."
 ---
 

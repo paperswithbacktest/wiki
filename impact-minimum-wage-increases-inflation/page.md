@@ -1,5 +1,5 @@
 ---
-title: "Impact of Minimum Wage Increases on Inflation (Algo Trading)"
+title: "Impact of Minimum Wage Increases on Inflation"
 description: "Explore the complex interplay between minimum wage increases and inflation within the context of algorithmic trading and understand its economic impact."
 ---
 

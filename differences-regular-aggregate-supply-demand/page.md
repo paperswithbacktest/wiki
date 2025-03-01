@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Regular and Aggregate Supply and Demand (Algo Trading)"
+title: "Differences Between Regular and Aggregate Supply and Demand"
 description: "Explore the distinctions and interactions between regular and aggregate supply and demand in economics and algorithmic trading for a strategic market advantage."
 ---
 

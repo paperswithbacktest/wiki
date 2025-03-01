@@ -1,5 +1,5 @@
 ---
-title: "Interpretation of 'Being Green' (Algo Trading)"
+title: "Interpretation of 'Being Green'"
 description: "Explore the intersection of algorithmic trading and environmental sustainability offering insights into eco-friendly investing for a responsible financial future."
 ---
 

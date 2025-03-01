@@ -1,5 +1,5 @@
 ---
-title: "Adoption of Blockchain in Health Care (Algo Trading)"
+title: "Adoption of Blockchain in Health Care"
 description: "Explore how blockchain and algorithmic trading are transforming healthcare by enhancing data security, optimizing resources, and improving patient outcomes."
 ---
 

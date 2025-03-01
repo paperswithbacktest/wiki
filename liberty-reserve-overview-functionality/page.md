@@ -1,5 +1,5 @@
 ---
-title: "Liberty Reserve: Overview and Functionality (Algo Trading)"
+title: "Liberty Reserve: Overview and Functionality"
 description: "Explore Liberty Reserve's impact on digital currency and algorithmic trading by examining its secure transactions, anonymity, regulatory challenges, and ultimate shutdown."
 ---
 

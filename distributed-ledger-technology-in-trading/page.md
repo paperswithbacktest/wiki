@@ -1,5 +1,5 @@
 ---
-title: "Distributed Ledger Technology in Trading (Algo Trading)"
+title: "Distributed Ledger Technology in Trading"
 description: "Explore the transformative impact of Distributed Ledger Technology on algorithmic trading enhancing transparency and efficiency while reducing risks and intermediaries."
 ---
 

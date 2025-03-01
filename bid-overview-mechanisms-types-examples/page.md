@@ -1,5 +1,5 @@
 ---
-title: "Bid: Overview, Mechanisms, Types, and Examples (Algo Trading)"
+title: "Bid: Overview, Mechanisms, Types, and Examples"
 description: "Explore effective strategies in bid algo trading and its impact on modern markets, highlighting key bid types, processes, and the benefits of algorithmic automation."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Market Proxy: Definition and Functionality (Algo Trading)"
+title: "Market Proxy: Definition and Functionality"
 description: "Explore how market proxies and algorithmic trading enhance investment strategies by serving as benchmarks and leveraging automation for optimized trading decisions."
 ---
 

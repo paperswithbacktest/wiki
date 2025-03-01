@@ -1,5 +1,5 @@
 ---
-title: "Major Oil Producers in the Middle East (Algo Trading)"
+title: "Major Oil Producers in the Middle East"
 description: "Explore how Middle Eastern oil producers like Saudi Arabia and the UAE leverage algorithmic trading to enhance market efficiency, optimize pricing, and manage risks effectively."
 ---
 

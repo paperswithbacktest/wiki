@@ -1,5 +1,5 @@
 ---
-title: "History and Legality of Short Selling (Algo Trading)"
+title: "History and Legality of Short Selling"
 description: "Discover the history and legality of short selling and algorithmic trading Learn how these strategies evolved with technology and regulations shaping financial markets"
 ---
 

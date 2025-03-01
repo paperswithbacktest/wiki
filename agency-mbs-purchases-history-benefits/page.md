@@ -1,5 +1,5 @@
 ---
-title: "Agency MBS Purchases: History and Benefits (Algo Trading)"
+title: "Agency MBS Purchases: History and Benefits"
 description: "Explore the advantages of algorithmic trading in agency mortgage-backed securities and discover how it enhances investor returns and diversifies portfolios."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Accounting Cycle Steps (Algo Trading)"
+title: "Accounting Cycle Steps"
 description: "Explore the vital steps of the accounting cycle and their impact on algorithmic trading. Understand how accurate financial reporting enhances strategic decisions."
 ---
 

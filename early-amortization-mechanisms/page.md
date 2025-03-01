@@ -1,5 +1,5 @@
 ---
-title: "Early Amortization and Its Mechanisms (Algo Trading)"
+title: "Early Amortization and Its Mechanisms"
 description: "Explore early amortization and algorithmic trading and discover how these financial mechanisms intersect to optimize loan repayment strategies and enhance decision-making."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Economic Benefits of Lending Shares for Short Selling (Algo Trading)"
+title: "Economic Benefits of Lending Shares for Short Selling"
 description: "Explore the economic advantages of lending shares for short selling in algo trading Enhance liquidity diversify strategies and maximize financial returns"
 ---
 

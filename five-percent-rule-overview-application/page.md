@@ -1,5 +1,5 @@
 ---
-title: "Five Percent Rule: Overview and Application (Algo Trading)"
+title: "Five Percent Rule: Overview and Application"
 description: "Discover the dual role of the Five Percent Rule in finance as it guides commission limits and ensures portfolio diversification essential for robust trading strategies."
 ---
 

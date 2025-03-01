@@ -1,5 +1,5 @@
 ---
-title: "Broken Window Fallacy in Economics (Algo Trading)"
+title: "Broken Window Fallacy in Economics"
 description: "Explore the Broken Window Fallacy a critical economic concept that challenges the notion that repair and recovery spending drive growth highlighting unseen costs."
 ---
 

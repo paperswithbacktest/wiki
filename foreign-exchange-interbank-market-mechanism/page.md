@@ -1,5 +1,5 @@
 ---
-title: "Foreign Exchange Interbank Market and Its Mechanism (Algo Trading)"
+title: "Foreign Exchange Interbank Market and Its Mechanism"
 description: "Discover the complex world of the forex interbank market with a focus on the transformative role of algorithmic trading in modern currency trading dynamics."
 ---
 

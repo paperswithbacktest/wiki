@@ -1,5 +1,5 @@
 ---
-title: "Dirty Float: Historical Context and Role in Monetary Policy (Algo Trading)"
+title: "Dirty Float: Historical Context and Role in Monetary Policy"
 description: "Explore the historical context and significance of dirty float exchange rate regimes in monetary policy highlighting their role in algorithmic trading and global economic stability."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Currency ETFs as a Hedge Against Exchange Rate Risk (Algo Trading)"
+title: "Currency ETFs as a Hedge Against Exchange Rate Risk"
 description: "Currency ETFs offer a strategic hedge against exchange rate risk for global investors integrating seamlessly with algorithmic trading to enhance efficiency."
 ---
 

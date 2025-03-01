@@ -1,5 +1,5 @@
 ---
-title: "Consumer Credit Protection Act (Algo Trading)"
+title: "Consumer Credit Protection Act"
 description: "Explore the Consumer Credit Protection Act's impact on consumer finance transparency and fairness alongside the rise of algorithmic trading in financial markets."
 ---
 

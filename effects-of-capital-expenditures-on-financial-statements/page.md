@@ -1,5 +1,5 @@
 ---
-title: "Effects of Capital Expenditures on Financial Statements (Algo Trading)"
+title: "Effects of Capital Expenditures on Financial Statements"
 description: "Explore the impact of capital expenditures on financial statements in the context of algorithmic trading and understand their strategic implications for business growth."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Intertemporal Capital Asset Pricing Model (Algo Trading)"
+title: "Intertemporal Capital Asset Pricing Model"
 description: "Explore the role of the Intertemporal Capital Asset Pricing Model in algorithmic trading Dive into advanced models to enhance asset pricing strategies and risk management"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Blue Sheets: Functionality and Compliance Issues (Algo Trading)"
+title: "Blue Sheets: Functionality and Compliance Issues"
 description: "Explore the interplay between blue sheets and algorithmic trading uncovering how they ensure compliance and transparency in modern financial markets."
 ---
 

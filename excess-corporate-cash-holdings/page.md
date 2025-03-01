@@ -1,5 +1,5 @@
 ---
-title: "Excess Corporate Cash Holdings (Algo Trading)"
+title: "Excess Corporate Cash Holdings"
 description: "Discover effective strategies for managing excess corporate cash holdings using algorithmic trading to enhance financial returns and operational stability."
 ---
 

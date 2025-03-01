@@ -1,5 +1,5 @@
 ---
-title: "Major Mutual Fund and ETF Investors in Procter & Gamble (Algo Trading)"
+title: "Major Mutual Fund and ETF Investors in Procter & Gamble"
 description: "Explore the top mutual funds and ETFs investing in Procter & Gamble to understand their strategies and the role of algorithmic trading in boosting P&G's market influence."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Arbitrage Pricing Theory Formula and Applications (Algo Trading)"
+title: "Arbitrage Pricing Theory Formula and Applications"
 description: "Discover the essentials of Arbitrage Pricing Theory and its significance in algorithmic trading, enhancing asset pricing precision through multi-factor analysis."
 ---
 

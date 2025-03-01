@@ -1,5 +1,5 @@
 ---
-title: "Case-Shiller U.S. National Home Price Index (Algo Trading)"
+title: "Case-Shiller U.S. National Home Price Index"
 description: "Explore the Case-Shiller U.S. National Home Price Index, a vital tool for understanding housing market trends and enhancing algorithmic trading strategies."
 ---
 

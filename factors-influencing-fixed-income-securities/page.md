@@ -1,5 +1,5 @@
 ---
-title: "Factors Influencing Fixed-Income Securities (Algo Trading)"
+title: "Factors Influencing Fixed-Income Securities"
 description: "Explore the key factors impacting fixed-income securities and how algorithmic trading is shaping investment strategies for enhanced market precision and efficiency."
 ---
 

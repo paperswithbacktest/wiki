@@ -1,5 +1,5 @@
 ---
-title: "Base Rate Fallacy and Its Impact (Algo Trading)"
+title: "Base Rate Fallacy and Its Impact"
 description: "Explore the base rate fallacy's influence on algorithmic trading by understanding cognitive biases that can skew data-driven decision-making, impacting financial outcomes."
 ---
 

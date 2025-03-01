@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategies Involving Bankrupt Companies (Algo Trading)"
+title: "Investment Strategies Involving Bankrupt Companies"
 description: "Explore investment strategies in bankrupt companies with algorithmic trading to optimize returns Discover tactics to assess risks and uncover hidden opportunities"
 ---
 

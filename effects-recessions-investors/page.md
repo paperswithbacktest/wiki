@@ -1,5 +1,5 @@
 ---
-title: "Effects of Recessions on Investors (Algo Trading)"
+title: "Effects of Recessions on Investors"
 description: "Explore how recessions impact investors and the strategic role of algorithmic trading in navigating economic downturns and market volatility effectively."
 ---
 

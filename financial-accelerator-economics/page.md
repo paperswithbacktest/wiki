@@ -1,5 +1,5 @@
 ---
-title: "Financial Accelerator in Economics (Algo Trading)"
+title: "Financial Accelerator in Economics"
 description: "Explore how monetary policy, economic theory, and algorithmic trading impact global financial markets and the economy's dynamics, enhancing trading strategies."
 ---
 

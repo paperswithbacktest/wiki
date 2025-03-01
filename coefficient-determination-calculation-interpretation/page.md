@@ -1,5 +1,5 @@
 ---
-title: "Coefficient of Determination: Calculation and Interpretation (Algo Trading)"
+title: "Coefficient of Determination: Calculation and Interpretation"
 description: "Explore the significance of the coefficient of determination or R-squared in algorithmic trading by evaluating model predictions and improving strategy accuracy."
 ---
 

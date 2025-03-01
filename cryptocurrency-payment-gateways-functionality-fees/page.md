@@ -1,5 +1,5 @@
 ---
-title: "Cryptocurrency Payment Gateways: Functionality and Fees (Algo Trading)"
+title: "Cryptocurrency Payment Gateways: Functionality and Fees"
 description: "Explore how cryptocurrency payment gateways work including their functionality and fees. Learn about their impact on business operations and financial transactions."
 ---
 

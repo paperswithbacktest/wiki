@@ -1,5 +1,5 @@
 ---
-title: "Complete Retention: Concepts, Examples, and Alternatives (Algo Trading)"
+title: "Complete Retention: Concepts, Examples, and Alternatives"
 description: "Explore crucial concepts and strategies of information retention in algorithmic trading Discover how complete retention impacts risk management and decision-making."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Iran Nuclear Deal Overview (Algo Trading)"
+title: "Iran Nuclear Deal Overview"
 description: "Explore the Iran nuclear deal's impact on global markets and algorithmic trading strategies, examining geopolitical events affecting financial dynamics."
 ---
 

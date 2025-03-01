@@ -1,5 +1,5 @@
 ---
-title: "Alphacet (Algo Trading)"
+title: "Alphacet"
 description: Discover the power of Alphacet in algorithmic trading, offering advanced solutions to enhance strategy optimization and trading efficiency. Ideal for both novice and professional traders, Alphacet's robust platform streamlines the design, testing, and deployment of algorithms, providing critical tools for high-frequency and long-term trading models. Unlock the potential of data-driven insights and gain a competitive advantage in fast-paced markets by leveraging Alphacet’s comprehensive suite of analytics and seamless market integration capabilities.
 ---
 

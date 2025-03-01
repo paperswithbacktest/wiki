@@ -1,5 +1,5 @@
 ---
-title: "Kamala Harris: American Politician (Algo Trading)"
+title: "Kamala Harris: American Politician"
 description: "Explore Kamala Harris's political journey from her historic achievements to her influence on economic and financial policies including algorithmic trading."
 ---
 

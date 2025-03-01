@@ -1,5 +1,5 @@
 ---
-title: "Capitalization of Profits and Alternative Meanings (Algo Trading)"
+title: "Capitalization of Profits and Alternative Meanings"
 description: "Explore the essentials of capitalization of profits and algorithmic trading strategies, crucial for making informed investment decisions in today's financial landscape."
 ---
 

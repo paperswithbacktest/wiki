@@ -1,5 +1,5 @@
 ---
-title: "Application Programming Interface: Overview and Uses (Algo Trading)"
+title: "Application Programming Interface: Overview and Uses"
 description: "Explore how Application Programming Interfaces drive modern algorithmic trading by providing real-time data access and seamless interaction with financial markets."
 ---
 

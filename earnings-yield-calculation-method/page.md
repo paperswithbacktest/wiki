@@ -1,5 +1,5 @@
 ---
-title: "Earnings Yield and Calculation Method (Algo Trading)"
+title: "Earnings Yield and Calculation Method"
 description: "Discover the significance of earnings yield in investment analysis Learn how this financial ratio aids in evaluating potential returns and stock valuation"
 ---
 

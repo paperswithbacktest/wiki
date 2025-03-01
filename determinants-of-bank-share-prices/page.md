@@ -1,5 +1,5 @@
 ---
-title: "Determinants of Bank Share Prices (Algo Trading)"
+title: "Determinants of Bank Share Prices"
 description: "Explore key factors influencing bank share prices including growth potential banking risks and algorithmic trading impacts offering insights for informed investment choices."
 ---
 

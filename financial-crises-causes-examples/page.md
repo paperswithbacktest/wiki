@@ -1,5 +1,5 @@
 ---
-title: "Financial Crises: Causes and Examples (Algo Trading)"
+title: "Financial Crises: Causes and Examples"
 description: "Explore the impact of financial crises and the role of algorithmic trading in market volatility Learn how technology influences economic stability and systemic risks"
 ---
 

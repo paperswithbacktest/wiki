@@ -1,5 +1,5 @@
 ---
-title: "K-Percent Rule: Function and Mechanism (Algo Trading)"
+title: "K-Percent Rule: Function and Mechanism"
 description: "Discover how the K-Percent Rule shapes economic policy and algorithmic trading highlighting its significance in stabilizing economies and enhancing trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "List of Leading Municipal Bond Funds in 2022 (Algo Trading)"
+title: "List of Leading Municipal Bond Funds in 2022"
 description: "Explore the evolving world of municipal bond funds in 2022 and how algorithmic trading is reshaping strategies for efficiency and optimal investor returns."
 ---
 

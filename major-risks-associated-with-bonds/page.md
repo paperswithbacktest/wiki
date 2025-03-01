@@ -1,5 +1,5 @@
 ---
-title: "Major Risks Associated with Bonds (Algo Trading)"
+title: "Major Risks Associated with Bonds"
 description: "Discover the risks associated with bond investments and algorithmic trading Learn about interest rate credit liquidity risks and the implications of tech-driven trading"
 ---
 

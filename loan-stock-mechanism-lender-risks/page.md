@@ -1,5 +1,5 @@
 ---
-title: "Loan Stock: Mechanism and Lender Risks (Algo Trading)"
+title: "Loan Stock: Mechanism and Lender Risks"
 description: "Explore the critical role of loans, stocks, and algorithmic trading in modern financial markets and understand the risks lenders face within these mechanisms."
 ---
 

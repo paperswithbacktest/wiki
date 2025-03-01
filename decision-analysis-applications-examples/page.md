@@ -1,5 +1,5 @@
 ---
-title: "Decision Analysis: Applications and Examples (Algo Trading)"
+title: "Decision Analysis: Applications and Examples"
 description: "Explore how decision analysis enhances algorithmic trading by optimizing decision-making through quantitative and qualitative insights for improved market strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Market-Moving Commodities (Algo Trading)"
+title: "Market-Moving Commodities"
 description: "Explore how commodities like energy products and metals shape global markets through algorithmic trading Learn about market dynamics and trading strategies"
 ---
 

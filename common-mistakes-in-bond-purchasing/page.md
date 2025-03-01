@@ -1,5 +1,5 @@
 ---
-title: "Common Mistakes in Bond Purchasing (Algo Trading)"
+title: "Common Mistakes in Bond Purchasing"
 description: "Discover common pitfalls in bond purchasing and algorithmic trading with tips to enhance strategies and secure successful investment outcomes."
 ---
 

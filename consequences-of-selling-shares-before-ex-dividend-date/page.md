@@ -1,5 +1,5 @@
 ---
-title: "Consequences of Selling Shares Before the Ex-Dividend Date (Algo Trading)"
+title: "Consequences of Selling Shares Before the Ex-Dividend Date"
 description: "Discover the complexities and opportunities associated with selling shares before the ex-dividend date, particularly in algorithmic trading. This article investigates into the effects of ex-dividend dates on stock prices and showcases strategic approaches for algorithmic traders to enhance profitability. Learn about key dividend dates, market dynamics, and advanced trading strategies that capitalize on price shifts to optimize returns. Understanding these principles is essential for investors seeking to navigate the challenges and potentials of dividend events in the stock market."
 ---
 

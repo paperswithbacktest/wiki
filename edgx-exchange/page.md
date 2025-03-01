@@ -1,5 +1,5 @@
 ---
-title: "EDGX Exchange (Algo Trading)"
+title: "EDGX Exchange"
 description: "Explore the pivotal role of algorithmic trading at the EDGX Exchange enhancing trading efficiency and liquidity through advanced technology and predictive strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Advantages and Disadvantages of Full Rupee Convertibility (Algo Trading)"
+title: "Advantages and Disadvantages of Full Rupee Convertibility"
 description: "This page investigates into the complex relationship between currency policy, rupee convertibility, and algorithmic trading, emphasizing their collective impact on the financial ecosystem. It discusses how rupee convertibility affects India's economic openness, the role of algorithmic trading in modern markets, and the broader implications for global economic stability and growth. Understanding these factors is essential for navigating future financial landscapes and seizing economic opportunities amid evolving global dynamics."
 ---
 

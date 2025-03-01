@@ -1,5 +1,5 @@
 ---
-title: "Appreciation and Depreciation (Algo Trading)"
+title: "Appreciation and Depreciation"
 description: "Explore appreciation depreciation and algorithmic trading's impact on financial markets. Discover how these concepts shape investment strategies and economic growth."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Day Trading Restrictions by Brokers (Algo Trading)"
+title: "Day Trading Restrictions by Brokers"
 description: "Discover essential insights into the complex world of day trading with a focus on broker restrictions and algorithmic strategies. Navigate rules for better trading outcomes."
 ---
 

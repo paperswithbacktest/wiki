@@ -1,5 +1,5 @@
 ---
-title: "Correlation (Algo Trading)"
+title: "Correlation"
 description: Explore the intricate world of algo trading, focusing on correlation analysis and its vital role in understanding market dynamics and optimizing strategies. This guide investigates into the relationships between financial instruments, aiding in effective portfolio diversification and strategic trading decisions. Learn how to harness correlation metrics to identify trading opportunities, manage risks, and improve your trading outcomes using robust tools and methods.
 ---
 

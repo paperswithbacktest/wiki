@@ -1,5 +1,5 @@
 ---
-title: "Ascending Triangle Pattern in Trading (Algo Trading)"
+title: "Ascending Triangle Pattern in Trading"
 description: "Discover the power of the ascending triangle pattern in trading a key bullish continuation pattern used in technical and algorithmic trading for market insights."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Add-On Factor: Functionality and Mechanism (Algo Trading)"
+title: "Add-On Factor: Functionality and Mechanism"
 description: "Explore the impact of mechanism add-on factors in algorithmic trading to optimize strategies for enhanced market performance. Discover key functionalities and benefits."
 ---
 

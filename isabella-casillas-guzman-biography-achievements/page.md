@@ -1,5 +1,5 @@
 ---
-title: "Isabella Casillas Guzman: Biography and Achievements (Algo Trading)"
+title: "Isabella Casillas Guzman: Biography and Achievements"
 description: "Explore Isabella Casillas Guzman's impressive career and leadership roles in business and government emphasizing her contributions to small business growth and innovation."
 ---
 

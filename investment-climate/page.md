@@ -1,5 +1,5 @@
 ---
-title: "Investment Climate (Algo Trading)"
+title: "Investment Climate"
 description: "Discover how economic conditions and business environments shape investment dynamics and explore the transformative impact of algorithmic trading in modern finance."
 ---
 

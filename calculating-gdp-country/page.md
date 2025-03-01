@@ -1,5 +1,5 @@
 ---
-title: "Calculating GDP of a Country (Algo Trading)"
+title: "Calculating GDP of a Country"
 description: "Explore the comprehensive guide on calculating a country's GDP and its significance in algorithmic trading Learn about GDP methods insights and trading strategy enhancements"
 ---
 

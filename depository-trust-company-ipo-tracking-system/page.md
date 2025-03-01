@@ -1,5 +1,5 @@
 ---
-title: "Depository Trust Company IPO Tracking System (Algo Trading)"
+title: "Depository Trust Company IPO Tracking System"
 description: "Enhance your IPO strategies with the Depository Trust Company IPO Tracking System, leveraging advanced technology to monitor transactions and prevent unauthorized share flipping."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Benefit-Cost Ratio (Algo Trading)"
+title: "Benefit-Cost Ratio"
 description: "Explore how the Benefit-Cost Ratio enhances decision-making in algorithmic trading by evaluating trade viability, optimizing strategies, and maximizing profitability."
 ---
 

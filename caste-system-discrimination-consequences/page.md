@@ -1,5 +1,5 @@
 ---
-title: "Caste System Discrimination and Its Consequences (Algo Trading)"
+title: "Caste System Discrimination and Its Consequences"
 description: "Explore the interplay between the caste system's social stratification and algo trading's cutting-edge technology to uncover their impact on economic inequality."
 ---
 

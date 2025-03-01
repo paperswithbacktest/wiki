@@ -1,5 +1,5 @@
 ---
-title: "Ito’s Lemma Explained (Algo Trading)"
+title: "Ito’s Lemma Explained"
 description: Explore the significance of Itô's Lemma in algorithmic trading where complex mathematical models and stochastic calculus are applied to model asset price dynamics in financial markets. Understand how Itô's Lemma helps in developing precise trading strategies enhancing risk management pricing of derivatives and contributing to financial innovation. Discover the vital role of this mathematical tool in the evolution of algorithmic trading frameworks and its implications for future advancements in the field.
 ---
 

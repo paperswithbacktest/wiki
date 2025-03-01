@@ -1,5 +1,5 @@
 ---
-title: "Delivered-at-Place (DAP) Terms and Responsibilities (Algo Trading)"
+title: "Delivered-at-Place (DAP) Terms and Responsibilities"
 description: "Master Delivered-at-Place (DAP) terms and enhance your global trade strategy with algorithmic trading. Streamline logistics, minimize risks, and boost efficiency."
 ---
 

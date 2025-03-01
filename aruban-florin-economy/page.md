@@ -1,5 +1,5 @@
 ---
-title: "Aruban Florin and Economy (Algo Trading)"
+title: "Aruban Florin and Economy"
 description: "Explore the Aruban economy where the florin thrives in a tourism-driven market While algorithmic trading presents opportunities it demands careful risk management"
 ---
 

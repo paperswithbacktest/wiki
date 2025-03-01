@@ -1,5 +1,5 @@
 ---
-title: "Encumbrance: Overview and Types (Algo Trading)"
+title: "Encumbrance: Overview and Types"
 description: "Explore the evolving landscape of property law and encumbrances in real estate and financial markets, and their impact on algorithmic trading decisions."
 ---
 

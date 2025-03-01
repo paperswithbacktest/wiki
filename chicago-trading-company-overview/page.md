@@ -1,5 +1,5 @@
 ---
-title: "Chicago Trading Company Overview (Algo Trading)"
+title: "Chicago Trading Company Overview"
 description: "Chicago Trading Company excels in algorithmic trading and market-making, enhancing market liquidity since 1995 with innovative trading strategies and advanced technologies."
 ---
 

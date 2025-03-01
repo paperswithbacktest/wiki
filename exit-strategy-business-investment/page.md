@@ -1,5 +1,5 @@
 ---
-title: "Exit Strategy in Business and Investment (Algo Trading)"
+title: "Exit Strategy in Business and Investment"
 description: "Learn about exit strategies in business and investment including algorithmic trading essential for mitigating risks and maximizing profits in evolving markets."
 ---
 

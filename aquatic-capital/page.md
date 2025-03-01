@@ -1,5 +1,5 @@
 ---
-title: "Aquatic Capital (Algo Trading)"
+title: "Aquatic Capital"
 description: "Explore Aquatic Capital's impact on financial markets through algorithmic trading focusing on its innovation-driven strategies and role in market evolution."
 ---
 

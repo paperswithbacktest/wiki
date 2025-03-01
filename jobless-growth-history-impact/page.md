@@ -1,5 +1,5 @@
 ---
-title: "Jobless Growth: History and Impact (Algo Trading)"
+title: "Jobless Growth: History and Impact"
 description: "Explore the impact of jobless growth and algorithmic trading on economic stability and labor markets Learn how technology and trading strategies shape modern economies"
 ---
 

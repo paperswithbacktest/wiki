@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Forex Trading for Beginners (Algo Trading)"
+title: "Introduction to Forex Trading for Beginners"
 description: "Discover the essentials of forex trading in this beginner's guide that explores the dynamic world of currency exchange and introduces the benefits of algorithmic trading. Learn key concepts like currency pairs and pips, alongside manual and automated trading strategies, to enhance your trading skills and make informed investment decisions in the global forex market."
 ---
 

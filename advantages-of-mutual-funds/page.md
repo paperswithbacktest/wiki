@@ -1,5 +1,5 @@
 ---
-title: "Advantages of Mutual Funds (Algo Trading)"
+title: "Advantages of Mutual Funds"
 description: "Explore the benefits of mutual funds and algorithmic trading Discover how diversification professional management and automation enhance investment strategies"
 ---
 

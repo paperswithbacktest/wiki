@@ -1,5 +1,5 @@
 ---
-title: "Dear Money: Definition and Function, Real Interest Rate (Algo Trading)"
+title: "Dear Money: Definition and Function, Real Interest Rate"
 description: "Discover how 'real interest rate', 'dear money', economics, and algorithmic trading shape financial markets, impacting borrowing, investments, and trading strategies."
 ---
 

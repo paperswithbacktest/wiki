@@ -1,5 +1,5 @@
 ---
-title: "Immigration Reform: Advantages and Disadvantages (Algo Trading)"
+title: "Immigration Reform: Advantages and Disadvantages"
 description: "Explore the complexities of immigration reform and algorithmic trading through policy analysis Discover the advantages and disadvantages that shape these fields"
 ---
 

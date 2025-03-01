@@ -1,5 +1,5 @@
 ---
-title: "Hyperdeflation: Implications, Mechanisms, and Examples (Algo Trading)"
+title: "Hyperdeflation: Implications, Mechanisms, and Examples"
 description: "Explore the mechanisms and impacts of hyperdeflation on algorithmic trading and economic stability with insights from historical examples and current trends."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Harmless Warrant (Algo Trading)"
+title: "Harmless Warrant"
 description: "Explore the crucial role of harmless warrants in algorithmic trading and understand how these financial instruments impact investment strategies and debt management."
 ---
 

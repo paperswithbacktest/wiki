@@ -1,5 +1,5 @@
 ---
-title: "Leveraged ETFs Tracking the Banking Sector (Algo Trading)"
+title: "Leveraged ETFs Tracking the Banking Sector"
 description: "Explore the dynamics of leveraged ETFs in the banking sector and algorithmic trading strategies to maximize gains while understanding inherent risks."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Dark-pool liquidity (Algo Trading)"
+title: "Dark-pool liquidity"
 description: Explore the significance of dark pool liquidity in algorithmic trading. Learn how these private exchanges enable large trades away from public view, offering reduced market impact and strategic confidentiality. Understand why institutional investors leverage dark pools for enhanced liquidity and efficient large-scale transactions, ensuring stable market conditions and preserving competitive advantages in today's complex financial landscape.
 ---
 

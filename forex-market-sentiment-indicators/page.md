@@ -1,5 +1,5 @@
 ---
-title: "Forex Market Sentiment Indicators (Algo Trading)"
+title: "Forex Market Sentiment Indicators"
 description: "Explore the significance of market sentiment indicators in forex trading Learn how integrating sentiment analysis enhances algorithmic trading strategies in the forex market"
 ---
 

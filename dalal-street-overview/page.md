@@ -1,5 +1,5 @@
 ---
-title: "Dalal Street Overview (Algo Trading)"
+title: "Dalal Street Overview"
 description: "Explore the evolution of algorithmic trading on Dalal Street and its impact on India's stock market This article highlights the BSE's transformative role"
 ---
 

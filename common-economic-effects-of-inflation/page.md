@@ -1,5 +1,5 @@
 ---
-title: "Common Economic Effects of Inflation (Algo Trading)"
+title: "Common Economic Effects of Inflation"
 description: "Explore the influence of inflation on economic health and its impact on consumer behavior, business operations, and algorithmic trading strategies in financial markets."
 ---
 

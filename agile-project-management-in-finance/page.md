@@ -1,5 +1,5 @@
 ---
-title: "Agile Project Management in Finance (Algo Trading)"
+title: "Agile Project Management in Finance"
 description: "Explore the transformative impact of agile project management in finance and algorithmic trading. Learn how agile enhances flexibility, speed, and competitiveness."
 ---
 

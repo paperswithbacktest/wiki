@@ -1,5 +1,5 @@
 ---
-title: "Countries with Challenging Citizenship Processes (Algo Trading)"
+title: "Countries with Challenging Citizenship Processes"
 description: "Discover the complex challenges of gaining citizenship in countries like Austria Germany Japan Switzerland and the US from residency to cultural integration hurdles"
 ---
 

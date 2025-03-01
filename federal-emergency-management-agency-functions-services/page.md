@@ -1,5 +1,5 @@
 ---
-title: "Federal Emergency Management Agency: Functions and Services (Algo Trading)"
+title: "Federal Emergency Management Agency: Functions and Services"
 description: "Explore how FEMA can enhance disaster response using algorithmic trading insights. Improve efficiency in disaster management with automated decision-making strategies."
 ---
 

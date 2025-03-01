@@ -1,5 +1,5 @@
 ---
-title: "Forward Exchange Contract: Overview, Formula, and Example (Algo Trading)"
+title: "Forward Exchange Contract: Overview, Formula, and Example"
 description: "Discover how Forward Exchange Contracts (FECs) help businesses manage currency risk in international trade by locking in future exchange rates. Explore the benefits of FECs as a strategic tool for stabilizing cash flows amidst currency volatility. Learn how algorithmic trading enhances the management of FECs, offering precise and efficient currency hedging aligned with dynamic market conditions."
 ---
 

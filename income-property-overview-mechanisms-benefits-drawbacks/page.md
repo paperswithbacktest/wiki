@@ -1,5 +1,5 @@
 ---
-title: "Income Property: Overview, Mechanisms, Benefits, and Drawbacks (Algo Trading)"
+title: "Income Property: Overview, Mechanisms, Benefits, and Drawbacks"
 description: "Explore income property and algo trading to enhance real estate investment decisions. Discover the benefits and drawbacks of tech-powered wealth generation."
 ---
 

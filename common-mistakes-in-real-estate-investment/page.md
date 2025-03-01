@@ -1,5 +1,5 @@
 ---
-title: "Common Mistakes in Real Estate Investment (Algo Trading)"
+title: "Common Mistakes in Real Estate Investment"
 description: "Discover common mistakes in real estate investment and how algorithmic trading offers solutions. Optimize strategies and mitigate risks for financial growth."
 ---
 

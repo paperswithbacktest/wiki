@@ -1,5 +1,5 @@
 ---
-title: "Depository Institutions Deregulation Committee (Algo Trading)"
+title: "Depository Institutions Deregulation Committee"
 description: "Discover the intricate relationships between depository institutions deregulation finance committees and algorithmic trading in modern financial markets."
 ---
 

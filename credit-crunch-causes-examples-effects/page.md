@@ -1,5 +1,5 @@
 ---
-title: "Credit Crunch: Causes, Examples, and Effects (Algo Trading)"
+title: "Credit Crunch: Causes, Examples, and Effects"
 description: "Explore the causes and effects of credit crunches in the global economy and their connection with algorithmic trading Discover how these phenomena impact market stability"
 ---
 

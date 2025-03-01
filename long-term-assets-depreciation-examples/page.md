@@ -1,5 +1,5 @@
 ---
-title: "Long-Term Assets: Depreciation and Examples (Algo Trading)"
+title: "Long-Term Assets: Depreciation and Examples"
 description: "Understanding asset depreciation is crucial for businesses, especially in algorithmic trading, to optimize financial reporting and strategic planning."
 ---
 

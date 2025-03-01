@@ -1,5 +1,5 @@
 ---
-title: "Malawian Kwacha: Significance and Economic History (Algo Trading)"
+title: "Malawian Kwacha: Significance and Economic History"
 description: "Discover the economic history and significance of the Malawian Kwacha from its inception to its role in modern algo trading and financial markets."
 ---
 

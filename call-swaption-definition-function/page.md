@@ -1,5 +1,5 @@
 ---
-title: "Call Swaption: Definition and Function (Algo Trading)"
+title: "Call Swaption: Definition and Function"
 description: "Explore the world of call swaptions a key financial derivative for managing interest rate risks and speculating on rate changes enabled by advanced algo trading."
 ---
 

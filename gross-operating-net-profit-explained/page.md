@@ -1,5 +1,5 @@
 ---
-title: "Gross, Operating, and Net Profit Explained (Algo Trading)"
+title: "Gross, Operating, and Net Profit Explained"
 description: "Discover the differences between gross, operating, and net profit and how they influence algorithmic trading strategies to maximize trading success."
 ---
 

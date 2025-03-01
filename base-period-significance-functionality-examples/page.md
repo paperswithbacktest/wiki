@@ -1,5 +1,5 @@
 ---
-title: "Base Period: Significance and Functionality With Examples (Algo Trading)"
+title: "Base Period: Significance and Functionality With Examples"
 description: "Explore the critical role of base periods in algorithmic trading Learn how they improve data comparisons and strategies for enhanced financial insights"
 ---
 

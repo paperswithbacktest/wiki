@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Staking Process (Algo Trading)"
+title: "Ethereum Staking Process"
 description: "Optimize your crypto investments with a blend of Ethereum staking and algorithmic trading Discover the benefits of passive income and efficient trading strategies"
 ---
 

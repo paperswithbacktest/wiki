@@ -1,5 +1,5 @@
 ---
-title: "Comparative Analysis of Cash Flow and Asset-Based Business Lending (Algo Trading)"
+title: "Comparative Analysis of Cash Flow and Asset-Based Business Lending"
 description: "Explore the differences between cash flow and asset-based lending for businesses involved in algo trading Understand how these financing options impact growth and operations"
 ---
 

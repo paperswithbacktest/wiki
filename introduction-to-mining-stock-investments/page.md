@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Mining Stock Investments (Algo Trading)"
+title: "Introduction to Mining Stock Investments"
 description: "Explore mining stock investments and algorithmic trading strategies. Gain insights into stock market dynamics and tips for optimizing your investment portfolio."
 ---
 

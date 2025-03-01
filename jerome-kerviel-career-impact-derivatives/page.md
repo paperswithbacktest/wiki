@@ -1,5 +1,5 @@
 ---
-title: "Jerome Kerviel: Career and Impact in Derivatives (Algo Trading)"
+title: "Jerome Kerviel: Career and Impact in Derivatives"
 description: "Explore Jerome Kerviel's impact on finance through his infamous derivatives trading scandal at Société Générale, highlighting risks and lessons in modern algo trading."
 ---
 

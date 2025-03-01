@@ -1,5 +1,5 @@
 ---
-title: "Marty Schwartz: “Pit Bull” Trader Explained (Algo Trading)"
+title: "Marty Schwartz: “Pit Bull” Trader Explained"
 description: Explore the intricate world of algorithmic trading through the lens of the Pitbull Investor, an entity celebrated for its strategic and assertive approach in the financial markets. Delve into their methodologies, inspired by Marty Schwartz, and understand how they leverage advanced data-driven techniques to maximize trading efficiency and profitability. This comprehensive analysis offers valuable insights into the dynamic realm of automated trading, emphasizing the importance of discipline, risk management, and continuous adaptation to evolving market trends. Perfect for traders seeking to refine their strategies and navigate the complexities of modern financial systems.
 ---
 

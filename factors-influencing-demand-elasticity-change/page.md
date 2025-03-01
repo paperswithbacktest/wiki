@@ -1,5 +1,5 @@
 ---
-title: "Factors Influencing Demand Elasticity Change (Algo Trading)"
+title: "Factors Influencing Demand Elasticity Change"
 description: "Explore how demand elasticity affects algo trading with insights into price fluctuations, consumer behavior, and strategies for traders to enhance profitability."
 ---
 

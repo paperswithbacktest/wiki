@@ -1,5 +1,5 @@
 ---
-title: "Investment Interest Expense (Algo Trading)"
+title: "Investment Interest Expense"
 description: "Explore financial interest expense algorithmic trading and investment strategies Learn how to manage costs optimize returns and leverage technology for success"
 ---
 

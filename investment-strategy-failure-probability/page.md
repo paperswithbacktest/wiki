@@ -1,5 +1,5 @@
 ---
-title: "Investment strategy failure probability (Algo Trading)"
+title: "Investment strategy failure probability"
 description: Explore the multifaceted risks and failure probabilities of investment strategies in algorithmic trading. While algo trading offers speed and efficiency, it entails technical failures, market volatility, and regulatory changes that can impair performance. Understand how factors like outdated algorithms and insufficient backtesting contribute to strategy failures and learn about managing these risks in modern financial markets.
 ---
 

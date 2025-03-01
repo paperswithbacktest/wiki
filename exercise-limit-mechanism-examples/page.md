@@ -1,5 +1,5 @@
 ---
-title: "Exercise Limit: Mechanism and Examples (Algo Trading)"
+title: "Exercise Limit: Mechanism and Examples"
 description: "Explore the synergy between exercise and algorithmic trading by understanding exercise limits and the impact of fitness on trading performance and mental acuity."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Financial Literacy Initiatives by Independent Advisors (Algo Trading)"
+title: "Financial Literacy Initiatives by Independent Advisors"
 description: "Discover effective financial literacy initiatives introduced by independent advisors to enhance understanding of financial skills, budgeting, investing, and algo trading."
 ---
 

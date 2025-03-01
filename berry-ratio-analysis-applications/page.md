@@ -1,5 +1,5 @@
 ---
-title: "Berry Ratio: Analysis and Applications (Algo Trading)"
+title: "Berry Ratio: Analysis and Applications"
 description: "Explore the Berry Ratio's evolving role in financial analysis and algorithmic trading, enhancing decision-making by evaluating profitability through precise metrics."
 ---
 

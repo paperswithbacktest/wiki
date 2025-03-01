@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Market Capitalization and Equity (Algo Trading)"
+title: "Comparison of Market Capitalization and Equity"
 description: "Explore the critical role of market capitalization, equity, and algorithmic trading in shaping investment strategies for effective market navigation."
 ---
 

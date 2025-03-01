@@ -1,5 +1,5 @@
 ---
-title: "B-Share: Definition, Mechanism, and Fee Structure (Algo Trading)"
+title: "B-Share: Definition, Mechanism, and Fee Structure"
 description: "Discover how B-Share mutual fund fee structures integrate with algorithmic trading to optimize investment outcomes and minimize costs effectively."
 ---
 

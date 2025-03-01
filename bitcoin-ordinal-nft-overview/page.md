@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin Ordinal NFT Overview (Algo Trading)"
+title: "Bitcoin Ordinal NFT Overview"
 description: "Explore Bitcoin Ordinal NFTs and their transformative role in digital finance alongside the Bitcoin blockchain and algorithmic trading innovations. Delve into this new frontier that reshapes investment paradigms by blending the uniqueness of NFTs with Bitcoin's robust security. Understand how Bitcoin Ordinals embed digital assets onto satoshis and compare them with traditional NFTs. Learn about their potential to redefine asset tokenization within Bitcoin's secure and decentralized ecosystem, while addressing challenges like scalability and market infrastructure."
 ---
 

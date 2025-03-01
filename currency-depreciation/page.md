@@ -1,5 +1,5 @@
 ---
-title: "Currency Depreciation (Algo Trading)"
+title: "Currency Depreciation"
 description: "Discover the complexities of currency depreciation and its impact on global economics. Understand how various factors like exchange rates and algorithmic trading influence currency value and international trade dynamics. Learn the importance of exchange rate mechanisms and political stability in shaping economic strategies and managing risk. Explore how these interconnected concepts are crucial for traders, policymakers, and businesses engaged in the global market."
 ---
 

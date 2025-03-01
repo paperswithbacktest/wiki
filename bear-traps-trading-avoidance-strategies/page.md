@@ -1,5 +1,5 @@
 ---
-title: "Bear Traps in Trading and Avoidance Strategies (Algo Trading)"
+title: "Bear Traps in Trading and Avoidance Strategies"
 description: "Explore the intricacies of bear traps in trading and learn effective avoidance strategies through algorithmic trading methods essential for informed decision-making."
 ---
 

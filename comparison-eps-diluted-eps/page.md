@@ -1,5 +1,5 @@
 ---
-title: "Comparison of EPS and Diluted EPS (Algo Trading)"
+title: "Comparison of EPS and Diluted EPS"
 description: "Explore the differences between EPS and Diluted EPS in algorithmic trading Discover how these financial metrics impact investment strategies and company valuation"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Implied Volatility in Finance (Algo Trading)"
+title: "Implied Volatility in Finance"
 description: "Explore the significance of implied volatility in finance and algorithmic trading Gain insights into options pricing and manage risks effectively for optimal returns"
 ---
 

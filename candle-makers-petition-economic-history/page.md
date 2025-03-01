@@ -1,5 +1,5 @@
 ---
-title: "Candle Makers Petition and Its Economic History (Algo Trading)"
+title: "Candle Makers Petition and Its Economic History"
 description: "Discover how Frédéric Bastiat's satirical "Candle Maker's Petition" critiques protectionism and its relevance to modern market theories like algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Electoral Period (Algo Trading)"
+title: "Electoral Period"
 description: "Explore how electoral cycles impact financial markets and uncover how algorithmic trading strategies leverage these events for optimized investment decisions."
 ---
 

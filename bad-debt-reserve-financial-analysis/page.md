@@ -1,5 +1,5 @@
 ---
-title: "Bad Debt Reserve: Role in Financial Analysis (Algo Trading)"
+title: "Bad Debt Reserve: Role in Financial Analysis"
 description: "Explore the impact of bad debt reserves and debt ratios in financial analysis for algo trading Learn how these indicators can optimize strategies and inform decisions"
 ---
 

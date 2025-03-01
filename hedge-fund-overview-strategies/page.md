@@ -1,5 +1,5 @@
 ---
-title: "Hedge Fund Overview and Strategies (Algo Trading)"
+title: "Hedge Fund Overview and Strategies"
 description: "Explore the dynamic world of hedge funds and algorithmic trading uncovering strategies that drive modern investing and optimize returns through innovation."
 ---
 

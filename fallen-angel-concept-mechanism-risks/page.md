@@ -1,5 +1,5 @@
 ---
-title: "Fallen Angel: Concept, Mechanism, and Risks (Algo Trading)"
+title: "Fallen Angel: Concept, Mechanism, and Risks"
 description: "Explore the intricate world of fallen angels and algorithmic trading Discover how investment risks and credit downgrades shape financial strategies"
 ---
 

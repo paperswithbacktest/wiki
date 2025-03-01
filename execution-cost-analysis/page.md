@@ -1,5 +1,5 @@
 ---
-title: "Execution cost analysis (Algo Trading)"
+title: "Execution cost analysis"
 description: "Explore algorithmic trading by understanding execution costs that impact profitability Discover strategies to optimize explicit and implicit cost management in trading"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Behavioral Funds (Algo Trading)"
+title: "Behavioral Funds"
 description: "Explore innovative investment strategies like behavioral funds and algorithmic trading that leverage human behavior insights and automation for optimal returns."
 ---
 

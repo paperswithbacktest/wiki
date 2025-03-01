@@ -1,5 +1,5 @@
 ---
-title: "Combat Zone: Definition and Function (Algo Trading)"
+title: "Combat Zone: Definition and Function"
 description: "Explore the intersection of military tactics and algorithmic trading in evolving combat zones focusing on AI and machine learning for strategic advantages."
 ---
 

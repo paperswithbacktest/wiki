@@ -1,5 +1,5 @@
 ---
-title: "Free Trade Areas: Benefits and Disadvantages (Algo Trading)"
+title: "Free Trade Areas: Benefits and Disadvantages"
 description: "Explore the benefits and drawbacks of free trade areas and algorithmic trading Discover how they influence global economic development and market dynamics"
 ---
 

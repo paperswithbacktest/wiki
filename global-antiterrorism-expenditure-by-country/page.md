@@ -1,5 +1,5 @@
 ---
-title: "Global Antiterrorism Expenditure by Country (Algo Trading)"
+title: "Global Antiterrorism Expenditure by Country"
 description: "Explore global antiterrorism spending trends and their impact on national defense budgets Examine fiscal priorities national security strategies and economic stability"
 ---
 

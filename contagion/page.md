@@ -1,5 +1,5 @@
 ---
-title: "Contagion (Algo Trading)"
+title: "Contagion"
 description: Explore the impact of contagion in algorithmic trading where rapid market disruptions can destabilize financial systems. Understand how interconnected algorithms may amplify price movements, leading to market anomalies. Learn about historical examples such as the 2010 Flash Crash and the causes, including algorithmic errors and liquidity constraints. Discover strategies to manage these risks, crucial for maintaining market integrity and stability.
 ---
 

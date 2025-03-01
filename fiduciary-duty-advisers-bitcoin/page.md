@@ -1,5 +1,5 @@
 ---
-title: "Fiduciary Duty of Advisers Regarding Bitcoin (Algo Trading)"
+title: "Fiduciary Duty of Advisers Regarding Bitcoin"
 description: "Discover how financial advisers navigate fiduciary duties in Bitcoin algo trading adapting to cryptocurrency's volatility and regulatory changes for client benefit."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Alternatives to High-Frequency Trading (Algo Trading)"
+title: "Alternatives to High-Frequency Trading"
 description: "Explore various alternatives to high-frequency and algorithmic trading Learn about innovative strategies that capitalize on market inefficiencies with speed and precision"
 ---
 

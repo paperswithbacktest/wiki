@@ -1,5 +1,5 @@
 ---
-title: "Largest Oil Tanker Companies (Algo Trading)"
+title: "Largest Oil Tanker Companies"
 description: "Explore top oil tanker companies leading the global energy supply chain and discover how algorithmic trading enhances efficiency in the oil market."
 ---
 

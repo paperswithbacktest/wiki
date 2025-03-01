@@ -1,5 +1,5 @@
 ---
-title: "Interest Payments by Mutual Funds (Algo Trading)"
+title: "Interest Payments by Mutual Funds"
 description: "Discover how interest payments, mutual funds, and algorithmic trading interplay to optimize modern portfolios, offering income stability and investment efficiency."
 ---
 

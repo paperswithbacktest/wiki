@@ -1,5 +1,5 @@
 ---
-title: "Macroeconomic Analysis of Global Events (Algo Trading)"
+title: "Macroeconomic Analysis of Global Events"
 description: "Explore how global economic events influence macroeconomic indicators and enhance algorithmic trading strategies for informed decision-making in dynamic markets."
 ---
 

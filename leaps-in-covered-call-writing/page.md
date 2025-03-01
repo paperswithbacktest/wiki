@@ -1,5 +1,5 @@
 ---
-title: "LEAPS in Covered Call Writing (Algo Trading)"
+title: "LEAPS in Covered Call Writing"
 description: "Learn how LEAPS options and covered calls combined with algorithmic trading can enhance portfolio performance with optimized risk and return strategies."
 ---
 

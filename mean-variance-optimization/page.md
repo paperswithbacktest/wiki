@@ -1,5 +1,5 @@
 ---
-title: "Mean-Variance Optimization (Algo Trading)"
+title: "Mean-Variance Optimization"
 description: "Optimize your algorithmic trading with Mean-Variance Optimization, balancing risk and return to maximize portfolio efficiency based on MVO fundamentals."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin Spread Betting (Algo Trading)"
+title: "Bitcoin Spread Betting"
 description: "Discover the dynamic world of Bitcoin spread betting and algorithmic trading. Explore how these innovative financial strategies leverage cryptocurrency market trends to offer diverse investment opportunities. Learn about the influence of Bitcoin as the flagship cryptocurrency and the role of algorithmic trading in enhancing market efficiency. Uncover the benefits and risks of spread betting, an appealing method for traders seeking flexibility and tax efficiency. Dive into the evolving landscape shaped by technology and finance, and understand the complexities and potentials of modern trading paradigms."
 ---
 

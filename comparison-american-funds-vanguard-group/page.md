@@ -1,5 +1,5 @@
 ---
-title: "Comparison of American Funds and Vanguard Group (Algo Trading)"
+title: "Comparison of American Funds and Vanguard Group"
 description: "Explore the unique investment styles of American Funds and Vanguard two industry giants in active and passive fund management alongside algorithmic trading trends"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "List of Notable Cryptocurrency Influencers (Algo Trading)"
+title: "List of Notable Cryptocurrency Influencers"
 description: "Explore the world of cryptocurrency influencers and algo trading Learn how these elements shape the crypto landscape and inform investment decisions"
 ---
 

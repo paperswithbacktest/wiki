@@ -1,5 +1,5 @@
 ---
-title: "Evaluating Financial Performance Using ROA (Algo Trading)"
+title: "Evaluating Financial Performance Using ROA"
 description: "Assess company performance with ROA for algo trading Learn how ROA guides investment decisions and uncovers growth in fast-paced financial markets"
 ---
 

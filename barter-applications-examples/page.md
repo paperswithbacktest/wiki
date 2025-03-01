@@ -1,5 +1,5 @@
 ---
-title: "Barter and Its Applications (Algo Trading)"
+title: "Barter and Its Applications"
 description: "Explore the transition from the barter system to algorithmic trading in this comprehensive article. Delve into the evolution of trading practices from direct goods exchange to sophisticated computer algorithms that drive today's financial markets. Understand how historical trade principles shape modern strategies and discover the role of advanced visualization tools in refining trading techniques. This insightful journey traces the impact of past trade methodologies on the efficiency and complexity of contemporary algorithmic trading."
 ---
 

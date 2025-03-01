@@ -1,5 +1,5 @@
 ---
-title: "Comparison of REITs and Master Limited Partnerships (Algo Trading)"
+title: "Comparison of REITs and Master Limited Partnerships"
 description: "Discover the key differences between REITs and Master Limited Partnerships in algorithmic trading Learn how each investment vehicle offers unique benefits and strategies"
 ---
 

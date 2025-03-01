@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Ethereum Wallets in 2024 (Algo Trading)"
+title: "Comparison of Ethereum Wallets in 2024"
 description: "Explore the best Ethereum wallets in 2024 for enhanced security and trading features Learn how algo trading integrates with digital wallets for optimal asset management"
 ---
 

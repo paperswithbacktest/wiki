@@ -1,5 +1,5 @@
 ---
-title: "Annualized Sharpe ratio (Algo Trading)"
+title: "Annualized Sharpe ratio"
 description: Enhance your understanding of algorithmic trading with a focus on the Annualized Sharpe Ratio, a vital metric for evaluating risk-adjusted returns. This guide explores the Sharpe Ratio's significance, calculation methods, and practical applications, providing insights into balancing volatility with returns. Learn how to use this essential tool to refine trading strategies and optimize outcomes, ensuring informed investment decisions that consider both risk and reward.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Analysis of TD Ameritrade (Algo Trading)"
+title: "Analysis of TD Ameritrade"
 description: "Explore TD Ameritrade's advanced algorithmic trading tools and comprehensive resources that cater to all investors, from novice to seasoned traders."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Double Net Lease: Overview and Comparison with Triple Net Lease (Algo Trading)"
+title: "Double Net Lease: Overview and Comparison with Triple Net Lease"
 description: "Explore the distinctions between double and triple net leases and how algorithmic trading is reshaping commercial real estate investments for better financial strategies."
 ---
 

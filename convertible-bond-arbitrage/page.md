@@ -1,5 +1,5 @@
 ---
-title: "Convertible Bond Arbitrage (Algo Trading)"
+title: "Convertible Bond Arbitrage"
 description: "Explore the sophisticated world of convertible bond arbitrage a market-neutral strategy blending debt and equity to exploit pricing inefficiencies for consistent returns."
 ---
 

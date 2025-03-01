@@ -1,5 +1,5 @@
 ---
-title: "Eisler Capital (Algo Trading)"
+title: "Eisler Capital"
 description: "Discover the cutting-edge world of algorithmic trading with Eisler Capital leader in leveraging technology and innovation to enhance financial market performance."
 ---
 

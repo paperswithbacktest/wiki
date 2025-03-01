@@ -1,5 +1,5 @@
 ---
-title: "Linder Hypothesis: Concept and Application (Algo Trading)"
+title: "Linder Hypothesis: Concept and Application"
 description: "Explore the Linder Hypothesis and its applications in international trade theory and algorithmic trading Discover how economic models and technology shape global markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Affluent Millennials in Investing Survey (Algo Trading)"
+title: "Affluent Millennials in Investing Survey"
 description: "Explore how affluent millennials are reshaping investment landscapes through algorithmic trading, blending tech savvy with financial strategy in an evolving market."
 ---
 

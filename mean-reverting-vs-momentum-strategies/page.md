@@ -1,5 +1,5 @@
 ---
-title: "Mean-reverting vs. momentum strategies (Algo Trading)"
+title: "Mean-reverting vs. momentum strategies"
 description: Explore the world of algorithmic trading with insights into mean-reverting and momentum strategies that help traders capitalize on market movements by understanding price patterns and trends. Mean-reverting strategies focus on asset prices returning to historical averages, offering opportunities for profit when deviations occur. Meanwhile, momentum strategies aim to leverage ongoing trends by identifying securities with strong directional movements. This guide investigates into the strengths, challenges, and applications of each strategy, enabling traders to make informed decisions aligned with their market view and risk preferences.
 ---
 

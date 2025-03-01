@@ -1,5 +1,5 @@
 ---
-title: "Downloading Forex Price Data Using yFinance Library in Python (Algo Trading)"
+title: "Downloading Forex Price Data Using yFinance Library in Python"
 description: Explore the power of algorithmic trading in forex with Python using the forex-python API. This guide covers integrating real-time and historical exchange rate data into automated trading strategies to enhance efficiency and decision-making. Suitable for both beginners and experienced traders, it details setup, key functionalities, and practical implementations, empowering you to capitalize on dynamic market opportunities with precision and speed through a data-driven approach.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Financial Statement Assertions (Algo Trading)"
+title: "Financial Statement Assertions"
 description: "Explore the integral relationship between financial statements and accounting assertions in algorithmic trading to make informed and optimized investment decisions."
 ---
 

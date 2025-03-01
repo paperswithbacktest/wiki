@@ -1,5 +1,5 @@
 ---
-title: "Crossover in Technical Analysis (Algo Trading)"
+title: "Crossover in Technical Analysis"
 description: "Explore crossover strategies in technical analysis and algorithmic trading to predict market trends with precision. Learn popular strategies like Golden Cross."
 ---
 

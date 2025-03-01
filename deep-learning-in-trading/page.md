@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning in Trading (Algo Trading)"
+title: "Deep Learning in Trading"
 description: "Explore the transformative impact of deep learning on algorithmic trading Discover how AI enhances market analysis and boosts trading strategies for financial success"
 ---
 

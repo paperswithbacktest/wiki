@@ -1,5 +1,5 @@
 ---
-title: "Evaluating Bond Portfolios Using Holding Period Return Yield (Algo Trading)"
+title: "Evaluating Bond Portfolios Using Holding Period Return Yield"
 description: "Optimize your bond portfolio using holding period return and yield metrics enhanced by algorithmic trading to maximize returns and manage risks effectively."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Convertible Cars: Types and Mechanisms (Algo Trading)"
+title: "Convertible Cars: Types and Mechanisms"
 description: "Explore the allure of convertible cars including types and mechanisms while uncovering their surprising connection to algorithmic trading for enhanced experiences."
 ---
 

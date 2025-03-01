@@ -1,5 +1,5 @@
 ---
-title: "Doojin Ryu (Algo Trading)"
+title: "Doojin Ryu"
 description: "Explore the career of Doojin Ryu, a leading figure in algorithmic trading and finance education, known for his research and influence in market strategies."
 ---
 

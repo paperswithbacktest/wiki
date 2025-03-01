@@ -1,5 +1,5 @@
 ---
-title: "Agricultural Sector Investment Program (Algo Trading)"
+title: "Agricultural Sector Investment Program"
 description: "Discover how the Agricultural Sector Investment Program leveraged algorithmic trading to enhance productivity and economic growth in developing regions."
 ---
 

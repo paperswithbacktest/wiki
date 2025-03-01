@@ -1,5 +1,5 @@
 ---
-title: "Loan Credit Default Swap: Overview and Mechanism (Algo Trading)"
+title: "Loan Credit Default Swap: Overview and Mechanism"
 description: "Discover the dynamics of Loan Credit Default Swaps (LCDS) in algo trading their impact on credit risk management and how they enhance market efficiency."
 ---
 

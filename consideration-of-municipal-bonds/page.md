@@ -1,5 +1,5 @@
 ---
-title: "Consideration of Municipal Bonds (Algo Trading)"
+title: "Consideration of Municipal Bonds"
 description: "Explore the benefits and strategies of trading municipal bonds with algorithmic systems. Discover tax advantages and how to optimize returns efficiently."
 ---
 

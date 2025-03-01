@@ -1,5 +1,5 @@
 ---
-title: "Interest on Interest (Algo Trading)"
+title: "Interest on Interest"
 description: "Explore how compound interest transforms investment growth and its integration within algorithmic trading for enhanced portfolio performance and risk management."
 ---
 

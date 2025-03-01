@@ -1,5 +1,5 @@
 ---
-title: "Earnings Per Share Calculation Formula (Algo Trading)"
+title: "Earnings Per Share Calculation Formula"
 description: "Explore the Earnings Per Share calculation formula and its crucial role in enhancing algorithmic trading strategies. Learn key insights for better trading decisions."
 ---
 

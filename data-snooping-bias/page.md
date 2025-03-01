@@ -1,5 +1,5 @@
 ---
-title: "Data-snooping bias (Algo Trading)"
+title: "Data-snooping bias"
 description: Explore the challenges of data-snooping bias in algorithmic trading, where models become overfitted to historical noise, leading to unrealistic backtest results and poor live performance. Learn strategies to mitigate these issues, ensuring more reliable trading models through rigorous validation and bias reduction techniques.
 ---
 

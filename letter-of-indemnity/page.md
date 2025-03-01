@@ -1,5 +1,5 @@
 ---
-title: "Letter of Indemnity (Algo Trading)"
+title: "Letter of Indemnity"
 description: "Explore the role and significance of a Letter of Indemnity in algorithmic trading for risk management Ensures financial protection against potential trading losses"
 ---
 

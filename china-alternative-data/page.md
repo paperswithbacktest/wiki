@@ -1,5 +1,5 @@
 ---
-title: "China Alternative Data (Algo Trading)"
+title: "China Alternative Data"
 description: Explore the dynamic role of alternative data in China's algorithmic trading landscape, where advanced digital platforms and a vast consumer base generate invaluable data points. Discover how non-traditional sources like social media activity and satellite imagery enhance trading strategies by providing unique insights into market trends and consumer behavior. Understand the challenges and opportunities within China's markets, including data privacy regulations, as financial services and other sectors leverage alternative data to optimize predictive models and gain a competitive edge.
 ---
 

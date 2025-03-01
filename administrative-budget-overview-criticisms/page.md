@@ -1,5 +1,5 @@
 ---
-title: "Administrative Budget: Overview and Criticisms (Algo Trading)"
+title: "Administrative Budget: Overview and Criticisms"
 description: "Explore the critical role of administrative budgets and the transformative impact of algorithmic trading in financial markets while uncovering associated challenges and innovations."
 ---
 

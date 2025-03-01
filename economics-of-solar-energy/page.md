@@ -1,5 +1,5 @@
 ---
-title: "Economics of Solar Energy (Algo Trading)"
+title: "Economics of Solar Energy"
 description: "Discover the economic factors affecting solar energy's global rise and the potential of algorithmic trading to optimize sustainable investments and solar market dynamics."
 ---
 

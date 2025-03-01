@@ -1,5 +1,5 @@
 ---
-title: "Day Trading Education Programs (Algo Trading)"
+title: "Day Trading Education Programs"
 description: "Discover essential trading education programs focused on day trading and algorithmic strategies Enhance your financial knowledge and trading skills today"
 ---
 

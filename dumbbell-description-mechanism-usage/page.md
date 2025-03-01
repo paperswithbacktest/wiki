@@ -1,5 +1,5 @@
 ---
-title: "Dumbbell: Description, Mechanism, and Usage (Algo Trading)"
+title: "Dumbbell: Description, Mechanism, and Usage"
 description: "Discover the synergy between weightlifting and algo trading explore how dumbbells and trading strategies enhance strength and financial success."
 ---
 

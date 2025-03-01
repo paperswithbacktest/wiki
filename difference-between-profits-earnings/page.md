@@ -1,5 +1,5 @@
 ---
-title: "Difference Between Profits and Earnings (Algo Trading)"
+title: "Difference Between Profits and Earnings"
 description: "Discover the key differences between profits and earnings in algo trading to make informed financial decisions and optimize investment strategies."
 ---
 

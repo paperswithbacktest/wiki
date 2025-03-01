@@ -1,5 +1,5 @@
 ---
-title: "Kimberly Susan Taylor (Algo Trading)"
+title: "Kimberly Susan Taylor"
 description: "Explore the remarkable contributions of Kimberly S. Taylor and Susan Taylor in algorithmic trading, revealing how they shaped modern financial practices."
 ---
 

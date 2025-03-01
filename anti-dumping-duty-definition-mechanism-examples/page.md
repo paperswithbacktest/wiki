@@ -1,5 +1,5 @@
 ---
-title: "Anti-Dumping Duty: Definition, Mechanism, and Examples (Algo Trading)"
+title: "Anti-Dumping Duty: Definition, Mechanism, and Examples"
 description: "Explore anti-dumping duties their role in international trade policies alongside algorithmic trading insights highlighting impacts on global market dynamics."
 ---
 

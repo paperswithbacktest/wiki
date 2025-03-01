@@ -1,5 +1,5 @@
 ---
-title: "Liquid Market: Benefits and Examples in Trading (Algo Trading)"
+title: "Liquid Market: Benefits and Examples in Trading"
 description: "Explore liquid markets in trading to enhance your strategy. Learn about high-volume assets, quick transactions, and the role of algorithms in executing trades."
 ---
 

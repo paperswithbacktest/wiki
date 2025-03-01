@@ -1,5 +1,5 @@
 ---
-title: "Cash Commodity (Algo Trading)"
+title: "Cash Commodity"
 description: "Explore the integration of algorithmic trading and cash commodity markets, enhancing trade execution, efficiency, and decision-making in dynamic environments."
 ---
 

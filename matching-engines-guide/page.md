@@ -1,5 +1,5 @@
 ---
-title: "Matching Engines Guide (Algo Trading)"
+title: "Matching Engines Guide"
 description: Discover the essential role of matching engines in algorithmic trading platforms. Learn how these engines pair buy and sell orders efficiently, contributing to market liquidity and low-latency execution. This guide provides valuable insights into their impact on trading strategies and market dynamics, featuring advanced algorithms and real-world applications for traders and developers.
 ---
 

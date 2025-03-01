@@ -1,5 +1,5 @@
 ---
-title: "Decoding Company Earnings Reports (Algo Trading)"
+title: "Decoding Company Earnings Reports"
 description: "Discover how to enhance trading performance by decoding company earnings reports using algorithmic strategies during peak volatility in earnings season."
 ---
 

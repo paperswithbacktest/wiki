@@ -1,5 +1,5 @@
 ---
-title: "Maker-Taker Fee Model (Algo Trading)"
+title: "Maker-Taker Fee Model"
 description: "Explore the impact of the maker-taker fee model on liquidity and market stability in algorithmic trading. Understand its role in trading strategies and market dynamics."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Energy Trust (Algo Trading)"
+title: "Energy Trust"
 description: "Explore the dynamic intersection of energy trusts, fund management, and algorithmic trading offering insights into investment strategies and sustainability opportunities."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Income Effect and Price Effect: Differences (Algo Trading)"
+title: "Income Effect and Price Effect: Differences"
 description: "Explore the differences between income effect and price effect in the context of algorithmic trading. Learn how these economic concepts influence trading strategies."
 ---
 

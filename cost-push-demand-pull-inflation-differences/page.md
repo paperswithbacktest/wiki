@@ -1,5 +1,5 @@
 ---
-title: "Cost-Push and Demand-Pull Inflation: Differences Explained (Algo Trading)"
+title: "Cost-Push and Demand-Pull Inflation: Differences Explained"
 description: "Explore how cost-push and demand-pull inflation influence financial markets and algorithmic trading strategies. Adapt and optimize your investments today"
 ---
 

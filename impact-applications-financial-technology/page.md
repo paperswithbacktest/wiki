@@ -1,5 +1,5 @@
 ---
-title: "Impact and Applications of Financial Technology (Algo Trading)"
+title: "Impact and Applications of Financial Technology"
 description: "Explore the transformative impact of fintech in financial markets with a focus on algorithmic trading Discover how technology enhances efficiency and market access"
 ---
 

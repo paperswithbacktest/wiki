@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Blockchain and Bitcoin ETFs (Algo Trading)"
+title: "Comparison of Blockchain and Bitcoin ETFs"
 description: "Explore the core differences between Blockchain ETFs and Bitcoin ETFs, focusing on their unique investment strategies, risks, and the impact of algorithmic trading."
 ---
 

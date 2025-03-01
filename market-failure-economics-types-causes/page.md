@@ -1,5 +1,5 @@
 ---
-title: "Market Failure in Economics: Types and Causes (Algo Trading)"
+title: "Market Failure in Economics: Types and Causes"
 description: "Discover how market failures disrupt economic efficiency due to public goods, externalities, and information asymmetries, and the dual role of algo trading."
 ---
 

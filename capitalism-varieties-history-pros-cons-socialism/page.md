@@ -1,5 +1,5 @@
 ---
-title: "Capitalism: Varieties, History, Advantages and Disadvantages, and Comparison with Socialism (Algo Trading)"
+title: "Capitalism: Varieties, History, Advantages and Disadvantages, and Comparison with Socialism"
 description: "Explore capitalism's history, varieties, advantages, and downsides, comparing it with socialism. Understand algo trading's role in modern economies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Eurozone Sovereign Debt Crisis: Causes and Impacts (Algo Trading)"
+title: "Eurozone Sovereign Debt Crisis: Causes and Impacts"
 description: "Explore the causes and impacts of the Eurozone Sovereign Debt Crisis from 2009 to 2012 highlighting the vulnerabilities within the EU's financial systems and how algorithmic trading influenced market stability. The crisis primarily affected countries like Greece and Italy uncovering fiscal mismanagement and sparking political and economic shifts including the UK's Brexit decision. Understanding these events is essential for crafting policies to prevent future disruptions while leveraging technology to enhance economic stability. This analysis provides valuable insights for investors policymakers and analysts aiming to strengthen the EU's fiscal governance."
 ---
 

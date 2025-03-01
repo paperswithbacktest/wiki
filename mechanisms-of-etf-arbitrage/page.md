@@ -1,5 +1,5 @@
 ---
-title: "Mechanisms of ETF Arbitrage (Algo Trading)"
+title: "Mechanisms of ETF Arbitrage"
 description: "Explore the dynamic interplay between ETF arbitrage opportunities and algorithmic trading strategies to optimize investment returns and market efficiency."
 ---
 

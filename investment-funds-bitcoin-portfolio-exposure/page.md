@@ -1,5 +1,5 @@
 ---
-title: "Investment Funds Providing Bitcoin Portfolio Exposure (Algo Trading)"
+title: "Investment Funds Providing Bitcoin Portfolio Exposure"
 description: "Explore diversified investment opportunities in cryptocurrency funds and algorithmic trading for Bitcoin exposure. Enhance risk management with strategic portfolio diversification."
 ---
 

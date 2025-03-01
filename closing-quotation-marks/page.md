@@ -1,5 +1,5 @@
 ---
-title: "Closing Quotation Marks (Algo Trading)"
+title: "Closing Quotation Marks"
 description: "Explore the pivotal role of closing quotes in algorithmic trading Discover how these final trade prices enhance strategies boost profitability and ensure precision."
 ---
 

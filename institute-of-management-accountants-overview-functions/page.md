@@ -1,5 +1,5 @@
 ---
-title: "Institute Of Management Accountants: Overview And Functions (Algo Trading)"
+title: "Institute Of Management Accountants: Overview And Functions"
 description: "Explore the intersection of management accounting and algorithmic trading as essential tools driving strategic financial decisions and market efficiency improvements."
 ---
 

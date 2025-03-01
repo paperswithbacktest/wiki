@@ -1,5 +1,5 @@
 ---
-title: "Hidden Costs Associated With New Home Purchases (Algo Trading)"
+title: "Hidden Costs Associated With New Home Purchases"
 description: "Discover the hidden costs of buying a new home and learn how algorithmic trading is reshaping the housing market to make informed purchasing decisions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Market Economy: History, Characteristics, and Mechanisms (Algo Trading)"
+title: "Market Economy: History, Characteristics, and Mechanisms"
 description: "Explore the history and mechanisms of market economies, focusing on key characteristics like supply and demand, and the impact of algorithmic trading."
 ---
 

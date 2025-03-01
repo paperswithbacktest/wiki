@@ -1,5 +1,5 @@
 ---
-title: "Cost of Labor (Algo Trading)"
+title: "Cost of Labor"
 description: "Explore how algorithmic trading reshapes labor costs with a focus on balancing competitive compensation and operational efficiency in this evolving financial sector."
 ---
 

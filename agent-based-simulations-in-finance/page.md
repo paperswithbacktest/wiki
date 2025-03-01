@@ -1,5 +1,5 @@
 ---
-title: "Agent-based simulations in finance (Algo Trading)"
+title: "Agent-based simulations in finance"
 description: "Explore how agent-based simulations revolutionize algorithmic trading in finance, offering insights into complex market dynamics and enhancing trading strategies."
 ---
 

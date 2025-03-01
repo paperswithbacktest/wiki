@@ -1,5 +1,5 @@
 ---
-title: "Deflation Trading Strategy Explained (Algo Trading)"
+title: "Deflation Trading Strategy Explained"
 description: Discover how algorithmic trading strategies can be optimized for deflationary periods to enhance returns and manage risks efficiently. This guide explores the complexities of deflation, its economic impacts, and tailored trading approaches to navigate market volatility and seize opportunities during economic downturns. Learn about key investment strategies and algorithmic trading techniques designed to capitalize on deflationary trends.
 ---
 

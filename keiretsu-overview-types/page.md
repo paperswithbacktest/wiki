@@ -1,5 +1,5 @@
 ---
-title: "Keiretsu: Overview and Types (Algo Trading)"
+title: "Keiretsu: Overview and Types"
 description: "Explore the synergy between Japan's traditional Keiretsu networks and modern algorithmic trading to understand strategic growth and market competitiveness."
 ---
 

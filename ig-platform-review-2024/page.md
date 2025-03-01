@@ -1,5 +1,5 @@
 ---
-title: "IG Platform Review 2024 (Algo Trading)"
+title: "IG Platform Review 2024"
 description: "Explore the comprehensive review of IG Group Holdings plc for 2024: a leading online brokerage firm renowned for its innovative trading solutions and global presence. Established in 1974, IG pioneered financial spread betting and has since grown to offer a multifaceted trading platform. With over 360,000 active users across 19 countries, IG provides a secure and regulated trading environment with access to diverse markets including forex, stocks, commodities, and cryptocurrencies. Learn about IG’s intuitive platform, regulatory compliance, security measures, and versatile financial products in this detailed evaluation."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Fixed-Rate Capital Securities: Overview and Mechanism (Algo Trading)"
+title: "Fixed-Rate Capital Securities: Overview and Mechanism"
 description: "Discover the intricacies of fixed-rate capital securities as they blend attributes of bonds and stocks, offering stable income potential with unique investment risks."
 ---
 

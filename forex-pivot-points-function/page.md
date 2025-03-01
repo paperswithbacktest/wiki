@@ -1,5 +1,5 @@
 ---
-title: "Forex Pivot Points and Their Function (Algo Trading)"
+title: "Forex Pivot Points and Their Function"
 description: "Explore the significance of forex pivot points in trading. Discover how these tools help identify support and resistance levels, crucial for algorithmic trading strategies."
 ---
 

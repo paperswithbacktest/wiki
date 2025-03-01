@@ -1,5 +1,5 @@
 ---
-title: "Investment Banking: Functions and Notable Examples (Algo Trading)"
+title: "Investment Banking: Functions and Notable Examples"
 description: "Explore the dynamic world of investment banking and algorithmic trading in this comprehensive guide. Understand how investment banks facilitate major financial transactions like IPOs and M&As, while offering strategic advisory services to global entities. Learn about the rise of algorithmic trading which employs sophisticated algorithms for executing trades with speed and efficiency, contributing to improved market liquidity and economic growth. Discover the vital roles these financial systems play in wealth creation and economic stability, influencing market dynamics and driving innovation in today's financial ecosystem."
 ---
 

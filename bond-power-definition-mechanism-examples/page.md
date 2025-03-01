@@ -1,5 +1,5 @@
 ---
-title: "Bond Power: Definition, Mechanism, and Examples (Algo Trading)"
+title: "Bond Power: Definition, Mechanism, and Examples"
 description: "Explore bond power and its impact on modern trading with insights into financial securities, mechanisms, and algorithmic trading's role in market evolution."
 ---
 

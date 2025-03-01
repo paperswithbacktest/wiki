@@ -1,5 +1,5 @@
 ---
-title: "Futures Contract Expiration (Algo Trading)"
+title: "Futures Contract Expiration"
 description: "Discover how futures contract expiration impacts trading strategies and algorithmic trading systems Learn to manage expiration for improved trading performance"
 ---
 

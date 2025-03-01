@@ -1,5 +1,5 @@
 ---
-title: "Benefits of Economic Deflation (Algo Trading)"
+title: "Benefits of Economic Deflation"
 description: "Explore the unique challenges and opportunities that deflation presents for algorithmic trading. Learn how deflation impacts market strategies and investment."
 ---
 

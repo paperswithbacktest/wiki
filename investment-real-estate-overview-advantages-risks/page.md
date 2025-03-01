@@ -1,5 +1,5 @@
 ---
-title: "Investment Real Estate: Overview, Advantages, and Risks (Algo Trading)"
+title: "Investment Real Estate: Overview, Advantages, and Risks"
 description: "Explore the benefits and risks of investing in real estate, including the impact of algorithmic trading on decision-making, for informed investment strategies."
 ---
 

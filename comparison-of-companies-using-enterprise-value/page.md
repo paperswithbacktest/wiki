@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Companies Using Enterprise Value (Algo Trading)"
+title: "Comparison of Companies Using Enterprise Value"
 description: "Discover how enterprise value and algorithmic trading enhance investment strategies. Learn to assess company valuation with precision through comprehensive financial insights."
 ---
 

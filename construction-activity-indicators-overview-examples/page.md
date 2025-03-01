@@ -1,5 +1,5 @@
 ---
-title: "Construction Activity Indicators: Overview and Examples (Algo Trading)"
+title: "Construction Activity Indicators: Overview and Examples"
 description: "Explore how construction activity indicators like building permits can boost algorithmic trading strategies by offering early economic insights."
 ---
 

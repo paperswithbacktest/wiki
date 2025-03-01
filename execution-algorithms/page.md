@@ -1,5 +1,5 @@
 ---
-title: "Execution Algorithms (Algo Trading)"
+title: "Execution Algorithms"
 description: "Explore the world of execution algorithms in algorithmic trading, which streamline order processing to optimize trading costs and minimize market impact."
 ---
 

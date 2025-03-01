@@ -1,5 +1,5 @@
 ---
-title: "Maturity Dates and Their Uses with Examples (Algo Trading)"
+title: "Maturity Dates and Their Uses with Examples"
 description: "Discover how understanding maturity dates can enhance algorithmic trading strategies by aligning them with market conditions for informed investment decisions."
 ---
 

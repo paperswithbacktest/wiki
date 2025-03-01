@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Betterment and Fidelity Go (Algo Trading)"
+title: "Comparison of Betterment and Fidelity Go"
 description: "Discover the key differences between Betterment and Fidelity Go robo-advisors. Learn how algorithmic trading enhances their strategies for optimized investing."
 ---
 

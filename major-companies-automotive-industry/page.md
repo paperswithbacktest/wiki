@@ -1,5 +1,5 @@
 ---
-title: "Major Companies in the Automotive Industry (Algo Trading)"
+title: "Major Companies in the Automotive Industry"
 description: "Explore the evolving automotive industry as major companies like GM and Tesla embrace electric vehicles and algorithmic trading to reshape their financial strategies."
 ---
 

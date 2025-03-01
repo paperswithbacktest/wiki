@@ -1,5 +1,5 @@
 ---
-title: "Identifying Stocks with Traded Options (Algo Trading)"
+title: "Identifying Stocks with Traded Options"
 description: "Explore the synergy of options and algorithmic trading to improve precision enhance market strategies and capitalize on the complexities of modern finance"
 ---
 

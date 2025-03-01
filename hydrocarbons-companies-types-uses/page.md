@@ -1,5 +1,5 @@
 ---
-title: "Hydrocarbons: Companies, Types, and Uses (Algo Trading)"
+title: "Hydrocarbons: Companies, Types, and Uses"
 description: "Explore the role of hydrocarbons in energy production and the impact of algorithmic trading in optimizing the financial landscape for energy companies."
 ---
 

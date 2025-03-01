@@ -1,5 +1,5 @@
 ---
-title: "Comparison of VFIAX and SPY: Mutual Fund and ETF Analysis (Algo Trading)"
+title: "Comparison of VFIAX and SPY: Mutual Fund and ETF Analysis"
 description: "Explore the investment strategies of VFIAX mutual fund and SPY ETF in algorithmic trading Compare their features liquidity cost efficiency and tax implications"
 ---
 

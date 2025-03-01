@@ -1,5 +1,5 @@
 ---
-title: "K-Shaped Recovery and Contributing Factors (Algo Trading)"
+title: "K-Shaped Recovery and Contributing Factors"
 description: "Explore the intricacies of a K-shaped recovery and its economic implications. Discover how algorithmic trading intersects with this recovery model and impacts sector disparities."
 ---
 

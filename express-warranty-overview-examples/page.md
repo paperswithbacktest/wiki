@@ -1,5 +1,5 @@
 ---
-title: "Express Warranty: Overview and Examples (Algo Trading)"
+title: "Express Warranty: Overview and Examples"
 description: "Explore how express warranties provide legal assurance and consumer confidence by guaranteeing product quality and functionality in algorithmic trading and beyond."
 ---
 

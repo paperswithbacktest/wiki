@@ -1,5 +1,5 @@
 ---
-title: "Bond Bank: Functionality and Historical Overview (Algo Trading)"
+title: "Bond Bank: Functionality and Historical Overview"
 description: "Explore the evolution of the bond market from its historical roots to the role of bond banks and the transformative effect of algorithmic trading on modern strategies."
 ---
 

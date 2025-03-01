@@ -1,5 +1,5 @@
 ---
-title: "Manual Trading: Overview and Mechanics (Algo Trading)"
+title: "Manual Trading: Overview and Mechanics"
 description: "Discover the dynamics between manual and algorithmic trading Learn how each strategy's unique characteristics can influence trading decisions and opportunities"
 ---
 

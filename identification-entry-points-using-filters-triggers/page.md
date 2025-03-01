@@ -1,5 +1,5 @@
 ---
-title: "Identification of Entry Points Using Filters and Triggers (Algo Trading)"
+title: "Identification of Entry Points Using Filters and Triggers"
 description: "Optimize algorithmic trading by understanding trade entry points through filters and triggers Improve trade timing and strategy with precise execution mechanisms"
 ---
 

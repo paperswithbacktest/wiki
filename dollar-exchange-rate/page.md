@@ -1,5 +1,5 @@
 ---
-title: "Dollar Exchange Rate (Algo Trading)"
+title: "Dollar Exchange Rate"
 description: "Explore the vital role of the dollar exchange rate in global markets and how algorithmic trading enhances currency trading efficiency and decision-making."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Loan Life Coverage Ratio Calculation Formula (Algo Trading)"
+title: "Loan Life Coverage Ratio Calculation Formula"
 description: "Explore the calculation of Loan Life Coverage Ratio in project finance to evaluate debt obligations with insights into its role in algorithmic trading strategies."
 ---
 

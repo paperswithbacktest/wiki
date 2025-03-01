@@ -1,5 +1,5 @@
 ---
-title: "Market impact models (Algo Trading)"
+title: "Market impact models"
 description: "Explore market impact models vital for minimizing costs in algorithmic trading by predicting asset price changes due to trade activities in dynamic markets."
 ---
 

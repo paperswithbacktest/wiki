@@ -1,5 +1,5 @@
 ---
-title: "Kazakhstan National Fund (Algo Trading)"
+title: "Kazakhstan National Fund"
 description: "Discover how Kazakhstan's National Fund and algorithmic trading enhance economic stability by managing commodity volatility and optimizing financial strategies."
 ---
 

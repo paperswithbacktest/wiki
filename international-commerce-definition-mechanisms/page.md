@@ -1,5 +1,5 @@
 ---
-title: "International Commerce: Definition and Mechanisms (Algo Trading)"
+title: "International Commerce: Definition and Mechanisms"
 description: "Explore international commerce and algorithmic trading as key drivers of global economic growth. Understand trade mechanisms, benefits, and potential risks."
 ---
 

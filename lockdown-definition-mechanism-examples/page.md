@@ -1,5 +1,5 @@
 ---
-title: "Lockdown: Definition, Mechanism, and Examples (Algo Trading)"
+title: "Lockdown: Definition, Mechanism, and Examples"
 description: "Explore the impact of COVID-19 lockdowns on algorithmic trading and global economies, revealing the balance between public health measures and economic stability."
 ---
 

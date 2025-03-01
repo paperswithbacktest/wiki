@@ -1,5 +1,5 @@
 ---
-title: "Consensus Mechanisms in Blockchain and Cryptocurrency (Algo Trading)"
+title: "Consensus Mechanisms in Blockchain and Cryptocurrency"
 description: "Explore blockchain consensus mechanisms and cryptocurrency algorithmic trading to understand their impact on transaction security and efficiency in the market."
 ---
 

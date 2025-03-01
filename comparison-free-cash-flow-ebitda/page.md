@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Free Cash Flow and EBITDA (Algo Trading)"
+title: "Comparison of Free Cash Flow and EBITDA"
 description: "Explore the differences between Free Cash Flow (FCF) and EBITDA in assessing a company's financial health and operational efficiency. Learn how these metrics are used in algorithmic trading for strategic decision-making and financial analysis. Understand the role of FCF in offering insights into cash management and the significance of EBITDA in evaluating core profitability, enabling better investment opportunities and risk assessment."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Gold Certificate: History and Significance (Algo Trading)"
+title: "Gold Certificate: History and Significance"
 description: "Explore the history and significance of gold certificates in global finance from currency substitutes to investment tools connecting the past with modern algo trading."
 ---
 

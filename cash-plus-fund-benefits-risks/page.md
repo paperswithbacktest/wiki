@@ -1,5 +1,5 @@
 ---
-title: "Cash Plus Fund: Definition, Benefits, and Risks (Algo Trading)"
+title: "Cash Plus Fund: Definition, Benefits, and Risks"
 description: "Explore the intricacies of Cash Plus Funds and algorithmic trading Discover how these strategies balance risk and rewards in today's dynamic investment landscape"
 ---
 

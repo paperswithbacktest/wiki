@@ -1,5 +1,5 @@
 ---
-title: "Arbitrage Strategies in Binary Options (Algo Trading)"
+title: "Arbitrage Strategies in Binary Options"
 description: "Explore arbitrage strategies in binary options and learn how algo trading is used to exploit price discrepancies and maximize profits with minimal risk."
 ---
 

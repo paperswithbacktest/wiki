@@ -1,5 +1,5 @@
 ---
-title: "American Petroleum Institute: Overview and Functions (Algo Trading)"
+title: "American Petroleum Institute: Overview and Functions"
 description: "Explore how the American Petroleum Institute sets industry standards and how algorithmic trading transforms modern oil markets for efficiency and safety."
 ---
 

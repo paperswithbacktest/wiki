@@ -1,5 +1,5 @@
 ---
-title: "At-The-Opening Order (Algo Trading)"
+title: "At-The-Opening Order"
 description: "Enhance your trading strategy with at-the-opening orders designed for execution at market open, ideal for capitalizing on overnight news and early price actions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Factors Influencing Portfolio Profitability (Algo Trading)"
+title: "Factors Influencing Portfolio Profitability"
 description: "Discover how investment strategies and algorithmic trading impact portfolio profitability. Explore risk management, diversification, and data-driven approaches."
 ---
 

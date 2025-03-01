@@ -1,5 +1,5 @@
 ---
-title: "Evolutionary Economics: History and Examples (Algo Trading)"
+title: "Evolutionary Economics: History and Examples"
 description: "Explore the dynamic relationship between evolutionary economics and algorithmic trading Discover how historical economic events shape modern financial markets and trading innovations"
 ---
 

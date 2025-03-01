@@ -1,5 +1,5 @@
 ---
-title: "Gann Studies (Algo Trading)"
+title: "Gann Studies"
 description: "Discover the dynamic world of Gann studies in algo trading Learn how combining Gann analysis with technical and algorithmic trading enhances market prediction."
 ---
 

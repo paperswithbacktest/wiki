@@ -1,5 +1,5 @@
 ---
-title: "Accretion of Discount: Explanation and Calculation (Algo Trading)"
+title: "Accretion of Discount: Explanation and Calculation"
 description: "Explore how discount accretion and algorithmic trading impact financial securities. Understand the principles and calculations for informed investment decisions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Stock Valuation Using P/E and PEG Ratios (Algo Trading)"
+title: "Analysis of Stock Valuation Using P/E and PEG Ratios"
 description: "Explore stock valuation using P/E and PEG ratios to make informed investment decisions. Understand how these metrics integrate with algorithmic trading for optimal strategies."
 ---
 

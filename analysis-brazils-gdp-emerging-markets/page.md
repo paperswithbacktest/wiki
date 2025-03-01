@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Brazil's GDP in Emerging Markets (Algo Trading)"
+title: "Analysis of Brazil's GDP in Emerging Markets"
 description: "Discover how Brazil's GDP performs in emerging markets, analyzing key sectors like services, industry, and agriculture along with algorithmic trading insights."
 ---
 

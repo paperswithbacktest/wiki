@@ -1,5 +1,5 @@
 ---
-title: "Kenyan Shilling: History And Overview (Algo Trading)"
+title: "Kenyan Shilling: History And Overview"
 description: "Explore the rich history and evolution of the Kenyan Shilling (KES), its vital role in Kenya's economy, and its influence in algorithmic trading today."
 ---
 

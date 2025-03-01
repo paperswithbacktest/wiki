@@ -1,5 +1,5 @@
 ---
-title: "Impact of Clean Energy on Natural Gas Markets (Algo Trading)"
+title: "Impact of Clean Energy on Natural Gas Markets"
 description: "Explore how clean energy impacts natural gas markets amid algo trading trends highlighting transitional fuels' role, market dynamics, and sustainability goals."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Filter trading strategy (Algo Trading)"
+title: "Filter trading strategy"
 description: Explore the world of filter trading strategies in algorithmic trading, a method that refines decision-making by distinguishing significant price movements from market noise. Delve into how these strategies use mathematical filters, like moving averages, to enhance clarity and precision in trade executions. Discover the benefits of automation in reducing false signals and improving trading outcomes with greater efficiency and accuracy. Learn how filter trading strategies employ various methodologies, including statistical and machine learning filters, to optimize trading performance in dynamic financial markets.
 ---
 

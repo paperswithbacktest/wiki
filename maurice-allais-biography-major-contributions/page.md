@@ -1,5 +1,5 @@
 ---
-title: "Maurice Allais: Biography and Major Contributions (Algo Trading)"
+title: "Maurice Allais: Biography and Major Contributions"
 description: "Explore Maurice Allais' impact as a Nobel-winning economist known for his work on market equilibrium and behavioral economics influencing algorithmic trading."
 ---
 

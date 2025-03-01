@@ -1,5 +1,5 @@
 ---
-title: "Confidence Interval Calculation (Algo Trading)"
+title: "Confidence Interval Calculation"
 description: "Confidence intervals in algorithmic trading offer a statistical measure of uncertainty helping traders evaluate the reliability of strategies and optimize performance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Deribit API Guide (Algo Trading)"
+title: "Deribit API Guide"
 description: Explore the powerful Deribit API guide for algorithmic trading in cryptocurrency derivatives. Learn how to utilize the platform's robust REST and WebSocket APIs for accessing real-time market data and executing automated trading strategies efficiently. Gain insights into setting up Deribit's API, generating API keys, and building strategies with practical examples, ensuring success in the dynamic world of crypto trading. Discover the key features and benefits of Deribit, including market data access and comprehensive account management, to enhance your trading performance with algorithmic precision.
 ---
 

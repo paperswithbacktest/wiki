@@ -1,5 +1,5 @@
 ---
-title: "Investment in Commodity ETFs (Algo Trading)"
+title: "Investment in Commodity ETFs"
 description: "Explore the benefits and complexities of investing in Commodity ETFs with insights on leveraging algorithmic trading for optimized investments in volatile markets."
 ---
 

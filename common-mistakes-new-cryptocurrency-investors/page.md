@@ -1,5 +1,5 @@
 ---
-title: "Common Mistakes Among New Cryptocurrency Investors (Algo Trading)"
+title: "Common Mistakes Among New Cryptocurrency Investors"
 description: "Explore the common pitfalls that new cryptocurrency investors face, particularly in algorithmic trading. Understand the risks and complexities of this fast-paced market, and learn how to protect yourself from prevalent scams. This article offers insightful tips on avoiding investment mistakes, staying safe while trading, and leveraging algorithmic strategies to maximize your potential returns in the volatile world of cryptocurrency."
 ---
 

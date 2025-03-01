@@ -1,5 +1,5 @@
 ---
-title: "Methods for Identifying Actively Traded Stocks (Algo Trading)"
+title: "Methods for Identifying Actively Traded Stocks"
 description: "Discover strategies for identifying actively traded stocks in algorithmic trading Learn how market analysis and automation can help you make informed trades"
 ---
 

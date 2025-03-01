@@ -1,5 +1,5 @@
 ---
-title: "Accounting Conservatism: Advantages and Disadvantages (Algo Trading)"
+title: "Accounting Conservatism: Advantages and Disadvantages"
 description: "Explore the role of accounting conservatism in financial reporting and algorithmic trading Learn how this principle enhances data integrity and strategic decisions"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Accrual Accounting in SAP Systems (Algo Trading)"
+title: "Accrual Accounting in SAP Systems"
 description: "Explore accrual accounting in SAP systems and its integration with algorithmic trading for enhanced financial management and operational efficiency."
 ---
 

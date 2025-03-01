@@ -1,5 +1,5 @@
 ---
-title: "Dividend Rollover Plan (Algo Trading)"
+title: "Dividend Rollover Plan"
 description: "Explore dividend rollover plans combining traditional dividend investing with advanced algorithmic trading for optimized investment returns and risk management."
 ---
 

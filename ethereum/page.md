@@ -1,5 +1,5 @@
 ---
-title: "Ethereum (Algo Trading)"
+title: "Ethereum"
 description: "Discover how Ethereum's blockchain transforms algorithmic trading with smart contracts that ensure secure, transparent, and automated trading solutions."
 ---
 

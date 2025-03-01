@@ -1,5 +1,5 @@
 ---
-title: "Conditional Value at Risk (Algo Trading)"
+title: "Conditional Value at Risk"
 description: "Explore Conditional Value at Risk (CVaR) to enhance algorithmic trading strategies by managing extreme financial risks and optimizing performance."
 ---
 

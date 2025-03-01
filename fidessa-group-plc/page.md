@@ -1,5 +1,5 @@
 ---
-title: "Fidessa Group PLC (Algo Trading)"
+title: "Fidessa Group PLC"
 description: "Fidessa Group PLC offers advanced algorithmic trading platforms, enhancing efficiency and decision-making in financial markets for institutions globally."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Calculating Production Costs Using Excel (Algo Trading)"
+title: "Calculating Production Costs Using Excel"
 description: "Learn how to calculate production costs in algorithmic trading using Excel Strengthen your trading strategies by understanding expenses for optimal profitability"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Factors Influencing Vertical Integration in Companies (Algo Trading)"
+title: "Factors Influencing Vertical Integration in Companies"
 description: "Explore how vertical integration influences corporate strategies with a focus on algorithmic trading. Learn how companies strengthen supply chain control to boost efficiency."
 ---
 

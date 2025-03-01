@@ -1,5 +1,5 @@
 ---
-title: "Fully Depreciated Asset (Algo Trading)"
+title: "Fully Depreciated Asset"
 description: "Explore the intersection of financial accounting, depreciated asset valuation, and algorithmic trading to enhance decision-making and optimize trading strategies."
 ---
 

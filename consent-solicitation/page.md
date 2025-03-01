@@ -1,5 +1,5 @@
 ---
-title: "Consent Solicitation (Algo Trading)"
+title: "Consent Solicitation"
 description: "Explore how consent solicitation, debt restructuring, and algorithmic trading interconnect to enhance financial stability, offering flexibility in navigating complex markets."
 ---
 

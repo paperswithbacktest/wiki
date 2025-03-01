@@ -1,5 +1,5 @@
 ---
-title: "Bear Position in Finance (Algo Trading)"
+title: "Bear Position in Finance"
 description: "Understand bear positions in finance during challenging market conditions. Explore strategies using algorithmic trading to protect investments and seize opportunities."
 ---
 

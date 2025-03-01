@@ -1,5 +1,5 @@
 ---
-title: "KBW Bank Index: Overview and History (Algo Trading)"
+title: "KBW Bank Index: Overview and History"
 description: "Explore the KBW Bank Index as a vital benchmark for U.S. banking performance. Learn its history, components, and the impact of algorithmic trading."
 ---
 

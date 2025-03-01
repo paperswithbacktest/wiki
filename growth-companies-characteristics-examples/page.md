@@ -1,5 +1,5 @@
 ---
-title: "Growth Companies: Characteristics and Examples (Algo Trading)"
+title: "Growth Companies: Characteristics and Examples"
 description: "Explore the synergy between growth companies and algorithmic trading to identify investment opportunities driven by innovation, market expansion, and data precision."
 ---
 

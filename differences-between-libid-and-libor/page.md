@@ -1,5 +1,5 @@
 ---
-title: "Differences Between LIBID and LIBOR (Algo Trading)"
+title: "Differences Between LIBID and LIBOR"
 description: "Understanding LIBID and LIBOR is crucial for finance professionals as these rates significantly impact algorithmic trading strategies by benchmarking interbank actions."
 ---
 

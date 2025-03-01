@@ -1,5 +1,5 @@
 ---
-title: "Inward Investment: Definition, Overview, and Risks (Algo Trading)"
+title: "Inward Investment: Definition, Overview, and Risks"
 description: "Explore the intricacies of inward investment and its role in global finance Learn about benefits like job creation and challenges tied to cultural shifts and innovation"
 ---
 

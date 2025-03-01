@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Equity and Debt Investments in Real Estate Crowdfunding (Algo Trading)"
+title: "Comparison of Equity and Debt Investments in Real Estate Crowdfunding"
 description: "Explore the dynamics of equity and debt investments in real estate crowdfunding and algo trading Discover benefits and challenges in modern portfolios"
 ---
 

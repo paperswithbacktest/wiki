@@ -1,5 +1,5 @@
 ---
-title: "Consolidated Trading (Algo Trading)"
+title: "Consolidated Trading"
 description: "Discover the essentials of consolidated trading in algorithmic trading Unify data for market analysis enhance decision-making and trade efficiently with minimal latency"
 ---
 

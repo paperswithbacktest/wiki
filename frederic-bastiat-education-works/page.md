@@ -1,5 +1,5 @@
 ---
-title: "Frederic Bastiat: Education and Works (Algo Trading)"
+title: "Frederic Bastiat: Education and Works"
 description: "Explore the fusion of Frederic Bastiat's economic theories with modern algorithmic trading to understand how historical insights shape today's financial strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Foreign-Invested Enterprises: Overview and Functionality (Algo Trading)"
+title: "Foreign-Invested Enterprises: Overview and Functionality"
 description: "Explore how foreign-invested enterprises and algorithmic trading shape global investment strategies enhancing business structures and financial performance."
 ---
 

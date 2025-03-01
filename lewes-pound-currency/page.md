@@ -1,5 +1,5 @@
 ---
-title: "Lewes Pound Currency (Algo Trading)"
+title: "Lewes Pound Currency"
 description: "Discover how the Lewes Pound currency supports local trade within Lewes UK, promotes economic resilience and explores potential ties to algorithmic trading."
 ---
 

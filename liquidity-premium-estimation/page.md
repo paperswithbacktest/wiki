@@ -1,5 +1,5 @@
 ---
-title: "liquidity premium estimation (Algo Trading)"
+title: "liquidity premium estimation"
 description: "Explore the estimation of liquidity risk premium in algorithmic trading and its impact on strategies, emphasizing the importance of managing liquidity risk."
 ---
 

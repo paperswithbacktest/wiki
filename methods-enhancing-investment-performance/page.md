@@ -1,5 +1,5 @@
 ---
-title: "Methods for Enhancing Investment Performance (Algo Trading)"
+title: "Methods for Enhancing Investment Performance"
 description: "Explore diverse investment strategies and algorithmic trading to optimize financial performance. Learn actionable tips for better investment outcomes and risk management."
 ---
 

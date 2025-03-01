@@ -1,5 +1,5 @@
 ---
-title: "Blank Check Companies: Overview, Mechanisms, and Examples (Algo Trading)"
+title: "Blank Check Companies: Overview, Mechanisms, and Examples"
 description: "Discover how Special Purpose Acquisition Companies (SPACs) offer a fast-track to public markets while posing unique risks influenced by algorithmic trading dynamics."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Futures Contract Rollovers (Algo Trading)"
+title: "Futures Contract Rollovers"
 description: "Explore the complexities of futures contract rollovers in algorithmic trading Discover strategies to optimize market exposure and minimize disruptions"
 ---
 

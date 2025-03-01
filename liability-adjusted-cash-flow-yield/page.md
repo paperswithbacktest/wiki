@@ -1,5 +1,5 @@
 ---
-title: "Liability-Adjusted Cash Flow Yield (Algo Trading)"
+title: "Liability-Adjusted Cash Flow Yield"
 description: "Explore the integration of financial metrics like cash flow yield and liability adjustments in algorithmic trading to enhance strategy efficiency and risk management."
 ---
 

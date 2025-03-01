@@ -1,5 +1,5 @@
 ---
-title: "Intramarket Sector Spread: Function and Example (Algo Trading)"
+title: "Intramarket Sector Spread: Function and Example"
 description: "Explore the nuances of intramarket sector spread in algorithmic trading Learn how to leverage price differentials for strategic investment opportunities"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Impact of Blockchain on the Automotive Industry (Algo Trading)"
+title: "Impact of Blockchain on the Automotive Industry"
 description: "Explore how blockchain is revolutionizing the automotive industry by enhancing transparency, security, and efficiency in manufacturing, smart car networks, and algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Front Running in Financial Markets (Algo Trading)"
+title: "Front Running in Financial Markets"
 description: "Explore the complex world of front running in financial markets, its implications, and how algorithmic trading impacts this controversial practice."
 ---
 

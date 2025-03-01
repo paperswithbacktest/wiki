@@ -1,5 +1,5 @@
 ---
-title: "Digital Divide and Efforts to Bridge It (Algo Trading)"
+title: "Digital Divide and Efforts to Bridge It"
 description: "Internet inequality hinders access to algo trading and financial services, deepening the digital divide. Bridging this gap boosts inclusion and opportunity."
 ---
 

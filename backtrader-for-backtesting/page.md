@@ -1,5 +1,5 @@
 ---
-title: "Backtrader for Backtesting Explained (Algo Trading)"
+title: "Backtrader for Backtesting Explained"
 description: Explore the key features and advantages of using Backtrader for backtesting algorithmic trading strategies. Discover how this powerful open-source platform helps traders refine strategies through robust simulation capabilities and seamless integration of multiple data feeds and custom indicators. Learn about its supportive community and accessible framework that make it an ideal choice for both novice and seasoned traders looking to enhance their trading algorithms in a reliable environment.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Impact of Insider Buying on Investment Decisions (Algo Trading)"
+title: "Impact of Insider Buying on Investment Decisions"
 description: "Discover how integrating insider buying, investment decisions, and algorithmic trading can optimize strategies, offering insights to enhance financial returns."
 ---
 

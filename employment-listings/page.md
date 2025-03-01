@@ -1,5 +1,5 @@
 ---
-title: "Employment Listings (Algo Trading)"
+title: "Employment Listings"
 description: "Explore employment opportunities in the algo trading sector where financial expertise meets tech proficiency Stay competitive with current industry trends"
 ---
 

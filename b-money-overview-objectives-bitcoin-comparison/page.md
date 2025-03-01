@@ -1,5 +1,5 @@
 ---
-title: "B-Money: Overview, Objectives, and Bitcoin Comparison (Algo Trading)"
+title: "B-Money: Overview, Objectives, and Bitcoin Comparison"
 description: "Explore the historical and technological evolution of cryptocurrencies by comparing Bitcoin and B-Money and delve into the impact of algorithmic trading on crypto markets."
 ---
 

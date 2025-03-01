@@ -1,5 +1,5 @@
 ---
-title: "Calculating Stock Adjusted Closing Price (Algo Trading)"
+title: "Calculating Stock Adjusted Closing Price"
 description: "Discover how adjusted closing prices in stock trading offer a true historical view by accounting for dividends and splits crucial for algorithms and trading strategies."
 ---
 

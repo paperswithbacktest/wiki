@@ -1,5 +1,5 @@
 ---
-title: "General Agreement on Tariffs and Trade (Algo Trading)"
+title: "General Agreement on Tariffs and Trade"
 description: "Explore the impact of GATT and algorithmic trading on global commerce, highlighting their roles in shaping modern trade policies and market efficiencies."
 ---
 

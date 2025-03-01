@@ -1,5 +1,5 @@
 ---
-title: "Amazon Acceptance of Bitcoin (Algo Trading)"
+title: "Amazon Acceptance of Bitcoin"
 description: "Explore why Amazon hesitates to accept Bitcoin despite its growing popularity, alternative methods for spending Bitcoin on Amazon, and the exploration of tax and fee implications."
 ---
 

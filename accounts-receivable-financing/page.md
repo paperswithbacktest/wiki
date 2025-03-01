@@ -1,5 +1,5 @@
 ---
-title: "Accounts Receivable Financing (Algo Trading)"
+title: "Accounts Receivable Financing"
 description: "Explore the convergence of accounts receivable financing and algorithmic trading to boost liquidity and financial efficiency for business growth and strategic advantage."
 ---
 

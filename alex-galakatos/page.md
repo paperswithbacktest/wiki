@@ -1,5 +1,5 @@
 ---
-title: "Alex Galakatos (Algo Trading)"
+title: "Alex Galakatos"
 description: "Alex Galakatos is a leader in algorithmic trading known for his expertise in big data and distributed systems advancing financial market transformations."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Amplitude: Definition, Functionality, and Calculation (Algo Trading)"
+title: "Amplitude: Definition, Functionality, and Calculation"
 description: "Gain insights into amplitude in algorithmic trading Understand how amplitude calculations predict market behavior and enhance trade execution strategies for success."
 ---
 

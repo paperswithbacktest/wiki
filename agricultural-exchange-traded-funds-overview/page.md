@@ -1,5 +1,5 @@
 ---
-title: "Agricultural Exchange-Traded Funds Overview (Algo Trading)"
+title: "Agricultural Exchange-Traded Funds Overview"
 description: "Explore agricultural ETFs and algorithmic trading to diversify investments in agriculture. Learn about ETF types, benefits, risks, and trading strategies."
 ---
 

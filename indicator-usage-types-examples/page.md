@@ -1,5 +1,5 @@
 ---
-title: "Indicator: Usage, Types, and Examples (Algo Trading)"
+title: "Indicator: Usage, Types, and Examples"
 description: "Explore key indicators in algorithmic trading and economic analysis to understand market trends and strategies enhancing informed decision-making and trading performance."
 ---
 

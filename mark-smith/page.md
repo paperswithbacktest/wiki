@@ -1,5 +1,5 @@
 ---
-title: "Mark Smith (Algo Trading)"
+title: "Mark Smith"
 description: "Discover the career of Mark Smith in algorithmic trading from his tech beginnings at Motorola to his pivotal role at Akuna Capital."
 ---
 

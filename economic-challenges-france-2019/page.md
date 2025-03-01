@@ -1,5 +1,5 @@
 ---
-title: "Economic Challenges Faced by France in 2019 (Algo Trading)"
+title: "Economic Challenges Faced by France in 2019"
 description: "In 2019 France faced economic challenges including high unemployment slow growth and competitiveness issues while navigating shifts in global trade dynamics."
 ---
 

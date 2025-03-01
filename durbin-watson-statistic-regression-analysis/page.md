@@ -1,5 +1,5 @@
 ---
-title: "Durbin–Watson Statistic in Regression Analysis (Algo Trading)"
+title: "Durbin–Watson Statistic in Regression Analysis"
 description: "Discover the significance of the Durbin-Watson statistic in algorithmic trading. This tool is vital for identifying autocorrelation in regression models, impacting prediction accuracy. Learn how the Durbin-Watson test helps traders refine models for more reliable trading strategies by detecting autocorrelation patterns that can influence market predictions. Enhance your understanding of regression analysis and its implications for trading effectiveness with this insightful guide suitable for traders and statistical enthusiasts alike."
 ---
 

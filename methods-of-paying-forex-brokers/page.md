@@ -1,5 +1,5 @@
 ---
-title: "Methods of Paying Forex Brokers (Algo Trading)"
+title: "Methods of Paying Forex Brokers"
 description: "Discover various forex broker payment methods and their impact on algorithmic trading strategies. Choose the best option for speed and security."
 ---
 

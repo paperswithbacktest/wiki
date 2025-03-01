@@ -1,5 +1,5 @@
 ---
-title: "Overview of the Canadian Deposit Insurance Corporation (Algo Trading)"
+title: "Overview of the Canadian Deposit Insurance Corporation"
 description: "Explore the Canadian Deposit Insurance Corporation's role in financial security and how algorithmic trading transforms investment strategies within a secure framework."
 ---
 

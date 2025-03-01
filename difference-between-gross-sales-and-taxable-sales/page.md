@@ -1,5 +1,5 @@
 ---
-title: "Difference Between Gross Sales and Taxable Sales (Algo Trading)"
+title: "Difference Between Gross Sales and Taxable Sales"
 description: "Understand the difference between gross and taxable sales and their impact on businesses navigating taxes and algorithmic trading to optimize financial outcomes."
 ---
 

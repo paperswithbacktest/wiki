@@ -1,5 +1,5 @@
 ---
-title: "Alexander Erf (Algo Trading)"
+title: "Alexander Erf"
 description: "Discover the journey of Alexander Erf a talented C++ Developer at Akuna Capital with expertise in algorithmic trading and a strong programming background."
 ---
 

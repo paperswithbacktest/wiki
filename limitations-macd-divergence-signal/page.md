@@ -1,5 +1,5 @@
 ---
-title: "Limitations of MACD Divergence as a Signal (Algo Trading)"
+title: "Limitations of MACD Divergence as a Signal"
 description: "Explore the limitations of using MACD divergence as a trading signal in algorithmic strategies. Understand its effectiveness and potential pitfalls in algo trading."
 ---
 

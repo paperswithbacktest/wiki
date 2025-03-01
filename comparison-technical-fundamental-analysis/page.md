@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Technical and Fundamental Analysis (Algo Trading)"
+title: "Comparison of Technical and Fundamental Analysis"
 description: "This page explores investment strategies including fundamental analysis technical analysis and algorithmic trading highlighting techniques benefits and investor applications"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Current Assets: Meaning and Calculation with Examples (Algo Trading)"
+title: "Current Assets: Meaning and Calculation with Examples"
 description: "Explore the significance of current assets in maintaining liquidity and financial health, including calculation methods and strategies for optimization in trading."
 ---
 

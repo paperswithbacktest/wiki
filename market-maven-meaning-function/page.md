@@ -1,5 +1,5 @@
 ---
-title: "Market Maven: Meaning and Function (Algo Trading)"
+title: "Market Maven: Meaning and Function"
 description: "Discover the influence of market mavens in algorithmic trading and how they shape consumer behavior through expert insights and strategic market navigation."
 ---
 

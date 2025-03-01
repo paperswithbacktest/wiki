@@ -1,5 +1,5 @@
 ---
-title: "Mechanic's Lien: Usage and Examples (Algo Trading)"
+title: "Mechanic's Lien: Usage and Examples"
 description: "Explore how mechanic's liens secure payments for contractors in property improvements and the impact of algorithmic trading on financial transactions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "After Reimbursement Expense Ratio (Algo Trading)"
+title: "After Reimbursement Expense Ratio"
 description: "Explore the impact of expense ratios, reimbursements, and algorithmic trading on investment decisions and outcomes. Enhance your strategy for better returns."
 ---
 

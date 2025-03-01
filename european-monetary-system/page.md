@@ -1,5 +1,5 @@
 ---
-title: "European Monetary System (Algo Trading)"
+title: "European Monetary System"
 description: "Explore the European Monetary System's role in fostering economic integration, its impact on financial markets, and the rise of algorithmic trading in Europe."
 ---
 

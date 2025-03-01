@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Subaccounts and Clone Funds (Algo Trading)"
+title: "Comparison of Subaccounts and Clone Funds"
 description: "Compare subaccounts clone funds and algo trading strategies to optimize investments Each offers unique benefits and challenges Learn how to navigate these innovative options"
 ---
 

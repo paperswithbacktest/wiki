@@ -1,5 +1,5 @@
 ---
-title: "Crypto Market Microstructure (Algo Trading)"
+title: "Crypto Market Microstructure"
 description: "Explore the intricacies of crypto market microstructure and algorithmic trading to understand trading dynamics and capture opportunities in volatile markets."
 ---
 

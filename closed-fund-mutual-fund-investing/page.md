@@ -1,5 +1,5 @@
 ---
-title: "Closed Fund in Mutual Fund Investing (Algo Trading)"
+title: "Closed Fund in Mutual Fund Investing"
 description: "Explore the dynamics of closed-end funds in mutual fund investing and the impact of algorithmic trading on investment strategies for optimizing returns."
 ---
 

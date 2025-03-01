@@ -1,5 +1,5 @@
 ---
-title: "Algorithmic Trading: Concepts and Examples (Algo Trading)"
+title: "Algorithmic Trading: Concepts and Examples"
 description: "Discover algorithmic trading its role in modern finance and how it automates trading for speed and accuracy Learn the strategies and tools used for success"
 ---
 

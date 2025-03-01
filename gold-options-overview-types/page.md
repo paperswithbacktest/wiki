@@ -1,5 +1,5 @@
 ---
-title: "Gold Options: Overview and Types (Algo Trading)"
+title: "Gold Options: Overview and Types"
 description: "Explore strategic advantages of gold options and algorithmic trading for investment portfolios. Learn how to effectively leverage gold market opportunities."
 ---
 

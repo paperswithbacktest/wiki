@@ -1,5 +1,5 @@
 ---
-title: "Cookie Jar Reserves (Algo Trading)"
+title: "Cookie Jar Reserves"
 description: "Explore the complexities of cookie jar reserves in accounting and their impact on financial reporting and business stability, especially in the era of algorithmic trading."
 ---
 

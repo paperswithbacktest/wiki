@@ -1,5 +1,5 @@
 ---
-title: "Mana Partners (Algo Trading)"
+title: "Mana Partners"
 description: "Mana Partners excels in algorithmic trading by offering innovative solutions that enhance efficiency and profitability employing advanced tech and strategic insights."
 ---
 

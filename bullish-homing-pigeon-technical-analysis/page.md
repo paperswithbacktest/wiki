@@ -1,5 +1,5 @@
 ---
-title: "Bullish Homing Pigeon in Technical Analysis (Algo Trading)"
+title: "Bullish Homing Pigeon in Technical Analysis"
 description: "Understand the bullish homing pigeon candlestick pattern as a signal for potential bullish reversals, crucial for algorithmic trading and enhancing predictive models."
 ---
 

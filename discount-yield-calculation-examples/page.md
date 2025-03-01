@@ -1,5 +1,5 @@
 ---
-title: "Discount Yield: Calculation and Examples (Algo Trading)"
+title: "Discount Yield: Calculation and Examples"
 description: "Explore the importance of discount yield in finance its calculation methods and its role in making informed algorithmic trading decisions for short-term investments"
 ---
 

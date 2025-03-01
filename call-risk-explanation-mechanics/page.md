@@ -1,5 +1,5 @@
 ---
-title: "Call Risk: Explanation and Mechanics (Algo Trading)"
+title: "Call Risk: Explanation and Mechanics"
 description: "Explore the complexities of call risk in bond investments and learn how algorithmic trading can help mitigate these risks, securing better returns for investors."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Dividend discount model (Algo Trading)"
+title: "Dividend discount model"
 description: "Unlock the power of the Dividend Discount Model in algo trading to assess stock value through future dividends, merging traditional and modern trading tactics."
 ---
 

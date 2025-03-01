@@ -1,5 +1,5 @@
 ---
-title: "Indicators for Exiting a Trade (Algo Trading)"
+title: "Indicators for Exiting a Trade"
 description: "Master the art of exiting trades with effective strategies and trading signals in algorithmic trading to optimize profits and manage risks."
 ---
 

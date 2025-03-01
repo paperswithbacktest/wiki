@@ -1,5 +1,5 @@
 ---
-title: "History and Schools of Thought in Macroeconomics (Algo Trading)"
+title: "History and Schools of Thought in Macroeconomics"
 description: "Explore the impact of economic schools of thought on macroeconomics from classical to Keynesian theories Understanding these frameworks is key to economic policy."
 ---
 

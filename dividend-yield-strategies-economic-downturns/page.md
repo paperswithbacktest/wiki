@@ -1,5 +1,5 @@
 ---
-title: "Dividend Yield Strategies During Economic Downturns (Algo Trading)"
+title: "Dividend Yield Strategies During Economic Downturns"
 description: "Discover how to protect your investments during economic downturns using a blend of dividend yield strategies and algorithmic trading for optimal resilience."
 ---
 

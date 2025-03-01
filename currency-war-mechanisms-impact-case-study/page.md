@@ -1,5 +1,5 @@
 ---
-title: "Currency War: Mechanisms and Impact with Case Study (Algo Trading)"
+title: "Currency War: Mechanisms and Impact with Case Study"
 description: "Explore the complexities of currency wars influencing global finance, trade, and algorithmic trading, and understand their economic impacts and strategic responses."
 ---
 

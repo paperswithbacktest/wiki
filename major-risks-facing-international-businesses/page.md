@@ -1,5 +1,5 @@
 ---
-title: "Major Risks Facing International Businesses (Algo Trading)"
+title: "Major Risks Facing International Businesses"
 description: "Explore the major risks international businesses face, from currency fluctuations to algorithmic trading, and learn strategies to mitigate these challenges."
 ---
 

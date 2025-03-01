@@ -1,5 +1,5 @@
 ---
-title: "Business setup (Algo Trading)"
+title: "Business setup"
 description: Explore the world of algorithmic trading on our page and learn how technology is transforming financial markets. Discover the benefits of automated trading, including enhanced speed, precision, and efficiency. Understand the role of High-Frequency Trading and systematic strategies in minimizing errors and optimizing returns. Whether you're considering starting an algorithmic trading business or simply interested in the topic, our comprehensive guide offers valuable insights into the trading environment, regulatory compliance, risk management, and essential infrastructure. Stay informed about the latest trends and strategies that are shaping the future of finance.
 ---
 

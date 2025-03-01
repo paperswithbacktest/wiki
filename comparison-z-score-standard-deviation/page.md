@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Z-Score and Standard Deviation (Algo Trading)"
+title: "Comparison of Z-Score and Standard Deviation"
 description: "Explore the essential roles of Z-Score and standard deviation in algorithmic trading to assess market volatility and manage risk effectively."
 ---
 

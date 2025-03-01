@@ -1,5 +1,5 @@
 ---
-title: "Gender Equality as a Catalyst for ESG Investment Funds (Algo Trading)"
+title: "Gender Equality as a Catalyst for ESG Investment Funds"
 description: "Explore how gender equality acts as a catalyst for ESG investment funds and algorithmic trading driving sustainable financial growth through diverse leadership."
 ---
 

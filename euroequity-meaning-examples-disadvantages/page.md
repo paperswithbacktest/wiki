@@ -1,5 +1,5 @@
 ---
-title: "Euroequity: Meaning, Examples, and Disadvantages (Algo Trading)"
+title: "Euroequity: Meaning, Examples, and Disadvantages"
 description: "Explore the interaction between Euroequity offerings and algorithmic trading in international finance to improve market efficiency and investor accessibility."
 ---
 

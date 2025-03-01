@@ -1,5 +1,5 @@
 ---
-title: "Bond ETFs: Types, Examples, and Investment Strategies (Algo Trading)"
+title: "Bond ETFs: Types, Examples, and Investment Strategies"
 description: "Explore the world of Bond ETFs and discover investment strategies that leverage diversification, liquidity, and flexibility. This article investigates into various types of Bond ETFs, highlights the impact of algorithmic trading on investment execution, and offers insights into constructing efficient portfolios to meet financial objectives and risk preferences."
 ---
 

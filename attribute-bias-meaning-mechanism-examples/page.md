@@ -1,5 +1,5 @@
 ---
-title: "Attribute Bias: Meaning, Mechanism, and Examples (Algo Trading)"
+title: "Attribute Bias: Meaning, Mechanism, and Examples"
 description: "Explore the impact of cognitive and attribute biases in algorithmic trading and discover techniques to mitigate their influence for optimized trading strategies."
 ---
 

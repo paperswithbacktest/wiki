@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Physical Gold and Gold Funds (Algo Trading)"
+title: "Comparison of Physical Gold and Gold Funds"
 description: "Discover the benefits and risks of investing in physical gold versus gold funds. Explore how algorithmic trading introduces modern strategies for gold investment."
 ---
 

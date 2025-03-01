@@ -1,5 +1,5 @@
 ---
-title: "Limited Power of Attorney: Types and Forms (Algo Trading)"
+title: "Limited Power of Attorney: Types and Forms"
 description: "Explore the essentials of Limited Power of Attorney in algo trading including its types and how it enables financial control while delegating specific tasks."
 ---
 

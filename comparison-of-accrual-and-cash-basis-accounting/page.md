@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Accrual and Cash Basis Accounting (Algo Trading)"
+title: "Comparison of Accrual and Cash Basis Accounting"
 description: "Explore the differences between cash and accrual accounting methods for algo trading. Learn which accounting strategy best suits your financial planning needs."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Arbitrage in Finance (Algo Trading)"
+title: "Arbitrage in Finance"
 description: "Explore the dynamic world of arbitrage finance and algorithmic trading as these strategies merge to unlock profit opportunities by exploiting market inefficiencies. Arbitrage involves buying low in one market and selling high in another while algo trading automates trades based on set criteria without human emotions. This combination enhances trade execution speed and accuracy in volatile and liquid markets facilitating high-frequency trading that captures fleeting price discrepancies. Discover how traders leverage sophisticated algorithms and technology to optimize trading performance and seize fleeting opportunities with precision and efficiency."
 ---
 

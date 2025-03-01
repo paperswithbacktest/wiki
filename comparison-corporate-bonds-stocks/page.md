@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Corporate Bonds and Stocks (Algo Trading)"
+title: "Comparison of Corporate Bonds and Stocks"
 description: "Explore the key differences between corporate bonds and stocks in this insightful guide. Learn about their risks, rewards, and role of algorithmic trading."
 ---
 

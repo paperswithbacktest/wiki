@@ -1,5 +1,5 @@
 ---
-title: "History and Development of the Welfare State (Algo Trading)"
+title: "History and Development of the Welfare State"
 description: "Explore the history and development of welfare states and their impact on modern social systems through examining diverse policies and global influences. This article investigates into how these systems have evolved to address economic inequalities and societal well-being, reflecting changing political ideologies and economic conditions. Discover the role of welfare states in shaping social security, healthcare, and education, and their interaction with innovations like algorithmic trading. Understand the criticisms and challenges faced by welfare systems as they adapt to new realities in an increasingly interconnected world."
 ---
 

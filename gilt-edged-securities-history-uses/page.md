@@ -1,5 +1,5 @@
 ---
-title: "Gilt-Edged Securities: History and Uses (Algo Trading)"
+title: "Gilt-Edged Securities: History and Uses"
 description: "Explore the history and uses of gilt-edged securities in algo trading Discover how these government-backed bonds and modern trading strategies can enhance your investments"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Horizontal Channel: Definition and Functionality with Examples (Algo Trading)"
+title: "Horizontal Channel: Definition and Functionality with Examples"
 description: "Discover how horizontal channels can enhance trading strategies with algo trading. Learn to identify support and resistance levels for better decision-making."
 ---
 

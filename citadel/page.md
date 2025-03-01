@@ -1,5 +1,5 @@
 ---
-title: "Citadel (Algo Trading)"
+title: "Citadel"
 description: "Discover Citadel's prowess in algorithmic trading where high-speed, data-driven strategies enhance market efficiency through advanced technology and innovation."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Common Mistakes by Investors and Traders (Algo Trading)"
+title: "Common Mistakes by Investors and Traders"
 description: "Avoid common investor and trader mistakes in algorithmic trading with a well-defined strategy and risk management. Learn to adapt and enhance performance."
 ---
 

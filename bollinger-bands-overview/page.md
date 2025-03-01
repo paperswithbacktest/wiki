@@ -1,5 +1,5 @@
 ---
-title: "Bollinger Bands: An Overview (Algo Trading)"
+title: "Bollinger Bands: An Overview"
 description: "Explore the utility of Bollinger Bands in technical and algorithmic trading as a vital tool for assessing market volatility and potential price movements Developed by John Bollinger in the 1980s this article details how Bollinger Bands function using a simple moving average flanked by dynamic standard deviation lines Learn how traders leverage this adaptable indicator to identify overbought or oversold conditions and automate trading strategies for optimal decision making in varying market environments"
 ---
 

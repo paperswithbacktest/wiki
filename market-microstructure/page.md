@@ -1,5 +1,5 @@
 ---
-title: "Market microstructure (Algo Trading)"
+title: "Market microstructure"
 description: Market microstructure is a key finance area studying asset exchange under set trading rules, focusing on price dynamics, liquidity, and market efficiency. It's crucial for both financial experts and algorithmic traders, offering insights on interactions among traders, intermediaries, and market structures. In algorithmic trading, understanding market microstructure aids in optimizing strategies by analyzing transaction costs, price formation, volatility, liquidity, and information dissemination. This knowledge helps improve trade execution and profitability, making it essential for modern trading strategies in the evolving financial landscape.
 ---
 

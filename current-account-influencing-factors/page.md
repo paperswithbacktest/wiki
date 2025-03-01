@@ -1,5 +1,5 @@
 ---
-title: "Current Account and Its Influencing Factors (Algo Trading)"
+title: "Current Account and Its Influencing Factors"
 description: "Discover the intricate links between international trade and current account balances highlighting how trade policies and algorithmic trading reshape global markets."
 ---
 

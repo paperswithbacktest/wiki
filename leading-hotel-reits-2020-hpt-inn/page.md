@@ -1,5 +1,5 @@
 ---
-title: "Leading Hotel REITs in 2020: HPT and INN (Algo Trading)"
+title: "Leading Hotel REITs in 2020: HPT and INN"
 description: "Explore the role of algorithmic trading in optimizing investments in leading hotel REITs HPT and INN Discover strategic insights for maximizing returns"
 ---
 

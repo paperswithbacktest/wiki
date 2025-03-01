@@ -1,5 +1,5 @@
 ---
-title: "Consumer Packaged Goods Vs. Durable Goods (Algo Trading)"
+title: "Consumer Packaged Goods Vs. Durable Goods"
 description: "Explore how algorithmic trading transforms market strategies in durable and consumer packaged goods industries by offering data-driven insights and strategic advantages."
 ---
 

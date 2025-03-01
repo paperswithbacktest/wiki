@@ -1,5 +1,5 @@
 ---
-title: "Common Forex Trading Risks (Algo Trading)"
+title: "Common Forex Trading Risks"
 description: "Explore the common risks associated with forex and algorithmic trading including market volatility leverage effects and system failures to safeguard your investments."
 ---
 

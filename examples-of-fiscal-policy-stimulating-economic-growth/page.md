@@ -1,5 +1,5 @@
 ---
-title: "Examples of Fiscal Policy Stimulating Economic Growth (Algo Trading)"
+title: "Examples of Fiscal Policy Stimulating Economic Growth"
 description: "Explore how fiscal policy stimulates economic growth and the role of algorithmic trading in modern markets. Ideal for policymakers and investors seeking insights."
 ---
 

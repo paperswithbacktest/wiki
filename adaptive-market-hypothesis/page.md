@@ -1,5 +1,5 @@
 ---
-title: "Adaptive Market Hypothesis (Algo Trading)"
+title: "Adaptive Market Hypothesis"
 description: "Discover the Adaptive Market Hypothesis which blends evolution and finance to offer a fresh perspective on market dynamics and inform adaptive trading strategies."
 ---
 

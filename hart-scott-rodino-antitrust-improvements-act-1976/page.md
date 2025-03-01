@@ -1,5 +1,5 @@
 ---
-title: "Hart-Scott-Rodino Antitrust Improvements Act of 1976 (Algo Trading)"
+title: "Hart-Scott-Rodino Antitrust Improvements Act of 1976"
 description: "Explore the Hart-Scott-Rodino Act's impact on algorithmic trading detailing its role in premerger notifications and maintaining market competitiveness."
 ---
 

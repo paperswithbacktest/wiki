@@ -1,5 +1,5 @@
 ---
-title: "Backtesting: Process and Limitations (Algo Trading)"
+title: "Backtesting: Process and Limitations"
 description: "Explore the process and limitations of backtesting in algorithmic trading and uncover how these methods enhance strategy development while mitigating risks."
 ---
 

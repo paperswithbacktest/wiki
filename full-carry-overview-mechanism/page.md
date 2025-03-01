@@ -1,5 +1,5 @@
 ---
-title: "Full Carry: Overview and Mechanism (Algo Trading)"
+title: "Full Carry: Overview and Mechanism"
 description: "Explore how the full carry mechanism in algorithmic trading optimizes results by assessing costs and exploiting market inefficiencies for enhanced gains."
 ---
 

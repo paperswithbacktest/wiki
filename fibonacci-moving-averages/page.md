@@ -1,5 +1,5 @@
 ---
-title: "Fibonacci Moving Averages Explained (Algo Trading)"
+title: "Fibonacci Moving Averages Explained"
 description: Discover how Fibonacci moving averages enhance algorithmic trading by incorporating numbers from the Fibonacci sequence to identify key support and resistance levels in price trends. This method empowers traders with a sophisticated tool for technical analysis, improving trend forecasts and decision-making in trading strategies.
 ---
 

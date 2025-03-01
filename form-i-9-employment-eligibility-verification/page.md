@@ -1,5 +1,5 @@
 ---
-title: "Form I-9: Employment Eligibility Verification (Algo Trading)"
+title: "Form I-9: Employment Eligibility Verification"
 description: "Explore the critical roles of I-9 employment verification and algorithmic trading in ensuring compliance in employment practices and financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Economic Growth Rate Overview and Calculation (Algo Trading)"
+title: "Economic Growth Rate Overview and Calculation"
 description: "Explore the intricate relationship between economic growth rates and algorithmic trading to enhance trading strategies and improve decision-making in global markets."
 ---
 

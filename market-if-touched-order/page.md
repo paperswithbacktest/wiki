@@ -1,5 +1,5 @@
 ---
-title: "Market-If-Touched Order (Algo Trading)"
+title: "Market-If-Touched Order"
 description: "Optimize your trading strategy with Market-if-Touched (MIT) orders Learn how they automate market engagement streamline decision-making and manage risks effectively"
 ---
 

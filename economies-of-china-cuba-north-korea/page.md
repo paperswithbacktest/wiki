@@ -1,5 +1,5 @@
 ---
-title: "Economies of China, Cuba, and North Korea (Algo Trading)"
+title: "Economies of China, Cuba, and North Korea"
 description: "Explore the unique socialist economies of China, Cuba, and North Korea, their technological integration, and the global impact of their distinct economic models."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Average Return: Concepts and Calculations (Algo Trading)"
+title: "Average Return: Concepts and Calculations"
 description: "Explore key concepts of average returns in algo trading and learn calculations to optimize investment performance and improve decision-making in dynamic markets."
 ---
 

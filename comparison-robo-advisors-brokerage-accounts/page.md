@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Robo-Advisors and Brokerage Accounts (Algo Trading)"
+title: "Comparison of Robo-Advisors and Brokerage Accounts"
 description: "Explore the differences between robo-advisors and traditional brokerage accounts in the world of algo trading to align your investment strategies effectively."
 ---
 

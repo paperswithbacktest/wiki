@@ -1,5 +1,5 @@
 ---
-title: "Methods for Trading Options (Algo Trading)"
+title: "Methods for Trading Options"
 description: "Discover advanced methods for trading options in algorithmic trading to maximize portfolio performance by leveraging financial derivatives and automated strategies."
 ---
 

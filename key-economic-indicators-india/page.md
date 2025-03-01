@@ -1,5 +1,5 @@
 ---
-title: "Key Economic Indicators of India (Algo Trading)"
+title: "Key Economic Indicators of India"
 description: "Explore how key economic indicators drive algo trading in India. Understand the metrics, trends, and data sources shaping investment strategies."
 ---
 

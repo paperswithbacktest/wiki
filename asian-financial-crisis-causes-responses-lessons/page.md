@@ -1,5 +1,5 @@
 ---
-title: "Asian Financial Crisis: Causes, Responses, and Lessons (Algo Trading)"
+title: "Asian Financial Crisis: Causes, Responses, and Lessons"
 description: "Explore the Asian Financial Crisis of 1997 its causes economic responses and the evolution of algorithmic trading to gain insights into modern financial markets."
 ---
 

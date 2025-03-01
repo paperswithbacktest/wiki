@@ -1,5 +1,5 @@
 ---
-title: "Bank Merger Review Modernization Act (Algo Trading)"
+title: "Bank Merger Review Modernization Act"
 description: "Explore the complexities of financial regulation in the context of the Bank Merger Review Modernization Act focusing on bank mergers and algorithmic trading. Understand the evolution of financial regulation and its role in fostering innovation while ensuring stability across systems. Discover key historical milestones, modernization trends, and the intricate balance regulators must maintain to address challenges in today's rapidly evolving financial landscape."
 ---
 

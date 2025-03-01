@@ -1,5 +1,5 @@
 ---
-title: "Capital Markets Trading (Algo Trading)"
+title: "Capital Markets Trading"
 description: "Explore how algorithmic trading is transforming capital markets by enhancing trade efficiency minimizing costs and offering advanced strategies for investors."
 ---
 

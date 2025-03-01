@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning (Algo Trading)"
+title: "Deep Learning"
 description: Dive into Deep Learning, the game-changing concept in artificial intelligence, and its impact on algorithmic trading. Learn about pattern recognition, accurate predictions, managing unstructured data, and challenges. Explore use cases and resources for deeper understanding.
 ---
 

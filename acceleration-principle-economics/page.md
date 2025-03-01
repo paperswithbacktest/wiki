@@ -1,5 +1,5 @@
 ---
-title: "Acceleration Principle in Economics (Algo Trading)"
+title: "Acceleration Principle in Economics"
 description: "Explore how economic principles like the acceleration principle and algorithmic trading shape modern financial markets and guide investment strategies."
 ---
 

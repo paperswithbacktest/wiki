@@ -1,5 +1,5 @@
 ---
-title: "Actual Return: Definition and Examples (Algo Trading)"
+title: "Actual Return: Definition and Examples"
 description: "Unlock the potential of algorithmic trading to boost investment returns by leveraging technology for accurate decision-making and performance optimization."
 ---
 

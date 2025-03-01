@@ -1,5 +1,5 @@
 ---
-title: "Capped Index (Algo Trading)"
+title: "Capped Index"
 description: "Discover the fundamentals of capped index, index funds, and algorithmic trading in financial markets to enhance risk management and optimize portfolio performance."
 ---
 

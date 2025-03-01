@@ -1,5 +1,5 @@
 ---
-title: "Adam Smith: The Wealth of Nations (Algo Trading)"
+title: "Adam Smith: The Wealth of Nations"
 description: "Explore Adam Smith's economic principles and their influence on modern algorithmic trading which seeks market efficiency through advanced technologies."
 ---
 

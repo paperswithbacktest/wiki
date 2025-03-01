@@ -1,5 +1,5 @@
 ---
-title: "Calculated Intangible Value (Algo Trading)"
+title: "Calculated Intangible Value"
 description: "Discover how the CIV method and algorithmic trading combine to accurately assess intangible asset value in evolving markets explore tools to gain an edge."
 ---
 

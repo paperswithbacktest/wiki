@@ -1,5 +1,5 @@
 ---
-title: "Liquidity detection algorithms (Algo Trading)"
+title: "Liquidity detection algorithms"
 description: "Liquidity detection algorithms enhance trading by optimizing execution of large trades with minimal market impact leveraging advanced data analysis and machine learning."
 ---
 

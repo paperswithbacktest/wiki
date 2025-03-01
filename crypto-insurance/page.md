@@ -1,5 +1,5 @@
 ---
-title: "Crypto Insurance (Algo Trading)"
+title: "Crypto Insurance"
 description: "Explore the transformative role of blockchain technology in redefining traditional insurance models with a focus on crypto insurance for digital assets. This evolving space in the finance sector addresses the need for protective measures against digital currency losses, particularly in algorithmic trading. Learn how innovative insurance products are safeguarding assets against cyber threats and technical failures, while navigating regulatory challenges. Stay informed about the intricacies and developments in blockchain and crypto insurance to effectively mitigate risk in the growing digital market landscape."
 ---
 

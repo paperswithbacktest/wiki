@@ -1,5 +1,5 @@
 ---
-title: "History of Bitcoin Forks (Algo Trading)"
+title: "History of Bitcoin Forks"
 description: "Explore Bitcoin hard forks and their impact on crypto trading including algorithmic strategies for better decision-making in this evolving financial landscape."
 ---
 

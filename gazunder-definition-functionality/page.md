@@ -1,5 +1,5 @@
 ---
-title: "Gazunder: Definition and Functionality (Algo Trading)"
+title: "Gazunder: Definition and Functionality"
 description: "Explore the controversial practice of gazundering in UK real estate and its implications in market negotiations Learn how algorithmic trading tools can aid in this dynamic landscape"
 ---
 

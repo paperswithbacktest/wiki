@@ -1,5 +1,5 @@
 ---
-title: "Average Return on Equity of Banks (Algo Trading)"
+title: "Average Return on Equity of Banks"
 description: "Explore the significance of Return on Equity in evaluating banks' performance and its application in algorithmic trading to identify high-efficiency stocks."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Dollar runs bars (DRBs) (Algo Trading)"
+title: "Dollar runs bars (DRBs)"
 description: Discover the innovative approach of Dollar Runs Bars (DRBs) in algorithmic trading, where data aggregation is aligned with transaction value for more precise market insights. Unlike traditional time-based methods, DRBs adapt to financial activity, ensuring consistent data sampling that enhances trading strategies and decision-making. Explore the benefits of DRBs, offering a refined analytical perspective that addresses the shortcomings of conventional data structures and supports robust analysis in dynamic financial markets.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of REITs and ETFs for Retirees (Algo Trading)"
+title: "Comparison of REITs and ETFs for Retirees"
 description: "Explore the benefits and challenges of REITs, ETFs, and algorithmic trading for retirees, helping you make informed investment decisions for financial stability."
 ---
 

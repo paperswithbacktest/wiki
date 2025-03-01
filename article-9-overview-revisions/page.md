@@ -1,5 +1,5 @@
 ---
-title: "Article 9: Overview and Revisions (Algo Trading)"
+title: "Article 9: Overview and Revisions"
 description: "Explore the significance of UCC Article 9, focusing on its impact on algorithmic trading. Understand revisions that address trading complexities and enhance regulatory compliance."
 ---
 

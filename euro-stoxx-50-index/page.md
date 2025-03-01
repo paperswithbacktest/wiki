@@ -1,5 +1,5 @@
 ---
-title: "EURO STOXX 50 Index Overview (Algo Trading)"
+title: "EURO STOXX 50 Index Overview"
 description: "Explore the EURO STOXX 50 index and its interaction with algorithmic trading techniques offering insights into the European financial markets and trading strategies."
 ---
 

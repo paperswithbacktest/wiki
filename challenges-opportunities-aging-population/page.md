@@ -1,5 +1,5 @@
 ---
-title: "Challenges and Opportunities of an Aging Population (Algo Trading)"
+title: "Challenges and Opportunities of an Aging Population"
 description: "Explore how the aging global population and the rise of algorithmic trading are reshaping financial markets, presenting challenges and opportunities for investors."
 ---
 

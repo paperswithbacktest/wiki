@@ -1,5 +1,5 @@
 ---
-title: "Cuban Peso: Overview, History, and Related Currencies (Algo Trading)"
+title: "Cuban Peso: Overview, History, and Related Currencies"
 description: "Explore the Cuban Peso's history and its role in Cuba's economy amidst evolving global trading landscapes and the impact of algorithmic trading."
 ---
 

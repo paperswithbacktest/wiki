@@ -1,5 +1,5 @@
 ---
-title: "Covered Straddle: Functionality and Examples (Algo Trading)"
+title: "Covered Straddle: Functionality and Examples"
 description: "Explore the covered straddle strategy in algo trading Discover how owning an asset and selling call and put options can profit in stable markets with automation"
 ---
 

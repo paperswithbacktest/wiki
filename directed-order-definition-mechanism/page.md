@@ -1,5 +1,5 @@
 ---
-title: "Directed Order: Definition and Mechanism (Algo Trading)"
+title: "Directed Order: Definition and Mechanism"
 description: "Explore how directed orders and algorithmic trading enhance market strategies and execution efficiency with advanced technologies, minimizing errors while optimizing trade outcomes."
 ---
 

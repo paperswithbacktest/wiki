@@ -1,5 +1,5 @@
 ---
-title: "Liquidity Risk Premium (Algo Trading)"
+title: "Liquidity Risk Premium"
 description: Discover the concept of Liquidity Risk Premium in finance and its significance in algorithmic trading. Learn how academic research supports this risk factor, its impact on less liquid assets, and risks to consider. Maximize returns while managing risks with algo strategies. Explore resources for further study.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Insider Stock Purchases: Tracking Methods (Algo Trading)"
+title: "Insider Stock Purchases: Tracking Methods"
 description: "Explore the dynamic world of financial strategies with insights into insider stock purchases, stock market investing, and algorithmic trading. This guide breaks down key approaches to enhance your investment portfolio by interpreting insider buying patterns, employing diverse stock market strategies, and leveraging algorithmic trading for efficient, bias-free decisions. Equip yourself with comprehensive knowledge to maximize returns and manage risks in today's market landscape."
 ---
 

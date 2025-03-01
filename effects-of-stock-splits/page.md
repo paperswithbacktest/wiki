@@ -1,5 +1,5 @@
 ---
-title: "Effects of Stock Splits (Algo Trading)"
+title: "Effects of Stock Splits"
 description: "Explore the impacts of stock splits and algorithmic trading on financial markets. Gain insights into investing strategies and market dynamics post-split."
 ---
 

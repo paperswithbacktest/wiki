@@ -1,5 +1,5 @@
 ---
-title: "Automated Trade Surveillance (Algo Trading)"
+title: "Automated Trade Surveillance"
 description: "Explore the intersection of AI and automated trade surveillance to revolutionize trading monitoring, ensuring market integrity and investor protection in evolving markets."
 ---
 

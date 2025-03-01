@@ -1,5 +1,5 @@
 ---
-title: "Interactive Brokers Group (Algo Trading)"
+title: "Interactive Brokers Group"
 description: "Explore the influence of algorithmic trading on modern investing with Interactive Brokers. Learn how these platforms enhance trading efficiency and empower investors."
 ---
 

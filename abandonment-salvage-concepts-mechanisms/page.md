@@ -1,5 +1,5 @@
 ---
-title: "Abandonment and Salvage: Concepts and Mechanisms (Algo Trading)"
+title: "Abandonment and Salvage: Concepts and Mechanisms"
 description: "Explore the complex interplay between abandonment salvage and algorithmic trading revealing crucial legal and financial dynamics affecting modern market structures."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Basis Rate Swap and Basis Risk (Algo Trading)"
+title: "Basis Rate Swap and Basis Risk"
 description: "Explore the intricate world of basis rate swaps and basis risk in algorithmic trading Discover how these financial derivatives aid in strategic risk management."
 ---
 

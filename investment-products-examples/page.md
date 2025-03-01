@@ -1,5 +1,5 @@
 ---
-title: "Investment Products and Examples (Algo Trading)"
+title: "Investment Products and Examples"
 description: "Explore investment products including stocks, bonds, mutual funds, and algorithmic trading This page offers insights into optimizing portfolio performance"
 ---
 

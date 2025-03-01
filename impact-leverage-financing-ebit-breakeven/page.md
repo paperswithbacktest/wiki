@@ -1,5 +1,5 @@
 ---
-title: "Impact of Leverage and Financing Plans on EBIT Breakeven (Algo Trading)"
+title: "Impact of Leverage and Financing Plans on EBIT Breakeven"
 description: "Explore how leverage and financing plans impact EBIT breakeven in algo trading to enhance corporate finance strategies for sustained profitability and growth."
 ---
 

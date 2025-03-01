@@ -1,5 +1,5 @@
 ---
-title: "Double Barrier Options: Explanation and Types (Algo Trading)"
+title: "Double Barrier Options: Explanation and Types"
 description: "Explore the fascinating world of double barrier options in algo trading Discover their unique features and potential in advanced trading strategies."
 ---
 

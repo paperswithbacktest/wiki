@@ -1,5 +1,5 @@
 ---
-title: "Asset Retirement Obligation (Algo Trading)"
+title: "Asset Retirement Obligation"
 description: "Discover how understanding asset retirement obligations and leveraging algo trading strategies can shape robust financial plans for long-term stability."
 ---
 

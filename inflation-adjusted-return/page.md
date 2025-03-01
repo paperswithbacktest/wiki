@@ -1,5 +1,5 @@
 ---
-title: "Inflation-Adjusted Return (Algo Trading)"
+title: "Inflation-Adjusted Return"
 description: "Explore inflation-adjusted returns and algorithmic trading for a true understanding of investment performance. Learn how to optimize returns in inflationary times."
 ---
 

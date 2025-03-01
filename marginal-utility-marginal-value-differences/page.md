@@ -1,5 +1,5 @@
 ---
-title: "Marginal Utility and Marginal Value: Differences (Algo Trading)"
+title: "Marginal Utility and Marginal Value: Differences"
 description: "Learn the differences between marginal utility and marginal value and their impact on algorithmic trading strategies Explore how these concepts enhance decision-making"
 ---
 

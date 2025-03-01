@@ -1,5 +1,5 @@
 ---
-title: "Lion Economies: Overview, Investment Opportunities, and Common Questions (Algo Trading)"
+title: "Lion Economies: Overview, Investment Opportunities, and Common Questions"
 description: "Discover the dynamic potential of Lion Economies, a group of rapidly growing African nations that mirror Asia's Tiger Economies. Explore investment opportunities in sectors like technology, infrastructure, and energy, driven by strong economic growth and favorable government policies. Learn how algorithmic trading can optimize investments in these emerging markets, capitalizing on their abundant resources and young populations. Uncover strategic insights into maximizing returns and minimizing risks in Africa's burgeoning economic landscape."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Berkshire Hathaway Class A and Class B Shares (Algo Trading)"
+title: "Comparison of Berkshire Hathaway Class A and Class B Shares"
 description: "Explore the differences between Berkshire Hathaway Class A (BRK.A) and Class B (BRK.B) shares in this comprehensive analysis. Gain insights into historical context, pricing, voting rights, and convertibility while understanding the impact of algorithmic trading on investor decision-making. Ideal for investors looking to align their financial goals with Berkshire Hathaway's unique stock offerings."
 ---
 

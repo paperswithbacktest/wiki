@@ -1,5 +1,5 @@
 ---
-title: "Conditionality: Meaning, Types, and Criticism (Algo Trading)"
+title: "Conditionality: Meaning, Types, and Criticism"
 description: "Explore the pivotal role of conditionality in economic policies and algorithmic trading. Understand its meaning types and the criticism it faces today."
 ---
 

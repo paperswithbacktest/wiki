@@ -1,5 +1,5 @@
 ---
-title: "Economic Life and Depreciation Factors (Algo Trading)"
+title: "Economic Life and Depreciation Factors"
 description: "Explore the intricate connections between economic life, asset management, depreciation, and algorithmic trading to refine financial strategies and decisions."
 ---
 

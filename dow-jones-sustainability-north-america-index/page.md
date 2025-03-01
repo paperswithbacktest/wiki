@@ -1,5 +1,5 @@
 ---
-title: "Dow Jones Sustainability North America Index (Algo Trading)"
+title: "Dow Jones Sustainability North America Index"
 description: "Discover how the Dow Jones Sustainability North America Index and algorithmic trading converge to create efficient strategies for sustainable investing."
 ---
 

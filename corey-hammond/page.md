@@ -1,5 +1,5 @@
 ---
-title: "Corey Hammond (Algo Trading)"
+title: "Corey Hammond"
 description: "Discover Corey Hammond's journey from Australia to Senior Trader at Akuna Capital where he excels in algorithmic trading and contributes to automated systems."
 ---
 

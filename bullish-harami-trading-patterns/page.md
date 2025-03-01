@@ -1,5 +1,5 @@
 ---
-title: "Bullish Harami in Trading and Related Patterns (Algo Trading)"
+title: "Bullish Harami in Trading and Related Patterns"
 description: "Explore the Bullish Harami pattern in trading, a key candlestick indicator for spotting trend reversals Ideal for algorithmic strategies and informed decisions"
 ---
 

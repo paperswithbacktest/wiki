@@ -1,5 +1,5 @@
 ---
-title: "Difference Between Revenue and Income (Algo Trading)"
+title: "Difference Between Revenue and Income"
 description: "Understand the crucial difference between revenue and income in algo trading to gain a competitive edge in finance with insights into market strategy and profitability."
 ---
 

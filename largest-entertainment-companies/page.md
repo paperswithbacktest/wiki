@@ -1,5 +1,5 @@
 ---
-title: "Largest Entertainment Companies (Algo Trading)"
+title: "Largest Entertainment Companies"
 description: "Explore how the largest entertainment companies like Comcast, Disney, and Sony innovate and adapt with technology and algorithmic trading, influencing global markets."
 ---
 

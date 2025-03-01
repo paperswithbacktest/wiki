@@ -1,5 +1,5 @@
 ---
-title: "Gemini Exchange: Overview and Offerings (Algo Trading)"
+title: "Gemini Exchange: Overview and Offerings"
 description: "Explore Gemini Exchange's secure platform for cryptocurrency trading featuring algorithmic trading to enhance precision and efficiency ideal for novices and experts."
 ---
 

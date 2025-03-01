@@ -1,5 +1,5 @@
 ---
-title: "Grandfathered Bond: Overview and Functionality (Algo Trading)"
+title: "Grandfathered Bond: Overview and Functionality"
 description: "Explore how grandfathered bonds combine with algorithmic trading for optimized financial strategies offering reliable income, stability, and market dynamics."
 ---
 

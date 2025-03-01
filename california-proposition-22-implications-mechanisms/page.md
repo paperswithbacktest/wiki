@@ -1,5 +1,5 @@
 ---
-title: "California Proposition 22: Implications and Mechanisms (Algo Trading)"
+title: "California Proposition 22: Implications and Mechanisms"
 description: "Explore the impact of California Proposition 22 on gig workers and labor laws with insights into its implications for flexibility innovation and worker protection."
 ---
 

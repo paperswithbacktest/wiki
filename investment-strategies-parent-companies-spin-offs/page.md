@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategies for Parent Companies and Spin-offs (Algo Trading)"
+title: "Investment Strategies for Parent Companies and Spin-offs"
 description: "Explore how investment strategies intertwine with spin-offs, parent companies, and algorithmic trading for enhanced market insights and portfolio performance."
 ---
 

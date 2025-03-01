@@ -1,5 +1,5 @@
 ---
-title: "Largest Private Oil Companies Worldwide (Algo Trading)"
+title: "Largest Private Oil Companies Worldwide"
 description: "Explore the impact of large private oil companies and algorithmic trading on global energy markets focusing on innovation efficiency and market dynamics."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Ex-Rights in Finance (Algo Trading)"
+title: "Ex-Rights in Finance"
 description: "Explore how ex-rights finance calculations enhance algorithmic trading, optimizing strategies with precise stock pricing adjustments due to rights issues."
 ---
 

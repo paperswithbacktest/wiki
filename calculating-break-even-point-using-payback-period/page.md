@@ -1,5 +1,5 @@
 ---
-title: "Calculating Break-Even Point Using Payback Period (Algo Trading)"
+title: "Calculating Break-Even Point Using Payback Period"
 description: "Learn to calculate your break-even point using the payback period in algo trading Discover how these metrics improve strategies and enhance profitability"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Hong Kong Exchange-Traded Funds (Algo Trading)"
+title: "Hong Kong Exchange-Traded Funds"
 description: "Explore how Hong Kong's ETF market and algorithmic trading are transforming investing, offering diversified, efficient, and innovative strategies for investors."
 ---
 

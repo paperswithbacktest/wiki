@@ -1,5 +1,5 @@
 ---
-title: "Crack Spread and Trading Techniques (Algo Trading)"
+title: "Crack Spread and Trading Techniques"
 description: "Explore crack spreads and algorithmic trading techniques to optimize trading strategies and maximize profits in the commodities market. Gain insights today!"
 ---
 

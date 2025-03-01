@@ -1,5 +1,5 @@
 ---
-title: "Gapping in Financial Markets (Algo Trading)"
+title: "Gapping in Financial Markets"
 description: "Explore the phenomenon of gapping in financial markets and its impact on trading strategies Understand price shifts between trading sessions to enhance trading performance"
 ---
 

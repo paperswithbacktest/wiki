@@ -1,5 +1,5 @@
 ---
-title: "International Energy Agency: Purpose, Functionality, Members (Algo Trading)"
+title: "International Energy Agency: Purpose, Functionality, Members"
 description: "Discover the pivotal role of the International Energy Agency in global energy markets and the impact of algorithmic trading on energy strategies and sustainability."
 ---
 

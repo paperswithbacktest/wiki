@@ -1,5 +1,5 @@
 ---
-title: "Average Margin Per User (Algo Trading)"
+title: "Average Margin Per User"
 description: "Explore the importance of Average Margin Per User in algorithmic trading by understanding profitability, operational costs, and integration with trading metrics."
 ---
 

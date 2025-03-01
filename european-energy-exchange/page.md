@@ -1,5 +1,5 @@
 ---
-title: "European Energy Exchange (Algo Trading)"
+title: "European Energy Exchange"
 description: "Explore the transformative impact of algorithmic trading at the European Energy Exchange enhancing market dynamics and supporting Europe's sustainable energy goals."
 ---
 

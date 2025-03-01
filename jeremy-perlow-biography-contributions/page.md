@@ -1,5 +1,5 @@
 ---
-title: "Jeremy Perlow: Biography and Contributions (Algo Trading)"
+title: "Jeremy Perlow: Biography and Contributions"
 description: "Jeremy Perlow is a key figure in futures and algo trading known for pioneering tech-driven market strategies enhancing trading efficiency and education."
 ---
 

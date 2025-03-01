@@ -1,5 +1,5 @@
 ---
-title: "Alpha Risk: Definition and Examples (Algo Trading)"
+title: "Alpha Risk: Definition and Examples"
 description: "Discover alpha risk in hypothesis testing and its impact on algorithmic trading Learn how to manage alpha risk to improve trading strategy reliability"
 ---
 

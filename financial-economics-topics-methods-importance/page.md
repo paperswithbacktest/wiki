@@ -1,5 +1,5 @@
 ---
-title: "Financial Economics: Topics, Methods, and Importance (Algo Trading)"
+title: "Financial Economics: Topics, Methods, and Importance"
 description: "Explore the crucial role of financial economics and algorithmic trading in modern markets by understanding economic methods and their impact on investment strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Like-for-Like Sales: Overview and Improvement Strategies (Algo Trading)"
+title: "Like-for-Like Sales: Overview and Improvement Strategies"
 description: "Explore the importance of like-for-like sales in retail performance and how algorithmic trading influences sales strategies for sustainable growth and success."
 ---
 

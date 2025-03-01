@@ -1,5 +1,5 @@
 ---
-title: "Fund Run: Mechanism and Example (Algo Trading)"
+title: "Fund Run: Mechanism and Example"
 description: "Discover how algorithmic trading impacts fund runs and financial panics. Understand the dynamics and strategies shaping today's volatile financial markets."
 ---
 

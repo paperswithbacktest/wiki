@@ -1,5 +1,5 @@
 ---
-title: "Carrying Value in Accounting (Algo Trading)"
+title: "Carrying Value in Accounting"
 description: "Explore the key concepts of accounting carrying value algorithmic trading and balance sheets to enhance your understanding of the financial ecosystem and make informed decisions"
 ---
 

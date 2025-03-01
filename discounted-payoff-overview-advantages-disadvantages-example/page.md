@@ -1,5 +1,5 @@
 ---
-title: "Discounted Payoff: Overview, Advantages and Disadvantages, Example (Algo Trading)"
+title: "Discounted Payoff: Overview, Advantages and Disadvantages, Example"
 description: "Explore the concept of discounted payoff in finance including its advantages and disadvantages in investment evaluation and its role in algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Covariance Impact on Portfolio Risk and Return (Algo Trading)"
+title: "Covariance Impact on Portfolio Risk and Return"
 description: "Explore the interplay of risk and return in portfolios through the concepts of covariance and algorithmic trading to optimize investment strategies effectively."
 ---
 

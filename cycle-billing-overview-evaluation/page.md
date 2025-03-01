@@ -1,5 +1,5 @@
 ---
-title: "Cycle Billing: Overview and Evaluation (Algo Trading)"
+title: "Cycle Billing: Overview and Evaluation"
 description: "Cycle billing optimizes cash flow and workload by distributing billing tasks across periods. It's crucial for managing finances in industries like utilities and subscriptions."
 ---
 

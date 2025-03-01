@@ -1,5 +1,5 @@
 ---
-title: "Custodial Account (Algo Trading)"
+title: "Custodial Account"
 description: "Explore the benefits and distinctions of custodial and algorithmic trading accounts in this comprehensive guide. Learn how custodial accounts allow adults to manage investments for minors, preparing them for future financial independence. Discover how algorithmic trading employs automated strategies to enhance trading efficiency, appealing to active traders. This article provides insights into how both account types can align with personal financial goals and aspirations, aiding in strategic investment planning."
 ---
 

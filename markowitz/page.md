@@ -1,5 +1,5 @@
 ---
-title: "Markowitz (Algo Trading)"
+title: "Markowitz"
 description: Explore the integration of Modern Portfolio Theory (MPT) in algorithmic trading to optimize risk and return. Learn how MPT's diversification principles and the Efficient Frontier concept are enhanced by machine learning, enabling robust, data-driven strategies for dynamic market conditions. Discover the evolution of trading algorithms through the fusion of quantitative measures and predictive analytics.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin Pizza Day: Commemoration of the 10,000 BTC Pizza Purchase (Algo Trading)"
+title: "Bitcoin Pizza Day: Commemoration of the 10,000 BTC Pizza Purchase"
 description: "Celebrate Bitcoin Pizza Day and explore how a mere 10,000 BTC pizza purchase became a landmark in Bitcoin's journey towards mainstream acceptance."
 ---
 

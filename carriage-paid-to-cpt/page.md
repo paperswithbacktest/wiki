@@ -1,5 +1,5 @@
 ---
-title: "Carriage Paid To (CPT) (Algo Trading)"
+title: "Carriage Paid To (CPT)"
 description: "CPT Incoterms play a vital role in international trade by clarifying cost and risk responsibilities between sellers and buyers, aiding efficient transactions."
 ---
 

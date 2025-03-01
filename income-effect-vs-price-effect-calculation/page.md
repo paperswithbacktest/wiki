@@ -1,5 +1,5 @@
 ---
-title: "Income Effect vs. Price Effect Calculation (Algo Trading)"
+title: "Income Effect vs. Price Effect Calculation"
 description: "Explore the complex interplay of income and price effects in algorithmic trading and learn how these economic concepts can optimize trading strategies."
 ---
 

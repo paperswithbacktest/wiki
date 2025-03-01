@@ -1,5 +1,5 @@
 ---
-title: "Martino Grasselli (Algo Trading)"
+title: "Martino Grasselli"
 description: "Discover the remarkable career of Martino Grasselli a leader in quantitative finance and algorithmic trading combining academic excellence with industry innovation."
 ---
 

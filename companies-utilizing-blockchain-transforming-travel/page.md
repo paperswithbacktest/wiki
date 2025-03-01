@@ -1,5 +1,5 @@
 ---
-title: "Companies Utilizing Blockchain for Transforming Travel (Algo Trading)"
+title: "Companies Utilizing Blockchain for Transforming Travel"
 description: "Discover how blockchain technology is transforming the travel industry by enhancing customer experiences, improving security, and optimizing processes. Learn about companies pioneering blockchain innovations in travel, including smart contracts and digital identity management, and explore the intersection with algorithmic trading, overcoming adoption challenges, and leveraging new possibilities for a seamless travel ecosystem."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Commodity Funds (Algo Trading)"
+title: "Introduction to Commodity Funds"
 description: "Explore the integration of commodity funds and algorithmic trading to enhance investment strategies with diversification and precision in volatile financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bubble Theory: Meaning and Mechanism (Algo Trading)"
+title: "Bubble Theory: Meaning and Mechanism"
 description: "Explore the intricacies of Bubble Theory in economic markets Learn about the impact of algorithmic trading on bubble formation and managing market risks effectively"
 ---
 

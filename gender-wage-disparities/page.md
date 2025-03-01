@@ -1,5 +1,5 @@
 ---
-title: "Gender Wage Disparities (Algo Trading)"
+title: "Gender Wage Disparities"
 description: "Explore wage inequality in algorithmic trading uncovering gender disparities and the evolving financial landscape reshaping opportunities in the workforce."
 ---
 

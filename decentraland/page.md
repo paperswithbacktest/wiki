@@ -1,5 +1,5 @@
 ---
-title: "Decentraland (Algo Trading)"
+title: "Decentraland"
 description: "Explore Decentraland, a blockchain-powered virtual world where users buy, sell, and trade digital assets securely, plus discover automated trading possibilities."
 ---
 

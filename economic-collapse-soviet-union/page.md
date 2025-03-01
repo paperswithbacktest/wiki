@@ -1,5 +1,5 @@
 ---
-title: "Economic Collapse of the Soviet Union (Algo Trading)"
+title: "Economic Collapse of the Soviet Union"
 description: "Explore the profound economic changes following the Soviet Union's collapse and the rise of algorithmic trading as a response to global market volatility."
 ---
 

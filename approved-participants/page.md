@@ -1,5 +1,5 @@
 ---
-title: "Approved Participants (Algo Trading)"
+title: "Approved Participants"
 description: "Explore the eligibility criteria for becoming an approved participant in algo trading with insights into the Montreal Exchange and Eligible Contract Participants (ECPs)."
 ---
 

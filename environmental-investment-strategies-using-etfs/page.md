@@ -1,5 +1,5 @@
 ---
-title: "Environmental Investment Strategies Using Exchange-Traded Funds (Algo Trading)"
+title: "Environmental Investment Strategies Using Exchange-Traded Funds"
 description: "Combine sustainable investing with algorithmic trading by optimizing green ETFs targeting renewable energy clean tech and sustainable agriculture for financial growth."
 ---
 

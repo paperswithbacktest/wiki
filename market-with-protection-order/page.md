@@ -1,5 +1,5 @@
 ---
-title: "Market With Protection Order (Algo Trading)"
+title: "Market With Protection Order"
 description: "Explore the dynamics of protection orders in algorithmic trading. Understand their role in risk management and execution precision for optimal market participation."
 ---
 

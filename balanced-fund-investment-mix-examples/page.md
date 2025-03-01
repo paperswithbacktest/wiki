@@ -1,5 +1,5 @@
 ---
-title: "Balanced Fund: Investment Mix and Examples (Algo Trading)"
+title: "Balanced Fund: Investment Mix and Examples"
 description: "Explore the robust structure of balanced funds combining equities and bonds for diversified investment. Learn the role of algorithmic trading in fund management."
 ---
 

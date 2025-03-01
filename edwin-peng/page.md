@@ -1,5 +1,5 @@
 ---
-title: "Edwin Peng (Algo Trading)"
+title: "Edwin Peng"
 description: "Edwin Peng is a leading figure in algorithmic trading at Akuna Capital known for his expertise in VIX trading and innovative strategies in quantitative finance."
 ---
 

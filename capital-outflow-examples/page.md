@@ -1,5 +1,5 @@
 ---
-title: "Capital Outflow and Examples (Algo Trading)"
+title: "Capital Outflow and Examples"
 description: "Explore the intricate dynamics of capital outflow and algorithmic trading and their impact on global finance and investment movements amid economic changes."
 ---
 

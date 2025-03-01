@@ -1,5 +1,5 @@
 ---
-title: "Bernoulli's Hypothesis: Overview and Functionality (Algo Trading)"
+title: "Bernoulli's Hypothesis: Overview and Functionality"
 description: "Explore the connection between Bernoulli's Hypothesis and Bernoulli's Principle in algorithmic trading offering insights into risk management and market dynamics."
 ---
 

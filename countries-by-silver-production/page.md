@@ -1,5 +1,5 @@
 ---
-title: "List of Countries by Silver Production (Algo Trading)"
+title: "List of Countries by Silver Production"
 description: "Explore global silver production dynamics with Mexico, China, and Peru leading the charge. Understand investment strategies including algorithmic trading for silver."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Inverse Volatility ETFs: History and Criticism (Algo Trading)"
+title: "Inverse Volatility ETFs: History and Criticism"
 description: "Explore the dynamic world of inverse volatility ETFs in this comprehensive article detailing their history, criticism, and role in algorithmic trading strategies."
 ---
 

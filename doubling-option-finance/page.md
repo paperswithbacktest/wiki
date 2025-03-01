@@ -1,5 +1,5 @@
 ---
-title: "Doubling Option in Finance (Algo Trading)"
+title: "Doubling Option in Finance"
 description: "Explore the potential of the doubling option strategy in algorithmic trading to maximize investment returns with precise, automated trade executions."
 ---
 

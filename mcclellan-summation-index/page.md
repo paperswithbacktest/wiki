@@ -1,5 +1,5 @@
 ---
-title: "McClellan Summation Index (Algo Trading)"
+title: "McClellan Summation Index"
 description: "Explore the McClellan Summation Index for insights into market breadth and trends Ideal for traders and analysts in technical and algorithmic trading strategies"
 ---
 

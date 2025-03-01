@@ -1,5 +1,5 @@
 ---
-title: "Barriers to Entry in the Oil and Gas Industry (Algo Trading)"
+title: "Barriers to Entry in the Oil and Gas Industry"
 description: "The oil and gas industry presents significant barriers due to high entry costs, stringent regulations, and technological demands, further heightened by algorithmic trading."
 ---
 

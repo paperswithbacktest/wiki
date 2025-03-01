@@ -1,5 +1,5 @@
 ---
-title: "Impact of Industrialization on Wages (Algo Trading)"
+title: "Impact of Industrialization on Wages"
 description: "Explore the historical and modern impacts of industrialization on wages and economic dynamics through the lens of technological advancements like algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Accumulated Depreciation (Algo Trading)"
+title: "Accumulated Depreciation"
 description: "Discover how accounting asset valuation and depreciation impact algorithmic trading strategies by integrating financial data with trading algorithms for optimal results."
 ---
 

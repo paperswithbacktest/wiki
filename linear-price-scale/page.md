@@ -1,5 +1,5 @@
 ---
-title: "Linear Price Scale (Algo Trading)"
+title: "Linear Price Scale"
 description: "Explore different pricing methods and chart scales essential for algorithmic trading. Understand how linear and logarithmic price scales impact trading decisions."
 ---
 

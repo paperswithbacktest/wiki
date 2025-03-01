@@ -1,5 +1,5 @@
 ---
-title: "Gross Receipts: An Overview With Examples (Algo Trading)"
+title: "Gross Receipts: An Overview With Examples"
 description: "Discover the comprehensive role of gross receipts in business income and financial accounting their impact on tax and algorithmic trading strategies for optimal growth."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "History of Black Wall Street (Algo Trading)"
+title: "History of Black Wall Street"
 description: "Explore the legacy of Black Wall Street and the Tulsa Race Massacre and discover how they connect to the modern world of algorithmic trading and economic empowerment."
 ---
 

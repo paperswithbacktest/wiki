@@ -1,5 +1,5 @@
 ---
-title: "Long-Short Equity Strategy in Investing (Algo Trading)"
+title: "Long-Short Equity Strategy in Investing"
 description: "Discover the intricacies of long-short equity strategies in investing with algorithmic trading to navigate market volatility optimize returns and manage risks effectively."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Intellectual Property Exchange International (Algo Trading)"
+title: "Intellectual Property Exchange International"
 description: "Explore the intersection of intellectual property and algorithmic trading in global markets Discover how IP exchanges revolutionize IP transactions and commercialization"
 ---
 

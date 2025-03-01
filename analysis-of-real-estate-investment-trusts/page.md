@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Real Estate Investment Trusts (Algo Trading)"
+title: "Analysis of Real Estate Investment Trusts"
 description: "Explore the intricacies of Real Estate Investment Trusts (REITs) and their significance in diversified investment portfolios. This article offers insights into REIT structures, income potential, and algorithmic trading's role in optimizing REIT investments. Understand the metrics and analyses that differentiate REIT evaluation from traditional stocks and discover strategies to integrate REITs into your investment approach for optimal returns."
 ---
 

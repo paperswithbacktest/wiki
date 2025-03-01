@@ -1,5 +1,5 @@
 ---
-title: "Evaluating Mutual Fund Performance (Algo Trading)"
+title: "Evaluating Mutual Fund Performance"
 description: "Explore how algorithmic trading enhances mutual fund performance analysis by improving precision and efficiency in investment strategies for optimal returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Examples of Moral Hazard in Business (Algo Trading)"
+title: "Examples of Moral Hazard in Business"
 description: "Explore the intersection of moral hazard and algorithmic trading in business Learn strategies to manage risks and maintain market integrity effectively"
 ---
 

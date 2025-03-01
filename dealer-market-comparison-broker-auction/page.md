@@ -1,5 +1,5 @@
 ---
-title: "Dealer Market: Comparison With Broker and Auction Markets (Algo Trading)"
+title: "Dealer Market: Comparison With Broker and Auction Markets"
 description: "Explore the differences between dealer, broker, and auction markets and learn how algorithmic trading reshapes financial strategies, enhancing investment outcomes."
 ---
 

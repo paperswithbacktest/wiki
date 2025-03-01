@@ -1,5 +1,5 @@
 ---
-title: "ION Group: Overview and Insights (Algo Trading)"
+title: "ION Group: Overview and Insights"
 description: "ION Group offers innovative algo trading solutions that enhance speed and execution. With AI integration, their technology maximizes market performance."
 ---
 

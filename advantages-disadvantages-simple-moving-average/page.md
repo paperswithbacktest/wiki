@@ -1,5 +1,5 @@
 ---
-title: "Advantages and Disadvantages of Simple Moving Average (Algo Trading)"
+title: "Advantages and Disadvantages of Simple Moving Average"
 description: "Explore the pros and cons of using the Simple Moving Average in algorithmic trading. Learn how this popular tool smooths price data and reveals market trends."
 ---
 

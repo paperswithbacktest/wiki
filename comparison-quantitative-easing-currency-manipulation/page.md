@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Quantitative Easing and Currency Manipulation (Algo Trading)"
+title: "Comparison of Quantitative Easing and Currency Manipulation"
 description: "Explore the dynamics of economic policies, quantitative easing, and currency manipulation in modern finance and understand their impact on global markets and trade."
 ---
 

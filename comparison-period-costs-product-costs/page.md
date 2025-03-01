@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Period Costs and Product Costs (Algo Trading)"
+title: "Comparison of Period Costs and Product Costs"
 description: "Explore the differences between period and product costs in cost accounting and their influence on algorithmic trading strategies for profitability and efficiency."
 ---
 

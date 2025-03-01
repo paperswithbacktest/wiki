@@ -1,5 +1,5 @@
 ---
-title: "Application of Technical Indicators in Mutual Fund Analysis (Algo Trading)"
+title: "Application of Technical Indicators in Mutual Fund Analysis"
 description: "Enhance your mutual fund strategies with technical indicators and algorithmic trading to optimize entries and exits adaptively in today's evolving market landscape."
 ---
 

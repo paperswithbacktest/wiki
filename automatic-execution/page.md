@@ -1,5 +1,5 @@
 ---
-title: "Automatic Execution (Algo Trading)"
+title: "Automatic Execution"
 description: "Discover the impact of automated execution and algo trading in modern finance offering rapid and efficient trade execution in equities forex and cryptocurrencies."
 ---
 

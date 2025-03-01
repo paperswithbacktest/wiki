@@ -1,5 +1,5 @@
 ---
-title: "International Banking Facilities and Regulations (Algo Trading)"
+title: "International Banking Facilities and Regulations"
 description: "Explore the dynamics of International Banking Facilities and their regulatory frameworks uncovering how algorithmic trading is reshaping global banking practices."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Liquidity-seeking algorithms (Algo Trading)"
+title: "Liquidity-seeking algorithms"
 description: "Discover liquidity-seeking algorithms in algorithmic trading that enhance trade execution. Minimize market impact and costs while optimizing liquidity access."
 ---
 

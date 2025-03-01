@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Options and Futures (Algo Trading)"
+title: "Comparison of Options and Futures"
 description: "Explore the world of options, futures, and algo trading to enhance your investment strategies manage risk, and tap into speculative opportunities."
 ---
 

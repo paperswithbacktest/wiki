@@ -1,5 +1,5 @@
 ---
-title: "Marginal Tax Rate and Calculation with Examples (Algo Trading)"
+title: "Marginal Tax Rate and Calculation with Examples"
 description: "Explore the concept of marginal tax rates in progressive taxation and understand its impact on financial decisions and algorithmic trading strategies."
 ---
 

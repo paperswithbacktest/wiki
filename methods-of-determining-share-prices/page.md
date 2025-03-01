@@ -1,5 +1,5 @@
 ---
-title: "Methods of Determining Share Prices (Algo Trading)"
+title: "Methods of Determining Share Prices"
 description: "Explore the mechanisms behind share price determination and the role of algorithmic trading in the stock market. Learn key strategies and their impacts on trade efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Leading Investment Banks in the Energy Sector (Algo Trading)"
+title: "Leading Investment Banks in the Energy Sector"
 description: "Explore how leading investment banks like Citigroup and JPMorgan leverage algorithmic trading and innovative strategies to navigate the evolving energy sector landscape."
 ---
 

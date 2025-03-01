@@ -1,5 +1,5 @@
 ---
-title: "Jonathan Matte Biography (Algo Trading)"
+title: "Jonathan Matte Biography"
 description: "Discover the inspiring journey of Jonathan Matte from software development to a key figure in algorithmic trading exploring his impact on trading technology."
 ---
 

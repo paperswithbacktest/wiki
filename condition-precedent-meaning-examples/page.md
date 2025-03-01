@@ -1,5 +1,5 @@
 ---
-title: "Condition Precedent: Meaning and Examples (Algo Trading)"
+title: "Condition Precedent: Meaning and Examples"
 description: "Conditions precedent in contracts are crucial for risk management by ensuring obligations activate only when specific conditions are met facilitating clearer operations."
 ---
 

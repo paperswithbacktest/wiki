@@ -1,5 +1,5 @@
 ---
-title: "Adding to a Losing Position in Finance (Algo Trading)"
+title: "Adding to a Losing Position in Finance"
 description: "Explore effective investment strategies and the psychology of dealing with losing positions in volatile markets Discover how algorithmic trading enhances decision-making."
 ---
 

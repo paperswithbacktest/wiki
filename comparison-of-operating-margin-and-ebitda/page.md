@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Operating Margin and EBITDA (Algo Trading)"
+title: "Comparison of Operating Margin and EBITDA"
 description: "Explore the significance of operating margin and EBITDA in algorithmic trading to gain insights into a company's financial health and operational efficiency."
 ---
 

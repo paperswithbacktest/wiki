@@ -1,5 +1,5 @@
 ---
-title: "Advantages and Risks of Zero-Coupon Treasury Bonds (Algo Trading)"
+title: "Advantages and Risks of Zero-Coupon Treasury Bonds"
 description: "Explore the benefits and risks of zero-coupon Treasury bonds within the context of algorithmic trading and understand how these factors impact investment strategies."
 ---
 

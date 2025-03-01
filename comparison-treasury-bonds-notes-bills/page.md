@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Treasury Bonds, Notes, and Bills (Algo Trading)"
+title: "Comparison of Treasury Bonds, Notes, and Bills"
 description: "Explore the differences between U.S. Treasury Bonds, Notes, and Bills and understand their roles in diversified portfolios with algorithmic trading techniques. Learn how these government-backed securities vary in maturities and interest payments to suit diverse investment strategies and how algorithmic trading optimizes their management by automating trades to respond to market changes effectively."
 ---
 

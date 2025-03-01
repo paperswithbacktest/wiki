@@ -1,5 +1,5 @@
 ---
-title: "FASIT: Meaning, Functionality, and Historical Context (Algo Trading)"
+title: "FASIT: Meaning, Functionality, and Historical Context"
 description: "Discover the interplay between FASITs and algorithmic trading in finance. Learn about their historical, regulatory, and technological influences shaping today's markets."
 ---
 

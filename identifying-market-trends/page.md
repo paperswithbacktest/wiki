@@ -1,5 +1,5 @@
 ---
-title: "Identifying Market Trends (Algo Trading)"
+title: "Identifying Market Trends"
 description: "Explore how identifying market trends and leveraging economic indicators can enhance trading strategies and risk management in algorithmic trading."
 ---
 

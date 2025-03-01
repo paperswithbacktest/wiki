@@ -1,5 +1,5 @@
 ---
-title: "Exchange-Traded Products Leveraging Buffett's Economic Moat Strategy (Algo Trading)"
+title: "Exchange-Traded Products Leveraging Buffett's Economic Moat Strategy"
 description: "Discover how exchange-traded products leverage Warren Buffett's economic moat strategy with algorithmic trading to enhance investment efficiency and returns."
 ---
 

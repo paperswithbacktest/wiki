@@ -1,5 +1,5 @@
 ---
-title: "Capital Consumption Allowance: Overview and Function (Algo Trading)"
+title: "Capital Consumption Allowance: Overview and Function"
 description: "Explore the interplay of capital consumption allowance depreciation and algorithmic trading in the modern economy and its impact on financial growth and stability."
 ---
 

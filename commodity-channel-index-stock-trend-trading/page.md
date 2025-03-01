@@ -1,5 +1,5 @@
 ---
-title: "Commodity Channel Index in Stock Trend Trading (Algo Trading)"
+title: "Commodity Channel Index in Stock Trend Trading"
 description: "Explore how the Commodity Channel Index (CCI) can enhance stock trend trading with strategies for identifying cyclical trends and improving algorithmic trading."
 ---
 

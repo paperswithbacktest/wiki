@@ -1,5 +1,5 @@
 ---
-title: "Housing Trust Fund (Algo Trading)"
+title: "Housing Trust Fund"
 description: "Explore how Housing Trust Funds innovate in the affordable housing crisis and the potential synergy with algorithmic trading for financial and social impact."
 ---
 

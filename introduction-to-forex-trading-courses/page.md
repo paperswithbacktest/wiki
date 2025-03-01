@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Forex Trading Courses (Algo Trading)"
+title: "Introduction to Forex Trading Courses"
 description: "Discover the essentials of forex trading and algo trading in this guide Learn currency markets basic concepts and how algorithms can enhance your trading skills"
 ---
 

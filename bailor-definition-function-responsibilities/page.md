@@ -1,5 +1,5 @@
 ---
-title: "Bailor: Definition, Function, and Responsibilities (Algo Trading)"
+title: "Bailor: Definition, Function, and Responsibilities"
 description: "Explore the role and responsibilities of a bailor in bailment, alongside intricate insights into algorithmic trading dynamics, to navigate modern financial markets."
 ---
 

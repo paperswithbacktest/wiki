@@ -1,5 +1,5 @@
 ---
-title: "Commitments of Traders Report: Function, Categories, and Examples (Algo Trading)"
+title: "Commitments of Traders Report: Function, Categories, and Examples"
 description: "Gain insights into futures market dynamics with the Commitments of Traders report explore its functionality and strategic use in algorithmic trading strategies."
 ---
 

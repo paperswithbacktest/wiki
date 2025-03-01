@@ -1,5 +1,5 @@
 ---
-title: "Benjamin Graham and the Analysis of Financial Statements (Algo Trading)"
+title: "Benjamin Graham and the Analysis of Financial Statements"
 description: "Benjamin Graham's value investing is elevated by algorithmic trading's speed and precision, blending traditional analysis with cutting-edge technology for optimal strategies."
 ---
 

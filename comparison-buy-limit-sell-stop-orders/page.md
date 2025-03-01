@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Buy Limit and Sell Stop Orders (Algo Trading)"
+title: "Comparison of Buy Limit and Sell Stop Orders"
 description: "Understand the dynamics of buy limit and sell stop orders in algo trading Learn how these tools can enhance strategies improve execution and manage risks"
 ---
 

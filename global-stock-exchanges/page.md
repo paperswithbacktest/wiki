@@ -1,5 +1,5 @@
 ---
-title: "Global Stock Exchanges (Algo Trading)"
+title: "Global Stock Exchanges"
 description: "Explore the intricate roles of stock exchanges in global finance and the impact of algorithmic trading on market dynamics, transparency, and liquidity."
 ---
 

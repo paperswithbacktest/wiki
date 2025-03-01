@@ -1,5 +1,5 @@
 ---
-title: "Investment in Rare Coins (Algo Trading)"
+title: "Investment in Rare Coins"
 description: "Explore the unique blend of history and finance with rare coin investments enhanced by algorithmic trading Discover the potential of these collectible assets"
 ---
 

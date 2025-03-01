@@ -1,5 +1,5 @@
 ---
-title: "Dodd-Frank Act (Algo Trading)"
+title: "Dodd-Frank Act"
 description: "Explore the impact of the Dodd-Frank Act on financial markets focusing on consumer protection measures and the regulation of algorithmic trading practices."
 ---
 

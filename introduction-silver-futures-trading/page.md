@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Silver Futures Trading (Algo Trading)"
+title: "Introduction to Silver Futures Trading"
 description: "Explore the potential of silver futures trading with algorithmic systems Discover how algo trading enhances speed efficiency and precision in this dynamic market"
 ---
 

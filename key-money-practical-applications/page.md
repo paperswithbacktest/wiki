@@ -1,5 +1,5 @@
 ---
-title: "Key Money and Its Practical Applications (Algo Trading)"
+title: "Key Money and Its Practical Applications"
 description: "Explore the interplay of key money and algorithmic trading in real estate, highlighting their roles in leasing practices and innovative investment strategies."
 ---
 

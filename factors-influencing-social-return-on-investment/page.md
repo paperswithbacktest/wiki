@@ -1,5 +1,5 @@
 ---
-title: "Factors Influencing Social Return on Investment (Algo Trading)"
+title: "Factors Influencing Social Return on Investment"
 description: "Explore how Social Return on Investment (SROI) enhances social investments and algorithmic trading by aligning financial and social impact goals effectively."
 ---
 

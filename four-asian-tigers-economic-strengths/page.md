@@ -1,5 +1,5 @@
 ---
-title: "Four Asian Tigers: Economic Strengths (Algo Trading)"
+title: "Four Asian Tigers: Economic Strengths"
 description: "Discover the economic strengths of East Asia's Four Asian Tigers and how algorithmic trading plays a role in maintaining their global financial prominence."
 ---
 

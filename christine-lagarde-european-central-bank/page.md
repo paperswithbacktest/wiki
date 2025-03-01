@@ -1,5 +1,5 @@
 ---
-title: "Christine Lagarde's Role at the European Central Bank (Algo Trading)"
+title: "Christine Lagarde's Role at the European Central Bank"
 description: "Explore Christine Lagarde's influential role at the European Central Bank as she navigates economic challenges, shaping monetary policies impacting algorithmic trading."
 ---
 

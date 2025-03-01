@@ -1,5 +1,5 @@
 ---
-title: "Accretive in Business and Finance (Algo Trading)"
+title: "Accretive in Business and Finance"
 description: "Explore how algorithmic trading can drive accretive growth in business by optimizing financial strategies, enhancing returns, and boosting shareholder value."
 ---
 

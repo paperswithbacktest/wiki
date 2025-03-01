@@ -1,5 +1,5 @@
 ---
-title: "Buy-Write Strategy and Examples (Algo Trading)"
+title: "Buy-Write Strategy and Examples"
 description: "Explore the integration of buy-write strategies and algorithmic trading to automate and refine execution. Enhance income streams, minimize risk, and leverage technology."
 ---
 

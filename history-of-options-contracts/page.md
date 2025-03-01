@@ -1,5 +1,5 @@
 ---
-title: "History of Options Contracts (Algo Trading)"
+title: "History of Options Contracts"
 description: "Explore the fascinating history of options contracts in algorithmic trading from their ancient Greek roots to modern tech-driven strategies shaping today's markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Capital Rationing: Overview, Applications, and Types (Algo Trading)"
+title: "Capital Rationing: Overview, Applications, and Types"
 description: "Optimize investment strategies by understanding capital rationing and algorithmic trading This synergy aids financial managers in making strategic choices for growth"
 ---
 

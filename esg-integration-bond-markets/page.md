@@ -1,5 +1,5 @@
 ---
-title: "ESG Integration in Bond Markets (Algo Trading)"
+title: "ESG Integration in Bond Markets"
 description: "Explore the integration of ESG and algorithmic trading in bond markets Discover how sustainable finance transforms investments aligning ethical values with financial goals"
 ---
 

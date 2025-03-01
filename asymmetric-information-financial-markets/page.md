@@ -1,5 +1,5 @@
 ---
-title: "Asymmetric Information in Financial Markets (Algo Trading)"
+title: "Asymmetric Information in Financial Markets"
 description: "Explore how algorithmic trading exploits asymmetric information in financial markets to optimize decision-making and enhance trading profitability."
 ---
 

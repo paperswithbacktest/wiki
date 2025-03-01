@@ -1,5 +1,5 @@
 ---
-title: "ETFs and Wash Sales: Exploring the Tax Loophole (Algo Trading)"
+title: "ETFs and Wash Sales: Exploring the Tax Loophole"
 description: "Discover how Exchange-Traded Funds (ETFs) can offer unique tax efficiencies in algorithmic trading. Unveil strategies to navigate the complexities of the wash sale rule and explore how algorithmic trading can enhance portfolio efficiency while minimizing tax liabilities."
 ---
 

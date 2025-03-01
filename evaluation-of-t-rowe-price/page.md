@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of T. Rowe Price (Algo Trading)"
+title: "Evaluation of T. Rowe Price"
 description: "Discover how T. Rowe Price leverages algorithmic trading to enhance its investment offerings. This article evaluates the firm's disciplined investment approach, robust asset management, and strategic innovation, providing insights into its methodologies and performance in the financial services industry."
 ---
 

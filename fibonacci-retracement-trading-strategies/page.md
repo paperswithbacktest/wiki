@@ -1,5 +1,5 @@
 ---
-title: "Fibonacci Retracement Trading Strategies (Algo Trading)"
+title: "Fibonacci Retracement Trading Strategies"
 description: "Explore Fibonacci retracement strategies in algo trading to identify potential support and resistance levels optimize trading decisions and enhance market trends analysis"
 ---
 

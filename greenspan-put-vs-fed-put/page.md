@@ -1,5 +1,5 @@
 ---
-title: "Greenspan Put and Its Comparison to the Fed Put (Algo Trading)"
+title: "Greenspan Put and Its Comparison to the Fed Put"
 description: "Explore the impact of the Greenspan Put and Fed Put on financial markets and algorithmic trading Learn how central bank policies influence investor behavior"
 ---
 

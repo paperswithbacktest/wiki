@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Robo-Advisors and Target Date Funds (Algo Trading)"
+title: "Comparison of Robo-Advisors and Target Date Funds"
 description: "Explore the benefits and differences between robo-advisors and target date funds as modern investment solutions suited for various financial goals and risk levels."
 ---
 

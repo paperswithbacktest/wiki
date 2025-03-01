@@ -1,5 +1,5 @@
 ---
-title: "Depression: Definition, Assets, and Types (Algo Trading)"
+title: "Depression: Definition, Assets, and Types"
 description: "Explore the impact of mental health on algorithmic trading detailing how depressive assets and types of depression influence decision-making in volatile markets."
 ---
 

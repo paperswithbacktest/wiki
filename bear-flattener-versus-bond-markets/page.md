@@ -1,5 +1,5 @@
 ---
-title: "Bear Flattener Versus Bear Flattener in Bond Markets (Algo Trading)"
+title: "Bear Flattener Versus Bear Flattener in Bond Markets"
 description: "Explore the dynamics of bear flatteners in bond markets and discover how algorithmic trading strategies can help navigate yield curve shifts for optimized returns."
 ---
 

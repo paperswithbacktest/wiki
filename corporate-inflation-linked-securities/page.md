@@ -1,5 +1,5 @@
 ---
-title: "Corporate Inflation-Linked Securities (Algo Trading)"
+title: "Corporate Inflation-Linked Securities"
 description: "Explore the world of corporate bonds, inflation-linked securities, and algorithmic trading to understand how these financial tools influence investment decisions."
 ---
 

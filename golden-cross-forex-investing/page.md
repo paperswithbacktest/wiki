@@ -1,5 +1,5 @@
 ---
-title: "Golden Cross in Forex Investing (Algo Trading)"
+title: "Golden Cross in Forex Investing"
 description: "Explore the power of the Golden Cross pattern in forex investing and learn how this bullish signal can enhance algorithmic trading strategies in volatile markets."
 ---
 

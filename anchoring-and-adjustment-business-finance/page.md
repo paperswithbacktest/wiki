@@ -1,5 +1,5 @@
 ---
-title: "Anchoring and Adjustment in Business and Finance (Algo Trading)"
+title: "Anchoring and Adjustment in Business and Finance"
 description: "Explore the impact of anchoring and adjustment on algorithmic trading and behavioral finance Learn strategies to improve decision-making and trading outcomes"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Investment Styles: Examples and Due Diligence (Algo Trading)"
+title: "Investment Styles: Examples and Due Diligence"
 description: "Explore diverse investment styles and the importance of due diligence in this insightful article Learn about value growth and income investing highlighting algorithmic trading trends"
 ---
 

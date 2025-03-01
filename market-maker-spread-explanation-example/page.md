@@ -1,5 +1,5 @@
 ---
-title: "Market Maker Spread: Explanation and Example (Algo Trading)"
+title: "Market Maker Spread: Explanation and Example"
 description: "Explore the role of market makers and algorithmic trading in financial markets. Learn how market maker spreads influence trading algorithms for better decisions."
 ---
 

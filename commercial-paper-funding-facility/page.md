@@ -1,5 +1,5 @@
 ---
-title: "Commercial Paper Funding Facility (Algo Trading)"
+title: "Commercial Paper Funding Facility"
 description: "Explore how the Commercial Paper Funding Facility supports financial stability through liquidity in markets and the rise of algorithmic trading's influence."
 ---
 

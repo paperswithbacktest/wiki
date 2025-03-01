@@ -1,5 +1,5 @@
 ---
-title: "Fixed Asset (Algo Trading)"
+title: "Fixed Asset"
 description: "Explore the synergy of fixed assets and algorithmic trading in contemporary finance Learn to navigate this dynamic landscape for optimal investment strategies"
 ---
 

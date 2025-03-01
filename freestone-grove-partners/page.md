@@ -1,5 +1,5 @@
 ---
-title: "Freestone Grove Partners (Algo Trading)"
+title: "Freestone Grove Partners"
 description: "Discover Freestone Grove Partners in algorithmic trading known for innovative solutions that optimize strategies and deliver superior performance in finance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Merrill Edge 2024 Review (Algo Trading)"
+title: "Merrill Edge 2024 Review"
 description: "Explore Merrill Edge's 2024 review focusing on algo trading with no account minimums and $0 commissions on stocks and ETFs offering user-friendly tools and investment options."
 ---
 

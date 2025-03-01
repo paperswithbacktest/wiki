@@ -1,5 +1,5 @@
 ---
-title: "Data Mining in Investment (Algo Trading)"
+title: "Data Mining in Investment"
 description: "Explore how data mining transforms investment strategies, merging with financial analysis and algorithmic trading to optimize decisions in today's market."
 ---
 

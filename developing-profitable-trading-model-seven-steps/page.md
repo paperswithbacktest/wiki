@@ -1,5 +1,5 @@
 ---
-title: "Developing a Profitable Trading Model in Seven Steps (Algo Trading)"
+title: "Developing a Profitable Trading Model in Seven Steps"
 description: "Learn to create profitable trading models using algorithmic strategies in seven steps. Optimize trades, reduce risk, and enhance returns with data-driven insights."
 ---
 

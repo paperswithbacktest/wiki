@@ -1,5 +1,5 @@
 ---
-title: "Casino Finance and Operations (Algo Trading)"
+title: "Casino Finance and Operations"
 description: "Explore the intricate world of casino finance and operations, where algorithmic trading, economics, and strategic management drive innovation and success."
 ---
 

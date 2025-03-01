@@ -1,5 +1,5 @@
 ---
-title: "Government Influence on Markets (Algo Trading)"
+title: "Government Influence on Markets"
 description: "Explore how government regulation economic policy and market influences impact algorithmic trading in financial markets Learn how these factors shape global systems"
 ---
 

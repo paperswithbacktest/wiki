@@ -1,5 +1,5 @@
 ---
-title: "Endowment effect (Algo Trading)"
+title: "Endowment effect"
 description: Explore the impact of the endowment effect on algorithmic trading and discover strategies to mitigate its influence. This cognitive bias leads traders to overvalue owned assets and resist beneficial algorithmic signals, causing missed opportunities and suboptimal decisions. Learn how recognizing physiological cues and implementing research-backed methods can enhance trading efficiency by reducing emotional biases.
 ---
 

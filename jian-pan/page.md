@@ -1,5 +1,5 @@
 ---
-title: "Jian Pan (Algo Trading)"
+title: "Jian Pan"
 description: "Discover the impactful career of Jian Pan a leading expert in algorithmic trading and quantitative systems shaping modern financial strategies at Acadian Asset Management."
 ---
 

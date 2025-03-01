@@ -1,5 +1,5 @@
 ---
-title: "Joseph Effect and Its Leading Indicators (Algo Trading)"
+title: "Joseph Effect and Its Leading Indicators"
 description: "Explore the Joseph Effect and leading indicators in algo trading to anticipate market trends and foster informed strategies for evolving economic patterns."
 ---
 

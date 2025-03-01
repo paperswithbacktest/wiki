@@ -1,5 +1,5 @@
 ---
-title: "Developing a Profitable Strategy Using Stochastic RSI Patterns (Algo Trading)"
+title: "Developing a Profitable Strategy Using Stochastic RSI Patterns"
 description: "Discover how to develop a profitable algorithmic trading strategy using Stochastic RSI patterns. Leverage this technical indicator for better market insights and decision-making."
 ---
 

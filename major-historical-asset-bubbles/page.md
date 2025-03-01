@@ -1,5 +1,5 @@
 ---
-title: "Major Historical Asset Bubbles (Algo Trading)"
+title: "Major Historical Asset Bubbles"
 description: "Explore how historical asset bubbles like the Dutch Tulip Mania and the 2008 Financial Crisis shape economies, influenced by speculative trading and algorithmic practices."
 ---
 

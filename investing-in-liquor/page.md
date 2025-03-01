@@ -1,5 +1,5 @@
 ---
-title: "Investing in Liquor (Algo Trading)"
+title: "Investing in Liquor"
 description: "Explore investing in liquor and spirits as an alternative investment strategy. Learn about algorithmic trading and its impact on optimizing returns in this niche market."
 ---
 

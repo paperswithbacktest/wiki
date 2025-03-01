@@ -1,5 +1,5 @@
 ---
-title: "Active Share: Definition and Mechanism (Algo Trading)"
+title: "Active Share: Definition and Mechanism"
 description: "Explore active share in investment strategies and algorithmic trading's role in enhancing portfolio management, focusing on returns and risk minimization."
 ---
 

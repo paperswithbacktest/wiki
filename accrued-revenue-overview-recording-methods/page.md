@@ -1,5 +1,5 @@
 ---
-title: "Accrued Revenue: Overview and Recording Methods (Algo Trading)"
+title: "Accrued Revenue: Overview and Recording Methods"
 description: "Learn about accrued revenue and its crucial role in accrual accounting for algo trading Discover methods to record it and how it influences financial statements"
 ---
 

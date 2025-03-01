@@ -1,5 +1,5 @@
 ---
-title: "Drawbacks of Industrialization (Algo Trading)"
+title: "Drawbacks of Industrialization"
 description: "Explore the benefits and challenges of industrialization and algorithmic trading on society including economic development labor conditions market volatility and regulatory needs."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Legal Tender: Economic Functions and Examples (Algo Trading)"
+title: "Legal Tender: Economic Functions and Examples"
 description: "Legal tender is a pivotal concept in economics, defining the money legally recognized for settling debts. This article explores its economic roles and significance in fostering transaction stability and trust. It examines currency functions including its use as a medium of exchange and store of value amidst evolving monetary systems like digital payments and cryptocurrencies. The rise of algorithmic trading highlights technological impacts on markets, enhancing transaction efficiency and reshaping financial landscapes. The discussion addresses the interaction between legal tender and market stability, emphasizing the importance of understanding these dynamics in navigating modern economic environments."
 ---
 

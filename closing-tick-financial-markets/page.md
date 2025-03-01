@@ -1,5 +1,5 @@
 ---
-title: "Closing Tick in Financial Markets (Algo Trading)"
+title: "Closing Tick in Financial Markets"
 description: "Explore the importance of closing ticks in financial markets and their role in algorithmic trading Learn how traders utilize these indicators for strategic analysis"
 ---
 

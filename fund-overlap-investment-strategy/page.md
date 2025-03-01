@@ -1,5 +1,5 @@
 ---
-title: "Fund Overlap in Investment Strategy (Algo Trading)"
+title: "Fund Overlap in Investment Strategy"
 description: "Explore the integration of mutual funds, investment strategies, and algorithmic trading in finance. Learn to manage fund overlap and enhance portfolio performance."
 ---
 

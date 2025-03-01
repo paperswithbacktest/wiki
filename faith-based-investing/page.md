@@ -1,5 +1,5 @@
 ---
-title: "Faith-Based Investing (Algo Trading)"
+title: "Faith-Based Investing"
 description: "Discover the synergy of faith-based investing and algorithmic trading where ethical finance strategies align personal values with modern technological efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "E-Micro Forex Futures (Algo Trading)"
+title: "E-Micro Forex Futures"
 description: "Explore E-Micro Forex Futures and algo trading to enter the forex market with lower capital and high-speed strategies. Boost precision and control trading risks."
 ---
 

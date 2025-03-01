@@ -1,5 +1,5 @@
 ---
-title: "Matched Book in Finance (Algo Trading)"
+title: "Matched Book in Finance"
 description: "Discover the evolution of finance with matched book investments & algo trading Learn how these strategies optimize trade execution & enhance liquidity"
 ---
 

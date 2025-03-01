@@ -1,5 +1,5 @@
 ---
-title: "Consumer Price Index and Producer Price Index Comparison (Algo Trading)"
+title: "Consumer Price Index and Producer Price Index Comparison"
 description: "Explore how integrating Consumer Price Index (CPI) and Producer Price Index (PPI) data into algorithmic trading strategies can enhance financial decision-making. Understand these indices' roles in gauging inflation and their impact on economic health, with insights into how CPI and PPI fluctuations influence market dynamics and inform strategic trading approaches."
 ---
 

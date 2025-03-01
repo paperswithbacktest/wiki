@@ -1,5 +1,5 @@
 ---
-title: "Brady Bonds: Function and Examples (Algo Trading)"
+title: "Brady Bonds: Function and Examples"
 description: "Discover how Brady Bonds revolutionized sovereign debt restructuring in emerging markets and their intersection with algorithmic trading strategies in global finance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Iron Butterfly Option Strategy: Overview and Application (Algo Trading)"
+title: "Iron Butterfly Option Strategy: Overview and Application"
 description: "Discover the intricacies of the Iron Butterfly options strategy to manage risks and maximize profits in range-bound markets with algorithmic trading tools."
 ---
 

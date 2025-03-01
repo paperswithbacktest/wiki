@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of Stop-Loss Orders and ETFs (Algo Trading)"
+title: "Evaluation of Stop-Loss Orders and ETFs"
 description: "Explore the benefits of integrating stop-loss orders and ETFs into algorithmic trading strategies. Learn how these tools enhance investment risk management."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Analyzing A Company's Financial Position (Algo Trading)"
+title: "Analyzing A Company's Financial Position"
 description: "Explore how financial analysis enhances algorithmic trading by evaluating a company's financial health to make data-driven investment decisions efficiently."
 ---
 

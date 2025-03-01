@@ -1,5 +1,5 @@
 ---
-title: "Assimilation: Definition, Process, and Examples (Algo Trading)"
+title: "Assimilation: Definition, Process, and Examples"
 description: "Explore the role of cultural adaptation in algorithmic trading and its impact on financial markets. Understand assimilation of technology in diverse global contexts."
 ---
 

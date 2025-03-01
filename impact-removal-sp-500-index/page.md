@@ -1,5 +1,5 @@
 ---
-title: "Impact of Removal From the S&P 500 Index (Algo Trading)"
+title: "Impact of Removal From the S&P 500 Index"
 description: "Explore the significant impact of stock removal from the S&P 500 index, a key benchmark representing major U.S. companies’ performance. Understand the criteria for inclusion and exclusion, and how algorithmic trading reacts to these changes, affecting market dynamics, stock prices, and investment strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Cost of Carry: Models, Influencing Factors, and Calculation (Algo Trading)"
+title: "Cost of Carry: Models, Influencing Factors, and Calculation"
 description: "Explore the critical role of cost of carry in trading by understanding its impact on pricing models, asset valuation, and algorithmic strategies for profit optimization."
 ---
 

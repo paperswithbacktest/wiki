@@ -1,5 +1,5 @@
 ---
-title: "Consequences of Failing to Meet a Margin Call (Algo Trading)"
+title: "Consequences of Failing to Meet a Margin Call"
 description: "Understand the significance of margin calls and algorithmic trading in securities trading to minimize risk and enhance trading performance effectively"
 ---
 

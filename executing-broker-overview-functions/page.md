@@ -1,5 +1,5 @@
 ---
-title: "Executing Broker: Overview and Functions (Algo Trading)"
+title: "Executing Broker: Overview and Functions"
 description: "Discover the crucial role of executing brokers in stock and algorithmic trading within today's investment landscape. Learn how these intermediaries process trades for hedge funds and institutional investors, ensuring efficient execution and adherence to best practices. Explore the distinctions between executing and clearing brokers, the impact of algorithmic trading platforms, and the strategies employed to enhance trade execution quality. This comprehensive guide equips traders and investors with essential insights to optimize trading strategies in an evolving market."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Mercantilism in British Colonial America (Algo Trading)"
+title: "Mercantilism in British Colonial America"
 description: "Explore the impact of mercantilism on British colonial America and its evolution into modern trading practices like algorithmic trading emphasizing economic efficiency."
 ---
 

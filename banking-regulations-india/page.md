@@ -1,5 +1,5 @@
 ---
-title: "Banking Regulations in India (Algo Trading)"
+title: "Banking Regulations in India"
 description: "Explore India's banking regulations and SEBI's algo trading guidelines that balance market stability, inclusivity, and innovation in the financial sector."
 ---
 

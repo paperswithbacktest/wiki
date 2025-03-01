@@ -1,5 +1,5 @@
 ---
-title: "Day Trading Volatility ETFs (Algo Trading)"
+title: "Day Trading Volatility ETFs"
 description: "Explore day trading strategies for volatility ETFs leveraging algorithmic trading techniques to capitalize on short-term market movements while managing risks effectively."
 ---
 

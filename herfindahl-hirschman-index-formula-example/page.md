@@ -1,5 +1,5 @@
 ---
-title: "Herfindahl-Hirschman Index: Formula and Example (Algo Trading)"
+title: "Herfindahl-Hirschman Index: Formula and Example"
 description: "Explore the Herfindahl-Hirschman Index in algo trading to understand market concentration and competitive dynamics. Learn its formula, application, and impact."
 ---
 

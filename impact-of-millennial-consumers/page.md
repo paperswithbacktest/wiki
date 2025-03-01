@@ -1,5 +1,5 @@
 ---
-title: "Impact of Millennial Consumers (Algo Trading)"
+title: "Impact of Millennial Consumers"
 description: "Explore the significant influence of millennial consumers on algorithmic trading, highlighting their unique digital consumption habits and investment preferences."
 ---
 

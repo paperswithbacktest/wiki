@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Bank Guarantees and Bonds (Algo Trading)"
+title: "Comparison of Bank Guarantees and Bonds"
 description: "Explore the key differences between bank guarantees and bonds in finance and algorithmic trading to manage risks, enhance liquidity, and boost profitability."
 ---
 

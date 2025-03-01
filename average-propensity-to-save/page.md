@@ -1,5 +1,5 @@
 ---
-title: "Average Propensity to Save (Algo Trading)"
+title: "Average Propensity to Save"
 description: "Discover the significance of the Average Propensity to Save and its role in economic stability and growth through algorithmic trading insights and fiscal policy impacts."
 ---
 

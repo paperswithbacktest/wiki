@@ -1,5 +1,5 @@
 ---
-title: "Economic Recovery Process and Indicators (Algo Trading)"
+title: "Economic Recovery Process and Indicators"
 description: "Explore the dynamics of economic recovery with insights into key indicators like GDP growth and employment rates alongside the role of algorithmic trading in modern markets."
 ---
 

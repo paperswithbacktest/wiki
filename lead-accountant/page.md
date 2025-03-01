@@ -1,5 +1,5 @@
 ---
-title: "Lead Accountant (Algo Trading)"
+title: "Lead Accountant"
 description: "Discover how a lead accountant in algo trading drives financial transformation by integrating advanced technologies with strategic financial management."
 ---
 

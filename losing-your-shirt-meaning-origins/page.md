@@ -1,5 +1,5 @@
 ---
-title: "Losing Your Shirt: Meaning and Origins (Algo Trading)"
+title: "Losing Your Shirt: Meaning and Origins"
 description: "Explore the vivid idiom 'losing your shirt' its origins and relevance in algorithmic trading Understand potential risks and protect your investments"
 ---
 

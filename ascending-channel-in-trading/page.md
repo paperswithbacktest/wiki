@@ -1,5 +1,5 @@
 ---
-title: "Ascending Channel in Trading (Algo Trading)"
+title: "Ascending Channel in Trading"
 description: "Explore the ascending channel strategy to identify bullish trends and refine your trading skills Learn entry exit points and incorporate algorithmic trading for success"
 ---
 

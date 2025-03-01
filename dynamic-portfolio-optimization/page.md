@@ -1,5 +1,5 @@
 ---
-title: "Dynamic Portfolio Optimization (Algo Trading)"
+title: "Dynamic Portfolio Optimization"
 description: "Explore how advanced algorithmic trading strategies like Dynamic Portfolio Optimization enhance financial returns and mitigate risks while adapting to market changes."
 ---
 

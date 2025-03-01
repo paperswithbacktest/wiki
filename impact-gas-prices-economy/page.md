@@ -1,5 +1,5 @@
 ---
-title: "Impact of Gas Prices on the Economy (Algo Trading)"
+title: "Impact of Gas Prices on the Economy"
 description: "Explore the complex relationship between gas prices and the economy from consumer spending to algorithmic trading understand the broad implications on business and policy."
 ---
 

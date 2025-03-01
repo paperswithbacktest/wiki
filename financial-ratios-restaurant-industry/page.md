@@ -1,5 +1,5 @@
 ---
-title: "Financial Ratios in the Restaurant Industry (Algo Trading)"
+title: "Financial Ratios in the Restaurant Industry"
 description: "Explore the role of financial ratios and algorithmic trading in enhancing financial decisions for restaurants Analyze profitability and performance for sustained growth"
 ---
 

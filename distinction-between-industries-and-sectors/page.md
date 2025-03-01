@@ -1,5 +1,5 @@
 ---
-title: "Distinction Between Industries and Sectors (Algo Trading)"
+title: "Distinction Between Industries and Sectors"
 description: "Understand how distinguishing between sectors and industries can optimize algorithmic trading strategies. Enhance trade execution and portfolio management in dynamic markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Dow Jones Sustainability World Index Methodology (Algo Trading)"
+title: "Dow Jones Sustainability World Index Methodology"
 description: "Explore the methodology of the Dow Jones Sustainability World Index and its relevance for algorithmic trading strategies focusing on ESG criteria and market impact."
 ---
 

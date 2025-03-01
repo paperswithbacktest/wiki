@@ -1,5 +1,5 @@
 ---
-title: "Merrill Lynch (Algo Trading)"
+title: "Merrill Lynch"
 description: "Explore Merrill Lynch's robust integration of algorithmic trading to enhance trading efficiency and innovation in the investment banking sector for clients globally."
 ---
 

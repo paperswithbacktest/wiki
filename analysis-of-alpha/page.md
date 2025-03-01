@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Alpha (Algo Trading)"
+title: "Analysis of Alpha"
 description: "Explore how Alpha Finance leverages cutting-edge algorithmic trading to enhance performance and optimize investments in fast-paced financial markets."
 ---
 

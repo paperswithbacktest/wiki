@@ -1,5 +1,5 @@
 ---
-title: "American Rule in Legal Contexts (Algo Trading)"
+title: "American Rule in Legal Contexts"
 description: "Explore the American Rule, a key U.S. legal principle requiring parties to pay their own legal fees during litigation, its exceptions, and relevance in algo trading."
 ---
 

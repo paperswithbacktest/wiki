@@ -1,5 +1,5 @@
 ---
-title: "Jobbers in the Stock Market: Role and Historical Overview (Algo Trading)"
+title: "Jobbers in the Stock Market: Role and Historical Overview"
 description: "Explore the evolution of stock market dynamics from the pivotal role of jobbers to the efficiency-driven world of algorithmic trading. Discover historical insights."
 ---
 

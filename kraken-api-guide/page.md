@@ -1,5 +1,5 @@
 ---
-title: "Kraken API Guide (Algo Trading)"
+title: "Kraken API Guide"
 description: Discover the comprehensive Kraken API Guide for algorithmic trading, designed to help traders and developers harness advanced tools for optimized trading strategies in cryptocurrency markets. Learn how to leverage Kraken's robust API to enhance performance and capitalize on market opportunities, all within a secure and compliant trading environment.
 ---
 

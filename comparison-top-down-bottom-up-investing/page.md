@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Top-Down and Bottom-Up Investing (Algo Trading)"
+title: "Comparison of Top-Down and Bottom-Up Investing"
 description: "Discover top-down and bottom-up investing strategies in algorithmic trading Understand how macroeconomic and microeconomic analyses shape investment opportunities"
 ---
 

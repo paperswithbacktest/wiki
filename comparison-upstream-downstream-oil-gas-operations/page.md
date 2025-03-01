@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Upstream and Downstream Oil and Gas Operations (Algo Trading)"
+title: "Comparison of Upstream and Downstream Oil and Gas Operations"
 description: "Explore the critical roles of upstream and downstream operations in the oil and gas industry. Discover how algorithmic trading is transforming efficiency in this sector."
 ---
 

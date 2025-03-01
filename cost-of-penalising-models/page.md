@@ -1,5 +1,5 @@
 ---
-title: "Cost of Penalising Models (Algo Trading)"
+title: "Cost of Penalising Models"
 description: "Exploring the costs of penalizing models in algorithmic trading, highlighting the balance between precision and profitability for traders optimizing strategies."
 ---
 

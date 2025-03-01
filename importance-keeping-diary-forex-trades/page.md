@@ -1,5 +1,5 @@
 ---
-title: "The Importance of Keeping a Diary for Forex Trades (Algo Trading)"
+title: "The Importance of Keeping a Diary for Forex Trades"
 description: "Enhance your forex trading with a diary and algo strategies for improved decision-making Analyze past trades refine strategies and gain a competitive edge"
 ---
 

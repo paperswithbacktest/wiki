@@ -1,5 +1,5 @@
 ---
-title: "Extendable Swap: Definition and Functionality (Algo Trading)"
+title: "Extendable Swap: Definition and Functionality"
 description: "Explore the concept of extendable swaps in algo trading Learn how these derivatives offer flexibility and strategic benefits in volatile financial markets"
 ---
 

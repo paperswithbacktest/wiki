@@ -1,5 +1,5 @@
 ---
-title: "Call (Algo Trading)"
+title: "Call"
 description: "Explore how the fusion of telecommunication, algorithmic trading, and communication calls is revolutionizing financial markets by enhancing efficiency and decision-making processes. Discover how rapid data exchange, real-time insights, and advanced trading methodologies are shaping a competitive and informed trading environment."
 ---
 

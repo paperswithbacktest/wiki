@@ -1,5 +1,5 @@
 ---
-title: "Functionality of Long-Term Equity Anticipation Securities Options (Algo Trading)"
+title: "Functionality of Long-Term Equity Anticipation Securities Options"
 description: "Discover the benefits of long-term equity anticipation securities options in algo trading Harness the power of LEAPS extended time frames and technology-enhanced strategies"
 ---
 

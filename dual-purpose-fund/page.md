@@ -1,5 +1,5 @@
 ---
-title: "Dual-Purpose Fund (Algo Trading)"
+title: "Dual-Purpose Fund"
 description: "Discover the synergy of dual-purpose funds and algorithmic trading to enhance investment strategies for balanced growth and income in evolving markets."
 ---
 

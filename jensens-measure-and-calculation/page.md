@@ -1,5 +1,5 @@
 ---
-title: "Jensen's Measure and Its Calculation (Algo Trading)"
+title: "Jensen's Measure and Its Calculation"
 description: "Explore Jensen's Measure in algorithmic trading to assess and refine trading strategies, enhancing returns over benchmarks with risk-adjusted insights."
 ---
 

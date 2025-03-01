@@ -1,5 +1,5 @@
 ---
-title: "Debt-Equity Swap Overview (Algo Trading)"
+title: "Debt-Equity Swap Overview"
 description: "Debt-equity swaps help companies restructure finances by converting debt into equity improving liquidity and strategic growth in complex market conditions."
 ---
 

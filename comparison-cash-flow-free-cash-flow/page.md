@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Cash Flow and Free Cash Flow (Algo Trading)"
+title: "Comparison of Cash Flow and Free Cash Flow"
 description: "Understand cash flow and free cash flow in financial analysis and algo trading to evaluate company health and sustainable growth. Gain insights for smart investing."
 ---
 

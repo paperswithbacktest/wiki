@@ -1,5 +1,5 @@
 ---
-title: "Effectiveness of Quantitative Easing (Algo Trading)"
+title: "Effectiveness of Quantitative Easing"
 description: "Explore the impact of quantitative easing on financial markets and how algorithmic trading transforms the economic landscape offering insights for investors and policymakers."
 ---
 

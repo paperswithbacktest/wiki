@@ -1,5 +1,5 @@
 ---
-title: "Guide to Selecting an Online Stock Brokerage (Algo Trading)"
+title: "Guide to Selecting an Online Stock Brokerage"
 description: "Explore the essential aspects of choosing an online stock brokerage with a focus on algorithmic trading. Understand the importance of factors like fees, platform functionality, and security features in optimizing your trading strategy and achieving financial goals. This guide investigates into the transformative impact of technology on trading and provides insights for evaluating brokers based on your unique investment style and objectives."
 ---
 

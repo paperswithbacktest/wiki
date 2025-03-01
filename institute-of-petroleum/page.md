@@ -1,5 +1,5 @@
 ---
-title: "Institute of Petroleum (Algo Trading)"
+title: "Institute of Petroleum"
 description: "Explore the impact of AI on oil and gas trading at the Institute of Petroleum, focusing on algorithmic strategies that enhance efficiency and decision-making."
 ---
 

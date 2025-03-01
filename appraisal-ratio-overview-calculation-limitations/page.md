@@ -1,5 +1,5 @@
 ---
-title: "Appraisal Ratio: Overview, Calculation, and Limitations (Algo Trading)"
+title: "Appraisal Ratio: Overview, Calculation, and Limitations"
 description: "Explore the appraisal ratio in algo trading to measure portfolio returns against unsystematic risk. Understand its role in optimizing strategies and assessing managers."
 ---
 

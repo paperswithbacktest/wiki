@@ -1,5 +1,5 @@
 ---
-title: "Differences Between IFRS and U.S. GAAP (Algo Trading)"
+title: "Differences Between IFRS and U.S. GAAP"
 description: "Discover the key differences between IFRS and U.S. GAAP as applied to algorithmic trading and understand their impact on accounting practices and financial reporting."
 ---
 

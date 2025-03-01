@@ -1,5 +1,5 @@
 ---
-title: "Bullish Abandoned Baby Pattern (Algo Trading)"
+title: "Bullish Abandoned Baby Pattern"
 description: "Discover the Bullish Abandoned Baby pattern a key reversal indicator in technical analysis This rare three-candlestick formation signals market shifts."
 ---
 

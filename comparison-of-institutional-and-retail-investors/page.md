@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Institutional and Retail Investors (Algo Trading)"
+title: "Comparison of Institutional and Retail Investors"
 description: "Discover the differences between institutional and retail investors in algorithmic trading and their impact on market dynamics and economic trends."
 ---
 

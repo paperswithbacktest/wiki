@@ -1,5 +1,5 @@
 ---
-title: "Base Currency (Algo Trading)"
+title: "Base Currency"
 description: "Explore the dynamic world of forex trading with our in-depth article on base currency and algorithmic trading. Discover how the forex market, the largest financial market globally, operates 24 hours a day and offers vast opportunities for traders. Learn how algorithmic trading has revolutionized forex trading allowing for speedy execution minimizing human emotional biases and optimizing strategies for both institutional and individual traders. Delve into the fundamental concepts of base currency and currency pairs crucial for effective engagement in forex providing insights into currency strength analysis and trading decision-making."
 ---
 

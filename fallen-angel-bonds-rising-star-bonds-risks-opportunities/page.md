@@ -1,5 +1,5 @@
 ---
-title: "Fallen Angel Bonds and Rising Star Bonds: Risks and Opportunities (Algo Trading)"
+title: "Fallen Angel Bonds and Rising Star Bonds: Risks and Opportunities"
 description: "Explore the intricacies of rising star and fallen angel bonds in the high-yield market, uncovering risks and opportunities through algorithmic trading insights."
 ---
 

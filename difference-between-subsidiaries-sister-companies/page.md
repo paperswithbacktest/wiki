@@ -1,5 +1,5 @@
 ---
-title: "Difference Between Subsidiaries and Sister Companies (Algo Trading)"
+title: "Difference Between Subsidiaries and Sister Companies"
 description: "Explore the relationships and roles of subsidiaries and sister companies in algorithmic trading to enhance strategies drive innovation and manage risks effectively."
 ---
 

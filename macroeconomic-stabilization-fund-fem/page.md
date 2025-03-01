@@ -1,5 +1,5 @@
 ---
-title: "Macroeconomic Stabilization Fund (FEM) (Algo Trading)"
+title: "Macroeconomic Stabilization Fund (FEM)"
 description: "Explore the Macroeconomic Stabilization Fund's role in Venezuela, and the impacts of algorithmic trading on economic policies, offering insights into stabilization strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Dismal Science and Its Use in Economics (Algo Trading)"
+title: "Dismal Science and Its Use in Economics"
 description: "Explore the intersection of economics and technology through algorithmic trading Understand how the dismal science shapes today's trading systems and economic frameworks"
 ---
 

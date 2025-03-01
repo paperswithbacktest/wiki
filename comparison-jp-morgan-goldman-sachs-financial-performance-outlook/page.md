@@ -1,5 +1,5 @@
 ---
-title: "Comparison of JP Morgan and Goldman Sachs: Financial Performance and Future Prospects (Algo Trading)"
+title: "Comparison of JP Morgan and Goldman Sachs: Financial Performance and Future Prospects"
 description: "Compare JP Morgan and Goldman Sachs on financial performance and algorithmic trading insights Discover how these banks shape future strategies in global markets"
 ---
 

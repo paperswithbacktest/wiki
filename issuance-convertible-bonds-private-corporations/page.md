@@ -1,5 +1,5 @@
 ---
-title: "Issuance of Convertible Bonds by Private Corporations (Algo Trading)"
+title: "Issuance of Convertible Bonds by Private Corporations"
 description: "Explore how private corporations leverage convertible bonds to balance debt and equity while algorithmic trading enhances market efficiency and investor opportunities."
 ---
 

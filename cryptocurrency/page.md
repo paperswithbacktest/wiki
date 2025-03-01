@@ -1,5 +1,5 @@
 ---
-title: "Cryptocurrencies (Algo Trading)"
+title: "Cryptocurrencies"
 description: Discover the intersection of cryptocurrencies and algorithmic trading. Learn about the unique features of cryptocurrencies, their history, and trading strategies. Explore advantages, risks, and future trends in this dynamic field. Dive deeper with recommended resources.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Short and Long Hedges (Algo Trading)"
+title: "Comparison of Short and Long Hedges"
 description: "Explore the nuances of short and long hedges in algo trading to enhance risk management strategies and protect investments against market volatility."
 ---
 

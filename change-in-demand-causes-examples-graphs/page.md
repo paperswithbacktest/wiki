@@ -1,5 +1,5 @@
 ---
-title: "Change in Demand: Causes, Examples, and Graphs (Algo Trading)"
+title: "Change in Demand: Causes, Examples, and Graphs"
 description: "Explore the impact of changing demand on trading with insights into demand graphs and shocks Discover how algorithmic trading leverages these dynamics"
 ---
 

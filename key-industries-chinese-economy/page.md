@@ -1,5 +1,5 @@
 ---
-title: "Key Industries of the Chinese Economy (Algo Trading)"
+title: "Key Industries of the Chinese Economy"
 description: "Explore China's economic transformation with algorithmic trading at its core enhancing financial markets and driving efficiency across key industries."
 ---
 

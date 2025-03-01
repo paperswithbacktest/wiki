@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Payment Netting and Close-Out Netting (Algo Trading)"
+title: "Comparison of Payment Netting and Close-Out Netting"
 description: "Explore how payment netting and close-out netting enhance risk management and transaction efficiency in algorithmic trading within the financial markets."
 ---
 

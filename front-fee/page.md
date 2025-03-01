@@ -1,5 +1,5 @@
 ---
-title: "Front Fee (Algo Trading)"
+title: "Front Fee"
 description: "Discover the essential financial concepts of front fees and algo trading. Enhance your investment strategies with insights into costs, technology, and market dynamics."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Accounting Records: Components and Types (Algo Trading)"
+title: "Accounting Records: Components and Types"
 description: "Discover the essential components and types of accounting records vital for financial documentation in algorithmic trading ensuring accuracy and compliance."
 ---
 

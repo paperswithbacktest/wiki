@@ -1,5 +1,5 @@
 ---
-title: "Benjamin Graham formula (Algo Trading)"
+title: "Benjamin Graham formula"
 description: "Discover the power of the Benjamin Graham Formula for algorithmic trading Learn how to evaluate stock value and find investment opportunities confidently"
 ---
 

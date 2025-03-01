@@ -1,5 +1,5 @@
 ---
-title: "Average Strike Option (Algo Trading)"
+title: "Average Strike Option"
 description: "Explore average strike options in algorithmic trading and their unique pricing structure. Understand how they reduce market manipulation and volatility exposure."
 ---
 

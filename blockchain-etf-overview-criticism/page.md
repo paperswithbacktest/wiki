@@ -1,5 +1,5 @@
 ---
-title: "Blockchain ETF: Overview and Criticism (Algo Trading)"
+title: "Blockchain ETF: Overview and Criticism"
 description: "Explore the transformative impact of blockchain ETFs sparking financial innovation paired with the automation and speed of algo trading for modern investing."
 ---
 

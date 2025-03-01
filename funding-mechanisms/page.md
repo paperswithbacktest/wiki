@@ -1,5 +1,5 @@
 ---
-title: "Funding Mechanisms (Algo Trading)"
+title: "Funding Mechanisms"
 description: "Explore various funding mechanisms crucial to advancing algo trading. This guide helps traders secure capital, enhance trading strategies, and sustain operations efficiently."
 ---
 

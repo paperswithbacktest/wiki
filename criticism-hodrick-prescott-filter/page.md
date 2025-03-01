@@ -1,5 +1,5 @@
 ---
-title: "Criticism of the Hodrick-Prescott Filter (Algo Trading)"
+title: "Criticism of the Hodrick-Prescott Filter"
 description: "Explore criticisms of the Hodrick-Prescott Filter used in macroeconomics emphasizing its limitations in algorithmic trading and real-time data processing."
 ---
 

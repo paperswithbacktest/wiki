@@ -1,5 +1,5 @@
 ---
-title: "History of Bitcoin's Price (Algo Trading)"
+title: "History of Bitcoin's Price"
 description: "Explore Bitcoin's price history and its interplay with algorithmic trading, highlighting key milestones and market factors. Delve into how past price data can inform trading strategies and future trends, emphasizing technological advances and regulatory impacts on Bitcoin trading and investment."
 ---
 

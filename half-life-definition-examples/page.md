@@ -1,5 +1,5 @@
 ---
-title: "Half-Life: Definition and Examples (Algo Trading)"
+title: "Half-Life: Definition and Examples"
 description: "Explore how the concept of half-life applies to finance and algo trading mirroring chemical decay to manage asset value erosion and strategy effectiveness."
 ---
 

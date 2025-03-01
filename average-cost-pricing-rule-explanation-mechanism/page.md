@@ -1,5 +1,5 @@
 ---
-title: "Average Cost Pricing Rule: Explanation and Mechanism (Algo Trading)"
+title: "Average Cost Pricing Rule: Explanation and Mechanism"
 description: "Discover how average cost pricing influences economic theory and algorithmic trading This article explores its mechanisms benefits and challenges in volatile markets"
 ---
 

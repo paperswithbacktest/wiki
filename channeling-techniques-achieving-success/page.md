@@ -1,5 +1,5 @@
 ---
-title: "Channeling Techniques for Achieving Success (Algo Trading)"
+title: "Channeling Techniques for Achieving Success"
 description: "Explore techniques that combine personal development and algorithmic trading to achieve success. Discover strategies for mindset building, risk management, and more."
 ---
 

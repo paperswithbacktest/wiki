@@ -1,5 +1,5 @@
 ---
-title: "Hierarchy of GAAP: Structure and Standards (Algo Trading)"
+title: "Hierarchy of GAAP: Structure and Standards"
 description: "Explore the synergy between GAAP accounting standards and algorithmic trading to understand their impact on financial transparency and market dynamics."
 ---
 

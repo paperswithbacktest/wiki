@@ -1,5 +1,5 @@
 ---
-title: "Importance of Liquidity in Corporate Bond Markets (Algo Trading)"
+title: "Importance of Liquidity in Corporate Bond Markets"
 description: "Explore the impact of liquidity and algorithmic trading on corporate bond markets Discover how these factors drive market stability efficiency and investment strategies"
 ---
 

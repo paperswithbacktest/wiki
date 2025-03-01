@@ -1,5 +1,5 @@
 ---
-title: "Investment Options With $500: Beyond Penny Stocks (Algo Trading)"
+title: "Investment Options With $500: Beyond Penny Stocks"
 description: "Explore strategic investment options with just $500 beyond penny stocks Discover algorithmic trading plus blue-chip stocks ETFs and more for better returns"
 ---
 

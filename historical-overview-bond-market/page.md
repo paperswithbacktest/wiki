@@ -1,5 +1,5 @@
 ---
-title: "Historical Overview of the Bond Market (Algo Trading)"
+title: "Historical Overview of the Bond Market"
 description: "Dive into the historical evolution of the bond market and discover how algorithmic trading is reshaping its future for investors seeking insights."
 ---
 

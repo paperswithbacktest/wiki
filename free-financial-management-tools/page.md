@@ -1,5 +1,5 @@
 ---
-title: "Free Financial Management Tools (Algo Trading)"
+title: "Free Financial Management Tools"
 description: "Explore a range of free financial management tools including budgeting apps and algorithmic trading solutions to optimize your personal finances and investments."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Celtic Tiger: History and Economic Impact (Algo Trading)"
+title: "Celtic Tiger: History and Economic Impact"
 description: "Explore the economic boom of the Celtic Tiger era in Ireland and its lasting impact Discover key factors like low corporate tax and foreign investments"
 ---
 

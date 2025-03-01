@@ -1,5 +1,5 @@
 ---
-title: "Electronic Data Gathering, Analysis, and Retrieval System (Algo Trading)"
+title: "Electronic Data Gathering, Analysis, and Retrieval System"
 description: "Explore how EDGAR data analysis and retrieval enhance algorithmic trading by providing crucial financial insights, streamlining data-driven investment decisions."
 ---
 

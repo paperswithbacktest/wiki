@@ -1,5 +1,5 @@
 ---
-title: "Eurodollar Futures Trading Overview (Algo Trading)"
+title: "Eurodollar Futures Trading Overview"
 description: "Explore Eurodollar futures trading and algorithmic advancements. Manage interest rate risks and speculate in a liquid market with strategic hedging tools."
 ---
 

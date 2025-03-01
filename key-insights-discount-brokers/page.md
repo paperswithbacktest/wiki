@@ -1,5 +1,5 @@
 ---
-title: "Key Insights into Discount Brokers (Algo Trading)"
+title: "Key Insights into Discount Brokers"
 description: "Explore the role of discount brokers in modern finance and their integration with algorithmic trading Learn how they provide cost-effective solutions for investors"
 ---
 

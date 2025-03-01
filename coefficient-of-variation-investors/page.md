@@ -1,5 +1,5 @@
 ---
-title: "Coefficient of Variation and Its Importance to Investors (Algo Trading)"
+title: "Coefficient of Variation and Its Importance to Investors"
 description: "Discover how the Coefficient of Variation aids investors by evaluating risk-adjusted returns, enhancing investment analysis, and optimizing algorithmic trading strategies."
 ---
 

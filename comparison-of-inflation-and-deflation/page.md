@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Inflation and Deflation (Algo Trading)"
+title: "Comparison of Inflation and Deflation"
 description: "Discover the impact of inflation and deflation on algorithmic trading and market dynamics. Learn how these forces shape economic strategies and trading decisions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Habits of Successful Real Estate Investors (Algo Trading)"
+title: "Habits of Successful Real Estate Investors"
 description: "Explore the habits and strategies of successful real estate investors and discover how algorithmic trading enhances decision-making, offering robust investment insights."
 ---
 

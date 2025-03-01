@@ -1,5 +1,5 @@
 ---
-title: "Audit Department: Roles and Importance (Algo Trading)"
+title: "Audit Department: Roles and Importance"
 description: "Explore the critical role of audits in algorithmic trading and financial markets ensuring compliance and transparency for strong governance and stakeholder trust."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Chilean Peso: History and Exchange Rate (Algo Trading)"
+title: "Chilean Peso: History and Exchange Rate"
 description: "Explore the fascinating dynamics of the Chilean Peso its history and significance in forex markets along with the role of algorithmic trading in optimizing CLP strategies."
 ---
 

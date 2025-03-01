@@ -1,5 +1,5 @@
 ---
-title: "Currency Warrants (Algo Trading)"
+title: "Currency Warrants"
 description: "Explore the world of currency warrants and algorithmic trading where innovative strategies meet advanced technology to optimize forex market opportunities."
 ---
 

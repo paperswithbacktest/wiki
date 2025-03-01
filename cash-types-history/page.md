@@ -1,5 +1,5 @@
 ---
-title: "Cash: Types and History (Algo Trading)"
+title: "Cash: Types and History"
 description: "Explore the evolution and types of cash, including the impact of algorithmic trading. Understand historical currency shifts and digital transformation in finance."
 ---
 

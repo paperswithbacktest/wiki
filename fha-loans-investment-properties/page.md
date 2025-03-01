@@ -1,5 +1,5 @@
 ---
-title: "FHA Loans and Investment Properties (Algo Trading)"
+title: "FHA Loans and Investment Properties"
 description: "Explore the potential of using FHA loans for certain investment properties and how algorithmic trading can optimize real estate investments effectively."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Calculation of Company Equity (Algo Trading)"
+title: "Calculation of Company Equity"
 description: "Explore the essential role of company equity in financial analysis and algorithmic trading Learn calculation methods and interpret metrics to optimize investments"
 ---
 

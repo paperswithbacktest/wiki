@@ -1,5 +1,5 @@
 ---
-title: "Fund Company: Overview, Operations, and Leading Mutual Funds (Algo Trading)"
+title: "Fund Company: Overview, Operations, and Leading Mutual Funds"
 description: "Explore how fund companies leverage mutual funds and algorithmic trading to enhance portfolio diversification and efficiency while minimizing risk."
 ---
 

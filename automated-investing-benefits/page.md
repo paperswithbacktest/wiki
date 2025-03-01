@@ -1,5 +1,5 @@
 ---
-title: "Automated Investing and Its Benefits (Algo Trading)"
+title: "Automated Investing and Its Benefits"
 description: "Discover the benefits and strategies of automated investing and algorithmic trading explore how these modern approaches can streamline your investment journey."
 ---
 

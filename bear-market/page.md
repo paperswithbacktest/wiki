@@ -1,5 +1,5 @@
 ---
-title: "Bear Market (Algo Trading)"
+title: "Bear Market"
 description: "Explore the dynamics of bear markets and the role of algorithmic trading during these times. Understand how bear markets trigger prolonged stock declines affecting financial systems and investor confidence. Discover how algo trading offers a data-driven approach, providing strategic insights and potential opportunities amidst market downturns. This article empowers investors to adapt their strategies and make informed decisions despite market challenges."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Futures Trading and Trend Indicators (Algo Trading)"
+title: "Futures Trading and Trend Indicators"
 description: "Maximize your success in futures trading by leveraging trend indicators and algorithmic strategies Discover how to enhance gains while managing leverage risks"
 ---
 

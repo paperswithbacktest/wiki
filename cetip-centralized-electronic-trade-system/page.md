@@ -1,5 +1,5 @@
 ---
-title: "Cetip - Centralized Electronic Trade System (Algo Trading)"
+title: "Cetip - Centralized Electronic Trade System"
 description: "Explore the dynamics of Brazil's financial market through Cetip and B3. Discover how centralized electronic systems and algo trading enhance efficiency and security."
 ---
 

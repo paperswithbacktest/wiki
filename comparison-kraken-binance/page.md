@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Kraken and Binance (Algo Trading)"
+title: "Comparison of Kraken and Binance"
 description: "Explore the differences between Kraken and Binance for algorithmic trading Learn about their unique features benefits and challenges in the crypto market"
 ---
 

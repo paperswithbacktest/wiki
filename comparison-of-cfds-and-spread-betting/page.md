@@ -1,5 +1,5 @@
 ---
-title: "Comparison of CFDs and Spread Betting (Algo Trading)"
+title: "Comparison of CFDs and Spread Betting"
 description: "Explore the differences and similarities between CFDs and spread betting in algorithmic trading. Learn how leverage, strategies, and market engagement shape investor opportunities."
 ---
 

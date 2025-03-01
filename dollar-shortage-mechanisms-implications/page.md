@@ -1,5 +1,5 @@
 ---
-title: "Dollar Shortage: Mechanisms and Implications (Algo Trading)"
+title: "Dollar Shortage: Mechanisms and Implications"
 description: "Explore the mechanisms of dollar shortages and their impact on global trade and finance Discover how algorithmic trading offers strategic benefits in such crises"
 ---
 

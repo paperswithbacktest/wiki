@@ -1,5 +1,5 @@
 ---
-title: "Global Economic Challenges of an Aging Population (Algo Trading)"
+title: "Global Economic Challenges of an Aging Population"
 description: "Explore global economic challenges posed by aging populations and algorithmic trading Learn strategies to navigate demographic shifts and technological advancements"
 ---
 

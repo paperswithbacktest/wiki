@@ -1,5 +1,5 @@
 ---
-title: "Black Box Accounting: Definition, Techniques, and Challenges (Algo Trading)"
+title: "Black Box Accounting: Definition, Techniques, and Challenges"
 description: "Explore the intricacies of black box accounting and its challenges in algorithmic trading due to lack of transparency, affecting market integrity and trading accuracy."
 ---
 

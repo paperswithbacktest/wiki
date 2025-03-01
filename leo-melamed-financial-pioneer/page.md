@@ -1,5 +1,5 @@
 ---
-title: "Leo Melamed: Financial Pioneer (Algo Trading)"
+title: "Leo Melamed: Financial Pioneer"
 description: "Explore the pioneering contributions of Leo Melamed to financial markets, from revolutionizing futures trading to advancing electronic trading technology and algorithms."
 ---
 

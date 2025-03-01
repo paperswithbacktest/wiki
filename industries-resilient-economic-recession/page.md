@@ -1,5 +1,5 @@
 ---
-title: "Industries Resilient to Economic Recession (Algo Trading)"
+title: "Industries Resilient to Economic Recession"
 description: "Explore recession-resilient industries and the role of algorithmic trading in economic stability Learn how these sectors safeguard investments during downturns"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Intertemporal Equilibrium: Concepts and Mechanisms (Algo Trading)"
+title: "Intertemporal Equilibrium: Concepts and Mechanisms"
 description: "Explore intertemporal equilibrium, a pivotal economic concept used in algorithmic trading, explaining how it informs decisions over time and impacts market strategies."
 ---
 

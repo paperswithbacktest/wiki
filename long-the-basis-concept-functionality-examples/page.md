@@ -1,5 +1,5 @@
 ---
-title: "Long the Basis: Concept, Functionality, and Examples (Algo Trading)"
+title: "Long the Basis: Concept, Functionality, and Examples"
 description: "Explore the concept and functionality of the 'long the basis' strategy in algo trading a method for hedging and profiting from commodity price movements through technology."
 ---
 

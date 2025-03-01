@@ -1,5 +1,5 @@
 ---
-title: "Amortizing Swaps: Overview, Functionality, and Example (Algo Trading)"
+title: "Amortizing Swaps: Overview, Functionality, and Example"
 description: "Explore the world of amortizing swaps in algo trading Understand their role in risk management and algorithmic strategies for optimized financial outcomes."
 ---
 

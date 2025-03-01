@@ -1,5 +1,5 @@
 ---
-title: "Commingling Practices and Implications (Algo Trading)"
+title: "Commingling Practices and Implications"
 description: "Explore the convergence of asset management, finance commingling, and algorithmic trading and learn how these strategies optimize investment returns efficiently."
 ---
 

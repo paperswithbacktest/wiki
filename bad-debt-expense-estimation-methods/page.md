@@ -1,5 +1,5 @@
 ---
-title: "Bad Debt Expense and Estimation Methods (Algo Trading)"
+title: "Bad Debt Expense and Estimation Methods"
 description: "Discover how algorithmic trading enhances bad debt management and expense estimation by leveraging data-driven strategies for better financial decision-making."
 ---
 

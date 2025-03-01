@@ -1,5 +1,5 @@
 ---
-title: "Acquisition Debt: Meaning and Functionality (Algo Trading)"
+title: "Acquisition Debt: Meaning and Functionality"
 description: "Explore how acquisition debt supports strategic growth and manages risk in corporate finance and algo trading by leveraging financing structures for asset acquisition."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Color: Meaning, Function, and Examples (Algo Trading)"
+title: "Color: Meaning, Function, and Examples"
 description: "Explore how color theory enhances trading strategies by simplifying data interpretation through color-coded visual cues in algorithmic and traditional trading."
 ---
 

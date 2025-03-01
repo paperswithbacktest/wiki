@@ -1,5 +1,5 @@
 ---
-title: "Afghan Afghani: History and Economic Role in Afghanistan (Algo Trading)"
+title: "Afghan Afghani: History and Economic Role in Afghanistan"
 description: "Explore the history and significance of the Afghan Afghani in Afghanistan's turbulent economic landscape and the rise of algorithmic trading."
 ---
 

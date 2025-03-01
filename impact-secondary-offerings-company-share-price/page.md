@@ -1,5 +1,5 @@
 ---
-title: "Impact of Secondary Offerings on Company Share Price (Algo Trading)"
+title: "Impact of Secondary Offerings on Company Share Price"
 description: "Understand how secondary offerings influence stock prices and investor sentiment, and explore how algorithmic trading adapts to market changes during these events."
 ---
 

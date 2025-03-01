@@ -1,5 +1,5 @@
 ---
-title: "Economic Surplus (Algo Trading)"
+title: "Economic Surplus"
 description: "Explore how the concept of economic surplus intertwines with algorithmic trading to enhance understanding of market dynamics and optimize financial outcomes. Gain insights into consumer and producer surplus and the implications of surplus management for policymakers traders and businesses. Discover strategies for navigating excess production and financial surpluses within modern economic systems."
 ---
 

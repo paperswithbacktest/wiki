@@ -1,5 +1,5 @@
 ---
-title: "Alaska Permanent Fund Overview (Algo Trading)"
+title: "Alaska Permanent Fund Overview"
 description: "Explore the vital role of the Alaska Permanent Fund in stabilizing and advancing the state's economy through innovative investment strategies and algorithmic trading."
 ---
 

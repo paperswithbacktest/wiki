@@ -1,5 +1,5 @@
 ---
-title: "Countries with Largest Budget Deficits (Algo Trading)"
+title: "Countries with Largest Budget Deficits"
 description: "Discover insights on countries with the largest budget deficits and how algorithmic trading is shaping fiscal strategies in today's global economy."
 ---
 

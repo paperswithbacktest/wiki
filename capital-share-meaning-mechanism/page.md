@@ -1,5 +1,5 @@
 ---
-title: "Capital Share: Meaning and Mechanism (Algo Trading)"
+title: "Capital Share: Meaning and Mechanism"
 description: "Explore the impact of algorithmic trading on capital distribution and economic growth. Discover how it reshapes financial markets for investors and policymakers."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Flexi-Cap Fund: Definition and Operation (Algo Trading)"
+title: "Flexi-Cap Fund: Definition and Operation"
 description: "Explore the dynamic world of flexi-cap funds, offering diversified investment strategies through algorithmic trading for growth and risk management in volatile markets."
 ---
 

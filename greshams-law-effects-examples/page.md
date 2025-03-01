@@ -1,5 +1,5 @@
 ---
-title: "Gresham's Law and Its Effects (Algo Trading)"
+title: "Gresham's Law and Its Effects"
 description: "Explore how Gresham's Law impacts algorithmic trading in modern currency markets Understand the interplay of legal tender laws and economic behaviors."
 ---
 

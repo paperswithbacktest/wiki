@@ -1,5 +1,5 @@
 ---
-title: "Impact of Supply and Demand on Prices (Algo Trading)"
+title: "Impact of Supply and Demand on Prices"
 description: "Explore how supply and demand dynamics influence prices in markets, and discover the impact of algorithmic trading on these economic principles."
 ---
 

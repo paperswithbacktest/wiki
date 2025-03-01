@@ -1,5 +1,5 @@
 ---
-title: "Historical Record Temperature Low (Algo Trading)"
+title: "Historical Record Temperature Low"
 description: "Explore the impact of record low temperatures on algorithmic trading and discover how integrating weather data offers fresh insights and strategic advantages for traders."
 ---
 

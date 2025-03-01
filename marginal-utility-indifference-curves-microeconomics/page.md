@@ -1,5 +1,5 @@
 ---
-title: "Marginal Utility and Indifference Curves in Microeconomics (Algo Trading)"
+title: "Marginal Utility and Indifference Curves in Microeconomics"
 description: "Explore how microeconomics intersects with algorithmic trading by leveraging marginal utility and indifference curves to optimize trading strategies and analyze markets."
 ---
 

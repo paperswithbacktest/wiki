@@ -1,5 +1,5 @@
 ---
-title: "Historical databases (Algo Trading)"
+title: "Historical databases"
 description: Explore how historical databases play a vital role in algorithmic trading by providing essential past trading data for simulating and backtesting strategies. With advancements in database technologies, traders can efficiently manage large datasets, enabling sophisticated algorithm development and real-time analytics to adapt to rapid market changes. The article highlights the significance of choosing the right database for storing and analyzing historical data and explores popular databases like MemSQL, ClickHouse, and TimescaleDB, crucial for enhancing the performance and success of trading algorithms.
 ---
 

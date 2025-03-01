@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Enhancing Investment Returns with Bond Ladders (Algo Trading)"
+title: "Strategies for Enhancing Investment Returns with Bond Ladders"
 description: "Discover how integrating bond ladders with algorithmic trading can enhance investment returns by optimizing timing and selection for increased financial gains."
 ---
 

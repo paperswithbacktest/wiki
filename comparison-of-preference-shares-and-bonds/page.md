@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Preference Shares and Bonds (Algo Trading)"
+title: "Comparison of Preference Shares and Bonds"
 description: "Explore the strategic roles and intricate dynamics of bonds, preference shares, and algorithmic trading to enhance your investment decisions and diversify portfolios."
 ---
 

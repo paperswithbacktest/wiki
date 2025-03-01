@@ -1,5 +1,5 @@
 ---
-title: "9-30 Trading Strategy Explained (Algo Trading)"
+title: "9-30 Trading Strategy Explained"
 description: Explore the power of the 9 EMA in algorithmic trading with this comprehensive guide on the 9-30 trading strategy. Discover how the 9 EMA excels in capturing short-term trends and how its crossover with other moving averages like the 30 WMA can enhance your trading execution. Learn practical applications and methods to implement these strategies, ensuring timely decision-making in fast-paced trading environments. With insights into risk management and additional technical indicators, this article equips traders with the tools to refine their strategies and potentially improve trading outcomes in various market conditions.
 ---
 

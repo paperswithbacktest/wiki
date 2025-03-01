@@ -1,5 +1,5 @@
 ---
-title: "Block House (Algo Trading)"
+title: "Block House"
 description: "Explore the complex dynamics of architecture and finance in this insightful article on Block Houses and Algorithmic Trading. Delve into how innovative architectural design harmonizes function and aesthetics while integrating sustainable technologies. Discover the role of block houses in executing substantial trades discretely to maintain market stability and liquidity. Uncover the revolution of financial markets by algorithmic trading, enhanced by AI and machine learning, for precise and high-speed trading decisions. Gain valuable insights into how these fields shape modern infrastructure and financial systems."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Asset Beta vs. Market Beta in Python (Algo Trading)"
+title: "Asset Beta vs. Market Beta in Python"
 description: Discover the role of beta in algorithmic trading as a key metric for assessing stock volatility and risk. Learn how beta, a statistical measure, helps traders optimize portfolios and hedge against market fluctuations. This article provides a comprehensive guide to calculating a stock's beta using Python, offering insights into enhancing trading strategies through mathematical and programming techniques. Understand the significance of beta in evaluating systematic risk and its integration in creating balanced, efficient investment approaches in algo trading.
 ---
 

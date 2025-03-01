@@ -1,5 +1,5 @@
 ---
-title: "Markit Group (Algo Trading)"
+title: "Markit Group"
 description: "Discover how Markit Group revolutionizes algorithmic trading through high-quality data solutions and analytics, enhancing precision and efficiency in financial markets."
 ---
 

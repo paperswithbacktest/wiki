@@ -1,5 +1,5 @@
 ---
-title: "Functional Obsolescence in Real Estate and Technology (Algo Trading)"
+title: "Functional Obsolescence in Real Estate and Technology"
 description: "Explore the impact of technology on real estate and trading through PropTech and algorithmic trading insights Learn how these innovations redefine market strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Communication Sector ETFs (Algo Trading)"
+title: "Communication Sector ETFs"
 description: "Explore opportunities in the rapidly evolving communication sector with ETFs focused on telecommunications media and internet services Perfect for algo trading optimization"
 ---
 

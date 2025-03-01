@@ -1,5 +1,5 @@
 ---
-title: "Diamond-Water Paradox (Algo Trading)"
+title: "Diamond-Water Paradox"
 description: "Explore the Diamond-Water Paradox in economics and its implications for value perception in algorithmic trading. Understand key theories on marginal utility."
 ---
 

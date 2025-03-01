@@ -1,5 +1,5 @@
 ---
-title: "Forex Training: Overview and Mechanisms (Algo Trading)"
+title: "Forex Training: Overview and Mechanisms"
 description: "Explore the dynamics of forex trading with a focus on training and algorithmic strategies Discover how to leverage market mechanisms for financial success"
 ---
 

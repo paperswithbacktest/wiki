@@ -1,5 +1,5 @@
 ---
-title: "History of Classical Economics (Algo Trading)"
+title: "History of Classical Economics"
 description: "Explore the fascinating journey from classical economics to today's algorithmic trading in this captivating piece Discover how foundational economic concepts by thinkers like Adam Smith shape modern trading practices Gain insights into the transition from minimal government intervention to complex market systems Understand the enduring influence of classical ideas in current financial frameworks and learn how these timeless principles integrate into cutting-edge trading strategies for greater efficiency and competitiveness in the financial markets"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Centralized Market (Algo Trading)"
+title: "Centralized Market"
 description: "Explore the dynamics of centralized markets with algorithmic trading transforming structures enhancing efficiency and posing new challenges in the financial realm"
 ---
 

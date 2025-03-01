@@ -1,5 +1,5 @@
 ---
-title: "Limitations of the Sharpe Ratio in Risk Assessment (Algo Trading)"
+title: "Limitations of the Sharpe Ratio in Risk Assessment"
 description: "Discover the inherent limitations of the Sharpe Ratio in assessing risk and optimizing strategies in algorithmic trading to enhance decision-making."
 ---
 

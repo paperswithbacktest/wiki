@@ -1,5 +1,5 @@
 ---
-title: "Hidden Liquidity in Markets (Algo Trading)"
+title: "Hidden Liquidity in Markets"
 description: "Explore the dynamics of hidden liquidity in algo trading and iceberg orders to safeguard trades from market impacts, enhancing strategic anonymity and trading success."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Countermove (Algo Trading)"
+title: "Countermove"
 description: "Explore the transformative impact of algo trading using countermove strategies to optimize trade execution and capitalize on market retracements."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Conservative Investment Strategies (Algo Trading)"
+title: "Conservative Investment Strategies"
 description: "Explore the benefits and drawbacks of conservative investing and algorithmic trading to make informed decisions and create a tailored investment strategy that balances risk."
 ---
 

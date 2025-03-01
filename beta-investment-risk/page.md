@@ -1,5 +1,5 @@
 ---
-title: "Beta in Investment Risk (Algo Trading)"
+title: "Beta in Investment Risk"
 description: "Explore the role of beta in investment risk assessment and the impact of algorithmic trading on financial strategies for maximizing returns and minimizing risks."
 ---
 

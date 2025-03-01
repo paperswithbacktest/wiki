@@ -1,5 +1,5 @@
 ---
-title: "Accounting Research Bulletins: Function and Impact (Algo Trading)"
+title: "Accounting Research Bulletins: Function and Impact"
 description: "Explore the function and impact of Accounting Research Bulletins and their integration with algorithmic trading for future accounting and trading standards."
 ---
 

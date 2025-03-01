@@ -1,5 +1,5 @@
 ---
-title: "Baby Boomer Age Wave Theory (Algo Trading)"
+title: "Baby Boomer Age Wave Theory"
 description: "Explore how Baby Boomer trends Age Wave theory and algorithmic trading intersect offering unique insights into economy shifts and investment strategies."
 ---
 

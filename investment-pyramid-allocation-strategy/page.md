@@ -1,5 +1,5 @@
 ---
-title: "Investment Pyramid and Allocation Strategy (Algo Trading)"
+title: "Investment Pyramid and Allocation Strategy"
 description: "Explore investment strategies using the investment pyramid for balanced asset allocation. Leverage algorithmic trading to optimize return and manage risk effectively."
 ---
 

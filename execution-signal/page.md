@@ -1,5 +1,5 @@
 ---
-title: "Execution signal (Algo Trading)"
+title: "Execution signal"
 description: "Discover how execution signals optimize algorithmic trading by enhancing trade execution efficiency, reducing costs, and navigating complex financial markets effectively."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Exports: Overview, Benefits, and Examples (Algo Trading)"
+title: "Exports: Overview, Benefits, and Examples"
 description: "Explore the significance of exports and international trade, discover their economic benefits and understand how algorithmic trading is streamlining global trade operations."
 ---
 

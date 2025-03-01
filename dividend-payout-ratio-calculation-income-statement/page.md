@@ -1,5 +1,5 @@
 ---
-title: "Dividend Payout Ratio Calculation from Income Statement (Algo Trading)"
+title: "Dividend Payout Ratio Calculation from Income Statement"
 description: "Explore the importance of the dividend payout ratio in evaluating a company's financial health and dividend policies for successful algorithmic trading."
 ---
 

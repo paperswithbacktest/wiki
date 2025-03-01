@@ -1,5 +1,5 @@
 ---
-title: "Liquidation Margin in Margin Trading (Algo Trading)"
+title: "Liquidation Margin in Margin Trading"
 description: "Explore liquidation margin in margin trading and its impact on algorithmic trading. Learn about types of margins and managing risks to optimize trading strategies."
 ---
 

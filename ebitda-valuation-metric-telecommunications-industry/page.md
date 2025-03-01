@@ -1,5 +1,5 @@
 ---
-title: "Use of EBITDA as a Valuation Metric in the Telecommunications Industry (Algo Trading)"
+title: "Use of EBITDA as a Valuation Metric in the Telecommunications Industry"
 description: "Discover how EBITDA, a vital financial metric, enhances telecom valuation and informs algorithmic trading strategies by highlighting operational performance."
 ---
 

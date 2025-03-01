@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Money Flow Index and Relative Strength Index (Algo Trading)"
+title: "Comparison of Money Flow Index and Relative Strength Index"
 description: "Explore the Money Flow Index and Relative Strength Index in trading. Understand their differences and applications to enhance your market analysis and strategies."
 ---
 

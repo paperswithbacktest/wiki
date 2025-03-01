@@ -1,5 +1,5 @@
 ---
-title: "Importance of WACC for Investors (Algo Trading)"
+title: "Importance of WACC for Investors"
 description: "Understanding WACC is crucial for investors in algorithmic trading as it helps evaluate investment potential and optimize financial strategies ensuring robust decision-making."
 ---
 

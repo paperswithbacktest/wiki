@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Stocks and Exchange-Traded Funds (Algo Trading)"
+title: "Comparison of Stocks and Exchange-Traded Funds"
 description: "Discover the key differences between stocks, ETFs, and algorithmic trading and how they can optimize your investment strategy for better financial outcomes."
 ---
 

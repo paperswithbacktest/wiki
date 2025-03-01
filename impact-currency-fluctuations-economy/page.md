@@ -1,5 +1,5 @@
 ---
-title: "Impact of Currency Fluctuations on the Economy (Algo Trading)"
+title: "Impact of Currency Fluctuations on the Economy"
 description: "Discover the profound impact of currency fluctuations on global economies and the role of forex markets and algorithmic trading in managing these changes. This article explores how currency valuation affects trade, investment, and growth, while offering insights into leveraging advanced trading technologies for economic resilience and strategic decision-making."
 ---
 

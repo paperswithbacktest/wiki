@@ -1,5 +1,5 @@
 ---
-title: "Composite Index of Leading Indicators (Algo Trading)"
+title: "Composite Index of Leading Indicators"
 description: "Explore the intricate world of finance with insights into economic forecasting, leading indicators, indexes, and algorithmic trading to guide informed decisions."
 ---
 

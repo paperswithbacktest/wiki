@@ -1,5 +1,5 @@
 ---
-title: "Goodwill Amortization (Algo Trading)"
+title: "Goodwill Amortization"
 description: "Explore how goodwill amortization impacts algorithmic trading strategies, offering insights on managing intangible assets for informed financial decision-making."
 ---
 

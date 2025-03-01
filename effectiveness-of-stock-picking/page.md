@@ -1,5 +1,5 @@
 ---
-title: "Effectiveness Of Stock Picking (Algo Trading)"
+title: "Effectiveness Of Stock Picking"
 description: "Explore the effectiveness of stock picking and algorithmic trading to enhance investment outcomes Discover strategies that optimize returns and minimize risks"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Homo Economicus: Concept and Critiques (Algo Trading)"
+title: "Homo Economicus: Concept and Critiques"
 description: "Explore Homo Economicus, the rational economic agent model, its impact on economic theory, and critiques highlighting its disconnect from real human behavior."
 ---
 

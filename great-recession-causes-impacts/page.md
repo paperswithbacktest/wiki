@@ -1,5 +1,5 @@
 ---
-title: "Great Recession: Causes and Impacts (Algo Trading)"
+title: "Great Recession: Causes and Impacts"
 description: "Explore the causes and impacts of the Great Recession, focusing on algorithmic trading's role in financial instability and market resilience."
 ---
 

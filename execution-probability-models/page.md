@@ -1,5 +1,5 @@
 ---
-title: "Execution Probability Models (Algo Trading)"
+title: "Execution Probability Models"
 description: "Explore execution probability models for algorithmic trading and enhance trade efficiency with insights on order execution likelihood improving trading strategies."
 ---
 

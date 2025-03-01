@@ -1,5 +1,5 @@
 ---
-title: "Cash Flow Activities in Operations (Algo Trading)"
+title: "Cash Flow Activities in Operations"
 description: "Explore the essential aspects of cash flow activities in operations within algorithmic trading. Discover how financial statements, particularly cash flow statements, offer critical insights into a company’s financial health and operational efficiency. Delve into the integration of cash flow analysis in algorithmic trading strategies to enhance decision-making and trading performance. This article examines the intersection of these financial components and their significance in developing effective trading models in today’s rapidly evolving financial markets."
 ---
 

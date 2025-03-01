@@ -1,5 +1,5 @@
 ---
-title: "Delivery Overview and Mechanisms (Algo Trading)"
+title: "Delivery Overview and Mechanisms"
 description: "Explore the integration of delivery processes in algorithmic trading to enhance trade efficiency and manage risks using advanced methodologies and technologies."
 ---
 

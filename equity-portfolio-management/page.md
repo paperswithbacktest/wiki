@@ -1,5 +1,5 @@
 ---
-title: "Equity Portfolio Management (Algo Trading)"
+title: "Equity Portfolio Management"
 description: "Explore the synergy of equity portfolio management and algorithmic trading to enhance investment strategies maximize returns and manage risks effectively."
 ---
 

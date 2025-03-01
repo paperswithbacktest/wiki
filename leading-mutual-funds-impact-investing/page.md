@@ -1,5 +1,5 @@
 ---
-title: "Leading Mutual Funds in Impact Investing (Algo Trading)"
+title: "Leading Mutual Funds in Impact Investing"
 description: "Discover the intersection of sustainable finance and algorithmic trading as mutual funds drive impact investing enhancing efficiency and societal benefits."
 ---
 

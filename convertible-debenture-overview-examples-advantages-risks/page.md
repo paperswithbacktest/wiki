@@ -1,5 +1,5 @@
 ---
-title: "Convertible Debenture: Overview, Examples, Advantages, and Risks (Algo Trading)"
+title: "Convertible Debenture: Overview, Examples, Advantages, and Risks"
 description: "Discover the benefits and risks of convertible debentures and algorithmic trading Get insights into these financial instruments for informed investing decisions"
 ---
 

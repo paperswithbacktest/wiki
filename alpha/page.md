@@ -1,5 +1,5 @@
 ---
-title: "Alpha (Algo Trading)"
+title: "Alpha"
 description: Explore the significance of Alpha in algorithmic trading, a key metric that measures investment performance against market indices. Understand how traders use Alpha to assess and refine strategies for generating excess returns, highlighting its role in modern portfolio theory and the quest for consistent positive Alpha in efficient markets.
 ---
 

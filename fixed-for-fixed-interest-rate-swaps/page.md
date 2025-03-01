@@ -1,5 +1,5 @@
 ---
-title: "Fixed-for-Fixed Interest Rate Swaps (Algo Trading)"
+title: "Fixed-for-Fixed Interest Rate Swaps"
 description: "Explore the key aspects of fixed-for-fixed interest rate swaps and their role in algorithmic trading Learn how these derivatives enhance financial strategies and risk management"
 ---
 

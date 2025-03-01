@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning for Stock Price Prediction Using Regression (Algo Trading)"
+title: "Machine Learning for Stock Price Prediction Using Regression"
 description: Discover the impact of regression analysis in algorithmic trading for stock price prediction. Explore how various regression techniques like linear and logistic regression help traders interpret market patterns and make data-driven decisions, enhancing trading strategies and profitability. Understand the fundamental principles and applications of regression in financial markets while considering the benefits and limitations of these analytical methods.
 ---
 

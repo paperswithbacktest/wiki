@@ -1,5 +1,5 @@
 ---
-title: "Corporate Trade Exchange: Overview and Functionality (Algo Trading)"
+title: "Corporate Trade Exchange: Overview and Functionality"
 description: "Explore how CTX payment systems revolutionize financial transactions by enhancing efficiency, accuracy, and transparency, crucial for modern businesses and governments."
 ---
 

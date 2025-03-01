@@ -1,5 +1,5 @@
 ---
-title: "Jacobs Levy Equity Management (Algo Trading)"
+title: "Jacobs Levy Equity Management"
 description: "Jacobs Levy Equity Management revolutionizes equity portfolio management using cutting-edge algorithmic trading strategies, integrating finance theory with advanced technology for superior market returns."
 ---
 

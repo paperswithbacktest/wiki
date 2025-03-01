@@ -1,5 +1,5 @@
 ---
-title: "Corporate Bond Issuance and Debt Financing (Algo Trading)"
+title: "Corporate Bond Issuance and Debt Financing"
 description: "Explore the dynamic world of corporate bond issuance and debt financing enhanced by algorithmic trading Discover how bonds drive growth and market efficiency"
 ---
 

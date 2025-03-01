@@ -1,5 +1,5 @@
 ---
-title: "Foaming the Runway: Definition and Applications (Algo Trading)"
+title: "Foaming the Runway: Definition and Applications"
 description: "Explore the concept of "foaming the runway" from aviation safety to financial crisis management focusing on its use in algorithmic trading to manage risk."
 ---
 

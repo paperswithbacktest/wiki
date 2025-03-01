@@ -1,5 +1,5 @@
 ---
-title: "Cost Basis Calculation for Mutual Funds Over Time (Algo Trading)"
+title: "Cost Basis Calculation for Mutual Funds Over Time"
 description: "Discover how algorithmic trading enhances mutual fund cost basis calculation for tax efficiency and optimized investment strategies. Maximize financial outcomes."
 ---
 

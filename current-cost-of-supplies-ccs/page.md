@@ -1,5 +1,5 @@
 ---
-title: "Current Cost of Supplies (CCS) (Algo Trading)"
+title: "Current Cost of Supplies (CCS)"
 description: "Discover how the Current Cost of Supplies metric enhances financial reporting and its pivotal role in optimizing algorithmic trading strategies for volatile markets."
 ---
 

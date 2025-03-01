@@ -1,5 +1,5 @@
 ---
-title: "Equity Curve: Overview and Calculations (Algo Trading)"
+title: "Equity Curve: Overview and Calculations"
 description: "Explore the significance of equity curves in algo trading as they reveal trading account performance over time crucial for strategic adjustments and risk management."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Caxton Associates (Algo Trading)"
+title: "Caxton Associates"
 description: "Discover how Caxton Associates leverages algorithmic trading and global macro strategies to maintain its leadership in the hedge fund sector."
 ---
 

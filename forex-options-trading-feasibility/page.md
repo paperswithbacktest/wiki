@@ -1,5 +1,5 @@
 ---
-title: "Forex Options Trading Feasibility (Algo Trading)"
+title: "Forex Options Trading Feasibility"
 description: "Explore the feasibility of forex options trading and algorithmic strategies in the evolving currency market Gain insights into risk management and trading efficiency"
 ---
 

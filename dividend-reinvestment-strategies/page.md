@@ -1,5 +1,5 @@
 ---
-title: "Dividend Reinvestment Strategies (Algo Trading)"
+title: "Dividend Reinvestment Strategies"
 description: "Explore dividend reinvestment and algo trading for robust portfolio growth Learn how AI-driven strategies enhance returns and efficiency in modern finance"
 ---
 

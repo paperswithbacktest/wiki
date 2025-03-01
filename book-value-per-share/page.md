@@ -1,5 +1,5 @@
 ---
-title: "Book Value Per Share (Algo Trading)"
+title: "Book Value Per Share"
 description: "Unlock the potential of Book Value and BVPS in algo trading to enhance stock evaluation and optimize investment strategies with fundamental financial insights."
 ---
 

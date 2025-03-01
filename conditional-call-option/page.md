@@ -1,5 +1,5 @@
 ---
-title: "Conditional Call Option (Algo Trading)"
+title: "Conditional Call Option"
 description: "Explore the benefits of conditional call options in algo trading for enhanced risk management and precision. Learn how these strategies optimize trading outcomes."
 ---
 

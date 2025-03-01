@@ -1,5 +1,5 @@
 ---
-title: "Distressed Securities: Overview and Examples (Algo Trading)"
+title: "Distressed Securities: Overview and Examples"
 description: "Explore how distressed securities offer unique investment opportunities, with algorithmic trading enhancing strategy execution and optimizing high-risk, high-reward potentials."
 ---
 

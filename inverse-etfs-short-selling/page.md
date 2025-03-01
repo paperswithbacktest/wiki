@@ -1,5 +1,5 @@
 ---
-title: "Inverse ETFs and Short Selling (Algo Trading)"
+title: "Inverse ETFs and Short Selling"
 description: "Explore the dynamic world of inverse ETFs, short selling, and algorithmic trading to profit from declining markets and optimize your investment strategy."
 ---
 

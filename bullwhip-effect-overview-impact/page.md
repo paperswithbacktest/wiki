@@ -1,5 +1,5 @@
 ---
-title: "Bullwhip Effect: Overview and Impact (Algo Trading)"
+title: "Bullwhip Effect: Overview and Impact"
 description: "Explore the bullwhip effect in supply chains and discover how algorithmic trading can mitigate demand distortion boosting efficiency and resilience."
 ---
 

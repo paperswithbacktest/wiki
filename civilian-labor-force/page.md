@@ -1,5 +1,5 @@
 ---
-title: "Civilian Labor Force (Algo Trading)"
+title: "Civilian Labor Force"
 description: "Explore the intersection of the civilian labor force, workforce employment, and algorithmic trading in today's economy through insightful analysis."
 ---
 

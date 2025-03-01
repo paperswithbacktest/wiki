@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Lightspeed and Interactive Brokers 2024 (Algo Trading)"
+title: "Comparison of Lightspeed and Interactive Brokers 2024"
 description: "Compare Lightspeed and Interactive Brokers for 2024 algo trading. Assess usability, pricing, and trade experience to choose the right platform for your needs."
 ---
 

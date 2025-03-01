@@ -1,5 +1,5 @@
 ---
-title: "Charm Delta Decay: Mechanism and Examples (Algo Trading)"
+title: "Charm Delta Decay: Mechanism and Examples"
 description: "Explore the intriguing interplay between particle physics and algorithmic trading through charm delta decay, enhancing predictive models for better trading strategies."
 ---
 

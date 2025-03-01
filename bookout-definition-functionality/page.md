@@ -1,5 +1,5 @@
 ---
-title: "Bookout: Definition and Functionality (Algo Trading)"
+title: "Bookout: Definition and Functionality"
 description: "Explore bookout functionality in algo trading and its role in enhancing trade efficiency and risk management by closing positions before maturity."
 ---
 

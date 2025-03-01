@@ -1,5 +1,5 @@
 ---
-title: "Expiration of Stock Options (Algo Trading)"
+title: "Expiration of Stock Options"
 description: "Explore the intricacies of options expiration and its impact on algo trading strategies uncover key insights into effective trading opportunities and market dynamics."
 ---
 

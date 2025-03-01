@@ -1,5 +1,5 @@
 ---
-title: "Bull Market and Investor Benefits (Algo Trading)"
+title: "Bull Market and Investor Benefits"
 description: "Explore the opportunities for investors in bull markets and how algorithmic trading enhances returns by leveraging rising prices and market dynamics."
 ---
 

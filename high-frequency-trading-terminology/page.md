@@ -1,5 +1,5 @@
 ---
-title: "High-Frequency Trading Terminology (Algo Trading)"
+title: "High-Frequency Trading Terminology"
 description: "Explore the intricacies of high-frequency and algorithmic trading terminology, uncovering their structures and impact on today's financial markets."
 ---
 

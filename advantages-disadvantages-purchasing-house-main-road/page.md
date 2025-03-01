@@ -1,5 +1,5 @@
 ---
-title: "Advantages and Disadvantages of Purchasing a House on a Main Road (Algo Trading)"
+title: "Advantages and Disadvantages of Purchasing a House on a Main Road"
 description: "Discover the pros and cons of buying a house on a main road. Weigh convenience against noise and pollution to make informed real estate decisions."
 ---
 

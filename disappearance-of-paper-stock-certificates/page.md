@@ -1,5 +1,5 @@
 ---
-title: "Disappearance of Paper Stock Certificates (Algo Trading)"
+title: "Disappearance of Paper Stock Certificates"
 description: "Explore the transition from paper stock certificates to electronic records in the financial world highlighting dematerialization and algorithmic trading advancements."
 ---
 

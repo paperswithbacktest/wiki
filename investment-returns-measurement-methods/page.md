@@ -1,5 +1,5 @@
 ---
-title: "Investment Returns and Measurement Methods (Algo Trading)"
+title: "Investment Returns and Measurement Methods"
 description: "Explore various metrics for evaluating investment returns in algorithmic trading to optimize strategies and maximize profitability in dynamic financial markets."
 ---
 

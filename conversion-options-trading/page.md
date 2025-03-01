@@ -1,5 +1,5 @@
 ---
-title: "Conversion in Options Trading (Algo Trading)"
+title: "Conversion in Options Trading"
 description: "Discover insights into options trading conversion strategies and algorithmic trading to enhance portfolio management and capitalize on market opportunities."
 ---
 

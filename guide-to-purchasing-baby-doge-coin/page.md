@@ -1,5 +1,5 @@
 ---
-title: "Guide to Purchasing Baby Doge Coin (Algo Trading)"
+title: "Guide to Purchasing Baby Doge Coin"
 description: "Discover the essentials of buying Baby Doge Coin using algorithmic trading Gain insights into meme cryptocurrencies and learn advanced trading strategies for optimal investments"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Fractal Markets Theory (Algo Trading)"
+title: "Fractal Markets Theory"
 description: "Explore Fractal Market Hypothesis in algorithmic trading examining investment horizons and market liquidity for robust strategies in dynamic markets."
 ---
 

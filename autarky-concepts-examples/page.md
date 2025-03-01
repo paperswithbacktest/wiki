@@ -1,5 +1,5 @@
 ---
-title: "Autarky: Concepts and Examples (Algo Trading)"
+title: "Autarky: Concepts and Examples"
 description: "Explore autarky and algorithmic trading, two pivotal economic concepts that influence national self-sufficiency and modern financial markets through technology."
 ---
 

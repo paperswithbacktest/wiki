@@ -1,5 +1,5 @@
 ---
-title: "Financial Accounting in Decision-Making (Algo Trading)"
+title: "Financial Accounting in Decision-Making"
 description: "Explore how financial accounting impacts decision-making and the growing role of algorithmic trading in financial markets through data-driven insights."
 ---
 

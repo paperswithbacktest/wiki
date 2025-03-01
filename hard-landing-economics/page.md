@@ -1,5 +1,5 @@
 ---
-title: "Hard Landing in Economics (Algo Trading)"
+title: "Hard Landing in Economics"
 description: "Explore the complexities of economic hard landings and algorithmic trading's impact on downturns Learn how these forces shape modern economies and navigate challenges"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Capital Risk in Investment (Algo Trading)"
+title: "Capital Risk in Investment"
 description: "Explore the importance of understanding capital risk in investment strategies including the role of algorithmic trading in managing risks for smarter investment decisions."
 ---
 

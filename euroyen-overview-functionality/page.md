@@ -1,5 +1,5 @@
 ---
-title: "Euroyen: Overview and Functionality (Algo Trading)"
+title: "Euroyen: Overview and Functionality"
 description: "Discover the Euroyen market's impact on algorithmic trading optimizing strategies through access to yen-denominated deposits outside Japan, enhancing liquidity and risk management."
 ---
 

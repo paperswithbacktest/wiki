@@ -1,5 +1,5 @@
 ---
-title: "Corporate Benefits of Interest Rate and Currency Swaps (Algo Trading)"
+title: "Corporate Benefits of Interest Rate and Currency Swaps"
 description: "Discover the corporate advantages of interest rate and currency swaps in risk management and strategic financial planning, enhanced by algorithmic trading."
 ---
 

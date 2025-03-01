@@ -1,5 +1,5 @@
 ---
-title: "Attachment Theory and Mechanisms (Algo Trading)"
+title: "Attachment Theory and Mechanisms"
 description: "Explore how attachment theory influences trading behavior and decision-making in algorithmic trading to develop more balanced and resilient strategies."
 ---
 

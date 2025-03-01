@@ -1,5 +1,5 @@
 ---
-title: "International Clearing System (Algo Trading)"
+title: "International Clearing System"
 description: "Explore the pivotal role of international clearing systems in global finance and their synergy with algorithmic trading to enhance transaction efficiency and accuracy."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Identifying Mispriced Stocks (Algo Trading)"
+title: "Identifying Mispriced Stocks"
 description: "Discover how to identify and profit from mispriced stocks using algorithmic trading and valuation techniques to capitalize on market inefficiencies."
 ---
 

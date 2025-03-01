@@ -1,5 +1,5 @@
 ---
-title: "Impact of Trade Wars on Individuals (Algo Trading)"
+title: "Impact of Trade Wars on Individuals"
 description: "Explore how trade wars impact individuals and markets through the lens of algorithmic trading highlighting economic shifts and strategic adaptations needed."
 ---
 

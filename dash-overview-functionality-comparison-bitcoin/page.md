@@ -1,5 +1,5 @@
 ---
-title: "Dash: Overview, Functionality, and Comparison with Bitcoin (Algo Trading)"
+title: "Dash: Overview, Functionality, and Comparison with Bitcoin"
 description: "Explore the unique features and benefits of Dash compared to Bitcoin, focusing on speed, privacy, and the rising influence of algorithmic trading in the crypto market."
 ---
 

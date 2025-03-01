@@ -1,5 +1,5 @@
 ---
-title: "Judgment: Mechanisms and Examples (Algo Trading)"
+title: "Judgment: Mechanisms and Examples"
 description: "Discover the mechanisms and examples of algorithmic trading Explore how judgments and decisions combine with technology to revolutionize trading efficiency"
 ---
 

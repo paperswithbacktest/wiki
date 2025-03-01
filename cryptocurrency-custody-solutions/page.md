@@ -1,5 +1,5 @@
 ---
-title: "Cryptocurrency Custody Solutions (Algo Trading)"
+title: "Cryptocurrency Custody Solutions"
 description: "Explore cryptocurrency custody solutions and algorithmic trading for secure digital asset management. Learn about protecting and optimizing your investments."
 ---
 

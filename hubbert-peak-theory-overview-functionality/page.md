@@ -1,5 +1,5 @@
 ---
-title: "Hubbert Peak Theory: Overview and Functionality (Algo Trading)"
+title: "Hubbert Peak Theory: Overview and Functionality"
 description: "Explore Hubbert Peak Theory's impact on oil production trends and market prediction through algorithmic trading Utilizing modern technologies reshapes the energy landscape"
 ---
 

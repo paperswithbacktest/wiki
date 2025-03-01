@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Forward and Trailing P/E Ratios (Algo Trading)"
+title: "Comparison of Forward and Trailing P/E Ratios"
 description: "Understanding trailing and forward P/E ratios is essential for algo trading offering insights into stock valuation through historical performance and future potential."
 ---
 

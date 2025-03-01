@@ -1,5 +1,5 @@
 ---
-title: "Effective Asset Allocation Strategies (Algo Trading)"
+title: "Effective Asset Allocation Strategies"
 description: "Master asset allocation strategies and boost financial success with insights on investment approaches, portfolio management, and algorithmic trading efficiency."
 ---
 

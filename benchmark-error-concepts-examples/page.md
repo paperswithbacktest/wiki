@@ -1,5 +1,5 @@
 ---
-title: "Benchmark Error: Concepts and Examples (Algo Trading)"
+title: "Benchmark Error: Concepts and Examples"
 description: "Explore how benchmark errors and tracking errors impact algorithmic trading strategies Learn methods to evaluate and enhance trading efficiency for optimal outcomes"
 ---
 

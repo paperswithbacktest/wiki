@@ -1,5 +1,5 @@
 ---
-title: "G5 Emerging Nations: History and Members (Algo Trading)"
+title: "G5 Emerging Nations: History and Members"
 description: "Explore the evolution of the G5 from industrialized democracies to emerging economies Brazil China India Mexico and South Africa and their role in algorithmic trading."
 ---
 

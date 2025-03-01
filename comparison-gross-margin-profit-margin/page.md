@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Gross Margin and Profit Margin (Algo Trading)"
+title: "Comparison of Gross Margin and Profit Margin"
 description: "Discover how gross margin and profit margin metrics enhance algorithmic trading strategies, aiding in efficient cost management and maximizing profitability."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Gold Reserve Act of 1934: Overview and Historical Context (Algo Trading)"
+title: "Gold Reserve Act of 1934: Overview and Historical Context"
 description: "Explore the historical significance of the Gold Reserve Act of 1934 and its lasting impact on U.S. monetary policy alongside the rise of algorithmic trading."
 ---
 

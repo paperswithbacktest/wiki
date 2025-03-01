@@ -1,5 +1,5 @@
 ---
-title: "Credit Rating Agencies (Algo Trading)"
+title: "Credit Rating Agencies"
 description: "Explore the critical roles of credit rating agencies and algorithmic trading in financial markets, highlighting their impact on investment strategies and regulatory frameworks."
 ---
 

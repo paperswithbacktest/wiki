@@ -1,5 +1,5 @@
 ---
-title: "Exit Point: Definitions, Types, and Examples (Algo Trading)"
+title: "Exit Point: Definitions, Types, and Examples"
 description: "Explore exit points in algorithmic trading to maximize profits and minimize risks. Learn types, definitions, and examples for effective trading strategies."
 ---
 

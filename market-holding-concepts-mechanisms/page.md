@@ -1,5 +1,5 @@
 ---
-title: "Market Holding: Concepts and Mechanisms (Algo Trading)"
+title: "Market Holding: Concepts and Mechanisms"
 description: "Explore the intricate world of algorithmic trading and financial strategies Discover how advanced technologies and traditional methods shape modern markets for success."
 ---
 

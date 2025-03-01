@@ -1,5 +1,5 @@
 ---
-title: "ETF Sponsors: Roles and Responsibilities (Algo Trading)"
+title: "ETF Sponsors: Roles and Responsibilities"
 description: "Discover the roles and responsibilities of ETF sponsors in algorithmic trading and financial services Understand how ETFs bring efficiency and access to diverse markets"
 ---
 

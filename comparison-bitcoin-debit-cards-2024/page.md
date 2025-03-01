@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Bitcoin Debit Cards for 2024 (Algo Trading)"
+title: "Comparison of Bitcoin Debit Cards for 2024"
 description: "Discover the best Bitcoin debit cards of 2024 and explore their features. Learn how these cards and algo trading enhance your crypto transaction experience."
 ---
 

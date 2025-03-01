@@ -1,5 +1,5 @@
 ---
-title: "Empire State Manufacturing Index (Algo Trading)"
+title: "Empire State Manufacturing Index"
 description: "Explore how the Empire State Manufacturing Index serves as a vital economic indicator in New York, impacting algorithmic trading strategies with real-time data insights."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Financial Management Rate of Return (Algo Trading)"
+title: "Financial Management Rate of Return"
 description: "Discover how the Financial Management Rate of Return (FMRR) enhances real estate investment analysis by considering cash flow durations and associated risks."
 ---
 

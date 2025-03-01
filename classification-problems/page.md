@@ -1,5 +1,5 @@
 ---
-title: "Classification problems (Algo Trading)"
+title: "Classification problems"
 description: Explore how classification problems are integral to algorithmic trading strategies. Learn how these problems predict market movements by categorizing data into classes such as 'buy' or 'sell', enhancing decision-making and profitability. Dive into feature engineering, which refines input data like moving averages and volatility measures to improve model accuracy. Discover popular algorithms used in trading and their applications, offering insights into constructing robust classification models that boost trading performance.
 ---
 

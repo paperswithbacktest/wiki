@@ -1,5 +1,5 @@
 ---
-title: "Central Bank Digital Currency (Algo Trading)"
+title: "Central Bank Digital Currency"
 description: "Explore the synergy between Central Bank Digital Currencies (CBDCs) and algorithmic trading Discover how CBDCs can enhance trading efficiency and market liquidity"
 ---
 

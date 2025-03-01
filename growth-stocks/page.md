@@ -1,5 +1,5 @@
 ---
-title: "Growth Stocks (Algo Trading)"
+title: "Growth Stocks"
 description: Discover the role of growth stocks in algo trading, their definition, main characteristics, and risks. Learn how algorithms can help identify promising growth stocks and optimize trading strategies. With high potential returns come higher risks - understand the nuances to maximize gains while managing risk effectively. Explore resources for further learning in quantitative trading.
 ---
 

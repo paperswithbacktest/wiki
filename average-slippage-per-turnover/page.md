@@ -1,5 +1,5 @@
 ---
-title: "Average slippage per turnover (Algo Trading)"
+title: "Average slippage per turnover"
 description: Explore how algorithmic trading efficiency is affected by slippage, the price difference during trade execution caused by factors like market volatility and liquidity. Dive into average slippage per turnover, a key metric to assess trading strategy effectiveness by analyzing execution cost proportional to trade volume. Learn how understanding and managing slippage can enhance trading performance, enabling better adjustment of algorithmic strategies for optimal results.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "File-and-Use Insurance Rating Laws (Algo Trading)"
+title: "File-and-Use Insurance Rating Laws"
 description: "Explore the intricate interplay of insurance regulations file-and-use laws and algorithmic trading, balancing market demands with consumer protection and stability."
 ---
 

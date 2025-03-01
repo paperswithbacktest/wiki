@@ -1,5 +1,5 @@
 ---
-title: "Accrued Interest Explained (Algo Trading)"
+title: "Accrued Interest Explained"
 description: "Understand accrued interest and its role in algorithmic trading. Discover how accurate interest calculations drive decisions, optimizing market strategies for investors."
 ---
 

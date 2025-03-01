@@ -1,5 +1,5 @@
 ---
-title: "Greenback: Origin and History (Algo Trading)"
+title: "Greenback: Origin and History"
 description: "Explore the origin and evolution of the U.S. dollar, its pivotal role in global economics, and the transformative impact of algorithmic trading in forex markets."
 ---
 

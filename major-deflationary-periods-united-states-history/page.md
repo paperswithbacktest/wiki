@@ -1,5 +1,5 @@
 ---
-title: "Major Deflationary Periods in United States History (Algo Trading)"
+title: "Major Deflationary Periods in United States History"
 description: "Discover key historical deflationary periods in U.S. history and their economic impacts Learn how these insights can enhance algorithmic trading strategies"
 ---
 

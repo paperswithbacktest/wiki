@@ -1,5 +1,5 @@
 ---
-title: "Blue Sky Laws: Overview and Regulation (Algo Trading)"
+title: "Blue Sky Laws: Overview and Regulation"
 description: "Explore the role of Blue Sky Laws in safeguarding investors by mandating transparency and registration of securities to prevent fraud in algorithmic trading."
 ---
 

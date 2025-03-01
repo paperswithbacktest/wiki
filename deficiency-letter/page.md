@@ -1,5 +1,5 @@
 ---
-title: "Deficiency Letter (Algo Trading)"
+title: "Deficiency Letter"
 description: "Explore the compliance challenges and regulatory frameworks of algorithmic trading including deficiency letters essential for maintaining market integrity."
 ---
 

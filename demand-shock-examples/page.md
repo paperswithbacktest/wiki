@@ -1,5 +1,5 @@
 ---
-title: "Demand Shock Examples (Algo Trading)"
+title: "Demand Shock Examples"
 description: "Explore the role of algorithmic trading in navigating demand shocks and their impact on market dynamics. Gain insights into economic stability and trading strategies."
 ---
 

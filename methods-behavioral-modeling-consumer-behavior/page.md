@@ -1,5 +1,5 @@
 ---
-title: "Methods of Behavioral Modeling for Consumer Behavior Analysis (Algo Trading)"
+title: "Methods of Behavioral Modeling for Consumer Behavior Analysis"
 description: "Explore advanced methods of behavioral modeling for consumer behavior analysis in algorithmic trading. Gain insights to optimize marketing and trading strategies."
 ---
 

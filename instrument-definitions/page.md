@@ -1,5 +1,5 @@
 ---
-title: "Instrument Definitions (Algo Trading)"
+title: "Instrument Definitions"
 description: Explore the intricacies of algorithmic trading and its dependence on various financial instruments like stocks, options, futures, ETFs, and currencies. Discover how a deep understanding of these instruments and real-time data can optimize trading strategies for efficiency and risk management in the fast-paced financial markets.
 ---
 

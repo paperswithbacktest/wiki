@@ -1,5 +1,5 @@
 ---
-title: "Adjunct Account: Overview and Functionality (Algo Trading)"
+title: "Adjunct Account: Overview and Functionality"
 description: "Explore the essential role of adjunct accounts in enhancing financial transparency and decision-making in algorithmic trading and corporate finance strategies."
 ---
 

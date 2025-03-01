@@ -1,5 +1,5 @@
 ---
-title: "Living on Dividend Income (Algo Trading)"
+title: "Living on Dividend Income"
 description: "Integrate dividend investing with algorithmic trading to maximize passive income through automated strategies. Enhance returns and reduce oversight while achieving financial goals."
 ---
 

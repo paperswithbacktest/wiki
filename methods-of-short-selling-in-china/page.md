@@ -1,5 +1,5 @@
 ---
-title: "Methods of Short Selling in China (Algo Trading)"
+title: "Methods of Short Selling in China"
 description: "Explore short selling and algorithmic trading in China harnessing opportunities in evolving financial markets Apply innovative strategies amid emerging trends"
 ---
 

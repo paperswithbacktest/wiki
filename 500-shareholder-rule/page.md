@@ -1,5 +1,5 @@
 ---
-title: "500 Shareholder Rule (Algo Trading)"
+title: "500 Shareholder Rule"
 description: "Explore the impact of financial regulations, from the 500 shareholder rule to algorithmic trading, and their influence on corporate governance and market dynamics."
 ---
 

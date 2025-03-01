@@ -1,5 +1,5 @@
 ---
-title: "FSB Report on Cryptocurrency Regulations (Algo Trading)"
+title: "FSB Report on Cryptocurrency Regulations"
 description: "Explore the FSB's insights into cryptocurrency regulations focusing on the impact of algo trading and the drive for safety, transparency, and consistency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Advanced Concepts in Game Theory (Algo Trading)"
+title: "Advanced Concepts in Game Theory"
 description: "Discover how advanced strategies in game theory and algorithmic trading can optimize trading performance, anticipate market moves, and leverage new technologies."
 ---
 

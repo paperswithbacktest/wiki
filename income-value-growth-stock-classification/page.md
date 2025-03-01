@@ -1,5 +1,5 @@
 ---
-title: "Income, Value, and Growth Stock Classification (Algo Trading)"
+title: "Income, Value, and Growth Stock Classification"
 description: "Discover key insights on income growth and value stocks with our guide on their classification and how algorithmic trading enhances investment strategies."
 ---
 

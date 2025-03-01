@@ -1,5 +1,5 @@
 ---
-title: "Event-Driven Investing Strategies (Algo Trading)"
+title: "Event-Driven Investing Strategies"
 description: "Explore event-driven investing and algorithmic trading strategies to capitalize on market inefficiencies and enhance returns through technological precision."
 ---
 

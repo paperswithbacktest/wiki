@@ -1,5 +1,5 @@
 ---
-title: "Esports: Overview and Key Figures (Algo Trading)"
+title: "Esports: Overview and Key Figures"
 description: "Explore the dynamic world of esports and its intersection with algorithmic trading Discover how this booming industry leverages technology and innovation"
 ---
 

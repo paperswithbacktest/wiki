@@ -1,5 +1,5 @@
 ---
-title: "Impact of Basel Accords on Financial Stability (Algo Trading)"
+title: "Impact of Basel Accords on Financial Stability"
 description: "Explore the impact of Basel Accords on financial stability and algorithmic trading Understand how these regulations enhance banking safety and global financial security"
 ---
 

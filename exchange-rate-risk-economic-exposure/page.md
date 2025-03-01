@@ -1,5 +1,5 @@
 ---
-title: "Exchange Rate Risk and Economic Exposure (Algo Trading)"
+title: "Exchange Rate Risk and Economic Exposure"
 description: "Explore the impact of exchange rate risk and economic exposure on businesses in a global economy and discover how algorithmic trading can mitigate these risks."
 ---
 

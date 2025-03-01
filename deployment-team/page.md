@@ -1,5 +1,5 @@
 ---
-title: "Deployment team (Algo Trading)"
+title: "Deployment team"
 description: The deployment team in algorithmic trading plays a vital role in transitioning strategies from development to live market conditions. They ensure trading systems are reliable, scalable, and efficient by overseeing rigorous testing and optimization. This includes verifying software performance, managing dependencies, and implementing robust risk management protocols. By maintaining system integrity and compliance, the team enables seamless, real-time execution of sophisticated trading strategies while adapting to market trends and regulatory changes. Collaborative efforts with quants, developers, and IT operations are essential in maintaining the performance of these systems.
 ---
 

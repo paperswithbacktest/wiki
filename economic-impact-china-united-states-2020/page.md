@@ -1,5 +1,5 @@
 ---
-title: "Economic Impact of China on the United States in 2020 (Algo Trading)"
+title: "Economic Impact of China on the United States in 2020"
 description: "Explore the economic interplay between the U.S. and China in 2020 with a focus on algorithmic trading amidst pandemic-driven market volatility."
 ---
 

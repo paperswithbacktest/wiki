@@ -1,5 +1,5 @@
 ---
-title: "ISIN: Usage and Purpose (Algo Trading)"
+title: "ISIN: Usage and Purpose"
 description: "Discover how ISINs enhance financial trading by providing a unique, standardized identifier for securities, crucial for efficient and accurate global transactions."
 ---
 

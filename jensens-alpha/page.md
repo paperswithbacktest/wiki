@@ -1,5 +1,5 @@
 ---
-title: "Jensen's alpha (Algo Trading)"
+title: "Jensen's alpha"
 description: "Discover the power of Jensen's Alpha in algorithmic trading Learn how to assess portfolio performance and exceed market expectations with this essential metric"
 ---
 

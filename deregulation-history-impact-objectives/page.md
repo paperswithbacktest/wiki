@@ -1,5 +1,5 @@
 ---
-title: "Deregulation: History, Impact, and Objectives (Algo Trading)"
+title: "Deregulation: History, Impact, and Objectives"
 description: "Explore the history and impact of deregulation in financial markets focusing on how it fosters competition and innovation, with insights into algorithmic trading."
 ---
 

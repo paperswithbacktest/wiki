@@ -1,5 +1,5 @@
 ---
-title: "Federal Agricultural Mortgage Corporation (Farmer Mac) (Algo Trading)"
+title: "Federal Agricultural Mortgage Corporation (Farmer Mac)"
 description: "Discover how Farmer Mac, a key player in agricultural finance, integrates algorithmic trading to boost investment strategies and enhance risk and liquidity management."
 ---
 

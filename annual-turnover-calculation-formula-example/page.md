@@ -1,5 +1,5 @@
 ---
-title: "Annual Turnover: Calculation Formula and Example (Algo Trading)"
+title: "Annual Turnover: Calculation Formula and Example"
 description: "Explore the significance of annual turnover in business and algorithmic trading Learn to calculate turnover and analyze its impact on investment and trading strategies"
 ---
 

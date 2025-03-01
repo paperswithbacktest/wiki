@@ -1,5 +1,5 @@
 ---
-title: "Delivery Notice: Definition and Function (Algo Trading)"
+title: "Delivery Notice: Definition and Function"
 description: "Explore the importance of delivery notices in logistics and commodities markets, ensuring timely and accurate goods transfer and enhancing supply chain efficiency."
 ---
 

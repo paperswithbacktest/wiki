@@ -1,5 +1,5 @@
 ---
-title: "Historical Volatility and Future Risk Assessment (Algo Trading)"
+title: "Historical Volatility and Future Risk Assessment"
 description: "Explore historical volatility and risk assessment in algorithmic trading Gain insights into predicting future market behaviors and optimizing trading strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Dedication Strategy (Algo Trading)"
+title: "Dedication Strategy"
 description: "Explore the synergy between dedication strategies and algorithmic trading for investment planning Achieve predictability and efficiency in asset management."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Leading ETF Fund Managers (Algo Trading)"
+title: "Leading ETF Fund Managers"
 description: "Discover the impact of leading ETF fund managers and algorithmic trading on modern investment strategies. Explore how technology shapes efficient, innovative investing."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "alternative trading systems (Algo Trading)"
+title: "alternative trading systems"
 description: "Explore the transformation of financial trading with algorithmic trading systems within alternative trading systems Discover innovations that boost speed and precision"
 ---
 

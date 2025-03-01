@@ -1,5 +1,5 @@
 ---
-title: "IMC Financial Markets (Algo Trading)"
+title: "IMC Financial Markets"
 description: "Explore IMC Financial Markets a leader in proprietary trading and market making, utilizing cutting-edge technology and strategies to enhance global financial markets."
 ---
 

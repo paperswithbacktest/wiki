@@ -1,5 +1,5 @@
 ---
-title: "Intermediate and Medium-Term Debt (Algo Trading)"
+title: "Intermediate and Medium-Term Debt"
 description: "Explore the intricacies of medium-term debt and algorithmic trading's role in optimizing financial strategies. Enhance debt portfolio management with tech-driven solutions."
 ---
 

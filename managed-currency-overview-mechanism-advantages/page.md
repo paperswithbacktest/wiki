@@ -1,5 +1,5 @@
 ---
-title: "Managed Currency: Overview, Mechanism, and Advantages (Algo Trading)"
+title: "Managed Currency: Overview, Mechanism, and Advantages"
 description: "Explore the intricacies of managed currency, its mechanisms, and advantages in the context of algorithmic trading and economic policy for global stability."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Holding periods (Algo Trading)"
+title: "Holding periods"
 description: Explore the critical role holding periods play in algorithmic trading strategies and their impact on profitability and risk. Understand how different holding durations, from microseconds in high-frequency trading to weeks in swing trading, align with market dynamics. Discover the factors influencing optimal holding periods and how they are strategically analyzed using statistical models for enhanced trading performance.
 ---
 

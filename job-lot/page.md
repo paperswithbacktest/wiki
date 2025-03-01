@@ -1,5 +1,5 @@
 ---
-title: "Job Lot (Algo Trading)"
+title: "Job Lot"
 description: "Discover how wholesale job lots combined with algorithmic trading can empower small investors boost market liquidity and optimize trading strategies for profit."
 ---
 

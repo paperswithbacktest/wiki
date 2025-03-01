@@ -1,5 +1,5 @@
 ---
-title: "Legal Action Against a Broker (Algo Trading)"
+title: "Legal Action Against a Broker"
 description: "Explore the complexities and legal challenges of algorithmic trading in modern financial markets Learn how broker litigation resolves disputes and protects client interests"
 ---
 

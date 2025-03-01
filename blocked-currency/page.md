@@ -1,5 +1,5 @@
 ---
-title: "Blocked Currency (Algo Trading)"
+title: "Blocked Currency"
 description: "Discover the essential interplay between blocked currency, monetary policy, and algorithmic trading and understand their impact on global finance and economic stability."
 ---
 

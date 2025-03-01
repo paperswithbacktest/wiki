@@ -1,5 +1,5 @@
 ---
-title: "Largest Oil Producer by Country (Algo Trading)"
+title: "Largest Oil Producer by Country"
 description: "Explore leading oil-producing nations and the growing role of algorithmic trading in the global market. Understand oil's impact on economies and energy policies."
 ---
 

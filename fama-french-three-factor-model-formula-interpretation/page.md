@@ -1,5 +1,5 @@
 ---
-title: "Fama-French Three-Factor Model: Formula and Interpretation (Algo Trading)"
+title: "Fama-French Three-Factor Model: Formula and Interpretation"
 description: "Explore the Fama-French Three-Factor Model's role in algorithmic trading. Learn how this model enhances portfolio performance by leveraging size and value factors."
 ---
 

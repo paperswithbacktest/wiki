@@ -1,5 +1,5 @@
 ---
-title: "Leverage in Mutual Funds (Algo Trading)"
+title: "Leverage in Mutual Funds"
 description: "Explore how algorithmic trading is revolutionizing mutual funds, enhancing precision and efficiency in investment strategies for improved returns and risk management."
 ---
 

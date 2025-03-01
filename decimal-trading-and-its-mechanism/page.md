@@ -1,5 +1,5 @@
 ---
-title: "Decimal Trading and Its Mechanism (Algo Trading)"
+title: "Decimal Trading and Its Mechanism"
 description: "Explore how the integration of decimal trading and algorithmic trading revolutionizes the financial markets improving efficiency precision and lowering trading costs."
 ---
 

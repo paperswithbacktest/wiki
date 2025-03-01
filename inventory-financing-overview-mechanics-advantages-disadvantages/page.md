@@ -1,5 +1,5 @@
 ---
-title: "Inventory Financing: Overview, Mechanics, Advantages, and Disadvantages (Algo Trading)"
+title: "Inventory Financing: Overview, Mechanics, Advantages, and Disadvantages"
 description: "Explore how inventory financing and algorithmic trading bolster business strategies. Learn about their mechanics advantages and drawbacks for financial growth."
 ---
 

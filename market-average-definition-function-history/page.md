@@ -1,5 +1,5 @@
 ---
-title: "Market Average: Definition, Function, and Historical Context (Algo Trading)"
+title: "Market Average: Definition, Function, and Historical Context"
 description: "Explore how market averages and algorithmic trading redefine financial strategies with insights into key financial metrics and economic indicators."
 ---
 

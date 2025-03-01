@@ -1,5 +1,5 @@
 ---
-title: "Abandonment Option in Finance (Algo Trading)"
+title: "Abandonment Option in Finance"
 description: "Explore the significance of the abandonment option in investment finance, its role in algorithmic trading, and how it enhances strategic financial decisions."
 ---
 

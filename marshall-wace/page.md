@@ -1,5 +1,5 @@
 ---
-title: "Marshall Wace (Algo Trading)"
+title: "Marshall Wace"
 description: "Explore Marshall Wace's influence in algorithmic trading Discover how this leading asset management firm leverages innovative strategies and technology to excel in finance"
 ---
 

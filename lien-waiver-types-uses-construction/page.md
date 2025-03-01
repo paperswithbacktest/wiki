@@ -1,5 +1,5 @@
 ---
-title: "Lien Waiver Types and Uses in Construction (Algo Trading)"
+title: "Lien Waiver Types and Uses in Construction"
 description: "Explore lien waiver types and uses in construction and how they relate to algorithmic trading for clear financial transactions in this comprehensive guide."
 ---
 

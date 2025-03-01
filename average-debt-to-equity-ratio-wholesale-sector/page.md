@@ -1,5 +1,5 @@
 ---
-title: "Average Debt-to-Equity Ratio in the Wholesale Sector (Algo Trading)"
+title: "Average Debt-to-Equity Ratio in the Wholesale Sector"
 description: "Explore the significance of debt-to-equity ratios in the wholesale sector and their impact on algorithmic trading strategies for better investment decisions."
 ---
 

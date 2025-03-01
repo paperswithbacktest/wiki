@@ -1,5 +1,5 @@
 ---
-title: "Earnings Forecasting (Algo Trading)"
+title: "Earnings Forecasting"
 description: "Earnings forecasting is crucial in algorithmic trading for predicting company profitability using data-driven models enhancing investment strategies and decision-making."
 ---
 

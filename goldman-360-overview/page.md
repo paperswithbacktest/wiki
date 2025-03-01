@@ -1,5 +1,5 @@
 ---
-title: "Goldman 360 Overview (Algo Trading)"
+title: "Goldman 360 Overview"
 description: "Goldman 360 by Goldman Sachs revolutionizes investment management with real-time data access and advanced trading tools for financial professionals."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Hulbert (New York Times) (Algo Trading)"
+title: "Hulbert (New York Times)"
 description: Explore the impact of Mark Hulbert's analysis on algorithmic trading strategies highlighted by his contributions to the New York Times. Learn how his evaluations of investment approaches can optimize trading algorithms and navigate complex financial markets. Discover insights into the role of data and analysis in developing robust algo trading models and strategies.
 ---
 

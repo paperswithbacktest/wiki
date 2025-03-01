@@ -1,5 +1,5 @@
 ---
-title: "Cost Per Available Seat Mile (Algo Trading)"
+title: "Cost Per Available Seat Mile"
 description: "Explore the significance of Cost per Available Seat Mile (CASM) in aviation efficiency. Learn how algorithmic trading analyzes CASM for better cost control."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Inclusion of Subsidiaries in Corporate Financial Statements (Algo Trading)"
+title: "Inclusion of Subsidiaries in Corporate Financial Statements"
 description: "Discover how subsidiaries and financial statements interplay with algorithmic trading to ensure transparency and strategic market advantage in dynamic business environments."
 ---
 

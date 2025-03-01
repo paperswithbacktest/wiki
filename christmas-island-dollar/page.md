@@ -1,5 +1,5 @@
 ---
-title: "Christmas Island Dollar (Algo Trading)"
+title: "Christmas Island Dollar"
 description: "Explore the evolution of Christmas Island's monetary system and the rise of algorithmic trading with the Australian Dollar uncovering opportunities and strategies in forex markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bull Call Spread Options Trading Strategy (Algo Trading)"
+title: "Bull Call Spread Options Trading Strategy"
 description: "Explore the bull call spread options strategy to optimize bullish trades with defined risk and reward. Discover algo trading tools for enhancing execution."
 ---
 

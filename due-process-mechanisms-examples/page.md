@@ -1,5 +1,5 @@
 ---
-title: "Due Process: Mechanisms and Examples (Algo Trading)"
+title: "Due Process: Mechanisms and Examples"
 description: "Explore how due process integrates with algorithmic trading and its legal challenges reflecting the intersection of law and technology in a rapidly evolving digital landscape."
 ---
 

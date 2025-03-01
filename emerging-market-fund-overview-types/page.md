@@ -1,5 +1,5 @@
 ---
-title: "Emerging Market Fund: Overview and Types (Algo Trading)"
+title: "Emerging Market Fund: Overview and Types"
 description: "Explore an overview of emerging market funds and types including mutual funds ETFs and more Discover how algo trading shapes strategies in high-growth economies"
 ---
 

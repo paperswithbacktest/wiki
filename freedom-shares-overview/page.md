@@ -1,5 +1,5 @@
 ---
-title: "Freedom Shares Overview (Algo Trading)"
+title: "Freedom Shares Overview"
 description: "Explore the dynamic world of freedom shares and algorithmic trading advancements redefining financial markets through innovation, strategy, and technology."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Economic Aspects of Sneakers (Algo Trading)"
+title: "Economic Aspects of Sneakers"
 description: "Discover how the intersection of sneaker economics and algorithmic trading revolutionizes the sneaker market by optimizing buying, selling, and market dynamics."
 ---
 

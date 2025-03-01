@@ -1,5 +1,5 @@
 ---
-title: "Accountable Plan and Tax Implications on Reimbursements (Algo Trading)"
+title: "Accountable Plan and Tax Implications on Reimbursements"
 description: "Accountable plans optimize expense management in algorithmic trading allowing tax benefits by ensuring reimbursements meet IRS criteria for compliance."
 ---
 

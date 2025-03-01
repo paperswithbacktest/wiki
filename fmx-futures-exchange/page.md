@@ -1,5 +1,5 @@
 ---
-title: "FMX Futures Exchange (Algo Trading)"
+title: "FMX Futures Exchange"
 description: "Explore FMX Futures Exchange's innovative approach to algorithmic trading in commodities markets enhancing efficiency security and trading outcomes for market participants"
 ---
 

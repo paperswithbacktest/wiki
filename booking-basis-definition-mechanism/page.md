@@ -1,5 +1,5 @@
 ---
-title: "Booking the Basis: Definition and Mechanism (Algo Trading)"
+title: "Booking the Basis: Definition and Mechanism"
 description: "Discover how algorithmic trading utilizes the concept of booking the basis to manage risk in futures trading, enhance profitability, and optimize trading strategies."
 ---
 

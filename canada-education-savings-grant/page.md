@@ -1,5 +1,5 @@
 ---
-title: "Canada Education Savings Grant (Algo Trading)"
+title: "Canada Education Savings Grant"
 description: "Discover how the Canada Education Savings Grant (CESG) enhances education savings with algorithmic trading for maximizing RESP growth while managing risks."
 ---
 

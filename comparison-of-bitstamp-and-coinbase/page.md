@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Bitstamp and Coinbase (Algo Trading)"
+title: "Comparison of Bitstamp and Coinbase"
 description: "Explore the features of Coinbase and Bitstamp in algo trading. Uncover how these platforms cater to traders with automation and advanced strategies."
 ---
 

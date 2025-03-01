@@ -1,5 +1,5 @@
 ---
-title: "Impact of Dividend Suspension on Shareholding Decisions (Algo Trading)"
+title: "Impact of Dividend Suspension on Shareholding Decisions"
 description: "Explore how dividend suspension affects shareholding decisions and gain insights into the role of algorithmic trading in shaping investment strategies for optimized returns."
 ---
 

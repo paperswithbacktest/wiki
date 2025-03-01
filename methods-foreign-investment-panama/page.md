@@ -1,5 +1,5 @@
 ---
-title: "Methods for Foreign Investment in Panama (Algo Trading)"
+title: "Methods for Foreign Investment in Panama"
 description: "Discover the potential of foreign investment in Panama by leveraging algorithmic trading to optimize strategies in a promising pro-business environment."
 ---
 

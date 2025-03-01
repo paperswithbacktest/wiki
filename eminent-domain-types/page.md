@@ -1,5 +1,5 @@
 ---
-title: "Eminent Domain and Its Types (Algo Trading)"
+title: "Eminent Domain and Its Types"
 description: "Explore eminent domain's impact on property law and its intersection with algo trading This article investigates into legal complexities of public use and digital asset rights"
 ---
 

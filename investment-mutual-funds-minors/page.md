@@ -1,5 +1,5 @@
 ---
-title: "Investment In Mutual Funds By Minors (Algo Trading)"
+title: "Investment In Mutual Funds By Minors"
 description: "Investing for minors combines education and financial growth through mutual funds and algorithmic trading. Explore options to build future wealth today."
 ---
 

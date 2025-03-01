@@ -1,5 +1,5 @@
 ---
-title: "Major Mutual Fund Investors in Activision Blizzard (Algo Trading)"
+title: "Major Mutual Fund Investors in Activision Blizzard"
 description: "Discover key mutual fund investments in Activision Blizzard and explore how algorithmic trading impacts the gaming and technology markets for strategic growth."
 ---
 

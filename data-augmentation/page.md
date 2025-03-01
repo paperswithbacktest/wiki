@@ -1,5 +1,5 @@
 ---
-title: "Data Augmentation (Algo Trading)"
+title: "Data Augmentation"
 description: Discover the importance and application of Data Augmentation in algorithmic trading. This technique increases data quantity and diversity, improving model performance, filling data gaps, and preventing overfitting. Learn common methods for financial data augmentation and best practices for effective implementation. Boost your quant trading models' robustness, accuracy, and success in the dynamic world of algorithmic finance.
 ---
 

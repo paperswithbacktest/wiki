@@ -1,5 +1,5 @@
 ---
-title: "Labor Market Conditions Index (Algo Trading)"
+title: "Labor Market Conditions Index"
 description: "Explore how labor market conditions influence economic stability and trading. Discover the role of indicators and algorithmic trading in shaping financial strategies."
 ---
 

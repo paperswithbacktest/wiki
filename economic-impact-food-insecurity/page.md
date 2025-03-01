@@ -1,5 +1,5 @@
 ---
-title: "Economic Impact of Food Insecurity (Algo Trading)"
+title: "Economic Impact of Food Insecurity"
 description: "Explore the intersection of algorithmic trading and food insecurity, examining how financial markets impact food prices and global hunger solutions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Eligible Contract Participant Status and Requirements (Algo Trading)"
+title: "Eligible Contract Participant Status and Requirements"
 description: "Discover the essentials of Eligible Contract Participant status in commodities trading. Learn about the requirements, benefits, and regulatory framework for ECPs."
 ---
 

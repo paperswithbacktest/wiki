@@ -1,5 +1,5 @@
 ---
-title: "Impact of Regulation on the Electronics Industry (Algo Trading)"
+title: "Impact of Regulation on the Electronics Industry"
 description: "Explore how regulation impacts the electronics industry and algo trading affecting innovation compliance and market dynamics in this insightful analysis."
 ---
 

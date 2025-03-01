@@ -1,5 +1,5 @@
 ---
-title: "liquidity modeling (Algo Trading)"
+title: "liquidity modeling"
 description: "Explore the crucial role of liquidity modeling in algorithmic trading Learn strategies to optimize trade execution minimize risks and boost profitability"
 ---
 

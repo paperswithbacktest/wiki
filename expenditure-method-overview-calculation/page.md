@@ -1,5 +1,5 @@
 ---
-title: "Expenditure Method: Overview and Calculation (Algo Trading)"
+title: "Expenditure Method: Overview and Calculation"
 description: "Explore the intricate relationship between economic calculations and algorithmic trading with a focus on the expenditure method for GDP calculation. Discover how this method offers a comprehensive view of a nation's economic health by examining key components like personal consumption, investment, government spending, and net exports. Understand how these economic indicators are integrated into advanced trading algorithms, providing a competitive edge in data-driven financial markets, and how this interplay aids in making informed investment and policy decisions for a more efficient financial ecosystem."
 ---
 

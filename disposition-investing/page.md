@@ -1,5 +1,5 @@
 ---
-title: "Disposition in Investing (Algo Trading)"
+title: "Disposition in Investing"
 description: "Unlock the secrets of modern investing with insights into financial strategies, investment disposition, and algorithmic trading to boost your portfolio."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Inflection Points in Business: Overview and Examples (Algo Trading)"
+title: "Inflection Points in Business: Overview and Examples"
 description: "Explore inflection points in business and algorithmic trading, understanding their impact on strategic decisions and market behaviors in a dynamic environment."
 ---
 

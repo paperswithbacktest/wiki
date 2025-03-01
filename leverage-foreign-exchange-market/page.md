@@ -1,5 +1,5 @@
 ---
-title: "Leverage in the Foreign Exchange Market (Algo Trading)"
+title: "Leverage in the Foreign Exchange Market"
 description: "Explore the role of leverage and algorithmic trading in the forex market Learn strategies for minimizing risks while optimizing potential profits "
 ---
 

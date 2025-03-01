@@ -1,5 +1,5 @@
 ---
-title: "Breakeven Point and Calculation Methods (Algo Trading)"
+title: "Breakeven Point and Calculation Methods"
 description: "Discover how understanding the breakeven point in algorithmic trading can optimize strategies reduce risk and improve profitability for better trading outcomes."
 ---
 

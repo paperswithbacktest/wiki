@@ -1,5 +1,5 @@
 ---
-title: "Maritime Jurisdiction And Sovereignty Disputes (Algo Trading)"
+title: "Maritime Jurisdiction And Sovereignty Disputes"
 description: "Explore how maritime boundary disputes influence algorithmic trading and investment strategies, highlighting the impact of geopolitical tensions on global markets."
 ---
 

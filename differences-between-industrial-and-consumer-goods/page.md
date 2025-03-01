@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Industrial and Consumer Goods (Algo Trading)"
+title: "Differences Between Industrial and Consumer Goods"
 description: "Explore how algorithmic trading impacts consumer and industrial goods markets, examining market dynamics and the role of technology in trading strategies."
 ---
 

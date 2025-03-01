@@ -1,5 +1,5 @@
 ---
-title: "Gaps series in single future roll method (Algo Trading)"
+title: "Gaps series in single future roll method"
 description: Explore the challenges of futures contract rolls in algorithmic trading and discover how the single futures roll method addresses price discontinuities. This approach minimizes artificial volatility caused by rolling between contracts, ensuring accurate historical data for reliable market analysis. Learn about the significance of gap series adjustments, the role of techniques like the ETF trick, and their impact on robust trading strategies. Enhance your understanding of roll management methods, including unadjusted, difference-adjusted, and ratio-adjusted techniques, and improve the integrity of your backtesting for better-informed trading decisions.
 ---
 

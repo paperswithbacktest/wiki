@@ -1,5 +1,5 @@
 ---
-title: "History of Tradehill Exchange (Algo Trading)"
+title: "History of Tradehill Exchange"
 description: "Explore the rise and fall of Tradehill Exchange a pioneer in cryptocurrency trading that integrated algorithmic strategies to enhance trading efficiency."
 ---
 

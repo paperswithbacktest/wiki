@@ -1,5 +1,5 @@
 ---
-title: "Industry Classification Benchmark Overview (Algo Trading)"
+title: "Industry Classification Benchmark Overview"
 description: "Explore how the Industry Classification Benchmark aids algorithmic trading through structured stock categorization enhancing strategy precision and market analysis."
 ---
 

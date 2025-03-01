@@ -1,5 +1,5 @@
 ---
-title: "Equity Market Neutral Strategy in Stock Trading (Algo Trading)"
+title: "Equity Market Neutral Strategy in Stock Trading"
 description: "Equity market neutral stock trading strategies minimize market exposure with balanced long and short positions using algorithms for consistent returns and reduced risk."
 ---
 

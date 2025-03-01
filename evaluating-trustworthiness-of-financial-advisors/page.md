@@ -1,5 +1,5 @@
 ---
-title: "Evaluating Trustworthiness of Financial Advisors (Algo Trading)"
+title: "Evaluating Trustworthiness of Financial Advisors"
 description: "Explore how trustworthiness in financial advisors and the rise of algorithmic trading impact investment decisions empowering smarter financial strategies."
 ---
 

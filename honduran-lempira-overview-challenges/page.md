@@ -1,5 +1,5 @@
 ---
-title: "Honduran Lempira: Overview and Challenges (Algo Trading)"
+title: "Honduran Lempira: Overview and Challenges"
 description: "Explore the Honduran Lempira's history and economic challenges such as inflation and volatility Discover how algorithmic trading aids currency stability"
 ---
 

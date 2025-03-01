@@ -1,5 +1,5 @@
 ---
-title: "Easement in Gross vs. Easement Appurtenant (Algo Trading)"
+title: "Easement in Gross vs. Easement Appurtenant"
 description: "Explore the differences between easement in gross and easement appurtenant and their impact on real estate investments and property law strategies."
 ---
 

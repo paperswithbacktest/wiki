@@ -1,5 +1,5 @@
 ---
-title: "Median Household Income by U.S. State (Algo Trading)"
+title: "Median Household Income by U.S. State"
 description: "Explore median household income variations by state in the U.S. and their impact on economic policies and investment strategies in algorithmic trading."
 ---
 

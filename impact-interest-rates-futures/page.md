@@ -1,5 +1,5 @@
 ---
-title: "Impact Of Interest Rates On Futures (Algo Trading)"
+title: "Impact Of Interest Rates On Futures"
 description: "Explore how interest rates influence futures markets and the pivotal role of algorithmic trading, offering valuable insights for savvy investors seeking strategic advantage."
 ---
 

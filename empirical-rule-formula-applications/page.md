@@ -1,5 +1,5 @@
 ---
-title: "Empirical Rule Explained: Formula and Applications (Algo Trading)"
+title: "Empirical Rule Explained: Formula and Applications"
 description: "The empirical rule is crucial for traders in algorithmic trading by helping quantify risk and volatility through understanding data distribution and standard deviation."
 ---
 

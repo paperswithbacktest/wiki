@@ -1,5 +1,5 @@
 ---
-title: "Impairment in Accounting: Explanation and Examples (Algo Trading)"
+title: "Impairment in Accounting: Explanation and Examples"
 description: "Gain insights into accounting impairment and algorithmic trading. Understand how impairment affects asset valuation and financial reporting standards like GAAP and IFRS."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Influences on Black-Scholes Warrant Dilution (Algo Trading)"
+title: "Influences on Black-Scholes Warrant Dilution"
 description: "Explore the impact of Black-Scholes on warrant dilution and algorithmic trading. Learn how financial models adjust for new shares to ensure accurate trades."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Kicker Pattern: Explanation and Example (Algo Trading)"
+title: "Kicker Pattern: Explanation and Example"
 description: "Discover how the Kicker Pattern predicts market reversals with ease and effectiveness, aiding algorithmic trading strategies to optimize investment outcomes."
 ---
 

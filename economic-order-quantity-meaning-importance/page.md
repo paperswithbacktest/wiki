@@ -1,5 +1,5 @@
 ---
-title: "Economic Order Quantity: Meaning and Importance (Algo Trading)"
+title: "Economic Order Quantity: Meaning and Importance"
 description: "Explore the significance of Economic Order Quantity in inventory management and its integration with algorithmic trading for optimal supply chain efficiency."
 ---
 

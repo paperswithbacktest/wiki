@@ -1,5 +1,5 @@
 ---
-title: "Know Sure Thing (KST) (Algo Trading)"
+title: "Know Sure Thing (KST)"
 description: "Explore the Know Sure Thing (KST) momentum oscillator, its calculation and application in algorithmic trading for informed market entry and exit decisions."
 ---
 

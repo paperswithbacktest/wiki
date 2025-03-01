@@ -1,5 +1,5 @@
 ---
-title: "Aggregate Supply: Overview and Mechanism (Algo Trading)"
+title: "Aggregate Supply: Overview and Mechanism"
 description: "Explore the connections between aggregate supply, economic theories, and algorithmic trading to understand their significant roles in modern economic systems."
 ---
 

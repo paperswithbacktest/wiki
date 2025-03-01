@@ -1,5 +1,5 @@
 ---
-title: "George Soros Trading Strategy (Algo Trading)"
+title: "George Soros Trading Strategy"
 description: Explore the trading strategies of George Soros focusing on their integration with modern algorithmic methods Soros's approach blends macroeconomic insight with market psychology offering a dynamic model for traders to develop robust algorithmic systems that navigate today's financial market complexities
 ---
 

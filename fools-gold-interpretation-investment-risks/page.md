@@ -1,5 +1,5 @@
 ---
-title: "Fool's Gold: Interpretation and Investment Risks (Algo Trading)"
+title: "Fool's Gold: Interpretation and Investment Risks"
 description: "Explore the allure and risks of algorithmic trading, which offers rapid gains but requires vigilance to avoid pitfalls that can transform profits into fool's gold."
 ---
 

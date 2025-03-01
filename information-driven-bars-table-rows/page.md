@@ -1,5 +1,5 @@
 ---
-title: "Information-driven bars (table rows) (Algo Trading)"
+title: "Information-driven bars (table rows)"
 description: Explore the advanced concept of information-driven bars in algorithmic trading. Unlike traditional bars that operate on fixed intervals, these adaptive bars adjust their sampling frequency based on market activity. This innovation enables traders to capture significant market shifts and patterns often missed by conventional methods. By focusing on dynamic market conditions, information-driven bars provide timely data insights essential for optimizing trading strategies. Discover how these advanced bar methods enhance decision-making by offering a more accurate reflection of market behavior, making them an invaluable tool for modern traders.
 ---
 

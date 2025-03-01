@@ -1,5 +1,5 @@
 ---
-title: "Emerging Issues Task Force: Overview and Function (Algo Trading)"
+title: "Emerging Issues Task Force: Overview and Function"
 description: "Discover how the Emerging Issues Task Force navigates financial reporting challenges and how algorithmic trading boosts market efficiency in modern finance."
 ---
 

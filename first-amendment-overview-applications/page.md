@@ -1,5 +1,5 @@
 ---
-title: "First Amendment: Overview and Practical Applications (Algo Trading)"
+title: "First Amendment: Overview and Practical Applications"
 description: "Explore the intersection of First Amendment rights and algorithmic trading in the digital era examining whether trading algorithms constitute protected speech."
 ---
 

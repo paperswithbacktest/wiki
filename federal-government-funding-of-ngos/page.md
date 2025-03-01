@@ -1,5 +1,5 @@
 ---
-title: "Federal Government Funding of NGOs (Algo Trading)"
+title: "Federal Government Funding of NGOs"
 description: "Explore how federal funding and algorithmic trading can enhance NGO operations Learn about government support and innovative finance strategies for NGOs"
 ---
 

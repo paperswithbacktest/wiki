@@ -1,5 +1,5 @@
 ---
-title: "Disability Insurance Trust Fund (Algo Trading)"
+title: "Disability Insurance Trust Fund"
 description: "Explore the impact of trust funds disability insurance Social Security and algorithmic trading on personal finance Discover how these elements shape financial strategies."
 ---
 

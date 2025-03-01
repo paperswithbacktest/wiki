@@ -1,5 +1,5 @@
 ---
-title: "Cumulative Dividend: Overview and Mechanism (Algo Trading)"
+title: "Cumulative Dividend: Overview and Mechanism"
 description: "Explore the synergy between cumulative dividends and algorithmic trading to optimize investment returns. Learn mechanisms to maximize financial strategies efficiently."
 ---
 

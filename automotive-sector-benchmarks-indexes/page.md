@@ -1,5 +1,5 @@
 ---
-title: "Automotive Sector Benchmarks and Indexes (Algo Trading)"
+title: "Automotive Sector Benchmarks and Indexes"
 description: "Explore the role of benchmark indexes in algorithmic trading within the automotive sector These critical tools help investors refine strategies and enhance performance."
 ---
 

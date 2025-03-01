@@ -1,5 +1,5 @@
 ---
-title: "Listed Security (Algo Trading)"
+title: "Listed Security"
 description: "Explore the dynamic world of financial markets with a focus on stock exchanges, publicly traded companies, and algorithmic trading for economic transformation."
 ---
 

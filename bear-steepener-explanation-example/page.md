@@ -1,5 +1,5 @@
 ---
-title: "Bear Steepener: Explanation and Example (Algo Trading)"
+title: "Bear Steepener: Explanation and Example"
 description: "Explore the impact of a bear steepener on trading strategies and economic forecasts Analyzing yield curves can enhance trading efficacy in financial markets"
 ---
 

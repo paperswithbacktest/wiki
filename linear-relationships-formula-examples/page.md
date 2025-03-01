@@ -1,5 +1,5 @@
 ---
-title: "Linear Relationships: Formula and Examples (Algo Trading)"
+title: "Linear Relationships: Formula and Examples"
 description: "Explore the role of linear relationships in algorithmic trading with practical examples and mathematical insights to enhance decision-making and profitability."
 ---
 

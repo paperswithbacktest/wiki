@@ -1,5 +1,5 @@
 ---
-title: "List of Highest-Grossing Film Franchises (Algo Trading)"
+title: "List of Highest-Grossing Film Franchises"
 description: "Explore the world of the highest-grossing film franchises and their impact on global audiences and financial markets. This article investigates into the economic potential of franchises like the Marvel Cinematic Universe, Star Wars, and Harry Potter, which have become cultural icons with billions in revenue. Discover how these franchises utilize data-driven decisions and strategic planning to maximize profits, drawing parallels with the world of algorithmic trading. Understanding the power of data-led strategies reveals the shared success drivers in both film and finance industries."
 ---
 

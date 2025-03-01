@@ -1,5 +1,5 @@
 ---
-title: "Employee Share Purchase Plans (Algo Trading)"
+title: "Employee Share Purchase Plans"
 description: "Explore how Employee Share Purchase Plans (ESPPs) and algorithmic trading impact modern investment strategies. ESPPs enable employees to buy company stock at a discount, enhancing financial growth and employee-company relations. Algorithmic trading, utilizing advanced algorithms, optimizes market transactions with speed and precision. This article investigates into the benefits and complexities of ESPPs and algo trading, offering a comprehensive view of contemporary financial markets, catering to varied investment goals and encouraging innovative engagement in corporate growth."
 ---
 

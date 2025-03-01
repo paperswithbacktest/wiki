@@ -1,5 +1,5 @@
 ---
-title: "Bond Equivalent Yield (Algo Trading)"
+title: "Bond Equivalent Yield"
 description: "Explore the synergy between Bond Equivalent Yield and algorithmic trading to enhance investment strategies and optimize returns in fixed-income markets."
 ---
 

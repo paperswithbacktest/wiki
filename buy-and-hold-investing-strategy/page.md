@@ -1,5 +1,5 @@
 ---
-title: "Buy and Hold Investing Strategy (Algo Trading)"
+title: "Buy and Hold Investing Strategy"
 description: "Explore buy and hold and algorithmic trading strategies to boost your investment potential Understand how these methodologies can aid in long-term success"
 ---
 

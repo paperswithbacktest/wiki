@@ -1,5 +1,5 @@
 ---
-title: "Fair Value Calculation in Futures Markets (Algo Trading)"
+title: "Fair Value Calculation in Futures Markets"
 description: "Explore fair value calculation in futures trading for strategic trading. Understand theoretical pricing and algorithmic trading advantages for market opportunities."
 ---
 

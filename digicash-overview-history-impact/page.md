@@ -1,5 +1,5 @@
 ---
-title: "DigiCash: Overview, History, and Impact (Algo Trading)"
+title: "DigiCash: Overview, History, and Impact"
 description: "Explore the impact of DigiCash on cryptocurrency's evolution and algorithmic trading Learn about cryptographic protocols and their role in today's digital currencies"
 ---
 

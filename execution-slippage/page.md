@@ -1,5 +1,5 @@
 ---
-title: "execution slippage (Algo Trading)"
+title: "execution slippage"
 description: "Execution slippage in algorithmic trading affects profitability by causing differences between expected and actual trade prices; management and strategy are key."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Double Gearing: Overview and Regulatory Effects (Algo Trading)"
+title: "Double Gearing: Overview and Regulatory Effects"
 description: "Explore how double gearing, financial regulation, and algorithmic trading shape modern finance, impacting market stability and capital management practices."
 ---
 

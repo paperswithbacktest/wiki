@@ -1,5 +1,5 @@
 ---
-title: "Impact of Poor Investment Advice (Algo Trading)"
+title: "Impact of Poor Investment Advice"
 description: "Discover the risks of poor investment advice and algorithmic trading Learn how to spot bad strategies and protect your financial resources effectively"
 ---
 

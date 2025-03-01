@@ -1,5 +1,5 @@
 ---
-title: "Fixed-Rule Policy: Overview, Types, Advantages, and Disadvantages (Algo Trading)"
+title: "Fixed-Rule Policy: Overview, Types, Advantages, and Disadvantages"
 description: "Discover the key aspects of fixed-rule policies in algorithmic trading explore their application types and understand the advantages and challenges they present."
 ---
 

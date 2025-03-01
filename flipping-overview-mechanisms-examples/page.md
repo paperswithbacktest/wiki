@@ -1,5 +1,5 @@
 ---
-title: "Flipping: Overview, Mechanisms, and Examples (Algo Trading)"
+title: "Flipping: Overview, Mechanisms, and Examples"
 description: "Explore the synergy of flipping and algorithmic trading in finance and investment Optimize decisions and exploit market inefficiencies for greater profits"
 ---
 

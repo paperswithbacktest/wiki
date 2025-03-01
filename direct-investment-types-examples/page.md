@@ -1,5 +1,5 @@
 ---
-title: "Direct Investment Types and Examples (Algo Trading)"
+title: "Direct Investment Types and Examples"
 description: "Explore direct investment types and algorithmic trading's role in today's economy Learn how FDI and trading algorithms shape market dynamics and drive growth."
 ---
 

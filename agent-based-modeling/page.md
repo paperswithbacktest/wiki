@@ -1,5 +1,5 @@
 ---
-title: "Agent-based modeling (Algo Trading)"
+title: "Agent-based modeling"
 description: "Explore the role of agent-based modeling in algorithmic trading to understand market dynamics and develop sophisticated, adaptive trading strategies."
 ---
 

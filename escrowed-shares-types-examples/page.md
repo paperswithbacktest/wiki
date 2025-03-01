@@ -1,5 +1,5 @@
 ---
-title: "Escrowed Shares: Types and Examples (Algo Trading)"
+title: "Escrowed Shares: Types and Examples"
 description: "Explore the vital role of escrowed shares in financial markets including their types and how algorithmic trading enhances their management for transactions like IPOs."
 ---
 

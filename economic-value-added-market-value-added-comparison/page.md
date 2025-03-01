@@ -1,5 +1,5 @@
 ---
-title: "Economic Value Added and Market Value Added Comparison (Algo Trading)"
+title: "Economic Value Added and Market Value Added Comparison"
 description: "Explore the comparison between Economic Value Added (EVA) and Market Value Added (MVA) as essential financial metrics for evaluating company performance in the context of algorithmic trading. Understand how EVA and MVA facilitate informed trading strategies by enhancing the assessment of true value creation and market perception, beyond just profitability. Discover the integration of these metrics into algorithmic trading to optimize investment decisions based on genuine value indicators, leveraging technology for comprehensive financial analysis in dynamic trading environments."
 ---
 

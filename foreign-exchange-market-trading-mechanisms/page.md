@@ -1,5 +1,5 @@
 ---
-title: "Foreign Exchange Market Trading Mechanisms (Algo Trading)"
+title: "Foreign Exchange Market Trading Mechanisms"
 description: "Explore the immense landscape of the global Forex market, the largest financial marketplace in the world, where national currencies are traded round the clock. Delve into the decentralized nature of this market and the evolving role of algorithmic trading in enhancing trade efficiency by utilizing sophisticated computer algorithms. Discover key concepts essential for successful Forex trading, including currency pairs and leverage and understand the significant impact of central bank policies on currency values. Whether you're new to Forex or looking to refine your strategies, this comprehensive guide provides insights into mastering the dynamic Forex environment."
 ---
 

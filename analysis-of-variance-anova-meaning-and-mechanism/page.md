@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Variance (ANOVA): Meaning and Mechanism (Algo Trading)"
+title: "Analysis of Variance (ANOVA): Meaning and Mechanism"
 description: "Explore the significance of ANOVA in algorithmic trading to evaluate differences between datasets and optimize trading strategies by reducing risks."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Bitcoin and Bitcoin Cash (Algo Trading)"
+title: "Comparison of Bitcoin and Bitcoin Cash"
 description: "Discover the key differences between Bitcoin and Bitcoin Cash in algo trading. Explore how their unique traits impact strategies, transaction speeds, and fees."
 ---
 

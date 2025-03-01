@@ -1,5 +1,5 @@
 ---
-title: "Average Profit Margin Range for Financial Services Companies (Algo Trading)"
+title: "Average Profit Margin Range for Financial Services Companies"
 description: "Explore average profit margins in financial services with a focus on algorithmic trading Understand how tech and market dynamics affect profitability"
 ---
 

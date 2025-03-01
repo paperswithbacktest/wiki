@@ -1,5 +1,5 @@
 ---
-title: "Federal Farm Credit System Overview (Algo Trading)"
+title: "Federal Farm Credit System Overview"
 description: "Discover how the Federal Farm Credit System empowers U.S. agriculture with enhanced financing through algorithmic trading for sustainable growth and efficiency."
 ---
 

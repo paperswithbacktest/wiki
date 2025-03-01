@@ -1,5 +1,5 @@
 ---
-title: "Global Financial Centres (Algo Trading)"
+title: "Global Financial Centres"
 description: "Explore the crucial role of global financial centres like New York, London, and Tokyo in shaping finance with insights into the rise of algorithmic trading."
 ---
 

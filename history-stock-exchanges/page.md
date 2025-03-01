@@ -1,5 +1,5 @@
 ---
-title: "History of Stock Exchanges (Algo Trading)"
+title: "History of Stock Exchanges"
 description: "Explore the evolution of stock exchanges and algo trading shaping global financial markets with key historical insights and future trends in economic dynamics."
 ---
 

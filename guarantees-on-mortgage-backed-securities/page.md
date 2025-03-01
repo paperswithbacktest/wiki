@@ -1,5 +1,5 @@
 ---
-title: "Guarantees on Mortgage-Backed Securities (Algo Trading)"
+title: "Guarantees on Mortgage-Backed Securities"
 description: "Explore the intricacies of mortgage-backed securities including financial guarantees investment risks and the impact of algorithmic trading on these key financial instruments"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Common Phrases Used by Amateur Investors (Algo Trading)"
+title: "Common Phrases Used by Amateur Investors"
 description: "Discover common phrases crucial for amateur investors exploring algorithmic trading Learn key terms to navigate financial markets and improve investment decisions"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Derivatives (Algo Trading)"
+title: "Introduction to Derivatives"
 description: "Explore the dynamic world of financial instruments and deepen your understanding of derivatives and algorithmic trading. This comprehensive guide introduces the essentials of stocks, bonds, and complex derivatives, highlighting their role in risk management, speculation, and hedging. Discover how algorithmic trading revolutionizes market operations with high-speed automated trades. Perfect for beginners keen to enhance their investment strategies and grasp modern financial technologies, this article emphasizes the significance of mastering these sophisticated tools in shaping a robust financial portfolio."
 ---
 

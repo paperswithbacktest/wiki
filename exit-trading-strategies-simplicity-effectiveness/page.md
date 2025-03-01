@@ -1,5 +1,5 @@
 ---
-title: "Exit Trading Strategies: Simplicity and Effectiveness (Algo Trading)"
+title: "Exit Trading Strategies: Simplicity and Effectiveness"
 description: "Discover how exit trading strategies enhance profitability with simplicity and effectiveness in algo trading. Learn tools to optimize trade outcomes."
 ---
 

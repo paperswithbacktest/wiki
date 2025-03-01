@@ -1,5 +1,5 @@
 ---
-title: "Financial Services Forum: Mission and Achievements (Algo Trading)"
+title: "Financial Services Forum: Mission and Achievements"
 description: "Explore how the Financial Services Forum influences the financial sector through policy advocacy, innovation in algo trading, and promoting economic growth globally."
 ---
 

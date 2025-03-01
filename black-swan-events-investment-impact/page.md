@@ -1,5 +1,5 @@
 ---
-title: "Black Swan Events and Investment Impact (Algo Trading)"
+title: "Black Swan Events and Investment Impact"
 description: "Explore the impact of black swan events on investments and algorithmic trading Discover strategies to manage risks in financial markets during unpredictable times"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Capital Improvement Overview (Algo Trading)"
+title: "Capital Improvement Overview"
 description: "Explore how capital improvements and algorithmic trading intersect to create innovative investment strategies in real estate for optimal financial outcomes."
 ---
 

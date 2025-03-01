@@ -1,5 +1,5 @@
 ---
-title: "Fractional Share Purchasing (Algo Trading)"
+title: "Fractional Share Purchasing"
 description: "Discover how fractional share purchasing and algorithmic trading are transforming investment strategies by making the stock market more accessible and efficient. This article explores the benefits of fractional shares, allowing investors to buy portions of stocks for diversification, even with limited capital. It also investigates into the automation and precision of algorithmic trading, which optimizes trade execution by leveraging technology for faster and more informed decisions. Learn how these innovations democratize finance and enhance participation in trading, while also considering potential limitations and complexities."
 ---
 

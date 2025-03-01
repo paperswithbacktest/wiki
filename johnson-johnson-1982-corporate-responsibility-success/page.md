@@ -1,5 +1,5 @@
 ---
-title: "Johnson & Johnson's 1982 Corporate Responsibility Success (Algo Trading)"
+title: "Johnson & Johnson's 1982 Corporate Responsibility Success"
 description: "Explore Johnson & Johnson's exemplary crisis management during the 1982 Tylenol scare and the role of algorithmic trading in modern risk management."
 ---
 

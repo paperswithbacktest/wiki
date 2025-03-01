@@ -1,5 +1,5 @@
 ---
-title: "Event Contracts: Definition and Utilization (Algo Trading)"
+title: "Event Contracts: Definition and Utilization"
 description: "Explore how event and financial trading contracts enhance algorithmic trading strategies Discover their role in risk management and speculative opportunities"
 ---
 

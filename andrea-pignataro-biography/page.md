@@ -1,5 +1,5 @@
 ---
-title: "Andrea Pignataro Biography (Algo Trading)"
+title: "Andrea Pignataro Biography"
 description: "Discover the influential journey of Andrea Pignataro, the visionary behind ION Group, a leader in financial technology, trading platforms, and market infrastructure."
 ---
 

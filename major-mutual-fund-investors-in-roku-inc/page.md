@@ -1,5 +1,5 @@
 ---
-title: "Major Mutual Fund Investors in Roku Inc. (Algo Trading)"
+title: "Major Mutual Fund Investors in Roku Inc."
 description: "Explore major mutual fund investors in Roku Inc with a focus on the role of algorithmic trading in optimizing investment strategies and enhancing returns."
 ---
 

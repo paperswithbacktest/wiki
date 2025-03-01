@@ -1,5 +1,5 @@
 ---
-title: "American Currency Quotation (Algo Trading)"
+title: "American Currency Quotation"
 description: "Explore American currency quotations and their significance in algorithmic forex trading Gain insights into strategies utilizing USD rates and automated trading technology"
 ---
 

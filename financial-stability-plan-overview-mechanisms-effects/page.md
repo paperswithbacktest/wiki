@@ -1,5 +1,5 @@
 ---
-title: "Financial Stability Plan: Overview, Mechanisms, and Effects (Algo Trading)"
+title: "Financial Stability Plan: Overview, Mechanisms, and Effects"
 description: "Explore the synergy between financial stability plans and algorithmic trading as they transform market dynamics and impact the global economic landscape."
 ---
 

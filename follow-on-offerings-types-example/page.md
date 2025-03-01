@@ -1,5 +1,5 @@
 ---
-title: "Follow-On Offerings: Types and Example (Algo Trading)"
+title: "Follow-On Offerings: Types and Example"
 description: "Discover the essentials of follow-on offerings (FPO) in finance including types, benefits, and the role of algorithmic trading in modern stock issuance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Chikou Span in Technical Analysis (Algo Trading)"
+title: "Chikou Span in Technical Analysis"
 description: "Explore the Chikou Span in algorithmic trading for enhanced market analysis. Learn how this technical indicator confirms trends and identifies reversals effectively."
 ---
 

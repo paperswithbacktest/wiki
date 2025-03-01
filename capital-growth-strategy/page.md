@@ -1,5 +1,5 @@
 ---
-title: "Capital Growth Strategy (Algo Trading)"
+title: "Capital Growth Strategy"
 description: "Discover effective capital growth strategies through algorithmic trading to optimize investment performance and achieve long-term financial goals with confidence."
 ---
 

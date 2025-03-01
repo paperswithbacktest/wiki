@@ -1,5 +1,5 @@
 ---
-title: "Deep learning in market prediction (Algo Trading)"
+title: "Deep learning in market prediction"
 description: "Deep learning revolutionizes market prediction in algorithmic trading by analyzing vast data sets to identify trends and minimize risks effectively."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Distress Sale and Its Financial Implications (Algo Trading)"
+title: "Distress Sale and Its Financial Implications"
 description: "Explore the intersection of distress sales and algorithmic trading and their effects on market behavior asset pricing and financial stability in this comprehensive analysis."
 ---
 

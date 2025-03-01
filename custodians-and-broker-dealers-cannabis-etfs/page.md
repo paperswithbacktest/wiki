@@ -1,5 +1,5 @@
 ---
-title: "Custodians and Broker-Dealers in Cannabis ETFs (Algo Trading)"
+title: "Custodians and Broker-Dealers in Cannabis ETFs"
 description: "Explore the vital roles of custodians and broker-dealers in cannabis ETFs and discover how algorithmic trading enhances efficiency in this dynamic market."
 ---
 

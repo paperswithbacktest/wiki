@@ -1,5 +1,5 @@
 ---
-title: "Malaysian Ringgit: Currency Symbol and Exchange (Algo Trading)"
+title: "Malaysian Ringgit: Currency Symbol and Exchange"
 description: "Explore the Malaysian Ringgit's role in both traditional forex and modern algorithmic trading Discover its history value and impact on Southeast Asia."
 ---
 

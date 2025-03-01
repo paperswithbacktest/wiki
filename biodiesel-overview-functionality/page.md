@@ -1,5 +1,5 @@
 ---
-title: "Biodiesel: Overview and Functionality (Algo Trading)"
+title: "Biodiesel: Overview and Functionality"
 description: "Explore how integrating biodiesel with algorithmic trading can transform energy markets promoting sustainability efficiency and leveraging renewable energy sources."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "BCG Growth-Share Matrix Overview (Algo Trading)"
+title: "BCG Growth-Share Matrix Overview"
 description: "Explore the impact of the BCG Growth-Share Matrix on strategic management and its integration with algorithmic trading to optimize business decision-making."
 ---
 

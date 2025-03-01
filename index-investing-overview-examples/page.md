@@ -1,5 +1,5 @@
 ---
-title: "Index Investing: Overview and Examples (Algo Trading)"
+title: "Index Investing: Overview and Examples"
 description: "Explore the benefits of combining index investing and algorithmic trading for a balanced strategy that enhances diversification with automated precision in financial markets."
 ---
 

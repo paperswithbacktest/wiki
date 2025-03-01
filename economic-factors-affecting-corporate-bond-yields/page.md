@@ -1,5 +1,5 @@
 ---
-title: "Economic Factors Affecting Corporate Bond Yields (Algo Trading)"
+title: "Economic Factors Affecting Corporate Bond Yields"
 description: "Explore economic factors influencing corporate bond yields, including growth, inflation, and algorithmic trading, offering key insights for informed investing."
 ---
 

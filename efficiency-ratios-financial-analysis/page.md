@@ -1,5 +1,5 @@
 ---
-title: "Efficiency Ratios in Financial Analysis (Algo Trading)"
+title: "Efficiency Ratios in Financial Analysis"
 description: "Explore efficiency ratios and performance metrics in algorithmic trading. Understand how these tools optimize strategies, enhance decision-making, and boost outcomes."
 ---
 

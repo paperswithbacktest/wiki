@@ -1,5 +1,5 @@
 ---
-title: "Inverse Relationship Between Price and Quantity in the Law of Demand (Algo Trading)"
+title: "Inverse Relationship Between Price and Quantity in the Law of Demand"
 description: "Explore the inverse relationship between price and quantity in the law of demand and its implications for algorithmic trading strategies to optimize financial outcomes."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Constant Dollar (Algo Trading)"
+title: "Constant Dollar"
 description: "Discover how constant dollar measures enhance algorithmic trading by providing accurate economic insights. Learn about inflation adjustment and market strategies."
 ---
 

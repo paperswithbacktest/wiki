@@ -1,5 +1,5 @@
 ---
-title: "Jon Najarian: Investor and Analyst (Algo Trading)"
+title: "Jon Najarian: Investor and Analyst"
 description: "Explore the world of trading with Jon Najarian a respected figure in algorithmic trading and market analysis Learn about his influential financial strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Ahmet Okumus: A Trading Legend (Algo Trading)"
+title: "Ahmet Okumus: A Trading Legend"
 description: Explore the remarkable journey of Ahmet Okumus, a trading legend in algorithmic finance who transcended from Istanbul to Wall Street. Achieving an extraordinary average annual return of 107% from 1992 to 2000, Okumus' success stems from a unique trading philosophy and disciplined approach. Featured in "Stock Market Wizards," he offers profound insights into trading strategies and methodologies. This article investigates into Okumus' balanced tactics of disciplined research and strategic risk management, providing traders with inspiration and actionable insights to enhance competitiveness in the financial markets.
 ---
 

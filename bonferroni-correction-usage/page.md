@@ -1,5 +1,5 @@
 ---
-title: "Bonferroni Correction Usage (Algo Trading)"
+title: "Bonferroni Correction Usage"
 description: "Discover how the Bonferroni correction enhances algorithmic trading by minimizing false positives in multiple tests, ensuring robust statistical accuracy."
 ---
 

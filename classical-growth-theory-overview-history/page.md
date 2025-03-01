@@ -1,5 +1,5 @@
 ---
-title: "Classical Growth Theory: Overview and Historical Context (Algo Trading)"
+title: "Classical Growth Theory: Overview and Historical Context"
 description: "Explore Classical Growth Theory's historical context and its modern relevance in algo trading with insights from economists like Adam Smith and David Ricardo."
 ---
 

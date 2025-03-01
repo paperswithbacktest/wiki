@@ -1,5 +1,5 @@
 ---
-title: "Government Intervention in Market Economies (Algo Trading)"
+title: "Government Intervention in Market Economies"
 description: "Explore how government intervention impacts market economies through policies like monetary and fiscal measures, balancing market forces with oversight."
 ---
 

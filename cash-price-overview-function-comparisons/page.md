@@ -1,5 +1,5 @@
 ---
-title: "Cash Price: Overview, Function, and Comparisons (Algo Trading)"
+title: "Cash Price: Overview, Function, and Comparisons"
 description: "Explore the role of cash price or spot price in algorithmic trading Learn how advanced models impact trading strategies and financial decisions"
 ---
 

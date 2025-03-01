@@ -1,5 +1,5 @@
 ---
-title: "Construction Loan Overview (Algo Trading)"
+title: "Construction Loan Overview"
 description: "Explore the intricacies of construction loans and the potential impact of algorithmic trading on this field to enhance financial efficiency in project planning."
 ---
 

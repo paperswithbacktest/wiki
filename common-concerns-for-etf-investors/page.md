@@ -1,5 +1,5 @@
 ---
-title: "Common Concerns for ETF Investors (Algo Trading)"
+title: "Common Concerns for ETF Investors"
 description: "Explore the intersection of ETFs and algorithmic trading uncovering benefits like liquidity and risks like market instability to navigate investments efficiently."
 ---
 

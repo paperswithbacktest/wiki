@@ -1,5 +1,5 @@
 ---
-title: "Current Transfers: Definition and Mechanism (Algo Trading)"
+title: "Current Transfers: Definition and Mechanism"
 description: "Explore the essential role of current transfers in global economics, fiscal policy, and algorithmic trading. Understand their impact on economic stability and growth."
 ---
 

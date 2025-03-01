@@ -1,5 +1,5 @@
 ---
-title: "Margin Trading in the Forex Market (Algo Trading)"
+title: "Margin Trading in the Forex Market"
 description: "Explore the intersection of Forex margin trading and algorithmic strategies Discover how leveraging borrowed funds and automated systems can maximize gains and manage risks"
 ---
 

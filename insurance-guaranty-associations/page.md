@@ -1,5 +1,5 @@
 ---
-title: "Insurance Guaranty Associations (Algo Trading)"
+title: "Insurance Guaranty Associations"
 description: "Explore the critical role of insurance guaranty associations in securing policyholders amidst insurer insolvency and learn about algorithmic trading in insurance."
 ---
 

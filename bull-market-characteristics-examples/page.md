@@ -1,5 +1,5 @@
 ---
-title: "Bull Market: Characteristics and Examples (Algo Trading)"
+title: "Bull Market: Characteristics and Examples"
 description: "Explore the dynamics of bull markets and the influence of algorithmic trading on stock exchanges to optimize investment strategies and enhance market outcomes."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategies in Agriculture Without Farm Ownership (Algo Trading)"
+title: "Investment Strategies in Agriculture Without Farm Ownership"
 description: "Discover investment strategies in agriculture without owning a farm by exploring innovative options like algorithmic trading, REITs, agricultural stocks, and ETFs."
 ---
 

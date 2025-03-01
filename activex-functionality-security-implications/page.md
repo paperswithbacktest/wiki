@@ -1,5 +1,5 @@
 ---
-title: "ActiveX: Functionality and Security Implications (Algo Trading)"
+title: "ActiveX: Functionality and Security Implications"
 description: "Explore the dual impact of ActiveX and algorithmic trading on security in the digital age, highlighting risks and solutions in web and financial environments."
 ---
 

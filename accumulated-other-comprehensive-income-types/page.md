@@ -1,5 +1,5 @@
 ---
-title: "Accumulated Other Comprehensive Income and Types (Algo Trading)"
+title: "Accumulated Other Comprehensive Income and Types"
 description: "Explore the significance of Accumulated Other Comprehensive Income in financial statements and its impact on algorithmic trading strategies for informed decisions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Detection Of Creative Accounting On Balance Sheets (Algo Trading)"
+title: "Detection Of Creative Accounting On Balance Sheets"
 description: "Explore the intricate intersection of balance sheet analysis, creative accounting, and algorithmic trading to enhance financial decision-making and market transparency."
 ---
 

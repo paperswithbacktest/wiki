@@ -1,5 +1,5 @@
 ---
-title: "All-Holders Rule (Algo Trading)"
+title: "All-Holders Rule"
 description: "Explore the all-holders rule in algorithmic trading and investment regulation to ensure fairness in tender offers and protect investors in a complex market."
 ---
 

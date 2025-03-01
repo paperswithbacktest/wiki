@@ -1,5 +1,5 @@
 ---
-title: "Entropy features (Algo Trading)"
+title: "Entropy features"
 description: Explore how entropy features in algorithmic trading provide unique insights into financial markets by measuring uncertainty and complexity in asset prices. Learn about entropy's roots in thermodynamics, its adaptation through Shannon entropy in finance, and how it helps traders identify market trends and potential reversals. Discover how entropy indicators outperform traditional metrics and represent a shift towards sophisticated trading strategies with practical examples and Python implementations.
 ---
 

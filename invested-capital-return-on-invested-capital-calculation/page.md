@@ -1,5 +1,5 @@
 ---
-title: "Invested Capital and Return on Invested Capital Calculation (Algo Trading)"
+title: "Invested Capital and Return on Invested Capital Calculation"
 description: "Explore how algorithmic trading enhances investment efficiency with a focus on ROIC and ROI. Learn strategies to maximize returns and capitalize on algo trading advantages."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Can You Get Rich from Dividend Stocks? (Algo Trading)"
+title: "Can You Get Rich from Dividend Stocks?"
 description: Discover how integrating dividends into algorithmic trading strategies can enhance profitability. Explore the potential for dividend stocks to contribute to wealth accumulation by understanding their role in trading algorithms and optimizing strategies for improved financial returns.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Country Risk Assessment in International Investing (Algo Trading)"
+title: "Country Risk Assessment in International Investing"
 description: "Explore the crucial role of country risk and algorithmic trading in international investing Understand how these elements optimize decision-making and portfolio returns"
 ---
 

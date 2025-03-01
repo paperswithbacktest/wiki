@@ -1,5 +1,5 @@
 ---
-title: "Iterated Prisoner's Dilemma Strategies and Examples (Algo Trading)"
+title: "Iterated Prisoner's Dilemma Strategies and Examples"
 description: "Explore the application of iterated prisoner's dilemma strategies in algorithmic trading to enhance decision-making, manage risk, and improve financial returns."
 ---
 

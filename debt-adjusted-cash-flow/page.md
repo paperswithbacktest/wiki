@@ -1,5 +1,5 @@
 ---
-title: "Debt-Adjusted Cash Flow (Algo Trading)"
+title: "Debt-Adjusted Cash Flow"
 description: "Discover the power of Debt-Adjusted Cash Flow in financial analysis and algo trading strategies to accurately evaluate a company's true economic performance."
 ---
 

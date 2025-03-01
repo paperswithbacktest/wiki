@@ -1,5 +1,5 @@
 ---
-title: "Financial data (Algo Trading)"
+title: "Financial data"
 description: Explore the pivotal role financial data plays in algorithmic trading as it supports strategy development and execution, providing a foundation for identifying market opportunities. Understanding diverse data types such as historical prices, volumes, sentiment, and economic indicators is essential for enhancing trading strategy efficiency and profitability. Discover challenges like data quality and regulatory considerations while learning about technical requirements for effective data management and analysis.
 ---
 

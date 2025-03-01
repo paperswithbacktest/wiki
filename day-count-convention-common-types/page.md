@@ -1,5 +1,5 @@
 ---
-title: "Day-Count Convention and Common Types (Algo Trading)"
+title: "Day-Count Convention and Common Types"
 description: "Explore the critical role of day-count conventions and interest calculations in financial markets and algorithmic trading to enhance investment precision and returns."
 ---
 

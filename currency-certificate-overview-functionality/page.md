@@ -1,5 +1,5 @@
 ---
-title: "Currency Certificate Overview and Functionality (Algo Trading)"
+title: "Currency Certificate Overview and Functionality"
 description: "Discover the role of currency certificates in hedging foreign exchange risks and the impact of algorithmic trading in optimizing financial strategies."
 ---
 

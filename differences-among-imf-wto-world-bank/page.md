@@ -1,5 +1,5 @@
 ---
-title: "Differences Among the IMF, WTO, and World Bank (Algo Trading)"
+title: "Differences Among the IMF, WTO, and World Bank"
 description: "Explore how the World Bank IMF and WTO influence global markets and the evolving role of algorithmic trading in shaping today's financial landscape."
 ---
 

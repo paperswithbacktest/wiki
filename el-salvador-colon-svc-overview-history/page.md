@@ -1,5 +1,5 @@
 ---
-title: "El Salvador Colón (SVC): Overview and History (Algo Trading)"
+title: "El Salvador Colón (SVC): Overview and History"
 description: "Discover the compelling history of El Salvador's currency transition from the Colón to the U.S. dollar and explore the impact of algorithmic trading innovations."
 ---
 

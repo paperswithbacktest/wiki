@@ -1,5 +1,5 @@
 ---
-title: "Group Depreciation: Overview, Function, and Limitations (Algo Trading)"
+title: "Group Depreciation: Overview, Function, and Limitations"
 description: "Explore the intersection of accounting asset management and algorithmic trading Learn how group depreciation influences asset valuation and trading strategies"
 ---
 

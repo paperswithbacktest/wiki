@@ -1,5 +1,5 @@
 ---
-title: "Descending Tops: Mechanism and Example (Algo Trading)"
+title: "Descending Tops: Mechanism and Example"
 description: "Explore the role of descending tops in trading a key technical analysis pattern signifying bearish trends Learn how to identify and leverage these patterns in real scenarios"
 ---
 

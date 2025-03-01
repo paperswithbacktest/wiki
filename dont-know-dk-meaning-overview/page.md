@@ -1,5 +1,5 @@
 ---
-title: "Don't Know (DK): Meaning and Overview (Algo Trading)"
+title: "Don't Know (DK): Meaning and Overview"
 description: "Unlock the essentials of 'Don't Know' (DK) in algorithmic trading Discover how DK impacts trade execution and strategies, and learn ways to mitigate discrepancies"
 ---
 

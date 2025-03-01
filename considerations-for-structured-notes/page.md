@@ -1,5 +1,5 @@
 ---
-title: "Considerations for Structured Notes (Algo Trading)"
+title: "Considerations for Structured Notes"
 description: "Explore the risks and complexities of structured notes and algorithmic trading, focusing on informed investment decisions, tailored returns, and potential challenges."
 ---
 

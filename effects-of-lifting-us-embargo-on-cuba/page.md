@@ -1,5 +1,5 @@
 ---
-title: "Effects of Lifting the U.S. Embargo on Cuba (Algo Trading)"
+title: "Effects of Lifting the U.S. Embargo on Cuba"
 description: "Explore the potential impacts of lifting the U.S. embargo on Cuba, focusing on shifts in international relations, economic opportunities, and algo trading dynamics."
 ---
 

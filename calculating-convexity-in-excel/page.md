@@ -1,5 +1,5 @@
 ---
-title: "Calculating Convexity in Excel (Algo Trading)"
+title: "Calculating Convexity in Excel"
 description: "Learn to calculate bond convexity in Excel and understand its importance in managing interest rate risk and optimizing algorithmic trading strategies."
 ---
 

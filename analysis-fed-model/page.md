@@ -1,5 +1,5 @@
 ---
-title: "Analysis of the Fed Model (Algo Trading)"
+title: "Analysis of the Fed Model"
 description: "Explore the fusion of financial analysis and algorithmic trading with the Fed Model Learn its role in comparing stock yields to bond yields for investment insight"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Institutional Holdings Exceeding 100 Percent (Algo Trading)"
+title: "Institutional Holdings Exceeding 100 Percent"
 description: "Explore the interplay of institutional holdings and algorithmic trading reshaping stock market dynamics and influencing investment strategies for stability."
 ---
 

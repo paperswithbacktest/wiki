@@ -1,5 +1,5 @@
 ---
-title: "Iron Butterfly Trading Strategy (Algo Trading)"
+title: "Iron Butterfly Trading Strategy"
 description: "Discover the Iron Butterfly trading strategy, a neutral options market tactic aimed at profiting from minimal price movement. This guide investigates into its mechanics and highlights algorithmic trading's role in optimizing execution, making it ideal for low volatility environments."
 ---
 

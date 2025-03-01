@@ -1,5 +1,5 @@
 ---
-title: "Average Revenue Per Unit Calculation (Algo Trading)"
+title: "Average Revenue Per Unit Calculation"
 description: "Discover the significance of Average Revenue Per User (ARPU) and its calculation in various industries, particularly algorithmic trading. Learn how ARPU serves as a vital metric in assessing user engagement and profitability helping companies optimize pricing strategies. Explore the evolving role of algorithmic trading in financial markets highlighting its influence on liquidity and cost reduction, and understand the intersection of ARPU with trading platforms to enhance financial health and investor value."
 ---
 

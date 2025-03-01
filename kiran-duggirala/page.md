@@ -1,5 +1,5 @@
 ---
-title: "Kiran Duggirala (Algo Trading)"
+title: "Kiran Duggirala"
 description: "Explore Kiran Duggirala's journey in algorithmic trading from Stuyvesant High School to University of Chicago research and internships in quantitative finance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Discovery (Alphacet) (Algo Trading)"
+title: "Discovery (Alphacet)"
 description: Explore the innovative world of algorithmic trading with Alphacet Discovery, a leading platform in financial technology. Established in 2007, Alphacet has made significant strides by offering advanced tools for developing and deploying trading strategies. With features like real-time data integration and codeless financial modeling, Alphacet Discovery caters to traders, providing them with a competitive edge in fast-paced markets. Discover how Alphacet continues to drive innovation in trading by bridging theoretical research with practical application.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Geometric Mean: Calculation and Examples (Algo Trading)"
+title: "Geometric Mean: Calculation and Examples"
 description: "Discover the fundamental role of the geometric mean in algorithmic trading Analyze investment performance accurately avoid skewness and optimize strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Dow Jones Industrial Average Index (Algo Trading)"
+title: "Dow Jones Industrial Average Index"
 description: "Explore the historical significance and modern influence of the Dow Jones Industrial Average in algorithmic trading strategies and economic indicators."
 ---
 

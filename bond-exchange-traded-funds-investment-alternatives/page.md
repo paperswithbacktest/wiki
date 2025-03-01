@@ -1,5 +1,5 @@
 ---
-title: "Bond Exchange-Traded Funds as Investment Alternatives (Algo Trading)"
+title: "Bond Exchange-Traded Funds as Investment Alternatives"
 description: "Explore bond ETFs as investment alternatives offering diversification and liquidity. Learn how algo trading enhances strategy in the evolving bond market landscape."
 ---
 

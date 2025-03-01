@@ -1,5 +1,5 @@
 ---
-title: "Leverage in Hedge Funds (Algo Trading)"
+title: "Leverage in Hedge Funds"
 description: "Discover how hedge funds use leverage and algorithmic trading to amplify returns and manage risks in today's fast-paced financial markets. Explore innovative strategies."
 ---
 

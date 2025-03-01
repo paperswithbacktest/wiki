@@ -1,5 +1,5 @@
 ---
-title: "Agency Debenture (Algo Trading)"
+title: "Agency Debenture"
 description: "Explore the critical role of agency debentures in financial markets and algorithmic trading highlighting low-risk investment opportunities and trading strategies."
 ---
 

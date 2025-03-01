@@ -1,5 +1,5 @@
 ---
-title: "Del Credere Agency (Algo Trading)"
+title: "Del Credere Agency"
 description: "Explore the intricate world of finance where del credere, financial, and algo trading agencies play pivotal roles in managing risk and facilitating transactions. Del credere agencies assure payment security in dealings by acting as guarantors for payment defaults. Financial agencies contribute by optimizing capital flow, offering investment advice, and enhancing market efficiency. Meanwhile, algo trading utilizes advanced algorithms to automate trading processes, improving liquidity and reducing costs. Discover how these entities support and secure financial operations while mitigating risks, crucial for market stability and economic growth."
 ---
 

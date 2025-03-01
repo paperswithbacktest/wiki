@@ -1,5 +1,5 @@
 ---
-title: "Comparison of CAPM and Arbitrage Pricing Theory (Algo Trading)"
+title: "Comparison of CAPM and Arbitrage Pricing Theory"
 description: "Explore how CAPM and APT are utilized in algorithmic trading to enhance investment strategies and manage portfolios in the finance industry."
 ---
 

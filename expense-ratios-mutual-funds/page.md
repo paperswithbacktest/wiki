@@ -1,5 +1,5 @@
 ---
-title: "Expense Ratios in Mutual Funds (Algo Trading)"
+title: "Expense Ratios in Mutual Funds"
 description: "Understand expense ratios in mutual funds and their impact on investment returns Explore how costs affect net gains and the role of algorithmic trading"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Chartist: Meaning, Functionality, and Technical Systems (Algo Trading)"
+title: "Chartist: Meaning, Functionality, and Technical Systems"
 description: "Explore how chartism, technical analysis, and algorithmic trading come together to transform modern finance and optimize contemporary trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Itemized Statement: Overview, Advantages, and Example (Algo Trading)"
+title: "Itemized Statement: Overview, Advantages, and Example"
 description: "Explore the crucial role of itemized statements, financial statements, and billing examples in algorithmic trading with this comprehensive guide. Discover how these financial documents enhance transparency, support strategic planning, and aid in optimizing trading strategies. Understand the importance of accurate and detailed records for both personal finance and business operations, helping to improve budgeting, detect discrepancies, and maintain accountability in fast-paced financial environments."
 ---
 

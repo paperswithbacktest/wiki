@@ -1,5 +1,5 @@
 ---
-title: "Covered interest arbitrage (Algo Trading)"
+title: "Covered interest arbitrage"
 description: Explore the mechanics of covered interest arbitrage, a strategy that exploits interest rate differentials between countries using forward contracts to mitigate exchange rate risk. This article investigates into the strategy's principles, execution in algorithmic trading, and the impact of technological advancements that enhance efficiency and reduce arbitrage opportunities in modern financial markets.
 ---
 

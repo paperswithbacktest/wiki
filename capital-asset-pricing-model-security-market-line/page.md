@@ -1,5 +1,5 @@
 ---
-title: "Capital Asset Pricing Model in Security Market Line (Algo Trading)"
+title: "Capital Asset Pricing Model in Security Market Line"
 description: "Explore CAPM and SML in algorithmic trading as they assess risk and optimize returns Understanding these models aids in making informed financial decisions"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Apple Stock Valuation Using CAPM (Algo Trading)"
+title: "Apple Stock Valuation Using CAPM"
 description: "Explore Apple's stock valuation using CAPM and algorithmic trading learn to analyze returns accounting for risk to optimize investment strategies."
 ---
 

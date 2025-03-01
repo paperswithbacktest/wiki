@@ -1,5 +1,5 @@
 ---
-title: "Dan M. Berkovitz (Regulatory Specialist) (Algo Trading)"
+title: "Dan M. Berkovitz (Regulatory Specialist)"
 description: "Explore Dan M. Berkovitz's influential role in shaping financial regulations at the CFTC, focusing on algorithmic trading and market stability advancements."
 ---
 

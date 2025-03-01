@@ -1,5 +1,5 @@
 ---
-title: "Inventory Analysis of Companies (Algo Trading)"
+title: "Inventory Analysis of Companies"
 description: "Explore the intersection of inventory analysis financial analysis and algorithmic trading to enhance decision-making and competitiveness in fast-paced markets."
 ---
 

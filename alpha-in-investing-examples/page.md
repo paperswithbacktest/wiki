@@ -1,5 +1,5 @@
 ---
-title: "Alpha in Investing: Definition and Examples (Algo Trading)"
+title: "Alpha in Investing: Definition and Examples"
 description: "Discover how algorithmic trading can generate alpha in investing by leveraging quantitative techniques to outperform the market and identify trading opportunities."
 ---
 

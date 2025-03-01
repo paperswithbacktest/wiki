@@ -1,5 +1,5 @@
 ---
-title: "Annualized turnover in backtesting (Algo Trading)"
+title: "Annualized turnover in backtesting"
 description: Gain a deep understanding of annualized turnover in algorithmic trading backtesting and its vital role in refining strategies. Discover how this key metric evaluates trade frequency within portfolios, impacting both transaction costs and strategy efficiency. Learn to balance trading opportunities with cost minimization for successful strategy optimization.
 ---
 

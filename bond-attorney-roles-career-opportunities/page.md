@@ -1,5 +1,5 @@
 ---
-title: "Bond Attorney: Roles and Career Opportunities (Algo Trading)"
+title: "Bond Attorney: Roles and Career Opportunities"
 description: "Explore the critical role of bond attorneys in municipal finance and how algorithmic trading impacts legal careers Learn about the intersection of law and finance"
 ---
 

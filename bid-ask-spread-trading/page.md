@@ -1,5 +1,5 @@
 ---
-title: "Bid-Ask Spread in Trading (Algo Trading)"
+title: "Bid-Ask Spread in Trading"
 description: "Explore the vital role of bid-ask spread in algorithmic trading Discover how algorithms exploit this spread to optimize trades and enhance market liquidity"
 ---
 

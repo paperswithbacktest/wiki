@@ -1,5 +1,5 @@
 ---
-title: "Lightspeed 2024 Review (Algo Trading)"
+title: "Lightspeed 2024 Review"
 description: "Review Lightspeed Trading's 2024 features tailored for high-volume traders. Explore its advanced tools, competitive pricing, and support for diverse trading assets."
 ---
 

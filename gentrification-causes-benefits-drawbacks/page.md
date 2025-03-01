@@ -1,5 +1,5 @@
 ---
-title: "Gentrification: Causes, Benefits, and Drawbacks (Algo Trading)"
+title: "Gentrification: Causes, Benefits, and Drawbacks"
 description: "Discover the complex dynamics of gentrification Explore its causes benefits and drawbacks alongside the role of algorithmic trading in urban development."
 ---
 

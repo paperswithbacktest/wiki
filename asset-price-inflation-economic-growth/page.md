@@ -1,5 +1,5 @@
 ---
-title: "Asset Price Inflation and Economic Growth (Algo Trading)"
+title: "Asset Price Inflation and Economic Growth"
 description: "Explore the interplay between asset price inflation, economic growth, and algorithmic trading to understand their impact on market stability and investor behavior."
 ---
 

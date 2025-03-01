@@ -1,5 +1,5 @@
 ---
-title: "Exchange-Traded Derivatives (Algo Trading)"
+title: "Exchange-Traded Derivatives"
 description: "Explore the dynamic world of exchange-traded derivatives and algorithmic trading Discover how these instruments offer transparency security and strategic opportunities to investors"
 ---
 

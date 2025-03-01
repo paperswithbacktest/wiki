@@ -1,5 +1,5 @@
 ---
-title: "Bearish Belt Hold Explained (Algo Trading)"
+title: "Bearish Belt Hold Explained"
 description: Explore the Bearish Belt Hold candlestick pattern for algorithmic trading, focusing on its role in predicting bearish reversals during uptrends. Understand its key features, review backtesting results, and learn strategies for integrating it into trading systems while managing risks effectively.
 ---
 

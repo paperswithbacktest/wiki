@@ -1,5 +1,5 @@
 ---
-title: "Daily Factor: Concept, Functionality, and Example (Algo Trading)"
+title: "Daily Factor: Concept, Functionality, and Example"
 description: "Explore the synergy between daily factors and algorithmic trading to optimize yield management and trading outcomes in the modern financial landscape."
 ---
 

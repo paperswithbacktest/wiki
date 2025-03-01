@@ -1,5 +1,5 @@
 ---
-title: "History and Future of Stellar Cryptocurrency (Algo Trading)"
+title: "History and Future of Stellar Cryptocurrency"
 description: "Explore Stellar cryptocurrency's potential in digital finance and algorithmic trading with low fees, fast processing, and seamless cross-border capabilities."
 ---
 

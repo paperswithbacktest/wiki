@@ -1,5 +1,5 @@
 ---
-title: "Istvn Ladjnszki (Algo Trading)"
+title: "Istvn Ladjnszki"
 description: "Discover István Ladjánszki's contributions to algorithmic trading and financial technology as an acclaimed product manager and R&D specialist in Budapest."
 ---
 

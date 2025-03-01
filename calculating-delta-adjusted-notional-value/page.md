@@ -1,5 +1,5 @@
 ---
-title: "Calculating Delta Adjusted Notional Value (Algo Trading)"
+title: "Calculating Delta Adjusted Notional Value"
 description: "Explore the importance of Delta Adjusted Notional in algorithmic trading. Learn how this metric influences derivatives risk assessment and trading strategies."
 ---
 

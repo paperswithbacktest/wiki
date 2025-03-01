@@ -1,5 +1,5 @@
 ---
-title: "Impact of Global Events on the Forex Market (Algo Trading)"
+title: "Impact of Global Events on the Forex Market"
 description: "Explore the impact of global events on forex trading and how algorithmic trading adapts to market volatility offering insights into navigating economic shifts."
 ---
 

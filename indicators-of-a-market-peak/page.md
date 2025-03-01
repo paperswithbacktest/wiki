@@ -1,5 +1,5 @@
 ---
-title: "Indicators of a Market Peak (Algo Trading)"
+title: "Indicators of a Market Peak"
 description: "Unlock successful trading with insights on market peaks using economic indicators and algorithmic tools Optimize strategies to maximize profits and minimize risks"
 ---
 

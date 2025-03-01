@@ -1,5 +1,5 @@
 ---
-title: "Cost Basis: Overview, Calculation, and Tax Implications (Algo Trading)"
+title: "Cost Basis: Overview, Calculation, and Tax Implications"
 description: "Discover the essential role of cost basis in algo trading—from investment strategy to tax implications—ensuring accuracy in capital gains and compliance."
 ---
 

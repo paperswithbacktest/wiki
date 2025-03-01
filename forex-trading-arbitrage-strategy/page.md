@@ -1,5 +1,5 @@
 ---
-title: "Forex Trading Arbitrage Strategy (Algo Trading)"
+title: "Forex Trading Arbitrage Strategy"
 description: "Discover how forex trading arbitrage strategies and algorithmic trading can optimize profits by exploiting price discrepancies among currency pairs."
 ---
 

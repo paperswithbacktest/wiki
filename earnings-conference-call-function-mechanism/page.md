@@ -1,5 +1,5 @@
 ---
-title: "Earnings Conference Call: Function and Mechanism (Algo Trading)"
+title: "Earnings Conference Call: Function and Mechanism"
 description: "Discover how earnings conference calls coupled with algorithmic trading provide insights, enhancing strategic investment decisions in today’s dynamic markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Currency Convertibility: Meaning and Mechanisms (Algo Trading)"
+title: "Currency Convertibility: Meaning and Mechanisms"
 description: "Explore the role of currency convertibility and exchange mechanisms in global finance and discover how algorithmic trading reshapes financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Digital Pound (Britcoin) (Algo Trading)"
+title: "Digital Pound (Britcoin)"
 description: "Explore Britcoin the UK's proposed digital pound and its role in revolutionizing digital transactions through algorithmic trading and central bank innovation."
 ---
 

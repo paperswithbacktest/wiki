@@ -1,5 +1,5 @@
 ---
-title: "Effective Watchlist Construction (Algo Trading)"
+title: "Effective Watchlist Construction"
 description: "Learn how to construct an effective watchlist for algo trading Master techniques for optimizing portfolios and utilizing algorithmic trading to gain market insights"
 ---
 

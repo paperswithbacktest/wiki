@@ -1,5 +1,5 @@
 ---
-title: "Market Reaction to News (Algo Trading)"
+title: "Market Reaction to News"
 description: "Explore the impact of news on algorithmic trading and market reactions Discover how news analytics are integrated into trading models to predict trends effectively."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Head and Shoulders Chart Pattern in Technical Analysis (Algo Trading)"
+title: "Head and Shoulders Chart Pattern in Technical Analysis"
 description: "Explore the head and shoulders chart pattern as a key tool in algorithmic trading analyzing its role in predicting market trend reversals across assets."
 ---
 

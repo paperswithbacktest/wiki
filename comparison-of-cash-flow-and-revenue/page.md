@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Cash Flow and Revenue (Algo Trading)"
+title: "Comparison of Cash Flow and Revenue"
 description: "Explore the crucial role of revenue and cash flow in algorithmic trading. Understand how these financial metrics influence trading strategies to optimize liquidity and market potential."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "At A Premium: Meaning and Comparison (Algo Trading)"
+title: "At A Premium: Meaning and Comparison"
 description: "Explore the impact of premium pricing on algorithmic trading learn key financial terms and strategies to optimize trades and enhance market precision."
 ---
 

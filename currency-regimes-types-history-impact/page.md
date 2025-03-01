@@ -1,5 +1,5 @@
 ---
-title: "Currency Regimes: Types, History, Impact (Algo Trading)"
+title: "Currency Regimes: Types, History, Impact"
 description: "Explore the types and impacts of currency regimes and their integration with algorithmic trading Learn how these systems shape economic stability and global trade"
 ---
 

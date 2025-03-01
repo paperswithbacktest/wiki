@@ -1,5 +1,5 @@
 ---
-title: "Consumer Internet Barometer (Algo Trading)"
+title: "Consumer Internet Barometer"
 description: "Explore the impact of internet trends on consumer behavior and the role of algorithmic trading in markets to gain valuable insights and strategic advantages."
 ---
 

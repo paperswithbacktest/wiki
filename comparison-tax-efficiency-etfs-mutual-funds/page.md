@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Tax Efficiency in ETFs and Mutual Funds (Algo Trading)"
+title: "Comparison of Tax Efficiency in ETFs and Mutual Funds"
 description: "Explore the tax efficiency of ETFs vs mutual funds and how algorithmic trading can improve after-tax returns for informed investment strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Buy Break: Definition and Mechanism (Algo Trading)"
+title: "Buy Break: Definition and Mechanism"
 description: "Explore buy break strategies in algorithmic trading to optimize investing. Learn how using data-driven algorithms can capitalize on market trends and boost returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bank-Owned Property (Algo Trading)"
+title: "Bank-Owned Property"
 description: "Explore the integration of real estate foreclosure and algorithmic trading, unveiling investment opportunities in bank-owned properties enhanced by data-driven insights."
 ---
 

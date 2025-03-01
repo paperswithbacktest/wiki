@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning in Trading (Algo Trading)"
+title: "Machine Learning in Trading"
 description: "Explore the rise of machine learning in algorithmic trading where AI analyzes vast data sets to enhance decision-making processes and optimize trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Calculating Return on Investment in Real Estate (Algo Trading)"
+title: "Calculating Return on Investment in Real Estate"
 description: "Explore the strategic impact of algorithmic trading on calculating real estate investment returns Discover how tech enhances ROI in property investment"
 ---
 

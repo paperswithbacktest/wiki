@@ -1,5 +1,5 @@
 ---
-title: "Merton Miller: Biography, Theorem, Notable Contributions (Algo Trading)"
+title: "Merton Miller: Biography, Theorem, Notable Contributions"
 description: "Discover the life and legacy of Merton H. Miller focusing on his pivotal contributions to finance including the groundbreaking Modigliani-Miller theorem."
 ---
 

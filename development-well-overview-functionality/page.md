@@ -1,5 +1,5 @@
 ---
-title: "Development Well: Overview and Functionality (Algo Trading)"
+title: "Development Well: Overview and Functionality"
 description: "Explore the vital role of development wells in oil production and the impact of algorithmic trading on energy markets to enhance efficiency and strategy."
 ---
 

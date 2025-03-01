@@ -1,5 +1,5 @@
 ---
-title: "Crawling Peg: Purpose and Impact on Currencies (Algo Trading)"
+title: "Crawling Peg: Purpose and Impact on Currencies"
 description: "Explore the impact and nuances of crawling peg systems on currency stability and global trade dynamics, along with the role of algorithmic trading."
 ---
 

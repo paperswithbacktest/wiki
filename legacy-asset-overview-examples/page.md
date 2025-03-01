@@ -1,5 +1,5 @@
 ---
-title: "Legacy Asset: Overview and Examples (Algo Trading)"
+title: "Legacy Asset: Overview and Examples"
 description: "Discover how legacy assets are managed in financial markets alongside the transformative role of algorithmic trading in enhancing modern asset management strategies."
 ---
 

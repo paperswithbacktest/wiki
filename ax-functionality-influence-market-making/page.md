@@ -1,5 +1,5 @@
 ---
-title: "Ax: Functionality and Influence in Market Making (Algo Trading)"
+title: "Ax: Functionality and Influence in Market Making"
 description: "Explore the roles of market making and algorithmic trading in financial markets and understand their impact on efficiency, liquidity, and market dynamics."
 ---
 

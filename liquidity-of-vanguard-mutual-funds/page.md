@@ -1,5 +1,5 @@
 ---
-title: "Liquidity of Vanguard Mutual Funds (Algo Trading)"
+title: "Liquidity of Vanguard Mutual Funds"
 description: "Explore how liquidity in Vanguard mutual funds and algorithmic trading impacts investment decisions and portfolio management strategies, enhancing financial flexibility."
 ---
 

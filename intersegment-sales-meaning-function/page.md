@@ -1,5 +1,5 @@
 ---
-title: "Intersegment Sales: Meaning and Function (Algo Trading)"
+title: "Intersegment Sales: Meaning and Function"
 description: "Explore the significance of intersegment sales and algorithmic trading in corporate accounting Learn how these elements enhance transparency and strategic decision-making"
 ---
 

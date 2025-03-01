@@ -1,5 +1,5 @@
 ---
-title: "Improving Company Net Margin (Algo Trading)"
+title: "Improving Company Net Margin"
 description: "Enhance your trading strategies by understanding net margin and its crucial role in algorithm trading to optimize profitability and financial health."
 ---
 

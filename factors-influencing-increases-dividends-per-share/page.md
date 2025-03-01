@@ -1,5 +1,5 @@
 ---
-title: "Factors Influencing Increases in Dividends Per Share (Algo Trading)"
+title: "Factors Influencing Increases in Dividends Per Share"
 description: "Discover how dividends, shareholder value, corporate finance, and algorithmic trading interplay to influence investment strategies in dynamic markets."
 ---
 

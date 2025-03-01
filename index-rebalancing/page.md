@@ -1,5 +1,5 @@
 ---
-title: "Index Rebalancing (Algo Trading)"
+title: "Index Rebalancing"
 description: "Explore the vital role of index rebalancing in investment strategy and portfolio management Learn how algorithmic trading enhances precision and efficiency in rebalancing"
 ---
 

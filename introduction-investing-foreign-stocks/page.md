@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Investing in Foreign Stocks (Algo Trading)"
+title: "Introduction to Investing in Foreign Stocks"
 description: "Explore the benefits of investing in foreign stocks, including diversification and potential returns, and learn about algorithmic trading's impact on global markets."
 ---
 

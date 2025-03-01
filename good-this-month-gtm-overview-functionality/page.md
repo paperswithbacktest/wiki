@@ -1,5 +1,5 @@
 ---
-title: "Good This Month (GTM): Overview and Functionality (Algo Trading)"
+title: "Good This Month (GTM): Overview and Functionality"
 description: "Discover the power of Good This Month orders in algorithmic trading and subscription models Explore how they enhance flexibility and improve trading strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Fundamentals of Bonds (Algo Trading)"
+title: "Fundamentals of Bonds"
 description: "Explore the essentials of bonds and algorithmic trading Discover how these financial tools can enhance portfolio diversity and improve trading efficiency"
 ---
 

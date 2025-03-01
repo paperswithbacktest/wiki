@@ -1,5 +1,5 @@
 ---
-title: "Andrew Lo (Algo Trading)"
+title: "Andrew Lo"
 description: Andrew Wen-Chuan Lo is a leading figure in finance and algorithmic trading, renowned for his advancements in financial engineering and quantitative investment. His work integrates quantitative methods with behavioral insights, influencing hedge funds and investment banks globally. Through his Adaptive Markets Hypothesis, Lo offers a novel perspective on market dynamics, applying evolutionary principles to finance. As a professor and director at MIT, Lo combines rigorous research with practical applications, pioneering algorithmic trading innovations that leverage machine learning. His contributions continue to shape the future of finance, bridging theoretical frameworks with real-world impact.
 ---
 

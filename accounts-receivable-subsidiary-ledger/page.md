@@ -1,5 +1,5 @@
 ---
-title: "Accounts Receivable Subsidiary Ledger (Algo Trading)"
+title: "Accounts Receivable Subsidiary Ledger"
 description: "Explore the synergy between accounts receivable subsidiary ledgers and algorithmic trading to optimize financial records and enhance trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Gaussian Processes (Algo Trading)"
+title: "Gaussian Processes"
 description: "Explore the use of Gaussian Processes in algorithmic trading to capture financial data trends and uncertainties, enhancing prediction accuracy and trading strategies."
 ---
 

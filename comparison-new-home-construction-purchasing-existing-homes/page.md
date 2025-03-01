@@ -1,5 +1,5 @@
 ---
-title: "Comparison of New Home Construction and Purchasing Existing Homes (Algo Trading)"
+title: "Comparison of New Home Construction and Purchasing Existing Homes"
 description: "Explore how technology, particularly algorithmic trading, is transforming real estate markets, enhancing decision-making, and optimizing investment strategies."
 ---
 

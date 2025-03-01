@@ -1,5 +1,5 @@
 ---
-title: "Earnings Power Value Calculations (Algo Trading)"
+title: "Earnings Power Value Calculations"
 description: "Explore how Earnings Power Value (EPV) provides a conservative assessment of a stock's intrinsic value using current earnings empowering better investment decisions."
 ---
 

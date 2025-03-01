@@ -1,5 +1,5 @@
 ---
-title: "Investment in Space Exploration (Algo Trading)"
+title: "Investment in Space Exploration"
 description: "Explore the dynamic intersection of space exploration, the space economy, and algorithmic trading Discover investment opportunities beyond our planet"
 ---
 

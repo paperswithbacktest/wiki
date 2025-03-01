@@ -1,5 +1,5 @@
 ---
-title: "Indicators of Economic Recovery (Algo Trading)"
+title: "Indicators of Economic Recovery"
 description: "Explore the interplay between economic recovery indicators and algorithmic trading strategies Enhance your understanding of market trends for strategic decision-making."
 ---
 

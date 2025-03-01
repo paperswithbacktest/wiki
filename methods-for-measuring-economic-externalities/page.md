@@ -1,5 +1,5 @@
 ---
-title: "Methods for Measuring Economic Externalities (Algo Trading)"
+title: "Methods for Measuring Economic Externalities"
 description: "Explore the measurement of externalities in algorithmic trading and its impact on market dynamics to enhance efficiency and stability in financial markets."
 ---
 

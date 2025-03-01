@@ -1,5 +1,5 @@
 ---
-title: "Impact of Recession on Unemployment Rates (Algo Trading)"
+title: "Impact of Recession on Unemployment Rates"
 description: "Explore the impact of recessions on unemployment rates and discover how algorithmic trading strategies manage financial risks during economic downturns."
 ---
 

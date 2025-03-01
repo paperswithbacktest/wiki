@@ -1,5 +1,5 @@
 ---
-title: "Interconnection of the Three Major Financial Statements (Algo Trading)"
+title: "Interconnection of the Three Major Financial Statements"
 description: "Explore how income statements balance sheets and cash flow statements impact algorithmic trading by providing essential data and insights for strategic decisions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Like-Kind Exchange: Overview, Examples, Pros and Cons (Algo Trading)"
+title: "Like-Kind Exchange: Overview, Examples, Pros and Cons"
 description: "Explore how 1031 exchanges and algorithmic trading intersect to enhance real estate investment strategies, offering tax deferral and optimized portfolio management."
 ---
 

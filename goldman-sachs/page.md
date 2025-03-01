@@ -1,5 +1,5 @@
 ---
-title: "Goldman Sachs (Algo Trading)"
+title: "Goldman Sachs"
 description: "Explore the innovative edge of Goldman Sachs in algorithmic trading and investment banking Discover how this financial leader integrates AI to enhance market precision"
 ---
 

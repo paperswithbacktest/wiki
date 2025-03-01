@@ -1,5 +1,5 @@
 ---
-title: "Bond Coupon Calculation (Algo Trading)"
+title: "Bond Coupon Calculation"
 description: "Discover how bond coupons impact investment returns and algorithmic trading. Learn to calculate bond coupons and optimize trading strategies efficiently."
 ---
 

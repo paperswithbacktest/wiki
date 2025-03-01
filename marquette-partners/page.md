@@ -1,5 +1,5 @@
 ---
-title: "Marquette Partners (Algo Trading)"
+title: "Marquette Partners"
 description: "Explore Marquette Partners' innovative algorithmic trading strategies enhancing market efficiency and competitive edge through advanced technology and expertise."
 ---
 

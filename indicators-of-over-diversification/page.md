@@ -1,5 +1,5 @@
 ---
-title: "Indicators of Over-Diversification (Algo Trading)"
+title: "Indicators of Over-Diversification"
 description: "Discover the risks of over-diversification in algorithmic trading and learn strategies for effective portfolio management while maximizing returns and minimizing costs."
 ---
 

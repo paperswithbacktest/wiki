@@ -1,5 +1,5 @@
 ---
-title: "Frictional Unemployment: Causes and Quit Rate (Algo Trading)"
+title: "Frictional Unemployment: Causes and Quit Rate"
 description: "Explore frictional unemployment and quit rates in the labor market, uncovering their impact on job dynamics and economic health, especially with algorithmic trading."
 ---
 

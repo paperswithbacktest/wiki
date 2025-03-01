@@ -1,5 +1,5 @@
 ---
-title: "Deferred Equity: Overview and Applications (Algo Trading)"
+title: "Deferred Equity: Overview and Applications"
 description: "Explore the strategic blend of deferred equity and algorithmic trading to enhance portfolio performance offering flexibility and precision in investment strategies."
 ---
 

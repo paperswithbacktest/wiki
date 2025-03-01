@@ -1,5 +1,5 @@
 ---
-title: "Cracking (Algo Trading)"
+title: "Cracking"
 description: "Explore the world of algorithmic trading where high-speed data processing revolutionizes finance Automate trading strategies while ensuring robust data security"
 ---
 

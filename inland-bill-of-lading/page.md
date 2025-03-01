@@ -1,5 +1,5 @@
 ---
-title: "Inland Bill of Lading (Algo Trading)"
+title: "Inland Bill of Lading"
 description: "Discover the synergy of Inland Bills of Lading and algorithmic trading in freight shipping to streamline logistics and enhance operational efficiency."
 ---
 

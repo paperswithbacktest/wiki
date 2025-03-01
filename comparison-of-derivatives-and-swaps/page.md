@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Derivatives and Swaps (Algo Trading)"
+title: "Comparison of Derivatives and Swaps"
 description: "Explore the integral role of swaps and derivatives in algorithmic trading to manage risk and enhance investment strategies in today's financial markets."
 ---
 

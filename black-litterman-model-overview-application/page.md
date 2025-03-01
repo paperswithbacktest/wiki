@@ -1,5 +1,5 @@
 ---
-title: "Black-Litterman Model: Overview and Application (Algo Trading)"
+title: "Black-Litterman Model: Overview and Application"
 description: "Explore the Black-Litterman Model and its application in algorithmic trading to enhance portfolio allocations by integrating market data with investor insights."
 ---
 

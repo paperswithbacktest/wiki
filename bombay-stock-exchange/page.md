@@ -1,5 +1,5 @@
 ---
-title: "Bombay Stock Exchange (Algo Trading)"
+title: "Bombay Stock Exchange"
 description: "Explore the impact of algorithmic trading on the Bombay Stock Exchange BSE the first in Asia and how it reshapes market dynamics with speed and precision"
 ---
 

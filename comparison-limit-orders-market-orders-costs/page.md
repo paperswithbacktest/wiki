@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Limit Orders and Market Orders Costs (Algo Trading)"
+title: "Comparison of Limit Orders and Market Orders Costs"
 description: "Compare the costs of limit and market orders in algo trading to optimize your strategy Understand each order type's impact on fees and execution outcomes"
 ---
 

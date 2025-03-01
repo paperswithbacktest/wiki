@@ -1,5 +1,5 @@
 ---
-title: "Equity Method and Proportional Consolidation Comparison (Algo Trading)"
+title: "Equity Method and Proportional Consolidation Comparison"
 description: "Explore how proportional consolidation and the equity method impact financial reporting and the growing influence of algorithmic trading on market operations."
 ---
 

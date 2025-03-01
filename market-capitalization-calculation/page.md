@@ -1,5 +1,5 @@
 ---
-title: "Market Capitalization and Its Calculation (Algo Trading)"
+title: "Market Capitalization and Its Calculation"
 description: "Explore the significant role of market capitalization in evaluating company value within algorithmic trading. Learn how market cap informs investment strategies."
 ---
 

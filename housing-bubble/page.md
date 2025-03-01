@@ -1,5 +1,5 @@
 ---
-title: "Housing Bubble (Algo Trading)"
+title: "Housing Bubble"
 description: "Explore the intricate interplay of real estate markets, economic bubbles, and algorithmic trading, focusing on their influence on financial stability and investment strategies."
 ---
 

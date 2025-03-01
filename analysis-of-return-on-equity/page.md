@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Return on Equity (Algo Trading)"
+title: "Analysis of Return on Equity"
 description: "Explore how Return on Equity (ROE) integrates with algorithmic trading strategies to boost investment outcomes by identifying high-performing stocks."
 ---
 

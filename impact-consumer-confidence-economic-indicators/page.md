@@ -1,5 +1,5 @@
 ---
-title: "Impact of Consumer Confidence on Economic Indicators (Algo Trading)"
+title: "Impact of Consumer Confidence on Economic Indicators"
 description: "Explore how consumer confidence impacts economic indicators and algorithmic trading enhancing prediction of market trends and optimizing trading strategies."
 ---
 

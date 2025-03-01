@@ -1,5 +1,5 @@
 ---
-title: "Calculating the Carrying Value of a Bond (Algo Trading)"
+title: "Calculating the Carrying Value of a Bond"
 description: "Explore the methodologies of bond valuation including carrying value to enhance investment strategies in algo trading and understand financial fundamentals."
 ---
 

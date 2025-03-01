@@ -1,5 +1,5 @@
 ---
-title: "Employment Growth: Overview and Applications (Algo Trading)"
+title: "Employment Growth: Overview and Applications"
 description: "Explore the transformative impact of algorithmic trading on job markets and economic applications. Discover how technology-driven advancements foster employment growth in financial analytics, data science, and more, while reshaping market dynamics for enhanced efficiency and liquidity."
 ---
 

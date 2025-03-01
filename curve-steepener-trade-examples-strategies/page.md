@@ -1,5 +1,5 @@
 ---
-title: "Curve Steepener Trade: Examples and Strategies (Algo Trading)"
+title: "Curve Steepener Trade: Examples and Strategies"
 description: "Discover Curve Steepener Trading Strategies in algorithmic trading to profit from interest rate changes by leveraging short-term and long-term Treasury bond yield spreads."
 ---
 

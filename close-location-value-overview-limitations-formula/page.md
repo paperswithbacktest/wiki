@@ -1,5 +1,5 @@
 ---
-title: "Close Location Value: Overview, Limitations, and Formula (Algo Trading)"
+title: "Close Location Value: Overview, Limitations, and Formula"
 description: "Explore Close Location Value for trading insights Discover CLV's role in technical analysis its limitations and how it complements other indicators in algo trading"
 ---
 

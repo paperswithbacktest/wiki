@@ -1,5 +1,5 @@
 ---
-title: "Impairment Charges: Analysis and Implications (Algo Trading)"
+title: "Impairment Charges: Analysis and Implications"
 description: "Explore the intersection of impairment charges and algo trading, highlighting their impact on financial accounting, asset valuation, and investment decisions."
 ---
 

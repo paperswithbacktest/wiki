@@ -1,5 +1,5 @@
 ---
-title: "Ankle Biter: Definition and Examples (Algo Trading)"
+title: "Ankle Biter: Definition and Examples"
 description: "Explore the world of ankle biters in algorithmic trading where small-cap stocks offer unique opportunities for traders due to their volatility and growth potential."
 ---
 

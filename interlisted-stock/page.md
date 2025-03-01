@@ -1,5 +1,5 @@
 ---
-title: "Interlisted Stock (Algo Trading)"
+title: "Interlisted Stock"
 description: "Explore the benefits and intricacies of dual listing and interlisted stocks in global markets with insights into algorithmic trading's impact on liquidity."
 ---
 

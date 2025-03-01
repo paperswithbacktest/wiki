@@ -1,5 +1,5 @@
 ---
-title: "Interest-Sensitive Stock (Algo Trading)"
+title: "Interest-Sensitive Stock"
 description: "Explore the impact of interest rates on stocks and the role of algorithmic trading in managing them Learn strategies to optimize your investments effectively"
 ---
 

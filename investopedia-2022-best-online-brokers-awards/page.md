@@ -1,5 +1,5 @@
 ---
-title: "Investopedia 2022 Best Online Brokers Awards (Algo Trading)"
+title: "Investopedia 2022 Best Online Brokers Awards"
 description: "Investopedia's 2022 Awards highlight the best online brokers in a dynamic market emphasizing cost efficiency, transparency, and advanced trading tools."
 ---
 

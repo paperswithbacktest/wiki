@@ -1,5 +1,5 @@
 ---
-title: "Consumer Staples and Their Impact on GDP (Algo Trading)"
+title: "Consumer Staples and Their Impact on GDP"
 description: "Explore how consumer staples contribute to GDP stability. Understand their continuous demand and the impact of algorithmic trading on this economic sector."
 ---
 

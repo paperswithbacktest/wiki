@@ -1,5 +1,5 @@
 ---
-title: "American Depositary Shares (Algo Trading)"
+title: "American Depositary Shares"
 description: "Explore the potential of American Depositary Shares and algorithmic trading to diversify investment portfolios by accessing foreign equities through US exchanges."
 ---
 

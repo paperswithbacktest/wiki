@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Dollar-Cost Averaging and Value Averaging (Algo Trading)"
+title: "Comparison of Dollar-Cost Averaging and Value Averaging"
 description: "Explore dollar-cost averaging and value averaging as systematic investment strategies in algorithmic trading Discover their benefits for optimizing investment goals"
 ---
 

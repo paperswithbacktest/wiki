@@ -1,5 +1,5 @@
 ---
-title: "Forward Margin: Definition and Functionality (Algo Trading)"
+title: "Forward Margin: Definition and Functionality"
 description: "Explore the essentials of forward margin in algo trading to enhance market strategies Understand forward margin's role and testing methods for optimized trading."
 ---
 

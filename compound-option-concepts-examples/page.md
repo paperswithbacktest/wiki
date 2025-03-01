@@ -1,5 +1,5 @@
 ---
-title: "Compound Option: Concepts and Examples (Algo Trading)"
+title: "Compound Option: Concepts and Examples"
 description: "Explore the intricacies of compound options and algorithmic trading to master modern market strategies Improve risk management speculation and trading efficiency."
 ---
 

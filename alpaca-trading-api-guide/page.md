@@ -1,5 +1,5 @@
 ---
-title: "Alpaca Trading API Guide (Algo Trading)"
+title: "Alpaca Trading API Guide"
 description: Discover how Alpaca Trading empowers both novice and seasoned algorithmic traders with its commission-free trading model and comprehensive API access. This guide explores the platform's key features, including seamless integration with popular trading libraries, real-time market data accessibility, and a supportive community. Learn how Alpaca enhances trading efficiency through automation and provides tools for developing, testing, and executing advanced trading strategies. Whether you're just starting with algo trading or looking to optimize your existing strategies, Alpaca offers valuable resources for improved trading outcomes.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Factors Reducing Cash Flow from Operating Activities (Algo Trading)"
+title: "Factors Reducing Cash Flow from Operating Activities"
 description: "Explore the factors that reduce cash flow from operating activities within algorithmic trading Learn how financial dynamics affect trading strategies and decisions"
 ---
 

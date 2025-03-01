@@ -1,5 +1,5 @@
 ---
-title: "Drift and reversion in financial time series (Algo Trading)"
+title: "Drift and reversion in financial time series"
 description: "Explore the essentials of drift and mean reversion to craft profitable algorithmic trading strategies, analyzing trends and market reversals for optimal trading."
 ---
 

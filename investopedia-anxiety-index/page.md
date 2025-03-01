@@ -1,5 +1,5 @@
 ---
-title: "Investopedia's Anxiety Index (Algo Trading)"
+title: "Investopedia's Anxiety Index"
 description: "The Investopedia Anxiety Index (IAI) is a vital tool for understanding investor sentiment in the digital economy, reflecting market mood through online user behavior. By assessing interest in macroeconomic topics and market volatility, the IAI provides insights into investor anxiety, which is crucial for both individual and institutional investors. In algorithmic trading, the integration of sentiment indices like the IAI enhances decision-making by incorporating real-time data to predict market movements more accurately. This article explores the significance of the IAI in sentiment-driven trading strategies, offering traders a competitive edge in navigating market dynamics."
 ---
 

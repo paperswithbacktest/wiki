@@ -1,5 +1,5 @@
 ---
-title: "Impact of Monetary Policy on Investment (Algo Trading)"
+title: "Impact of Monetary Policy on Investment"
 description: "Explore the dynamic influence of monetary policy on investment strategies and algorithmic trading within financial markets and its impact on economic growth."
 ---
 

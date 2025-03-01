@@ -1,5 +1,5 @@
 ---
-title: "John R. Hicks: Biography and Legacy (Algo Trading)"
+title: "John R. Hicks: Biography and Legacy"
 description: "Explore the legacy of economist John R Hicks whose groundbreaking theories in welfare economics and general equilibrium continue to shape modern economic thought."
 ---
 

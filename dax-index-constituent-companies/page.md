@@ -1,5 +1,5 @@
 ---
-title: "DAX Index and Its Constituent Companies (Algo Trading)"
+title: "DAX Index and Its Constituent Companies"
 description: "Explore the synergy between the DAX Index and algorithmic trading tactics. Gain insights into enhancing trading performance through advanced strategies on this dynamic German market benchmark."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Accumulative Swing Index: Calculation and Interpretation (Algo Trading)"
+title: "Accumulative Swing Index: Calculation and Interpretation"
 description: "Explore the significance of the Accumulative Swing Index in technical analysis and algo trading to enhance strategy development by identifying trends."
 ---
 

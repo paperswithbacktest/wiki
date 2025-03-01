@@ -1,5 +1,5 @@
 ---
-title: "Long Run Incremental Cost (Algo Trading)"
+title: "Long Run Incremental Cost"
 description: "Explore the integration of Long Run Incremental Cost methodologies in telecom and algo trading, optimizing cost strategies and decision-making in evolving markets."
 ---
 

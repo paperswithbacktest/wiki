@@ -1,5 +1,5 @@
 ---
-title: "Economic Benefits of Affordable Options (Algo Trading)"
+title: "Economic Benefits of Affordable Options"
 description: "Discover the economic benefits of affordable strategies like algorithmic trading which enhance investment outcomes through technology and financial insights."
 ---
 

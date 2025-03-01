@@ -1,5 +1,5 @@
 ---
-title: "Acquisition Accounting Overview (Algo Trading)"
+title: "Acquisition Accounting Overview"
 description: "Explore acquisition accounting in algo trading to understand financial reporting impacts during mergers, enhancing strategic business operations in a dynamic market."
 ---
 

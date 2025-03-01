@@ -1,5 +1,5 @@
 ---
-title: "Investing in the Dow Jones Industrial Average (Algo Trading)"
+title: "Investing in the Dow Jones Industrial Average"
 description: "Discover strategies for investing in the Dow Jones Industrial Average including algorithmic trading methods for optimizing trade executions and reducing risks."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Hedge Purchasing: Overview and Advantages (Algo Trading)"
+title: "Hedge Purchasing: Overview and Advantages"
 description: "Explore the benefits of hedge purchasing and algorithmic trading in managing investment risks and enhancing returns in volatile financial markets."
 ---
 

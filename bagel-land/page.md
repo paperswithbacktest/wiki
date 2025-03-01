@@ -1,5 +1,5 @@
 ---
-title: "Bagel Land (Algo Trading)"
+title: "Bagel Land"
 description: "Explore the unique intersection of Bagel Land Bakery and algorithmic trading uncovering parallels between baking and market dynamics to transform business practices."
 ---
 

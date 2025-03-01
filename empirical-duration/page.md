@@ -1,5 +1,5 @@
 ---
-title: "Empirical Duration (Algo Trading)"
+title: "Empirical Duration"
 description: "Explore empirical duration in algorithmic trading to optimize strategies based on historical trend analysis. Enhance decision-making and risk management with data-driven insights."
 ---
 

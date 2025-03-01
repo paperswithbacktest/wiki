@@ -1,5 +1,5 @@
 ---
-title: "Cleantech: Environmentally-Friendly Technologies and Practices (Algo Trading)"
+title: "Cleantech: Environmentally-Friendly Technologies and Practices"
 description: "Explore the role of cleantech in algorithmic trading combining eco-friendly innovations with financial technology to reduce environmental impact and boost efficiency."
 ---
 

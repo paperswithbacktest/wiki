@@ -1,5 +1,5 @@
 ---
-title: "Annual Basis: Concept and Application (Algo Trading)"
+title: "Annual Basis: Concept and Application"
 description: "Discover the essentials of annual basis concepts and algorithmic trading in finance Learn how these key terms shape investment strategies and market participation"
 ---
 

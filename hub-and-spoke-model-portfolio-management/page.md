@@ -1,5 +1,5 @@
 ---
-title: "Hub and Spoke Model in Portfolio Management (Algo Trading)"
+title: "Hub and Spoke Model in Portfolio Management"
 description: "Discover the hub and spoke model in portfolio management and algorithmic trading offering a strategic balance of centralized oversight and decentralized operations."
 ---
 

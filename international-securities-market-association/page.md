@@ -1,5 +1,5 @@
 ---
-title: "International Securities Market Association (Algo Trading)"
+title: "International Securities Market Association"
 description: "Explore the evolution of the International Securities Market Association in global securities regulation, its transition to ICMA, and the impact of algorithmic trading."
 ---
 

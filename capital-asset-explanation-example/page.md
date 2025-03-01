@@ -1,5 +1,5 @@
 ---
-title: "Capital Asset: Explanation and Example (Algo Trading)"
+title: "Capital Asset: Explanation and Example"
 description: "Explore the world of capital assets, focusing on algorithmic trading and how it revolutionizes investment strategies. Gain insights for wealth growth."
 ---
 

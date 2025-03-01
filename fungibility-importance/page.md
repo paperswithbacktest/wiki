@@ -1,5 +1,5 @@
 ---
-title: "Fungibility and Its Importance (Algo Trading)"
+title: "Fungibility and Its Importance"
 description: "Explore the synergy of fungibility and algorithmic trading and how these concepts enhance market efficiency and liquidity through seamless & automated transactions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Best Trading Strategies Explained (Algo Trading)"
+title: "Best Trading Strategies Explained"
 description: Discover the key aspects of backtesting to optimize your algorithmic trading strategies. This in-depth guide explains the process of simulating trades using historical data to evaluate potential performance across different market conditions. Learn valuable insights and advanced techniques to maximize profitability and minimize risk in your trading endeavors.
 ---
 

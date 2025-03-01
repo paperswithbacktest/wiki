@@ -1,5 +1,5 @@
 ---
-title: "Backtesting in Value at Risk (Algo Trading)"
+title: "Backtesting in Value at Risk"
 description: "Explore the essentials of Value at Risk in algorithmic trading including backtesting processes and methodologies to enhance robust risk management strategies."
 ---
 

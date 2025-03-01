@@ -1,5 +1,5 @@
 ---
-title: "Funds Available for Distribution: Overview and Calculation (Algo Trading)"
+title: "Funds Available for Distribution: Overview and Calculation"
 description: "Discover essential strategies for optimizing funds distribution and investment income through algorithmic trading Learn how precise calculations drive informed financial decisions for growth and stability"
 ---
 

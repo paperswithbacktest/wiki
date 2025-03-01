@@ -1,5 +1,5 @@
 ---
-title: "Currency Pairs: Major, Minor, and Exotic Examples (Algo Trading)"
+title: "Currency Pairs: Major, Minor, and Exotic Examples"
 description: "Explore the world of currency pairs in forex trading The importance of major minor and exotic pairs is highlighted along with algo trading advantages"
 ---
 

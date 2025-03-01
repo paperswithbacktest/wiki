@@ -1,5 +1,5 @@
 ---
-title: "FxPro 2024 Review (Algo Trading)"
+title: "FxPro 2024 Review"
 description: "Explore the 2024 review of FxPro's algo trading services featuring comprehensive platform options regulatory compliance and advanced tools for traders."
 ---
 

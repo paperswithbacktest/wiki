@@ -1,5 +1,5 @@
 ---
-title: "AAA Credit Rating: Criteria and Bond Types (Algo Trading)"
+title: "AAA Credit Rating: Criteria and Bond Types"
 description: "Explore the significance of AAA credit ratings in bond investments, understand various bond types, and learn how algorithmic trading is reshaping the market."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Calgary Local Currency (Algo Trading)"
+title: "Calgary Local Currency"
 description: "Explore how Calgary Dollar, a local currency initiative since 1996, could benefit from algorithmic trading to boost efficiency, liquidity, and community resilience."
 ---
 

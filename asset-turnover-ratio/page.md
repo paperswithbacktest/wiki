@@ -1,5 +1,5 @@
 ---
-title: "Asset Turnover Ratio (Algo Trading)"
+title: "Asset Turnover Ratio"
 description: "Explore the synergy between asset turnover ratios and algorithmic trading to enhance business efficiency and strategic advantage in a competitive market landscape."
 ---
 

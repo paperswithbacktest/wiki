@@ -1,5 +1,5 @@
 ---
-title: "ERC20 Standard for Cryptocurrency Users (Algo Trading)"
+title: "ERC20 Standard for Cryptocurrency Users"
 description: "Explore the synergy between ERC20 standards and algorithmic trading within the cryptocurrency market. This article investigates into how ERC20 tokens and algo trading work together to enhance liquidity and optimize trading strategies on the Ethereum blockchain. Learn about the significance of the ERC20 protocol in creating interoperable tokens and how it underpins sophisticated trading algorithms, offering insights into their combined benefits and challenges. Discover the future prospects of this innovative intersection as it shapes the dynamics of cryptocurrency trading and blockchain development."
 ---
 

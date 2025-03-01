@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Dilutive and Anti-Dilutive Securities (Algo Trading)"
+title: "Comparison of Dilutive and Anti-Dilutive Securities"
 description: "Explore how dilutive and anti-dilutive securities impact earnings per share and the role of algorithmic trading in shaping investment strategies."
 ---
 

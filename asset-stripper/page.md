@@ -1,5 +1,5 @@
 ---
-title: "Asset Stripper (Algo Trading)"
+title: "Asset Stripper"
 description: "Explore the intriguing relationship between asset stripping and algorithmic trading as these controversial techniques combine to maximize financial strategies and outcomes."
 ---
 

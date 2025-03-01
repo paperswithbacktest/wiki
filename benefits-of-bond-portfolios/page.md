@@ -1,5 +1,5 @@
 ---
-title: "Benefits of Bond Portfolios (Algo Trading)"
+title: "Benefits of Bond Portfolios"
 description: "Enhance your bond portfolio's stability and returns using algorithmic trading. Explore the benefits of automated trading in optimizing bond investments and managing risks."
 ---
 

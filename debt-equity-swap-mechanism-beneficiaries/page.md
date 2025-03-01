@@ -1,5 +1,5 @@
 ---
-title: "Debt-Equity Swap: Mechanism and Beneficiaries (Algo Trading)"
+title: "Debt-Equity Swap: Mechanism and Beneficiaries"
 description: "Explore how debt-equity swaps transform debt into ownership shares for financial restructuring gain insight into beneficiaries and their strategic impact in algo trading."
 ---
 

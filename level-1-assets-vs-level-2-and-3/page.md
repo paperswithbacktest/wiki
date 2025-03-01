@@ -1,5 +1,5 @@
 ---
-title: "Level 1 Assets and Comparison with Level 2 and 3 Assets (Algo Trading)"
+title: "Level 1 Assets and Comparison with Level 2 and 3 Assets"
 description: "Explore the essential role of asset valuation in finance highlighting the significance of Level 1 assets and how they compare with Level 2 and 3 assets in algo trading"
 ---
 

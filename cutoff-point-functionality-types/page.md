@@ -1,5 +1,5 @@
 ---
-title: "Cutoff Point: Functionality and Types (Algo Trading)"
+title: "Cutoff Point: Functionality and Types"
 description: "Explore the essential role of cutoff points in algorithmic trading Discover how predefined thresholds enhance risk management and strategy execution in volatile markets"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Automatic Investment Plan Overview and Types (Algo Trading)"
+title: "Automatic Investment Plan Overview and Types"
 description: "Discover the benefits of Automatic Investment Plans and algorithmic trading Learn how these strategies automate investment processes for efficient wealth growth"
 ---
 

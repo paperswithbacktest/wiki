@@ -1,5 +1,5 @@
 ---
-title: "Economic Strategies for a Weak U.S. Dollar (Algo Trading)"
+title: "Economic Strategies for a Weak U.S. Dollar"
 description: "Explore economic strategies for a weak U.S. dollar with insights into algorithmic trading Enhance your investment decisions with innovative currency approaches"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Closed Virtual Currency: Overview and Criticism (Algo Trading)"
+title: "Closed Virtual Currency: Overview and Criticism"
 description: "Explore closed virtual currencies and their impact on algorithmic trading Discover the benefits and challenges of digital currency in the financial landscape"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Inverted Market: Causes and Examples (Algo Trading)"
+title: "Inverted Market: Causes and Examples"
 description: "Explore the causes and examples of inverted markets in algo trading Discover how algorithmic strategies can navigate these market conditions effectively"
 ---
 

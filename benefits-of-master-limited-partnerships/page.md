@@ -1,5 +1,5 @@
 ---
-title: "Benefits of Master Limited Partnerships (Algo Trading)"
+title: "Benefits of Master Limited Partnerships"
 description: "Explore the benefits of Master Limited Partnerships MLPs in algo trading. Discover their tax efficiency high yields and diversification potential in energy sectors."
 ---
 

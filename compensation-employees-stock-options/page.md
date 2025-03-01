@@ -1,5 +1,5 @@
 ---
-title: "Compensation of Employees With Stock Options (Algo Trading)"
+title: "Compensation of Employees With Stock Options"
 description: "Explore how stock options and equity incentives shape compensation in technology and finance sectors, fostering innovation, retention, and shared success in algo trading."
 ---
 

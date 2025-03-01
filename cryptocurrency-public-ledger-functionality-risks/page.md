@@ -1,5 +1,5 @@
 ---
-title: "Cryptocurrency Public Ledger: Functionality and Risks (Algo Trading)"
+title: "Cryptocurrency Public Ledger: Functionality and Risks"
 description: "Explore the role of blockchain as a public ledger in cryptocurrency, including its functionalities and associated risks in algorithmic trading for enhanced insights."
 ---
 

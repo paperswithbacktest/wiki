@@ -1,5 +1,5 @@
 ---
-title: "Brain Drain: Causes, Effects, and Examples (Algo Trading)"
+title: "Brain Drain: Causes, Effects, and Examples"
 description: "Explore the causes and effects of brain drain in the context of algorithmic trading and its impact on global economies as skilled professionals migrate."
 ---
 

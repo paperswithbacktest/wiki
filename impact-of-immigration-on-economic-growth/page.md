@@ -1,5 +1,5 @@
 ---
-title: "Impact of Immigration on Economic Growth (Algo Trading)"
+title: "Impact of Immigration on Economic Growth"
 description: "Explore how immigration impacts global economies and links to algorithmic trading, highlighting contributions to innovation and the interplay with economic dynamics."
 ---
 

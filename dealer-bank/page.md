@@ -1,5 +1,5 @@
 ---
-title: "Dealer Bank (Algo Trading)"
+title: "Dealer Bank"
 description: "Discover the crucial role of dealer banks in financial markets, utilizing algorithmic trading to boost efficiency and liquidity while navigating complex financial systems."
 ---
 

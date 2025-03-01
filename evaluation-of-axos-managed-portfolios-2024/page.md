@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of Axos Managed Portfolios 2024 (Algo Trading)"
+title: "Evaluation of Axos Managed Portfolios 2024"
 description: "Explore the 2024 evaluation of Axos Managed Portfolios focusing on algorithmic trading. Discover its features, cost structures and unique advantages for investors."
 ---
 

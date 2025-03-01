@@ -1,5 +1,5 @@
 ---
-title: "Equity Risk Premium Calculation (Algo Trading)"
+title: "Equity Risk Premium Calculation"
 description: "Explore the calculation of equity risk premium and its role in refining investment strategies, using algorithmic trading and investment analysis for optimal outcomes."
 ---
 

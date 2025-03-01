@@ -1,5 +1,5 @@
 ---
-title: "Firm Commitment in Finance (Algo Trading)"
+title: "Firm Commitment in Finance"
 description: "Discover how firm commitments, underwriting, and algorithmic trading converge to revolutionize financial markets by enhancing efficiency, risk management, and market dynamics."
 ---
 

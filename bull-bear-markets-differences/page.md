@@ -1,5 +1,5 @@
 ---
-title: "Bull and Bear Markets: Differences (Algo Trading)"
+title: "Bull and Bear Markets: Differences"
 description: "Discover the key differences between bull and bear markets and how algorithmic trading helps investors navigate market trends and optimize strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Impact of Goodwill on Company Valuation (Algo Trading)"
+title: "Impact of Goodwill on Company Valuation"
 description: "Explore the critical influence of goodwill on company valuation and how algorithmic trading reshapes financial strategies within the world of corporate finance."
 ---
 

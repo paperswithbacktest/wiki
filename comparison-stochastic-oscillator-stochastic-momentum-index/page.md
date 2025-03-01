@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Stochastic Oscillator and Stochastic Momentum Index (Algo Trading)"
+title: "Comparison of Stochastic Oscillator and Stochastic Momentum Index"
 description: "Explore the differences between the stochastic oscillator and stochastic momentum index in technical analysis Discover how these tools can enhance trading strategies"
 ---
 

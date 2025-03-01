@@ -1,5 +1,5 @@
 ---
-title: "IS-LM Model: Curves, Characteristics, and Limitations (Algo Trading)"
+title: "IS-LM Model: Curves, Characteristics, and Limitations"
 description: "Explore the IS-LM model's role in macroeconomic theory and algorithmic trading Learn how it bridges the goods and money markets for economic insights"
 ---
 

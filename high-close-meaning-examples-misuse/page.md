@@ -1,5 +1,5 @@
 ---
-title: "High Close: Meaning, Examples, and Misuse (Algo Trading)"
+title: "High Close: Meaning, Examples, and Misuse"
 description: "Discover the concept of 'high close' in algorithmic trading its significance examples and the potential for misuse in financial markets."
 ---
 

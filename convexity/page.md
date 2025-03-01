@@ -1,5 +1,5 @@
 ---
-title: "Convexity (Algo Trading)"
+title: "Convexity"
 description: "Explore the vital role of geometry and mathematics in algorithmic trading Discover how these concepts enhance market analysis model development and trade execution"
 ---
 

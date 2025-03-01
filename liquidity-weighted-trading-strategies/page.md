@@ -1,5 +1,5 @@
 ---
-title: "Liquidity-Weighted Trading Strategies (Algo Trading)"
+title: "Liquidity-Weighted Trading Strategies"
 description: "Explore liquidity-weighted algorithmic trading strategies that optimize trade execution by integrating liquidity factors, minimizing market impact, and enhancing order efficiency."
 ---
 

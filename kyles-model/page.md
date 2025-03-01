@@ -1,5 +1,5 @@
 ---
-title: "Kyle’s model (Algo Trading)"
+title: "Kyle’s model"
 description: "Explore Kyle's Lambda in trading for better market predictions and cost-effective strategies. Gain a competitive edge by understanding trade impacts."
 ---
 

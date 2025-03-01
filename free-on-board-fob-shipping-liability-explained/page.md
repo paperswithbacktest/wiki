@@ -1,5 +1,5 @@
 ---
-title: "Free on Board (FOB): Shipping Liability Explained (Algo Trading)"
+title: "Free on Board (FOB): Shipping Liability Explained"
 description: "Explore the critical role of Free on Board (FOB) terms in international trade Understand how FOB affects shipping liability and impacts algorithmic trading decisions"
 ---
 

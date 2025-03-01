@@ -1,5 +1,5 @@
 ---
-title: "Economy of North Korea (Algo Trading)"
+title: "Economy of North Korea"
 description: "Explore the unique economic landscape of North Korea, driven by a command economy focused on self-reliance. Delve into the complexities of limited data, the impact of sanctions, and the potential for algorithmic trading in this isolated nation, examining both challenges and development prospects."
 ---
 

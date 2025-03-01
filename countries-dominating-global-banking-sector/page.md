@@ -1,5 +1,5 @@
 ---
-title: "Countries Dominating the Global Banking Sector (Algo Trading)"
+title: "Countries Dominating the Global Banking Sector"
 description: "Discover how countries are leveraging algorithmic trading to transform global banking and financial markets. Explore the impact of technology on international finance."
 ---
 

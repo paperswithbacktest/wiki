@@ -1,5 +1,5 @@
 ---
-title: "Deeds: Types, Requirements, and Comparison with Titles (Algo Trading)"
+title: "Deeds: Types, Requirements, and Comparison with Titles"
 description: "Explore the essential aspects of title deeds and algorithmic trading. Understand their legal and financial importance for both beginners and seasoned professionals."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Financial Models Created with Excel (Algo Trading)"
+title: "Financial Models Created with Excel"
 description: "Explore how Excel drives financial modeling and algorithmic trading with its flexible, powerful tools. Discover strategies, model creation, and platform integration."
 ---
 

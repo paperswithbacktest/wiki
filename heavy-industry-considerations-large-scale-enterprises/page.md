@@ -1,5 +1,5 @@
 ---
-title: "Heavy Industry Considerations for Large-Scale Enterprises (Algo Trading)"
+title: "Heavy Industry Considerations for Large-Scale Enterprises"
 description: "Explore how integrating algorithmic trading with heavy industry can enhance operational efficiency and competitiveness for large-scale enterprises."
 ---
 

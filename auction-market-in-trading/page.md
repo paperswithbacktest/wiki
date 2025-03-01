@@ -1,5 +1,5 @@
 ---
-title: "Auction Market in Trading (Algo Trading)"
+title: "Auction Market in Trading"
 description: "Explore the transformation of financial markets through auction and algorithmic trading, understanding the dynamics and implications of these efficient methodologies."
 ---
 

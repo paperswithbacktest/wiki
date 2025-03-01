@@ -1,5 +1,5 @@
 ---
-title: "Equity Swap: Overview and Mechanism (Algo Trading)"
+title: "Equity Swap: Overview and Mechanism"
 description: "Discover how equity swaps and algorithmic trading revolutionize investment strategies, offering market exposure and risk management without direct asset ownership."
 ---
 

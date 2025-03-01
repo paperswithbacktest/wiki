@@ -1,5 +1,5 @@
 ---
-title: "Absolute Rate Overview (Algo Trading)"
+title: "Absolute Rate Overview"
 description: "Explore the importance of financial metrics in algorithmic trading with a focus on absolute rate calculations for effective interest rate swaps and strategic decisions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Auditing Evidence: Characteristics and Examples (Algo Trading)"
+title: "Auditing Evidence: Characteristics and Examples"
 description: "Explore the intricate relationship between auditing evidence and algorithmic trading Learn the characteristics and examples of reliable evidence in financial audits"
 ---
 

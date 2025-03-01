@@ -1,5 +1,5 @@
 ---
-title: "Actionable: Meaning and Function (Algo Trading)"
+title: "Actionable: Meaning and Function"
 description: "Explore the meaning of actionable strategies in algorithmic trading and their role in improving trading efficiency through precise, data-driven decisions."
 ---
 

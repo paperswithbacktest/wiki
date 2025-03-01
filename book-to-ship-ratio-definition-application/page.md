@@ -1,5 +1,5 @@
 ---
-title: "Book-to-Ship Ratio: Definition and Application (Algo Trading)"
+title: "Book-to-Ship Ratio: Definition and Application"
 description: "Explore how the book-to-ship ratio aids in optimizing supply chains and inventory management. Learn its application in algorithmic trading for enhanced operations."
 ---
 

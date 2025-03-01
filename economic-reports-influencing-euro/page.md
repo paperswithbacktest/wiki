@@ -1,5 +1,5 @@
 ---
-title: "Economic Reports Influencing the Euro (Algo Trading)"
+title: "Economic Reports Influencing the Euro"
 description: "Explore how economic reports and algorithmic trading influence the Euro in global markets. Understand the dynamics and impact of data-driven strategies."
 ---
 

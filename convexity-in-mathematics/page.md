@@ -1,5 +1,5 @@
 ---
-title: "Convexity in Mathematics (Algo Trading)"
+title: "Convexity in Mathematics"
 description: "Explore the essential role of geometry, mathematics, and convexity in algorithmic trading. Understand how these foundational concepts enhance the modeling and execution of trades in financial markets. Discover how convexity aids in risk management by assessing bond price sensitivity to interest rate changes, enabling sophisticated trading strategies and improved decision-making in dynamic environments. Delve into the synergy between geometric visualization and mathematical computations for analyzing market trends and developing predictive algorithms."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bearer Shares: Examples, Risks, and Benefits (Algo Trading)"
+title: "Bearer Shares: Examples, Risks, and Benefits"
 description: "Explore bearer shares, highlighting their privacy benefits and financial risks, alongside the revolutionary efficiency of algorithmic trading in today's markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Down Volume in Securities (Algo Trading)"
+title: "Down Volume in Securities"
 description: "Explore the role of down volume in securities trading and how algorithmic trading leverages volume analysis to enhance decision-making and risk management."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Cash Flow-to-Debt Ratio (Algo Trading)"
+title: "Cash Flow-to-Debt Ratio"
 description: "Explore the importance of cash flow-to-debt ratio in algorithmic trading Understand how this metric aids investment strategies by assessing a firm's debt repayment capacity"
 ---
 

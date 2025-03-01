@@ -1,5 +1,5 @@
 ---
-title: "Illiquid Assets: Risks and Examples (Algo Trading)"
+title: "Illiquid Assets: Risks and Examples"
 description: "Explore the unique challenges and opportunities of trading illiquid assets in algorithmic systems focusing on strategies for navigating risks like volatility and slippage."
 ---
 

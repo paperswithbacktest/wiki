@@ -1,5 +1,5 @@
 ---
-title: "Junior Capital Pool (Algo Trading)"
+title: "Junior Capital Pool"
 description: "Discover the transformative power of venture capital, junior capital pools, and algorithmic trading in shaping the modern financial landscape with innovation."
 ---
 

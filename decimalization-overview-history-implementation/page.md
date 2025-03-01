@@ -1,5 +1,5 @@
 ---
-title: "Decimalization: Overview, Historical Context, and Implementation (Algo Trading)"
+title: "Decimalization: Overview, Historical Context, and Implementation"
 description: "Explore decimalization's impact on the stock market moving from fractions to decimals improving trading efficiency with narrower spreads and boosting algorithmic strategies."
 ---
 

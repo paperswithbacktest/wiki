@@ -1,5 +1,5 @@
 ---
-title: "Breakout Trading: Overview and Types with Example (Algo Trading)"
+title: "Breakout Trading: Overview and Types with Example"
 description: "Explore breakout trading and algo trading strategies to capture significant market movements. Understand how these methods leverage technological advancements for potential success."
 ---
 

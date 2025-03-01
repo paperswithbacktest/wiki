@@ -1,5 +1,5 @@
 ---
-title: "Front Month Explained (Algo Trading)"
+title: "Front Month Explained"
 description: "Explore the intricacies of front month futures in algorithmic trading to gain insights into liquidity trends and strategies for optimizing trading efficiency."
 ---
 

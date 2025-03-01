@@ -1,5 +1,5 @@
 ---
-title: "Inflationary Gap (Algo Trading)"
+title: "Inflationary Gap"
 description: "Explore the inflationary gap and its impact on economic stability Discover how algorithmic trading can help navigate market volatility during such economic conditions"
 ---
 

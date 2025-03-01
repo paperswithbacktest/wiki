@@ -1,5 +1,5 @@
 ---
-title: "Implied Volatility in Options Trading (Algo Trading)"
+title: "Implied Volatility in Options Trading"
 description: "Explore the dynamics of implied volatility in options trading and how algorithmic strategies optimize risk management. Unlock insights into financial markets today."
 ---
 

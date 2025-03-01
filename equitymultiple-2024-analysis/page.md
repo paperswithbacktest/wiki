@@ -1,5 +1,5 @@
 ---
-title: "EquityMultiple 2024 Analysis (Algo Trading)"
+title: "EquityMultiple 2024 Analysis"
 description: "Discover how EquityMultiple merges real estate crowdfunding and algorithmic trading to democratize property investment and offer modern financial solutions."
 ---
 

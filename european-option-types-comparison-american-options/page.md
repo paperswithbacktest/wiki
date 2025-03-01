@@ -1,5 +1,5 @@
 ---
-title: "European Option Types and Comparison with American Options (Algo Trading)"
+title: "European Option Types and Comparison with American Options"
 description: "Explore key differences between European and American options in algo trading. Learn about exercise policies, pricing models, and strategic applications."
 ---
 

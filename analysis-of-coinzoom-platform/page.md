@@ -1,5 +1,5 @@
 ---
-title: "Analysis of CoinZoom Platform (Algo Trading)"
+title: "Analysis of CoinZoom Platform"
 description: "Explore CoinZoom's innovative crypto trading platform and algorithmic trading features Discover how it integrates traditional finance and digital assets securely"
 ---
 

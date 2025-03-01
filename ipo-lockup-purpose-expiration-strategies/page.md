@@ -1,5 +1,5 @@
 ---
-title: "IPO Lockup: Purpose and Expiration Strategies (Algo Trading)"
+title: "IPO Lockup: Purpose and Expiration Strategies"
 description: "Explore the intricacies of IPO lockups and algorithmic trading with insights into expiration strategies. Unlock successful investing by understanding market dynamics."
 ---
 

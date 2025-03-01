@@ -1,5 +1,5 @@
 ---
-title: "Common Pitfalls in Discounted Cash Flow Analysis (Algo Trading)"
+title: "Common Pitfalls in Discounted Cash Flow Analysis"
 description: "Explore common mistakes in Discounted Cash Flow analysis from inflated cash flow projections to improper discount rates that can skew investment valuations."
 ---
 

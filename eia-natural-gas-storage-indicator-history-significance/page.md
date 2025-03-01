@@ -1,5 +1,5 @@
 ---
-title: "EIA Natural Gas Storage Indicator History and Significance (Algo Trading)"
+title: "EIA Natural Gas Storage Indicator History and Significance"
 description: "Discover the significance of EIA's Natural Gas Storage Indicator in energy markets and its impact on algorithmic trading strategies. Gain insights into data-driven decisions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Investment Opportunities in Cuba (Algo Trading)"
+title: "Investment Opportunities in Cuba"
 description: "Explore investment opportunities in Cuba's evolving economy with insights into recent reforms and the potential of algorithmic trading to enhance market efficiency."
 ---
 

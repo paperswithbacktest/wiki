@@ -1,5 +1,5 @@
 ---
-title: "Designated Market Maker: Role at NYSE and Comparison to Brokers (Algo Trading)"
+title: "Designated Market Maker: Role at NYSE and Comparison to Brokers"
 description: "Explore the vital roles of Designated Market Makers and brokers at NYSE. Learn how they ensure market efficiency and stability through algorithmic trading."
 ---
 

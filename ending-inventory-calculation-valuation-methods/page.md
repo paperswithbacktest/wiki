@@ -1,5 +1,5 @@
 ---
-title: "Ending Inventory Calculation and Valuation Methods (Algo Trading)"
+title: "Ending Inventory Calculation and Valuation Methods"
 description: "Explore essential inventory calculation and valuation methods for algorithmic trading. Optimize financial strategies with advanced techniques for ending inventory management."
 ---
 

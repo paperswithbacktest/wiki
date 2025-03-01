@@ -1,5 +1,5 @@
 ---
-title: "Kelly Criterion in Trading (Algo Trading)"
+title: "Kelly Criterion in Trading"
 description: "Explore the Kelly Criterion's role in algorithmic trading to optimize capital allocation and manage risk effectively for long-term portfolio growth."
 ---
 

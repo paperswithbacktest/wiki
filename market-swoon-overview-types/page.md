@@ -1,5 +1,5 @@
 ---
-title: "Market Swoon: Overview and Types (Algo Trading)"
+title: "Market Swoon: Overview and Types"
 description: "Explore the dynamics of market swoons and algorithmic trading during economic downturns Discover strategies to navigate volatility and ensure market stability"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Beggar-Thy-Neighbor Policy in Forex Market History (Algo Trading)"
+title: "Beggar-Thy-Neighbor Policy in Forex Market History"
 description: "Explore the impacts of beggar-thy-neighbor policies in Forex markets and the role of algorithmic trading. Delve into historical insights and global implications."
 ---
 

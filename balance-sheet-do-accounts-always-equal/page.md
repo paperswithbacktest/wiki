@@ -1,5 +1,5 @@
 ---
-title: "Balance Sheet: Do Accounts Always Equal? (Algo Trading)"
+title: "Balance Sheet: Do Accounts Always Equal?"
 description: "Discover how balance sheet analysis underpins algorithmic trading strategies offering insights into financial health by aligning assets liabilities and equity."
 ---
 

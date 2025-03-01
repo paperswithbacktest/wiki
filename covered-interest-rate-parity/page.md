@@ -1,5 +1,5 @@
 ---
-title: "Covered Interest Rate Parity (Algo Trading)"
+title: "Covered Interest Rate Parity"
 description: "Explore the intersection of financial calculations forex markets interest rate parity and algorithmic trading Learn how these concepts enhance trading strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Institutional and Retail Traders (Algo Trading)"
+title: "Comparison of Institutional and Retail Traders"
 description: "Discover the contrasting roles of institutional and retail traders in the evolving landscape of algorithmic trading and its impact on market dynamics."
 ---
 

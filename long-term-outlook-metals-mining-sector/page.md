@@ -1,5 +1,5 @@
 ---
-title: "Long-Term Outlook for Metals and Mining Sector (Algo Trading)"
+title: "Long-Term Outlook for Metals and Mining Sector"
 description: "Explore the long-term growth of the metals and mining sector with a focus on algorithmic trading's impact on market efficiency, liquidity, and future trends."
 ---
 

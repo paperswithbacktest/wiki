@@ -1,5 +1,5 @@
 ---
-title: "Etherscan API Guide (Algo Trading)"
+title: "Etherscan API Guide"
 description: Explore the significance of Etherscan API in algorithmic trading involving Ethereum blockchain data. This guide investigates into utilizing Etherscan’s comprehensive data access for enhancing trading strategies by automating data retrieval and analysis. Learn about key features, benefits, challenges, and integration methods to optimize algorithmic trading success within the evolving cryptocurrency market landscape.
 ---
 

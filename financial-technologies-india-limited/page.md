@@ -1,5 +1,5 @@
 ---
-title: "Financial Technologies India Limited (Algo Trading)"
+title: "Financial Technologies India Limited"
 description: "Discover how Financial Technologies (India) Ltd leads India's tech-driven trading evolution, pioneering innovations in algorithmic trading for enhanced market efficiency."
 ---
 

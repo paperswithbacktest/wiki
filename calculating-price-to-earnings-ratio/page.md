@@ -1,5 +1,5 @@
 ---
-title: "Calculating the Price-to-Earnings Ratio (Algo Trading)"
+title: "Calculating the Price-to-Earnings Ratio"
 description: "Discover the significance of the Price-to-Earnings ratio in algorithmic trading and learn how it aids in strategic stock valuations and investment decisions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin Unlimited (Algo Trading)"
+title: "Bitcoin Unlimited"
 description: "Explore Bitcoin Unlimited a project focused on blockchain scalability through increased block size and algorithmic trading insights. Learn how these innovations address crypto market challenges."
 ---
 

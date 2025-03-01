@@ -1,5 +1,5 @@
 ---
-title: "Legend in Popular Culture (Algo Trading)"
+title: "Legend in Popular Culture"
 description: "Explore algorithmic trading myths and realities Learn how cutting-edge algorithms influence modern trading systems by deconstructing myths and offering insights"
 ---
 

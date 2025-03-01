@@ -1,5 +1,5 @@
 ---
-title: "Hedge Funds: Evaluating Returns and Fees (Algo Trading)"
+title: "Hedge Funds: Evaluating Returns and Fees"
 description: "Explore hedge fund returns and fees with a focus on algorithmic trading Discover the impact of high fees on performance and if modern tech optimizes gains"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Ground Lease: Functionality, Benefits, and Examples (Algo Trading)"
+title: "Ground Lease: Functionality, Benefits, and Examples"
 description: "Explore the intersection of ground leases and algorithmic trading to discover innovative strategies enhancing decision-making and returns in real estate."
 ---
 

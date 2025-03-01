@@ -1,5 +1,5 @@
 ---
-title: "Impact Investing: Overview and Examples (Algo Trading)"
+title: "Impact Investing: Overview and Examples"
 description: "Explore the transformative world of impact investing and algo trading where finance meets social responsibility and technology revolutionizes investment strategies. This page investigates into how sustainable finance integrates environmental social and governance criteria while leveraging algorithmic trading for efficiency. Discover how these innovations are reshaping the financial landscape by prioritizing ethical investments and high-speed data analysis for a more equitable future. Gain insights into the principles and examples that drive sustainable growth and positive societal impacts."
 ---
 

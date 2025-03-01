@@ -1,5 +1,5 @@
 ---
-title: "Dedicated Short Bias Strategy (Algo Trading)"
+title: "Dedicated Short Bias Strategy"
 description: "Explore the dynamics of short bias and short selling strategies enhanced by algorithmic trading to profit from market downturns with precision and efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "List of Global Bitcoin Hotspots (Algo Trading)"
+title: "List of Global Bitcoin Hotspots"
 description: "Explore the global hotspots for Bitcoin algorithmic trading learn how cities like Los Angeles and Hong Kong are shaping the future of crypto markets."
 ---
 

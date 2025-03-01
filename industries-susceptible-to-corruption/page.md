@@ -1,5 +1,5 @@
 ---
-title: "Industries Susceptible to Corruption (Algo Trading)"
+title: "Industries Susceptible to Corruption"
 description: "Explore the role of algorithmic trading in industries vulnerable to corruption uncovering challenges and opportunities to improve transparency and reduce misconduct."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Kurtosis risk (Algo Trading)"
+title: "Kurtosis risk"
 description: Explore the critical concept of kurtosis risk in algorithmic trading, focusing on how it impacts trading strategies and decision-making. Kurtosis risk addresses the frequent occurrence of extreme market events not accounted for by normal distribution models, often used in algorithmic systems. Recognizing fat tails in financial data, which signal significant deviations and outliers, is crucial for developing robust trading algorithms. Learn how ignoring kurtosis can lead to underestimated risks, excessive leverage, and substantial financial losses, as exemplified by historical cases like Long-Term Capital Management. Enhance your trading strategies to ensure resilience against market anomalies.
 ---
 

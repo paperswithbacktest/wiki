@@ -1,5 +1,5 @@
 ---
-title: "Bank of England Overview (Algo Trading)"
+title: "Bank of England Overview"
 description: "Explore how the Bank of England ensures financial stability in the UK and its pivotal role in regulating algorithmic trading within the modern financial ecosystem."
 ---
 

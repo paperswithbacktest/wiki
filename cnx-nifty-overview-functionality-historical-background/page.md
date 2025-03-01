@@ -1,5 +1,5 @@
 ---
-title: "CNX Nifty: Overview, Functionality, and Historical Background (Algo Trading)"
+title: "CNX Nifty: Overview, Functionality, and Historical Background"
 description: "Explore the CNX Nifty index and its role in the Indian stock market alongside the impact and strategies of algorithmic trading for informed investment decisions."
 ---
 

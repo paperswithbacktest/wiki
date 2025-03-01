@@ -1,5 +1,5 @@
 ---
-title: "Good Delivery Standards and Criteria (Algo Trading)"
+title: "Good Delivery Standards and Criteria"
 description: "Discover the essential standards and criteria for good delivery in algorithmic trading. Learn how these guidelines ensure trust and quality in global financial markets."
 ---
 

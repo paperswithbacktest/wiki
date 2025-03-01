@@ -1,5 +1,5 @@
 ---
-title: "Accessing Company Annual Reports and SEC Filings (Algo Trading)"
+title: "Accessing Company Annual Reports and SEC Filings"
 description: "Discover the role of annual reports and SEC filings in financial analysis and algorithmic trading Learn how they enhance transparency and drive investment strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Fibonacci Methods in Trading (Algo Trading)"
+title: "Fibonacci Methods in Trading"
 description: "Explore how Fibonacci and algorithmic trading methods can enhance trading strategies by optimizing decision-making through mathematical analysis and automation."
 ---
 

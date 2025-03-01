@@ -1,5 +1,5 @@
 ---
-title: "Exchange Distribution (Algo Trading)"
+title: "Exchange Distribution"
 description: "Explore the synergy of finance distribution exchanges and algorithmic trading enhancing market efficiency by optimizing large-volume transactions with automated precision."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Dividends in Stocks and Payment Processes (Algo Trading)"
+title: "Dividends in Stocks and Payment Processes"
 description: "Discover how dividend stocks and algorithmic trading intersect to revolutionize investment approaches offering insights into optimizing dividend strategies."
 ---
 

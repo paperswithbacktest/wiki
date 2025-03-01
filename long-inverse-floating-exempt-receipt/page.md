@@ -1,5 +1,5 @@
 ---
-title: "Long Inverse Floating Exempt Receipt (Algo Trading)"
+title: "Long Inverse Floating Exempt Receipt"
 description: "Explore how Long Inverse Floating Exempt Receipts and algorithmic trading combine to create innovative investment strategies that optimize returns and manage risk."
 ---
 

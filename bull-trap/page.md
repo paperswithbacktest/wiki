@@ -1,5 +1,5 @@
 ---
-title: "Bull Trap (Algo Trading)"
+title: "Bull Trap"
 description: "Navigate the complexities of the stock market with insights into bull traps and algorithmic trading Learn to identify false signals and optimize investment strategies"
 ---
 

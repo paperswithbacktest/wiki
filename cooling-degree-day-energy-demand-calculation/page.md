@@ -1,5 +1,5 @@
 ---
-title: "Cooling Degree Day and Energy Demand Calculation (Algo Trading)"
+title: "Cooling Degree Day and Energy Demand Calculation"
 description: "Explore the significance of Cooling Degree Day calculations in predicting energy demand accurately. Learn how integrating CDD with algo trading optimizes energy markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Assessment of Inherent Risk by Auditors (Algo Trading)"
+title: "Assessment of Inherent Risk by Auditors"
 description: "Auditors assess inherent risks in algorithmic trading by evaluating control effectiveness to ensure systems align with regulatory standards and operate safely."
 ---
 

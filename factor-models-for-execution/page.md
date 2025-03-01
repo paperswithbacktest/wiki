@@ -1,5 +1,5 @@
 ---
-title: "factor models for execution (Algo Trading)"
+title: "factor models for execution"
 description: "Discover how factor models enhance algorithmic trading by offering insights into risk management and asset return predictions to optimize trading strategies."
 ---
 

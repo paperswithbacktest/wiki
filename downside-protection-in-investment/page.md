@@ -1,5 +1,5 @@
 ---
-title: "Downside Protection in Investment (Algo Trading)"
+title: "Downside Protection in Investment"
 description: "Explore downside protection, risk management, and algorithmic trading strategies to safeguard investments while maximizing growth opportunities in volatile markets."
 ---
 

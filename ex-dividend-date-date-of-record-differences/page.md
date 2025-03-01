@@ -1,5 +1,5 @@
 ---
-title: "Ex-Dividend Date and Date of Record: Differences (Algo Trading)"
+title: "Ex-Dividend Date and Date of Record: Differences"
 description: "Explore the key differences between ex-dividend date and date of record in stock trading and learn how they impact dividend eligibility and investment strategies."
 ---
 

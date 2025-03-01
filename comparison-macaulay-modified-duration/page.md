@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Macaulay and Modified Duration (Algo Trading)"
+title: "Comparison of Macaulay and Modified Duration"
 description: "Explore the Macaulay and Modified Duration metrics essential for assessing bond interest rate risk and their transformative role in algorithmic trading strategies."
 ---
 

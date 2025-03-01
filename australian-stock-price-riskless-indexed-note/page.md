@@ -1,5 +1,5 @@
 ---
-title: "Australian Stock Price Riskless Indexed Note (Algo Trading)"
+title: "Australian Stock Price Riskless Indexed Note"
 description: "Discover the innovative ASPIRIN bonds indexed to the Australian All-Ordinaries Stock Index offering a blend of stability and growth through algorithmic trading strategies."
 ---
 

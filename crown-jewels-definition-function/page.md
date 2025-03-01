@@ -1,5 +1,5 @@
 ---
-title: "Crown Jewels: Definition and Function (Algo Trading)"
+title: "Crown Jewels: Definition and Function"
 description: "Explore the intricate link between algorithmic trading and a company's crown jewels. Discover how these valuable assets shape trading strategies and impact market positioning."
 ---
 

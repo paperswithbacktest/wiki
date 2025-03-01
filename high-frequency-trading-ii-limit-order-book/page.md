@@ -1,5 +1,5 @@
 ---
-title: "High-Frequency Trading II: Limit Order Book Explained (Algo Trading)"
+title: "High-Frequency Trading II: Limit Order Book Explained"
 description: Explore the intricacies of limit order books in algorithmic trading with this comprehensive guide. Gain insights into their structure, how they provide market transparency, manage liquidity, and improve execution efficiency for traders. Understand the advantages and challenges faced in utilizing limit order books, along with their role in executing sophisticated trading strategies. Discover essential concepts like bid-ask spreads and matching engines, and learn how to leverage these tools to enhance market performance. Perfect for traders and financial institutions looking to optimize their use of algorithmic trading systems.
 ---
 

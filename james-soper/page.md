@@ -1,5 +1,5 @@
 ---
-title: "James Soper (Algo Trading)"
+title: "James Soper"
 description: "Discover the impactful career of James Soper as a leader in algorithmic trading and CTO at Acadian Asset Management driving innovation in financial technology."
 ---
 

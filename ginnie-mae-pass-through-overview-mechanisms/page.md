@@ -1,5 +1,5 @@
 ---
-title: "Ginnie Mae Pass-Through: Overview and Mechanisms (Algo Trading)"
+title: "Ginnie Mae Pass-Through: Overview and Mechanisms"
 description: "Explore Ginnie Mae pass-through securities, their secure returns backed by the U.S. government, and learn about their role in algorithmic trading strategies."
 ---
 

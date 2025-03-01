@@ -1,5 +1,5 @@
 ---
-title: "Impact Decline of Japan's Quantitative Easing (Algo Trading)"
+title: "Impact Decline of Japan's Quantitative Easing"
 description: "Explore the impact of Japan's long-term quantitative easing on the global economy and algorithmic trading strategies with insightful analysis and case studies."
 ---
 

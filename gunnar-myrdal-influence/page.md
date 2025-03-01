@@ -1,5 +1,5 @@
 ---
-title: "Gunnar Myrdal and His Influence (Algo Trading)"
+title: "Gunnar Myrdal and His Influence"
 description: "Explore Gunnar Myrdal's economic theories and their influence on algorithmic trading. Learn how his work enhances trading strategies with modern economic insights."
 ---
 

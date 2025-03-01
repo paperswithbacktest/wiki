@@ -1,5 +1,5 @@
 ---
-title: "Harvard MBA Index (Algo Trading)"
+title: "Harvard MBA Index"
 description: "Discover how the Harvard MBA Indicator uses graduates' career choices to predict stock market trends, providing a unique contrarian tool for investors."
 ---
 

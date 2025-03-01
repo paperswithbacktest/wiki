@@ -1,5 +1,5 @@
 ---
-title: "Gunslinger (Algo Trading)"
+title: "Gunslinger"
 description: "Dive into the world of algorithmic trading where modern 'financial gunslingers' navigate volatile markets with precision and speed akin to Wild West shootouts."
 ---
 

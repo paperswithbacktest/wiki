@@ -1,5 +1,5 @@
 ---
-title: "Capitalization Rate and Formula (Algo Trading)"
+title: "Capitalization Rate and Formula"
 description: "Explore the essential role of capitalization rates in real estate investment and the innovative impact of algorithmic trading. Understand how the cap rate, a key metric for assessing potential property returns, integrates with data-driven methodologies to enhance investment strategies. This comprehensive analysis highlights the balance between traditional metrics and advanced technologies, offering insights into optimizing returns and navigating the evolving real estate landscape."
 ---
 

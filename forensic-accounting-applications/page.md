@@ -1,5 +1,5 @@
 ---
-title: "Forensic Accounting and Its Applications (Algo Trading)"
+title: "Forensic Accounting and Its Applications"
 description: "Explore the nexus of forensic accounting and algorithmic trading to enhance fraud detection. Learn how tech-driven investigations secure financial transactions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Cash-Settled Options: Mechanism and Advantages (Algo Trading)"
+title: "Cash-Settled Options: Mechanism and Advantages"
 description: "Explore the mechanism and advantages of cash-settled options in the derivatives market. Discover how algo trading enhances efficiency and reduces costs for traders."
 ---
 

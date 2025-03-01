@@ -1,5 +1,5 @@
 ---
-title: "DiversyFund Review 2024 (Algo Trading)"
+title: "DiversyFund Review 2024"
 description: "Explore how DiversyFund is democratizing real estate investment in 2024 with algorithmic trading and investor-focused enhancements for broader market access."
 ---
 

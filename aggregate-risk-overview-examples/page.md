@@ -1,5 +1,5 @@
 ---
-title: "Aggregate Risk: Overview and Examples (Algo Trading)"
+title: "Aggregate Risk: Overview and Examples"
 description: "Explore aggregate risk in algorithmic trading including its impact, challenges, and risk management strategies essential for mitigating potential losses."
 ---
 

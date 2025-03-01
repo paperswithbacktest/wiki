@@ -1,5 +1,5 @@
 ---
-title: "Derived Demand: Calculation and Applications (Algo Trading)"
+title: "Derived Demand: Calculation and Applications"
 description: "Explore how derived demand influences market strategies in algo trading Learn key concepts in demand calculation and its effects on investment decisions"
 ---
 

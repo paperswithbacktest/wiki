@@ -1,5 +1,5 @@
 ---
-title: "ICAP (Global Professional Services Provider) (Algo Trading)"
+title: "ICAP (Global Professional Services Provider)"
 description: "Discover the evolution of ICAP into NEX Group, focusing on electronic and algorithmic trading innovations shaping the financial services landscape globally."
 ---
 

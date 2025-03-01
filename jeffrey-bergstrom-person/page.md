@@ -1,5 +1,5 @@
 ---
-title: "Jeffrey Bergstrom (Person) (Algo Trading)"
+title: "Jeffrey Bergstrom (Person)"
 description: "Jeffrey A. Bergstrom is a pivotal figure in financial journalism and IT at John J. Lothian & Company known for advancing algorithmic trading and media strategies."
 ---
 

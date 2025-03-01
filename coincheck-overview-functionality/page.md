@@ -1,5 +1,5 @@
 ---
-title: "Coincheck: Overview and Functionality (Algo Trading)"
+title: "Coincheck: Overview and Functionality"
 description: "Explore Coincheck's user-friendly platform and advanced algo trading tools for efficient cryptocurrency transactions Discover the latest in financial technology trends"
 ---
 

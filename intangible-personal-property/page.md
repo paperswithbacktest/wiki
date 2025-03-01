@@ -1,5 +1,5 @@
 ---
-title: "Intangible Personal Property (Algo Trading)"
+title: "Intangible Personal Property"
 description: "Explore the dynamic world of intangible personal property in finance focusing on algorithmic trading and its impact on asset management and valuation strategies."
 ---
 

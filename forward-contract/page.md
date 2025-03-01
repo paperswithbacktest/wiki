@@ -1,5 +1,5 @@
 ---
-title: "Forward Contract (Algo Trading)"
+title: "Forward Contract"
 description: "Explore the benefits and complexities of using algorithmic trading in forward contracts. Discover how these highly customizable financial derivatives help manage risks and stabilize prices while automated trading optimizes execution and decision-making in volatile markets. Learn about the integration of risk management frameworks to handle market volatility and execution risks effectively. Gain insights into the role of complex algorithms and quantitative models in enhancing trading efficiency and precision."
 ---
 

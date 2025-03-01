@@ -1,5 +1,5 @@
 ---
-title: "Existing Home Sales (Algo Trading)"
+title: "Existing Home Sales"
 description: "Explore how algorithmic trading reshapes existing home sales by leveraging data analytics for faster transactions and market trend predictions in real estate."
 ---
 

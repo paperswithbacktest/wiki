@@ -1,5 +1,5 @@
 ---
-title: "E*TRADE Core Portfolios Overview (Algo Trading)"
+title: "E*TRADE Core Portfolios Overview"
 description: "Discover E*TRADE Core Portfolios a robo-advisory service offering algorithmic trading insights tailored to your investment goals and strategies effectively."
 ---
 

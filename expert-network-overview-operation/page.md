@@ -1,5 +1,5 @@
 ---
-title: "Expert Network: Overview and Operation (Algo Trading)"
+title: "Expert Network: Overview and Operation"
 description: "Discover how expert networks are transforming algorithmic trading by connecting firms with specialized insights driving competitive advantage in finance."
 ---
 

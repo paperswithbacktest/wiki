@@ -1,5 +1,5 @@
 ---
-title: "Fitness and Exercise Industry (Algo Trading)"
+title: "Fitness and Exercise Industry"
 description: "Explore the convergence of fitness trends and financial trading strategies both driven by data analytics to interpret market dynamics and optimize performance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "IncubEx Exchange Platform (Algo Trading)"
+title: "IncubEx Exchange Platform"
 description: "Discover the crucial role of IncubEx in advancing environmental markets through carbon trading and algorithmic trading for efficient, sustainable solutions."
 ---
 

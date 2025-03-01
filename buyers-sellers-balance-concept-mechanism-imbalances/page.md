@@ -1,5 +1,5 @@
 ---
-title: "Buyers-Sellers Balance: Concept, Mechanism, and Imbalances (Algo Trading)"
+title: "Buyers-Sellers Balance: Concept, Mechanism, and Imbalances"
 description: "Explore the critical role of buyer-seller balance in financial markets and how algorithmic trading leverages imbalances to optimize trading strategies."
 ---
 

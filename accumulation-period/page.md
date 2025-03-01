@@ -1,5 +1,5 @@
 ---
-title: "Accumulation Period (Algo Trading)"
+title: "Accumulation Period"
 description: "Explore the critical role of the accumulation period in financial management, combining traditional strategies and algorithmic trading for optimal investment outcomes."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Hamburg Stock Exchange (Algo Trading)"
+title: "Hamburg Stock Exchange"
 description: "Discover the rich history and modern influence of the Hamburg Stock Exchange from its early goods trading days to a powerhouse in algorithmic securities trading."
 ---
 

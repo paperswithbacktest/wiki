@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Standard Error and Standard Deviation (Algo Trading)"
+title: "Comparison of Standard Error and Standard Deviation"
 description: "Explore the essential role of standard error and standard deviation in algorithmic trading, key statistical tools for understanding and quantifying financial market risks. Learn how these measures enhance trading strategy effectiveness by gauging sample accuracy and assessing market volatility. This guide offers vital insights for traders of all experience levels, helping them optimize algorithms and develop robust strategies in complex financial environments."
 ---
 

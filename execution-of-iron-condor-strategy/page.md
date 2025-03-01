@@ -1,5 +1,5 @@
 ---
-title: "Execution of the Iron Condor Strategy (Algo Trading)"
+title: "Execution of the Iron Condor Strategy"
 description: "Explore the Iron Condor options strategy, ideal for low volatility markets, utilizing algorithmic trading to optimize execution for balanced risk and reward."
 ---
 

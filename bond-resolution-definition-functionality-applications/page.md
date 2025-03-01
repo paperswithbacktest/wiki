@@ -1,5 +1,5 @@
 ---
-title: "Bond Resolution: Definition, Functionality, and Applications (Algo Trading)"
+title: "Bond Resolution: Definition, Functionality, and Applications"
 description: "Discover the intricacies of bond resolution and issuance in the financial markets, along with how algorithmic trading enhances efficiency and investment strategies."
 ---
 

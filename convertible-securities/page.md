@@ -1,5 +1,5 @@
 ---
-title: "Convertible Securities (Algo Trading)"
+title: "Convertible Securities"
 description: "Explore convertible securities a unique investment blending debt and equity features ideal for diversification and growth potential with algorithmic trading insights."
 ---
 

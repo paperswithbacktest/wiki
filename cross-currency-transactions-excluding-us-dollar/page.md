@@ -1,5 +1,5 @@
 ---
-title: "Cross-Currency Transactions Excluding the U.S. Dollar (Algo Trading)"
+title: "Cross-Currency Transactions Excluding the U.S. Dollar"
 description: "Explore the intricacies of cross-currency forex transactions and the transformative role of algorithmic trading in enhancing efficiency, excluding the US Dollar."
 ---
 

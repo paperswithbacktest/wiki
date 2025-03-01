@@ -1,5 +1,5 @@
 ---
-title: "Bond Portfolio Asset Allocation (Algo Trading)"
+title: "Bond Portfolio Asset Allocation"
 description: "Optimize investment strategy with bond portfolios utilizing asset allocation and algorithmic trading Discover how to balance risk and return for superior outcomes"
 ---
 

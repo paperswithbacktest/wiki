@@ -1,5 +1,5 @@
 ---
-title: "Information asymmetry in trading (Algo Trading)"
+title: "Information asymmetry in trading"
 description: "Explore how information asymmetry impacts algorithmic trading dynamics and market efficiency, highlighting its role, challenges, and implications in financial markets."
 ---
 

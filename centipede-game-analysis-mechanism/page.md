@@ -1,5 +1,5 @@
 ---
-title: "Centipede Game: Analysis and Mechanism (Algo Trading)"
+title: "Centipede Game: Analysis and Mechanism"
 description: "Explore the strategic intricacies of the Centipede Game and its implications on algorithmic trading. Uncover game theory applications optimizing trading strategies."
 ---
 

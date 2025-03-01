@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategies for Tax Efficiency in Retirement Accounts (Algo Trading)"
+title: "Investment Strategies for Tax Efficiency in Retirement Accounts"
 description: "Explore strategies for tax-efficient investing in retirement accounts with insights into algorithmic trading's impact on maximizing returns and managing portfolios."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Intermarket Trading System: Overview and Functionality (Algo Trading)"
+title: "Intermarket Trading System: Overview and Functionality"
 description: "The Intermarket Trading System revolutionized trading by electronically linking major US stock exchanges boosting efficiency and transparency in the market."
 ---
 

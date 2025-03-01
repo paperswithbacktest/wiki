@@ -1,5 +1,5 @@
 ---
-title: "B-Note: Overview, Functionality, and Regulations (Algo Trading)"
+title: "B-Note: Overview, Functionality, and Regulations"
 description: "Dive into the world of finance with insights on B-Notes, their role in structured finance, regulatory impacts post-2008, and the rise of algorithmic trading."
 ---
 

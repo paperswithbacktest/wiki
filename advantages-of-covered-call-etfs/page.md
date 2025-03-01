@@ -1,5 +1,5 @@
 ---
-title: "Advantages of Covered Call ETFs (Algo Trading)"
+title: "Advantages of Covered Call ETFs"
 description: "Explore the benefits of covered call ETFs and algorithmic trading, learn how they enhance income, manage risk, and optimize portfolios for better returns."
 ---
 

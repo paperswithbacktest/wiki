@@ -1,5 +1,5 @@
 ---
-title: "Accounting Theory in Financial Reporting (Algo Trading)"
+title: "Accounting Theory in Financial Reporting"
 description: "Discover the integration of accounting theory with financial reporting and algorithmic trading, essential for maintaining financial transparency and strategic success."
 ---
 

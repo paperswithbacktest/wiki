@@ -1,5 +1,5 @@
 ---
-title: "Marginal Propensity to Consume in Economics (Algo Trading)"
+title: "Marginal Propensity to Consume in Economics"
 description: "Explore the significance of Marginal Propensity to Consume (MPC) and its influence on economic activities and investment strategies in this informative article. Understand how MPC, a key concept in Keynesian theory, impacts consumption, fiscal policy, and algorithmic trading. Discover the role of MPC in economic forecasting and fiscal interventions, highlighting its importance for policymakers and investors in navigating financial markets and driving economic growth."
 ---
 

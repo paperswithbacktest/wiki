@@ -1,5 +1,5 @@
 ---
-title: "Car Purchasing Versus Leasing Options for Retirees (Algo Trading)"
+title: "Car Purchasing Versus Leasing Options for Retirees"
 description: "Explore car purchasing versus leasing options for retirees with insights into algorithmic trading's role in financial flexibility and decision-making support."
 ---
 

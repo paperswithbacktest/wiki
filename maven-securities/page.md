@@ -1,5 +1,5 @@
 ---
-title: "Maven Securities (Algo Trading)"
+title: "Maven Securities"
 description: "Discover how Maven Securities leverages algorithmic trading innovation to dominate financial markets with speed precision and advanced technology integration."
 ---
 

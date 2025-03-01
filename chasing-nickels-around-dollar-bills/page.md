@@ -1,5 +1,5 @@
 ---
-title: "Chasing Nickels Around Dollar Bills (Algo Trading)"
+title: "Chasing Nickels Around Dollar Bills"
 description: "Explore the intersection of financial idioms and algorithmic trading to enhance financial literacy and strategy with timeless wisdom and modern precision."
 ---
 

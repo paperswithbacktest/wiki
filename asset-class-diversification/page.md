@@ -1,5 +1,5 @@
 ---
-title: "Asset Class Diversification (Algo Trading)"
+title: "Asset Class Diversification"
 description: "Explore asset class diversification strategies with algorithmic trading to balance risk and return. Learn how algorithms optimize investment portfolios efficiently."
 ---
 

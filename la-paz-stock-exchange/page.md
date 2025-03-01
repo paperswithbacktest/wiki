@@ -1,5 +1,5 @@
 ---
-title: "La Paz Stock Exchange (Algo Trading)"
+title: "La Paz Stock Exchange"
 description: "Explore how algorithmic trading is transforming the La Paz Stock Exchange by optimizing efficiencies and modernizing Bolivia's financial market landscape."
 ---
 

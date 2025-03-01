@@ -1,5 +1,5 @@
 ---
-title: "Mass Payment Systems: Overview, Mechanism, and Benefits (Algo Trading)"
+title: "Mass Payment Systems: Overview, Mechanism, and Benefits"
 description: "Discover the intersection of mass payment systems and algorithmic trading for enhanced efficiency in transactions and high-speed trading decisions in finance."
 ---
 

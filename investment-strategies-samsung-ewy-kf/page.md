@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategies in Samsung Through EWY and KF (Algo Trading)"
+title: "Investment Strategies in Samsung Through EWY and KF"
 description: "Explore investment strategies in Samsung by leveraging the iShares MSCI South Korea ETF (EWY) and the Korea Fund. Enhance results through algorithmic trading."
 ---
 

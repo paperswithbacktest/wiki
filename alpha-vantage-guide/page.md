@@ -1,5 +1,5 @@
 ---
-title: "Alpha Vantage Guide (Algo Trading)"
+title: "Alpha Vantage Guide"
 description: Discover how Alpha Vantage empowers algorithmic trading with its reliable financial data and user-friendly API solutions. This guide explores how traders and developers can leverage Alpha Vantage for real-time insights, technical indicators, and global market coverage to enhance trading strategies. Accessible features and cost-effective services make it a top choice for both novice and seasoned traders in navigating complex financial markets.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Big Mac Index and Purchasing Power Parity (Algo Trading)"
+title: "Big Mac Index and Purchasing Power Parity"
 description: "Discover how the Big Mac Index serves as a simplified tool for evaluating currency value and purchasing power parity, offering insights for traders and economists."
 ---
 

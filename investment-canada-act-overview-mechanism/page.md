@@ -1,5 +1,5 @@
 ---
-title: "Investment Canada Act: Overview and Mechanism (Algo Trading)"
+title: "Investment Canada Act: Overview and Mechanism"
 description: "Explore Canada's investment landscape with insights into the Investment Canada Act and the rise of algorithmic trading providing a technological edge in investments."
 ---
 

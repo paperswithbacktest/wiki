@@ -1,5 +1,5 @@
 ---
-title: "Crack Formation: Causes and Examples (Algo Trading)"
+title: "Crack Formation: Causes and Examples"
 description: "Explore the intricate world of algorithmic trading and its challenges with crack formation. Understand causes, examples, and strategies for robust solutions."
 ---
 

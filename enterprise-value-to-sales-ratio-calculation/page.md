@@ -1,5 +1,5 @@
 ---
-title: "Enterprise Value-to-Sales Ratio and Calculation (Algo Trading)"
+title: "Enterprise Value-to-Sales Ratio and Calculation"
 description: "Discover the advantages of the Enterprise Value-to-Sales ratio in financial analysis and algorithmic trading Enhance your stock selection with this key metric"
 ---
 

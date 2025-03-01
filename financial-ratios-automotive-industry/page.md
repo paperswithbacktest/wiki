@@ -1,5 +1,5 @@
 ---
-title: "Financial Ratios in the Automotive Industry (Algo Trading)"
+title: "Financial Ratios in the Automotive Industry"
 description: "Explore the critical role of financial ratios in evaluating the performance and financial health of companies within the automotive industry in this informative guide. Discover how essential metrics like Debt-to-Equity, Inventory Turnover, and Return on Equity provide insights into a firm's leverage, efficiency, and profitability. Additionally, learn about the integration of algorithmic trading techniques for more comprehensive financial analysis. This synergy between traditional and modern financial approaches offers a strategic advantage for investors navigating the dynamic automotive market."
 ---
 

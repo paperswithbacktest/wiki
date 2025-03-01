@@ -1,5 +1,5 @@
 ---
-title: "Hong Kong Monetary Authority Investment Portfolio Overview (Algo Trading)"
+title: "Hong Kong Monetary Authority Investment Portfolio Overview"
 description: "Explore the role of algorithmic trading in the Hong Kong Monetary Authority's investment portfolio management aimed at optimizing returns and ensuring financial stability."
 ---
 

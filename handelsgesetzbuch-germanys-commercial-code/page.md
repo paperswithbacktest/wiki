@@ -1,5 +1,5 @@
 ---
-title: "Handelsgesetzbuch: Germany's Commercial Code (Algo Trading)"
+title: "Handelsgesetzbuch: Germany's Commercial Code"
 description: "Explore the intersection of Germany's Commercial Code (HGB) and algorithmic trading How HGB regulations adapt to technological advances in trading practices"
 ---
 

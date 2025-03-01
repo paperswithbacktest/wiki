@@ -1,5 +1,5 @@
 ---
-title: "Distribution Syndicate (Algo Trading)"
+title: "Distribution Syndicate"
 description: "Explore the dynamic synergy between syndicate distribution logistics and algorithmic trading in financial markets Discover enhanced profitability and reduced risks"
 ---
 

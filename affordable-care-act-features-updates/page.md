@@ -1,5 +1,5 @@
 ---
-title: "Affordable Care Act: Features and Updates (Algo Trading)"
+title: "Affordable Care Act: Features and Updates"
 description: "Explore the features and updates of the Affordable Care Act focusing on healthcare coverage expansion algorithm trading effects and healthcare market dynamics."
 ---
 

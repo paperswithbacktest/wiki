@@ -1,5 +1,5 @@
 ---
-title: "Market-Making with Adversarial Learning (Algo Trading)"
+title: "Market-Making with Adversarial Learning"
 description: "Explore the transformative role of adversarial learning in algorithmic market-making to enhance trade efficiency, liquidity, and robust strategy adaptation."
 ---
 

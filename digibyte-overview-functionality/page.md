@@ -1,5 +1,5 @@
 ---
-title: "Digibyte: Overview and Functionality (Algo Trading)"
+title: "Digibyte: Overview and Functionality"
 description: "Explore the DigiByte blockchain platform, renowned for its scalability and security, and how it differentiates itself in the cryptocurrency market. Understand the impact of algorithmic trading and its role in enhancing trading efficiency. Discover the innovations DigiByte brings through its unique features, including a multi-algorithmic mining process and dynamic security measures, emphasizing its commitment to decentralization."
 ---
 

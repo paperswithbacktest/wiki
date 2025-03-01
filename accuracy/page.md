@@ -1,5 +1,5 @@
 ---
-title: "Accuracy (Algo Trading)"
+title: "Accuracy"
 description: Explore the crucial role of accuracy in algorithmic trading to maximize profitability and reduce errors within swiftly changing market environments. Understand how precise signal generation, timely trade execution, and reliable backtesting are fundamental to successful algo trading strategies that adapt to diverse trading conditions, leveraging advanced tools to maintain competitiveness and enhance decision-making in financial markets.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Central African CFA Franc: Overview, Historical Context, and Economic Impact (Algo Trading)"
+title: "Central African CFA Franc: Overview, Historical Context, and Economic Impact"
 description: "Explore the Central African CFA Franc its economic significance in six Central African nations and the impact of algorithmic trading on regional financial markets."
 ---
 

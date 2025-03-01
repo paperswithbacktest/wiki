@@ -1,5 +1,5 @@
 ---
-title: "Bank Panic of 1907: Causes and Effects (Algo Trading)"
+title: "Bank Panic of 1907: Causes and Effects"
 description: "Explore the causes and effects of the Bank Panic of 1907 to gain insights into financial crises and understand the evolution of modern economic resilience."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Financial Ratios in the Airline Industry (Algo Trading)"
+title: "Financial Ratios in the Airline Industry"
 description: "Explore the crucial role of financial ratios within the dynamic airline industry, highlighting key areas of liquidity, profitability, and leverage. Delve into the transformative impact of algorithmic trading on aviation finance, offering insights into improved forecasting and investment strategies. Discover how data-driven methodologies can enhance decision-making, minimize risks, and drive innovation in managing airline stocks and other financial activities. This article provides a comprehensive examination of the intersection between financial ratios and algorithmic trading, aiming to equip stakeholders with the knowledge to leverage these tools for strategic advancements in aviation finance."
 ---
 

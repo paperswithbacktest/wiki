@@ -1,5 +1,5 @@
 ---
-title: "Correlation Coefficient and Stock Market Returns (Algo Trading)"
+title: "Correlation Coefficient and Stock Market Returns"
 description: "Explore the relationship between correlation coefficients and stock market returns in algorithmic trading to enhance investment strategies and optimize portfolio performance."
 ---
 

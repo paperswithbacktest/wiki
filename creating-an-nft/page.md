@@ -1,5 +1,5 @@
 ---
-title: "Creating an NFT (Algo Trading)"
+title: "Creating an NFT"
 description: "Explore the dynamic world of NFT creation focusing on innovative blockchain selections trading strategies and marketplace dynamics to drive NFT success"
 ---
 

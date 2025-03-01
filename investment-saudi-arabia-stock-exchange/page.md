@@ -1,5 +1,5 @@
 ---
-title: "Investment in the Saudi Arabia Stock Exchange (Algo Trading)"
+title: "Investment in the Saudi Arabia Stock Exchange"
 description: "Explore algorithmic trading strategies for the Saudi Arabia Stock Exchange Tadawul offering dynamic opportunities in a rapidly evolving market landscape."
 ---
 

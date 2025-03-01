@@ -1,5 +1,5 @@
 ---
-title: "Linden Dollar: Overview, Functionality, and Tax Considerations (Algo Trading)"
+title: "Linden Dollar: Overview, Functionality, and Tax Considerations"
 description: "Explore the Linden Dollar as a virtual currency in Second Life its role in the digital economy algorithmic trading strategies and the tax implications involved."
 ---
 

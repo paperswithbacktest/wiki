@@ -1,5 +1,5 @@
 ---
-title: "Earnings Announcements and Their Market Impact (Algo Trading)"
+title: "Earnings Announcements and Their Market Impact"
 description: "Explore the market impact of earnings announcements and learn how algorithmic trading can optimize strategies during earnings seasons for improved outcomes."
 ---
 

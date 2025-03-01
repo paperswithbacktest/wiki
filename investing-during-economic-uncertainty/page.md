@@ -1,5 +1,5 @@
 ---
-title: "Investing During Economic Uncertainty (Algo Trading)"
+title: "Investing During Economic Uncertainty"
 description: "Discover effective investment strategies like algorithmic trading to navigate economic uncertainty and enhance financial outcomes in volatile market conditions."
 ---
 

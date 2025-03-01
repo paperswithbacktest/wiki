@@ -1,5 +1,5 @@
 ---
-title: "Investor Communication Techniques (Algo Trading)"
+title: "Investor Communication Techniques"
 description: "Learn effective investor communication by mastering investment language and algorithmic trading. Enhance decision-making and optimize financial outcomes confidently."
 ---
 

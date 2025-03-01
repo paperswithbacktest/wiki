@@ -1,5 +1,5 @@
 ---
-title: "Commodity Versus Product (Algo Trading)"
+title: "Commodity Versus Product"
 description: "Explore the intersection of commodities and algorithmic trading Discover how this combination enhances trading strategies by leveraging speed precision and market insights"
 ---
 

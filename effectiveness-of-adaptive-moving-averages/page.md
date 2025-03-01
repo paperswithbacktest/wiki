@@ -1,5 +1,5 @@
 ---
-title: "Effectiveness of Adaptive Moving Averages (Algo Trading)"
+title: "Effectiveness of Adaptive Moving Averages"
 description: "Explore the role of adaptive moving averages in algo trading Learn how KAMA can optimize trading decisions by minimizing market noise and signaling true trends"
 ---
 

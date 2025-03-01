@@ -1,5 +1,5 @@
 ---
-title: "Impact of Oil Prices on Venezuela's Economy (Algo Trading)"
+title: "Impact of Oil Prices on Venezuela's Economy"
 description: "Explore the intricate impact of oil price fluctuations on Venezuela's economy and discover how algorithmic trading offers potential solutions for economic stability."
 ---
 

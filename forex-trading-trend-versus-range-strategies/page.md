@@ -1,5 +1,5 @@
 ---
-title: "Forex Trading: Trend Versus Range Strategies (Algo Trading)"
+title: "Forex Trading: Trend Versus Range Strategies"
 description: "Explore Forex trend and range strategies enhanced by algo trading Uncover the benefits and challenges of these techniques for smart trading decisions"
 ---
 

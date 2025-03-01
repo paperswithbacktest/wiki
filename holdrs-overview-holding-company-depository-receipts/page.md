@@ -1,5 +1,5 @@
 ---
-title: "HOLDRs: Overview of Holding Company Depository Receipts (Algo Trading)"
+title: "HOLDRs: Overview of Holding Company Depository Receipts"
 description: "Discover HOLDRs and how they contributed to diversified investment. Learn about algorithmic trading's role in modern finance and its evolution from fixed structures like HOLDRs."
 ---
 

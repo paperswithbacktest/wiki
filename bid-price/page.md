@@ -1,5 +1,5 @@
 ---
-title: "Bid price (Algo Trading)"
+title: "Bid price"
 description: The article offers a detailed exploration of the bid price in algorithmic trading, highlighting its significance as the highest price a buyer is willing to pay for an asset. It explains the role of bid prices in understanding market dynamics, liquidity, and their critical influence on trading decisions and strategies. Readers will learn about the relationship between bid and ask prices and how the bid-ask spread reflects market conditions. The piece also investigates into the application of bid prices in algorithmic trading strategies, such as market-making, and the impact on decision-making for optimal trade execution.
 ---
 

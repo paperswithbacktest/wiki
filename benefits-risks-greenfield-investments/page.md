@@ -1,5 +1,5 @@
 ---
-title: "Benefits and Risks of Greenfield Investments (Algo Trading)"
+title: "Benefits and Risks of Greenfield Investments"
 description: "Discover the benefits and risks of greenfield investments and algorithmic trading in foreign direct investments Explore their impact on global economic strategy"
 ---
 

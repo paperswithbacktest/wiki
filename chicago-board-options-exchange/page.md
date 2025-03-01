@@ -1,5 +1,5 @@
 ---
-title: "Chicago Board Options Exchange (Algo Trading)"
+title: "Chicago Board Options Exchange"
 description: "Explore CBOE's role in modern trading with insights into its algorithmic strategies that enhance efficiency and innovation in financial markets."
 ---
 

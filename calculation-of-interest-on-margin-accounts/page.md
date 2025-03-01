@@ -1,5 +1,5 @@
 ---
-title: "Calculation of Interest on Margin Accounts (Algo Trading)"
+title: "Calculation of Interest on Margin Accounts"
 description: "Explore how interest charges affect margin accounts in algo trading Learn to optimize trading strategies by understanding interest calculations and risks"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Flash crash dynamics (Algo Trading)"
+title: "Flash crash dynamics"
 description: "Explore the complexities of algorithmic trading and flash crashes uncovering their causes and effects Learn strategies to safeguard investments from rapid market shifts"
 ---
 

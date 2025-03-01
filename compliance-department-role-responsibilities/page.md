@@ -1,5 +1,5 @@
 ---
-title: "Compliance Department: Role and Responsibilities (Algo Trading)"
+title: "Compliance Department: Role and Responsibilities"
 description: "Explore the vital role and responsibilities of compliance departments in algorithmic trading, focusing on adherence to regulations and safeguarding market integrity."
 ---
 

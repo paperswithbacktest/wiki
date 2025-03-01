@@ -1,5 +1,5 @@
 ---
-title: "Basket of Goods and CPI Calculation (Algo Trading)"
+title: "Basket of Goods and CPI Calculation"
 description: "Discover the intricacies of the Consumer Price Index and its impact on economic strategies on this page. Learn how the CPI, an essential tool for measuring inflation, influences policy, investment, and business decisions through its comprehensive analysis of price changes in a representative basket of goods. Explore the methodologies behind CPI calculation and the role of algorithmic trading in leveraging this data for financial advantage. Understand the importance of CPI in forecasting economic trends and crafting informed trading strategies."
 ---
 

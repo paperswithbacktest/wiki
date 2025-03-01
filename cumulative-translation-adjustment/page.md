@@ -1,5 +1,5 @@
 ---
-title: "Cumulative Translation Adjustment (Algo Trading)"
+title: "Cumulative Translation Adjustment"
 description: "Explore the importance of cumulative translation adjustment and algorithmic trading in Forex to understand their impact on global financial market operations."
 ---
 

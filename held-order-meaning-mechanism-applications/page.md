@@ -1,5 +1,5 @@
 ---
-title: "Held Order: Meaning, Mechanism, and Applications (Algo Trading)"
+title: "Held Order: Meaning, Mechanism, and Applications"
 description: "Explore the fundamentals of held orders in algorithmic trading. Learn how these orders provide immediate execution, ensuring swift and effective trade actions."
 ---
 

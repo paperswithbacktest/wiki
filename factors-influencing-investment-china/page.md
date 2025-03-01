@@ -1,5 +1,5 @@
 ---
-title: "Factors Influencing Investment in China (Algo Trading)"
+title: "Factors Influencing Investment in China"
 description: "Explore factors influencing investment in China's vibrant economy highlighting how economic reforms and algorithmic trading shape its financial markets."
 ---
 

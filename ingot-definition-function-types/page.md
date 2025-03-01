@@ -1,5 +1,5 @@
 ---
-title: "Ingot: Definition, Function, and Types (Algo Trading)"
+title: "Ingot: Definition, Function, and Types"
 description: "Explore the essential role of metal ingots in industry and trading, linking their historical importance to modern algorithmic trading in metal commodities."
 ---
 

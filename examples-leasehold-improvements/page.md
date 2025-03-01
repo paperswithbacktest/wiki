@@ -1,5 +1,5 @@
 ---
-title: "Examples of Leasehold Improvements (Algo Trading)"
+title: "Examples of Leasehold Improvements"
 description: "Explore the comprehensive guide on leasehold improvements and property renovations, essential for landlords, tenants, and investors seeking to enhance property value and functionality. Discover differences between tenant upgrades and leasehold improvements, how they contribute to transforming spaces, and the role of algorithmic trading in enhancing real estate investments. Understand who bears the cost of improvements, potential tax implications, and planning strategies to optimize returns in a competitive property market. This insightful content will help you navigate property management complexities effectively."
 ---
 

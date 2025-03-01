@@ -1,5 +1,5 @@
 ---
-title: "Contractions: Mechanism, Examples, and Stages (Algo Trading)"
+title: "Contractions: Mechanism, Examples, and Stages"
 description: "Explore the intricate relationship between economic contractions and algorithmic trading in the financial world. This article investigates into the stages of economic contractions and their impact on trading strategies. It also examines the development stages of algorithmic trading strategies offering insights into this dynamic and evolving field to help you navigate market cycles with strategic foresight."
 ---
 

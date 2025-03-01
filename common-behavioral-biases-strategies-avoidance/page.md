@@ -1,5 +1,5 @@
 ---
-title: "Common Behavioral Biases and Strategies for Avoidance (Algo Trading)"
+title: "Common Behavioral Biases and Strategies for Avoidance"
 description: "Learn about common behavioral biases in trading and strategies for their avoidance, focusing on how these biases impact algorithmic trading systems. Understand the psychological tendencies like overconfidence and loss aversion, their effect on decision-making, and the importance of mitigating these biases to enhance financial strategies. Explore methods to create more robust algorithms by acknowledging biases and employing rigorous development and validation procedures."
 ---
 

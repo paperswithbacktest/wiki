@@ -1,5 +1,5 @@
 ---
-title: "Alternative Dispute Resolution (Algo Trading)"
+title: "Alternative Dispute Resolution"
 description: "Explore the evolving landscape of conflict management and financial markets through the integration of Alternative Dispute Resolution (ADR) and algorithmic trading. ADR techniques such as mediation and arbitration offer efficient and amicable dispute resolutions without the need for litigation, while algorithmic trading revolutionizes financial transactions by automating decisions with speed and precision. This convergence, fueled by technological advancements, promises enhanced efficiency and reduced biases in both conflict resolution and trading activities, highlighting the significance of understanding their interconnection for improved outcomes in legal and financial sectors."
 ---
 

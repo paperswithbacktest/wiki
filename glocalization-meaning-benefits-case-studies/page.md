@@ -1,5 +1,5 @@
 ---
-title: "Glocalization: Meaning, Benefits, and Case Studies (Algo Trading)"
+title: "Glocalization: Meaning, Benefits, and Case Studies"
 description: "Explore the meaning and benefits of glocalization in the context of algorithmic trading uncovering how global strategies adapt to local markets for performance gains."
 ---
 

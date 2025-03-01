@@ -1,5 +1,5 @@
 ---
-title: "Certificate of Accrual on Treasury Securities (CATS) (Algo Trading)"
+title: "Certificate of Accrual on Treasury Securities (CATS)"
 description: "Explore the features and historical relevance of Certificate of Accrual on Treasury Securities (CATS) in the context of zero-coupon bonds and algo trading strategies."
 ---
 

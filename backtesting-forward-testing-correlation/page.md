@@ -1,5 +1,5 @@
 ---
-title: "Backtesting and Forward Testing: Role of Correlation (Algo Trading)"
+title: "Backtesting and Forward Testing: Role of Correlation"
 description: "Explore the role of correlation in backtesting and forward testing for algorithmic trading Discover how these methods ensure robust and reliable trading strategies"
 ---
 

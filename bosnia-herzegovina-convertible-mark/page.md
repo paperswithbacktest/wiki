@@ -1,5 +1,5 @@
 ---
-title: "Bosnia and Herzegovina Convertible Mark (Algo Trading)"
+title: "Bosnia and Herzegovina Convertible Mark"
 description: "Explore the integral role of the Bosnia and Herzegovina Convertible Mark (BAM) in algorithmic trading, focusing on its stable euro peg and economic influences."
 ---
 

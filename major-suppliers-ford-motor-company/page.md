@@ -1,5 +1,5 @@
 ---
-title: "Major Suppliers to Ford Motor Company (Algo Trading)"
+title: "Major Suppliers to Ford Motor Company"
 description: "Discover the crucial role of major suppliers to Ford Motor Company and explore how algorithmic trading optimizes their automotive supply chain."
 ---
 

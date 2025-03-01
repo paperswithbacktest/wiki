@@ -1,5 +1,5 @@
 ---
-title: "BGC Group Inc. (Algo Trading)"
+title: "BGC Group Inc."
 description: "BGC Group leads the evolution of algorithmic trading, providing sophisticated platforms for efficient, data-driven investment strategies in modern financial markets."
 ---
 

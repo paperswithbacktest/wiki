@@ -1,5 +1,5 @@
 ---
-title: "Blockchain ETF Overview and Risks (Algo Trading)"
+title: "Blockchain ETF Overview and Risks"
 description: "Explore the potential and risks of investing in blockchain ETFs and algorithmic trading. Learn about market trends, regulatory challenges, and risk management strategies."
 ---
 

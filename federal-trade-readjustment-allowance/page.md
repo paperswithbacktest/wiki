@@ -1,5 +1,5 @@
 ---
-title: "Federal Trade Readjustment Allowance (Algo Trading)"
+title: "Federal Trade Readjustment Allowance"
 description: "The Federal Trade Readjustment Allowance provides crucial support to workers affected by foreign trade offering financial aid and retraining for new career paths."
 ---
 

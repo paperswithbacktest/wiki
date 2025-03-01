@@ -1,5 +1,5 @@
 ---
-title: "Division of Korea: Historical Causes (Algo Trading)"
+title: "Division of Korea: Historical Causes"
 description: "Explore the historical and economic causes of Korea's division focusing on South Korea's rise as an economic powerhouse and advancements in algorithmic trading."
 ---
 

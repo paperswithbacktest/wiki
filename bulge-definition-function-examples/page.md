@@ -1,5 +1,5 @@
 ---
-title: "Bulge: Definition, Function, and Examples (Algo Trading)"
+title: "Bulge: Definition, Function, and Examples"
 description: "Explore the role of a 'bulge' in Bollinger Bands for algorithmic trading Learn how it signals market trends and boosts trading strategies efficiently"
 ---
 

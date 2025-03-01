@@ -1,5 +1,5 @@
 ---
-title: "Grant Deed in Real Estate (Algo Trading)"
+title: "Grant Deed in Real Estate"
 description: "Explore the intersection of real estate and algo trading, focusing on how grant deeds assure ownership transfers and how technology optimizes investment strategies."
 ---
 

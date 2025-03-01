@@ -1,5 +1,5 @@
 ---
-title: "Economy and Significance of the São Tomé and Príncipe Dobra (Algo Trading)"
+title: "Economy and Significance of the São Tomé and Príncipe Dobra"
 description: "Explore the role of the São Tomé and Príncipe dobra in global markets as algorithmic trading offers transformative financial opportunities for this island nation."
 ---
 

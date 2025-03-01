@@ -1,5 +1,5 @@
 ---
-title: "Hoarding in Commodities (Algo Trading)"
+title: "Hoarding in Commodities"
 description: "Explore the dynamic influences of hoarding and algorithmic trading in commodities markets uncovering their roles in price volatility and market efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Global Corporate Tax Rates (Algo Trading)"
+title: "Comparison of Global Corporate Tax Rates"
 description: "Explore how global corporate tax rates influence algorithmic trading strategies in an interconnected economy and why businesses must adapt to evolving tax laws."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Continuation Patterns in Trading (Algo Trading)"
+title: "Continuation Patterns in Trading"
 description: "Explore continuation patterns in algorithmic trading to forecast market trends and make informed trading decisions. Learn how to identify and apply these key chart patterns."
 ---
 

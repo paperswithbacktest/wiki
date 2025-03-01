@@ -1,5 +1,5 @@
 ---
-title: "Industry Sectors (Algo Trading)"
+title: "Industry Sectors"
 description: "Classifying industry and economic sectors helps businesses understand the market, make informed decisions, and develop effective strategies. Algo trading leverages these classifications to automate trades using market data and trends. Standardized frameworks like TRBC and GICS enable consistent economic analysis, aiding sector-specific assessments. Integrating business classification with algo trading offers insights for optimizing investment returns."
 ---
 

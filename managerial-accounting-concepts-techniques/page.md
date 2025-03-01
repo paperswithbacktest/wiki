@@ -1,5 +1,5 @@
 ---
-title: "Managerial Accounting Concepts and Techniques (Algo Trading)"
+title: "Managerial Accounting Concepts and Techniques"
 description: "Explore the synergy between managerial accounting and algorithmic trading in modern finance Enhance decision-making and gain a competitive edge in dynamic markets"
 ---
 

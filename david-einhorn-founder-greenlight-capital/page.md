@@ -1,5 +1,5 @@
 ---
-title: "David Einhorn, Founder of Greenlight Capital (Algo Trading)"
+title: "David Einhorn, Founder of Greenlight Capital"
 description: "Discover the unique investment strategies of David Einhorn and Greenlight Capital as they navigate the evolving financial landscape amid algorithmic trading trends."
 ---
 

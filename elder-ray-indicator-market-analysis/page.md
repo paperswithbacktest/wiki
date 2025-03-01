@@ -1,5 +1,5 @@
 ---
-title: "Elder Ray Indicator in Market Analysis (Algo Trading)"
+title: "Elder Ray Indicator in Market Analysis"
 description: "Explore the Elder Ray Indicator's role in market analysis, highlighting its integration in algorithmic trading to forecast price shifts, trends, and transitions."
 ---
 

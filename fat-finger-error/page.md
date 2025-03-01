@@ -1,5 +1,5 @@
 ---
-title: "Fat Finger Error (Algo Trading)"
+title: "Fat Finger Error"
 description: "Explore common trading errors like fat finger mistakes and algorithmic glitches Learn their causes impact and prevention strategies to safeguard trades"
 ---
 

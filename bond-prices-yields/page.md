@@ -1,5 +1,5 @@
 ---
-title: "Bond Prices and Yields (Algo Trading)"
+title: "Bond Prices and Yields"
 description: "Explore bond prices and yields essential for navigating the financial market with algorithmic trading shaping modern investment strategies enhancing efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Insights from Leading Financial Advisors for Young Investors (Algo Trading)"
+title: "Insights from Leading Financial Advisors for Young Investors"
 description: "Explore dynamic insights from leading financial advisors to optimize young investors' strategies in algorithmic trading for enhanced financial growth and success."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Key Commodities for Automotive Manufacturing (Algo Trading)"
+title: "Key Commodities for Automotive Manufacturing"
 description: "Explore how essential commodities like steel and aluminum drive automotive manufacturing and understand the impact of algorithmic trading on commodity markets."
 ---
 

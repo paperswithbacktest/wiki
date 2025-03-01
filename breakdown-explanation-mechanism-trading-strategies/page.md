@@ -1,5 +1,5 @@
 ---
-title: "Breakdown: Explanation, Mechanism, and Trading Strategies (Algo Trading)"
+title: "Breakdown: Explanation, Mechanism, and Trading Strategies"
 description: "Explore the dynamics of market breakdowns with insights into algorithmic trading strategies technical analysis tools and methods to capitalize on price shifts"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Backtesting Value-at-Risk Fundamentals (Algo Trading)"
+title: "Backtesting Value-at-Risk Fundamentals"
 description: "Improve your understanding of Backtesting Value-at-Risk in algo trading Explore methodologies to enhance risk management accuracy and financial stability"
 ---
 

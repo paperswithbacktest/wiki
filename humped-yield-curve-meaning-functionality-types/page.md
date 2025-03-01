@@ -1,5 +1,5 @@
 ---
-title: "Humped Yield Curve: Meaning, Functionality, and Types (Algo Trading)"
+title: "Humped Yield Curve: Meaning, Functionality, and Types"
 description: "Explore the unique characteristics of a humped yield curve and its impact on finance and algorithmic trading strategies Learn how it shapes investor insights"
 ---
 

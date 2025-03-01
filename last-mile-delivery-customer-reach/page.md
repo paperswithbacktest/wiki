@@ -1,5 +1,5 @@
 ---
-title: "Last Mile Delivery in Customer Reach (Algo Trading)"
+title: "Last Mile Delivery in Customer Reach"
 description: "Explore the transformative impact of algorithmic trading and AI on last mile delivery in logistics Discover solutions for optimizing efficiency and customer reach"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Impact of Interest Rates on Mutual Funds (Algo Trading)"
+title: "Impact of Interest Rates on Mutual Funds"
 description: "Explore how interest rates affect mutual funds and algorithmic trading Learn strategies to optimize your investment portfolio in today's financial landscape"
 ---
 

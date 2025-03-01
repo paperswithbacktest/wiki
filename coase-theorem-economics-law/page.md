@@ -1,5 +1,5 @@
 ---
-title: "Coase Theorem in Economics and Law (Algo Trading)"
+title: "Coase Theorem in Economics and Law"
 description: "Explore the influence of the Coase Theorem on law, economics, and algo trading Learn how transaction costs shape market dynamics and efficiency."
 ---
 

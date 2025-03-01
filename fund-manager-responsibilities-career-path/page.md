@@ -1,5 +1,5 @@
 ---
-title: "Fund Manager: Responsibilities and Career Path (Algo Trading)"
+title: "Fund Manager: Responsibilities and Career Path"
 description: "Explore the responsibilities and career path of fund managers in algorithmic trading as they navigate dynamic markets utilizing technology to optimize investment strategies."
 ---
 

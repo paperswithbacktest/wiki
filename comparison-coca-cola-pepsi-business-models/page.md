@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Coca-Cola and Pepsi Business Models (Algo Trading)"
+title: "Comparison of Coca-Cola and Pepsi Business Models"
 description: "Explore the business models of Coca-Cola and Pepsi, their rivalry, and how algorithmic trading may impact their strategies in the beverage industry."
 ---
 

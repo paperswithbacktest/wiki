@@ -1,5 +1,5 @@
 ---
-title: "Irredeemable Convertible Unsecured Loan Stock (Algo Trading)"
+title: "Irredeemable Convertible Unsecured Loan Stock"
 description: "Explore the dynamic intersection of ICULS and algo trading a blend of hybrid securities and advanced trading technology enhancing modern investment strategies."
 ---
 

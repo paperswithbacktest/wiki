@@ -1,5 +1,5 @@
 ---
-title: "Committee on Payment and Settlement Systems Overview (Algo Trading)"
+title: "Committee on Payment and Settlement Systems Overview"
 description: "Discover the evolution of payment systems and algorithmic trading's impact as the Committee on Payments and Market Infrastructures ensures financial stability."
 ---
 

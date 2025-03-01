@@ -1,5 +1,5 @@
 ---
-title: "Identifying Financial Distress Through Financial Ratios (Algo Trading)"
+title: "Identifying Financial Distress Through Financial Ratios"
 description: "Explore how financial ratios help identify financial distress in companies. Learn to leverage these tools with algorithmic trading to enhance investment strategies."
 ---
 

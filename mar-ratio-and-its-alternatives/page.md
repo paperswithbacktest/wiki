@@ -1,5 +1,5 @@
 ---
-title: "MAR Ratio and Its Alternatives (Algo Trading)"
+title: "MAR Ratio and Its Alternatives"
 description: "Discover how the MAR Ratio helps investors evaluate risk-adjusted returns in algorithmic trading and explore its applications benefits and its comparison with other metrics."
 ---
 

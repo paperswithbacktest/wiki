@@ -1,5 +1,5 @@
 ---
-title: "Local vs. Global Models (Algo Trading)"
+title: "Local vs. Global Models"
 description: "Explore the differences between local and global models in algorithmic trading Discover how each model can optimize your trading strategies and decisions"
 ---
 

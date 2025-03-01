@@ -1,5 +1,5 @@
 ---
-title: "Long Position: Types, Examples, Advantages, and Disadvantages (Algo Trading)"
+title: "Long Position: Types, Examples, Advantages, and Disadvantages"
 description: "Explore long positions in trading including types examples and benefits paired with algorithmic trading insights to optimize strategies for financial success."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Best Buy's Withdrawal from the Chinese Market (Algo Trading)"
+title: "Best Buy's Withdrawal from the Chinese Market"
 description: "Explore Best Buy's venture into China and its strategic challenges in a competitive market while examining how algorithmic trading principles might enhance retail strategies."
 ---
 

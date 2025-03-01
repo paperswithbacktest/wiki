@@ -1,5 +1,5 @@
 ---
-title: "Backstop in Financial Offerings (Algo Trading)"
+title: "Backstop in Financial Offerings"
 description: "Explore how backstop investments secure financial offerings by acting as a safety net when market demand is low enhancing stability and confidence in IPOs and rights issues."
 ---
 

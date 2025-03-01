@@ -1,5 +1,5 @@
 ---
-title: "Contempt of Court: Elements and Example (Algo Trading)"
+title: "Contempt of Court: Elements and Example"
 description: "Explore the legal impacts of contempt of court in algorithmic trading cases where disrupting legal processes and compliance with trading regulations intersect."
 ---
 

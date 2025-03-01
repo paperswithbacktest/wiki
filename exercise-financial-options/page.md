@@ -1,5 +1,5 @@
 ---
-title: "Exercise in Financial Options (Algo Trading)"
+title: "Exercise in Financial Options"
 description: "Explore the synergy of options and algorithmic trading to enhance precision in financial strategies. Learn how automation optimizes risk management."
 ---
 

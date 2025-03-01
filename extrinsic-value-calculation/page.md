@@ -1,5 +1,5 @@
 ---
-title: "Extrinsic Value and Calculation (Algo Trading)"
+title: "Extrinsic Value and Calculation"
 description: "Explore the significance of extrinsic value in options trading and algorithmic strategies where understanding its role in pricing can enhance trading performance."
 ---
 

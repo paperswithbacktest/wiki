@@ -1,5 +1,5 @@
 ---
-title: "Historical Cost Principle and Function (Algo Trading)"
+title: "Historical Cost Principle and Function"
 description: "Explore the integration of historical cost accounting in algorithmic trading Discover how cost principles ensure transparency efficiency and mitigate risks in trading strategies"
 ---
 

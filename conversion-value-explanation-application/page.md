@@ -1,5 +1,5 @@
 ---
-title: "Conversion Value: Explanation and Application (Algo Trading)"
+title: "Conversion Value: Explanation and Application"
 description: "Explore how business metrics and conversion value shape digital marketing and algorithmic trading strategies to optimize growth and efficiency."
 ---
 

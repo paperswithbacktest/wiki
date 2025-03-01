@@ -1,5 +1,5 @@
 ---
-title: "Cryptocurrency Mining Pools (Algo Trading)"
+title: "Cryptocurrency Mining Pools"
 description: "Explore the strategic synergy between cryptocurrency mining pools and algo trading Discover how these domains shape investment opportunities in the digital currency space."
 ---
 

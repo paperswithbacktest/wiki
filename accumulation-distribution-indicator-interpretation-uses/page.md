@@ -1,5 +1,5 @@
 ---
-title: "Accumulation/Distribution Indicator: Interpretation and Uses (Algo Trading)"
+title: "Accumulation/Distribution Indicator: Interpretation and Uses"
 description: "Explore the Accumulation/Distribution Indicator in algo trading and learn how it evaluates market supply-demand dynamics to enhance trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Dual Currency Investment Services (Algo Trading)"
+title: "Dual Currency Investment Services"
 description: "Discover the innovative world of finance with dual currency investment and algorithmic trading services Enhance your strategies for maximizing returns today"
 ---
 

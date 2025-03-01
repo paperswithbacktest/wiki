@@ -1,5 +1,5 @@
 ---
-title: "Commercial Trader: Overview and Operations (Algo Trading)"
+title: "Commercial Trader: Overview and Operations"
 description: "Explore the transformations in trading operations focusing on commercial traders and algorithmic trading to understand modern financial market dynamics and strategies."
 ---
 

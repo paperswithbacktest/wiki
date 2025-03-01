@@ -1,5 +1,5 @@
 ---
-title: "Funding Currency: Overview and Functionality (Algo Trading)"
+title: "Funding Currency: Overview and Functionality"
 description: "Explore the complexities of financial trading with insights into funding currencies, financial instruments, and the role of algorithmic trading in modern markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Gap Risk: Definition and Examples (Algo Trading)"
+title: "Gap Risk: Definition and Examples"
 description: "Explore gap risk in algorithmic trading where abrupt asset price changes present challenges. Learn strategies to manage these risks for better investment outcomes."
 ---
 

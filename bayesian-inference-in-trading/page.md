@@ -1,5 +1,5 @@
 ---
-title: "Bayesian inference in trading (Algo Trading)"
+title: "Bayesian inference in trading"
 description: "Bayesian inference in algorithmic trading enhances decision-making by updating beliefs with new market data, leading to refined predictions and adaptive strategies."
 ---
 

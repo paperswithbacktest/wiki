@@ -1,5 +1,5 @@
 ---
-title: "Excluding Items: Significance and Mechanisms (Algo Trading)"
+title: "Excluding Items: Significance and Mechanisms"
 description: "Enhance your algorithmic trading strategy by mastering item exclusion to filter extraneous data, minimize noise, and focus on vital market trends for optimal results."
 ---
 

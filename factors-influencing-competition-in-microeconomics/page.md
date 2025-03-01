@@ -1,5 +1,5 @@
 ---
-title: "Factors Influencing Competition in Microeconomics (Algo Trading)"
+title: "Factors Influencing Competition in Microeconomics"
 description: "Explore how microeconomic principles shape competitive dynamics and influence algorithmic trading in finance boosting efficiency and market performance."
 ---
 

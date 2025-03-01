@@ -1,5 +1,5 @@
 ---
-title: "Iranian Rial: Overview and Conversion (Algo Trading)"
+title: "Iranian Rial: Overview and Conversion"
 description: "Explore the Iranian Rial's volatility and algorithmic trading strategies in this comprehensive guide to currency conversion and trading opportunities with IRR."
 ---
 

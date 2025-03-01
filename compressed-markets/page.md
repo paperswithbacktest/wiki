@@ -1,5 +1,5 @@
 ---
-title: "Compressed markets (Algo Trading)"
+title: "Compressed markets"
 description: Explore the transformative impact of compressed markets in algorithmic trading where advanced algorithms execute trades rapidly and efficiently. Delve into their role in enhancing profitability by minimizing spreads and slippage while boosting liquidity and transaction speed. Despite their advantages these markets also face challenges like technical glitches and regulatory compliance. Discover the future potential driven by cutting-edge technologies shaping these adaptive trading environments.
 ---
 

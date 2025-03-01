@@ -1,5 +1,5 @@
 ---
-title: "Green Investing (Algo Trading)"
+title: "Green Investing"
 description: "Explore the growing trend of green investing that merges sustainability with financial growth using algorithmic trading to optimize eco-friendly portfolios for impact."
 ---
 

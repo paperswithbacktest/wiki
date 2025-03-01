@@ -1,5 +1,5 @@
 ---
-title: "CPI Trading Strategy Explained (Algo Trading)"
+title: "CPI Trading Strategy Explained"
 description: Explore how the Consumer Price Index (CPI) can enhance trading strategies using algorithmic trading. Understand the implications of CPI on financial markets and its influence on economic policies, asset classes, and market volatility. Learn how traders can leverage CPI data in algo trading to optimize performance and decision-making.
 ---
 

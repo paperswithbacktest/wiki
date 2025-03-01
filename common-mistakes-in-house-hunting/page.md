@@ -1,5 +1,5 @@
 ---
-title: "Common Mistakes in House Hunting (Algo Trading)"
+title: "Common Mistakes in House Hunting"
 description: "Discover common mistakes in house hunting and how algorithmic trading impacts real estate markets Equip yourself with knowledge to navigate property investment wisely"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Leverage Ratios in Energy Sector Evaluation (Algo Trading)"
+title: "Leverage Ratios in Energy Sector Evaluation"
 description: "Explore leverage ratios to assess financial health in the energy sector and enhance algorithmic trading strategies Gain insights into key risk metrics"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Cross-market arbitrage (Algo Trading)"
+title: "Cross-market arbitrage"
 description: "Explore the intricacies of cross-market arbitrage leveraging algorithmic trading to exploit price differences across markets with speed and precision."
 ---
 

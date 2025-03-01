@@ -1,5 +1,5 @@
 ---
-title: "Market Disequilibrium: Causes and Examples (Algo Trading)"
+title: "Market Disequilibrium: Causes and Examples"
 description: "Explore the intricate world of market disequilibrium in this insightful article. Delve into the causes of economic imbalances, including supply and demand discrepancies, market dynamics, and the impact of algorithmic trading. Discover how historical events like the Great Depression and the 2008 financial crisis provide valuable lessons in understanding market responses to shocks. Learn about the role of technological advancements in addressing market challenges and promoting stability through tools such as big data, machine learning, and blockchain. This comprehensive overview offers pathways toward sustainable growth in today's ever-evolving economic landscape."
 ---
 

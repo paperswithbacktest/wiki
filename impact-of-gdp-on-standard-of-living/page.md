@@ -1,5 +1,5 @@
 ---
-title: "Impact of GDP on Standard of Living (Algo Trading)"
+title: "Impact of GDP on Standard of Living"
 description: "Discover how the intricate interaction between GDP, standard of living, and algorithmic trading shapes global economies. This article investigates into GDP's role in economic health assessment, while addressing its limitations in capturing quality of life. Explore how algorithmic trading influences economic stability and growth, emphasizing the need for balanced regulation. Gain insights into these complex relationships and their implications for sustainable economic progress and societal development."
 ---
 

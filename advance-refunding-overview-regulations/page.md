@@ -1,5 +1,5 @@
 ---
-title: "Advance Refunding: Overview and Regulations (Algo Trading)"
+title: "Advance Refunding: Overview and Regulations"
 description: "Explore advance refunding and algorithmic trading in municipal finance Discover how these strategies reduce costs enhance liquidity and navigate regulations"
 ---
 

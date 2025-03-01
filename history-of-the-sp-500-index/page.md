@@ -1,5 +1,5 @@
 ---
-title: "History of the S&P 500 Index (Algo Trading)"
+title: "History of the S&P 500 Index"
 description: "Explore the history of the S&P 500 and the role algorithmic trading plays in its dynamics, offering insights into its resilience and adaptability."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Eqvilent (Algo Trading)"
+title: "Eqvilent"
 description: "Eqvilent offers cutting-edge algorithmic trading solutions, integrating AI for optimized strategies. Discover efficient, data-driven trading for modern markets."
 ---
 

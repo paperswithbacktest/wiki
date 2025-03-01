@@ -1,5 +1,5 @@
 ---
-title: "Methods for Economical Stock Research and Purchase (Algo Trading)"
+title: "Methods for Economical Stock Research and Purchase"
 description: "Optimize stock research and investments with algorithmic trading for effective portfolio management. Harness data-driven insights and minimize costs for higher returns."
 ---
 

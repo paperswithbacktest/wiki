@@ -1,5 +1,5 @@
 ---
-title: "Contractionary Policy: Overview and Examples (Algo Trading)"
+title: "Contractionary Policy: Overview and Examples"
 description: "Explore the intersection of contractionary policies and algo trading to understand how economic strategies impact financial markets and trading systems."
 ---
 

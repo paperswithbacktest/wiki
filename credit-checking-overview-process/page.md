@@ -1,5 +1,5 @@
 ---
-title: "Credit Checking: Overview and Process (Algo Trading)"
+title: "Credit Checking: Overview and Process"
 description: "Explore the synergy between financial assessments, credit reports, and algo trading to enhance decision-making and gain a strategic edge in complex markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Genesis Securities (Algo Trading)"
+title: "Genesis Securities"
 description: Explore the transformative world of algorithmic trading with Genesis Securities, a leader in developing cutting-edge platforms that elevate trading strategies for financial institutions. Discover how their innovative solutions maximize efficiency and transparency, ensuring rapid trade execution and comprehensive market analysis. With a focus on high-frequency trading, Genesis Securities offers customizable tools designed to meet the evolving demands of the financial markets, empowering traders to achieve optimal performance and capitalize on market opportunities with precision.
 ---
 

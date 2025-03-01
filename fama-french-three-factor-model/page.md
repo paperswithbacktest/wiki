@@ -1,5 +1,5 @@
 ---
-title: "Fama-French Three-Factor model (Algo Trading)"
+title: "Fama-French Three-Factor model"
 description: Explore the Fama-French Three-Factor Model's application in algorithmic trading. Learn how this enhanced asset pricing framework aids in understanding stock returns and informing robust trading strategies by integrating market risk, size, and value factors. Discover how Python facilitates model implementation and backtesting to optimize portfolio performance.
 ---
 

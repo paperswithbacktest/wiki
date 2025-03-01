@@ -1,5 +1,5 @@
 ---
-title: "Comparison of MACD and RSI Indicators (Algo Trading)"
+title: "Comparison of MACD and RSI Indicators"
 description: "Explore the intricate differences between MACD and RSI indicators in algo trading Learn how these tools can enhance trading strategies and market analysis"
 ---
 

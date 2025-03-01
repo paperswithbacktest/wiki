@@ -1,5 +1,5 @@
 ---
-title: "Expensive Neighborhoods in London (Algo Trading)"
+title: "Expensive Neighborhoods in London"
 description: "Explore London's most expensive neighborhoods and learn how algorithmic trading is revolutionizing real estate investments with data-driven insights."
 ---
 

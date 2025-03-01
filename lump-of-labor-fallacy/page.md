@@ -1,5 +1,5 @@
 ---
-title: "Lump of Labor Fallacy (Algo Trading)"
+title: "Lump of Labor Fallacy"
 description: "Explore the impact of the lump of labor fallacy on job markets and the role of algorithmic trading in shaping the global economy and labor dynamics."
 ---
 

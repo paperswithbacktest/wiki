@@ -1,5 +1,5 @@
 ---
-title: "Factors to Consider When Buying a House Near an Airport (Algo Trading)"
+title: "Factors to Consider When Buying a House Near an Airport"
 description: "Discover how airport proximity influences real estate values and how algorithmic trading can optimize investment strategies in this complex property market."
 ---
 

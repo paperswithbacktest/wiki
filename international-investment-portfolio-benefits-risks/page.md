@@ -1,5 +1,5 @@
 ---
-title: "International Investment Portfolio: Benefits and Risks (Algo Trading)"
+title: "International Investment Portfolio: Benefits and Risks"
 description: "Explore the advantages and risks of international investment portfolios and discover how algorithmic trading can enhance diversification and manage complexities."
 ---
 

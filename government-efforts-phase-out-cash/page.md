@@ -1,5 +1,5 @@
 ---
-title: "Government Efforts to Phase Out Cash (Algo Trading)"
+title: "Government Efforts to Phase Out Cash"
 description: "Explore the worldwide shift towards a cashless society as governments embrace digital currencies and advanced algorithmic trading in the evolving financial landscape."
 ---
 

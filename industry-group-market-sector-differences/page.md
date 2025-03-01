@@ -1,5 +1,5 @@
 ---
-title: "Industry Group and Market Sector Differences (Algo Trading)"
+title: "Industry Group and Market Sector Differences"
 description: "Explore how industry groups and market sectors shape algorithmic trading in global markets. Understand GICS's role in classifying sectors for strategic trading decisions."
 ---
 

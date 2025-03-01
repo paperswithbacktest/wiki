@@ -1,5 +1,5 @@
 ---
-title: "Largest Global Corn Producers (Algo Trading)"
+title: "Largest Global Corn Producers"
 description: "Explore the dynamics of global corn production and the impact of algorithmic trading on markets Discover trends challenges and major corn producers worldwide"
 ---
 

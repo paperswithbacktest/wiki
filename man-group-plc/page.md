@@ -1,5 +1,5 @@
 ---
-title: "Man Group PLC (Algo Trading)"
+title: "Man Group PLC"
 description: "Discover Man Group's evolution into a global investment leader known for hedge fund expertise and pioneering algorithmic trading. Explore its innovative strategies."
 ---
 

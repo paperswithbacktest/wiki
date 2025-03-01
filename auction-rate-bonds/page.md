@@ -1,5 +1,5 @@
 ---
-title: "Auction Rate Bonds (Algo Trading)"
+title: "Auction Rate Bonds"
 description: "Explore Auction Rate Bonds with Dutch auction interest rates and long-term maturity features. Understand their role and potential in algorithmic trading for liquidity."
 ---
 

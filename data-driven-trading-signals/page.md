@@ -1,5 +1,5 @@
 ---
-title: "Data-Driven Trading Signals (Algo Trading)"
+title: "Data-Driven Trading Signals"
 description: "Discover how data-driven trading signals enhance algorithmic trading, optimizing strategies for speed and accuracy in financial markets through systematic insights."
 ---
 

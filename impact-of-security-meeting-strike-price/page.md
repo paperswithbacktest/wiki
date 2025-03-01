@@ -1,5 +1,5 @@
 ---
-title: "Impact of Security Meeting Its Strike Price (Algo Trading)"
+title: "Impact of Security Meeting Its Strike Price"
 description: "Discover how algorithmic trading impacts options trading by influencing strike prices and optimizing strategies for improved pricing efficiency and trading decisions."
 ---
 

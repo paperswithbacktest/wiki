@@ -1,5 +1,5 @@
 ---
-title: "Certified Valuation Analyst: Role and Responsibilities (Algo Trading)"
+title: "Certified Valuation Analyst: Role and Responsibilities"
 description: "Discover the crucial role of Certified Valuation Analysts in modern business Navigate mergers acquisitions and financial reporting with expert valuation insights"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Infrastructure Investment and Jobs Act Overview (Algo Trading)"
+title: "Infrastructure Investment and Jobs Act Overview"
 description: "Explore the impact of infrastructure investments under the Jobs Act on algorithmic trading with a focus on economic growth job creation and technological advancements."
 ---
 

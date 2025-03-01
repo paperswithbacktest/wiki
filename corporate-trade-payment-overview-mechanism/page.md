@@ -1,5 +1,5 @@
 ---
-title: "Corporate Trade Payment: Overview and Mechanism (Algo Trading)"
+title: "Corporate Trade Payment: Overview and Mechanism"
 description: "Explore the evolution of corporate trade payments from CTP to CTX. Discover how algorithmic trading and modern fintech innovations enhance efficiency in transactions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Brand Name and House Brand Mutual Funds (Algo Trading)"
+title: "Comparison of Brand Name and House Brand Mutual Funds"
 description: "Explore the distinctions between house brand and brand name mutual funds including algorithmic trading's role in enhancing fund management and investment choices."
 ---
 

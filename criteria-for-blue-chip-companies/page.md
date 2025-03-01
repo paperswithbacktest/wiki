@@ -1,5 +1,5 @@
 ---
-title: "Criteria for Blue Chip Companies (Algo Trading)"
+title: "Criteria for Blue Chip Companies"
 description: "Explore the integration of algorithmic trading with blue chip stocks, known for stability and strong market presence, to enhance investment strategies."
 ---
 

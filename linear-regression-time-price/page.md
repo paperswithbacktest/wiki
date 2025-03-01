@@ -1,5 +1,5 @@
 ---
-title: "Linear Regression of Time and Price (Algo Trading)"
+title: "Linear Regression of Time and Price"
 description: "Explore the synergy between time series analysis, linear regression, and algorithmic trading for effective price prediction in financial markets."
 ---
 

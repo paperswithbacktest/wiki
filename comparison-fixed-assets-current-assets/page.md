@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Fixed Assets and Current Assets (Algo Trading)"
+title: "Comparison of Fixed Assets and Current Assets"
 description: "Explore the critical differences between fixed and current assets to enhance your understanding of financial management and algorithmic trading strategies."
 ---
 

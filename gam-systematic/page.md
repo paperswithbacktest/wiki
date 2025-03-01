@@ -1,5 +1,5 @@
 ---
-title: "GAM Systematic (Algo Trading)"
+title: "GAM Systematic"
 description: "Explore GAM Systematic's algo trading to learn how algorithms enhance trade execution, manage portfolios, and propel investment strategies forward."
 ---
 

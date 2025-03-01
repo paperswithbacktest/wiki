@@ -1,5 +1,5 @@
 ---
-title: "FTC Action Against Pandemic Scams (Algo Trading)"
+title: "FTC Action Against Pandemic Scams"
 description: "Explore the FTC's initiatives to counter pandemic scams and algorithmic trading frauds, safeguarding consumers against COVID-19-related deception and financial loss."
 ---
 

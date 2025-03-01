@@ -1,5 +1,5 @@
 ---
-title: "Forex Trading: Monitoring Market Momentum (Algo Trading)"
+title: "Forex Trading: Monitoring Market Momentum"
 description: "Explore forex trading momentum with algorithmic strategies for enhanced decision-making Use indicators like MACD and RSI to optimize trading success"
 ---
 

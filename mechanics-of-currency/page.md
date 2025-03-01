@@ -1,5 +1,5 @@
 ---
-title: "Mechanics of Currency (Algo Trading)"
+title: "Mechanics of Currency"
 description: "Explore the intersection of currency and algorithmic trading in global markets Discover how technology reshapes finance and economic mechanisms worldwide today"
 ---
 

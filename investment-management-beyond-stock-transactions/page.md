@@ -1,5 +1,5 @@
 ---
-title: "Investment Management Beyond Stock Transactions (Algo Trading)"
+title: "Investment Management Beyond Stock Transactions"
 description: "Explore investment management beyond stock transactions with insights on portfolio management and algorithmic trading for optimized financial strategies."
 ---
 

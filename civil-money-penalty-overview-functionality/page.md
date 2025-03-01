@@ -1,5 +1,5 @@
 ---
-title: "Civil Money Penalty: Overview and Functionality (Algo Trading)"
+title: "Civil Money Penalty: Overview and Functionality"
 description: "Explore the essential role of civil money penalties in regulating algorithmic trading. Learn how these penalties deter market misconduct and ensure compliance."
 ---
 

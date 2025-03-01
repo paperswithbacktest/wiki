@@ -1,5 +1,5 @@
 ---
-title: "Benefits of Interest Rate Swaps for Companies (Algo Trading)"
+title: "Benefits of Interest Rate Swaps for Companies"
 description: "Discover how companies benefit from interest rate swaps to manage financial risks and enhance strategies with algorithmic trading in today's dynamic markets."
 ---
 

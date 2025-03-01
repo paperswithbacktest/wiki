@@ -1,5 +1,5 @@
 ---
-title: "Capital and Financial Accounts in Balance of Payments (Algo Trading)"
+title: "Capital and Financial Accounts in Balance of Payments"
 description: "Explore the integration of financial accounts, balance of payments, capital accounts, and algorithmic trading in shaping global finance and market dynamics."
 ---
 

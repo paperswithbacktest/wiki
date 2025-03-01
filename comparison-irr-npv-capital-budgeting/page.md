@@ -1,5 +1,5 @@
 ---
-title: "Comparison of IRR and NPV in Capital Budgeting (Algo Trading)"
+title: "Comparison of IRR and NPV in Capital Budgeting"
 description: "Explore the comparison of Net Present Value and Internal Rate of Return in capital budgeting within algorithmic trading Discover how these tools optimize profitability"
 ---
 

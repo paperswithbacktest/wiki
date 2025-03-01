@@ -1,5 +1,5 @@
 ---
-title: "Buy Quote (Algo Trading)"
+title: "Buy Quote"
 description: "Explore essential financial concepts like buy quotes and algorithmic trading to enhance your stock market strategies and informed decision-making."
 ---
 

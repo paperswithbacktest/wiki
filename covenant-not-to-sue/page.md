@@ -1,5 +1,5 @@
 ---
-title: "Covenant Not to Sue (Algo Trading)"
+title: "Covenant Not to Sue"
 description: "Explore the importance of covenants not to sue in algorithmic trading as a strategic legal tool for risk management and fostering smooth business operations."
 ---
 

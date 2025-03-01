@@ -1,5 +1,5 @@
 ---
-title: "Continuous Quiver Graph (Algo Trading)"
+title: "Continuous Quiver Graph"
 description: "Explore the innovative blend of quantum mechanics graph theory CQG and algorithmic trading transforming financial markets with advanced insights and strategies."
 ---
 

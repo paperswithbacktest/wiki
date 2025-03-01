@@ -1,5 +1,5 @@
 ---
-title: "Inventory Turnover Calculation in Excel (Algo Trading)"
+title: "Inventory Turnover Calculation in Excel"
 description: "Learn how to calculate inventory turnover in Excel to optimize your inventory strategies for better profitability. Integrate these calculations with algo trading for deeper insights."
 ---
 

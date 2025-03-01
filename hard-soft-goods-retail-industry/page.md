@@ -1,5 +1,5 @@
 ---
-title: "Hard and Soft Goods in Retail Industry (Algo Trading)"
+title: "Hard and Soft Goods in Retail Industry"
 description: "Explore how the retail industry leverages algorithmic trading to optimize inventory and marketing strategies for hard and soft goods increasing efficiency and sales."
 ---
 

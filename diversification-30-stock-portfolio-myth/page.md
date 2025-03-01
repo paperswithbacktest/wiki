@@ -1,5 +1,5 @@
 ---
-title: "Diversification and the 30 Stock Portfolio Myth (Algo Trading)"
+title: "Diversification and the 30 Stock Portfolio Myth"
 description: "Explore misconceptions around stock portfolio diversification and discover how algorithmic trading can enhance your investment strategy by optimizing risk and returns."
 ---
 

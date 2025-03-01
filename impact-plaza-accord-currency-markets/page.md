@@ -1,5 +1,5 @@
 ---
-title: "Impact of the Plaza Accord on Currency Markets (Algo Trading)"
+title: "Impact of the Plaza Accord on Currency Markets"
 description: "Explore the Plaza Accord's impact on currency markets and algo trading Discover how this historic agreement influences today's financial strategies and technology"
 ---
 

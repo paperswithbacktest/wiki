@@ -1,5 +1,5 @@
 ---
-title: "Data Center Colocation (Algo Trading)"
+title: "Data Center Colocation"
 description: "Improve your algo trading with data center colocation for instant market reactions and reduced latency essential for high-frequency trading success."
 ---
 

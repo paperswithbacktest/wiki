@@ -1,5 +1,5 @@
 ---
-title: "Japan Credit Rating Agency: Functions and Responsibilities (Algo Trading)"
+title: "Japan Credit Rating Agency: Functions and Responsibilities"
 description: "Explore Japan Credit Rating Agency's vital role in assessing creditworthiness and shaping modern investment and algorithmic trading strategies globally."
 ---
 

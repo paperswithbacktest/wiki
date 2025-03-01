@@ -1,5 +1,5 @@
 ---
-title: "Application of Donchian Channels in Trading Strategies (Algo Trading)"
+title: "Application of Donchian Channels in Trading Strategies"
 description: "Discover how Donchian Channels can enhance algorithmic trading strategies by identifying trends, assessing market volatility, and detecting breakout signals."
 ---
 

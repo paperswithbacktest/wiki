@@ -1,5 +1,5 @@
 ---
-title: "Advantages and Disadvantages of Dollar-Cost Averaging (Algo Trading)"
+title: "Advantages and Disadvantages of Dollar-Cost Averaging"
 description: "Explore the benefits and drawbacks of dollar-cost averaging in algo trading. Learn how this strategy aids in navigating market volatility for long-term gain."
 ---
 

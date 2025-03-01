@@ -1,5 +1,5 @@
 ---
-title: "Arc Elasticity: Midpoint Formula and Example (Algo Trading)"
+title: "Arc Elasticity: Midpoint Formula and Example"
 description: "Explore arc elasticity and the midpoint formula to understand demand response to price shifts, crucial for strategic pricing and algorithmic trading insights."
 ---
 

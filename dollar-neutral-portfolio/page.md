@@ -1,5 +1,5 @@
 ---
-title: "Dollar-neutral portfolio (Algo Trading)"
+title: "Dollar-neutral portfolio"
 description: Explore the intricacies of dollar-neutral strategies in algorithmic trading designed to mitigate market risk by balancing long and short positions to negate broader market movements. By focusing on isolating alpha independent of market direction this approach becomes appealing amid volatility and economic uncertainty highlighting its growing relevance in the fast-paced trading world. Dive into how algorithmic strategies leverage technology to achieve precision in executing balanced investment portfolios enhancing their capability to maintain stability and optimize returns regardless of market conditions.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Business Turnover and Its Importance (Algo Trading)"
+title: "Business Turnover and Its Importance"
 description: "Explore the importance of business turnover in assessing operational efficiency and strategic decision-making in algorithmic trading with expert insights."
 ---
 

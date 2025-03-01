@@ -1,5 +1,5 @@
 ---
-title: "Impact of Fast Fashion on Retail Manufacturing (Algo Trading)"
+title: "Impact of Fast Fashion on Retail Manufacturing"
 description: "Explore the impact of fast fashion on retail manufacturing and algorithmic trading Dynamics within these sectors shape consumer trends and market strategies"
 ---
 

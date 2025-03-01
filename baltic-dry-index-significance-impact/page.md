@@ -1,5 +1,5 @@
 ---
-title: "Baltic Dry Index Significance and Impact (Algo Trading)"
+title: "Baltic Dry Index Significance and Impact"
 description: "Explore the Baltic Dry Index's significance in economic analysis and algorithmic trading highlighting its role in freight rate assessment and market strategy optimization."
 ---
 

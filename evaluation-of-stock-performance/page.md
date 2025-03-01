@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of Stock Performance (Algo Trading)"
+title: "Evaluation of Stock Performance"
 description: "Explore the integration of algorithmic trading in modern investment strategies to enhance stock performance evaluation and financial analysis for informed decisions."
 ---
 

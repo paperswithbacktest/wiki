@@ -1,5 +1,5 @@
 ---
-title: "Market Risk Premium and Expected Market Return (Algo Trading)"
+title: "Market Risk Premium and Expected Market Return"
 description: "Explore the essential roles of market risk premium and expected market return in algorithmic trading to optimize strategies and manage financial risks effectively."
 ---
 

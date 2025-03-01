@@ -1,5 +1,5 @@
 ---
-title: "Boston Options Exchange (Algo Trading)"
+title: "Boston Options Exchange"
 description: "The Boston Options Exchange champions algorithmic trading with its innovative price improvement mechanisms offering speed and precision for optimized trading."
 ---
 

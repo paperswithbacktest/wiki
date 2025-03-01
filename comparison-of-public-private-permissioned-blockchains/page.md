@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Public, Private, and Permissioned Blockchains (Algo Trading)"
+title: "Comparison of Public, Private, and Permissioned Blockchains"
 description: "Explore the distinctions between public private and permissioned blockchains in algorithmic trading Discover how blockchain enhances transparency security and efficiency in trading systems"
 ---
 

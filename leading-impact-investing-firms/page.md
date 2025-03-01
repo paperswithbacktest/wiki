@@ -1,5 +1,5 @@
 ---
-title: "Leading Impact Investing Firms (Algo Trading)"
+title: "Leading Impact Investing Firms"
 description: "Explore how leading impact investing firms use algotrading to enhance sustainable finance by considering ESG factors, generating social and financial gains."
 ---
 

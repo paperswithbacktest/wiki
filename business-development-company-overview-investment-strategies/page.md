@@ -1,5 +1,5 @@
 ---
-title: "Business Development Company: Overview and Investment Strategies (Algo Trading)"
+title: "Business Development Company: Overview and Investment Strategies"
 description: "Explore investment strategies with Business Development Companies and algorithmic trading Discover how these tools can diversify and optimize your financial portfolio"
 ---
 

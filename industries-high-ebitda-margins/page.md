@@ -1,5 +1,5 @@
 ---
-title: "Industries with High EBITDA Margins (Algo Trading)"
+title: "Industries with High EBITDA Margins"
 description: "Discover industries with high EBITDA margins that showcase strong operational efficiency and profitability through scalable operations and economic advantages."
 ---
 

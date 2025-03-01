@@ -1,5 +1,5 @@
 ---
-title: "Instinet: Overview and Functionality (Algo Trading)"
+title: "Instinet: Overview and Functionality"
 description: "Explore how Instinet, a pioneer in electronic trading platforms, revolutionizes securities trading through algorithmic strategies and sophisticated technologies. Discover its impact on market efficiency and transparency, enabling institutional investors to execute large trades discreetly."
 ---
 

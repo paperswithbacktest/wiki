@@ -1,5 +1,5 @@
 ---
-title: "Forex Spread Betting: Overview and Mechanism (Algo Trading)"
+title: "Forex Spread Betting: Overview and Mechanism"
 description: "Explore the world of forex spread betting and algorithmic trading Understand modern trading mechanisms to gain a strategic edge in global financial markets."
 ---
 

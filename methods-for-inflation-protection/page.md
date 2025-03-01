@@ -1,5 +1,5 @@
 ---
-title: "Methods for Inflation Protection (Algo Trading)"
+title: "Methods for Inflation Protection"
 description: "Explore effective methods for inflation protection through algorithmic trading strategies. Understand how to safeguard investments and optimize returns in a volatile economy."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "DRW Trading Group (Algo Trading)"
+title: "DRW Trading Group"
 description: "Explore DRW Trading Group's innovative approach to algorithmic trading leveraging cutting-edge technology to achieve superior trading outcomes in global markets."
 ---
 

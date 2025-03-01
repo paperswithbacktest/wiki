@@ -1,5 +1,5 @@
 ---
-title: "Common Portfolio Protection Strategies (Algo Trading)"
+title: "Common Portfolio Protection Strategies"
 description: "Explore common portfolio protection strategies and the role of algorithmic trading in optimizing returns while minimizing risks through investment management."
 ---
 

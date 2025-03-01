@@ -1,5 +1,5 @@
 ---
-title: "Factors Leading to Negative Rate of Return (Algo Trading)"
+title: "Factors Leading to Negative Rate of Return"
 description: "Explore the factors causing negative rates of return in algorithmic trading and learn strategies to mitigate risks and enhance investment performance."
 ---
 

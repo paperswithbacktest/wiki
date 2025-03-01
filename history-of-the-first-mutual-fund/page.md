@@ -1,5 +1,5 @@
 ---
-title: "History of the First Mutual Fund (Algo Trading)"
+title: "History of the First Mutual Fund"
 description: "Discover the compelling history of mutual funds and their evolution from 18th-century origins to the impacts of algorithmic trading in today's investment landscape."
 ---
 

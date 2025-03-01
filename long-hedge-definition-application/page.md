@@ -1,5 +1,5 @@
 ---
-title: "Long Hedge: Definition and Application (Algo Trading)"
+title: "Long Hedge: Definition and Application"
 description: "Explore long hedge strategies and algorithmic trading to enhance investment returns and reduce risk. Learn to apply these strategies for better cost stability."
 ---
 

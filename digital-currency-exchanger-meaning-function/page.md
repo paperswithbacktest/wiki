@@ -1,5 +1,5 @@
 ---
-title: "Digital Currency Exchanger: Meaning and Function (Algo Trading)"
+title: "Digital Currency Exchanger: Meaning and Function"
 description: "Explore how digital currency exchangers and algorithmic trading are reshaping finance by enabling seamless crypto-fiat conversions and enhancing trading strategies."
 ---
 

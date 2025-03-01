@@ -1,5 +1,5 @@
 ---
-title: "Cash Flow From Operating Activities and Formulas (Algo Trading)"
+title: "Cash Flow From Operating Activities and Formulas"
 description: "Explore how cash flow from operating activities enhances algorithmic trading strategies by offering insights into a company's financial health and operational efficiency."
 ---
 

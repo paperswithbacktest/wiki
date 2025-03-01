@@ -1,5 +1,5 @@
 ---
-title: "Blockchain Mechanisms Preventing Bitcoin Double-Spending (Algo Trading)"
+title: "Blockchain Mechanisms Preventing Bitcoin Double-Spending"
 description: "Explore how blockchain technology prevents Bitcoin double-spending risks and enhances security. Learn about algorithmic trading's role in cryptocurrency markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Association of Futures Brokers and Dealers (Algo Trading)"
+title: "Association of Futures Brokers and Dealers"
 description: "Discover how futures brokers and algo trading shape modern financial markets by enhancing efficiency and transparency while adhering to regulatory standards."
 ---
 

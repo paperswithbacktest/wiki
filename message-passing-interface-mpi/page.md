@@ -1,5 +1,5 @@
 ---
-title: "Message Passing Interface (MPI) (Algo Trading)"
+title: "Message Passing Interface (MPI)"
 description: Discover how the Message Passing Interface (MPI) enhances algorithmic trading by enabling parallel processing for high-speed, data-intensive tasks. This article examines MPI's role in improving computational efficiency, reducing latency, and supporting real-time data analysis in trading systems. Explore the benefits, technical setup, and challenges of implementing MPI to optimize trade execution and find profitable opportunities in financial markets.
 ---
 

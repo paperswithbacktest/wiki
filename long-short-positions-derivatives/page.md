@@ -1,5 +1,5 @@
 ---
-title: "Long and Short Positions in Derivatives (Algo Trading)"
+title: "Long and Short Positions in Derivatives"
 description: "Explore long and short positions in derivatives to understand how algorithmic trading enhances strategy and precision for traders and investors alike."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "History of the First Cryptocurrency (Algo Trading)"
+title: "History of the First Cryptocurrency"
 description: "Explore the history of Bitcoin the first cryptocurrency and its impact on algorithmic trading Discover Bitcoin's origin decentralization and market growth"
 ---
 

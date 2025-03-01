@@ -1,5 +1,5 @@
 ---
-title: "Effects of Globalization on International Investments and Economies (Algo Trading)"
+title: "Effects of Globalization on International Investments and Economies"
 description: "Explore how globalization impacts international investments and algorithmic trading reshaping economies worldwide. Analyze strategies for navigating global markets."
 ---
 

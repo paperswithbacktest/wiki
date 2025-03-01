@@ -1,5 +1,5 @@
 ---
-title: "Margrabe's formula (Algo Trading)"
+title: "Margrabe's formula"
 description: "Explore Margrabe's formula a key tool in algo trading for pricing exchange options evaluating asset volatilities correlations and aiding decision-making in financial markets."
 ---
 

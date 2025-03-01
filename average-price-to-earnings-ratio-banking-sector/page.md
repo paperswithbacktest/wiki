@@ -1,5 +1,5 @@
 ---
-title: "Average Price-To-Earnings Ratio In The Banking Sector (Algo Trading)"
+title: "Average Price-To-Earnings Ratio In The Banking Sector"
 description: "Explore how algorithmic trading reshapes the banking sector by leveraging the Price-to-Earnings ratio for smarter investment strategies and swift market actions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Gross Cash Recovery: Overview and Mechanism (Algo Trading)"
+title: "Gross Cash Recovery: Overview and Mechanism"
 description: "Discover Gross Cash Recovery and algorithmic trading mechanisms in finance to optimize asset liquidation strategies ensuring stability and minimizing losses."
 ---
 

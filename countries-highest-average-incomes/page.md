@@ -1,5 +1,5 @@
 ---
-title: "Countries With the Highest Average Incomes (Algo Trading)"
+title: "Countries With the Highest Average Incomes"
 description: "Explore the intersection of high average incomes and algorithmic trading in wealthy countries Discover how these factors influence global economic landscapes"
 ---
 

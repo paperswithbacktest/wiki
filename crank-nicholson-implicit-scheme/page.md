@@ -1,5 +1,5 @@
 ---
-title: "Crank-Nicholson Implicit Scheme Explained (Algo Trading)"
+title: "Crank-Nicholson Implicit Scheme Explained"
 description: Discover how the Crank-Nicolson method, a stable and accurate numerical scheme, enhances algorithmic trading by refining derivative pricing models and risk management techniques through the precise solution of complex partial differential equations.
 ---
 

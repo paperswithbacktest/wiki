@@ -1,5 +1,5 @@
 ---
-title: "Dark Forest (Algo Trading)"
+title: "Dark Forest"
 description: "Explore the intricacies of algorithmic trading with Dark Forest, a leader in digital assets, employing advanced strategies to maximize efficiency and transparency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Iron Condor Options Trading (Algo Trading)"
+title: "Iron Condor Options Trading"
 description: "Discover the Iron Condor options trading strategy and its synergy with algorithmic trading on our comprehensive page. Dive into the world of non-directional trading and learn how to generate steady income with controlled risk. Understand how integrating algorithms can enhance trading efficiency and precision for both beginners and experienced investors. Explore methods that blend financial insights with technology to improve portfolio performance."
 ---
 

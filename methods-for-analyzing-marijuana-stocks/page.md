@@ -1,5 +1,5 @@
 ---
-title: "Methods for Analyzing Marijuana Stocks (Algo Trading)"
+title: "Methods for Analyzing Marijuana Stocks"
 description: "Discover effective strategies for investing in marijuana stocks with insights on risk management and algorithmic trading to optimize returns in a volatile market."
 ---
 

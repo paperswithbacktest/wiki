@@ -1,5 +1,5 @@
 ---
-title: "Antidilutive Effects and Examples (Algo Trading)"
+title: "Antidilutive Effects and Examples"
 description: "Explore how antidilutive effects influence algorithmic trading strategies Learn strategies to manage stock dilution and safeguard shareholder value efficiently"
 ---
 

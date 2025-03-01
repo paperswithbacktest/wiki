@@ -1,5 +1,5 @@
 ---
-title: "Bull and Bear Ratio in Market Sentiment (Algo Trading)"
+title: "Bull and Bear Ratio in Market Sentiment"
 description: "Explore how the Bull Bear Ratio, a key market sentiment indicator, influences trading strategies and decision-making in algo trading for optimized investments."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "EBITDA Margin and Investor Insights (Algo Trading)"
+title: "EBITDA Margin and Investor Insights"
 description: "Discover how EBITDA margin analysis and algorithmic trading combine to enhance investment strategies offering insights into profitability and decision-making."
 ---
 

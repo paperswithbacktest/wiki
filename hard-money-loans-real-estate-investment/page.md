@@ -1,5 +1,5 @@
 ---
-title: "Hard Money Loans in Real Estate Investment (Algo Trading)"
+title: "Hard Money Loans in Real Estate Investment"
 description: "Explore the world of hard money loans and algorithmic trading in real estate investment Discover how these financing options can optimize your investment strategy"
 ---
 

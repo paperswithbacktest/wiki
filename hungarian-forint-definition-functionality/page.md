@@ -1,5 +1,5 @@
 ---
-title: "Hungarian Forint: Definition and Functionality (Algo Trading)"
+title: "Hungarian Forint: Definition and Functionality"
 description: "Explore the Hungarian Forint's role in algorithmic trading where rapid execution and strategic approaches navigate the currency's unique forex market dynamics."
 ---
 

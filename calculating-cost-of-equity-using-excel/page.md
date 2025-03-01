@@ -1,5 +1,5 @@
 ---
-title: "Calculating Cost of Equity Using Excel (Algo Trading)"
+title: "Calculating Cost of Equity Using Excel"
 description: "Calculate the cost of equity using Excel to enhance financial analysis and optimize trading strategies. Learn to apply CAPM for precise returns assessment."
 ---
 

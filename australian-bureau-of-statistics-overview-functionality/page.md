@@ -1,5 +1,5 @@
 ---
-title: "Australian Bureau of Statistics: Overview and Functionality (Algo Trading)"
+title: "Australian Bureau of Statistics: Overview and Functionality"
 description: "Discover how the Australian Bureau of Statistics provides essential data for financial markets enabling the development of effective algorithmic trading strategies."
 ---
 

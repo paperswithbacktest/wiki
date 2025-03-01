@@ -1,5 +1,5 @@
 ---
-title: "Kanban System (Algo Trading)"
+title: "Kanban System"
 description: "Discover how Kanban and Lean principles optimize algorithmic trading by enhancing workflow management improving efficiency and minimizing operational risks."
 ---
 

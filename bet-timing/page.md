@@ -1,5 +1,5 @@
 ---
-title: "Bet timing (Algo Trading)"
+title: "Bet timing"
 description: Optimize your algorithmic trading performance by mastering timing strategies that capitalize on market conditions. With precise execution, enhance returns, minimize risks, and manage capital efficiently by leveraging advanced technology and real-time data analysis. Embrace trend-following, mean reversion, and breakout strategies to navigate market complexities and optimize trade timings.
 ---
 

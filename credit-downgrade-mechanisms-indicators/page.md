@@ -1,5 +1,5 @@
 ---
-title: "Credit Downgrade: Mechanisms and Indicators (Algo Trading)"
+title: "Credit Downgrade: Mechanisms and Indicators"
 description: "Explore the mechanisms of credit downgrades and their impact on investors Learn how to leverage algorithmic trading responses to market shifts effectively"
 ---
 

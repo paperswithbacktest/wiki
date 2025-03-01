@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Dividend ETFs and the S&P 500 (Algo Trading)"
+title: "Comparison of Dividend ETFs and the S&P 500"
 description: "Explore the pros and cons of Dividend ETFs the S&P 500 and algorithmic trading With insights on their characteristics risks and potential returns for investors"
 ---
 

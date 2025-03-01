@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Dividend Stocks and Bonds as Investment Options (Algo Trading)"
+title: "Comparison of Dividend Stocks and Bonds as Investment Options"
 description: "Discover the benefits and risks of bonds and dividend stocks as investment options Learn how to integrate them into a successful investment strategy"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "MACD in Detecting Market Trend Reversals (Algo Trading)"
+title: "MACD in Detecting Market Trend Reversals"
 description: "Discover how the Moving Average Convergence Divergence (MACD) indicator aids in detecting market trend reversals enhancing algorithmic trading strategies."
 ---
 

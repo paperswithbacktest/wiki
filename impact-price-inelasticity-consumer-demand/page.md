@@ -1,5 +1,5 @@
 ---
-title: "Impact of Price Inelasticity on Consumer Demand (Algo Trading)"
+title: "Impact of Price Inelasticity on Consumer Demand"
 description: "Explore how price inelasticity affects consumer demand and its impact on economic strategies and algorithmic trading in today's financial markets."
 ---
 

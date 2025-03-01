@@ -1,5 +1,5 @@
 ---
-title: "Earnings Before Tax (EBT) (Algo Trading)"
+title: "Earnings Before Tax (EBT)"
 description: "Explore the significance of Earnings Before Tax (EBT) in assessing a company's operational efficiency, its role in algorithmic trading, and comparisons across companies."
 ---
 

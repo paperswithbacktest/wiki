@@ -1,5 +1,5 @@
 ---
-title: "Green Technology: Overview, Mechanisms, Categories, and Case Studies (Algo Trading)"
+title: "Green Technology: Overview, Mechanisms, Categories, and Case Studies"
 description: "Explore the transformative role of green technology in algorithmic trading Discover how eco-friendly innovations are reshaping investment strategies and industries"
 ---
 

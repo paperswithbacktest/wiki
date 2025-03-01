@@ -1,5 +1,5 @@
 ---
-title: "European Central Bank (Algo Trading)"
+title: "European Central Bank"
 description: "Discover how the European Central Bank (ECB) influences the eurozone's economy and financial markets through its monetary policies. Explore the significance of algorithmic trading in reacting to ECB decisions, and understand the impact of interest rates, asset purchase programs, and market dynamics on investment strategies. Stay informed about the pivotal role of ECB policy in shaping financial conditions and opportunities."
 ---
 

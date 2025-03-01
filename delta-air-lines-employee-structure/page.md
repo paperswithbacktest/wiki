@@ -1,5 +1,5 @@
 ---
-title: "Delta Air Lines Employee Structure (Algo Trading)"
+title: "Delta Air Lines Employee Structure"
 description: "Explore Delta Air Lines' corporate structure focusing on its unique employee management and the strategic role of algorithmic trading in business operations."
 ---
 

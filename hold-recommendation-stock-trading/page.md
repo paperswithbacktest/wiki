@@ -1,5 +1,5 @@
 ---
-title: "Hold Recommendation in Stock Trading (Algo Trading)"
+title: "Hold Recommendation in Stock Trading"
 description: "Explore how hold recommendations in stock trading offer stability by indicating expected market performance, aiding investors in strategic decision-making."
 ---
 

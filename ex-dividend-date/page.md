@@ -1,5 +1,5 @@
 ---
-title: "Ex-Dividend Date and Definition (Algo Trading)"
+title: "Ex-Dividend Date and Definition"
 description: "Gain insights into ex-dividend dates and their impact on stock trading strategies with algorithmic trading methods to optimize returns and manage risk."
 ---
 

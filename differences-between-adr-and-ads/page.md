@@ -1,5 +1,5 @@
 ---
-title: "Differences Between ADR and ADS (Algo Trading)"
+title: "Differences Between ADR and ADS"
 description: "Explore the distinctions and connections between ADRs, ADSs, and algo trading to better understand their roles in shaping global financial markets."
 ---
 

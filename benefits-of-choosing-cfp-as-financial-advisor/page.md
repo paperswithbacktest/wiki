@@ -1,5 +1,5 @@
 ---
-title: "Benefits of Choosing a CFP as a Financial Advisor (Algo Trading)"
+title: "Benefits of Choosing a CFP as a Financial Advisor"
 description: "Choose a CFP as your financial advisor to navigate algorithmic trading with expert guidance ensuring personalized strategies that balance innovation with fiduciary duty."
 ---
 

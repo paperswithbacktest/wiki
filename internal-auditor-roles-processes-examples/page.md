@@ -1,5 +1,5 @@
 ---
-title: "Internal Auditor: Roles, Processes, and Examples (Algo Trading)"
+title: "Internal Auditor: Roles, Processes, and Examples"
 description: "Explore the vital role of internal auditors in algorithmic trading, ensuring compliance, risk management, and operational efficiency in sophisticated trading environments."
 ---
 

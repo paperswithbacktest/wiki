@@ -1,5 +1,5 @@
 ---
-title: "Effective Interest Rate Method for Bond Amortization (Algo Trading)"
+title: "Effective Interest Rate Method for Bond Amortization"
 description: "Explore the effective interest rate method for bond amortization within algorithmic trading strategies. Understand how this accounting process accurately reflects financial activity by matching interest expense with coupon payment periods. Discover the impact of interest rate fluctuations on bond pricing and how understanding these elements can optimize trading strategies and risk management in today's financial markets."
 ---
 

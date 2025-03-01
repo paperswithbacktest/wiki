@@ -1,5 +1,5 @@
 ---
-title: "General Agreements to Borrow: Overview and Analysis (Algo Trading)"
+title: "General Agreements to Borrow: Overview and Analysis"
 description: "Explore the evolution of global finance mechanisms with an analysis of the General Agreements to Borrow and its impact on international economy via algorithmic trading."
 ---
 

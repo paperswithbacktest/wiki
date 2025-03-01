@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Equity REITs and Mortgage REITs: Advantages and Disadvantages (Algo Trading)"
+title: "Comparison of Equity REITs and Mortgage REITs: Advantages and Disadvantages"
 description: "Explore the benefits and challenges of investing in Mortgage and Equity REITs and discover how algorithmic trading can enhance performance in the real estate market."
 ---
 

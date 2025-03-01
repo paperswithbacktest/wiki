@@ -1,5 +1,5 @@
 ---
-title: "Knock-In Options and Their Types (Algo Trading)"
+title: "Knock-In Options and Their Types"
 description: "Explore the strategic benefits of knock-in options in algo trading Discover how these barrier options offer cost-effective ways to target specific market scenarios"
 ---
 

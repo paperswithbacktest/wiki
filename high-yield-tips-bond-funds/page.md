@@ -1,5 +1,5 @@
 ---
-title: "High-Yield TIPS Bond Funds (Algo Trading)"
+title: "High-Yield TIPS Bond Funds"
 description: "Explore the evolving world of high-yield TIPS bond funds and algorithmic trading for robust investment strategies amid economic volatility and inflation fears."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Heating Degree Day Calculation (Algo Trading)"
+title: "Heating Degree Day Calculation"
 description: "Explore how Heating Degree Days impact energy trading and algorithmic trading decisions. Learn to calculate HDD and its role in predicting heating demand and market shifts."
 ---
 

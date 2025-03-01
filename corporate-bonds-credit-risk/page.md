@@ -1,5 +1,5 @@
 ---
-title: "Corporate Bonds and Credit Risk (Algo Trading)"
+title: "Corporate Bonds and Credit Risk"
 description: "Explore the dynamics of corporate bonds and credit risk management through algorithmic trading Discover strategies to optimize investments and maximize returns"
 ---
 

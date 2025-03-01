@@ -1,5 +1,5 @@
 ---
-title: "Call Protection in Finance (Algo Trading)"
+title: "Call Protection in Finance"
 description: "Explore how call protection in bonds and algorithmic trading work together to create resilient investment portfolios while managing risks and enhancing returns."
 ---
 

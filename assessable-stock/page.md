@@ -1,5 +1,5 @@
 ---
-title: "Assessable Stock (Algo Trading)"
+title: "Assessable Stock"
 description: "Explore the crucial elements of stock trading from assessable stocks to algorithmic trading and gain insights into modern investment strategies."
 ---
 

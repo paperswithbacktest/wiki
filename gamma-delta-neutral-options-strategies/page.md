@@ -1,5 +1,5 @@
 ---
-title: "Gamma-Delta Neutral Options Strategies (Algo Trading)"
+title: "Gamma-Delta Neutral Options Strategies"
 description: "Explore gamma-delta neutral options strategies for risk management in algorithmic trading. Learn to balance gamma, delta, and theta for stable profits."
 ---
 

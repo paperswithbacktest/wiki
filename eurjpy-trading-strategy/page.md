@@ -1,5 +1,5 @@
 ---
-title: "EUR/JPY Trading Strategy Explained (Algo Trading)"
+title: "EUR/JPY Trading Strategy Explained"
 description: Discover the intricacies of trading the EUR/JPY currency pair using algorithmic strategies in forex. This comprehensive guide investigates into the correlation of EUR/JPY with other currency pairs and economic indicators, enabling traders to develop robust strategies. Learn how correlation impacts strategy development, risk management, and diversification, and explore Python snippets for calculating correlations to enhance trading performance in dynamic markets.
 ---
 

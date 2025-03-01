@@ -1,5 +1,5 @@
 ---
-title: "Fee-Based Investment Overview and Functionality (Algo Trading)"
+title: "Fee-Based Investment Overview and Functionality"
 description: "Discover the transformation in finance driven by algorithmic trading and fee-based investment models. This page explores how algorithms enhance investment strategies, providing precise, data-driven trading solutions. Learn about fee-based models that align advisor-client interests for better investment outcomes, and how algorithms optimize trading processes for modern investors."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Common Size Income Statement (Algo Trading)"
+title: "Common Size Income Statement"
 description: "Explore the synergy of common-size income statements and algorithmic trading in enhancing financial analysis and decision-making for strategic investments."
 ---
 

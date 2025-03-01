@@ -1,5 +1,5 @@
 ---
-title: "Investors (herdlike behavior) (Algo Trading)"
+title: "Investors (herdlike behavior)"
 description: Explore how algorithmic trading, a cutting-edge financial tool using technology for high-speed trading, influences herdlike behavior among investors. Examine the advantages of enhanced market liquidity and efficient trade execution against the risks of synchronized trading actions leading to market volatility. Understand how these trends impact financial stability and necessitate regulatory frameworks for a transparent and resilient market environment.
 ---
 

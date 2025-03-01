@@ -1,5 +1,5 @@
 ---
-title: "Key Rate Duration and Its Calculation (Algo Trading)"
+title: "Key Rate Duration and Its Calculation"
 description: "Understand key rate duration and its calculation for accurate bond price sensitivity assessment with this comprehensive guide tailored for investors and traders."
 ---
 

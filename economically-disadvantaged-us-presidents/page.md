@@ -1,5 +1,5 @@
 ---
-title: "Economically Disadvantaged U.S. Presidents (Algo Trading)"
+title: "Economically Disadvantaged U.S. Presidents"
 description: "Explore the financial challenges faced by some of the poorest U.S. presidents and how their economic journeys reflect the broader national economic conditions."
 ---
 

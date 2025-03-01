@@ -1,5 +1,5 @@
 ---
-title: "Diversification Using Index Funds (Algo Trading)"
+title: "Diversification Using Index Funds"
 description: "Explore the power of diversification with index fund investing and algorithmic trading Learn strategies to manage risk enhance returns and optimize portfolios"
 ---
 

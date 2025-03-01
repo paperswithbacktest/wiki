@@ -1,5 +1,5 @@
 ---
-title: "Beneficial Ownership and Regulation (Algo Trading)"
+title: "Beneficial Ownership and Regulation"
 description: "Explore how beneficial ownership transparency and regulations impact algorithmic trading featuring insights into data accuracy enhancing financial stability."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Blockchain as a Replacement for SIM Cards (Algo Trading)"
+title: "Blockchain as a Replacement for SIM Cards"
 description: "Explore how blockchain technology is revolutionizing SIM cards with enhanced security and flexibility Discover the impact on mobile networks and algorithmic trading"
 ---
 

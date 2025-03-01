@@ -1,5 +1,5 @@
 ---
-title: "Average Return on Equity in the Retail Sector (Algo Trading)"
+title: "Average Return on Equity in the Retail Sector"
 description: "Explore how algorithmic trading enhances investment strategies in the retail sector by analyzing the impact of Return on Equity. Discover insights into average ROE variations."
 ---
 

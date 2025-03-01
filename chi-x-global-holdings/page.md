@@ -1,5 +1,5 @@
 ---
-title: "Chi-X Global Holdings (Algo Trading)"
+title: "Chi-X Global Holdings"
 description: "Explore how algorithmic trading platforms like Chi-X Global are transforming financial markets through efficiency and transparency while navigating regulatory landscapes."
 ---
 

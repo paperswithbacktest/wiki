@@ -1,5 +1,5 @@
 ---
-title: "Market resilience (Algo Trading)"
+title: "Market resilience"
 description: "Enhance your understanding of how algorithmic trading impacts market resilience with strategies to manage risks and regulatory frameworks that ensure market stability."
 ---
 

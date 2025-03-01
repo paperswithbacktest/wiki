@@ -1,5 +1,5 @@
 ---
-title: "Adam Smith: Biography and Legacy (Algo Trading)"
+title: "Adam Smith: Biography and Legacy"
 description: "Explore Adam Smith's influential economic theories and their connection to modern algorithmic trading shaping economic thought and policy since the 18th century."
 ---
 

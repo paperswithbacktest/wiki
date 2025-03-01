@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Portfolio Tracking and Management Applications (Algo Trading)"
+title: "Comparison of Portfolio Tracking and Management Applications"
 description: "Explore the benefits of investment management apps in optimizing your portfolio with real-time insights, advanced analytics, and risk management tools."
 ---
 

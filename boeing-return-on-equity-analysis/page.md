@@ -1,5 +1,5 @@
 ---
-title: "Boeing's Return on Equity Analysis (Algo Trading)"
+title: "Boeing's Return on Equity Analysis"
 description: "Explore Boeing's financial health through an in-depth analysis of its Return on Equity ROE trends and compare them with competitors like Airbus and Lockheed Martin."
 ---
 

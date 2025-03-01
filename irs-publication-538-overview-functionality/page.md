@@ -1,5 +1,5 @@
 ---
-title: "IRS Publication 538: Overview and Functionality (Algo Trading)"
+title: "IRS Publication 538: Overview and Functionality"
 description: "Explore IRS Publication 538 to understand essential tax guidelines and accounting methods for algorithmic traders aiming for tax compliance and accurate financial reporting."
 ---
 

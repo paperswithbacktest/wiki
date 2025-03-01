@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Principal and Agency Trading (Algo Trading)"
+title: "Differences Between Principal and Agency Trading"
 description: "Discover the differences between principal and agency trading in algo trading Learn how each method works its unique benefits limitations and investor impact"
 ---
 

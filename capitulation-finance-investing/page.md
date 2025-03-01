@@ -1,5 +1,5 @@
 ---
-title: "Capitulation in Finance and Investing (Algo Trading)"
+title: "Capitulation in Finance and Investing"
 description: "Explore how capitulation and algorithmic trading intersect to provide strategic investment opportunities. Understand the market dynamics to enhance portfolio returns."
 ---
 

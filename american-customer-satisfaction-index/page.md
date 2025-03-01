@@ -1,5 +1,5 @@
 ---
-title: "American Customer Satisfaction Index (Algo Trading)"
+title: "American Customer Satisfaction Index"
 description: "Explore how American Customer Satisfaction Index data enhances algorithmic trading strategies by integrating consumer insights for improved market decisions."
 ---
 

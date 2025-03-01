@@ -1,5 +1,5 @@
 ---
-title: "Calculating Stock Gains and Losses (Algo Trading)"
+title: "Calculating Stock Gains and Losses"
 description: "Learn how to calculate stock gains and losses in algorithmic trading. Understand key concepts like cost basis and transaction fees for sound investment decisions."
 ---
 

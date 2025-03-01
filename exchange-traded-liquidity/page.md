@@ -1,5 +1,5 @@
 ---
-title: "exchange-traded liquidity (Algo Trading)"
+title: "exchange-traded liquidity"
 description: "Explore the pivotal role of exchange-traded liquidity in algorithmic trading highlighting its benefits and challenges in modern financial markets."
 ---
 

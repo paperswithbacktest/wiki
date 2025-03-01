@@ -1,5 +1,5 @@
 ---
-title: "Factors Influencing Profit Margins (Algo Trading)"
+title: "Factors Influencing Profit Margins"
 description: "Explore key financial metrics and profit margins in algorithmic trading to enhance strategies and boost profitability in fast-paced trading environments."
 ---
 

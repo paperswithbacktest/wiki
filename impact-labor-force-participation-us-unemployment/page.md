@@ -1,5 +1,5 @@
 ---
-title: "Impact of Labor Force Participation Rate on U.S. Unemployment (Algo Trading)"
+title: "Impact of Labor Force Participation Rate on U.S. Unemployment"
 description: "Explore the impact of labor force participation rates and algorithmic trading on U.S. unemployment affecting economic policies and job market dynamics."
 ---
 

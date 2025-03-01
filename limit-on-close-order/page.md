@@ -1,5 +1,5 @@
 ---
-title: "Limit-On-Close Order (Algo Trading)"
+title: "Limit-On-Close Order"
 description: "Explore Limit-on-Close orders in algorithmic trading Discover how LOCs can optimize price execution at market close and enhance strategy precision."
 ---
 

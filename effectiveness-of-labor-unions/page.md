@@ -1,5 +1,5 @@
 ---
-title: "Effectiveness of Labor Unions (Algo Trading)"
+title: "Effectiveness of Labor Unions"
 description: "Explore the evolving effectiveness of labor unions in safeguarding worker rights amid the rise of algorithmic trading and automation. This comprehensive analysis investigates into the historical context, current challenges, and future opportunities for unions to maintain their influence in today's digitally managed workplaces, ensuring fair labor practices and worker welfare thrive in the modern economy."
 ---
 

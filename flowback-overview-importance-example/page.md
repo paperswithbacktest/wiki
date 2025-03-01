@@ -1,5 +1,5 @@
 ---
-title: "Flowback: Overview, Importance, and Example (Algo Trading)"
+title: "Flowback: Overview, Importance, and Example"
 description: "Explore the role of AI in enhancing hydraulic fracturing efficiency and flowback control, highlighting advanced analytical techniques for better well productivity and sustainable operations."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Blockchain in Trading (Algo Trading)"
+title: "Blockchain in Trading"
 description: "Unlock the future of trading with blockchain Discover how this technology enhances algorithmic trading by boosting transparency efficiency and security"
 ---
 

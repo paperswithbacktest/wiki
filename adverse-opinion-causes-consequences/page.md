@@ -1,5 +1,5 @@
 ---
-title: "Adverse Opinion: Causes and Consequences (Algo Trading)"
+title: "Adverse Opinion: Causes and Consequences"
 description: "Explore the causes of adverse opinions in financial statements audit reports and their impact on algorithmic trading practices and investor confidence."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Affirmative Obligation and Its Significance (Algo Trading)"
+title: "Affirmative Obligation and Its Significance"
 description: "Explore the significance of affirmative obligation in algorithmic trading understand financial responsibility to ensure ethical participation and successful investing in modern markets."
 ---
 

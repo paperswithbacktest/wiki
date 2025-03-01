@@ -1,5 +1,5 @@
 ---
-title: "Call Options on Put Contracts (Algo Trading)"
+title: "Call Options on Put Contracts"
 description: "Explore the integration of algorithmic trading with financial derivatives like call options and put contracts to enhance trading efficiency and risk management."
 ---
 

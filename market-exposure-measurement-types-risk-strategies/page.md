@@ -1,5 +1,5 @@
 ---
-title: "Market Exposure: Measurement, Types, and Risk Strategies (Algo Trading)"
+title: "Market Exposure: Measurement, Types, and Risk Strategies"
 description: "Explore effective strategies for measuring and managing market exposure risk in algorithmic trading. Understand methods like VaR and scenario analysis to optimize portfolios."
 ---
 

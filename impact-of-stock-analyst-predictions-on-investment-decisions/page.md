@@ -1,5 +1,5 @@
 ---
-title: "Impact of Stock Analyst Predictions on Investment Decisions (Algo Trading)"
+title: "Impact of Stock Analyst Predictions on Investment Decisions"
 description: "Discover how stock analyst predictions influence investment decisions and the role of algorithmic trading in modern finance. Explore vital strategies for investors."
 ---
 

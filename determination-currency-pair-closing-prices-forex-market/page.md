@@ -1,5 +1,5 @@
 ---
-title: "Determination of Currency Pair Closing Prices in Forex Market (Algo Trading)"
+title: "Determination of Currency Pair Closing Prices in Forex Market"
 description: "Explore the significance of forex currency pair closing prices essential in algorithmic trading strategies Learn how market dynamics influence trading outcomes"
 ---
 

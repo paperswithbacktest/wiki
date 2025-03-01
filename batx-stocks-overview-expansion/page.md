@@ -1,5 +1,5 @@
 ---
-title: "BATX Stocks: Overview and Expansion (Algo Trading)"
+title: "BATX Stocks: Overview and Expansion"
 description: "Explore the rise of BATX stocks giants Baidu Alibaba Tencent and Xiaomi Their market dominance expansion into global markets and impact on the tech landscape"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Dynamic data exchange (DDE) (Algo Trading)"
+title: "Dynamic data exchange (DDE)"
 description: Explore how Dynamic Data Exchange (DDE) enhances algorithmic trading by enabling real-time data integration between trading platforms and software like Microsoft Excel. Understand DDE's role in facilitating data-driven decisions for traders, the protocol's benefits, implementation strategies, and its use in optimizing trading outcomes on platforms such as Interactive Brokers' Trader Workstation.
 ---
 

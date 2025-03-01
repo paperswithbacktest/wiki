@@ -1,5 +1,5 @@
 ---
-title: "Jackpot: Mechanics and Impacts (Algo Trading)"
+title: "Jackpot: Mechanics and Impacts"
 description: "Discover how jackpot mechanisms influence algorithmic trading strategies exploring the unpredictable nature of market windfalls and the associated risks and rewards."
 ---
 

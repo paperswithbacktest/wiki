@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Exponential and Simple Moving Averages (Algo Trading)"
+title: "Comparison of Exponential and Simple Moving Averages"
 description: "Compare Exponential and Simple Moving Averages with this detailed guide for algorithmic trading Understand how these two tools help forecast price trends"
 ---
 

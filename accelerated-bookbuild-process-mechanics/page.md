@@ -1,5 +1,5 @@
 ---
-title: "Accelerated Bookbuild Process and Mechanics (Algo Trading)"
+title: "Accelerated Bookbuild Process and Mechanics"
 description: "Explore the dynamics and advantages of accelerated bookbuilds in financial markets This efficient mechanism enables rapid capital access with minimal risk and cost"
 ---
 

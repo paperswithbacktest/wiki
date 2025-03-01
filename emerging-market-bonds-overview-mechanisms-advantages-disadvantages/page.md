@@ -1,5 +1,5 @@
 ---
-title: "Emerging Market Bonds: Overview, Mechanisms, Advantages, and Disadvantages (Algo Trading)"
+title: "Emerging Market Bonds: Overview, Mechanisms, Advantages, and Disadvantages"
 description: "Explore emerging market bonds including their mechanisms advantages and disadvantages plus insights on how algorithmic trading shapes bond market dynamics."
 ---
 

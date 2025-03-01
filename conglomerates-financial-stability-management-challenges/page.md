@@ -1,5 +1,5 @@
 ---
-title: "Conglomerates: Evaluating Financial Stability and Management Challenges (Algo Trading)"
+title: "Conglomerates: Evaluating Financial Stability and Management Challenges"
 description: "Explore the dynamic connection between corporate management, financial stability, conglomerates, and algorithmic trading shaping modern financial strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Level 1 Market Data and Trading Screen Accessibility (Algo Trading)"
+title: "Level 1 Market Data and Trading Screen Accessibility"
 description: "Level 1 market data on trading screens offers real-time bid-ask prices crucial for traders and investors, enhancing market accessibility and algo trading efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "DuPont Analysis: Applications and Formulas (Algo Trading)"
+title: "DuPont Analysis: Applications and Formulas"
 description: "Explore the transformative power of DuPont Analysis in understanding and maximizing investment returns within algorithmic trading. This article breaks down the core components of DuPont Analysis such as profit margin, asset turnover, and equity multiplier, offering insights into their impact on assessing a company's financial health. Learn how algorithmic trading enhances this analysis, allowing for real-time decision making and data-driven strategies. Ideal for investors aiming to blend traditional financial techniques with modern technology for optimized outcomes."
 ---
 

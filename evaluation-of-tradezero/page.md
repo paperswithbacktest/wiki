@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of TradeZero (Algo Trading)"
+title: "Evaluation of TradeZero"
 description: "Explore TradeZero's advanced algorithmic trading platform, offering automated strategies and comprehensive tools for beginners and seasoned traders worldwide."
 ---
 

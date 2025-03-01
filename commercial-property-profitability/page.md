@@ -1,5 +1,5 @@
 ---
-title: "Commercial Property and Its Profitability (Algo Trading)"
+title: "Commercial Property and Its Profitability"
 description: "Explore the profitability of commercial property investment through algorithmic trading and discover strategies to maximize long-term returns in this lucrative sector"
 ---
 

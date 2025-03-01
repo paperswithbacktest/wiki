@@ -1,5 +1,5 @@
 ---
-title: "Comparison of House Flipping and Buy-and-Hold Investment Strategies (Algo Trading)"
+title: "Comparison of House Flipping and Buy-and-Hold Investment Strategies"
 description: "Explore the benefits and challenges of house flipping buy-and-hold strategies and algorithmic trading in real estate to align with your investment goals."
 ---
 

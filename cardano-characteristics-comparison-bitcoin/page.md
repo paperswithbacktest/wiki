@@ -1,5 +1,5 @@
 ---
-title: "Cardano: Characteristics and Comparison to Bitcoin (Algo Trading)"
+title: "Cardano: Characteristics and Comparison to Bitcoin"
 description: "Explore the unique characteristics of Cardano and Bitcoin in algo trading Learn how their distinct consensus mechanisms impact trading strategies and opportunities"
 ---
 

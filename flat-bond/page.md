@@ -1,5 +1,5 @@
 ---
-title: "Flat Bond (Algo Trading)"
+title: "Flat Bond"
 description: "Discover the essentials of flat bond pricing and the impact of algorithmic trading on fixed-income securities for informed investment strategies."
 ---
 

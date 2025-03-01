@@ -1,5 +1,5 @@
 ---
-title: "Investment Analysis: Types and Importance (Algo Trading)"
+title: "Investment Analysis: Types and Importance"
 description: "Discover the significance of different investment types and the role of algorithmic trading in financial analysis to make informed investment decisions."
 ---
 

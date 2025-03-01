@@ -1,5 +1,5 @@
 ---
-title: "High-Water Mark in Finance (Algo Trading)"
+title: "High-Water Mark in Finance"
 description: "Explore the concept of high-water marks in finance and their pivotal role in hedge funds and algorithmic trading ensuring transparent and fair compensation."
 ---
 

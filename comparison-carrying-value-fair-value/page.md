@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Carrying Value and Fair Value (Algo Trading)"
+title: "Comparison of Carrying Value and Fair Value"
 description: "Explore the differences between carrying value and fair value in asset valuation plus the role of algorithmic trading in influencing these valuations."
 ---
 

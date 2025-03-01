@@ -1,5 +1,5 @@
 ---
-title: "Book Value Per Share in Banking Assessment (Algo Trading)"
+title: "Book Value Per Share in Banking Assessment"
 description: "Explore how Book Value and BVPS enhance algorithmic trading strategies by offering a blend of traditional financial analysis and modern trading techniques."
 ---
 

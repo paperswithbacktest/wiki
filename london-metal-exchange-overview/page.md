@@ -1,5 +1,5 @@
 ---
-title: "London Metal Exchange Overview (Algo Trading)"
+title: "London Metal Exchange Overview"
 description: "Discover the pivotal role of the London Metal Exchange in global metal markets exploring its diverse trading methods and the impact of algorithmic trading."
 ---
 

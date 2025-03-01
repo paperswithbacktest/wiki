@@ -1,5 +1,5 @@
 ---
-title: "Derivatives Transaction Execution Facility (Algo Trading)"
+title: "Derivatives Transaction Execution Facility"
 description: "Enhance your understanding of derivatives and algorithmic trading Discover how these financial instruments drive modern markets optimize trade execution and manage risks."
 ---
 

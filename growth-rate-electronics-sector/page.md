@@ -1,5 +1,5 @@
 ---
-title: "Growth Rate of the Electronics Sector (Algo Trading)"
+title: "Growth Rate of the Electronics Sector"
 description: "Explore the rapid growth of the electronics sector driven by tech advancements in consumer electronics, semiconductors, and algorithmic trading innovations."
 ---
 

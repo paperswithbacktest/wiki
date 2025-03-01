@@ -1,5 +1,5 @@
 ---
-title: "Contrarian investing (Algo Trading)"
+title: "Contrarian investing"
 description: "Discover the unique strategies and benefits of contrarian investing combined with algorithmic trading for savvy investors looking to capitalize on market inefficiencies."
 ---
 

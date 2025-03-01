@@ -1,5 +1,5 @@
 ---
-title: "Investopedia 2020 Best Online Brokers (Algo Trading)"
+title: "Investopedia 2020 Best Online Brokers"
 description: "Explore Investopedia's 2020 awards highlighting top online brokers like Fidelity and TD Ameritrade who excel in algorithmic trading and investor tools."
 ---
 

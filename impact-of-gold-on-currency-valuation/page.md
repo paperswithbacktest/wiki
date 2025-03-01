@@ -1,5 +1,5 @@
 ---
-title: "Impact of Gold on Currency Valuation (Algo Trading)"
+title: "Impact of Gold on Currency Valuation"
 description: "Explore the impact of gold on currency valuation and algo trading Uncover how economic factors and algorithmic trading influence gold's role in investment strategies"
 ---
 

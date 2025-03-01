@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Operating Income and Gross Profit (Algo Trading)"
+title: "Comparison of Operating Income and Gross Profit"
 description: "Explore the impact of operating income and gross profit in algorithmic trading Learn how these financial metrics can enhance trading strategies and decision-making"
 ---
 

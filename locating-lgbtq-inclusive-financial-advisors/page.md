@@ -1,5 +1,5 @@
 ---
-title: "Locating LGBTQ+-Inclusive Financial Advisors (Algo Trading)"
+title: "Locating LGBTQ+-Inclusive Financial Advisors"
 description: "Find LGBTQ+-inclusive financial advisors who understand unique challenges like discrimination and family planning Proactive strategies ensure financial security"
 ---
 

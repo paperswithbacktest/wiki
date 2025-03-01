@@ -1,5 +1,5 @@
 ---
-title: "Markets in Financial Instruments Directive (Algo Trading)"
+title: "Markets in Financial Instruments Directive"
 description: "Explore the impact of the Markets in Financial Instruments Directive on algorithmic trading, highlighting its role in enhancing transparency and market stability in the EU."
 ---
 

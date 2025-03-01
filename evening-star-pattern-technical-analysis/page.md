@@ -1,5 +1,5 @@
 ---
-title: "Evening Star Pattern in Technical Analysis (Algo Trading)"
+title: "Evening Star Pattern in Technical Analysis"
 description: "Explore the significance of the Evening Star pattern in technical analysis and algorithmic trading This candlestick pattern signals a bearish reversal perfect for automated systems"
 ---
 

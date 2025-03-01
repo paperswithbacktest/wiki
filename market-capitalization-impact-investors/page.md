@@ -1,5 +1,5 @@
 ---
-title: "Market Capitalization and Its Impact on Investors (Algo Trading)"
+title: "Market Capitalization and Its Impact on Investors"
 description: "Explore how market capitalization and algorithmic trading impact investment strategies. Optimize portfolios by integrating these powerful techniques for better returns."
 ---
 

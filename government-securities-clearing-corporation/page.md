@@ -1,5 +1,5 @@
 ---
-title: "Government Securities Clearing Corporation (Algo Trading)"
+title: "Government Securities Clearing Corporation"
 description: "Explore the pivotal role of the Government Securities Clearing Corporation in enhancing trade settlements for government securities amidst the rise of algo trading."
 ---
 

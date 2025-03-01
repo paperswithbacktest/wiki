@@ -1,5 +1,5 @@
 ---
-title: "Ex-Warrant Overview and Example (Algo Trading)"
+title: "Ex-Warrant Overview and Example"
 description: "Explore stock warrants and their role in algorithmic trading Discover how ex-warrant status impacts strategies Enhance your investment approach with this guide"
 ---
 

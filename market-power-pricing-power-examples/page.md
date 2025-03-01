@@ -1,5 +1,5 @@
 ---
-title: "Market Power and Pricing Power: Explanation and Examples (Algo Trading)"
+title: "Market Power and Pricing Power: Explanation and Examples"
 description: "Discover how market power, pricing power, and algorithmic trading impact financial markets and shape investment strategies in today's economy."
 ---
 

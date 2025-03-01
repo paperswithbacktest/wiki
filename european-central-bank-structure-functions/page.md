@@ -1,5 +1,5 @@
 ---
-title: "European Central Bank: Structure and Functions (Algo Trading)"
+title: "European Central Bank: Structure and Functions"
 description: "Explore the European Central Bank's role in monetary policy and financial stability Learn about its impact on algorithmic trading within the eurozone financial markets"
 ---
 

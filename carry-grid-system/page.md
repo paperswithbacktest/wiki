@@ -1,5 +1,5 @@
 ---
-title: "Carry Grid System (Algo Trading)"
+title: "Carry Grid System"
 description: "Explore the synergy between grid technology and algo trading within power systems, highlighting their roles in enhancing efficiency, reliability, and sustainability."
 ---
 

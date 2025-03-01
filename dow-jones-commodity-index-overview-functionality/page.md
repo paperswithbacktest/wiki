@@ -1,5 +1,5 @@
 ---
-title: "Dow Jones Commodity Index: Overview and Functionality (Algo Trading)"
+title: "Dow Jones Commodity Index: Overview and Functionality"
 description: "Explore the role of the Dow Jones Commodity Index in commodity trading and algorithmic strategies to enhance market insights and investment performance."
 ---
 

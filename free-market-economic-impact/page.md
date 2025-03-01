@@ -1,5 +1,5 @@
 ---
-title: "Free Market and Economic Impact (Algo Trading)"
+title: "Free Market and Economic Impact"
 description: "Explore the economic impacts of integrating algorithmic trading into free markets examining benefits challenges and its role in modern financial systems."
 ---
 

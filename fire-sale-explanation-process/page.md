@@ -1,5 +1,5 @@
 ---
-title: "Fire Sale: Explanation and Process (Algo Trading)"
+title: "Fire Sale: Explanation and Process"
 description: "Explore the process and strategies behind fire sales in algorithmic trading Understand how business liquidation and asset sales impact financial markets."
 ---
 

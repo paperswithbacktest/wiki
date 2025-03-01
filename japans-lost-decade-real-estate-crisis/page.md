@@ -1,5 +1,5 @@
 ---
-title: "Japan's Lost Decade: Insights from the Real Estate Crisis (Algo Trading)"
+title: "Japan's Lost Decade: Insights from the Real Estate Crisis"
 description: "Explore Japan's Lost Decade and its economic impacts revealing insights into algorithmic trading's rise amidst challenges from one of history's severe downturns"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Current Coupon in Finance (Algo Trading)"
+title: "Current Coupon in Finance"
 description: "Explore the significance of coupon bonds in finance and the transformative impact of algorithmic trading on bond markets for improved efficiency and precision."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "High-Yield Bond Investing Fundamentals (Algo Trading)"
+title: "High-Yield Bond Investing Fundamentals"
 description: "Explore the fundamentals of high-yield bond investing with insights into algorithmic trading strategies that can enhance portfolio returns and manage risks."
 ---
 

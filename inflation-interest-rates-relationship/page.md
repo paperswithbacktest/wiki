@@ -1,5 +1,5 @@
 ---
-title: "Inflation and Interest Rates Relationship (Algo Trading)"
+title: "Inflation and Interest Rates Relationship"
 description: "Discover how inflation and interest rates interrelate to shape economic policy and trading strategies Gain insights for algorithmic trading advantage"
 ---
 

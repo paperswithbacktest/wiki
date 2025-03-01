@@ -1,5 +1,5 @@
 ---
-title: "Icarus Factor (Algo Trading)"
+title: "Icarus Factor"
 description: "Explore the intersection of algorithmic trading and psychology with the Icarus Factor. Discover how ambition and biases impact trading strategies and decision-making."
 ---
 

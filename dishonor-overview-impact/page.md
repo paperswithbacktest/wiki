@@ -1,5 +1,5 @@
 ---
-title: "Dishonor: Overview and Impact (Algo Trading)"
+title: "Dishonor: Overview and Impact"
 description: "Explore the impact of dishonor behavior in algorithmic trading which can disrupt market dynamics and lead to significant legal and financial repercussions."
 ---
 

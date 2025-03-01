@@ -1,5 +1,5 @@
 ---
-title: "Calculating Cost of Capital for Project Budgeting (Algo Trading)"
+title: "Calculating Cost of Capital for Project Budgeting"
 description: "Explore how understanding the cost of capital can optimize project budgeting and algorithmic trading strategies to drive better financial performance."
 ---
 

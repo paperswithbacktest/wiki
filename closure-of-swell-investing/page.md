@@ -1,5 +1,5 @@
 ---
-title: "Closure of Swell Investing (Algo Trading)"
+title: "Closure of Swell Investing"
 description: "Discover why Swell Investing, a pioneer in impact investing, shut down in 2019. Explore factors like market pressures and the rise of algo trading."
 ---
 

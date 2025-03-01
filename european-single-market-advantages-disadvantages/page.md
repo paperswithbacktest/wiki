@@ -1,5 +1,5 @@
 ---
-title: "European Single Market: Advantages and Disadvantages (Algo Trading)"
+title: "European Single Market: Advantages and Disadvantages"
 description: "Explore the intersection of the European Single Market and algorithmic trading examining their benefits and challenges within the EU's dynamic financial landscape."
 ---
 

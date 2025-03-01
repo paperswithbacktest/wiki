@@ -1,5 +1,5 @@
 ---
-title: "Home Buying in the Philippines (Algo Trading)"
+title: "Home Buying in the Philippines"
 description: "Explore home buying in the Philippines and discover how to navigate legalities market dynamics and property investment strategies in a growing economy"
 ---
 

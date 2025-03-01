@@ -1,5 +1,5 @@
 ---
-title: "Acquiring ApeCoin (Algo Trading)"
+title: "Acquiring ApeCoin"
 description: "Discover how to acquire ApeCoin and leverage algorithmic trading to maximize your investments in the dynamic world of cryptocurrencies and NFTs."
 ---
 

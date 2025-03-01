@@ -1,5 +1,5 @@
 ---
-title: "Market Value (Algo Trading)"
+title: "Market Value"
 description: "Explore the transformative impact of market value and algorithmic trading in modern finance. Understand how these concepts redefine asset valuation, enhance trading efficiency, and influence investment strategies. Delve into the roles of automation in trading, the interplay of market dynamics, and the importance of regulatory frameworks in ensuring transparency and stability in global markets. Discover the synergy between technology and economics shaping today's financial landscape."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Lumen (Algo Trading)"
+title: "Lumen"
 description: "Discover the fascinating link between lumen measurement in lighting and algorithmic trading Learn how these fields leverage data for optimal outcomes and innovation"
 ---
 

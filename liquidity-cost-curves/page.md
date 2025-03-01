@@ -1,5 +1,5 @@
 ---
-title: "Liquidity cost curves (Algo Trading)"
+title: "Liquidity cost curves"
 description: "Liquidity cost curves are essential for algorithmic trading offering insights on trade costs based on size enhancing strategies like VWAP and TWAP to optimize execution."
 ---
 

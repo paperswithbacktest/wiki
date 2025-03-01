@@ -1,5 +1,5 @@
 ---
-title: "Kun Soo Park (Algo Trading)"
+title: "Kun Soo Park"
 description: "Kun Soo Park is a leading expert in algorithmic trading and quantitative finance blending academia and industry experience from Korea to the US."
 ---
 

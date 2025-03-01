@@ -1,5 +1,5 @@
 ---
-title: "Effective Swing Trading Strategies: Role of Candlesticks and Oscillators (Algo Trading)"
+title: "Effective Swing Trading Strategies: Role of Candlesticks and Oscillators"
 description: "Discover effective swing trading strategies using candlesticks and oscillators. Learn how to enhance predictions, identify profitable trades, and optimize success."
 ---
 

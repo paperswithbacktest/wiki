@@ -1,5 +1,5 @@
 ---
-title: "Federal Reserve (Algo Trading)"
+title: "Federal Reserve"
 description: "Explore how the Federal Reserve's monetary policy and algorithmic trading intersect to impact financial markets. Understand how central bank decisions influence economic activities and market dynamics through algorithmic responses to interest rate announcements. Discover insights into navigating modern financial markets with a focus on trading speed, investment strategies, and economic stability."
 ---
 

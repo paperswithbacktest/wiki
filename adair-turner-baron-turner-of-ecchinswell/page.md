@@ -1,5 +1,5 @@
 ---
-title: "Adair Turner, Baron Turner of Ecchinswell (Algo Trading)"
+title: "Adair Turner, Baron Turner of Ecchinswell"
 description: "Explore Adair Turner's influential role in finance and his critical insights on algorithmic trading and regulation, emphasizing high-frequency trading's impact and risks."
 ---
 

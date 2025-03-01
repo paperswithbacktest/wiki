@@ -1,5 +1,5 @@
 ---
-title: "Exotic Options and Their Comparison to Traditional Options (Algo Trading)"
+title: "Exotic Options and Their Comparison to Traditional Options"
 description: "Explore the differences between traditional and exotic options in algo trading, offering insights into their characteristics, uses, and how they fit various investor needs."
 ---
 

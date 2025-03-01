@@ -1,5 +1,5 @@
 ---
-title: "Federal Insurance Contributions Act: Overview and Participation (Algo Trading)"
+title: "Federal Insurance Contributions Act: Overview and Participation"
 description: "Explore how the Federal Insurance Contributions Act impacts algorithmic trading and understand its role in investment strategies and financial planning."
 ---
 

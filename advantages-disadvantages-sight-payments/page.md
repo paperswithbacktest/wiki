@@ -1,5 +1,5 @@
 ---
-title: "Advantages and Disadvantages of At Sight Payments (Algo Trading)"
+title: "Advantages and Disadvantages of At Sight Payments"
 description: "Explore the pros and cons of at sight payments and algorithmic trading Discover how these methods impact international trade and modern financial markets"
 ---
 

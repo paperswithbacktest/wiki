@@ -1,5 +1,5 @@
 ---
-title: "Causes of Recession (Algo Trading)"
+title: "Causes of Recession"
 description: "Discover how algo trading and economic forces intersect during recessions exploring the causes of downturns and the impact on market stability."
 ---
 

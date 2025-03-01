@@ -1,5 +1,5 @@
 ---
-title: "Degree of Combined Leverage (Algo Trading)"
+title: "Degree of Combined Leverage"
 description: "Explore the importance of leverage in financial strategies analyzing financial operating and combined leverage to optimize returns and manage risks effectively."
 ---
 

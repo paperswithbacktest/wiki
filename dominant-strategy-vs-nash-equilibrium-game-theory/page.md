@@ -1,5 +1,5 @@
 ---
-title: "Dominant Strategy vs. Nash Equilibrium in Game Theory (Algo Trading)"
+title: "Dominant Strategy vs. Nash Equilibrium in Game Theory"
 description: "Explore how dominant strategy and Nash equilibrium in game theory enhance algorithmic trading strategies by predicting market behavior and optimizing decisions."
 ---
 

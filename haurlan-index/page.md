@@ -1,5 +1,5 @@
 ---
-title: "Haurlan Index (Algo Trading)"
+title: "Haurlan Index"
 description: "Discover the Haurlan Index a key technical analysis tool for algorithmic trading that combines market breadth with EMAs for enhanced trading insights."
 ---
 

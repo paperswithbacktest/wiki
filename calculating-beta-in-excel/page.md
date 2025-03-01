@@ -1,5 +1,5 @@
 ---
-title: "Calculating Beta in Excel (Algo Trading)"
+title: "Calculating Beta in Excel"
 description: "Master calculating beta in Excel to assess market risk and enhance trading strategies in this guide This tutorial equips you with essential Excel skills for algo trading"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Average Annual Growth Rate (AAGR) Calculation (Algo Trading)"
+title: "Average Annual Growth Rate (AAGR) Calculation"
 description: "Discover the essential role of the Average Annual Growth Rate (AAGR) in financial analysis and algorithmic trading. Learn how AAGR provides insight into investment performance despite lacking the consideration for compounding effects. Understand the significance of comparing AAGR with Compound Annual Growth Rate (CAGR) for a more comprehensive view of growth trends and optimizing trading strategies. This page explores how these metrics influence decision-making in automated trading environments, aiding traders in crafting effective algorithms and anticipating market movements."
 ---
 

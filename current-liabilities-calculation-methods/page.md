@@ -1,5 +1,5 @@
 ---
-title: "Current Liabilities and Calculation Methods (Algo Trading)"
+title: "Current Liabilities and Calculation Methods"
 description: "Explore current liabilities and modern methods to manage them effectively including algorithmic trading techniques to optimize financial stability and cash flow."
 ---
 

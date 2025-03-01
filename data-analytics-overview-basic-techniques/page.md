@@ -1,5 +1,5 @@
 ---
-title: "Data Analytics: Overview and Basic Techniques (Algo Trading)"
+title: "Data Analytics: Overview and Basic Techniques"
 description: "Explore how data analytics drives algorithmic trading by automating decisions and improving efficiency Discover techniques that transform trading practices"
 ---
 

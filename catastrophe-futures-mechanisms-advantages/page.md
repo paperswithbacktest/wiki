@@ -1,5 +1,5 @@
 ---
-title: "Catastrophe Futures: Mechanisms and Advantages (Algo Trading)"
+title: "Catastrophe Futures: Mechanisms and Advantages"
 description: "Explore how catastrophe futures and algorithmic trading combine to manage risk in volatile financial markets providing liquidity and precision for traders."
 ---
 

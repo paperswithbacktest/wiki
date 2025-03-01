@@ -1,5 +1,5 @@
 ---
-title: "Indicated Dividend: Overview and Calculation (Algo Trading)"
+title: "Indicated Dividend: Overview and Calculation"
 description: "Master dividend calculations to optimize returns by exploring dividend growth, financial analysis, and algorithmic trading strategies for informed investment decisions."
 ---
 

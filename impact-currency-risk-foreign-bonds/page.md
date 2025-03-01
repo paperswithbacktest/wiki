@@ -1,5 +1,5 @@
 ---
-title: "Impact of Currency Risk on Foreign Bonds (Algo Trading)"
+title: "Impact of Currency Risk on Foreign Bonds"
 description: "Explore how currency risk impacts foreign bond investments and how algorithmic trading strategies can help manage and mitigate these risks effectively."
 ---
 

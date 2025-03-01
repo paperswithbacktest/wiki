@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Socially Responsible Investing and Sin Stocks (Algo Trading)"
+title: "Comparison of Socially Responsible Investing and Sin Stocks"
 description: "Explore the dynamic interplay between socially responsible investing and sin stocks contrasting ethical priorities with financial gains in the evolving world of investing."
 ---
 

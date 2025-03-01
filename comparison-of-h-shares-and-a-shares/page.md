@@ -1,5 +1,5 @@
 ---
-title: "Comparison of H-Shares and A-Shares (Algo Trading)"
+title: "Comparison of H-Shares and A-Shares"
 description: "Explore the key differences between Chinese A-Shares and H-Shares in the context of algorithmic trading and understand their impact on global investment strategies."
 ---
 

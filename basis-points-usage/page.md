@@ -1,5 +1,5 @@
 ---
-title: "Basis Points and Their Usage (Algo Trading)"
+title: "Basis Points and Their Usage"
 description: "Explore the significance of basis points in algo trading and how they influence financial strategies by providing precise measures for interest rate changes and investments."
 ---
 

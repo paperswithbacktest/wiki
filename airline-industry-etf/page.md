@@ -1,5 +1,5 @@
 ---
-title: "Airline Industry ETF (Algo Trading)"
+title: "Airline Industry ETF"
 description: "Explore the benefits of investing in airline industry ETFs, highlighting diversification, cost-effectiveness, and the role of algorithmic trading in optimizing returns."
 ---
 

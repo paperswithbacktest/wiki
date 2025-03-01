@@ -1,5 +1,5 @@
 ---
-title: "Bellwether Stock: Definition, Functionality, and Examples (Algo Trading)"
+title: "Bellwether Stock: Definition, Functionality, and Examples"
 description: "Discover how bellwether stocks serve as market indicators highlighting broader economic trends and influencing algorithmic trading strategies for investors."
 ---
 

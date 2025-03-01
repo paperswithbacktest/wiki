@@ -1,5 +1,5 @@
 ---
-title: "FMAN Overview (Algo Trading)"
+title: "FMAN Overview"
 description: "Discover how FMAN revolutionizes algo trading by enhancing precision and efficiency in options trading through a structured timeline reducing errors and increasing gains."
 ---
 

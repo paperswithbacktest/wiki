@@ -1,5 +1,5 @@
 ---
-title: "Ethics in Asset Management: Risk Management and Compliance (Algo Trading)"
+title: "Ethics in Asset Management: Risk Management and Compliance"
 description: "Explore the integral role of risk management, ethics, compliance, and algorithmic trading in modern asset management to ensure ethical practices and market resilience."
 ---
 

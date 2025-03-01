@@ -1,5 +1,5 @@
 ---
-title: "Feasibility of Socialism in the United States (Algo Trading)"
+title: "Feasibility of Socialism in the United States"
 description: "Explore the intersection of socialism and algo trading in the U.S. examining how redistributive policies could impact advanced financial technologies and strategies."
 ---
 

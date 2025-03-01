@@ -1,5 +1,5 @@
 ---
-title: "Beta in Finance and Investing (Algo Trading)"
+title: "Beta in Finance and Investing"
 description: "Explore the dynamic fusion of beta measures and algorithmic trading in modern finance. Discover how understanding beta helps investors gauge volatility and risk compared to the market, while algorithmic trading uses advanced technology to execute precise, high-speed trades. See how these components combine to create sophisticated investment strategies that balance risk and return for enhanced financial success."
 ---
 

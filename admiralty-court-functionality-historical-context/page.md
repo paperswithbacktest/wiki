@@ -1,5 +1,5 @@
 ---
-title: "Admiralty Court: Functionality and Historical Context (Algo Trading)"
+title: "Admiralty Court: Functionality and Historical Context"
 description: "Explore the evolution, historical roots, and modern relevance of maritime law. Learn how admiralty courts adjudicate issues like algorithmic trading in global shipping."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Genetic Algorithms in Financial Market Forecasting (Algo Trading)"
+title: "Genetic Algorithms in Financial Market Forecasting"
 description: "Explore how Genetic Algorithms revolutionize financial market forecasting by optimizing algorithmic trading strategies through evolutionary principles and adaptability."
 ---
 

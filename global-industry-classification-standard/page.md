@@ -1,5 +1,5 @@
 ---
-title: "Global Industry Classification Standard (Algo Trading)"
+title: "Global Industry Classification Standard"
 description: "Explore the integration of the Global Industry Classification Standard in algorithmic trading and its impact on developing precise, sector-specific trading models."
 ---
 

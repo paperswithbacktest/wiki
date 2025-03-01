@@ -1,5 +1,5 @@
 ---
-title: "Mature Economy: Definition and Functionality (Algo Trading)"
+title: "Mature Economy: Definition and Functionality"
 description: "Explore how mature economies, algorithmic trading, and economic development shape financial systems. Understand their impact on global market stability and growth."
 ---
 

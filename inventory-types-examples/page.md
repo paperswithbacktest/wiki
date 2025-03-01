@@ -1,5 +1,5 @@
 ---
-title: "Inventory: Types and Examples (Algo Trading)"
+title: "Inventory: Types and Examples"
 description: "Explore how inventory management impacts both traditional industries and algorithmic trading revealing insights into types, methodologies, and efficiency gains."
 ---
 

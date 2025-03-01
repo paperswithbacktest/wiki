@@ -1,5 +1,5 @@
 ---
-title: "Life Income Fund: Withdrawal Process and Overview (Algo Trading)"
+title: "Life Income Fund: Withdrawal Process and Overview"
 description: "Explore how Life Income Funds (LIFs) can enhance retirement income in Canada through strategic withdrawals and algorithmic trading to optimize returns."
 ---
 

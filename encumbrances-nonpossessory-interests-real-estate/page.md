@@ -1,5 +1,5 @@
 ---
-title: "Encumbrances and Nonpossessory Interests in Real Estate (Algo Trading)"
+title: "Encumbrances and Nonpossessory Interests in Real Estate"
 description: "Learn about nonpossessory interests and encumbrances in real estate including their impact on trading and investment decisions for better market strategies."
 ---
 

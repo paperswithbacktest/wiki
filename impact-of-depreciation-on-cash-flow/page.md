@@ -1,5 +1,5 @@
 ---
-title: "Impact of Depreciation on Cash Flow (Algo Trading)"
+title: "Impact of Depreciation on Cash Flow"
 description: "Explore the intricate relationship between cash flow depreciation and algorithmic trading to understand modern financial strategies for improved business decisions."
 ---
 

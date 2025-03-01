@@ -1,5 +1,5 @@
 ---
-title: "Employee Plans Compliance Resolution System Overview (Algo Trading)"
+title: "Employee Plans Compliance Resolution System Overview"
 description: "Discover the importance of compliance in retirement plans and how EPCRS helps correct errors in 401(k) plans while enhancing compliance via algo trading."
 ---
 

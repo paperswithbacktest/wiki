@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Tangible and Intangible Assets (Algo Trading)"
+title: "Comparison of Tangible and Intangible Assets"
 description: "Explore the distinctions between tangible and intangible assets and discover how algorithmic trading enhances investment strategies for managing these assets effectively."
 ---
 

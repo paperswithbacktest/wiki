@@ -1,5 +1,5 @@
 ---
-title: "Choke Price: Concept, Mechanism, and Influences (Algo Trading)"
+title: "Choke Price: Concept, Mechanism, and Influences"
 description: "Explore the concept of choke price in algo trading analyzing its economic implications and influence on market dynamics and pricing strategies."
 ---
 

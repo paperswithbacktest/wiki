@@ -1,5 +1,5 @@
 ---
-title: "Cannabis Legislation by U.S. State (Algo Trading)"
+title: "Cannabis Legislation by U.S. State"
 description: "Explore U.S. cannabis regulations and their impact on the industry and investment strategies like algorithmic trading as legalization expands."
 ---
 

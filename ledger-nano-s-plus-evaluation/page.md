@@ -1,5 +1,5 @@
 ---
-title: "Ledger Nano S Plus Evaluation (Algo Trading)"
+title: "Ledger Nano S Plus Evaluation"
 description: "Explore the enhanced security and functionality of the Ledger Nano S Plus. Ideal for secure cryptocurrency storage and algorithmic trading, offering improved capabilities."
 ---
 

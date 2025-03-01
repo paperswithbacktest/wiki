@@ -1,5 +1,5 @@
 ---
-title: "Creating a Yield Curve in Excel (Algo Trading)"
+title: "Creating a Yield Curve in Excel"
 description: "Master Excel to create and analyze yield curves for algorithmic trading Discover financial modeling techniques to boost your trading accuracy and insights"
 ---
 

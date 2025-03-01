@@ -1,5 +1,5 @@
 ---
-title: "Crypto Automated Teller Machine (Algo Trading)"
+title: "Crypto Automated Teller Machine"
 description: "Experience the future of finance with crypto ATMs and algorithmic trading Automate and optimize your cryptocurrency transactions with speed and security"
 ---
 

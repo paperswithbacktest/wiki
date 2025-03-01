@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Robo-Advisors and Financial Advisors (Algo Trading)"
+title: "Comparison of Robo-Advisors and Financial Advisors"
 description: "Explore the evolving dynamics of investment management with our comparison of robo-advisors and financial advisors highlighting algorithms' transformative impact."
 ---
 

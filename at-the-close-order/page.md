@@ -1,5 +1,5 @@
 ---
-title: "At-the-Close Order (Algo Trading)"
+title: "At-the-Close Order"
 description: "Discover the intricacies of at-the-close orders and algorithmic trading Learn strategic approaches for optimal trade executions in modern financial markets"
 ---
 

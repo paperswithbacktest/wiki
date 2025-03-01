@@ -1,5 +1,5 @@
 ---
-title: "Investment Securities: Types and Functions (Algo Trading)"
+title: "Investment Securities: Types and Functions"
 description: "Explore investment securities and algorithmic trading their functions in capital growth and risk management Learn how these assets support diverse portfolios"
 ---
 

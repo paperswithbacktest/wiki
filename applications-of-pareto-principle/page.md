@@ -1,5 +1,5 @@
 ---
-title: "Applications of the Pareto Principle (Algo Trading)"
+title: "Applications of the Pareto Principle"
 description: "Explore how the Pareto Principle can enhance algorithmic trading by focusing on key strategies that yield maximum returns optimizing efficiency and profitability."
 ---
 

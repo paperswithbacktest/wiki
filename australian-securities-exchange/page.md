@@ -1,5 +1,5 @@
 ---
-title: "Australian Securities Exchange (Algo Trading)"
+title: "Australian Securities Exchange"
 description: "Discover how algorithmic trading transforms the Australian Securities Exchange with increased efficiency liquidity and reduced costs in the financial markets."
 ---
 

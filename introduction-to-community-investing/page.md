@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Community Investing (Algo Trading)"
+title: "Introduction to Community Investing"
 description: "Explore community investing social finance and algorithmic trading in dynamic markets Learn how these strategies impact financial growth and sustainability"
 ---
 

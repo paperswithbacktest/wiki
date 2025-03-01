@@ -1,5 +1,5 @@
 ---
-title: "Cum Rights in Finance (Algo Trading)"
+title: "Cum Rights in Finance"
 description: "Explore the dynamics of stock market finance, cum rights, and algorithmic trading to enhance investment strategies and maximize financial outcomes."
 ---
 

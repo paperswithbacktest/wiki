@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Plus500 (Algo Trading)"
+title: "Analysis of Plus500"
 description: "Explore the potential of algorithmic trading with Plus500's user-friendly platform renowned for its broad trading instruments and global regulatory compliance."
 ---
 

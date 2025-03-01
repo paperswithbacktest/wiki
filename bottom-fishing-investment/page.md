@@ -1,5 +1,5 @@
 ---
-title: "Bottom Fishing in Investment (Algo Trading)"
+title: "Bottom Fishing in Investment"
 description: "Explore bottom fishing in stock investment utilizing algorithmic trading to identify undervalued stocks for potential high returns amidst market recoveries."
 ---
 

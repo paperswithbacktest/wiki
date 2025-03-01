@@ -1,5 +1,5 @@
 ---
-title: "Bond Floor: Meaning and Calculation (Algo Trading)"
+title: "Bond Floor: Meaning and Calculation"
 description: "Explore the bond floor concept in convertible bonds along with calculation methods using algorithmic trading enhancing investments' risk management and performance."
 ---
 

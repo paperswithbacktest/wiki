@@ -1,5 +1,5 @@
 ---
-title: "Difference Between Confidence Level and Confidence Interval in Value at Risk (Algo Trading)"
+title: "Difference Between Confidence Level and Confidence Interval in Value at Risk"
 description: "Discover the distinction between confidence levels and confidence intervals in Value at Risk within algorithmic trading, and enhance your risk management strategy."
 ---
 

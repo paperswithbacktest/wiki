@@ -1,5 +1,5 @@
 ---
-title: "Blue-Chip Index: Overview and Mechanism (Algo Trading)"
+title: "Blue-Chip Index: Overview and Mechanism"
 description: "Explore the essentials of blue-chip index investments and the influential role of algorithmic trading in today's markets for stable financial growth."
 ---
 

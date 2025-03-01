@@ -1,5 +1,5 @@
 ---
-title: "High-leverage vs. high-beta portfolio (Algo Trading)"
+title: "High-leverage vs. high-beta portfolio"
 description: Discover the key differences between high-leverage and high-beta portfolios in the context of algorithmic trading. Explore how each approach influences risk and returns to align with specific trading objectives. Gain insights into constructing portfolios that maximize returns through leverage or by leveraging high-volatility stocks, utilizing algorithms to exploit market inefficiencies, and employing risk management techniques for effective trading strategies.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Attestation: Overview, Mechanisms, History, and Examples (Algo Trading)"
+title: "Attestation: Overview, Mechanisms, History, and Examples"
 description: "Explore the intricate relationship between attestation identity verification and algorithmic trading Learn how these processes ensure secure compliant financial transactions"
 ---
 

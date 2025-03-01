@@ -1,5 +1,5 @@
 ---
-title: "Greenmail: Mechanism, Examples, and Legal Considerations (Algo Trading)"
+title: "Greenmail: Mechanism, Examples, and Legal Considerations"
 description: "Explore how greenmail, a historical corporate finance tactic, influences modern business strategies and legal landscapes within the context of hostile takeovers."
 ---
 

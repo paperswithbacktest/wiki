@@ -1,5 +1,5 @@
 ---
-title: "Construction Bond: Overview, Mechanisms, Requirements, and Types (Algo Trading)"
+title: "Construction Bond: Overview, Mechanisms, Requirements, and Types"
 description: "Explore construction bonds and their essential role in the industry, ensuring project completion and financial safeguards for stakeholders amidst technological advances."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Days Sales Outstanding in Finance: Calculation and Applications (Algo Trading)"
+title: "Days Sales Outstanding in Finance: Calculation and Applications"
 description: "Explore how Days Sales Outstanding (DSO) impacts financial analysis and algorithmic trading strategies. Learn its significance for predicting company cash flow and stability."
 ---
 

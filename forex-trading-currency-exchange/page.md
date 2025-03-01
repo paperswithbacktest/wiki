@@ -1,5 +1,5 @@
 ---
-title: "Forex Trading and Currency Exchange (Algo Trading)"
+title: "Forex Trading and Currency Exchange"
 description: "Discover the transformative world of forex trading and currency exchange through algorithmic trading Explore how technology is reshaping financial markets"
 ---
 

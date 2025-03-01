@@ -1,5 +1,5 @@
 ---
-title: "Investment Taxation Guide (Algo Trading)"
+title: "Investment Taxation Guide"
 description: "Explore the intricate relationship between investment taxation and algorithmic trading to uncover how taxation influences investor strategies and net returns. Learn how algorithmic trading automates processes for faster execution while understanding how different tax types and regulations can impact trading strategies and tax outcomes. This guide helps investors optimize their approaches by balancing profitability with tax efficiency."
 ---
 

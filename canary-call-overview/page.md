@@ -1,5 +1,5 @@
 ---
-title: "Canary Call Overview (Algo Trading)"
+title: "Canary Call Overview"
 description: "Explore the Canary Call Investment Strategy in algorithmic trading combining fixed-income insights with algorithms for optimal returns and risk management."
 ---
 

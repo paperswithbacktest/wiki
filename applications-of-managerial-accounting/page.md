@@ -1,5 +1,5 @@
 ---
-title: "Applications of Managerial Accounting (Algo Trading)"
+title: "Applications of Managerial Accounting"
 description: "Explore the synergy of financial decision-making managerial accounting and algorithmic trading to enhance strategic planning and optimize business success."
 ---
 

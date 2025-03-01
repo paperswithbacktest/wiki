@@ -1,5 +1,5 @@
 ---
-title: "Exchange Rate Mechanism: Objectives and Examples (Algo Trading)"
+title: "Exchange Rate Mechanism: Objectives and Examples"
 description: "Discover the role of Exchange Rate Mechanisms in global finance and algo trading Explore their objectives examples and impact on currency stability"
 ---
 

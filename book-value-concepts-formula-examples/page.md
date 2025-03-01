@@ -1,5 +1,5 @@
 ---
-title: "Book Value: Concepts, Formula, and Examples (Algo Trading)"
+title: "Book Value: Concepts, Formula, and Examples"
 description: "Explore the significance of book value as a core financial metric in evaluating a company's net asset value essential for strategic investment decisions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Debt-To-GDP Ratio: Formula and Analysis (Algo Trading)"
+title: "Debt-To-GDP Ratio: Formula and Analysis"
 description: "Explore the significance of the Debt-to-GDP ratio in assessing a country's fiscal health and its implications for investment decisions. This article investigates into the role of algorithmic trading in analyzing economic indicators, offering insights into fiscal stability, creditworthiness, and market trends. Discover how integrating traditional fiscal analysis with advanced trading algorithms can enhance decision-making and strategic planning for institutional and retail investors."
 ---
 

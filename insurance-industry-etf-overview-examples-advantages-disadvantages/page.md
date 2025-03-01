@@ -1,5 +1,5 @@
 ---
-title: "Insurance Industry ETF: Overview, Examples, Advantages and Disadvantages (Algo Trading)"
+title: "Insurance Industry ETF: Overview, Examples, Advantages and Disadvantages"
 description: "Explore the advantages and disadvantages of investing in Insurance Industry ETFs, including diversification and algorithmic trading's influence on this sector."
 ---
 

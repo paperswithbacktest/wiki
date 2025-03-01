@@ -1,5 +1,5 @@
 ---
-title: "Cash and Cash Equivalents: Types and Examples (Algo Trading)"
+title: "Cash and Cash Equivalents: Types and Examples"
 description: "Discover the essentials of cash and cash equivalents in the financial market Learn how these assets along with algorithmic trading influence investment outcomes"
 ---
 

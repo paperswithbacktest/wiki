@@ -1,5 +1,5 @@
 ---
-title: "Liquidity Risk (Algo Trading)"
+title: "Liquidity Risk"
 description: "Explore the complexities of liquidity risk in algorithmic trading and its impact on market dynamics. Learn how to manage these risks for optimal trading outcomes."
 ---
 

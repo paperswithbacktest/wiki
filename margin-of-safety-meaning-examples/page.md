@@ -1,5 +1,5 @@
 ---
-title: "Margin of Safety: Meaning and Examples (Algo Trading)"
+title: "Margin of Safety: Meaning and Examples"
 description: "Understand the margin of safety concept in investing for risk management with examples and learn how financial analysis aids in its application in algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Enhanced Index Fund: Overview and Operation (Algo Trading)"
+title: "Enhanced Index Fund: Overview and Operation"
 description: "Explore the benefits of enhanced index funds that integrate algorithmic trading for precise execution and improved risk management in today's financial markets."
 ---
 

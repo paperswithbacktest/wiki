@@ -1,5 +1,5 @@
 ---
-title: "Dual-Class Shares: Pros and Cons (Algo Trading)"
+title: "Dual-Class Shares: Pros and Cons"
 description: "Explore the pros and cons of dual-class shares in corporate governance and algorithmic trading and their implications on investor rights and market dynamics."
 ---
 

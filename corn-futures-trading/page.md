@@ -1,5 +1,5 @@
 ---
-title: "Corn Futures Trading (Algo Trading)"
+title: "Corn Futures Trading"
 description: "Explore the essentials of corn futures trading and algorithmic strategies boosting market efficiency Learn how farmers and traders navigate price volatility and profit opportunities"
 ---
 

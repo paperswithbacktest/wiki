@@ -1,5 +1,5 @@
 ---
-title: "Average Operating Expenses in the Oil and Gas Industry (Algo Trading)"
+title: "Average Operating Expenses in the Oil and Gas Industry"
 description: "Explore how operational expenses in oil and gas impact profitability and discover the role of algorithmic trading in optimizing trading strategies and efficiency."
 ---
 

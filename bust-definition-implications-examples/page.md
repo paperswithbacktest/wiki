@@ -1,5 +1,5 @@
 ---
-title: "Bust: Definition, Implications, and Examples (Algo Trading)"
+title: "Bust: Definition, Implications, and Examples"
 description: "Explore the intricate dynamics between economic downturns and algo trading Learn how these forces shape financial markets and strategic responses during recessions"
 ---
 

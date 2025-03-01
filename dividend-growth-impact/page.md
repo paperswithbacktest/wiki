@@ -1,5 +1,5 @@
 ---
-title: "Dividend Growth Impact (Algo Trading)"
+title: "Dividend Growth Impact"
 description: "Explore the synergy of dividend growth, investment calculations, and algorithmic trading to optimize returns and build a resilient investment strategy."
 ---
 

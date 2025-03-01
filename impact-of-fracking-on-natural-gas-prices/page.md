@@ -1,5 +1,5 @@
 ---
-title: "Impact of Fracking on Natural Gas Prices (Algo Trading)"
+title: "Impact of Fracking on Natural Gas Prices"
 description: "Explore how fracking impacts natural gas prices and the role of algorithmic trading in shaping energy markets. Navigate this complex energy landscape."
 ---
 

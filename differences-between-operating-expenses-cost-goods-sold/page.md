@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Operating Expenses and Cost of Goods Sold (Algo Trading)"
+title: "Differences Between Operating Expenses and Cost of Goods Sold"
 description: "Explore the distinctions between operating expenses and COGS in algo trading. Learn their impact on financial analysis for optimizing trading efficiency and profitability."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Business Inventories and Their Function (Algo Trading)"
+title: "Business Inventories and Their Function"
 description: "Explore the crucial role of business inventories in economic trends and algorithmic trading Discover how inventory management optimizes operations and trading strategies"
 ---
 

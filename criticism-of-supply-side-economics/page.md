@@ -1,5 +1,5 @@
 ---
-title: "Criticism of Supply-Side Economics (Algo Trading)"
+title: "Criticism of Supply-Side Economics"
 description: "Explore the criticisms of supply-side economics in the context of algorithmic trading and its impact on modern economic policies and fiscal debates."
 ---
 

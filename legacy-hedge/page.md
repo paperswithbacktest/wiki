@@ -1,5 +1,5 @@
 ---
-title: "Legacy Hedge (Algo Trading)"
+title: "Legacy Hedge"
 description: "Explore how legacy hedge strategies and algorithmic trading can be synergized for improved risk management and market efficiency in volatile times."
 ---
 

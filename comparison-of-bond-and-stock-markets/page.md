@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Bond and Stock Markets (Algo Trading)"
+title: "Comparison of Bond and Stock Markets"
 description: "Explore the dynamics of bond and stock markets with a focus on algo trading's transformative role enhancing transaction speed and market efficiency."
 ---
 

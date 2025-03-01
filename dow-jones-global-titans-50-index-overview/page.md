@@ -1,5 +1,5 @@
 ---
-title: "Dow Jones Global Titans 50 Index Overview (Algo Trading)"
+title: "Dow Jones Global Titans 50 Index Overview"
 description: "Explore the Dow Jones Global Titans 50 Index and discover how algorithmic trading enhances investment strategies for top multinational corporations."
 ---
 

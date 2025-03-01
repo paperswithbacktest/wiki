@@ -1,5 +1,5 @@
 ---
-title: "Factor Investing and Strategy Mechanics (Algo Trading)"
+title: "Factor Investing and Strategy Mechanics"
 description: "Explore factor investing and algorithmic trading, powerful financial strategies enhancing returns and managing risks with quantitative methods and technology."
 ---
 

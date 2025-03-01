@@ -1,5 +1,5 @@
 ---
-title: "InterNotes (Algo Trading)"
+title: "InterNotes"
 description: "Explore how InterNotes and algorithmic trading transform the corporate bond market offering retail investors structured debt security options and efficient trading strategies."
 ---
 

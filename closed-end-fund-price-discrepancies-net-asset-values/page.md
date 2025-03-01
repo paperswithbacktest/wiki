@@ -1,5 +1,5 @@
 ---
-title: "Closed-End Fund Price Discrepancies and Net Asset Values (Algo Trading)"
+title: "Closed-End Fund Price Discrepancies and Net Asset Values"
 description: "Explore the complexities of closed-end fund (CEF) price discrepancies and net asset values in algorithmic trading. Understand how CEFs differ from open-end funds, with market prices often diverging from NAV due to fixed shares and market dynamics. Learn about the opportunities and challenges posed by trading at premiums or discounts, and discover how algorithms are used to exploit these anomalies. This article offers a deep dive into the closed-end fund puzzle, shedding light on the unique investment landscape of CEFs and strategic gains through algorithmic trading."
 ---
 

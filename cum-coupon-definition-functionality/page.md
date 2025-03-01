@@ -1,5 +1,5 @@
 ---
-title: "Cum Coupon: Definition and Functionality (Algo Trading)"
+title: "Cum Coupon: Definition and Functionality"
 description: "Explore the nuances of cum coupon bonds and algorithmic trading, essential for maximizing returns in bond investments and navigating global financial markets."
 ---
 

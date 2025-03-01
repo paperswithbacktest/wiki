@@ -1,5 +1,5 @@
 ---
-title: "International Currency Markets (Algo Trading)"
+title: "International Currency Markets"
 description: "Explore the international currency markets and the transformative impact of algorithmic trading in forex Learn about market dynamics and trading strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Implicit Costs and Their Functionality (Algo Trading)"
+title: "Implicit Costs and Their Functionality"
 description: "Explore how economic cost analysis, focusing on implicit costs, enhances algorithmic trading strategies, improving financial decisions and profitability."
 ---
 

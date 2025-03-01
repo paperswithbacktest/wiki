@@ -1,5 +1,5 @@
 ---
-title: "Factory Orders and Their Function (Algo Trading)"
+title: "Factory Orders and Their Function"
 description: "Understand the critical role of manufacturing factory orders in economic forecasting and algorithmic trading strategies to enhance market predictions and trading approaches."
 ---
 

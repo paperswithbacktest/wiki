@@ -1,5 +1,5 @@
 ---
-title: "Maximizing Profit Through Marginal Cost and Revenue (Algo Trading)"
+title: "Maximizing Profit Through Marginal Cost and Revenue"
 description: "Enhance trading profitability by mastering the equilibrium between marginal cost and revenue. Apply economic concepts to refine algorithms and strategic planning."
 ---
 

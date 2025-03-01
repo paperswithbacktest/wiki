@@ -1,5 +1,5 @@
 ---
-title: "Commercial Real Estate Loans (Algo Trading)"
+title: "Commercial Real Estate Loans"
 description: "Explore how commercial real estate loans and algorithmic trading converge to create innovative finance strategies transforming the real estate landscape for investors."
 ---
 

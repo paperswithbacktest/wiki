@@ -1,5 +1,5 @@
 ---
-title: "Amount Realized in Finance (Algo Trading)"
+title: "Amount Realized in Finance"
 description: "Discover the vital role of 'amount realized' in finance and algorithmic trading, where accurate calculations of financial outcomes enhance trading strategies."
 ---
 

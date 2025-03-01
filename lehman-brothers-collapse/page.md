@@ -1,5 +1,5 @@
 ---
-title: "Lehman Brothers Collapse (Algo Trading)"
+title: "Lehman Brothers Collapse"
 description: "Explore the impact of algorithmic trading in Lehman Brothers' historic collapse during the 2008 financial crisis highlighting systemic risks and market volatility."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Frontier Markets: Overview and Historical Context (Algo Trading)"
+title: "Frontier Markets: Overview and Historical Context"
 description: "Explore the dynamics of frontier markets and algorithmic trading to unlock unique investment opportunities and growth potential while managing inherent risks."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "E-mini S&P 500: Trading and Examples (Algo Trading)"
+title: "E-mini S&P 500: Trading and Examples"
 description: "Explore how algorithmic trading shapes the E-mini S&P 500 futures market with insights on trading strategies technology impact and market opportunities."
 ---
 

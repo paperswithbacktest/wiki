@@ -1,5 +1,5 @@
 ---
-title: "Bullish Belt Hold Candlestick Pattern (Algo Trading)"
+title: "Bullish Belt Hold Candlestick Pattern"
 description: "Discover the bullish belt hold candlestick pattern and its role in algorithmic trading Learn how to identify this pattern and use it to capture market reversals effectively"
 ---
 

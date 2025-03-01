@@ -1,5 +1,5 @@
 ---
-title: "Jump Trading (Algo Trading)"
+title: "Jump Trading"
 description: "Explore the dynamic world of algorithmic trading and discover Jump Trading's innovative strategies in the financial market. Learn how technology transforms trading."
 ---
 

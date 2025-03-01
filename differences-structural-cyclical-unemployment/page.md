@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Structural and Cyclical Unemployment (Algo Trading)"
+title: "Differences Between Structural and Cyclical Unemployment"
 description: "Explore the key differences between structural and cyclical unemployment and their impact on economic cycles and algorithmic trading strategies."
 ---
 

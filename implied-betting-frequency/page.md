@@ -1,5 +1,5 @@
 ---
-title: "Implied betting frequency (Algo Trading)"
+title: "Implied betting frequency"
 description: Explore the concept of implied betting frequency in algorithmic trading and its crucial role in optimizing trading strategies. Understand how it helps predict trade frequency based on historical data and market dynamics enabling better risk management and execution efficiency. Discover its importance across various trading styles especially in high-frequency trading by aligning strategies with current market conditions for increased profitability and adaptability.
 ---
 

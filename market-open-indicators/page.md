@@ -1,5 +1,5 @@
 ---
-title: "Market Open Indicators (Algo Trading)"
+title: "Market Open Indicators"
 description: "Discover the vital role of stock market indicators and algorithmic trading in enhancing investment strategies at market open where volatility peaks."
 ---
 

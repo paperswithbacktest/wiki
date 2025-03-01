@@ -1,5 +1,5 @@
 ---
-title: "Arbitrage in Investing: Mechanisms and Examples (Algo Trading)"
+title: "Arbitrage in Investing: Mechanisms and Examples"
 description: "Arbitrage and algorithmic trading harness market inefficiencies and technology to maximize portfolio returns with minimal risk, transforming financial strategies."
 ---
 

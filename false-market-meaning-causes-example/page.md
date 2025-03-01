@@ -1,5 +1,5 @@
 ---
-title: "False Market: Meaning and Causes with Example (Algo Trading)"
+title: "False Market: Meaning and Causes with Example"
 description: "Explore the significance of false markets in modern finance. Understand their causes, impact on algorithmic trading, and repercussions for economic stability."
 ---
 

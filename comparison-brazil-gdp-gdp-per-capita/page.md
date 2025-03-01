@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Brazil's GDP and GDP Per Capita (Algo Trading)"
+title: "Comparison of Brazil's GDP and GDP Per Capita"
 description: "Explore Brazil's economic strength through GDP and GDP per capita insights highlighting key sectors and the impact of algorithmic trading on growth."
 ---
 

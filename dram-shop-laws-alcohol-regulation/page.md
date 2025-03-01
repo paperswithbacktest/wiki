@@ -1,5 +1,5 @@
 ---
-title: "Dram Shop Laws in Alcohol Regulation (Algo Trading)"
+title: "Dram Shop Laws in Alcohol Regulation"
 description: "Explore how dram shop laws intersect with liability and algorithmic trading in alcohol regulation enhancing legal responsibility and compliance measures."
 ---
 

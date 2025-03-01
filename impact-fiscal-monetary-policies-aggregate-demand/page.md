@@ -1,5 +1,5 @@
 ---
-title: "Impact of Fiscal and Monetary Policies on Aggregate Demand (Algo Trading)"
+title: "Impact of Fiscal and Monetary Policies on Aggregate Demand"
 description: "Explore how fiscal and monetary policies shape aggregate demand and influence economic trends through algorithmic trading strategies and insights."
 ---
 

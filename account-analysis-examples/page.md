@@ -1,5 +1,5 @@
 ---
-title: "Account Analysis and Examples (Algo Trading)"
+title: "Account Analysis and Examples"
 description: "Discover the intricacies of account and financial analysis in algo trading. Learn how they shape strategies with metrics and algorithms for success."
 ---
 

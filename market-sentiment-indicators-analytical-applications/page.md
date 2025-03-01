@@ -1,5 +1,5 @@
 ---
-title: "Market Sentiment Indicators and Their Analytical Applications (Algo Trading)"
+title: "Market Sentiment Indicators and Their Analytical Applications"
 description: "Explore modern strategies combining market sentiment with algorithmic trading and financial analysis to optimize investment decisions in dynamic markets."
 ---
 

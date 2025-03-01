@@ -1,5 +1,5 @@
 ---
-title: "Impact of the Soviet Economic System on Consumer Goods (Algo Trading)"
+title: "Impact of the Soviet Economic System on Consumer Goods"
 description: "Discover how the Soviet command economy impacted consumer goods production, leading to chronic shortages and a thriving underground market amid centralization."
 ---
 

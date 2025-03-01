@@ -1,5 +1,5 @@
 ---
-title: "Analysis of iPath S&P 500 VIX Futures ETF (Algo Trading)"
+title: "Analysis of iPath S&P 500 VIX Futures ETF"
 description: "Discover the role of algorithmic trading in optimizing strategies for the iPath S&P 500 VIX Futures ETF with insights on volatility and market exposure."
 ---
 

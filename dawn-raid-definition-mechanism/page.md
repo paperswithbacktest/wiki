@@ -1,5 +1,5 @@
 ---
-title: "Dawn Raid: Definition and Mechanism (Algo Trading)"
+title: "Dawn Raid: Definition and Mechanism"
 description: "Explore dawn raids in algo trading uncovering how these strategic maneuvers enable swift, discreet takeovers while highlighting their mechanisms and algorithmic impact."
 ---
 

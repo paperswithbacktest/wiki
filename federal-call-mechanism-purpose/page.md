@@ -1,5 +1,5 @@
 ---
-title: "Federal Call: Mechanism and Purpose (Algo Trading)"
+title: "Federal Call: Mechanism and Purpose"
 description: "Explore how federal call regulations ensure market stability in algorithmic trading by enforcing margin requirements that prevent excessive leverage and risk."
 ---
 

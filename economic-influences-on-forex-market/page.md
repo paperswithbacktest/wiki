@@ -1,5 +1,5 @@
 ---
-title: "Economic Influences on the Forex Market (Algo Trading)"
+title: "Economic Influences on the Forex Market"
 description: "Explore the dynamic forex market affected by macroeconomic factors like GDP and inflation alongside the impact of algorithmic trading on currency values."
 ---
 

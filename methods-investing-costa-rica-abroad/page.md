@@ -1,5 +1,5 @@
 ---
-title: "Methods of Investing in Costa Rica From Abroad (Algo Trading)"
+title: "Methods of Investing in Costa Rica From Abroad"
 description: "Explore various investment strategies for Costa Rica, focusing on algorithmic trading to optimize returns amid its stable economic environment and diverse sectors."
 ---
 

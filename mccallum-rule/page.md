@@ -1,5 +1,5 @@
 ---
-title: "McCallum Rule (Algo Trading)"
+title: "McCallum Rule"
 description: "Explore the McCallum Rule's impact on monetary policy and algorithmic trading; discover its framework for setting monetary base targets using GDP and velocity of money."
 ---
 

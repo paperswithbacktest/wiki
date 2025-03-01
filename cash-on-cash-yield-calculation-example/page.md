@@ -1,5 +1,5 @@
 ---
-title: "Cash-on-Cash Yield: Calculation and Example (Algo Trading)"
+title: "Cash-on-Cash Yield: Calculation and Example"
 description: "Explore cash-on-cash yield calculations to optimize real estate investments and enhance algorithmic trading strategies. Understand real-world applications and potential insights."
 ---
 

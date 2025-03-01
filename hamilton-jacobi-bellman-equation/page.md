@@ -1,5 +1,5 @@
 ---
-title: "Hamilton-Jacobi-Bellman equation (Algo Trading)"
+title: "Hamilton-Jacobi-Bellman equation"
 description: "Discover how the Hamilton-Jacobi-Bellman equation enhances algorithmic trading by optimizing decision-making for maximum profit and minimal risk."
 ---
 

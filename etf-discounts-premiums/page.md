@@ -1,5 +1,5 @@
 ---
-title: "ETF Discounts and Premiums (Algo Trading)"
+title: "ETF Discounts and Premiums"
 description: "Explore the intricacies of ETF pricing including premiums and discounts relative to NAV Understand how algorithmic trading impacts these financial instruments and pricing efficiency"
 ---
 

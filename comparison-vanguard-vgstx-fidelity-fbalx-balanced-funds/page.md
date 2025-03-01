@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Vanguard VGSTX and Fidelity FBALX Balanced Funds (Algo Trading)"
+title: "Comparison of Vanguard VGSTX and Fidelity FBALX Balanced Funds"
 description: "Explore the comparison between Vanguard VGSTX and Fidelity FBALX balanced funds Discover how algorithmic trading influences their performance and benefits."
 ---
 

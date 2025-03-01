@@ -1,5 +1,5 @@
 ---
-title: "Dividend Declaration Exceeding Earnings Per Share (Algo Trading)"
+title: "Dividend Declaration Exceeding Earnings Per Share"
 description: "Explore how EPS and dividend strategies blend with algorithmic trading to refine investment approaches. Harness data-driven insights for optimized market performance."
 ---
 

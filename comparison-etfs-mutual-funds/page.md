@@ -1,5 +1,5 @@
 ---
-title: "Comparison of ETFs and Mutual Funds (Algo Trading)"
+title: "Comparison of ETFs and Mutual Funds"
 description: "Compare ETFs, mutual funds, and algo trading to understand their benefits, risks, and unique features. Make informed investment choices with this guide."
 ---
 

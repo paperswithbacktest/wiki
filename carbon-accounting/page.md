@@ -1,5 +1,5 @@
 ---
-title: "Carbon Accounting (Algo Trading)"
+title: "Carbon Accounting"
 description: "Explore the vital link between carbon accounting and algo trading and discover strategies to balance financial efficiency with environmental sustainability for a greener future"
 ---
 

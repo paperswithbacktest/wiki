@@ -1,5 +1,5 @@
 ---
-title: "Liquidity Risk in Banking and Business (Algo Trading)"
+title: "Liquidity Risk in Banking and Business"
 description: "Explore the critical role of managing liquidity risk and business risk in banking and business. Understand how algorithmic trading adds complexity to these risks and impacts financial stability. This article provides insights into the interplay among these factors, emphasizing the importance of comprehensive risk management strategies for financial professionals and policymakers seeking to ensure market stability and optimize risk approaches."
 ---
 

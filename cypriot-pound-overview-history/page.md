@@ -1,5 +1,5 @@
 ---
-title: "Cypriot Pound: Overview and History (Algo Trading)"
+title: "Cypriot Pound: Overview and History"
 description: "Explore the history of the Cypriot Pound and its economic impact on Cyprus, alongside the evolving role of algorithmic trading in leveraging historical currency trends."
 ---
 

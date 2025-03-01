@@ -1,5 +1,5 @@
 ---
-title: "Bond Vigilantes (Algo Trading)"
+title: "Bond Vigilantes"
 description: "Explore the intricate dynamics of bond vigilantes in financial markets and their impact on fiscal policies through human actions and algorithmic trading strategies."
 ---
 

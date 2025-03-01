@@ -1,5 +1,5 @@
 ---
-title: "Economy of India: Revenue Sources (Algo Trading)"
+title: "Economy of India: Revenue Sources"
 description: "Explore the dynamic landscape of India's economy and its diverse revenue sources, including the growing impact of algorithmic trading in the financial sector."
 ---
 

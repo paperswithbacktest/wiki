@@ -1,5 +1,5 @@
 ---
-title: "Cash-and-Carry Trade (Algo Trading)"
+title: "Cash-and-Carry Trade"
 description: "Explore cash-and-carry trading, a strategy exploiting price differences between assets and futures contracts, enhanced with algorithmic trading for precision."
 ---
 

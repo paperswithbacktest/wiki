@@ -1,5 +1,5 @@
 ---
-title: "Financial Portal: Overview and Functionality (Algo Trading)"
+title: "Financial Portal: Overview and Functionality"
 description: "Discover the transformative world of algo trading and financial platforms Learn how these tools empower users by automating trading and managing personal finances"
 ---
 

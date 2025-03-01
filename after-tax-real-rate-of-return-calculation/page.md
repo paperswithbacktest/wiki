@@ -1,5 +1,5 @@
 ---
-title: "After-Tax Real Rate of Return and Calculation Method (Algo Trading)"
+title: "After-Tax Real Rate of Return and Calculation Method"
 description: "Discover how after-tax real rate of return impacts investment profitability in algorithmic trading by accounting for inflation and taxes. Optimize gains efficiently."
 ---
 

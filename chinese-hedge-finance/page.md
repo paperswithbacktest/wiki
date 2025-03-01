@@ -1,5 +1,5 @@
 ---
-title: "Chinese Hedge in Finance (Algo Trading)"
+title: "Chinese Hedge in Finance"
 description: "Explore the rise of Chinese hedge funds redefining finance with cutting-edge algorithmic trading strategies optimizing investment outcomes globally."
 ---
 

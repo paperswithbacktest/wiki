@@ -1,5 +1,5 @@
 ---
-title: "Marginal Lender (Algo Trading)"
+title: "Marginal Lender"
 description: "Explore the intricate world of finance with insights into marginal lending and algorithmic trading, key drivers of modern market liquidity and trading efficiency."
 ---
 

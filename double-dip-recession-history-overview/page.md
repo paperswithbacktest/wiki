@@ -1,5 +1,5 @@
 ---
-title: "Double-Dip Recession: History and Overview (Algo Trading)"
+title: "Double-Dip Recession: History and Overview"
 description: "Explore the dynamics of double-dip recessions and the role of algorithmic trading in navigating economic fluctuations Discover insights for investors today"
 ---
 

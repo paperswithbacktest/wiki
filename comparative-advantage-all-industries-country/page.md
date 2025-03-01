@@ -1,5 +1,5 @@
 ---
-title: "Possibility of Comparative Advantage in All Industries for a Country (Algo Trading)"
+title: "Possibility of Comparative Advantage in All Industries for a Country"
 description: "Explore how countries can have a comparative advantage in various industries, boosted by technological advancements like algorithmic trading, enhancing global trade dynamics."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Brian Deese: Education and Achievements at the National Economic Council (Algo Trading)"
+title: "Brian Deese: Education and Achievements at the National Economic Council"
 description: "Explore how Brian Deese's expertise at the National Economic Council has shaped U.S. economic policy and the rise of algorithmic trading in financial markets."
 ---
 

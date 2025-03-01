@@ -1,5 +1,5 @@
 ---
-title: "Credit Risk Assessment for Small Companies (Algo Trading)"
+title: "Credit Risk Assessment for Small Companies"
 description: "Explore how small companies can balance credit risk and algorithmic trading to achieve financial stability and growth. Discover strategies to manage unique financial challenges."
 ---
 

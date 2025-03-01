@@ -1,5 +1,5 @@
 ---
-title: "Intraday Momentum Index: Description and Application (Algo Trading)"
+title: "Intraday Momentum Index: Description and Application"
 description: "Explore the Intraday Momentum Index and its application in algo trading Discover how this unique momentum indicator aids in making informed intraday decisions"
 ---
 

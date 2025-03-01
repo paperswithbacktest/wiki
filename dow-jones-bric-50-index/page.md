@@ -1,5 +1,5 @@
 ---
-title: "Dow Jones BRIC 50 Index (Algo Trading)"
+title: "Dow Jones BRIC 50 Index"
 description: "Explore the Dow Jones BRIC 50 Index focusing on Brazil India and China as it evolves to become a key benchmark for investors in dynamic emerging markets."
 ---
 

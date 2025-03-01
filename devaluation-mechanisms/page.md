@@ -1,5 +1,5 @@
 ---
-title: "Devaluation and Its Mechanisms (Algo Trading)"
+title: "Devaluation and Its Mechanisms"
 description: "Explore the impact of economic policy on financial markets with a focus on currency devaluation and algorithmic trading Discover their roles in today's economy"
 ---
 

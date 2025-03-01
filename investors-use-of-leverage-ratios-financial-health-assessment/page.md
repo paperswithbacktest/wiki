@@ -1,5 +1,5 @@
 ---
-title: "Investors' Use of Leverage Ratios in Financial Health Assessment (Algo Trading)"
+title: "Investors' Use of Leverage Ratios in Financial Health Assessment"
 description: "Leverage ratios are crucial for investors assessing financial health and algorithmic trading can integrate these insights to enhance data-driven investment strategies."
 ---
 

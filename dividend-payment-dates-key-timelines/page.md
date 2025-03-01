@@ -1,5 +1,5 @@
 ---
-title: "Dividend Payment Dates and Key Timelines (Algo Trading)"
+title: "Dividend Payment Dates and Key Timelines"
 description: "Explore the key timelines and implications of dividend payments in algorithmic trading. Learn how dividends impact stock prices and optimize investment returns."
 ---
 

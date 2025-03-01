@@ -1,5 +1,5 @@
 ---
-title: "Held-to-Maturity Securities: Overview and Examples (Algo Trading)"
+title: "Held-to-Maturity Securities: Overview and Examples"
 description: "Discover the benefits of held-to-maturity securities and algorithmic trading in fixed income markets Learn how these tools enhance stability and investment strategy"
 ---
 

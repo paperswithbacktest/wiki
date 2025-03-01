@@ -1,5 +1,5 @@
 ---
-title: "Equity Premium Puzzle: Overview and Explanations (Algo Trading)"
+title: "Equity Premium Puzzle: Overview and Explanations"
 description: "Unlock the complexities of the equity premium puzzle and its implications for investment risk and algorithmic trading through finance theories and empirical research."
 ---
 

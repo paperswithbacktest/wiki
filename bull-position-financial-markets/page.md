@@ -1,5 +1,5 @@
 ---
-title: "Bull Position in Financial Markets (Algo Trading)"
+title: "Bull Position in Financial Markets"
 description: "Master the art of bullish investing with insights on bull positions and algorithmic trading techniques to capitalize on rising market trends efficiently."
 ---
 

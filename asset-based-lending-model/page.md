@@ -1,5 +1,5 @@
 ---
-title: "Asset-Based Lending Model (Algo Trading)"
+title: "Asset-Based Lending Model"
 description: "Explore the connection between asset-based lending models and algorithmic trading to optimize financial strategies, enhance liquidity, and drive business growth."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Factors Influencing Corporate Stock Splits (Algo Trading)"
+title: "Factors Influencing Corporate Stock Splits"
 description: "Explore how stock splits and algorithmic trading impact corporate finance and investing strategies to optimize liquidity, market activity, and trading efficiency."
 ---
 

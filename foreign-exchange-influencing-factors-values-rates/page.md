@@ -1,5 +1,5 @@
 ---
-title: "Foreign Exchange: Influencing Factors of Values and Rates (Algo Trading)"
+title: "Foreign Exchange: Influencing Factors of Values and Rates"
 description: "Discover the dynamics of forex trading including factors influencing currency values the role of algorithmic trading and exchange rate impacts on global trade."
 ---
 

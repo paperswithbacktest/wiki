@@ -1,5 +1,5 @@
 ---
-title: "Impact of Inflation on Cost of Living (Algo Trading)"
+title: "Impact of Inflation on Cost of Living"
 description: "Explore the intricate links between inflation, cost of living, and algorithmic trading in today's economy, highlighting their combined impact on financial decisions."
 ---
 

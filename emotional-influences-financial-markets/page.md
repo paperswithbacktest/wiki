@@ -1,5 +1,5 @@
 ---
-title: "Emotional Influences on Financial Markets (Algo Trading)"
+title: "Emotional Influences on Financial Markets"
 description: "Explore how fear and greed impact financial markets and learn how algorithmic trading seeks to manage these emotional influences for better decision-making."
 ---
 

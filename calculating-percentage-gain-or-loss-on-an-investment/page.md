@@ -1,5 +1,5 @@
 ---
-title: "Calculating Percentage Gain or Loss on an Investment (Algo Trading)"
+title: "Calculating Percentage Gain or Loss on an Investment"
 description: "Learn how to calculate percentage gains or losses on investments and optimize strategies using algorithmic trading for improved accuracy and efficiency."
 ---
 

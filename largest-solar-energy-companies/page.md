@@ -1,5 +1,5 @@
 ---
-title: "Largest Solar Energy Companies (Algo Trading)"
+title: "Largest Solar Energy Companies"
 description: "Explore how top solar companies like NextEra Energy and First Solar are leading the renewable transformation and how algorithmic trading optimizes solar investments."
 ---
 

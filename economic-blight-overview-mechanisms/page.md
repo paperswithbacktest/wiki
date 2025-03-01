@@ -1,5 +1,5 @@
 ---
-title: "Economic Blight: Overview and Mechanisms (Algo Trading)"
+title: "Economic Blight: Overview and Mechanisms"
 description: "Explore the intersection of economic blight and algorithmic trading and how they influence market dynamics during economic disruptions. Understand the intricate impacts and strategies involved."
 ---
 

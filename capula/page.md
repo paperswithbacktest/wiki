@@ -1,5 +1,5 @@
 ---
-title: "Capula (Algo Trading)"
+title: "Capula"
 description: "Explore Capula Investment Management's cutting-edge algorithmic trading strategies and innovative financial techniques that shape modern investment practices."
 ---
 

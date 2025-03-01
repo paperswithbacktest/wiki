@@ -1,5 +1,5 @@
 ---
-title: "Calculating Macaulay Duration Using Excel (Algo Trading)"
+title: "Calculating Macaulay Duration Using Excel"
 description: "Learn how to calculate Macaulay Duration using Excel to enhance your bond investment strategy. Perfect for algorithmic trading, risk management, and valuation."
 ---
 

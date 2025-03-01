@@ -1,5 +1,5 @@
 ---
-title: "Major Currency Pairs in Forex Trading (Algo Trading)"
+title: "Major Currency Pairs in Forex Trading"
 description: "Explore the significance of major currency pairs in forex trading. With high liquidity and stability, these pairs are fundamental to the forex market, offering traders lower risks and efficient trade execution. Learn about the intricacies of algorithmic trading within the forex arena and how technological advances enhance trading precision and efficiency, essential for successful forex market navigation."
 ---
 

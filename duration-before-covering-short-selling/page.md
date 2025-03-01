@@ -1,5 +1,5 @@
 ---
-title: "Duration Before Covering in Short Selling (Algo Trading)"
+title: "Duration Before Covering in Short Selling"
 description: "Explore the intricacies of short selling and algorithmic trading with insights into strategies, risk management, and the impacts on modern financial markets."
 ---
 

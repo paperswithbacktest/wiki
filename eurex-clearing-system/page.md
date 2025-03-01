@@ -1,5 +1,5 @@
 ---
-title: "Eurex Clearing System (Algo Trading)"
+title: "Eurex Clearing System"
 description: "Explore the pivotal role of Eurex Clearing in algorithmic trading with insights into risk management and market infrastructure. Enhance your trading strategies today."
 ---
 

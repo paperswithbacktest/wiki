@@ -1,5 +1,5 @@
 ---
-title: "Jarrow-Turnbull Model: Overview and Mechanism (Algo Trading)"
+title: "Jarrow-Turnbull Model: Overview and Mechanism"
 description: "Discover the Jarrow-Turnbull model's role in credit risk and algorithmic trading, offering insights into market adaptations for strategic financial decisions."
 ---
 

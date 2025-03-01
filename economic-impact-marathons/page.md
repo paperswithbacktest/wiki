@@ -1,5 +1,5 @@
 ---
-title: "Economic Impact of Marathons (Algo Trading)"
+title: "Economic Impact of Marathons"
 description: "Explore how marathons have evolved into significant economic forces, impacting local economies, corporate sponsorships, and even trading markets. Discover their role in boosting city economies, with events like the New York City and Boston Marathons contributing millions in revenue. Uncover the strategic partnerships corporations form for brand exposure and how algorithmic trading leverages marathon data. Dive into the complex financial ecosystem encompassing entry fees, sponsorships, and pre-race considerations. Understand the transformative economic impact marathons have beyond athletic endurance, illustrating a dynamic model of economic growth driven by these mass participation events."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "EBITDA Margin Versus Profit Margin: Differences (Algo Trading)"
+title: "EBITDA Margin Versus Profit Margin: Differences"
 description: "Explore the vital differences between EBITDA and profit margins in algo trading to enhance decision-making and leverage financial strategies effectively."
 ---
 

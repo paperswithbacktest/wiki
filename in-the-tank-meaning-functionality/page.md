@@ -1,5 +1,5 @@
 ---
-title: "In The Tank: Meaning and Functionality (Algo Trading)"
+title: "In The Tank: Meaning and Functionality"
 description: "Explore the meaning of 'in the tank' in trading and its link to algorithmic trading Discover how these concepts affect financial strategies and decision-making"
 ---
 

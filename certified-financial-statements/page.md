@@ -1,5 +1,5 @@
 ---
-title: "Certified Financial Statements (Algo Trading)"
+title: "Certified Financial Statements"
 description: "Certified financial statements are crucial in algo trading ensuring data accuracy for dynamic trading decisions while boosting investor trust and market stability."
 ---
 

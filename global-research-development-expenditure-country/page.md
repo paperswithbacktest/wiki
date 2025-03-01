@@ -1,5 +1,5 @@
 ---
-title: "Global Research and Development Expenditure by Country (Algo Trading)"
+title: "Global Research and Development Expenditure by Country"
 description: "Explore how global R&D expenditures impact technological advancements in algorithmic trading. Discover which countries lead in investing for innovation and economic growth."
 ---
 

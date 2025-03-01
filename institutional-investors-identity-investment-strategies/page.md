@@ -1,5 +1,5 @@
 ---
-title: "Institutional Investors: Identity and Investment Strategies (Algo Trading)"
+title: "Institutional Investors: Identity and Investment Strategies"
 description: "Explore the identity and strategies of institutional investors in financial markets Learn how algorithmic trading and advanced analytics empower their investment decisions"
 ---
 

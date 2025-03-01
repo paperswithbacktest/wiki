@@ -1,5 +1,5 @@
 ---
-title: "James J. McNulty Biography (Algo Trading)"
+title: "James J. McNulty Biography"
 description: "Explore the influential career of James J McNulty in algorithmic trading and leadership at major financial exchanges highlighting his pivotal industry role."
 ---
 

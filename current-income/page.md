@@ -1,5 +1,5 @@
 ---
-title: "Current Income (Algo Trading)"
+title: "Current Income"
 description: "Explore current income strategies and algorithmic trading to enhance personal finance. Leverage technology for efficient cash flows and optimize your financial health."
 ---
 

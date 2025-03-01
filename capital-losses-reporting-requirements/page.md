@@ -1,5 +1,5 @@
 ---
-title: "Capital Losses and Reporting Requirements (Algo Trading)"
+title: "Capital Losses and Reporting Requirements"
 description: "Understand capital losses impact and IRS compliance in algo trading. Optimize tax strategies with Form 8949 while leveraging algorithmic trading advantages."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Hedge Clause: Overview and Structure (Algo Trading)"
+title: "Hedge Clause: Overview and Structure"
 description: "Explore hedge clauses in algorithmic trading with insights into their role in risk management and legal compliance in financial contracts to ensure market stability."
 ---
 

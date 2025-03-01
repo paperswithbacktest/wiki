@@ -1,5 +1,5 @@
 ---
-title: "A Trader’s Mindset (Algo Trading)"
+title: "A Trader’s Mindset"
 description: Enhance your algorithmic trading skills with insights on building the right trader's mindset. Discover how discipline, emotional regulation, and confidence play pivotal roles in executing efficient trading strategies while maintaining detachment from outcomes. Embrace it as a craft requiring continuous learning and a focus on developing robust methodologies. Align your trading approach with your personal traits for improved decision-making and leverage the speed and precision of algorithms to navigate the financial markets with resilience and adaptability.
 ---
 

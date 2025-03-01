@@ -1,5 +1,5 @@
 ---
-title: "Dollar-Cost Averaging for Wealth Accumulation (Algo Trading)"
+title: "Dollar-Cost Averaging for Wealth Accumulation"
 description: "Explore dollar-cost averaging (DCA) with algorithmic trading to enhance wealth accumulation while minimizing market risks and optimizing investment efficiency."
 ---
 

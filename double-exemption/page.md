@@ -1,5 +1,5 @@
 ---
-title: "Double Exemption (Algo Trading)"
+title: "Double Exemption"
 description: "Explore the complexities of tax status, financial terminology, double exemption, and algorithmic trading to optimize financial strategies and minimize liabilities."
 ---
 

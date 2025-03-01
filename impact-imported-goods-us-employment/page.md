@@ -1,5 +1,5 @@
 ---
-title: "Impact of Imported Goods on U.S. Employment (Algo Trading)"
+title: "Impact of Imported Goods on U.S. Employment"
 description: "Explore how imported goods and algorithmic trading impact U.S. employment by redefining industry roles, necessitating new skills, and affecting job stability."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of EBIT and EBITDA (Algo Trading)"
+title: "Comparison of EBIT and EBITDA"
 description: "Explore the intricacies of EBIT and EBITDA in algorithmic trading, highlighting how these financial metrics enhance investment strategies. Understand their role in evaluating operational efficiency and cash flow, and discover their integration into modern trading frameworks for optimized decision-making."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Impact of Blockchain on Emerging Economies (Algo Trading)"
+title: "Impact of Blockchain on Emerging Economies"
 description: "Explore how blockchain and algorithmic trading are reshaping emerging economies enhancing financial inclusion and market efficiency amidst local challenges."
 ---
 

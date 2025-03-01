@@ -1,5 +1,5 @@
 ---
-title: "Broker Responsibilities for Share Buybacks in Bear Markets (Algo Trading)"
+title: "Broker Responsibilities for Share Buybacks in Bear Markets"
 description: "Explore brokers' roles in share buybacks within bear markets including algorithmic trading's impact on market dynamics and the investor strategies for volatile periods."
 ---
 

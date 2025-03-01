@@ -1,5 +1,5 @@
 ---
-title: "Forex Signal Systems: Functionality and Mechanics (Algo Trading)"
+title: "Forex Signal Systems: Functionality and Mechanics"
 description: "Explore the functionality and mechanics of forex signal systems and algo trading Discover how these tools enhance trading strategies in the forex market"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Broad Tape (Algo Trading)"
+title: "Broad Tape"
 description: "Explore the evolution of the broad tape and algorithmic trading to understand their role in modern finance Learn how these tools enhance market efficiency and decision-making"
 ---
 

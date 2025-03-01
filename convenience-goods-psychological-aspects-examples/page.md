@@ -1,5 +1,5 @@
 ---
-title: "Convenience Goods: Psychological Aspects and Examples (Algo Trading)"
+title: "Convenience Goods: Psychological Aspects and Examples"
 description: "Explore how consumer psychology and algorithmic trading intersect with convenience goods, revealing insights into shopping behaviors and technological influences on purchases."
 ---
 

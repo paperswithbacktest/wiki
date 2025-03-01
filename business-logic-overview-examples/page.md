@@ -1,5 +1,5 @@
 ---
-title: "Business Logic Overview and Examples (Algo Trading)"
+title: "Business Logic Overview and Examples"
 description: "Explore the intersection of business logic rules and algorithmic trading to enhance decision-making speed and accuracy and gain a competitive edge in dynamic markets"
 ---
 

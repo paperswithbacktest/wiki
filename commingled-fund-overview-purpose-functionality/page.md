@@ -1,5 +1,5 @@
 ---
-title: "Commingled Fund: Overview, Purpose, and Functionality (Algo Trading)"
+title: "Commingled Fund: Overview, Purpose, and Functionality"
 description: "Explore how commingled funds and algorithmic trading enhance financial management by providing diversification and efficient trade execution in modern finance."
 ---
 

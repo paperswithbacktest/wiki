@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Cash Dividends and Stock Dividends (Algo Trading)"
+title: "Comparison of Cash Dividends and Stock Dividends"
 description: "Compare cash dividends, providing immediate income, and stock dividends, offering equity growth. Explore their impact on portfolio strategy and financial goals."
 ---
 

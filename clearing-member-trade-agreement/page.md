@@ -1,5 +1,5 @@
 ---
-title: "Clearing Member Trade Agreement (Algo Trading)"
+title: "Clearing Member Trade Agreement"
 description: "Discover how Clearing Member Trade Agreements and algo trading are revolutionizing trade efficiency by streamlining processes and reducing costs in modern markets."
 ---
 

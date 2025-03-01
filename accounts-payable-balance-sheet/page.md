@@ -1,5 +1,5 @@
 ---
-title: "Accounts Payable on the Balance Sheet (Algo Trading)"
+title: "Accounts Payable on the Balance Sheet"
 description: "Explore the interplay between accounts payable and algorithmic trading on the balance sheet to understand financial health and strategic investment insights."
 ---
 

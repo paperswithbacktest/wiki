@@ -1,5 +1,5 @@
 ---
-title: "Financial Time Series Forecasting (Algo Trading)"
+title: "Financial Time Series Forecasting"
 description: "Explore financial time series forecasting for algorithmic trading using statistical and machine learning techniques to predict market trends and develop strategies."
 ---
 

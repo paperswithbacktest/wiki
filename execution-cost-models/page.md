@@ -1,5 +1,5 @@
 ---
-title: "Execution Cost Models (Algo Trading)"
+title: "Execution Cost Models"
 description: "Explore strategies to minimize execution costs in algorithmic trading. Understand explicit and implicit costs like slippage and market impact to enhance profitability."
 ---
 

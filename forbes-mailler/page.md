@@ -1,5 +1,5 @@
 ---
-title: "Forbes Mailler (Algo Trading)"
+title: "Forbes Mailler"
 description: "Explore the journey of Forbes Mailler an emerging figure in algorithmic trading at Akuna Capital known for his analytical acumen and innovative strategies"
 ---
 

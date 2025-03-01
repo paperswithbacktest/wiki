@@ -1,5 +1,5 @@
 ---
-title: "Blind Pool: Overview, Benefits, and Criticisms (Algo Trading)"
+title: "Blind Pool: Overview, Benefits, and Criticisms"
 description: "Discover the intricacies of blind pool investments and algorithmic trading Learn about their benefits risks and potential to optimize modern investment strategies"
 ---
 

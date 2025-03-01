@@ -1,5 +1,5 @@
 ---
-title: "CryptoPunks (Algo Trading)"
+title: "CryptoPunks"
 description: "Explore how CryptoPunks NFTs and algorithmic trading are reshaping digital art markets, creating new investment avenues through blockchain technology and innovation."
 ---
 

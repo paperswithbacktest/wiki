@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Ford and General Motors (Algo Trading)"
+title: "Comparison of Ford and General Motors"
 description: "Explore the dynamics of General Motors and Ford in the automotive industry and the impact of algorithmic trading on their stock performance and strategic positioning."
 ---
 

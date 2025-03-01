@@ -1,5 +1,5 @@
 ---
-title: "Downside Deviation: Uses and Calculation Example (Algo Trading)"
+title: "Downside Deviation: Uses and Calculation Example"
 description: "Discover how downside deviation enhances risk management in algorithmic trading by focusing on minimizing losses. Learn its uses and calculation method."
 ---
 

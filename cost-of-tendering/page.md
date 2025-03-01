@@ -1,5 +1,5 @@
 ---
-title: "Cost of Tendering (Algo Trading)"
+title: "Cost of Tendering"
 description: "Explore the impact of tendering costs on procurement efficiency including bid preparation, compliance expenses, and how algorithmic trading can streamline processes."
 ---
 

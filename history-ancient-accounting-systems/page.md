@@ -1,5 +1,5 @@
 ---
-title: "History of Ancient Accounting Systems (Algo Trading)"
+title: "History of Ancient Accounting Systems"
 description: "Explore the fascinating evolution of financial systems from ancient accounting in Mesopotamia and Egypt to today's algorithmic trading and modern finance."
 ---
 

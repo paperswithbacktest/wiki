@@ -1,5 +1,5 @@
 ---
-title: "Investing for Sustainability Impact (Algo Trading)"
+title: "Investing for Sustainability Impact"
 description: "Investing for Sustainability Impact combines financial goals with environmental and social objectives, using algorithmic trading to enhance responsible investing strategies."
 ---
 

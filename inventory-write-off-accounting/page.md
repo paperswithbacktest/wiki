@@ -1,5 +1,5 @@
 ---
-title: "Inventory Write-Off in Accounting (Algo Trading)"
+title: "Inventory Write-Off in Accounting"
 description: "Inventory write-offs in accounting safeguard financial integrity by reflecting unsellable inventory value changes crucial for businesses, including algo trading firms."
 ---
 

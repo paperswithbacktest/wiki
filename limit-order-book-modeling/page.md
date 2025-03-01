@@ -1,5 +1,5 @@
 ---
-title: "limit order book modeling (Algo Trading)"
+title: "limit order book modeling"
 description: "Explore how limit order book modeling is essential for algorithmic trading, enhancing market transparency and execution efficiency through advanced computational strategies."
 ---
 

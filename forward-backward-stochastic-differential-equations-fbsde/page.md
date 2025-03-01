@@ -1,5 +1,5 @@
 ---
-title: "Forward-Backward Stochastic Differential Equations (FBSDE) (Algo Trading)"
+title: "Forward-Backward Stochastic Differential Equations (FBSDE)"
 description: "Explore how Forward-Backward Stochastic Differential Equations (FBSDEs) enhance algorithmic trading by modeling the complex dynamics and randomness of financial markets."
 ---
 

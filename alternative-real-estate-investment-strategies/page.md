@@ -1,5 +1,5 @@
 ---
-title: "Alternative Real Estate Investment Strategies (Algo Trading)"
+title: "Alternative Real Estate Investment Strategies"
 description: "Explore alternative real estate investment strategies leveraging algorithmic trading for enhanced decision-making and portfolio performance without property ownership."
 ---
 

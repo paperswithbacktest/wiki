@@ -1,5 +1,5 @@
 ---
-title: "Futures Strip and Its Mechanism (Algo Trading)"
+title: "Futures Strip and Its Mechanism"
 description: "Explore the dynamics of futures strip trading and algorithmic trading in financial markets Learn how these strategies help manage risks and optimize performance"
 ---
 

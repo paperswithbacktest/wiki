@@ -1,5 +1,5 @@
 ---
-title: "Learn Algorithmic Trading (Algo Trading)"
+title: "Learn Algorithmic Trading"
 description: Learn the intricacies of algorithmic trading to advance your financial career and gain a technological edge in the market. This comprehensive guide will provide insights into leveraging computer programs for automated trade execution while minimizing human errors. Gain essential skills in programming and quantitative analysis, and discover the benefits of high-frequency trading for quicker, data-driven decisions. Explore career opportunities in banks, hedge funds, and fintechs, and become proficient in this dynamic, high-stakes field.
 ---
 

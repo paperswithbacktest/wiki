@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning Basics (Algo Trading)"
+title: "Machine Learning Basics"
 description: Explore the essential role of machine learning in algorithmic trading as it analyzes vast financial data, discovers patterns, and predicts market trends with precision. Machine learning enables adaptive and dynamic trading strategies, providing a competitive edge in rapidly evolving financial landscapes by automating decision-making processes and optimizing trade execution based on data-driven insights.
 ---
 

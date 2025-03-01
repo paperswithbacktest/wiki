@@ -1,5 +1,5 @@
 ---
-title: "Deferred Payment Option (Algo Trading)"
+title: "Deferred Payment Option"
 description: "Enhance your investment strategy with deferred payment options and algorithmic trading. Combine financial flexibility with cutting-edge technology for optimized returns."
 ---
 

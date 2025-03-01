@@ -1,5 +1,5 @@
 ---
-title: "Islamic Financial Services Board: Functions and Operations (Algo Trading)"
+title: "Islamic Financial Services Board: Functions and Operations"
 description: "Explore the Islamic Financial Services Board's role in shaping Islamic finance regulations with a focus on algorithmic trading while ensuring Shariah compliance."
 ---
 

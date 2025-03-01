@@ -1,5 +1,5 @@
 ---
-title: "Investment Risk Warnings and Disclaimers (Algo Trading)"
+title: "Investment Risk Warnings and Disclaimers"
 description: "Explore the nuances of investment risk warnings and disclaimers in algo trading to make informed decisions. Understand the potential impacts on your investments."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Blockchain Operating System: An Overview (Algo Trading)"
+title: "Blockchain Operating System: An Overview"
 description: "Explore how blockchain operating systems enhance algorithmic trading by improving security transparency and efficiency. Learn about the benefits and challenges."
 ---
 

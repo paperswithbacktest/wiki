@@ -1,5 +1,5 @@
 ---
-title: "Korea Stock Exchange: Overview and History (Algo Trading)"
+title: "Korea Stock Exchange: Overview and History"
 description: "Explore the Korea Stock Exchange (KRX), its history, structure, and role in algorithmic trading, integral to South Korea's dynamic financial markets."
 ---
 

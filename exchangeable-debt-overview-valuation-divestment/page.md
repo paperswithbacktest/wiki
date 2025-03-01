@@ -1,5 +1,5 @@
 ---
-title: "Exchangeable Debt: Overview, Valuation, and Divestment (Algo Trading)"
+title: "Exchangeable Debt: Overview, Valuation, and Divestment"
 description: "Explore the dynamics of exchangeable debt in finance, a hybrid security offering flexibility in debt reduction, strategic divestment, and algorithmic trading integration."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Delta Hedging and Beta Hedging (Algo Trading)"
+title: "Differences Between Delta Hedging and Beta Hedging"
 description: "Discover the core differences between delta and beta hedging in algo trading Learn how these strategies manage directional and unsystematic risks efficiently"
 ---
 

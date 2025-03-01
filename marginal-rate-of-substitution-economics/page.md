@@ -1,5 +1,5 @@
 ---
-title: "Marginal Rate of Substitution in Economics (Algo Trading)"
+title: "Marginal Rate of Substitution in Economics"
 description: "Explore the intersection of Marginal Rate of Substitution and algorithmic trading See how consumer choice theory impacts trading strategies and market dynamics​."
 ---
 

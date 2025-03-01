@@ -1,5 +1,5 @@
 ---
-title: "Bid and Ask Prices: Determination and Examples (Algo Trading)"
+title: "Bid and Ask Prices: Determination and Examples"
 description: "Explore the fundamentals of bid and ask prices in algo trading and learn how to optimize trades with algorithmic strategies that enhance market liquidity."
 ---
 

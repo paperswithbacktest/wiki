@@ -1,5 +1,5 @@
 ---
-title: "ETF Trading Strategies for Beginners (Algo Trading)"
+title: "ETF Trading Strategies for Beginners"
 description: "Explore beginner-friendly ETF trading strategies to efficiently diversify your portfolio Enhance returns with algorithmic trading insights while minimizing risks"
 ---
 

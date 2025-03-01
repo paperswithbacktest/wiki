@@ -1,5 +1,5 @@
 ---
-title: "Inland Revenue: Functions and Operations (Algo Trading)"
+title: "Inland Revenue: Functions and Operations"
 description: "Explore the evolution of Inland Revenue and HMRC in adapting tax systems to modern financial technologies like algorithmic trading for enhanced economic stability."
 ---
 

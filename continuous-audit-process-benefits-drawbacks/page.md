@@ -1,5 +1,5 @@
 ---
-title: "Continuous Audit: Process, Benefits, and Drawbacks (Algo Trading)"
+title: "Continuous Audit: Process, Benefits, and Drawbacks"
 description: "Explore the integration of continuous audits in algo trading processes for enhanced compliance and real-time oversight Discover benefits for efficiency and risk management"
 ---
 

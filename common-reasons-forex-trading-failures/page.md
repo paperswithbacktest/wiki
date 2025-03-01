@@ -1,5 +1,5 @@
 ---
-title: "Common Reasons for Forex Trading Failures (Algo Trading)"
+title: "Common Reasons for Forex Trading Failures"
 description: "Explore why forex trading failures occur with algorithmic trading Common mistakes include lack of research over-optimization and poor risk management strategies"
 ---
 

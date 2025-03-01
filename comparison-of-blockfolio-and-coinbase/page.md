@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Blockfolio and Coinbase (Algo Trading)"
+title: "Comparison of Blockfolio and Coinbase"
 description: "Explore the strengths of Coinbase and Blockfolio for algorithmic trading in this comparative analysis tailored for investors seeking diverse crypto opportunities."
 ---
 

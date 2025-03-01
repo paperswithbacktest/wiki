@@ -1,5 +1,5 @@
 ---
-title: "Hedge Fund Manager: Role, Strategies, and Pay (Algo Trading)"
+title: "Hedge Fund Manager: Role, Strategies, and Pay"
 description: "Explore the role of hedge fund managers, their investment strategies, and compensation models in the dynamic world of algo trading and modern finance."
 ---
 

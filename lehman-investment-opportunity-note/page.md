@@ -1,5 +1,5 @@
 ---
-title: "Lehman Investment Opportunity Note (Algo Trading)"
+title: "Lehman Investment Opportunity Note"
 description: "Explore how Lehman Investment Opportunity Notes (LIONs) integrate with algorithmic trading strategies for enhanced returns and security in modern finance."
 ---
 

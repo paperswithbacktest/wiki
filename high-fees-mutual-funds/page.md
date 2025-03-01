@@ -1,5 +1,5 @@
 ---
-title: "High Fees in Mutual Funds (Algo Trading)"
+title: "High Fees in Mutual Funds"
 description: "Learn how high fees in mutual funds, including management and 12b-1 fees, impact returns. Discover cost-saving strategies with ETFs and algo trading."
 ---
 

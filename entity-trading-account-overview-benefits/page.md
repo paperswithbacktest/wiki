@@ -1,5 +1,5 @@
 ---
-title: "Entity Trading Account: Overview and Benefits (Algo Trading)"
+title: "Entity Trading Account: Overview and Benefits"
 description: "Explore the advantages of entity trading accounts and algorithmic trading Their strategic benefits like tax efficiency and speed can optimize modern trading efforts"
 ---
 

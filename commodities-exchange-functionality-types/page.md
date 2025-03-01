@@ -1,5 +1,5 @@
 ---
-title: "Commodities Exchange: Functionality and Types (Algo Trading)"
+title: "Commodities Exchange: Functionality and Types"
 description: "Explore the intersection of commodities exchanges and algorithmic trading. Understand how algo trading enhances trade efficiency and impacts market dynamics."
 ---
 

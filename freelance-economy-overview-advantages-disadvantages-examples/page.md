@@ -1,5 +1,5 @@
 ---
-title: "Freelance Economy: Overview, Advantages, Disadvantages, and Examples (Algo Trading)"
+title: "Freelance Economy: Overview, Advantages, Disadvantages, and Examples"
 description: "Explore the growing freelance economy and algo trading a dynamic mix of tech and independent work that redefines modern employment and investment landscapes"
 ---
 

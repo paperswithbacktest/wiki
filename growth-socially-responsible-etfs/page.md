@@ -1,5 +1,5 @@
 ---
-title: "Growth of Socially Responsible Exchange-Traded Funds (Algo Trading)"
+title: "Growth of Socially Responsible Exchange-Traded Funds"
 description: "Explore the rise of socially responsible ETFs and ESG-integrated algo trading in sustainable finance unraveling the impact of values-driven investments."
 ---
 

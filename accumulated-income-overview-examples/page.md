@@ -1,5 +1,5 @@
 ---
-title: "Accumulated Income Overview and Examples (Algo Trading)"
+title: "Accumulated Income Overview and Examples"
 description: "Discover how accumulated income and algo trading can boost financial growth. Learn strategies to optimize retained earnings and enhance income with algorithmic methods."
 ---
 

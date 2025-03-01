@@ -1,5 +1,5 @@
 ---
-title: "Capital-To-Risk Weighted Assets Ratio in Banking (Algo Trading)"
+title: "Capital-To-Risk Weighted Assets Ratio in Banking"
 description: "Explore the intricate relationship between risk-weighted assets, capital ratios, and algorithmic trading within the banking sector, highlighting their regulatory impacts."
 ---
 

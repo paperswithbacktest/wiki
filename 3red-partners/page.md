@@ -1,5 +1,5 @@
 ---
-title: "3Red Partners (Algo Trading)"
+title: "3Red Partners"
 description: "3Red Partners excels in algorithmic trading by leveraging advanced technology and a collaborative culture to navigate financial markets with precision and innovation."
 ---
 

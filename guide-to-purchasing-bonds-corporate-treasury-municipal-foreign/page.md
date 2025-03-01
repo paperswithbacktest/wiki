@@ -1,5 +1,5 @@
 ---
-title: "Guide to Purchasing Bonds: Corporate, Treasury, Municipal, and Foreign (Algo Trading)"
+title: "Guide to Purchasing Bonds: Corporate, Treasury, Municipal, and Foreign"
 description: "Explore strategies for purchasing corporate, treasury, municipal, and foreign bonds within the bond market, focusing on algorithmic trading's impact and benefits."
 ---
 

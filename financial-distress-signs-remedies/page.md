@@ -1,5 +1,5 @@
 ---
-title: "Financial Distress: Signs and Remedies (Algo Trading)"
+title: "Financial Distress: Signs and Remedies"
 description: "Explore the signs of financial distress and effective remedies including the role of algorithmic trading in enhancing financial health and stability."
 ---
 

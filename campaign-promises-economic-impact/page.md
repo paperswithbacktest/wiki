@@ -1,5 +1,5 @@
 ---
-title: "Campaign Promises and Economic Impact (Algo Trading)"
+title: "Campaign Promises and Economic Impact"
 description: "Explore how campaign promises impact the economy and financial markets, focusing on the intersection of political economy and algorithmic trading for informed strategies."
 ---
 

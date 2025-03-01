@@ -1,5 +1,5 @@
 ---
-title: "HNDL: Retirement-Focused High-Income ETF (Algo Trading)"
+title: "HNDL: Retirement-Focused High-Income ETF"
 description: "Explore the high-income potential of the HNDL ETF designed for retirees seeking stable 7% annual returns through diversified investments and risk management."
 ---
 

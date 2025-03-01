@@ -1,5 +1,5 @@
 ---
-title: "Cross: Definition, Function, and Varieties (Algo Trading)"
+title: "Cross: Definition, Function, and Varieties"
 description: "Explore the definition, function, and varieties of cross-functional algorithmic trading, a key strategy in modern finance that combines diverse methodologies for optimal trading."
 ---
 

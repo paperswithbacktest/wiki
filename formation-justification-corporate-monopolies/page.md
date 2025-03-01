@@ -1,5 +1,5 @@
 ---
-title: "Formation and Justification of Corporate Monopolies (Algo Trading)"
+title: "Formation and Justification of Corporate Monopolies"
 description: "Explore how corporate monopolies form in algo trading, affecting market competition and innovation. Understand their impact on financial markets and regulation."
 ---
 

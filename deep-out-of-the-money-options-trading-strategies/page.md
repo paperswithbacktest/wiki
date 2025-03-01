@@ -1,5 +1,5 @@
 ---
-title: "Deep Out of the Money Options and Trading Strategies (Algo Trading)"
+title: "Deep Out of the Money Options and Trading Strategies"
 description: "Discover the potential of deep out of the money options combined with algorithmic trading Understand the strategies and risks involved for higher reward opportunities"
 ---
 

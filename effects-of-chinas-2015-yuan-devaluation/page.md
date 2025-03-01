@@ -1,5 +1,5 @@
 ---
-title: "Effects of China's 2015 Yuan Devaluation (Algo Trading)"
+title: "Effects of China's 2015 Yuan Devaluation"
 description: "Explore the impact of China's 2015 Yuan devaluation on algorithmic trading, highlighting market volatility, recalibration strategies, and global economic effects."
 ---
 

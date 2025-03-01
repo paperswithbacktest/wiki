@@ -1,5 +1,5 @@
 ---
-title: "Impact of Capitalization Structure on Profitability (Algo Trading)"
+title: "Impact of Capitalization Structure on Profitability"
 description: "Explore the impact of capitalization structure on profitability in algorithmic trading and learn how financial management integrates with modern trading strategies."
 ---
 

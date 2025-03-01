@@ -1,5 +1,5 @@
 ---
-title: "Considerations for Hiring a Financial Advisor (Algo Trading)"
+title: "Considerations for Hiring a Financial Advisor"
 description: "Explore the essential considerations when hiring a financial advisor for algo trading. Discover how expertise and technology optimize your financial strategies."
 ---
 

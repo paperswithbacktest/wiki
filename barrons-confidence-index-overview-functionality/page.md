@@ -1,5 +1,5 @@
 ---
-title: "Barron's Confidence Index: Overview and Functionality (Algo Trading)"
+title: "Barron's Confidence Index: Overview and Functionality"
 description: "Explore the functionality of Barron's Confidence Index in algo trading tool to gauge investor sentiment by analyzing bond yields enhancing financial strategies"
 ---
 

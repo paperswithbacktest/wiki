@@ -1,5 +1,5 @@
 ---
-title: "Investment Accumulation Strategies (Algo Trading)"
+title: "Investment Accumulation Strategies"
 description: "Explore modern investment strategies involving accumulation and algorithmic trading to maximize returns and manage risks effectively in today's financial markets."
 ---
 

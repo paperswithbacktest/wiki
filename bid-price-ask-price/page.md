@@ -1,5 +1,5 @@
 ---
-title: "Bid Price and Ask Price (Algo Trading)"
+title: "Bid Price and Ask Price"
 description: "Explore the critical role of bid and ask prices in trading dynamics and how algorithmic trading leverages them to improve market efficiency and strategies."
 ---
 

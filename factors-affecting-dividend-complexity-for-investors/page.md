@@ -1,5 +1,5 @@
 ---
-title: "Factors Affecting Dividend Complexity for Investors (Algo Trading)"
+title: "Factors Affecting Dividend Complexity for Investors"
 description: "Explore the intricacies of dividend investing and algorithmic trading Learn how investors can balance strategies to build resilient and profitable portfolios"
 ---
 

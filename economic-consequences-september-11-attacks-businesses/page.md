@@ -1,5 +1,5 @@
 ---
-title: "Economic Consequences of the September 11 Attacks on Businesses (Algo Trading)"
+title: "Economic Consequences of the September 11 Attacks on Businesses"
 description: "Analyze the profound economic impact of the September 11 attacks on global markets and industries emphasizing the influence of algorithmic trading on post-crisis financial strategies."
 ---
 

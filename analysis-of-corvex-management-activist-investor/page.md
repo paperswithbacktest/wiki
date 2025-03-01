@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Corvex Management as an Activist Investor (Algo Trading)"
+title: "Analysis of Corvex Management as an Activist Investor"
 description: "Explore Corvex Management's activist trading strategies and algorithmic integration as they reshape corporate landscapes under Keith Meister’s leadership."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Biflation: Understanding Causes and Examples (Algo Trading)"
+title: "Biflation: Understanding Causes and Examples"
 description: "Discover the complex economic phenomena of biflation and inflation and their implications in modern financial markets shaped by algorithmic trading. Explore how biflation creates mixed economic conditions with simultaneous inflation and deflation in different sectors, influencing policy and investment strategies. Understand how inflation affects purchasing power and economic behavior, and learn about the causes and impacts of these forces. Gain insights into navigating today's intricate economic landscape with informed decision-making."
 ---
 

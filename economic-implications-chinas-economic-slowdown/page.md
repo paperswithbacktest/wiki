@@ -1,5 +1,5 @@
 ---
-title: "Economic Implications of China's Economic Slowdown (Algo Trading)"
+title: "Economic Implications of China's Economic Slowdown"
 description: "Discover how China's economic slowdown impacts global markets and the role of algorithmic trading in navigating the challenges and opportunities in this evolving landscape."
 ---
 

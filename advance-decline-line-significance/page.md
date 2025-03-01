@@ -1,5 +1,5 @@
 ---
-title: "Advance/Decline Line and Its Significance (Algo Trading)"
+title: "Advance/Decline Line and Its Significance"
 description: "Discover the significance of the Advance/Decline Line in algorithmic trading and how it aids in assessing market breadth and sentiment."
 ---
 

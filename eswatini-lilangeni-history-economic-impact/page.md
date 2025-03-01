@@ -1,5 +1,5 @@
 ---
-title: "Eswatini Lilangeni: History and Economic Impact (Algo Trading)"
+title: "Eswatini Lilangeni: History and Economic Impact"
 description: "Explore the history and economic impact of the Eswatini Lilangeni in the context of algo trading and its strategic 1:1 peg to the South African Rand."
 ---
 

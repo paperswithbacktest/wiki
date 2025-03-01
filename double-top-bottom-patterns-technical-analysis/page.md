@@ -1,5 +1,5 @@
 ---
-title: "Double Top and Bottom Patterns in Technical Analysis (Algo Trading)"
+title: "Double Top and Bottom Patterns in Technical Analysis"
 description: "Discover how double top and bottom patterns in technical analysis provide valuable insights for predicting market reversals and enhance algorithmic trading strategies."
 ---
 

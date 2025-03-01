@@ -1,5 +1,5 @@
 ---
-title: "Impact of Slowcession on Economic Growth (Algo Trading)"
+title: "Impact of Slowcession on Economic Growth"
 description: "Explore the impact of slowcession on economic growth and algorithmic trading Learn how sluggish economic conditions challenge market practices and influence policies"
 ---
 

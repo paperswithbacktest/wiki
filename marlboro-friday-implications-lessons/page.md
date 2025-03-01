@@ -1,5 +1,5 @@
 ---
-title: "Marlboro Friday: Implications and Lessons (Algo Trading)"
+title: "Marlboro Friday: Implications and Lessons"
 description: "Explore the profound impact of Marlboro Friday on marketing strategies stock market dynamics and consumer behavior amid a significant brand pricing shift."
 ---
 

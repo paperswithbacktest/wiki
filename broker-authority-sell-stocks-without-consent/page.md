@@ -1,5 +1,5 @@
 ---
-title: "Broker Authority to Sell Stocks Without Investor Consent (Algo Trading)"
+title: "Broker Authority to Sell Stocks Without Investor Consent"
 description: "Explore broker permissions and investor consent in algorithmic stock trading. Understand the balance of technology and ethics in safeguarding market integrity and investor trust."
 ---
 

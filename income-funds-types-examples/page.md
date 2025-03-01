@@ -1,5 +1,5 @@
 ---
-title: "Income Funds: Types and Examples (Algo Trading)"
+title: "Income Funds: Types and Examples"
 description: "Explore the potential of income funds and algorithmic trading for optimizing your investment portfolio with steady income and innovative trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Easement Types and Examples (Algo Trading)"
+title: "Easement Types and Examples"
 description: "Explore the intricacies of property law and algorithmic trading, focusing on easements and digital trading strategies, to optimize real estate and market operations."
 ---
 

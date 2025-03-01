@@ -1,5 +1,5 @@
 ---
-title: "History of Futures Contracts (Algo Trading)"
+title: "History of Futures Contracts"
 description: "Explore the history of futures contracts and their transformation through algorithmic trading which enhances speed and efficiency in modern markets."
 ---
 

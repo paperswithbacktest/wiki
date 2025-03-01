@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Dividend Rate and Dividend Yield (Algo Trading)"
+title: "Comparison of Dividend Rate and Dividend Yield"
 description: "Explore the nuances between dividend rate and dividend yield in dividend investing Discover how algorithmic trading enhances these investment strategies for optimal returns"
 ---
 

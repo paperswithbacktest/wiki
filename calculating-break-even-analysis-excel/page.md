@@ -1,5 +1,5 @@
 ---
-title: "Calculating Break-Even Analysis in Excel (Algo Trading)"
+title: "Calculating Break-Even Analysis in Excel"
 description: "Master break-even analysis in Excel for algo trading. Learn to integrate financial insights with algorithmic strategies to optimize profitability and manage risks efficiently."
 ---
 

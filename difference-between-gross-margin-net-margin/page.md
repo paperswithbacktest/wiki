@@ -1,5 +1,5 @@
 ---
-title: "Difference Between Gross Margin and Net Margin (Algo Trading)"
+title: "Difference Between Gross Margin and Net Margin"
 description: "Understand the differences between gross and net profit margins and how they impact algorithmic trading strategies. Learn to enhance financial performance."
 ---
 

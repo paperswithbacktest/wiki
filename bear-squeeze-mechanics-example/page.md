@@ -1,5 +1,5 @@
 ---
-title: "Bear Squeeze: Mechanics and Example (Algo Trading)"
+title: "Bear Squeeze: Mechanics and Example"
 description: "Explore the intriguing concept of a bear squeeze in the volatile stock market where short sellers must buy back shares due to unexpected price surges. This article investigates into bear squeezes their impact on meme stocks and the strategic role of algorithmic trading. Gain insights into how these market events trigger volatility and how traders can leverage these opportunities to their advantage. Understand the mechanics and implications of bear squeezes and uncover strategies for investors to effectively capitalize on these financial phenomena with algorithmic trading."
 ---
 

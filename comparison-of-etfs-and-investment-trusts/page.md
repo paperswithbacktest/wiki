@@ -1,5 +1,5 @@
 ---
-title: "Comparison of ETFs and Investment Trusts (Algo Trading)"
+title: "Comparison of ETFs and Investment Trusts"
 description: "Compare investment trusts and ETFs to optimize investment strategies with algorithmic trading Insights on structure management and enhancing portfolio efficiency"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Investment Fees: Overview and Types (Algo Trading)"
+title: "Investment Fees: Overview and Types"
 description: "Explore the impact of investment fees and algorithmic trading on portfolio returns. Learn cost management strategies to enhance financial outcomes."
 ---
 

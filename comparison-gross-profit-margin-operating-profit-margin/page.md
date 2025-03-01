@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Gross Profit Margin and Operating Profit Margin (Algo Trading)"
+title: "Comparison of Gross Profit Margin and Operating Profit Margin"
 description: "Explore the essentials of gross profit and operating profit margins in algorithmic trading to enhance decision-making, profitability, and trading efficiency."
 ---
 

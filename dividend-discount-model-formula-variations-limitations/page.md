@@ -1,5 +1,5 @@
 ---
-title: "Dividend Discount Model: Formula, Variations, and Limitations (Algo Trading)"
+title: "Dividend Discount Model: Formula, Variations, and Limitations"
 description: "Explore the Dividend Discount Model to determine a stock's value based on future dividends Learn its formula variations and limitations in algorithmic trading"
 ---
 

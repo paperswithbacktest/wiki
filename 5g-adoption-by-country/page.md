@@ -1,5 +1,5 @@
 ---
-title: "5G Adoption by Country (Algo Trading)"
+title: "5G Adoption by Country"
 description: "Explore how 5G technology transforms global telecommunications and boosts algorithmic trading with high-speed connectivity and unparalleled efficiency."
 ---
 

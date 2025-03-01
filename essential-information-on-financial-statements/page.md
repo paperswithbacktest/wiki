@@ -1,5 +1,5 @@
 ---
-title: "Essential Information on Financial Statements (Algo Trading)"
+title: "Essential Information on Financial Statements"
 description: "Navigate the intricate world of financial statements accounting basics and algorithmic trading Learn how to analyze financial data and optimize trading strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Mutual Fund Naming Conventions (Algo Trading)"
+title: "Analysis of Mutual Fund Naming Conventions"
 description: "Explore how mutual fund naming influences investor decisions while delving into key financial terminologies and the rise of algorithmic trading's impact.
 "
 ---

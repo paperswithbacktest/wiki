@@ -1,5 +1,5 @@
 ---
-title: "Futures Industry Association (Algo Trading)"
+title: "Futures Industry Association"
 description: "Explore the Futures Industry Association's vital role in global finance and algorithmic trading as it champions market transparency and integrity in futures markets."
 ---
 

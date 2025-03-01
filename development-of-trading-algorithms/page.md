@@ -1,5 +1,5 @@
 ---
-title: "Development of Trading Algorithms (Algo Trading)"
+title: "Development of Trading Algorithms"
 description: "Learn how automated trading algorithms are crafted and their advantages in volatile markets Enhance your trading with efficient algo strategies and programming skills"
 ---
 

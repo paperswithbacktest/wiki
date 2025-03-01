@@ -1,5 +1,5 @@
 ---
-title: "Lean Enterprise: Concepts, Principles, and Lean Six Sigma (Algo Trading)"
+title: "Lean Enterprise: Concepts, Principles, and Lean Six Sigma"
 description: "Explore Lean Enterprise and Lean Six Sigma methods to boost efficiency and quality in algorithmic trading. Learn how these principles drive success."
 ---
 

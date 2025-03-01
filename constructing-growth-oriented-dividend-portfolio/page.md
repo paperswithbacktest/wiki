@@ -1,5 +1,5 @@
 ---
-title: "Constructing a Growth-Oriented Dividend Portfolio (Algo Trading)"
+title: "Constructing a Growth-Oriented Dividend Portfolio"
 description: "Explore the fusion of dividend investing and algorithmic trading to enhance portfolio growth. Learn how tech innovations boost stability and precision in investment."
 ---
 

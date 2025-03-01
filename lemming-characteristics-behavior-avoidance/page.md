@@ -1,5 +1,5 @@
 ---
-title: "Lemming: Characteristics, Behavior, and Avoidance (Algo Trading)"
+title: "Lemming: Characteristics, Behavior, and Avoidance"
 description: "Explore the parallels between lemmings' herd behavior and its influence in financial markets like algorithmic trading Heighten your trading strategies awareness"
 ---
 

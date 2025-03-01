@@ -1,5 +1,5 @@
 ---
-title: "Digital Currency: Overview, Functionality, Types, and Examples (Algo Trading)"
+title: "Digital Currency: Overview, Functionality, Types, and Examples"
 description: "Discover the functions and impacts of digital currency and cryptocurrency in finance Learn about electronic money and algorithmic trading in this informative guide"
 ---
 

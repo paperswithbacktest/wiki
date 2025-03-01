@@ -1,5 +1,5 @@
 ---
-title: "Investment in Electric Vehicles and Green Transportation (Algo Trading)"
+title: "Investment in Electric Vehicles and Green Transportation"
 description: "Explore algorithmic trading strategies in the booming electric vehicle and green transportation markets to capitalize on sustainable investment opportunities."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Investopedia 2022 Robo-Advisors Awards (Algo Trading)"
+title: "Investopedia 2022 Robo-Advisors Awards"
 description: "Explore the top robo-advisors of 2022 as Investopedia celebrates outstanding platforms in automated investing offering innovative and personalized solutions."
 ---
 

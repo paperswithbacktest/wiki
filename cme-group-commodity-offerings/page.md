@@ -1,5 +1,5 @@
 ---
-title: "CME Group Commodity Offerings (Algo Trading)"
+title: "CME Group Commodity Offerings"
 description: "Discover CME Group's diverse commodity offerings that shape global markets through advanced algorithmic trading for efficient risk management and market precision."
 ---
 

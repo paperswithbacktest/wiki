@@ -1,5 +1,5 @@
 ---
-title: "Alternative Covered Call Strategy in Options Trading (Algo Trading)"
+title: "Alternative Covered Call Strategy in Options Trading"
 description: "Explore the benefits of using algorithmic trading to optimize covered call strategies in options trading Learn how automation can boost efficiency and returns"
 ---
 

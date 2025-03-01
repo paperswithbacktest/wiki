@@ -1,5 +1,5 @@
 ---
-title: "Gramm-Leach-Bliley Act of 1999: Purpose and Implications (Algo Trading)"
+title: "Gramm-Leach-Bliley Act of 1999: Purpose and Implications"
 description: "Explore the Gramm-Leach-Bliley Act's role in transforming the banking industry by allowing financial service integration and its impact on modern finance."
 ---
 

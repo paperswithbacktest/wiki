@@ -1,5 +1,5 @@
 ---
-title: "Initial Production Rate Overview (Algo Trading)"
+title: "Initial Production Rate Overview"
 description: "Explore initial production rates in oil, production efficiency in manufacturing, and algorithmic trading’s role in market dynamics for strategic insights."
 ---
 

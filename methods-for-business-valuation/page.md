@@ -1,5 +1,5 @@
 ---
-title: "Methods for Business Valuation (Algo Trading)"
+title: "Methods for Business Valuation"
 description: "Explore comprehensive business valuation methods crucial for mergers, acquisitions, and strategic planning. Discover how integration with algorithmic trading enhances data-driven decisions in financial markets, optimizing investment strategies and trading efficiency."
 ---
 

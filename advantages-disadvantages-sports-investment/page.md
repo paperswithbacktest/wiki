@@ -1,5 +1,5 @@
 ---
-title: "Advantages and Disadvantages of Sports Investment (Algo Trading)"
+title: "Advantages and Disadvantages of Sports Investment"
 description: "Explore the pros and cons of algo trading in sports investments and discover how technology is reshaping this dynamic sector for informed decision making."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Integration of Technical and Fundamental Analysis (Algo Trading)"
+title: "Integration of Technical and Fundamental Analysis"
 description: "Discover how integrating technical and fundamental analysis with algorithmic trading can enhance your trading strategies and lead to better financial outcomes"
 ---
 

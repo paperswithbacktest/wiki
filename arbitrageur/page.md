@@ -1,5 +1,5 @@
 ---
-title: "Arbitrageur (Algo Trading)"
+title: "Arbitrageur"
 description: "Explore the world of arbitrage and algorithmic trading focusing on strategies that capitalize on market price differences while maintaining efficiency."
 ---
 

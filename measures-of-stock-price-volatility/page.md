@@ -1,5 +1,5 @@
 ---
-title: "Measures of Stock Price Volatility (Algo Trading)"
+title: "Measures of Stock Price Volatility"
 description: "Explore the essential measures of stock price volatility and their significance in algorithmic trading to optimize risk management and maximize returns."
 ---
 

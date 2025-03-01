@@ -1,5 +1,5 @@
 ---
-title: "Economics of Coffee Pricing (Algo Trading)"
+title: "Economics of Coffee Pricing"
 description: "Explore how global economic forces, algorithmic trading, and environmental factors influence coffee pricing, impacting producers, traders, and consumers."
 ---
 

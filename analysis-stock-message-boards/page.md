@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Stock Message Boards (Algo Trading)"
+title: "Analysis of Stock Message Boards"
 description: "Discover how online stock message boards and algorithmic trading transform investing through shared insights and automated strategies while managing inherent risks."
 ---
 

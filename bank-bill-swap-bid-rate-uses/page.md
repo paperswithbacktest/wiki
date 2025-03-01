@@ -1,5 +1,5 @@
 ---
-title: "Bank Bill Swap Bid Rate and Its Uses (Algo Trading)"
+title: "Bank Bill Swap Bid Rate and Its Uses"
 description: "Explore the Bank Bill Swap Bid Rate BBSY and its crucial role in Australian finance Learn how BBSY influences algorithmic trading and derivative pricing"
 ---
 

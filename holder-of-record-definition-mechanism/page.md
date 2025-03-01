@@ -1,5 +1,5 @@
 ---
-title: "Holder of Record: Definition and Mechanism (Algo Trading)"
+title: "Holder of Record: Definition and Mechanism"
 description: "Explore the holder of record, stock ownership, and algorithmic trading in financial markets to enhance your investment strategies and decision-making skills."
 ---
 

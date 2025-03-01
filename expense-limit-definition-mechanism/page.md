@@ -1,5 +1,5 @@
 ---
-title: "Expense Limit: Definition and Mechanism (Algo Trading)"
+title: "Expense Limit: Definition and Mechanism"
 description: "Explore how expense limits enhance financial management in algo trading by setting caps on costs and aligning budgeting with strategic goals for improved profitability."
 ---
 

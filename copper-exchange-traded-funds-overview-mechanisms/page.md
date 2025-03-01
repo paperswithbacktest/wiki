@@ -1,5 +1,5 @@
 ---
-title: "Copper Exchange-Traded Funds: Overview and Mechanisms (Algo Trading)"
+title: "Copper Exchange-Traded Funds: Overview and Mechanisms"
 description: "Explore Copper ETFs and the impact of algorithmic trading on investing strategies. Learn how to leverage Copper ETFs for diversified, efficient market exposure."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Callable Security Overview (Algo Trading)"
+title: "Callable Security Overview"
 description: "Explore the benefits and risks of callable securities and algorithmic trading in modern finance Understand strategic investment options to optimize portfolio returns"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of GAAP and Non-GAAP Reporting Standards (Algo Trading)"
+title: "Comparison of GAAP and Non-GAAP Reporting Standards"
 description: "Explore the key differences between GAAP and Non-GAAP reporting standards and their influence on algorithmic trading in financial markets today."
 ---
 

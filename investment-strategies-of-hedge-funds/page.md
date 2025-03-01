@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategies of Hedge Funds (Algo Trading)"
+title: "Investment Strategies of Hedge Funds"
 description: "Explore the evolving investment strategies of hedge funds with a focus on algorithmic trading which optimizes market navigation and enhances financial returns."
 ---
 

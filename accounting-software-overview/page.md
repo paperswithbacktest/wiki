@@ -1,5 +1,5 @@
 ---
-title: "Accounting Software Overview (Algo Trading)"
+title: "Accounting Software Overview"
 description: "Discover how accounting software and algorithmic trading transform financial management Increase efficiency accuracy and strategic capabilities for businesses"
 ---
 

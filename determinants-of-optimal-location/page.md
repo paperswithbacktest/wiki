@@ -1,5 +1,5 @@
 ---
-title: "Determinants of Optimal Location (Algo Trading)"
+title: "Determinants of Optimal Location"
 description: "Explore the critical role of location in both real estate and algorithmic trading to enhance decision-making and optimize economic returns through innovative strategies."
 ---
 

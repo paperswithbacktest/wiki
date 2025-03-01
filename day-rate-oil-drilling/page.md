@@ -1,5 +1,5 @@
 ---
-title: "Day Rate in Oil Drilling (Algo Trading)"
+title: "Day Rate in Oil Drilling"
 description: "Explore the dynamics of oil drilling day rate contracts and their impact on algorithmic trading Learn how these contracts shape financial strategies in volatile markets"
 ---
 

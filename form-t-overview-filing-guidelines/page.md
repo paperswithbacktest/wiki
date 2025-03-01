@@ -1,5 +1,5 @@
 ---
-title: "Form T: Overview and Filing Guidelines (Algo Trading)"
+title: "Form T: Overview and Filing Guidelines"
 description: "Explore the comprehensive overview of Form T filing guidelines within the context of algorithmic trading. Understand the essential requirements for reporting equity trades executed outside regular market hours to ensure compliance with regulations. This guide covers who needs to file Form T, key filing guidelines, and practical tips for algorithmic traders to maintain market transparency and integrity while optimizing automated trading strategies. Stay informed about regulatory responsibilities and enhance your trading operations by adhering to these crucial standards."
 ---
 

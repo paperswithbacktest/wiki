@@ -1,5 +1,5 @@
 ---
-title: "Automatic Reinvestment Plan (Algo Trading)"
+title: "Automatic Reinvestment Plan"
 description: "Unlock financial growth with an Automatic Reinvestment Plan linking investment plans and algorithmic trading to compound returns and mitigate risks."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Crypto Tokens and Their Functionality (Algo Trading)"
+title: "Crypto Tokens and Their Functionality"
 description: "Explore the transformative impact of crypto tokens and algorithmic trading in the evolving digital finance landscape enhancing trading efficiency and market opportunities."
 ---
 

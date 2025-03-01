@@ -1,5 +1,5 @@
 ---
-title: "Algorithmic Execution Strategies (Algo Trading)"
+title: "Algorithmic Execution Strategies"
 description: "Explore algorithmic execution strategies in trading that optimize performance using advanced algorithms for efficient market entry and risk mitigation."
 ---
 

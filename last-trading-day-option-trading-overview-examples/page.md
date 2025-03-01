@@ -1,5 +1,5 @@
 ---
-title: "Last Trading Day in Option Trading: Overview and Examples (Algo Trading)"
+title: "Last Trading Day in Option Trading: Overview and Examples"
 description: "Explore the significance of the last trading day in options trading, highlighting the impact of volatility and the strategic benefits of algorithmic trading."
 ---
 

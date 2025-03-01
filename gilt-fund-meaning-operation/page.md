@@ -1,5 +1,5 @@
 ---
-title: "Gilt Fund: Meaning and Operation (Algo Trading)"
+title: "Gilt Fund: Meaning and Operation"
 description: "Explore the world of gilt funds and algorithmic trading to enhance your investment strategy. Discover how to balance low-risk securities with cutting-edge tech."
 ---
 

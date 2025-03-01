@@ -1,5 +1,5 @@
 ---
-title: "Financial Liquidity and Asset Classes: Advantages, Disadvantages, and Examples (Algo Trading)"
+title: "Financial Liquidity and Asset Classes: Advantages, Disadvantages, and Examples"
 description: "Explore the role of financial liquidity in asset classes and algorithmic trading highlighting advantages and potential challenges for informed investment strategies."
 ---
 

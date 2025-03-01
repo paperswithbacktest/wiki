@@ -1,5 +1,5 @@
 ---
-title: "Asymmetric Information Theory and Challenges (Algo Trading)"
+title: "Asymmetric Information Theory and Challenges"
 description: "Explore the intricate relationship between asymmetric information and algorithmic trading, uncovering its impact on market efficiency and stability in today's digital ecosystem."
 ---
 

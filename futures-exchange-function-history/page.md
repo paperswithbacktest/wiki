@@ -1,5 +1,5 @@
 ---
-title: "Futures Exchange: Function and History (Algo Trading)"
+title: "Futures Exchange: Function and History"
 description: "Explore the evolution and role of futures exchanges and algorithmic trading in financial markets Discover their impact on trading efficiency and risk management"
 ---
 

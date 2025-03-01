@@ -1,5 +1,5 @@
 ---
-title: "Futures Markets in the United States (Algo Trading)"
+title: "Futures Markets in the United States"
 description: "Explore U.S. futures markets and the transformative role of algorithmic trading Discover how these elements influence liquidity volatility and market behavior"
 ---
 

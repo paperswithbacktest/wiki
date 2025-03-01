@@ -1,5 +1,5 @@
 ---
-title: "Fund of Funds: Accessibility for Small Investors (Algo Trading)"
+title: "Fund of Funds: Accessibility for Small Investors"
 description: "Explore how funds of funds and algorithmic trading open up high-level investment strategies to small investors seeking diversification and access to pro management."
 ---
 

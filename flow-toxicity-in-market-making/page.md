@@ -1,5 +1,5 @@
 ---
-title: "Flow toxicity in market making (Algo Trading)"
+title: "Flow toxicity in market making"
 description: "Explore the complexities of flow toxicity in market making and algorithmic trading and discover how informed trading can affect liquidity providers."
 ---
 

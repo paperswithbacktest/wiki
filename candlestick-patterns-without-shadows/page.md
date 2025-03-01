@@ -1,5 +1,5 @@
 ---
-title: "Candlestick Patterns Without Shadows (Algo Trading)"
+title: "Candlestick Patterns Without Shadows"
 description: "Explore the intersection of candlestick patterns and algorithmic trading to enhance strategy precision Discover how pattern recognition optimizes trade execution"
 ---
 

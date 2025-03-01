@@ -1,5 +1,5 @@
 ---
-title: "Forex Market Overview: Functionality, Types, and Trading Risks (Algo Trading)"
+title: "Forex Market Overview: Functionality, Types, and Trading Risks"
 description: "Explore the functionality, types, and risks of forex trading, including the impact of algorithmic trading and strategies to manage inherent market risks."
 ---
 

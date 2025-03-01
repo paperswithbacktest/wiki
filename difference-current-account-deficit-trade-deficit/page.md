@@ -1,5 +1,5 @@
 ---
-title: "Difference Between Current Account Deficit and Trade Deficit (Algo Trading)"
+title: "Difference Between Current Account Deficit and Trade Deficit"
 description: "Explore the crucial differences between current account deficits and trade deficits, and understand the transformative impact of algorithmic trading on global markets."
 ---
 

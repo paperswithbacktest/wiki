@@ -1,5 +1,5 @@
 ---
-title: "Essential Qualifications for Financial Advisors (Algo Trading)"
+title: "Essential Qualifications for Financial Advisors"
 description: "Explore essential qualifications and certifications for financial advisors including algorithmic trading skills to enhance financial planning and client guidance."
 ---
 

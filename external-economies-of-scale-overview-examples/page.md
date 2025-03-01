@@ -1,5 +1,5 @@
 ---
-title: "External Economies of Scale: Overview and Examples (Algo Trading)"
+title: "External Economies of Scale: Overview and Examples"
 description: "Explore external economies of scale in this insightful article, focusing on their impact in industries like algorithmic trading through shared efficiencies and tech advancements."
 ---
 

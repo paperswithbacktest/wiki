@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Free Cash Flow and Operating Cash Flow (Algo Trading)"
+title: "Comparison of Free Cash Flow and Operating Cash Flow"
 description: "Explore the key differences between Free Cash Flow and Operating Cash Flow in financial analysis and discover how they impact algorithmic trading strategies."
 ---
 

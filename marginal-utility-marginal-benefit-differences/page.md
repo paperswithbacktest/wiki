@@ -1,5 +1,5 @@
 ---
-title: "Marginal Utility and Marginal Benefit: Differences (Algo Trading)"
+title: "Marginal Utility and Marginal Benefit: Differences"
 description: "Explore the differences between marginal utility and marginal benefit in economics and their application in algorithmic trading to enhance trading strategies."
 ---
 

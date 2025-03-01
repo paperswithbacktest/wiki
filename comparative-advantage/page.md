@@ -1,5 +1,5 @@
 ---
-title: "Comparative Advantage (Algo Trading)"
+title: "Comparative Advantage"
 description: "Discover how comparative advantage influences international trade by allowing countries to specialize and trade goods, maximizing economic efficiencies globally."
 ---
 

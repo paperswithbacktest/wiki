@@ -1,5 +1,5 @@
 ---
-title: "Forex Trading Considerations for the Japanese Yen (Algo Trading)"
+title: "Forex Trading Considerations for the Japanese Yen"
 description: "Explore the impact of algorithmic trading on the Japanese Yen in the Forex market Discover strategies for leveraging its stability amid global volatility"
 ---
 

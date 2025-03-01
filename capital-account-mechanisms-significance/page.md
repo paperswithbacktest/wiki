@@ -1,5 +1,5 @@
 ---
-title: "Capital Account: Mechanisms and Significance (Algo Trading)"
+title: "Capital Account: Mechanisms and Significance"
 description: "Explore the significance of the capital account and algorithmic trading in international finance, examining their roles in cross-border capital flows, investment patterns, and market efficiency. Understand how these mechanisms influence economic stability and growth, providing crucial insights for investors and policymakers navigating the global economic landscape."
 ---
 

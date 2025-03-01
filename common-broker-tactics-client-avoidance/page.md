@@ -1,5 +1,5 @@
 ---
-title: "Common Broker Tactics and Client Avoidance Strategies (Algo Trading)"
+title: "Common Broker Tactics and Client Avoidance Strategies"
 description: "Discover effective broker tactics avoidance and understand how algorithmic trading enhances investment strategies for informed decision-making in modern finance."
 ---
 

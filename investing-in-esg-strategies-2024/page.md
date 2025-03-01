@@ -1,5 +1,5 @@
 ---
-title: "Investing in ESG Strategies 2024 (Algo Trading)"
+title: "Investing in ESG Strategies 2024"
 description: "Discover how integrating ESG strategies with algorithmic trading is transforming financial portfolios in 2024 aligning profitability with sustainability-focused objectives."
 ---
 

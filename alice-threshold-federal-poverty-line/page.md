@@ -1,5 +1,5 @@
 ---
-title: "ALICE Threshold and the Federal Poverty Line (Algo Trading)"
+title: "ALICE Threshold and the Federal Poverty Line"
 description: "Explore the complexities of economic hardship through the lens of the ALICE Threshold, which highlights households that earn above the Federal Poverty Line yet struggle with basic living expenses. Understand the detailed insights provided by ALICE in comparison to traditional metrics, as well as its implications for algorithmic trading and market efficiency. This comprehensive perspective aids policymakers and communities in addressing financial insecurity and crafting equitable, resilient strategies for economic empowerment."
 ---
 

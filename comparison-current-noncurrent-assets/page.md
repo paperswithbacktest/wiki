@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Current and Noncurrent Assets (Algo Trading)"
+title: "Comparison of Current and Noncurrent Assets"
 description: "Explore the key distinctions between current and noncurrent assets in the financial sector, highlighting their impact on decision-making and strategy in algorithmic trading. Understand how these asset classifications inform trade execution and risk management, offering insights for improved financial analysis and strategic planning within dynamic markets."
 ---
 

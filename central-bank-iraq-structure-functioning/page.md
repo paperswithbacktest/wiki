@@ -1,5 +1,5 @@
 ---
-title: "Central Bank of Iraq: Structure and Functioning (Algo Trading)"
+title: "Central Bank of Iraq: Structure and Functioning"
 description: "Explore the structure and role of the Central Bank of Iraq in stabilizing the economy while adapting international banking standards to foster financial growth."
 ---
 

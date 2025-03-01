@@ -1,5 +1,5 @@
 ---
-title: "Double Top Pattern in Trading (Algo Trading)"
+title: "Double Top Pattern in Trading"
 description: "Explore the intricacies of the double top pattern in trading and its role in algorithmic strategies to predict market reversals and optimize trades."
 ---
 

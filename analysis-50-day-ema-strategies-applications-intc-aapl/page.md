@@ -1,5 +1,5 @@
 ---
-title: "Analysis of 50-Day EMA Strategies and Applications for INTC and AAPL (Algo Trading)"
+title: "Analysis of 50-Day EMA Strategies and Applications for INTC and AAPL"
 description: "Optimize investment strategies with insights on using the 50-day EMA for AAPL and algorithmic trading for INTC, enhancing returns with data-driven techniques."
 ---
 

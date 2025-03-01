@@ -1,5 +1,5 @@
 ---
-title: "Careers in Quantitative Finance (Algo Trading)"
+title: "Careers in Quantitative Finance"
 description: Explore the dynamic field of quantitative finance and algorithmic trading, where mathematical models and computational techniques drive innovation in financial markets. Discover career opportunities that merge finance with technology, demanding skills in data analysis, programming, and financial modeling. As algorithmic trading transforms stock trading with automated strategies, professionals in this sector are pivotal in capturing market efficiencies and advancing trading processes. This guide investigates into the required expertise and evolving roles, equipping you with insights into a rewarding career in this rapidly progressing domain.
 ---
 

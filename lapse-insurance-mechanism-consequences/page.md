@@ -1,5 +1,5 @@
 ---
-title: "Lapse in Insurance: Mechanism and Consequences (Algo Trading)"
+title: "Lapse in Insurance: Mechanism and Consequences"
 description: "Explore the impacts of insurance lapses and their relation to algorithmic trading Learn how lapses affect financial risk and market strategies in this insightful article"
 ---
 

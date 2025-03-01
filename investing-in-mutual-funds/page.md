@@ -1,5 +1,5 @@
 ---
-title: "Investing in Mutual Funds (Algo Trading)"
+title: "Investing in Mutual Funds"
 description: "Explore the synergy of mutual funds and algorithmic trading to optimize returns by enhancing diversification and precision in modern investment portfolios."
 ---
 

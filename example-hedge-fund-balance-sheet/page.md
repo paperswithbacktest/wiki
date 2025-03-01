@@ -1,5 +1,5 @@
 ---
-title: "Example of a Hedge Fund Balance Sheet (Algo Trading)"
+title: "Example of a Hedge Fund Balance Sheet"
 description: "Explore the intersection of hedge fund balance sheets and algorithmic trading. Discover how these elements optimize trading strategies and manage financial risk."
 ---
 

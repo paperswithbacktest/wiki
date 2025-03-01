@@ -1,5 +1,5 @@
 ---
-title: "Conflict Theory and Its Founder (Algo Trading)"
+title: "Conflict Theory and Its Founder"
 description: "Explore the link between Karl Marx's conflict theory and algorithmic trading highlighting market power dynamics and the influence of advanced financial technology."
 ---
 

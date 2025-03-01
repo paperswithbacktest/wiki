@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Light, Full, and Master Nodes (Algo Trading)"
+title: "Comparison of Light, Full, and Master Nodes"
 description: "Explore the roles of light, full, and master nodes in blockchain to understand their significance in transaction validation and their impact on algo trading."
 ---
 

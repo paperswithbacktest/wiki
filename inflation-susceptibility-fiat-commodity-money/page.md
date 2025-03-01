@@ -1,5 +1,5 @@
 ---
-title: "Inflation Susceptibility of Fiat and Commodity Money (Algo Trading)"
+title: "Inflation Susceptibility of Fiat and Commodity Money"
 description: "Explore the effects of inflation on fiat and commodity money, and discover the role of algorithmic trading in modern financial markets. Understand how inflation diminishes currency purchasing power and learn the differences between commodity money with intrinsic value and fiat money backed by government trust. Discover how supply demand impacts inflation and the intertwined relationship between inflation, economic stability, and trading strategies."
 ---
 

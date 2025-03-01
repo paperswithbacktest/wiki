@@ -1,5 +1,5 @@
 ---
-title: "John D. Rockefeller: Biography and Achievements (Algo Trading)"
+title: "John D. Rockefeller: Biography and Achievements"
 description: "Explore the biography and achievements of John D. Rockefeller, a transformative figure in American history whose strategies in the oil industry influenced modern economic practices."
 ---
 

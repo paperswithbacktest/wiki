@@ -1,5 +1,5 @@
 ---
-title: "Equity Risk Premium: Overview and Calculation (Algo Trading)"
+title: "Equity Risk Premium: Overview and Calculation"
 description: "Explore the complexities of equity risk premium and its crucial role in financial investment strategies. Learn how this key financial metric influences algorithmic trading and risk assessment to maximize returns and optimize portfolio management. Gain insights into essential concepts for informed investment decisions."
 ---
 

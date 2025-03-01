@@ -1,5 +1,5 @@
 ---
-title: "Adjustable Peg: Mechanics and Examples (Algo Trading)"
+title: "Adjustable Peg: Mechanics and Examples"
 description: "Explore adjustable peg exchange rates and their role in algo trading Learn how these systems maintain currency stability while enabling efficient market strategies"
 ---
 

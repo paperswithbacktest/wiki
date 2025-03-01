@@ -1,5 +1,5 @@
 ---
-title: "Digital Copy (Algo Trading)"
+title: "Digital Copy"
 description: "Explore the transformative role of digital content and media in algorithmic trading Learn how advanced technologies enhance decision-making and market operations"
 ---
 

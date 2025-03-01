@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Bid and Ask Prices for Treasury Bills (Algo Trading)"
+title: "Comparison of Bid and Ask Prices for Treasury Bills"
 description: "Explore bid and ask price dynamics for Treasury Bills and the impact of algorithmic trading on liquidity and efficiency in financial markets."
 ---
 

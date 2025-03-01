@@ -1,5 +1,5 @@
 ---
-title: "Decentralized Finance (DeFi) Trading Models (Algo Trading)"
+title: "Decentralized Finance (DeFi) Trading Models"
 description: "Explore the innovative world of DeFi trading models and algorithmic trading strategies that are reshaping the financial sector with blockchain technology."
 ---
 

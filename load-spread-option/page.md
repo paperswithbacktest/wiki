@@ -1,5 +1,5 @@
 ---
-title: "Load Spread Option (Algo Trading)"
+title: "Load Spread Option"
 description: "Explore load spread options and algorithmic trading in finance Discover how these tools improve fee management optimize trading strategies and tackle market risks"
 ---
 

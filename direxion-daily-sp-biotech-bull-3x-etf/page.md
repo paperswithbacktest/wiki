@@ -1,5 +1,5 @@
 ---
-title: "Direxion Daily S&P Biotech Bull 3X ETF (Algo Trading)"
+title: "Direxion Daily S&P Biotech Bull 3X ETF"
 description: "Explore the opportunities and risks of investing in the Direxion Daily S&P Biotech Bull 3X ETF. Discover how algorithmic trading can optimize returns."
 ---
 

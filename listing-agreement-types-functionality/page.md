@@ -1,5 +1,5 @@
 ---
-title: "Listing Agreement: Types and Functionality (Algo Trading)"
+title: "Listing Agreement: Types and Functionality"
 description: "Explore the types and functionality of listing agreements in real estate covering exclusive rights and open listings and their role in algorithmic trading."
 ---
 

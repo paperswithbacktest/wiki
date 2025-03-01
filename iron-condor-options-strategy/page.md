@@ -1,5 +1,5 @@
 ---
-title: "Iron Condor Options Strategy (Algo Trading)"
+title: "Iron Condor Options Strategy"
 description: "Discover how the Iron Condor options strategy can enhance your trading with algorithmic tools for optimized market stability and income generation."
 ---
 

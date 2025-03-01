@@ -1,5 +1,5 @@
 ---
-title: "Cornering the market (Algo Trading)"
+title: "Cornering the market"
 description: "Explore the complexities of market cornering within algorithmic trading, its risks, legal aspects, and how tech innovations and regulations aim to ensure fairness."
 ---
 

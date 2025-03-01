@@ -1,5 +1,5 @@
 ---
-title: "Forwardation in Commodity Markets (Algo Trading)"
+title: "Forwardation in Commodity Markets"
 description: "Explore the impact of forwardation and algorithmic trading in commodity markets Learn how these strategies optimize trading and hedge against volatility"
 ---
 

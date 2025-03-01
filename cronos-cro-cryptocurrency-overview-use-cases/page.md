@@ -1,5 +1,5 @@
 ---
-title: "Cronos (CRO): Cryptocurrency Overview and Use Cases (Algo Trading)"
+title: "Cronos (CRO): Cryptocurrency Overview and Use Cases"
 description: "Explore Cronos CRO cryptocurrency and its use cases in algorithmic trading learn about its role in DeFi NFTs the metaverse and market dynamics"
 ---
 

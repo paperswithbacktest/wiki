@@ -1,5 +1,5 @@
 ---
-title: "Certificate of Origin: Types and Acquisition (Algo Trading)"
+title: "Certificate of Origin: Types and Acquisition"
 description: "Explore the significance of Certificates of Origin in global trade understand their types and acquisition processes and learn how they impact algorithmic trading strategies."
 ---
 

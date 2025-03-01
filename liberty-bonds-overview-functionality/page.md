@@ -1,5 +1,5 @@
 ---
-title: "Liberty Bonds Overview and Functionality (Algo Trading)"
+title: "Liberty Bonds Overview and Functionality"
 description: "Explore the evolution from Liberty Bonds' historical significance in wartime financing to modern algorithmic trading reshaping today's bond markets and investment strategies."
 ---
 

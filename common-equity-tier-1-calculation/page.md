@@ -1,5 +1,5 @@
 ---
-title: "Common Equity Tier 1 (CET1) and Its Calculation (Algo Trading)"
+title: "Common Equity Tier 1 (CET1) and Its Calculation"
 description: "Explore the essentials of Common Equity Tier 1 (CET1) and its calculation in banking regulation and algorithmic trading's impact on financial systems."
 ---
 

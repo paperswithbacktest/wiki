@@ -1,5 +1,5 @@
 ---
-title: "Lucas Wedge: Concept and Mechanism with Example (Algo Trading)"
+title: "Lucas Wedge: Concept and Mechanism with Example"
 description: "Explore the Lucas Wedge concept and its role in algorithmic trading Enhance your understanding of economic growth metrics like GDP and their impact on trading strategies"
 ---
 

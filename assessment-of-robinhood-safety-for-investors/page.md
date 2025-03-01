@@ -1,5 +1,5 @@
 ---
-title: "Assessment of Robinhood's Safety for Investors (Algo Trading)"
+title: "Assessment of Robinhood's Safety for Investors"
 description: "Explore the safety of investing with Robinhood, a pioneer in commission-free trading, which democratizes financial markets using a user-friendly platform that supports algorithmic trading. Learn about the protections it offers to investors, including compliance with SEC and FINRA regulations, SIPC account protection, and additional insurance coverage, ensuring a secure environment for modern digital trading."
 ---
 

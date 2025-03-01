@@ -1,5 +1,5 @@
 ---
-title: "LLC and Stock Issuance (Algo Trading)"
+title: "LLC and Stock Issuance"
 description: "Explore LLCs and their unique ownership strategies alongside the rise of algorithmic trading Learn how these elements interconnect and impact modern business spaces"
 ---
 

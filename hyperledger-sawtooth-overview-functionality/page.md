@@ -1,5 +1,5 @@
 ---
-title: "Hyperledger Sawtooth: Overview and Functionality (Algo Trading)"
+title: "Hyperledger Sawtooth: Overview and Functionality"
 description: "Transform your trading with Hyperledger Sawtooth, a versatile framework enhancing blockchain's security and efficiency in algorithmic markets. Discover its impact today."
 ---
 

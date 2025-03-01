@@ -1,5 +1,5 @@
 ---
-title: "Bernard Dan: Notable Contributions and Achievements (Algo Trading)"
+title: "Bernard Dan: Notable Contributions and Achievements"
 description: "Discover Bernard Dan's influential role in evolving algorithmic trading through innovative strategies and leadership in the financial industry, enhancing market efficiency."
 ---
 

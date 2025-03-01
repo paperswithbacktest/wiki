@@ -1,5 +1,5 @@
 ---
-title: "Inclusion of Inventory in Working Capital (Algo Trading)"
+title: "Inclusion of Inventory in Working Capital"
 description: "Explore how inventory management, business finance, working capital, and algorithmic trading intersect to boost financial efficiency and business growth."
 ---
 

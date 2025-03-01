@@ -1,5 +1,5 @@
 ---
-title: "Delta Hedging Explained (Algo Trading)"
+title: "Delta Hedging Explained"
 description: "Discover the intricacies of delta hedging in options trading and how it integrates with algo trading strategies for effective risk management and potential gains."
 ---
 

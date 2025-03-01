@@ -1,5 +1,5 @@
 ---
-title: "Exchange-Traded Funds Influenced by Tesla (Algo Trading)"
+title: "Exchange-Traded Funds Influenced by Tesla"
 description: "Explore how Tesla's influence has sparked investor interest in thematic ETFs and advanced algorithmic trading strategies for optimized stock market returns."
 ---
 

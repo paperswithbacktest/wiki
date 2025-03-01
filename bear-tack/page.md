@@ -1,5 +1,5 @@
 ---
-title: "Bear Tack (Algo Trading)"
+title: "Bear Tack"
 description: "Enhance your trading strategy by exploring the parallels between nautical tactics and market dynamics Discover how to navigate downturns like a skilled sailor"
 ---
 

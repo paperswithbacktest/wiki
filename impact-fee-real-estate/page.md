@@ -1,5 +1,5 @@
 ---
-title: "Impact Fee in Real Estate (Algo Trading)"
+title: "Impact Fee in Real Estate"
 description: "Explore the impact of fees and algorithmic trading in real estate Discover how these elements affect investment strategies and opportunities in a dynamic market"
 ---
 

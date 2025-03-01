@@ -1,5 +1,5 @@
 ---
-title: "Asset Ledger: Overview and Functionality (Algo Trading)"
+title: "Asset Ledger: Overview and Functionality"
 description: "Explore the role of asset ledgers in modern financial technology and algorithmic trading to improve asset management and trading efficiency with transparency."
 ---
 

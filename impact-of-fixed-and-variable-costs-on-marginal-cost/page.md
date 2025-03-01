@@ -1,5 +1,5 @@
 ---
-title: "Impact of Fixed and Variable Costs on Marginal Cost (Algo Trading)"
+title: "Impact of Fixed and Variable Costs on Marginal Cost"
 description: "Understanding fixed and variable costs is essential in algorithmic trading. This article examines their impact on marginal cost, optimizing trading strategies and profitability."
 ---
 

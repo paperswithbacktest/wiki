@@ -1,5 +1,5 @@
 ---
-title: "Governance in Cryptocurrency: Importance for Investors (Algo Trading)"
+title: "Governance in Cryptocurrency: Importance for Investors"
 description: "Discover why cryptocurrency governance is crucial for investors navigating the blockchain landscape The article highlights how governance impacts market dynamics and algo trading strategies"
 ---
 

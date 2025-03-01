@@ -1,5 +1,5 @@
 ---
-title: "Happiness Economics (Algo Trading)"
+title: "Happiness Economics"
 description: "Explore the complex relationship between happiness and economics in the context of algorithmic trading focusing on well-being and economic growth balance."
 ---
 

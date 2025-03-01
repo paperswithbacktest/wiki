@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Repo and Reverse Repo Transactions (Algo Trading)"
+title: "Comparison of Repo and Reverse Repo Transactions"
 description: "Explore the essential role of repo, reverse repo transactions, and algorithmic trading in modern financial markets. Understanding these tools offers insights into liquidity and efficiency."
 ---
 

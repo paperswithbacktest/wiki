@@ -1,5 +1,5 @@
 ---
-title: "Cost and Freight in International Trade (Algo Trading)"
+title: "Cost and Freight in International Trade"
 description: "Explore the essentials of Cost and Freight (CFR) in international trade and its impact on algorithmic trading Learn how CFR agreements streamline global commerce"
 ---
 

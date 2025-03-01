@@ -1,5 +1,5 @@
 ---
-title: "Anticipatory Breach in Contract Law (Algo Trading)"
+title: "Anticipatory Breach in Contract Law"
 description: "Explore anticipatory breach in contract law within algorithmic trading and its impact on trade execution understanding legal strategies to mitigate financial risks."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Gen-Saki: Overview and Functionality with Examples (Algo Trading)"
+title: "Gen-Saki: Overview and Functionality with Examples"
 description: "Discover how Gen-Saki revolutionizes algorithmic trading with flexible bond market operations optimizing speed efficiency and liquidity in financial markets."
 ---
 

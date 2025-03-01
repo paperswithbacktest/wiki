@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Robo-Advisors and Self-Directed Investing (Algo Trading)"
+title: "Comparison of Robo-Advisors and Self-Directed Investing"
 description: "Explore the benefits and challenges of robo-advisors self-directed investing and algorithmic trading Understand which approach best suits your financial goals"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bear Put Spreads as an Alternative to Short Selling (Algo Trading)"
+title: "Bear Put Spreads as an Alternative to Short Selling"
 description: "Explore bear put spreads as a safer alternative to short selling in options trading and learn how algorithmic trading can enhance strategy execution."
 ---
 

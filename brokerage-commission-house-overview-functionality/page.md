@@ -1,5 +1,5 @@
 ---
-title: "Brokerage Commission House: Overview and Functionality (Algo Trading)"
+title: "Brokerage Commission House: Overview and Functionality"
 description: "Discover how commission houses and algorithmic trading reshape financial markets by facilitating trades, enhancing liquidity, and leveraging technology for efficiency."
 ---
 

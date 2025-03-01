@@ -1,5 +1,5 @@
 ---
-title: "Day Trading Guidelines for Beginners (Algo Trading)"
+title: "Day Trading Guidelines for Beginners"
 description: "Discover the essentials of day trading for beginners exploring algorithmic strategies key terminologies and effective tools for success in financial markets."
 ---
 

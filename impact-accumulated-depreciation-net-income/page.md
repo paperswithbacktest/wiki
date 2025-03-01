@@ -1,5 +1,5 @@
 ---
-title: "Impact of Accumulated Depreciation on Net Income (Algo Trading)"
+title: "Impact of Accumulated Depreciation on Net Income"
 description: "Explore how accumulated depreciation and net income impact financial reporting and algorithmic trading. Gain insights on aligning accounting and trading strategies."
 ---
 

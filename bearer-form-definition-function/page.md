@@ -1,5 +1,5 @@
 ---
-title: "Bearer Form: Definition and Function (Algo Trading)"
+title: "Bearer Form: Definition and Function"
 description: "Explore the unique intersection of bearer bonds and algorithmic trading, examining historical significance, regulatory changes, and future implications for investors."
 ---
 

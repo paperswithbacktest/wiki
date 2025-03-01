@@ -1,5 +1,5 @@
 ---
-title: "Consumer Price Index: Function and Applications (Algo Trading)"
+title: "Consumer Price Index: Function and Applications"
 description: "Explore how the Consumer Price Index (CPI) influences algorithmic trading strategies by examining the relationship between economic indicators and trading technology. This page provides insights into integrating CPI data into trading algorithms, helping traders anticipate market movements and optimize investment decisions. Both seasoned investors and newcomers can gain valuable perspectives on adapting to the evolving financial landscape by understanding the dynamic interaction between CPI and algorithmic trading. Learn about CPI's role in measuring inflation and its impact on financial markets, including effects on stock and bond markets."
 ---
 

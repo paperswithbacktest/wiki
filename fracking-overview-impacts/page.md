@@ -1,5 +1,5 @@
 ---
-title: "Fracking: Overview and Impacts (Algo Trading)"
+title: "Fracking: Overview and Impacts"
 description: "Explore the environmental and economic impacts of fracking and algorithmic trading highlighting their influence on modern energy and financial systems."
 ---
 

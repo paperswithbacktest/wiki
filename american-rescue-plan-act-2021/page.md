@@ -1,5 +1,5 @@
 ---
-title: "American Rescue Plan Act of 2021 (Algo Trading)"
+title: "American Rescue Plan Act of 2021"
 description: "Explore the impact of the American Rescue Plan Act of 2021 on financial markets and algorithmic trading in response to enhanced liquidity and market dynamics."
 ---
 

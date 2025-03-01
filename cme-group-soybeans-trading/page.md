@@ -1,5 +1,5 @@
 ---
-title: "CME Group and Soybeans Trading (Algo Trading)"
+title: "CME Group and Soybeans Trading"
 description: "Explore efficient soybean trading on CME Group a leader in derivatives markets with advanced electronic platforms and algorithmic tools enhancing liquidity and risk management."
 ---
 

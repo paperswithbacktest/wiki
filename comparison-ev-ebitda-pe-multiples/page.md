@@ -1,5 +1,5 @@
 ---
-title: "Comparison of EV/EBITDA and P/E Multiples (Algo Trading)"
+title: "Comparison of EV/EBITDA and P/E Multiples"
 description: "Explore the differences between EV/EBITDA and P/E ratios to uncover their strengths in evaluating company valuation and potential in algo trading strategies."
 ---
 

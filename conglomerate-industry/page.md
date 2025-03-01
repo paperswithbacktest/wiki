@@ -1,5 +1,5 @@
 ---
-title: "Conglomerate Industry (Algo Trading)"
+title: "Conglomerate Industry"
 description: "Explore how business conglomerates leverage algorithmic trading to maintain a competitive edge achieving growth through advanced strategies and cross-industry synergies."
 ---
 

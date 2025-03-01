@@ -1,5 +1,5 @@
 ---
-title: "Call Date Functionality and Explanation (Algo Trading)"
+title: "Call Date Functionality and Explanation"
 description: "Explore the interplay between callable bonds and algorithmic trading in investment strategies examining their opportunities and risks under changing market conditions."
 ---
 

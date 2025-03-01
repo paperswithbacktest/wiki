@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategies to Master Before Trading (Algo Trading)"
+title: "Investment Strategies to Master Before Trading"
 description: "Master key investment strategies before trading with valuable insights into manual and algo trading for beginners Refine your approach for trading success"
 ---
 

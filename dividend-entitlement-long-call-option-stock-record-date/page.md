@@ -1,5 +1,5 @@
 ---
-title: "Dividend Entitlement for Long Call Option Holders on Stock Record Date (Algo Trading)"
+title: "Dividend Entitlement for Long Call Option Holders on Stock Record Date"
 description: "Discover the interplay between dividends, long call options, and algo trading. Unlock strategies to optimize trading and maximize returns on dividend payouts."
 ---
 

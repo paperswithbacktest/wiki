@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Fixed and Current Assets (Algo Trading)"
+title: "Differences Between Fixed and Current Assets"
 description: "Explore the key distinctions between fixed and current assets in corporate finance and how they impact algorithmic trading and financial strategies."
 ---
 

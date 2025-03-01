@@ -1,5 +1,5 @@
 ---
-title: "Foreign Exchange Dealers Coalition (Algo Trading)"
+title: "Foreign Exchange Dealers Coalition"
 description: "Discover the impact of the Foreign Exchange Dealers Coalition on the forex industry and the transformative role of algorithmic trading in modernizing market practices."
 ---
 

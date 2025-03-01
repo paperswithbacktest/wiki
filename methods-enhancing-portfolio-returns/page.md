@@ -1,5 +1,5 @@
 ---
-title: "Methods for Enhancing Portfolio Returns (Algo Trading)"
+title: "Methods for Enhancing Portfolio Returns"
 description: "Uncover effective investment strategies to enhance portfolio returns with algorithmic trading Learn how to combine traditional and modern techniques to maximize gains"
 ---
 

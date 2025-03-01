@@ -1,5 +1,5 @@
 ---
-title: "Flip-Flop Note: Functionality and Examples (Algo Trading)"
+title: "Flip-Flop Note: Functionality and Examples"
 description: "Explore flip-flop notes and algorithmic trading in modern investing. Learn how these strategies optimize decision-making to navigate today's dynamic markets."
 ---
 

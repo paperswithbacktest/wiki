@@ -1,5 +1,5 @@
 ---
-title: "After-Tax Return (Algo Trading)"
+title: "After-Tax Return"
 description: "Understand how taxes impact your trading profits Learn strategies to optimize returns in algorithmic trading by accounting for varied tax treatments and liabilities"
 ---
 

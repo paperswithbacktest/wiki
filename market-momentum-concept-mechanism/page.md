@@ -1,5 +1,5 @@
 ---
-title: "Market Momentum: Concept and Mechanism (Algo Trading)"
+title: "Market Momentum: Concept and Mechanism"
 description: "Explore the concept of market momentum in financial markets, emphasizing its role in guiding informed trading strategies. Learn about key indicators such as RSI and MACD, and how they help assess trends and investor sentiment. Delve into momentum trading strategies like trend-following and mean-reversion, and discover how algorithmic trading enhances these strategies by automating decisions for improved efficiency and precision."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bullion Coins: Characteristics and Functionality (Algo Trading)"
+title: "Bullion Coins: Characteristics and Functionality"
 description: "Explore the enduring value of bullion coins and the impact of algorithmic trading on precious metal investments. Optimize your strategy with modern tech."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Heavy: Definition, Function, and Examples (Algo Trading)"
+title: "Heavy: Definition, Function, and Examples"
 description: "Explore the intricacies of algorithmic trading and heavy markets Learn how algo trading transforms financial markets with speed efficiency and strategic insights"
 ---
 

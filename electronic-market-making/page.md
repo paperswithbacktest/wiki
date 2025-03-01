@@ -1,5 +1,5 @@
 ---
-title: "Electronic Market Making (Algo Trading)"
+title: "Electronic Market Making"
 description: "Explore the role of electronic market making in algo trading, focusing on its impact on liquidity, efficiency, strategies, benefits, and potential challenges."
 ---
 

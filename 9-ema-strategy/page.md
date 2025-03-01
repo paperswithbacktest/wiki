@@ -1,5 +1,5 @@
 ---
-title: "9 EMA Strategy Explained (Algo Trading)"
+title: "9 EMA Strategy Explained"
 description: Explore the 9 EMA strategy for algorithmic trading to enhance your market analysis. This technique applies a 9-period Exponential Moving Average to capture short-term trends, making it popular among traders for its effectiveness and simplicity. With practical applications across stocks, forex, and commodities, it empowers traders of all levels to make informed decisions by focusing on recent price movements. Discover the rules, benefits, and implementation tactics to maximize your trading success using the 9 EMA strategy.
 ---
 

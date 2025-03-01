@@ -1,5 +1,5 @@
 ---
-title: "Madrid Fixed Income Market (Algo Trading)"
+title: "Madrid Fixed Income Market"
 description: "Explore the influence of algorithmic trading on Madrid's robust fixed-income market, highlighting technology's role in enhancing efficiency and liquidity."
 ---
 

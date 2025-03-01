@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Firstrade Brokerage Services (Algo Trading)"
+title: "Analysis of Firstrade Brokerage Services"
 description: "Explore Firstrade's brokerage services with a focus on simplicity and cost-effectiveness, while examining the limitations in algorithmic trading features for advanced users."
 ---
 

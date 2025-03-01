@@ -1,5 +1,5 @@
 ---
-title: "Investment Accounts for Young Investors (Algo Trading)"
+title: "Investment Accounts for Young Investors"
 description: "Empower your financial future with investment accounts and algorithmic trading for young investors Learn strategies to leverage technology for smart investing"
 ---
 

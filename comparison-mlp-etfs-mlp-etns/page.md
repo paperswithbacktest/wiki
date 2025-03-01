@@ -1,5 +1,5 @@
 ---
-title: "Comparison of MLP ETFs and MLP ETNs (Algo Trading)"
+title: "Comparison of MLP ETFs and MLP ETNs"
 description: "Explore the distinctions between MLP ETFs and ETNs in terms of tax implications and performance to optimize your algo trading strategies and investment portfolio."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of NOI and EBIT (Algo Trading)"
+title: "Comparison of NOI and EBIT"
 description: "Discover the differences between Net Operating Income (NOI) and Earnings Before Interest and Taxes (EBIT) in algo trading to enhance your investment strategies."
 ---
 

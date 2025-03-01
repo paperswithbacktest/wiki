@@ -1,5 +1,5 @@
 ---
-title: "Dual-listed company (Algo Trading)"
+title: "Dual-listed company"
 description: "Explore the intricate relationship between dual-listed companies and algorithmic trading to uncover strategic advantages in global markets. Discover insights into their roles."
 ---
 

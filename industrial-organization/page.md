@@ -1,5 +1,5 @@
 ---
-title: "Industrial Organization (Algo Trading)"
+title: "Industrial Organization"
 description: "Explore the intersection of industrial organization and algorithmic trading to understand market dynamics shaping trading strategies and economic policies in today's financial world."
 ---
 

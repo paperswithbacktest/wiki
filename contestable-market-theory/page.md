@@ -1,5 +1,5 @@
 ---
-title: "Contestable Market Theory (Algo Trading)"
+title: "Contestable Market Theory"
 description: "Discover how contestable market theory and algorithmic trading intersect to shape competitive dynamics in today's global economy. This article investigates into how potential competition influences market behaviors, even in monopolies, and examines the role of algorithmic trading in enhancing market efficiency and liquidity. Explore the implications for businesses in navigating and thriving within this interconnected landscape."
 ---
 

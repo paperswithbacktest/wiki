@@ -1,5 +1,5 @@
 ---
-title: "Backtesters (Algo Trading)"
+title: "Backtesters"
 description: Explore the transformative impact of algorithmic trading through backtesting, a vital process that simulates trading strategies with historical market data to evaluate potential performance. Discover how backtesters provide crucial insights, optimize strategies, and reduce financial risk, making them indispensable tools for traders aiming for sustainable profitability in dynamic markets.
 ---
 

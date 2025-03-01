@@ -1,5 +1,5 @@
 ---
-title: "Forward Rate Agreement: Overview and Calculation (Algo Trading)"
+title: "Forward Rate Agreement: Overview and Calculation"
 description: "Explore Forward Rate Agreements FRAs and their role in managing interest rate risks using algorithmic trading Discover how FRAs stabilize cash flows."
 ---
 

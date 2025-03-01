@@ -1,5 +1,5 @@
 ---
-title: "Dividend-Paying Australian Equity Mutual Funds (Algo Trading)"
+title: "Dividend-Paying Australian Equity Mutual Funds"
 description: "Discover comprehensive insights into Australian dividend funds and mutual funds Enhance your strategy with algorithmic trading for optimized income and growth"
 ---
 

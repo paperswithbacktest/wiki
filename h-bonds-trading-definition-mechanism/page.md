@@ -1,5 +1,5 @@
 ---
-title: "H in Bonds Trading: Definition and Mechanism (Algo Trading)"
+title: "H in Bonds Trading: Definition and Mechanism"
 description: "Explore the transformative role of algorithmic trading in bond markets Discover how technology enhances efficiency and revolutionizes trading practices today"
 ---
 

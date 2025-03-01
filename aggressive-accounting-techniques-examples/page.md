@@ -1,5 +1,5 @@
 ---
-title: "Aggressive Accounting Techniques and Examples (Algo Trading)"
+title: "Aggressive Accounting Techniques and Examples"
 description: "Explore aggressive accounting tactics that manipulate financial data to inflate earnings and obscure expenses, affecting market trust and compliance."
 ---
 

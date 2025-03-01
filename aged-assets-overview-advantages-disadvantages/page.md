@@ -1,5 +1,5 @@
 ---
-title: "Aged Assets: Overview, Advantages, and Disadvantages (Algo Trading)"
+title: "Aged Assets: Overview, Advantages, and Disadvantages"
 description: "Discover the advantages and challenges of managing aged assets alongside the impact of algorithmic trading in optimizing financial strategies and asset value."
 ---
 

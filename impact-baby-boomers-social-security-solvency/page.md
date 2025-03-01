@@ -1,5 +1,5 @@
 ---
-title: "Impact of Baby Boomers on Social Security Solvency (Algo Trading)"
+title: "Impact of Baby Boomers on Social Security Solvency"
 description: "Explore the impact of Baby Boomers on Social Security's solvency alongside algorithmic trading's influence on market dynamics and economic factors."
 ---
 

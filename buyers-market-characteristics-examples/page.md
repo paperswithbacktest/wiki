@@ -1,5 +1,5 @@
 ---
-title: "Buyer's Market Characteristics and Examples (Algo Trading)"
+title: "Buyer's Market Characteristics and Examples"
 description: "Explore the characteristics of a buyer's market in algorithmic trading. Gain insights into how excess supply empowers buyers and enhances trading efficiency."
 ---
 

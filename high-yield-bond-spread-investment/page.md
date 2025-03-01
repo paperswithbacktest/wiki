@@ -1,5 +1,5 @@
 ---
-title: "High-Yield Bond Spread in Investment (Algo Trading)"
+title: "High-Yield Bond Spread in Investment"
 description: "Explore the intricacies of high-yield bond spreads in investment highlighting risk assessments, market trends, and the efficiency gains of algorithmic trading strategies."
 ---
 

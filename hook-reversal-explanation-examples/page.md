@@ -1,5 +1,5 @@
 ---
-title: "Hook Reversal Explanation and Examples (Algo Trading)"
+title: "Hook Reversal Explanation and Examples"
 description: "Hook reversal patterns in algo trading signal market trend changes Key in technical analysis they aid traders in identifying strategic entry and exit points"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Arbitrage and Probability in Trading (Algo Trading)"
+title: "Arbitrage and Probability in Trading"
 description: "Explore the dynamic world of arbitrage and probability in algo trading Discover strategies to capitalize on market inefficiencies and maximize profits"
 ---
 

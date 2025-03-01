@@ -1,5 +1,5 @@
 ---
-title: "Diamonds ETF: Overview and Market Trends (Algo Trading)"
+title: "Diamonds ETF: Overview and Market Trends"
 description: "Explore the dynamic diamonds ETF market and gain insights into current trends and algorithmic trading for diversified investment in diamond-related assets."
 ---
 

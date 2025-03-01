@@ -1,5 +1,5 @@
 ---
-title: "Against Actual: Concept and Function (Algo Trading)"
+title: "Against Actual: Concept and Function"
 description: "Explore essential concepts of algorithmic trading highlighting its impact on market efficiency and liquidity while unraveling complex yet practical strategies."
 ---
 

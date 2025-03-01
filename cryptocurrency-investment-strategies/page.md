@@ -1,5 +1,5 @@
 ---
-title: "Cryptocurrency Investment Strategies (Algo Trading)"
+title: "Cryptocurrency Investment Strategies"
 description: "Explore the transformative impact of algorithmic trading in cryptocurrency markets through this insightful analysis on investment strategies. Delve into how advanced algorithms automate trade execution for enhanced decision-making and speed. This guide examines the plethora of trading strategies available from simple rule-based systems to sophisticated AI-driven models, while addressing the crucial balance of potential rewards and inherent risks. An essential read for investors eager to leverage technology in the dynamic digital asset landscape with a focus on understanding strategy function and effective market engagement."
 ---
 

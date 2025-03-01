@@ -1,5 +1,5 @@
 ---
-title: "Cities with Fastest Rising Rent (Algo Trading)"
+title: "Cities with Fastest Rising Rent"
 description: "Explore the impact of rising city rents and the growing role of algorithmic trading in real estate Discover how these trends shape the housing market today"
 ---
 

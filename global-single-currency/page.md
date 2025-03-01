@@ -1,5 +1,5 @@
 ---
-title: "Global Single Currency (Algo Trading)"
+title: "Global Single Currency"
 description: "Explore the potential of a global currency in reshaping economic stability and cross-border transactions while examining the role of algorithmic trading in its feasibility."
 ---
 

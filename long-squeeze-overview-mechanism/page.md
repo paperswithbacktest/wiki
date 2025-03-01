@@ -1,5 +1,5 @@
 ---
-title: "Long Squeeze: Overview and Mechanism (Algo Trading)"
+title: "Long Squeeze: Overview and Mechanism"
 description: "Explore the dynamics of long squeezes and how algorithmic trading can empower investors to navigate volatile markets and protect their investments."
 ---
 

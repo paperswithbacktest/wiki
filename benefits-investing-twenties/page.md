@@ -1,5 +1,5 @@
 ---
-title: "Benefits of Investing During Your Twenties (Algo Trading)"
+title: "Benefits of Investing During Your Twenties"
 description: "Investing in your 20s with a focus on algorithmic trading sets up long-term financial success through compounding interest and strategic tech-savvy decisions."
 ---
 

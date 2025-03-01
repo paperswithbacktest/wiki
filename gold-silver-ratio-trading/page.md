@@ -1,5 +1,5 @@
 ---
-title: "Gold-Silver Ratio Trading (Algo Trading)"
+title: "Gold-Silver Ratio Trading"
 description: "Explore gold-silver ratio strategies in algo trading to optimize your portfolio Gain insights into using this key metric with advanced computational techniques"
 ---
 

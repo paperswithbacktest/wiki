@@ -1,5 +1,5 @@
 ---
-title: "Broker fees per turnover (Algo Trading)"
+title: "Broker fees per turnover"
 description: Explore how broker fees influence algorithmic trading profitability by understanding their impact on turnover. Discover strategies to optimize these costs and enhance trading performance. Learn about commissions, spreads, and transactional charges, and how to manage them effectively for high-frequency trading. Maximize profits by selecting brokers with competitive fees and employing advanced technology to balance trading volume and costs efficiently.
 ---
 

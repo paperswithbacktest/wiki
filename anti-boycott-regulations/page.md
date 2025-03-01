@@ -1,5 +1,5 @@
 ---
-title: "Anti-Boycott Regulations (Algo Trading)"
+title: "Anti-Boycott Regulations"
 description: "Explore the intricate world of anti-boycott regulations and how they affect algorithmic trading Learn compliance strategies to safeguard your business in global trade"
 ---
 

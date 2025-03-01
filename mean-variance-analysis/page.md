@@ -1,5 +1,5 @@
 ---
-title: "Mean-Variance Analysis (Algo Trading)"
+title: "Mean-Variance Analysis"
 description: "Explore mean-variance analysis in portfolio theory and algorithmic trading Discover strategies to optimize risk and return in dynamic financial markets"
 ---
 

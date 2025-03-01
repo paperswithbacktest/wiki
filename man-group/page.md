@@ -1,5 +1,5 @@
 ---
-title: "Man Group (Algo Trading)"
+title: "Man Group"
 description: Discover how Man Group plc leverages cutting-edge technology and strategic algorithmic trading to position itself as a leader in investment management. With a rich two-century history, Man Group excels by harnessing quantitative analysis and innovative strategies, driving advanced financial solutions in global markets. Explore their pioneering journey into systematic investing, strengthened by strategic acquisitions, and see how technology and a skilled team of quants fuel their dominance in the financial services industry.
 ---
 

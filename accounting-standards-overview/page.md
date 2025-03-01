@@ -1,5 +1,5 @@
 ---
-title: "Accounting Standards Overview (Algo Trading)"
+title: "Accounting Standards Overview"
 description: "Discover how accounting standards like GAAP and IFRS enhance financial reporting integrity, aiding informed algorithmic trading decisions in financial markets."
 ---
 

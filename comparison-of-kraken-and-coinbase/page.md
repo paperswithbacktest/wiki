@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Kraken and Coinbase (Algo Trading)"
+title: "Comparison of Kraken and Coinbase"
 description: "Discover how cryptocurrency exchanges Kraken and Coinbase cater to diverse trading needs, focusing on their algorithmic trading capabilities, fee structures, and user experiences. Explore Kraken's low fees and extensive crypto offerings, ideal for sophisticated investors, versus Coinbase's user-friendly interface and strong bank integration, perfect for beginners. Which platform aligns with your trading style and location?"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Call on a Call: Overview, Pricing, and Applications (Algo Trading)"
+title: "Call on a Call: Overview, Pricing, and Applications"
 description: "Explore Call on a Call options in algo trading with insights into their intricate structure pricing and applications enhancing your market strategies."
 ---
 

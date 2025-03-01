@@ -1,5 +1,5 @@
 ---
-title: "Capitalization of Accrued Interest (Algo Trading)"
+title: "Capitalization of Accrued Interest"
 description: "Explore key financial terms including accrued interest and capitalization, vital for investment strategies. Understand algorithmic trading's impact on markets."
 ---
 

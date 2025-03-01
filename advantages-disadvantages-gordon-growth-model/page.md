@@ -1,5 +1,5 @@
 ---
-title: "Advantages and Disadvantages of the Gordon Growth Model (Algo Trading)"
+title: "Advantages and Disadvantages of the Gordon Growth Model"
 description: "Explore the benefits and limitations of the Gordon Growth Model in investment valuation and algorithmic trading within the financial sector. Discover how the model's simplicity helps investors assess intrinsic stock values based on expected dividends while understanding its limitations in dynamic markets or for non-dividend paying stocks. Analyze how algorithmic trading enhances investment strategies by incorporating traditional models like GGM for improved trading decisions."
 ---
 

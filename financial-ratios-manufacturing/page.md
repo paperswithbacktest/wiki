@@ -1,5 +1,5 @@
 ---
-title: "Financial Ratios in Manufacturing (Algo Trading)"
+title: "Financial Ratios in Manufacturing"
 description: "Explore essential financial ratios in manufacturing and their role in algorithmic trading Learn how these metrics drive efficiency and investment strategies"
 ---
 

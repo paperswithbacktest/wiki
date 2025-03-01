@@ -1,5 +1,5 @@
 ---
-title: "Base Metals: Uses, Trading, and Investment (Algo Trading)"
+title: "Base Metals: Uses, Trading, and Investment"
 description: "Explore the essentials of base metal investment trading and algo strategies Learn their critical industrial role and uncover potential in economic growth"
 ---
 

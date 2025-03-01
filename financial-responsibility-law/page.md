@@ -1,5 +1,5 @@
 ---
-title: "Financial Responsibility Law (Algo Trading)"
+title: "Financial Responsibility Law"
 description: "Explore the impact of financial responsibility laws on algorithmic trading, focusing on insurance requirements, risk management, and legal compliance in evolving markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Email/Consumer Receipts Alternative Data (Algo Trading)"
+title: "Email/Consumer Receipts Alternative Data"
 description: Explore the power of email consumer receipts as alternative data in algorithmic trading to enhance precision and timing of trading strategies Illuminate how these digital receipts offer real-time insights into purchasing behaviors transforming trading strategies with valuable market dynamics understanding
 ---
 

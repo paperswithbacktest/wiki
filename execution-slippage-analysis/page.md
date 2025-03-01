@@ -1,5 +1,5 @@
 ---
-title: "Execution slippage analysis (Algo Trading)"
+title: "Execution slippage analysis"
 description: "Explore execution slippage in algorithmic trading and learn strategies to minimize its impact on profitability Enhance your trading performance by understanding slippage types and causes"
 ---
 

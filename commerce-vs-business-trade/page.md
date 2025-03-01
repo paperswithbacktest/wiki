@@ -1,5 +1,5 @@
 ---
-title: "Commerce vs Business and Trade (Algo Trading)"
+title: "Commerce vs Business and Trade"
 description: "Explore the impact of algorithmic trading on modern commerce and trade. Discover how algo trading optimizes transaction speed, efficiency, and strategic decision-making."
 ---
 

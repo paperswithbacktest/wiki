@@ -1,5 +1,5 @@
 ---
-title: "Inflation-Indexed Bonds as a Hedge Strategy (Algo Trading)"
+title: "Inflation-Indexed Bonds as a Hedge Strategy"
 description: "Explore inflation-indexed bonds as a hedge against inflation and their integration with algorithmic trading to diversify portfolios and optimize returns."
 ---
 

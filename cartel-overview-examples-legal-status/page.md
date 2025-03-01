@@ -1,5 +1,5 @@
 ---
-title: "Cartel: Overview, Examples, and Legal Status (Algo Trading)"
+title: "Cartel: Overview, Examples, and Legal Status"
 description: "Explore the intersection of cartels antitrust laws and algorithmic trading's impact on market competition and consumer protection in the digital age."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Diluted Normalized Earnings Per Share (Algo Trading)"
+title: "Diluted Normalized Earnings Per Share"
 description: "Explore how diluted normalized EPS enhances algorithmic trading strategies by providing insight into a company's true earning potential after accounting for share dilution."
 ---
 

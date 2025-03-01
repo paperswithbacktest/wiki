@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Target-Date Funds and S&P 500 Indexing (Algo Trading)"
+title: "Comparison of Target-Date Funds and S&P 500 Indexing"
 description: "Explore the benefits and differences of target-date funds, S&P 500 indexing, and algorithmic trading to find the best investment strategy for your goals."
 ---
 

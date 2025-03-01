@@ -1,5 +1,5 @@
 ---
-title: "Characteristics of Takeover Targets (Algo Trading)"
+title: "Characteristics of Takeover Targets"
 description: "Explore how takeovers and algo trading intersect to drive strategic growth in a dynamic business landscape Enhance market positions with cutting-edge technology"
 ---
 

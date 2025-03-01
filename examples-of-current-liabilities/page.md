@@ -1,5 +1,5 @@
 ---
-title: "Examples of Current Liabilities (Algo Trading)"
+title: "Examples of Current Liabilities"
 description: "Explore the intricacies of current liabilities in financial accounting and discover how algorithmic trading enhances their management for optimized financial strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Financial Securities: Examples, Types, Regulation, and Importance (Algo Trading)"
+title: "Financial Securities: Examples, Types, Regulation, and Importance"
 description: "Explore the role and regulation of financial securities in global markets and see how technology is revolutionizing trading through algorithmic techniques."
 ---
 

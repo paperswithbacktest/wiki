@@ -1,5 +1,5 @@
 ---
-title: "Cross-Exchange Trading Strategies (Algo Trading)"
+title: "Cross-Exchange Trading Strategies"
 description: "Explore cross-exchange trading strategies for profiting from price discrepancies across platforms. Learn about algorithmic tools and risk management for effective execution."
 ---
 

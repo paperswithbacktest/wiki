@@ -1,5 +1,5 @@
 ---
-title: "Investment Banking: Roles, Skills, and Examples (Algo Trading)"
+title: "Investment Banking: Roles, Skills, and Examples"
 description: "Explore the diverse roles and essential skills of investment banking with a focus on the impact of algorithmic trading on financial strategies and operations."
 ---
 

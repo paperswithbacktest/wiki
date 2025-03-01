@@ -1,5 +1,5 @@
 ---
-title: "Debt Collectors: Permissible and Prohibited Actions (Algo Trading)"
+title: "Debt Collectors: Permissible and Prohibited Actions"
 description: "Explore the legal boundaries of debt collection practices and understand consumer rights as technology reshapes the industry with compliance and fairness at its core."
 ---
 

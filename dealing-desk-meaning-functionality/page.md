@@ -1,5 +1,5 @@
 ---
-title: "Dealing Desk: Meaning and Functionality (Algo Trading)"
+title: "Dealing Desk: Meaning and Functionality"
 description: "Explore the intricacies of dealing desk brokers and algorithmic trading in the forex market Learn how these elements shape trading strategies and outcomes."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Discount: Concepts, Mechanisms, and Limitations (Algo Trading)"
+title: "Discount: Concepts, Mechanisms, and Limitations"
 description: "Explore concepts and complexities of discount mechanisms and algorithmic trading driving modern finance with strategic pricing and market responsiveness."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Currency Conversion Methods (Algo Trading)"
+title: "Currency Conversion Methods"
 description: "Explore effective currency conversion methods in algo trading with insights into exchange rates economic dynamics and the role of automated strategies."
 ---
 

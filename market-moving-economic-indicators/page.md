@@ -1,5 +1,5 @@
 ---
-title: "Market-Moving Economic Indicators (Algo Trading)"
+title: "Market-Moving Economic Indicators"
 description: "Explore how economic indicators drive market movements and algorithmic trading strategies Discover their impact on financial markets for informed trading decisions"
 ---
 

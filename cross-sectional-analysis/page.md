@@ -1,5 +1,5 @@
 ---
-title: "Cross-Sectional Analysis (Algo Trading)"
+title: "Cross-Sectional Analysis"
 description: "Explore cross-sectional analysis and algorithmic trading integration to enhance investment strategies in fast-paced financial markets through data-driven insights."
 ---
 

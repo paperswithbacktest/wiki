@@ -1,5 +1,5 @@
 ---
-title: "Essential Insights for Homebuyers in Real Estate (Algo Trading)"
+title: "Essential Insights for Homebuyers in Real Estate"
 description: "Gain essential insights for homebuyers navigating real estate market complexities with algorithmic trading strategies, offering data-driven tools for smart investments."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Impact of Operating Expenses on Profitability (Algo Trading)"
+title: "Impact of Operating Expenses on Profitability"
 description: "Explore how managing operating expenses impacts profitability in algorithmic trading. Learn strategies to optimize OPEX, enhancing financial performance and competitiveness."
 ---
 

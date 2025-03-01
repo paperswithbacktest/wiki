@@ -1,5 +1,5 @@
 ---
-title: "Isoquant Curve in Economics: Properties and Formula (Algo Trading)"
+title: "Isoquant Curve in Economics: Properties and Formula"
 description: "Explore the role of isoquant curves in production theory and their application in algorithmic trading. Learn how this economic concept helps optimize resource allocation and enhance trading efficiency by analyzing input trade-offs and achieving cost-effective outputs. Discover the integration of isoquant principles with modern technology to innovate and improve financial decision-making."
 ---
 

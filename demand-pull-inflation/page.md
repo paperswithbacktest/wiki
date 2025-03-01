@@ -1,5 +1,5 @@
 ---
-title: "Demand-Pull Inflation (Algo Trading)"
+title: "Demand-Pull Inflation"
 description: "Explore demand-pull inflation dynamics and its impact on economic trends alongside the role of algorithmic trading in shaping financial environments and market strategies."
 ---
 

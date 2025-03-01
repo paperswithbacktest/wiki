@@ -1,5 +1,5 @@
 ---
-title: "In The Pink: Slang in Investing (Algo Trading)"
+title: "In The Pink: Slang in Investing"
 description: "Explore key investing slang in algorithmic trading including 'in the pink' a term for robust financial performance to enhance your market understanding."
 ---
 

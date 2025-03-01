@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Collateralized Mortgage Obligations and Mortgage-Backed Securities (Algo Trading)"
+title: "Comparison of Collateralized Mortgage Obligations and Mortgage-Backed Securities"
 description: "Discover the dynamics of mortgage-backed securities and collateralized mortgage obligations coupled with algorithmic trading to optimize investment returns."
 ---
 

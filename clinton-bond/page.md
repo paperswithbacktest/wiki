@@ -1,5 +1,5 @@
 ---
-title: "Clinton Bond (Algo Trading)"
+title: "Clinton Bond"
 description: "Discover the intersection of Clinton bonds, dynamic investment strategies, and algorithmic trading to empower informed investments in evolving financial markets."
 ---
 

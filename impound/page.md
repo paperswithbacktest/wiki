@@ -1,5 +1,5 @@
 ---
-title: "Impound (Algo Trading)"
+title: "Impound"
 description: "Explore the intersection of legal terms like seizure and impound within algorithmic trading. Learn how legal frameworks influence market integrity and compliance."
 ---
 

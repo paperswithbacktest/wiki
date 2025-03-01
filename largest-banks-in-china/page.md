@@ -1,5 +1,5 @@
 ---
-title: "Largest Banks in China (Algo Trading)"
+title: "Largest Banks in China"
 description: "Explore China's largest banks like ICBC and CCB as they leverage cutting-edge algorithmic trading, enhancing their global dominance and market strategies."
 ---
 

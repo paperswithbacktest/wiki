@@ -1,5 +1,5 @@
 ---
-title: "Jasdaq: Japan's Automated Securities Trading System (Algo Trading)"
+title: "Jasdaq: Japan's Automated Securities Trading System"
 description: "Explore the role of Jasdaq in Japan's stock market, a platform vital for SMEs, and how algorithmic trading is reshaping market efficiency."
 ---
 

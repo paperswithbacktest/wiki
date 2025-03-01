@@ -1,5 +1,5 @@
 ---
-title: "Bond Ratings and Their Importance to Investors (Algo Trading)"
+title: "Bond Ratings and Their Importance to Investors"
 description: "Explore the significance of bond ratings and their impact on investors. Learn about investment analysis, bond creditworthiness, and algorithmic trading strategies."
 ---
 

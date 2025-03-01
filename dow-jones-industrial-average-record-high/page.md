@@ -1,5 +1,5 @@
 ---
-title: "Dow Jones Industrial Average Record High (Algo Trading)"
+title: "Dow Jones Industrial Average Record High"
 description: "Explore how algorithmic trading impacts the Dow Jones Industrial Average DJIA's record highs considering increased market efficiency and potential volatility."
 ---
 

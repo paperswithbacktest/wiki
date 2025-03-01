@@ -1,5 +1,5 @@
 ---
-title: "Direct Quote in Currency Trading (Algo Trading)"
+title: "Direct Quote in Currency Trading"
 description: "Explore how direct quotes and algorithmic trading enhance currency trading by simplifying foreign exchange valuation and leveraging quick market responses."
 ---
 

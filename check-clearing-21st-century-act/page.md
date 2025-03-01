@@ -1,5 +1,5 @@
 ---
-title: "Check Clearing for the 21st Century Act (Algo Trading)"
+title: "Check Clearing for the 21st Century Act"
 description: "Explore the impact of the Check 21 Act on banking efficiency and its synergy with algorithmic trading, boosting modern financial transactions' speed and security."
 ---
 

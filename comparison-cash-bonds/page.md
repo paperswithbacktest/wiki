@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Cash and Bonds (Algo Trading)"
+title: "Comparison of Cash and Bonds"
 description: "Explore the dynamic integration of algorithmic trading in bonds investments Discover how modern tech reshapes trading for optimized returns and efficiency."
 ---
 

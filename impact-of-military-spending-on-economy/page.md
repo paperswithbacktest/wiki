@@ -1,5 +1,5 @@
 ---
-title: "Impact of Military Spending on Economy (Algo Trading)"
+title: "Impact of Military Spending on Economy"
 description: "Explore the intricate connections between military spending and economic growth in the context of algorithmic trading. Defense budgets can drive technological innovations and job creation, contributing to national GDP and development. However, excessive spending may divert resources from essential sectors, affecting long-term growth. This article examines how nations balance these priorities for security and prosperity."
 ---
 

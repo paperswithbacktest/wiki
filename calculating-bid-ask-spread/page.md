@@ -1,5 +1,5 @@
 ---
-title: "Calculating Bid-Ask Spread (Algo Trading)"
+title: "Calculating Bid-Ask Spread"
 description: "Learn to calculate bid-ask spreads essential for algo trading by understanding this concept's impact on liquidity pricing and execution costs."
 ---
 

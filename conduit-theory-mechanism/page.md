@@ -1,5 +1,5 @@
 ---
-title: "Conduit Theory and Its Mechanism (Algo Trading)"
+title: "Conduit Theory and Its Mechanism"
 description: "Explore the role of Mechanism Finance and Conduit Theory in algorithmic trading Discover how these principles maximize after-tax returns and optimize efficiency"
 ---
 

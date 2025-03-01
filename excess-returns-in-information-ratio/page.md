@@ -1,5 +1,5 @@
 ---
-title: "Excess returns in information ratio (Algo Trading)"
+title: "Excess returns in information ratio"
 description: Explore the intricacies of algorithmic trading and excess returns, focusing on the role of the Information Ratio in measuring performance against benchmarks. Learn how sophisticated algo strategies, powered by machine learning and data analysis, strive to achieve superior risk-adjusted returns by refining predictive accuracy and optimizing trading models. Understand the significance of achieving alpha, the effectiveness of active management strategies, and the advanced techniques that enable traders to navigate market complexities and outperform standard measures for sustained success.
 ---
 

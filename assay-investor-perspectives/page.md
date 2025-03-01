@@ -1,5 +1,5 @@
 ---
-title: "Assay and Investor Perspectives (Algo Trading)"
+title: "Assay and Investor Perspectives"
 description: "Explore the evolving landscape of algorithmic trading and its impact on modern investment strategies. This article investigates into the integration of investment analysis and algorithmic methodologies, highlighting how algorithms enhance trading precision and speed. Understand how assays play a pivotal role in commodities trading, offering investors reliable data to make informed decisions. Discover the intersection of quantitative analysis and algorithmic models in shaping today's financial markets for improved efficiencies and opportunities."
 ---
 

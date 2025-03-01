@@ -1,5 +1,5 @@
 ---
-title: "Intertemporal portfolio choice (Algo Trading)"
+title: "Intertemporal portfolio choice"
 description: "Explore intertemporal portfolio choice in algorithmic trading which optimizes asset allocation over time for maximizing returns and managing risks in dynamic markets."
 ---
 

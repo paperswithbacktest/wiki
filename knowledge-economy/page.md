@@ -1,5 +1,5 @@
 ---
-title: "Knowledge Economy (Algo Trading)"
+title: "Knowledge Economy"
 description: "Explore the knowledge economy with insights into algorithmic trading highlighting the vital role of intellectual capital and innovation in modern finance."
 ---
 

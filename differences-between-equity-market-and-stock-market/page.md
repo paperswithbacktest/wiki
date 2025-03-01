@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Equity Market and Stock Market (Algo Trading)"
+title: "Differences Between Equity Market and Stock Market"
 description: "Explore the key distinctions between equity markets and stock markets in this comprehensive analysis focused on algorithmic trading. Understand how these markets impact economic growth by offering platforms for raising capital and trading ownership shares. Discover the role of algorithmic trading in enhancing market efficiency and liquidity while navigating challenges in modern financial environments. This insightful guide aims to equip investors with the knowledge needed to make informed decisions and thrive in today's dynamic financial landscape."
 ---
 

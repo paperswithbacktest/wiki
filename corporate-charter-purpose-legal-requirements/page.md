@@ -1,5 +1,5 @@
 ---
-title: "Corporate Charter: Purpose and Legal Requirements (Algo Trading)"
+title: "Corporate Charter: Purpose and Legal Requirements"
 description: "Explore the critical relationship between corporate charters, governance, and legal requirements for algorithmic trading to optimize compliance and minimize risk."
 ---
 

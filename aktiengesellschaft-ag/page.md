@@ -1,5 +1,5 @@
 ---
-title: "Aktiengesellschaft (AG) (Algo Trading)"
+title: "Aktiengesellschaft (AG)"
 description: "Explore the dynamics of Aktiengesellschaft (AG) in Europe focusing on transparency shareholder protection and its impact on modern strategies like algorithmic trading."
 ---
 

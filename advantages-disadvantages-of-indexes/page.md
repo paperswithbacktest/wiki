@@ -1,5 +1,5 @@
 ---
-title: "Advantages and Disadvantages of Indexes (Algo Trading)"
+title: "Advantages and Disadvantages of Indexes"
 description: "Explore the pros and cons of indexes and algo trading to understand their impact on financial strategies. Discover how these tools influence market decisions."
 ---
 

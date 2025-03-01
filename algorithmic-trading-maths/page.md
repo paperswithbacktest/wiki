@@ -1,5 +1,5 @@
 ---
-title: "Mathematics in Algorithmic Trading (Algo Trading)"
+title: "Mathematics in Algorithmic Trading"
 description: Explore the essential role of mathematics in algorithmic trading to enhance decision-making and execution in financial markets. Discover how statistical analysis, probability theory, and calculus are applied to analyze market data, predict price movements, and manage risk. Understand the mathematical foundations that assist traders in optimizing strategies and gaining a competitive edge in stock market operations. Dive into the mathematical concepts and techniques that drive sophisticated algorithmic trading systems for improved trading performance and adaptability to market dynamics.
 ---
 

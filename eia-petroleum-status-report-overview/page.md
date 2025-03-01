@@ -1,5 +1,5 @@
 ---
-title: "EIA Petroleum Status Report Overview (Algo Trading)"
+title: "EIA Petroleum Status Report Overview"
 description: "Discover the impact of the EIA Petroleum Status Report on algorithmic trading in energy markets Get insights into crude oil supply demand dynamics"
 ---
 

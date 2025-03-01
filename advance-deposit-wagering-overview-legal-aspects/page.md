@@ -1,5 +1,5 @@
 ---
-title: "Advance-Deposit Wagering: Overview and Legal Aspects (Algo Trading)"
+title: "Advance-Deposit Wagering: Overview and Legal Aspects"
 description: "Explore the rise of advance-deposit wagering in horse racing with insights into its legal frameworks and the impact of algorithmic trading on betting success."
 ---
 

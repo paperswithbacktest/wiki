@@ -1,5 +1,5 @@
 ---
-title: "Attilio Meucci (Algo Trading)"
+title: "Attilio Meucci"
 description: "Attilio Meucci is a pivotal innovator in algorithmic trading renowned for his expertise in quantitative finance risk management and portfolio construction."
 ---
 

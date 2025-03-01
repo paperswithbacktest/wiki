@@ -1,5 +1,5 @@
 ---
-title: "Fixed Income Forward: Definition and Functionality (Algo Trading)"
+title: "Fixed Income Forward: Definition and Functionality"
 description: "Explore the intricacies of fixed income derivatives and forward contracts in algorithmic trading Learn how investors manage risk and maximize returns effectively"
 ---
 

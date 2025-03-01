@@ -1,5 +1,5 @@
 ---
-title: "Kuala Lumpur Stock Exchange: Overview and Function (Algo Trading)"
+title: "Kuala Lumpur Stock Exchange: Overview and Function"
 description: "Explore the evolution of the Kuala Lumpur Stock Exchange and the impact of algorithmic trading on market dynamics at Bursa Malaysia to enhance trading efficiency."
 ---
 

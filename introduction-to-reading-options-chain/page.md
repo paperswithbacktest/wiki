@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Reading an Options Chain (Algo Trading)"
+title: "Introduction to Reading an Options Chain"
 description: "Discover the fundamentals of options trading and the role of algorithmic strategies in financial markets Learn to navigate options chains for smarter trading decisions"
 ---
 

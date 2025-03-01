@@ -1,5 +1,5 @@
 ---
-title: "Billing Cycle: Functionality and Duration (Algo Trading)"
+title: "Billing Cycle: Functionality and Duration"
 description: "Explore the impact of efficient billing cycles and automation in algorithmic trading to enhance financial management, optimize cash flow, and improve accuracy."
 ---
 

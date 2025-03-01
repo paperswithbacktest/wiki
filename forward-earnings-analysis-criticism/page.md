@@ -1,5 +1,5 @@
 ---
-title: "Forward Earnings: Analysis and Criticism (Algo Trading)"
+title: "Forward Earnings: Analysis and Criticism"
 description: "Explore forward earnings and their impacts on financial forecasting and algorithmic trading in this comprehensive analysis that unveils strategic insights and market dynamics."
 ---
 

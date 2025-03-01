@@ -1,5 +1,5 @@
 ---
-title: "Forex Trading Automation Software (Algo Trading)"
+title: "Forex Trading Automation Software"
 description: "Explore the transformative world of forex trading automation Discover how algo trading software minimizes emotions while enhancing precision and efficiency"
 ---
 

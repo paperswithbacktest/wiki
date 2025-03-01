@@ -1,5 +1,5 @@
 ---
-title: "Discounting in Finance (Algo Trading)"
+title: "Discounting in Finance"
 description: "Explore the crucial role of discounting in finance and its impact on algorithmic trading Discover how discount rates influence trading strategies and profitability"
 ---
 

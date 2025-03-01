@@ -1,5 +1,5 @@
 ---
-title: "Bjerksund-Stensland Model: Overview and Evaluation (Algo Trading)"
+title: "Bjerksund-Stensland Model: Overview and Evaluation"
 description: "The Bjerksund-Stensland model provides a sophisticated method for accurately pricing American options by factoring in early exercise features and dividend payments."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Hong Kong Exchanges and Clearing (Algo Trading)"
+title: "Hong Kong Exchanges and Clearing"
 description: "Explore the vital role of algorithmic trading at Hong Kong's HKEX, enhancing market efficiency and liquidity while driving global trading innovations."
 ---
 

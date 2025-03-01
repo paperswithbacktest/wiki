@@ -1,5 +1,5 @@
 ---
-title: "Address Commission: Overview and Functionality (Algo Trading)"
+title: "Address Commission: Overview and Functionality"
 description: "Explore the impact of algorithmic trading on commission structures in modern financial markets highlighting innovations and regulatory adaptations driving market evolution."
 ---
 

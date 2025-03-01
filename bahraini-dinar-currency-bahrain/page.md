@@ -1,5 +1,5 @@
 ---
-title: "Bahraini Dinar: Currency of Bahrain (Algo Trading)"
+title: "Bahraini Dinar: Currency of Bahrain"
 description: "Discover the value and stability of the Bahraini Dinar, a key currency in the Middle Eastern economy, and explore its influence on global algo trading markets."
 ---
 

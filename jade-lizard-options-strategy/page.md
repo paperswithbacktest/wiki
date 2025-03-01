@@ -1,5 +1,5 @@
 ---
-title: "Jade Lizard Options Strategy (Algo Trading)"
+title: "Jade Lizard Options Strategy"
 description: "Unlock the potential of the Jade Lizard options strategy in algorithmic trading to capitalize on market volatility with a neutral to bullish outlook."
 ---
 

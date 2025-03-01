@@ -1,5 +1,5 @@
 ---
-title: "Denomination with Real-World Examples (Algo Trading)"
+title: "Denomination with Real-World Examples"
 description: "Explore real-world examples of how currency denomination impacts algorithmic trading strategies and influences key parameters like pricing and risk management."
 ---
 

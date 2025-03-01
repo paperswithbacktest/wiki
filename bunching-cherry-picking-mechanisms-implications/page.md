@@ -1,5 +1,5 @@
 ---
-title: "Bunching and Cherry-Picking: Mechanisms and Implications (Algo Trading)"
+title: "Bunching and Cherry-Picking: Mechanisms and Implications"
 description: "Explore the mechanisms and implications of cherry-picking and bunching in algorithmic trading Learn how these strategies influence modern trading practices and ethics"
 ---
 

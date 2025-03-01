@@ -1,5 +1,5 @@
 ---
-title: "Extended Normal Costing (Algo Trading)"
+title: "Extended Normal Costing"
 description: "Explore the intricacies of Extended Normal Costing in algo trading to enhance financial success with refined cost allocation techniques for better decision-making."
 ---
 

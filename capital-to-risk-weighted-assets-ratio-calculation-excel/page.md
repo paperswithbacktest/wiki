@@ -1,5 +1,5 @@
 ---
-title: "Capital-To-Risk Weighted Assets Ratio Calculation in Excel (Algo Trading)"
+title: "Capital-To-Risk Weighted Assets Ratio Calculation in Excel"
 description: "Calculate the Capital-To-Risk Weighted Assets Ratio in Excel to assess bank stability and enhance algorithmic trading strategies using financial insights."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Corporate Share Buybacks (Algo Trading)"
+title: "Corporate Share Buybacks"
 description: "Explore the role of corporate share buybacks in financial strategy and their impact on stock value through algorithmic trading for optimal execution."
 ---
 

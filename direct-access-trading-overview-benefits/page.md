@@ -1,5 +1,5 @@
 ---
-title: "Direct Access Trading: Overview and Benefits (Algo Trading)"
+title: "Direct Access Trading: Overview and Benefits"
 description: "Explore the transformative world of Direct Access Trading and Algo Trading Learn how these technologies reshape market strategies for faster and precise trades"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Double-Declining Balance Depreciation Method (Algo Trading)"
+title: "Double-Declining Balance Depreciation Method"
 description: "Explore the Double-Declining Balance depreciation method used for rapid asset depreciation. Ideal for technology-focused industries and algorithmic trading."
 ---
 

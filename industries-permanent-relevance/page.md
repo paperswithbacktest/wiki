@@ -1,5 +1,5 @@
 ---
-title: "Industries with Permanent Relevance (Algo Trading)"
+title: "Industries with Permanent Relevance"
 description: "Explore the timeless relevance of perennial industries enhanced by algorithmic trading's capacity to optimize operations and improve resilience in dynamic markets."
 ---
 

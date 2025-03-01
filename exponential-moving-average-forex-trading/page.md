@@ -1,5 +1,5 @@
 ---
-title: "Exponential Moving Average in Forex Trading (Algo Trading)"
+title: "Exponential Moving Average in Forex Trading"
 description: "Discover how using the Exponential Moving Average (EMA) in forex trading can enhance your strategies through improved market trend sensitivity and automated algo trading. Learn how EMA prioritizes recent data for swift market condition responses, and explore algorithmic trading's benefits in executing trades based on quantitative analysis. Uncover the potential to optimize your trading approach by combining EMA with automated systems for precise and efficient decision-making in the dynamic forex landscape."
 ---
 

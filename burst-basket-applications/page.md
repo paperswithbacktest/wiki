@@ -1,5 +1,5 @@
 ---
-title: "Burst Basket Applications (Algo Trading)"
+title: "Burst Basket Applications"
 description: "Optimize your trading efficiency with burst baskets a pivotal tool in algorithmic trading. Execute multiple securities simultaneously minimizing market impact."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Collapse of FTX Crypto Exchange (Algo Trading)"
+title: "Collapse of FTX Crypto Exchange"
 description: "Explore the dramatic rise and fall of FTX Crypto Exchange. Discover how FTX's innovative trading features and rapid growth marked a new era in crypto trading before its unexpected collapse exposed critical vulnerabilities. Learn about the impact on market confidence, regulatory scrutiny, and the lessons learned in the world of digital assets and algorithmic trading."
 ---
 

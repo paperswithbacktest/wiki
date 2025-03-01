@@ -1,5 +1,5 @@
 ---
-title: "Borrowing Limits in Margin Accounts (Algo Trading)"
+title: "Borrowing Limits in Margin Accounts"
 description: "Explore borrowing limits in margin accounts and how they influence investment leverage and algorithmic trading Discover strategies to mitigate margin risks"
 ---
 

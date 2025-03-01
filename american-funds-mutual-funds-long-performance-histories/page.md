@@ -1,5 +1,5 @@
 ---
-title: "List of American Funds Mutual Funds with Long Performance Histories (Algo Trading)"
+title: "List of American Funds Mutual Funds with Long Performance Histories"
 description: "Explore the significant impact of American Funds Mutual Funds and algorithmic trading on modern investment strategies including long-term growth and trading efficiency"
 ---
 

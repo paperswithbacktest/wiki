@@ -1,5 +1,5 @@
 ---
-title: "Bond Risk Measurement Using Duration and Convexity (Algo Trading)"
+title: "Bond Risk Measurement Using Duration and Convexity"
 description: "Explore the essentials of bond risk management, focusing on duration and convexity, to optimize algorithmic trading strategies for improved portfolio performance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Dry Powder in Finance (Algo Trading)"
+title: "Dry Powder in Finance"
 description: "Explore the concept of \"dry powder\" in finance, highlighting its importance as liquid assets available to capitalize on investment opportunities. The article investigates into how combining dry powder strategies with algorithmic trading can enhance investment tactics, providing flexibility and preparedness in volatile markets. Discover how investors utilize algorithmic precision to optimize cash reserves, ensuring timely decisions without needing to liquidate illiquid assets, and learn about the integration of technology in modern investment landscapes."
 ---
 

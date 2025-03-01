@@ -1,5 +1,5 @@
 ---
-title: "Barrels of Oil Equivalent Per Day (Algo Trading)"
+title: "Barrels of Oil Equivalent Per Day"
 description: "Explore the role of Barrels of Oil Equivalent Per Day in energy trading and algorithmic systems Learn how BOE/D enhances efficiency in resource management"
 ---
 

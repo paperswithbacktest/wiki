@@ -1,5 +1,5 @@
 ---
-title: "Futures Market (Algo Trading)"
+title: "Futures Market"
 description: "Explore the dynamic world of futures trading where algorithmic strategies enhance decision-making speed and precision offering tools to hedge and speculate effectively."
 ---
 

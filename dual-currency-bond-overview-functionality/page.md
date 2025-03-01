@@ -1,5 +1,5 @@
 ---
-title: "Dual Currency Bond: Overview and Functionality (Algo Trading)"
+title: "Dual Currency Bond: Overview and Functionality"
 description: "Explore the functionality and benefits of dual currency bonds as unique financial instruments offering dual exposure to currency risks and rewards in algotrading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Directional Movement Index: Interpretation and Calculation (Algo Trading)"
+title: "Directional Movement Index: Interpretation and Calculation"
 description: "Explore the Directional Movement Index for analyzing market trends and making informed trading decisions with DMI calculations and insights into algorithmic trading"
 ---
 

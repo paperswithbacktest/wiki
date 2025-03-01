@@ -1,5 +1,5 @@
 ---
-title: "Delivery Pricing Mechanism (Algo Trading)"
+title: "Delivery Pricing Mechanism"
 description: "Explore the crucial role of delivery pricing mechanisms and algorithmic trading in the financial markets. Learn how these influence trading strategies."
 ---
 

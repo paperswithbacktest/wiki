@@ -1,5 +1,5 @@
 ---
-title: "Difference Between Nominal and Real Value of Stock (Algo Trading)"
+title: "Difference Between Nominal and Real Value of Stock"
 description: "Explore the crucial difference between nominal and real stock values in algorithmic trading to make informed investment decisions with accurate valuation insights."
 ---
 

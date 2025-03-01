@@ -1,5 +1,5 @@
 ---
-title: "Largest Banks in Canada (Algo Trading)"
+title: "Largest Banks in Canada"
 description: "Discover the largest banks in Canada and the role of algorithmic trading in shaping their success in the financial sector. Explore insights into Canadian banking."
 ---
 

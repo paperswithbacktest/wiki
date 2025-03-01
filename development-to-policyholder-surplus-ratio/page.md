@@ -1,5 +1,5 @@
 ---
-title: "Development to Policyholder Surplus Ratio (Algo Trading)"
+title: "Development to Policyholder Surplus Ratio"
 description: "Explore how financial ratios like the development to policyholder surplus ratio and algo trading enhance insurance financial health and policyholder security."
 ---
 

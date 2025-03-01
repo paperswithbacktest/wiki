@@ -1,5 +1,5 @@
 ---
-title: "Collateralized Mortgage Obligation (Algo Trading)"
+title: "Collateralized Mortgage Obligation"
 description: "Explore the intersection of mortgage-backed securities and algorithmic trading Learn how technology enhances investment strategies and market efficiency"
 ---
 

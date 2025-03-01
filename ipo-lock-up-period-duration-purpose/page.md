@@ -1,5 +1,5 @@
 ---
-title: "IPO Lock-Up Period Duration and Purpose (Algo Trading)"
+title: "IPO Lock-Up Period Duration and Purpose"
 description: "Explore the importance of IPO lock-up periods and the influence of algorithmic trading in financial markets Understand how these factors impact market stability and pricing dynamics"
 ---
 

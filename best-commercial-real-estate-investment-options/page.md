@@ -1,5 +1,5 @@
 ---
-title: "Best Commercial Real Estate Investment Options (Algo Trading)"
+title: "Best Commercial Real Estate Investment Options"
 description: "Discover the synergy between commercial real estate and algorithmic trading Learn how modern tech enhances decision-making in property investments for higher returns"
 ---
 

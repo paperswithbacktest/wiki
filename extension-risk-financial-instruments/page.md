@@ -1,5 +1,5 @@
 ---
-title: "Extension Risk in Financial Instruments (Algo Trading)"
+title: "Extension Risk in Financial Instruments"
 description: "Explore extension risk in bond markets and its implications on returns amid changing conditions. Learn how algo trading impacts these risks in finance."
 ---
 

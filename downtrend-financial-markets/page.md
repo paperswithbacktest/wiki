@@ -1,5 +1,5 @@
 ---
-title: "Downtrend in Financial Markets (Algo Trading)"
+title: "Downtrend in Financial Markets"
 description: "Explore the impact and strategies of algorithmic trading in downtrends to minimize losses and capitalize on opportunities during declining market cycles."
 ---
 

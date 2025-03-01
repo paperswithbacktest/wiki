@@ -1,5 +1,5 @@
 ---
-title: "Interest Rates: Essential Information for Investors (Algo Trading)"
+title: "Interest Rates: Essential Information for Investors"
 description: "Explore how interest rates, financial data, and algorithmic trading intersect to shape investor strategies and market trends. Discover essential insights now."
 ---
 

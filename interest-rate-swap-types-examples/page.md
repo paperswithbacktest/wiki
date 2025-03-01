@@ -1,5 +1,5 @@
 ---
-title: "Interest Rate Swap: Types and Examples (Algo Trading)"
+title: "Interest Rate Swap: Types and Examples"
 description: "Explore the types and examples of interest rate swaps, crucial financial derivatives for managing risk and optimizing investment strategies in algo trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "LIBOR-in-Arrears Swap Mechanics and Functionality (Algo Trading)"
+title: "LIBOR-in-Arrears Swap Mechanics and Functionality"
 description: "Discover the mechanics and functionality of LIBOR-in-Arrears swaps within algorithmic trading Essential for managing interest rate risks and optimizing strategies"
 ---
 

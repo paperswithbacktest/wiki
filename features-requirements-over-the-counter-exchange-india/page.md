@@ -1,5 +1,5 @@
 ---
-title: "Features and Requirements of the Over-The-Counter Exchange of India (Algo Trading)"
+title: "Features and Requirements of the Over-The-Counter Exchange of India"
 description: "Discover how the Over-The-Counter Exchange of India empowers SMEs through flexible listing requirements and advances with algorithmic trading for market efficiency."
 ---
 

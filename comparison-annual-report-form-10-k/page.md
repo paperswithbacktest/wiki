@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Annual Report and Form 10-K (Algo Trading)"
+title: "Comparison of Annual Report and Form 10-K"
 description: "Explore how Form 10-K disclosures benefit algorithmic trading by analyzing financial metrics and integrating strategic insights for informed trading decisions."
 ---
 

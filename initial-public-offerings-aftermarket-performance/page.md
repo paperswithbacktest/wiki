@@ -1,5 +1,5 @@
 ---
-title: "Initial Public Offerings and Aftermarket Performance (Algo Trading)"
+title: "Initial Public Offerings and Aftermarket Performance"
 description: "Explore the dynamic interplay between IPOs, aftermarket performance, and algorithmic trading to understand their impact on market behavior and investment decisions."
 ---
 

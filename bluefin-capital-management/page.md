@@ -1,5 +1,5 @@
 ---
-title: "Bluefin Capital Management (Algo Trading)"
+title: "Bluefin Capital Management"
 description: "Discover how Bluefin Capital Management excels in algorithmic trading using innovative models and global strategies to navigate today's complex financial markets."
 ---
 

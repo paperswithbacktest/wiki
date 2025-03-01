@@ -1,5 +1,5 @@
 ---
-title: "Double Hedging: Definition and Mechanism (Algo Trading)"
+title: "Double Hedging: Definition and Mechanism"
 description: "Explore the intricate concept of double hedging and how algorithmic trading enhances risk management by efficiently mitigating adverse price movements."
 ---
 

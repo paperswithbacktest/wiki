@@ -1,5 +1,5 @@
 ---
-title: "Backdating Scandal Overview (Algo Trading)"
+title: "Backdating Scandal Overview"
 description: "Explore the complexities of financial scandals involving options backdating and algorithmic trading which have raised concerns over market integrity and investor trust. Delve into the impact of backdating on corporate governance as it exposed loopholes in executive compensation and triggered widespread regulatory scrutiny. Additionally examine how algorithmic trading with its rapid automation has transformed markets yet also posed new challenges in fairness and regulation. This article highlights the need for robust oversight and the balance between innovation and market stability to safeguard investor confidence."
 ---
 

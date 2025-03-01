@@ -1,5 +1,5 @@
 ---
-title: "Creditors' Committee: Function and Operation (Algo Trading)"
+title: "Creditors' Committee: Function and Operation"
 description: "Explore the critical role of creditors' committees in bankruptcy, examining how they navigate the challenges presented by the rise of algorithmic trading."
 ---
 

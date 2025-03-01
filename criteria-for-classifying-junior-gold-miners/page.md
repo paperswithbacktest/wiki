@@ -1,5 +1,5 @@
 ---
-title: "Criteria for Classifying Junior Gold Miners (Algo Trading)"
+title: "Criteria for Classifying Junior Gold Miners"
 description: "Junior gold miners focus on exploration and discovery of new gold deposits with limited resources and ambition making them vital to the mining industry."
 ---
 

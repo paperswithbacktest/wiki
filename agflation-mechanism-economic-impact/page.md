@@ -1,5 +1,5 @@
 ---
-title: "Agflation: Definition, Mechanism, and Economic Impact (Algo Trading)"
+title: "Agflation: Definition, Mechanism, and Economic Impact"
 description: "Explore how agflation impacts food prices, economy, and algorithmic trading's role in navigating inflation and market dynamics in this insightful article."
 ---
 

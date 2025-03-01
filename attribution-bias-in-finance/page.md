@@ -1,5 +1,5 @@
 ---
-title: "Attribution Bias in Finance (Algo Trading)"
+title: "Attribution Bias in Finance"
 description: "Uncover the impact of attribution bias in finance and algorithmic trading Understand how cognitive distortions affect decision-making and investment strategies"
 ---
 

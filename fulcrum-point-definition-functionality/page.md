@@ -1,5 +1,5 @@
 ---
-title: "Fulcrum Point: Definition and Functionality (Algo Trading)"
+title: "Fulcrum Point: Definition and Functionality"
 description: "Discover the concepts of fulcrum points and mechanical leverage in algo trading. Learn how these tools can potentially enhance market strategies and profits."
 ---
 

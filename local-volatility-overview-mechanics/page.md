@@ -1,5 +1,5 @@
 ---
-title: "Local Volatility: Overview and Mechanics (Algo Trading)"
+title: "Local Volatility: Overview and Mechanics"
 description: "Explore local volatility in algorithmic trading for enhanced option pricing through dynamic models improving strategies for returns and risk management."
 ---
 

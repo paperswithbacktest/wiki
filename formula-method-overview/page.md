@@ -1,5 +1,5 @@
 ---
-title: "Formula Method Overview (Algo Trading)"
+title: "Formula Method Overview"
 description: "Unlock the secrets of algorithmic trading with our comprehensive guide that explains advanced strategies and techniques to enhance trading efficiency and accuracy."
 ---
 

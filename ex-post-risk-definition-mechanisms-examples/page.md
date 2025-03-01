@@ -1,5 +1,5 @@
 ---
-title: "Ex-Post Risk: Definition, Mechanisms, and Examples (Algo Trading)"
+title: "Ex-Post Risk: Definition, Mechanisms, and Examples"
 description: "Explore the significance of ex-post risk in algorithmic trading to enhance financial strategies by analyzing historical data for improved risk management and resilience."
 ---
 

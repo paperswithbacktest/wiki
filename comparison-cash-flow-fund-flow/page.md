@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Cash Flow and Fund Flow (Algo Trading)"
+title: "Comparison of Cash Flow and Fund Flow"
 description: "Explore the key differences between cash flow and fund flow in finance and discover how algorithmic trading enhances investment strategy with speed and precision."
 ---
 

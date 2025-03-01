@@ -1,5 +1,5 @@
 ---
-title: "Average Annual Yield: Overview and Types (Algo Trading)"
+title: "Average Annual Yield: Overview and Types"
 description: "Explore the importance of various investment yield types including APY and current yield in both traditional investments and modern algorithmic trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Gold Standard: Mechanism and Example (Algo Trading)"
+title: "Gold Standard: Mechanism and Example"
 description: "Explore the evolution of monetary systems from the gold standard to fiat currency and algorithmic trading Learn how these impact modern finance and economics"
 ---
 

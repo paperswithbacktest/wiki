@@ -1,5 +1,5 @@
 ---
-title: "Currency Carry Trade (Algo Trading)"
+title: "Currency Carry Trade"
 description: "Explore the intricacies of Forex trading with a focus on the currency carry trade and algorithmic trading strategies. This article investigates into how these approaches can profit from interest rate differentials and exploit market inefficiencies. Understand the dynamics of the Forex market to enhance your trading success with informed decision-making."
 ---
 

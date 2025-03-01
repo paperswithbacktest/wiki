@@ -1,5 +1,5 @@
 ---
-title: "Cash Flow Statements: Analysis of Operational Cash Flow (Algo Trading)"
+title: "Cash Flow Statements: Analysis of Operational Cash Flow"
 description: "Discover how operational cash flow impacts algorithmic trading strategies and financial health. Learn essential analysis tools to enhance trading decisions."
 ---
 

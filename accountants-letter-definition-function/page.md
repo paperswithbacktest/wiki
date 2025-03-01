@@ -1,5 +1,5 @@
 ---
-title: "Accountant's Letter: Definition and Function (Algo Trading)"
+title: "Accountant's Letter: Definition and Function"
 description: "Discover the crucial role of the accountant's letter in financial reports, especially in algorithmic trading, ensuring transparency, accuracy, and compliance."
 ---
 

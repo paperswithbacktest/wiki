@@ -1,5 +1,5 @@
 ---
-title: "Full Stock: Definition, Mechanisms, and Examples (Algo Trading)"
+title: "Full Stock: Definition, Mechanisms, and Examples"
 description: "Discover how inventory management and algorithmic trading systems enhance operational efficiency with data-driven strategies for resource management and trading."
 ---
 

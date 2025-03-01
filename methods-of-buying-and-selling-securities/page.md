@@ -1,5 +1,5 @@
 ---
-title: "Methods of Buying and Selling Securities (Algo Trading)"
+title: "Methods of Buying and Selling Securities"
 description: "Explore the crucial strategies in algo and securities trading to optimize investment outcomes. Discover buying methods from brokerages to direct purchases."
 ---
 

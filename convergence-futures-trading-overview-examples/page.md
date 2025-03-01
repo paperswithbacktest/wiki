@@ -1,5 +1,5 @@
 ---
-title: "Convergence in Futures Trading: Overview and Examples (Algo Trading)"
+title: "Convergence in Futures Trading: Overview and Examples"
 description: "Explore the crucial role of convergence in futures trading with algorithmic strategies enhancing execution and risk management in dynamic financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Developed to Net Premiums Earned (Algo Trading)"
+title: "Developed to Net Premiums Earned"
 description: "Explore the critical role of net premiums earned in insurance, deciphering its financial impact, and discover the effects of algorithmic trading on the market."
 ---
 

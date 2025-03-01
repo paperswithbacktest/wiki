@@ -1,5 +1,5 @@
 ---
-title: "Absolute Return Index (Algo Trading)"
+title: "Absolute Return Index"
 description: "Explore the world of absolute return index and algorithmic trading to gain insights into maximizing returns and enhancing trading efficiency in dynamic markets."
 ---
 

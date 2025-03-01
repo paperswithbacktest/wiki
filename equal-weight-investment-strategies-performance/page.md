@@ -1,5 +1,5 @@
 ---
-title: "Equal Weight Investment Strategies and Performance (Algo Trading)"
+title: "Equal Weight Investment Strategies and Performance"
 description: "Explore the benefits of equal weight investment strategies where each asset holds equal importance in a portfolio, enhancing diversification and potential returns."
 ---
 

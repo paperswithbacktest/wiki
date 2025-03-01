@@ -1,5 +1,5 @@
 ---
-title: "CWT and Calculation Methods (Algo Trading)"
+title: "CWT and Calculation Methods"
 description: "Explore the significance of hundredweight (CWT) in trading and shipping, its calculation methods, and its integration into modern algorithmic trading strategies for commodities markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Green New Deal (Algo Trading)"
+title: "Green New Deal"
 description: "Explore the synergy of the Green New Deal and algorithmic trading in shaping climate policies focusing on environmental sustainability and economic growth."
 ---
 

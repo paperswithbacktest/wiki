@@ -1,5 +1,5 @@
 ---
-title: "Gamma Pricing Model (Algo Trading)"
+title: "Gamma Pricing Model"
 description: "Explore the gamma pricing model's role in algorithmic trading to enhance risk management and option pricing accuracy in volatile financial markets."
 ---
 

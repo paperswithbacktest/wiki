@@ -1,5 +1,5 @@
 ---
-title: "Arbitrage Bonds (Algo Trading)"
+title: "Arbitrage Bonds"
 description: "Explore the world of bond arbitrage and algorithmic trading uncovering strategies that leverage market inefficiencies for profits through advanced tech and quantitative analysis."
 ---
 

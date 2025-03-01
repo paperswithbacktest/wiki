@@ -1,5 +1,5 @@
 ---
-title: "Food Insecurity and Economic Impact (Algo Trading)"
+title: "Food Insecurity and Economic Impact"
 description: "Explore the vital relationship between food insecurity and economic performance Discover how algorithmic trading can reveal impacts and guide policy actions"
 ---
 

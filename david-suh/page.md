@@ -1,5 +1,5 @@
 ---
-title: "David Suh (Algo Trading)"
+title: "David Suh"
 description: "Explore the journey of David Suh in algorithmic trading, from his academic roots in Chicago to his impactful roles at Akuna Capital and Brave Software."
 ---
 

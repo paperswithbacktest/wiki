@@ -1,5 +1,5 @@
 ---
-title: "Corporate Use of Derivatives for Risk Hedging (Algo Trading)"
+title: "Corporate Use of Derivatives for Risk Hedging"
 description: "Discover how corporations utilize derivatives and algorithmic trading to effectively hedge risks and maintain financial stability in volatile markets."
 ---
 

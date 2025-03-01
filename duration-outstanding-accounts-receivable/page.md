@@ -1,5 +1,5 @@
 ---
-title: "Duration of Outstanding Accounts Receivable (Algo Trading)"
+title: "Duration of Outstanding Accounts Receivable"
 description: "Explore how optimizing accounts receivable durations and leveraging algorithmic trading can enhance financial management. Discover strategies for liquidity and growth."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Gordon Growth Model (Algo Trading)"
+title: "Gordon Growth Model"
 description: "Discover the Gordon Growth Model for stock valuation by focusing on dividend growth and intrinsic value determination integrated into algorithmic trading."
 ---
 

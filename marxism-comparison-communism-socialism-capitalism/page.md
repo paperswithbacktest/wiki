@@ -1,5 +1,5 @@
 ---
-title: "Marxism and Its Comparison to Communism, Socialism, and Capitalism (Algo Trading)"
+title: "Marxism and Its Comparison to Communism, Socialism, and Capitalism"
 description: "Explore the interplay between Marxism communism socialism and capitalism in the context of algorithmic trading and financial markets understanding their impact on economies"
 ---
 

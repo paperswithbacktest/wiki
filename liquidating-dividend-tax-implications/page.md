@@ -1,5 +1,5 @@
 ---
-title: "Liquidating Dividend and Tax Implications (Algo Trading)"
+title: "Liquidating Dividend and Tax Implications"
 description: "Explore the impact of liquidating dividends on tax and investment strategies Learn how algorithmic trading aids in optimizing these financial decisions"
 ---
 

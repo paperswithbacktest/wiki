@@ -1,5 +1,5 @@
 ---
-title: "Folio Number and Its Uses (Algo Trading)"
+title: "Folio Number and Its Uses"
 description: "Explore how folio numbers play a crucial role in financial management and trading by serving as unique identifiers, enhancing transparency and precision in investments."
 ---
 

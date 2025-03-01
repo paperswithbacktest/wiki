@@ -1,5 +1,5 @@
 ---
-title: "Loan Credit Default Swap Index (Algo Trading)"
+title: "Loan Credit Default Swap Index"
 description: "Explore the Loan Credit Default Swap Index's role in managing credit risk with insights into algorithmic trading. Essential for informed financial decisions."
 ---
 

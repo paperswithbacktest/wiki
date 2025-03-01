@@ -1,5 +1,5 @@
 ---
-title: "Alphabet Inc. Stock Price-to-Earnings Ratios (Algo Trading)"
+title: "Alphabet Inc. Stock Price-to-Earnings Ratios"
 description: "Discover key insights into Alphabet Inc.'s stock valuation with an in-depth analysis of its Price-to-Earnings ratio and advanced algorithmic trading strategies"
 ---
 

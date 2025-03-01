@@ -1,5 +1,5 @@
 ---
-title: "Arraignment Process and Procedures (Algo Trading)"
+title: "Arraignment Process and Procedures"
 description: "Explore the intersection of arraignment procedures in criminal law and algorithmic trading techniques shedding light on the unique challenges and opportunities they present."
 ---
 

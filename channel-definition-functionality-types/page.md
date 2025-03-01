@@ -1,5 +1,5 @@
 ---
-title: "Channel: Definition, Functionality, and Types (Algo Trading)"
+title: "Channel: Definition, Functionality, and Types"
 description: "Explore the essentials of trading channels in algorithmic trading including their functionality types and how they enhance trading strategies in financial markets."
 ---
 

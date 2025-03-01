@@ -1,5 +1,5 @@
 ---
-title: "Countries with the Highest Waste Production (Algo Trading)"
+title: "Countries with the Highest Waste Production"
 description: "Explore the intersection of waste production and algorithmic trading in solving environmental challenges reduce waste impacts with data-driven strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bear Raid in Finance (Algo Trading)"
+title: "Bear Raid in Finance"
 description: "Discover how bear raids in finance involve manipulating stock prices through aggressive short selling and rumor spreading, affecting market stability."
 ---
 

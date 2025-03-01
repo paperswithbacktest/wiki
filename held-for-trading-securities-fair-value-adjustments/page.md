@@ -1,5 +1,5 @@
 ---
-title: "Held-For-Trading Securities and Fair Value Adjustments (Algo Trading)"
+title: "Held-For-Trading Securities and Fair Value Adjustments"
 description: "Explore the synergy of held-for-trading securities, fair value adjustments, and algorithmic trading in shaping investment strategies and market efficiency."
 ---
 

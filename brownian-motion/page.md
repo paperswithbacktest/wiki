@@ -1,5 +1,5 @@
 ---
-title: "Brownian Motion (Algo Trading)"
+title: "Brownian Motion"
 description: "Explore the application of Geometric Brownian Motion in algorithmic trading with a focus on its mathematical formulation and Python implementation."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Common Financial Growth Rates for Evaluating Company Prospects (Algo Trading)"
+title: "Common Financial Growth Rates for Evaluating Company Prospects"
 description: "Explore key financial growth rates and algorithmic trading's impact on evaluating company prospects to make informed investment decisions effectively."
 ---
 

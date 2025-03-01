@@ -1,5 +1,5 @@
 ---
-title: "Leverage Ratios in Bank Lending and Investment Regulation (Algo Trading)"
+title: "Leverage Ratios in Bank Lending and Investment Regulation"
 description: "Explore the interplay of leverage ratios, bank lending, and algorithmic trading within the dynamic financial landscape shaped by investment regulations."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Dividend Distribution by ETFs (Algo Trading)"
+title: "Dividend Distribution by ETFs"
 description: "Explore dividend distribution by ETFs and how they intersect with algo trading for informed investment strategies offering growth and steady income."
 ---
 

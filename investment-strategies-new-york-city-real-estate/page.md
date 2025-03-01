@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategies in New York City Real Estate (Algo Trading)"
+title: "Investment Strategies in New York City Real Estate"
 description: "Explore strategic investment approaches in NYC real estate including algorithmic trading to optimize returns in this competitive urban market."
 ---
 

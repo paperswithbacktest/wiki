@@ -1,5 +1,5 @@
 ---
-title: "Cost Per Gross Addition (Algo Trading)"
+title: "Cost Per Gross Addition"
 description: "Discover how Cost Per Gross Addition (CPGA) and algorithmic trading can enhance marketing strategies by optimizing customer acquisition costs and driving profitability."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Deflation's Impact on Central Banking (Algo Trading)"
+title: "Deflation's Impact on Central Banking"
 description: "Explore the complex effects of deflation on central banking and algorithmic trading, highlighting challenges and strategies for economic stability and growth."
 ---
 

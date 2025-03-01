@@ -1,5 +1,5 @@
 ---
-title: "Good 'Til Canceled Order (Algo Trading)"
+title: "Good 'Til Canceled Order"
 description: "Explore the key features and benefits of Good 'Til Canceled (GTC) orders in algorithmic trading including their role in automating strategies over time."
 ---
 

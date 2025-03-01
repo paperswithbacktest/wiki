@@ -1,5 +1,5 @@
 ---
-title: "Investment in Greek Bonds: A Guide (Algo Trading)"
+title: "Investment in Greek Bonds: A Guide"
 description: "Explore investment opportunities in Greek bonds with our comprehensive guide. Discover benefits, risks, and the role of algorithmic trading in the bond market."
 ---
 

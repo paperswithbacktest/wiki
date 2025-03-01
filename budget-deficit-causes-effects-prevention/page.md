@@ -1,5 +1,5 @@
 ---
-title: "Budget Deficit: Causes, Effects, and Prevention (Algo Trading)"
+title: "Budget Deficit: Causes, Effects, and Prevention"
 description: "Explore the complex relationships between budget deficits, economic dynamics, and algorithmic trading. Understand causes, effects, and prevention strategies."
 ---
 

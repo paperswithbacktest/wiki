@@ -1,5 +1,5 @@
 ---
-title: "Forfeited Shares: Explanation and Examples (Algo Trading)"
+title: "Forfeited Shares: Explanation and Examples"
 description: "Explore the key aspects of forfeited shares and stock cancellation in trading Discover how these concepts affect market dynamics and the role of algorithmic trading in managing them"
 ---
 

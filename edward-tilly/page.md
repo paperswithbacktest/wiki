@@ -1,5 +1,5 @@
 ---
-title: "Edward Tilly (Algo Trading)"
+title: "Edward Tilly"
 description: "Explore the dynamic world of financial leadership and algorithmic trading Discover how technology transforms trading strategies in today's competitive market"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Capital Flows and Fund Movements (Algo Trading)"
+title: "Capital Flows and Fund Movements"
 description: "Explore the world of algorithmic trading and its significant role in reshaping global financial markets. Understand capital flows and their impact on economic stability."
 ---
 

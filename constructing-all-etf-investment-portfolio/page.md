@@ -1,5 +1,5 @@
 ---
-title: "Constructing an All-ETF Investment Portfolio (Algo Trading)"
+title: "Constructing an All-ETF Investment Portfolio"
 description: "Learn how to build an all-ETF investment portfolio using algorithmic trading to enhance returns through diversification and efficient market strategies."
 ---
 

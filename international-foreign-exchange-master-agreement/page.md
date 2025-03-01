@@ -1,5 +1,5 @@
 ---
-title: "International Foreign Exchange Master Agreement (Algo Trading)"
+title: "International Foreign Exchange Master Agreement"
 description: "Discover how the International Foreign Exchange Master Agreement (IFEMA) standardizes forex trading, enhancing market stability and supporting algorithmic strategies."
 ---
 

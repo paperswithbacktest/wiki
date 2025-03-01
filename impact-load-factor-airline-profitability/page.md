@@ -1,5 +1,5 @@
 ---
-title: "Impact of Load Factor on Airline Profitability (Algo Trading)"
+title: "Impact of Load Factor on Airline Profitability"
 description: "Explore the crucial link between load factor and airline profitability in the context of aviation economics with insights into algorithmic trading. Understand how this key performance indicator impacts strategic decision-making in the aviation sector affecting optimization of routes and operational efficiency. This article elucidates how the interplay between load factor and profitability helps stakeholders in the aviation industry navigate challenges and leverage opportunities for sustainable growth."
 ---
 

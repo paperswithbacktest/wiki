@@ -1,5 +1,5 @@
 ---
-title: "Mainstream Economics: Overview and Criticisms (Algo Trading)"
+title: "Mainstream Economics: Overview and Criticisms"
 description: "Explore the interplay between mainstream economics and algorithmic trading as emerging critiques and technologies challenge traditional theories and influence market dynamics."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Ex-Post and Ex-Ante: Differences and Calculations (Algo Trading)"
+title: "Ex-Post and Ex-Ante: Differences and Calculations"
 description: "Explore the key differences between ex-ante and ex-post analyses in algorithmic trading to enhance strategies and optimize performance in financial markets."
 ---
 

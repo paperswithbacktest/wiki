@@ -1,5 +1,5 @@
 ---
-title: "Certificate of Indebtedness: Overview and Mechanism (Algo Trading)"
+title: "Certificate of Indebtedness: Overview and Mechanism"
 description: "Explore the intricacies of certificates of indebtedness and algorithmic trading, revealing their impact on financial markets and investment strategies."
 ---
 

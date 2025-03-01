@@ -1,5 +1,5 @@
 ---
-title: "Class C Shares: Overview and Investment Considerations (Algo Trading)"
+title: "Class C Shares: Overview and Investment Considerations"
 description: "Explore the benefits and drawbacks of investing in Class C shares alongside algorithmic trading strategies to optimize your investment portfolio for flexibility and growth."
 ---
 

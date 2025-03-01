@@ -1,5 +1,5 @@
 ---
-title: "Current Rate Method in Financial Reporting (Algo Trading)"
+title: "Current Rate Method in Financial Reporting"
 description: "Explore the current rate method in financial reporting for translating foreign currencies and its impact on accuracy and decision-making in algorithmic trading."
 ---
 

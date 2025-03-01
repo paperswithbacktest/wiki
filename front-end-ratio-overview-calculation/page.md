@@ -1,5 +1,5 @@
 ---
-title: "Front End Ratio: Overview and Calculation (Algo Trading)"
+title: "Front End Ratio: Overview and Calculation"
 description: "Explore how front-end mortgage and debt-to-income ratios enhance algo trading strategies by assessing financial health, optimizing decisions, and managing risk."
 ---
 

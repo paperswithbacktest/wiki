@@ -1,5 +1,5 @@
 ---
-title: "Coverage Initiation: Overview and Mechanism (Algo Trading)"
+title: "Coverage Initiation: Overview and Mechanism"
 description: "Explore how investment analysis and algorithmic trading intersect to enhance financial decisions Learn about coverage initiation its impact and future trends"
 ---
 

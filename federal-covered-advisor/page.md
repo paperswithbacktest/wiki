@@ -1,5 +1,5 @@
 ---
-title: "Federal Covered Advisor (Algo Trading)"
+title: "Federal Covered Advisor"
 description: "Explore the role of SEC compliance in algorithmic trading for investment advisors Learn to balance innovative strategies with regulatory standards for market integrity"
 ---
 

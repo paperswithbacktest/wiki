@@ -1,5 +1,5 @@
 ---
-title: "Benchmarking ETF Investments (Algo Trading)"
+title: "Benchmarking ETF Investments"
 description: "Explore how algorithmic trading enhances ETF investments by benchmarking performance, optimizing trades, and dynamically adjusting portfolios for superior returns."
 ---
 

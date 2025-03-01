@@ -1,5 +1,5 @@
 ---
-title: "Layering in trading (Algo Trading)"
+title: "Layering in trading"
 description: "Layering in trading is a deceptive strategy in algorithmic markets, influencing stock prices and misleading participants. Discover its impact and regulatory responses."
 ---
 

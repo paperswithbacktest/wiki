@@ -1,5 +1,5 @@
 ---
-title: "Aroon Indicator: Meaning and Calculation (Algo Trading)"
+title: "Aroon Indicator: Meaning and Calculation"
 description: "The Aroon Indicator is a vital tool for traders to identify trends and potential reversals in the market enhancing decision-making in stock and algorithmic trading."
 ---
 

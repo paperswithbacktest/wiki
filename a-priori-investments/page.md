@@ -1,5 +1,5 @@
 ---
-title: "A Priori Investments (Algo Trading)"
+title: "A Priori Investments"
 description: "Explore A Priori Investments a leader in algorithmic trading using cutting-edge technology and strategic insights to drive trading efficiency and precision."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Methods for Identifying Stock Price Bottoms (Algo Trading)"
+title: "Methods for Identifying Stock Price Bottoms"
 description: "Explore methods for identifying stock price bottoms through algo trading by integrating traditional strategies with advanced algorithmic techniques for improved market insights."
 ---
 

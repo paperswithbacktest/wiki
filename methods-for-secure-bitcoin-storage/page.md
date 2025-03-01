@@ -1,5 +1,5 @@
 ---
-title: "Methods for Secure Bitcoin Storage (Algo Trading)"
+title: "Methods for Secure Bitcoin Storage"
 description: "Explore secure Bitcoin storage methods and enhance investment strategies with insights into hot and cold wallets custody choices and essential cryptocurrency security practices."
 ---
 

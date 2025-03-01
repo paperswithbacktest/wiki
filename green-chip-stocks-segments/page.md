@@ -1,5 +1,5 @@
 ---
-title: "Green Chip Stocks and Their Segments (Algo Trading)"
+title: "Green Chip Stocks and Their Segments"
 description: "Explore how green chip stocks offer sustainable investment opportunities, focusing on renewable energy and eco-friendly sectors. Discover the impact of algo trading."
 ---
 

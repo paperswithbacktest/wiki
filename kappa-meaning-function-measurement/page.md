@@ -1,5 +1,5 @@
 ---
-title: "Kappa: Meaning, Function, and Measurement (Algo Trading)"
+title: "Kappa: Meaning, Function, and Measurement"
 description: "Explore the vital role of the Kappa statistic in algorithmic trading to ensure strategy reliability and minimize the impact of chance on decision-making."
 ---
 

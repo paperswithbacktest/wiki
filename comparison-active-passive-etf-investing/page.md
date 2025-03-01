@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Active and Passive ETF Investing (Algo Trading)"
+title: "Comparison of Active and Passive ETF Investing"
 description: "Explore the benefits and drawbacks of active vs passive ETF investing and discover the impact of algorithmic trading on modern investment strategies."
 ---
 

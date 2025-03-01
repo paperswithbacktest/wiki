@@ -1,5 +1,5 @@
 ---
-title: "Accounting Measurement Methods and Principles (Algo Trading)"
+title: "Accounting Measurement Methods and Principles"
 description: "Explore the integration of accounting measurement methods with algorithmic trading to enhance financial accuracy and adaptability in fast-paced market environments."
 ---
 

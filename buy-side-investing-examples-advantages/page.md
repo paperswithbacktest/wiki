@@ -1,5 +1,5 @@
 ---
-title: "Buy Side Investing: Examples and Advantages (Algo Trading)"
+title: "Buy Side Investing: Examples and Advantages"
 description: "Explore the advantages and examples of buy-side investing and algorithmic trading Discover how technology optimizes portfolios in a competitive market"
 ---
 

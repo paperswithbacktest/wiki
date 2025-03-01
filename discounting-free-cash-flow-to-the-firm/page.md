@@ -1,5 +1,5 @@
 ---
-title: "Discounting Free Cash Flow to the Firm (Algo Trading)"
+title: "Discounting Free Cash Flow to the Firm"
 description: "Explore the vital role of Discounting Free Cash Flow in algorithmic trading providing insights into valuation methods for strategic financial decision-making."
 ---
 

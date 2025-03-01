@@ -1,5 +1,5 @@
 ---
-title: "Drawbacks of the Dividend Discount Model (Algo Trading)"
+title: "Drawbacks of the Dividend Discount Model"
 description: "Discover the limitations of the Dividend Discount Model in algorithmic trading, exploring its assumptions and challenges for precise stock valuation."
 ---
 

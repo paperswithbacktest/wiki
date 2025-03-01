@@ -1,5 +1,5 @@
 ---
-title: "Bid Size and Real-World Examples (Algo Trading)"
+title: "Bid Size and Real-World Examples"
 description: "Explore the vital role of bid size in algorithmic trading Learn how understanding bid size can enhance trading strategies through real-world examples and insights"
 ---
 

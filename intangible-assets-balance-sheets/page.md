@@ -1,5 +1,5 @@
 ---
-title: "Intangible Assets on Balance Sheets (Algo Trading)"
+title: "Intangible Assets on Balance Sheets"
 description: "Explore how intangible assets are reported on balance sheets, their valuation challenges, and their crucial role in data-driven algorithmic trading strategies."
 ---
 

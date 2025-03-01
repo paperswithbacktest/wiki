@@ -1,5 +1,5 @@
 ---
-title: "Diversification as an Investment Strategy (Algo Trading)"
+title: "Diversification as an Investment Strategy"
 description: "Explore how diversification and algorithmic trading synergize as investment strategies to optimize portfolio management reduce risk and maximize returns in volatile markets."
 ---
 

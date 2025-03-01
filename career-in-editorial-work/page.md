@@ -1,5 +1,5 @@
 ---
-title: "Career in Editorial Work (Algo Trading)"
+title: "Career in Editorial Work"
 description: "Explore the dynamic world of editorial careers where creativity meets strategic vision Embrace evolving challenges in digital media to shape meaningful narratives"
 ---
 

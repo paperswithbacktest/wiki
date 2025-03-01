@@ -1,5 +1,5 @@
 ---
-title: "Exotic Currency: Definition and Function (Algo Trading)"
+title: "Exotic Currency: Definition and Function"
 description: "Explore the dynamics of exotic currencies in forex trading and how algorithmic strategies optimize investments by leveraging their unique risk-reward profiles."
 ---
 

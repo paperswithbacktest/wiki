@@ -1,5 +1,5 @@
 ---
-title: "DMI (Directional Movement Index) Explained (Algo Trading)"
+title: "DMI (Directional Movement Index) Explained"
 description: Learn how the Directional Movement Index (DMI) is used in algorithmic trading to assess trend direction and strength. Explore its calculation, significance, and how it aids in making informed trading decisions to enhance strategies in various market conditions.
 ---
 

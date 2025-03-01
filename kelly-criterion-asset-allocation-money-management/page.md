@@ -1,5 +1,5 @@
 ---
-title: "Kelly Criterion in Asset Allocation and Money Management (Algo Trading)"
+title: "Kelly Criterion in Asset Allocation and Money Management"
 description: "Optimize your trading strategy with the Kelly Criterion learn how this mathematical formula can enhance asset allocation and risk management in algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Lagging Indicators in Economics, Business, and Technology (Algo Trading)"
+title: "Lagging Indicators in Economics, Business, and Technology"
 description: "Explore lagging indicators in economics and technology and their impact on business and algorithmic trading Gain insights into how they help analyze trends"
 ---
 

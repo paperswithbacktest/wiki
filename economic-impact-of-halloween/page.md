@@ -1,5 +1,5 @@
 ---
-title: "Economic Impact of Halloween (Algo Trading)"
+title: "Economic Impact of Halloween"
 description: "Explore Halloween's impact on the economy, with insights into consumer spending trends, business opportunities, and algorithmic trading's role in market analysis."
 ---
 

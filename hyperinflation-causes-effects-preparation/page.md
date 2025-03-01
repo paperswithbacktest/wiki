@@ -1,5 +1,5 @@
 ---
-title: "Hyperinflation: Causes, Effects, and Preparation (Algo Trading)"
+title: "Hyperinflation: Causes, Effects, and Preparation"
 description: "Explore the causes and effects of hyperinflation and discover strategic financial preparation methods including the role of algorithmic trading systems."
 ---
 

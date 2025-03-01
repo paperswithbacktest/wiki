@@ -1,5 +1,5 @@
 ---
-title: "History of Labor Unions in the United States (Algo Trading)"
+title: "History of Labor Unions in the United States"
 description: "Explore the rich history of labor unions in the U.S. from their emergence in the industrial revolution to their adaptation to modern technological challenges."
 ---
 

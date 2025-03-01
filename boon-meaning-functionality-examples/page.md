@@ -1,5 +1,5 @@
 ---
-title: "Boon: Meaning, Functionality, and Examples (Algo Trading)"
+title: "Boon: Meaning, Functionality, and Examples"
 description: "Explore the advantages and examples of boon functionalities in algorithmic trading that enhance efficiency and strategy development, helping traders gain a competitive edge."
 ---
 

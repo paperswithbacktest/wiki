@@ -1,5 +1,5 @@
 ---
-title: "Lawrence Leibowitz: Biography and Career (Algo Trading)"
+title: "Lawrence Leibowitz: Biography and Career"
 description: "Lawrence Leibowitz is a key figure in algorithmic trading and finance, known for his leadership in advancing market technologies and driving financial innovation."
 ---
 

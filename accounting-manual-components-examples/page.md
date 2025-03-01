@@ -1,5 +1,5 @@
 ---
-title: "Accounting Manual: Components and Examples (Algo Trading)"
+title: "Accounting Manual: Components and Examples"
 description: "Discover the vital link between accounting manuals and algorithmic trading that ensures financial integrity, compliance, and strategic efficiency in trading environments."
 ---
 

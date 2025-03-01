@@ -1,5 +1,5 @@
 ---
-title: "Golden Butterfly Portfolio Explained (Algo Trading)"
+title: "Golden Butterfly Portfolio Explained"
 description: Explore the Golden Butterfly Portfolio within the context of algorithmic trading to understand its strategic asset allocation and benefits. This portfolio balances growth and stability by distributing assets among stocks, bonds, and commodities, providing diversification and resilience in various market conditions. Discover how algo trading optimizes the portfolio's performance using speed and precision, ensuring consistent alignment with investment goals in a dynamic financial landscape.
 ---
 

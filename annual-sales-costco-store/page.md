@@ -1,5 +1,5 @@
 ---
-title: "Annual Sales of a Costco Store (Algo Trading)"
+title: "Annual Sales of a Costco Store"
 description: "Explore Costco's retail performance and how algorithmic trading enhances sales strategies. Learn about revenue growth, market trends, and future retail innovations."
 ---
 

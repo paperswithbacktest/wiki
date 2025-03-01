@@ -1,5 +1,5 @@
 ---
-title: "Hedging with Derivatives (Algo Trading)"
+title: "Hedging with Derivatives"
 description: "Hedging with derivatives in algorithmic trading is a key risk management strategy using options, futures, and swaps to protect against financial market volatility."
 ---
 

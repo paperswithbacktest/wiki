@@ -1,5 +1,5 @@
 ---
-title: "Future of Hedge Funds in the Next Decade (Algo Trading)"
+title: "Future of Hedge Funds in the Next Decade"
 description: "Discover how hedge funds and algorithmic trading are shaping the financial markets' future with emerging trends and technological advancements."
 ---
 

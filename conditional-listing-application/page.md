@@ -1,5 +1,5 @@
 ---
-title: "Conditional Listing Application (Algo Trading)"
+title: "Conditional Listing Application"
 description: "Explore the significance of Conditional Listing Applications in trading and investing Learn how CLAs impact algorithmic trading and financial strategies"
 ---
 

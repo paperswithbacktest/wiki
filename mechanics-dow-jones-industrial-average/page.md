@@ -1,5 +1,5 @@
 ---
-title: "Mechanics of the Dow Jones Industrial Average (Algo Trading)"
+title: "Mechanics of the Dow Jones Industrial Average"
 description: "Explore the Dow Jones Industrial Average and the impact of algorithmic trading on investments providing insights into market trends and algorithm-driven strategies."
 ---
 

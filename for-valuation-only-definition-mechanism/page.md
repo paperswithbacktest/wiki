@@ -1,5 +1,5 @@
 ---
-title: "For Valuation Only: Definition and Mechanism (Algo Trading)"
+title: "For Valuation Only: Definition and Mechanism"
 description: "Explore the role of valuation methods like FVO and DCF in enhancing algorithmic trading strategies Understand how these techniques aid in optimizing trading decisions"
 ---
 

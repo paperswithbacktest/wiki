@@ -1,5 +1,5 @@
 ---
-title: "Abenomics: History and Shinzo Abe's Three Arrows (Algo Trading)"
+title: "Abenomics: History and Shinzo Abe's Three Arrows"
 description: "Explore Abenomics and Shinzo Abe's transformative economic strategy, focusing on three arrows to revitalize Japan's growth. Ideal for algorithmic trading insights."
 ---
 

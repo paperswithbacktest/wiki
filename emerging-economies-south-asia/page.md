@@ -1,5 +1,5 @@
 ---
-title: "Emerging Economies of South Asia (Algo Trading)"
+title: "Emerging Economies of South Asia"
 description: "Explore South Asia's economic growth through algorithmic trading as technological innovations drive market efficiency and regional stability amidst challenges."
 ---
 

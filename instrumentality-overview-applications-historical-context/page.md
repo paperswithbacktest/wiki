@@ -1,5 +1,5 @@
 ---
-title: "Instrumentality: Overview, Applications, and Historical Context (Algo Trading)"
+title: "Instrumentality: Overview, Applications, and Historical Context"
 description: "Explore the intricate world of algorithmic trading and instrumentalities shaping modern markets. Discover its history, applications, and technological evolution."
 ---
 

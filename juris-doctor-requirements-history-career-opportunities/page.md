@@ -1,5 +1,5 @@
 ---
-title: "Juris Doctor: Requirements, History, and Career Opportunities (Algo Trading)"
+title: "Juris Doctor: Requirements, History, and Career Opportunities"
 description: "Explore the intersection of a Juris Doctor degree with careers in algorithmic trading blending legal expertise and financial acumen for innovative opportunities."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Difference Between Short Position and Short Sale (Algo Trading)"
+title: "Difference Between Short Position and Short Sale"
 description: "Explore the key distinctions between short positions and short sales in algorithmic trading, understanding their roles, risks, and benefits in volatile markets."
 ---
 

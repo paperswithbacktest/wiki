@@ -1,5 +1,5 @@
 ---
-title: "Factors Influencing Share Price Variations (Algo Trading)"
+title: "Factors Influencing Share Price Variations"
 description: "Explore how economic factors, market sentiment, and company dynamics impact share prices. Uncover the role of algorithmic trading in modern finance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Ladder Option: Overview, Functionality, and Example (Algo Trading)"
+title: "Ladder Option: Overview, Functionality, and Example"
 description: "Explore the overview, functionality, and example of ladder options in algo trading. Learn how to lock in profits strategically using advanced trading techniques."
 ---
 

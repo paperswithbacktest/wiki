@@ -1,5 +1,5 @@
 ---
-title: "Itayose: Functionality and Regulations (Algo Trading)"
+title: "Itayose: Functionality and Regulations"
 description: "Explore the Itayose method's functionality in Japanese exchanges and its role in algorithmic trading for a transparent, equitable, and efficient market strategy."
 ---
 

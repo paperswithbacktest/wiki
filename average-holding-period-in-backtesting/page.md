@@ -1,5 +1,5 @@
 ---
-title: "Average holding period in backtesting (Algo Trading)"
+title: "Average holding period in backtesting"
 description: Understanding the average holding period in backtesting is crucial for traders optimizing algorithmic strategies. This metric, representing the mean duration trades are held, provides key insights into strategy alignment with trading goals and market conditions. A longer average holding period might indicate a focus on capturing extended market trends, while a shorter one may suggest frequent trades. By evaluating the average holding period, traders can ensure strategies meet their risk management preferences and investment objectives, while also considering transaction costs and market volatility implications. This article outlines its significance and offers best practices for strategy optimization.
 ---
 

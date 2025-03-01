@@ -1,5 +1,5 @@
 ---
-title: "Feature importance (Algo Trading)"
+title: "Feature importance"
 description: Explore the crucial role of feature importance in algorithmic trading, enhancing trading strategy performance by identifying key variables. Discover how understanding feature importance optimizes trading algorithms for better accuracy and profitability. This essential guide investigates into techniques like permutation importance and SHAP values, demonstrating their impact on refining models for more reliable predictions amidst dynamic market conditions.
 ---
 

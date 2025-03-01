@@ -1,5 +1,5 @@
 ---
-title: "Methods for Selling Stocks (Algo Trading)"
+title: "Methods for Selling Stocks"
 description: "Explore effective methods for selling stocks through algo trading Discover strategies to enhance returns and minimize risks with algorithmic trading insights and techniques"
 ---
 

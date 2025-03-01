@@ -1,5 +1,5 @@
 ---
-title: "Dollar Bond: Definition, Function, and Types (Algo Trading)"
+title: "Dollar Bond: Definition, Function, and Types"
 description: "Discover the definition and role of dollar bonds in financial markets including their benefits risks and the impact of algorithmic trading on bond trading strategies."
 ---
 

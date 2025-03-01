@@ -1,5 +1,5 @@
 ---
-title: "Measuring Principle: Function and Examples (Algo Trading)"
+title: "Measuring Principle: Function and Examples"
 description: "Explore algorithmic trading as we delve into core measurement principles methods and examples maximizing trading strategy effectiveness and market insights."
 ---
 

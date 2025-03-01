@@ -1,5 +1,5 @@
 ---
-title: "Leakage reduction (Algo Trading)"
+title: "Leakage reduction"
 description: Optimize your algorithmic trading strategies by understanding and mitigating information leakage risks. Explore common leakage sources, such as order book transparency and intermediary exposure, and discover techniques like order slicing and smart order routing to preserve trading efficacy and competitive advantage.
 ---
 

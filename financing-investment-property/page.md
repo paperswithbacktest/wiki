@@ -1,5 +1,5 @@
 ---
-title: "Financing Investment Property (Algo Trading)"
+title: "Financing Investment Property"
 description: "Explore how financing options and algorithmic trading can enhance investment property returns Discover strategies to optimize real estate portfolios effectively"
 ---
 

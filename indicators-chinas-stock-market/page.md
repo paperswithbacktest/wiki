@@ -1,5 +1,5 @@
 ---
-title: "Indicators of China's Stock Market (Algo Trading)"
+title: "Indicators of China's Stock Market"
 description: "Explore China's dynamic stock market, its key economic indicators, and the impact of algorithmic trading on market opportunities and challenges."
 ---
 

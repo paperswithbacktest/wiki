@@ -1,5 +1,5 @@
 ---
-title: "Gaming Alternative Data (Algo Trading)"
+title: "Gaming Alternative Data"
 description: Explore the impact of integrating gaming alternative data into algorithmic trading. Discover how unconventional data sources like player interactions and in-game transactions offer new insights into consumer behavior and market trends. Learn how harnessing this data can potentially transform trading strategies, offering a competitive advantage in the fast-paced financial market landscape.
 ---
 

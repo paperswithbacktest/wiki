@@ -1,5 +1,5 @@
 ---
-title: "Manipulation: Methods, Types, and Examples (Algo Trading)"
+title: "Manipulation: Methods, Types, and Examples"
 description: "Explore the complexities of algorithmic trading and its susceptibility to manipulation in financial markets. Understand methods like spoofing and layering that exploit algorithmic systems, impacting market integrity. Discover how traders and regulators work to identify these tactics, maintaining transparency and fairness. Gain insights into algorithmic trading's advantages and potential risks, emphasizing the need for effective oversight and robust regulatory frameworks."
 ---
 

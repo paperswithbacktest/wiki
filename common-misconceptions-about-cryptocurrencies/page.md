@@ -1,5 +1,5 @@
 ---
-title: "Common Misconceptions About Cryptocurrencies (Algo Trading)"
+title: "Common Misconceptions About Cryptocurrencies"
 description: "Discover the truths behind crypto algo trading and debunk common myths. Learn about the potential, limitations, and realistic expectations of this advanced trading method."
 ---
 

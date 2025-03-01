@@ -1,5 +1,5 @@
 ---
-title: "Evergreen Statistical Trading (Algo Trading)"
+title: "Evergreen Statistical Trading"
 description: "Explore the world of evergreen statistical trading and discover how data-driven strategies can provide reliable and adaptable solutions for algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "ISIN Numbering System (Algo Trading)"
+title: "ISIN Numbering System"
 description: "Explore the pivotal role of ISINs in global securities trading and discover how algorithmic strategies optimize trade execution for modern finance innovators."
 ---
 

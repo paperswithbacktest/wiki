@@ -1,5 +1,5 @@
 ---
-title: "Circle Inc. (Financial Services) (Algo Trading)"
+title: "Circle Inc. (Financial Services)"
 description: "Circle Inc. stands at the forefront of digital finance, leveraging blockchain and algorithmic trading to deliver innovative financial solutions for businesses."
 ---
 

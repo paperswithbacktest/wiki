@@ -1,5 +1,5 @@
 ---
-title: "Intermarket Spread Swap (Algo Trading)"
+title: "Intermarket Spread Swap"
 description: "Enhance your trading strategy by exploring intermarket spread swaps and algorithmic trading Discover how to optimize performance in volatile market environments"
 ---
 

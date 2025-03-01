@@ -1,5 +1,5 @@
 ---
-title: "Charge and Discharge Statement: Overview and Historical Context (Algo Trading)"
+title: "Charge and Discharge Statement: Overview and Historical Context"
 description: "Explore the historical evolution and significance of charge and discharge statements in algorithmic trading vital for ensuring reliable and transparent financial reporting."
 ---
 

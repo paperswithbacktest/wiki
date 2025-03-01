@@ -1,5 +1,5 @@
 ---
-title: "Largest Banks in Russia (Algo Trading)"
+title: "Largest Banks in Russia"
 description: "Discover how Russia's top banks utilize algorithmic trading to stay competitive. Explore strategies, technological investments, and their economic impacts."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Ledger Balance: Meaning and Function (Algo Trading)"
+title: "Ledger Balance: Meaning and Function"
 description: "Understand how ledger balance impacts banking and algorithmic trading by providing a snapshot of your account's end-of-day financial standing for effective planning."
 ---
 

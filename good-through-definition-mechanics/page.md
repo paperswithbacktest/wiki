@@ -1,5 +1,5 @@
 ---
-title: "Good Through: Definition and Mechanics (Algo Trading)"
+title: "Good Through: Definition and Mechanics"
 description: "Explore how expiration terms and product validity drive strategic decisions in algorithmic trading ensuring traders make informed choices in financial markets."
 ---
 

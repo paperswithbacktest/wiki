@@ -1,5 +1,5 @@
 ---
-title: "Consolidated Tape Overview and Functionality (Algo Trading)"
+title: "Consolidated Tape Overview and Functionality"
 description: "Explore how the consolidated tape revolutionizes algorithmic trading with real-time data for enhanced market transparency and informed decision-making."
 ---
 

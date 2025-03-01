@@ -1,5 +1,5 @@
 ---
-title: "Challenges of Modern Investment (Algo Trading)"
+title: "Challenges of Modern Investment"
 description: "Explore the intricate world of modern investment challenges focusing on the transformative role of algorithmic trading in navigating today's dynamic financial markets."
 ---
 

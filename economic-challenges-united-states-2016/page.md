@@ -1,5 +1,5 @@
 ---
-title: "Economic Challenges Faced by the United States in 2016 (Algo Trading)"
+title: "Economic Challenges Faced by the United States in 2016"
 description: "Explore how the U.S. economy faced challenges in 2016 amid global uncertainties, interest rate dilemmas, and the rise of algorithmic trading impacts."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bump-Up Certificate of Deposit (Algo Trading)"
+title: "Bump-Up Certificate of Deposit"
 description: "Explore the benefits of Bump-Up Certificates of Deposit CDs and how algorithmic trading can enhance returns by adapting to changing interest rates effectively."
 ---
 

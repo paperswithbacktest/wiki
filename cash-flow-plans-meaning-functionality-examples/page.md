@@ -1,5 +1,5 @@
 ---
-title: "Cash Flow Plans: Meaning, Functionality, and Examples (Algo Trading)"
+title: "Cash Flow Plans: Meaning, Functionality, and Examples"
 description: "Explore the strategic intersection of cash flow planning and algorithmic trading to optimize financial resources enhance market agility and secure a competitive edge."
 ---
 

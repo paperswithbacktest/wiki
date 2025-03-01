@@ -1,5 +1,5 @@
 ---
-title: "Economic Recessions and Potential Positive Outcomes (Algo Trading)"
+title: "Economic Recessions and Potential Positive Outcomes"
 description: "Explore the potential positive outcomes of economic recessions and the opportunities they present for algorithmic trading strategies during market fluctuations."
 ---
 

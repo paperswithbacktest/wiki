@@ -1,5 +1,5 @@
 ---
-title: "Headlands Technologies (Algo Trading)"
+title: "Headlands Technologies"
 description: "Discover Headlands Technologies a leader in algorithmic trading that utilizes advanced technology to optimize trading efficiency and enhance market operations."
 ---
 

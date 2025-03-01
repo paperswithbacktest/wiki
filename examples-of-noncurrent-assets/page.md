@@ -1,5 +1,5 @@
 ---
-title: "Examples of Noncurrent Assets (Algo Trading)"
+title: "Examples of Noncurrent Assets"
 description: "Explore the growing importance of noncurrent assets in algorithmic trading and how strategic asset management can bolster financial stability and growth."
 ---
 

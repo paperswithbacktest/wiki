@@ -1,5 +1,5 @@
 ---
-title: "Floating-Rate Mutual Funds: Risks and Benefits (Algo Trading)"
+title: "Floating-Rate Mutual Funds: Risks and Benefits"
 description: "Explore the risks and benefits of floating-rate mutual funds and algorithmic trading combined with professional management offering diversification and market opportunities."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Majority Shareholder: Rights and Privileges (Algo Trading)"
+title: "Majority Shareholder: Rights and Privileges"
 description: "Explore the dynamic relationship between majority shareholders, corporate governance, and algorithmic trading. Understand their impact on strategic decisions and shareholder rights."
 ---
 

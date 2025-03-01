@@ -1,5 +1,5 @@
 ---
-title: "Benefits and Location of Investment Clubs (Algo Trading)"
+title: "Benefits and Location of Investment Clubs"
 description: "Explore the benefits of investment clubs and how they enhance opportunities through pooled resources diversified portfolios and integration of algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Fluctuations in Initial Public Offerings (Algo Trading)"
+title: "Fluctuations in Initial Public Offerings"
 description: "Explore the impact of algorithmic trading in Initial Public Offerings and how it mitigates IPO volatility while enhancing market efficiency and liquidity."
 ---
 

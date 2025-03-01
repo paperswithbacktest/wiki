@@ -1,5 +1,5 @@
 ---
-title: "Deep In-The-Money Options and Their Use in Trading (Algo Trading)"
+title: "Deep In-The-Money Options and Their Use in Trading"
 description: "Explore the strategic advantages of using deep in-the-money options in algo trading including risk management potential and aligning with market movements."
 ---
 

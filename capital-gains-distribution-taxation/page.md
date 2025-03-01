@@ -1,5 +1,5 @@
 ---
-title: "Capital Gains Distribution and Taxation (Algo Trading)"
+title: "Capital Gains Distribution and Taxation"
 description: "Explore capital gains distribution and taxation in algorithmic trading Learn how strategic planning can optimize tax efficiency and enhance investment returns"
 ---
 

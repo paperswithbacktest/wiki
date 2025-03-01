@@ -1,5 +1,5 @@
 ---
-title: "Common Mistakes in Forex Day Trading (Algo Trading)"
+title: "Common Mistakes in Forex Day Trading"
 description: "Discover common mistakes in forex day trading, including algorithmic strategies, and learn how to avoid them for enhanced trading success. This article highlights pitfalls like emotional trading, inadequate risk management, and technical errors. Gain insights into developing effective strategies and disciplined execution to navigate the volatile forex market."
 ---
 

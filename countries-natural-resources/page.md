@@ -1,5 +1,5 @@
 ---
-title: "List of Countries by Natural Resources (Algo Trading)"
+title: "List of Countries by Natural Resources"
 description: "Explore the synergy between natural resources and algo trading in this comprehensive guide. Understand how nations leverage resources for economic power and trading efficiency."
 ---
 

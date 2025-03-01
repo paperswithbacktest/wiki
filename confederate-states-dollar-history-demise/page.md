@@ -1,5 +1,5 @@
 ---
-title: "Confederate States Dollar: History and Demise (Algo Trading)"
+title: "Confederate States Dollar: History and Demise"
 description: "Explore the fascinating history of the Confederate States Dollar its economic challenges during the Civil War and its lasting impact on modern financial practices"
 ---
 

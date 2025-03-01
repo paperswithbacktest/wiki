@@ -1,5 +1,5 @@
 ---
-title: "Akuna Capital (Algo Trading)"
+title: "Akuna Capital"
 description: "Discover Akuna Capital and its role in shaping the future of options market making with cutting-edge algorithmic trading strategies and tech innovation."
 ---
 

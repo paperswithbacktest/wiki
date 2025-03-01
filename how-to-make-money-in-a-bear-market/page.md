@@ -1,5 +1,5 @@
 ---
-title: "How to Make Money in a Bear Market (Algo Trading)"
+title: "How to Make Money in a Bear Market"
 description: Explore the potential of algorithmic trading in bear markets to transform market downturns into opportunities. This guide illustrates how traders can exploit systematic strategies to navigate the challenges of declining asset prices. Understand the dynamics of bear markets, develop resilient algorithms, and address psychological factors influencing trade decisions. Learn actionable strategies for execution, from trend-following to mean reversion, and harness the power of short-selling. Emphasize essential components like backtesting and risk management to maintain a balanced, disciplined approach that adapts to volatile environments.
 ---
 

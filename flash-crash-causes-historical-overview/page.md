@@ -1,5 +1,5 @@
 ---
-title: "Flash Crash: Causes and Historical Overview (Algo Trading)"
+title: "Flash Crash: Causes and Historical Overview"
 description: "Explore the causes of flash crashes and their historical impact on financial markets Discover how algorithmic trading influences these rapid market events"
 ---
 

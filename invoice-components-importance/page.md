@@ -1,5 +1,5 @@
 ---
-title: "Invoice Components and Their Importance (Algo Trading)"
+title: "Invoice Components and Their Importance"
 description: "Explore the role of invoices in algorithmic trading and their impact on financial accuracy. Understand how automated invoicing enhances accounting practices."
 ---
 

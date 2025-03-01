@@ -1,5 +1,5 @@
 ---
-title: "Economic Reports Influencing the British Pound (Algo Trading)"
+title: "Economic Reports Influencing the British Pound"
 description: "Explore how UK economic reports and algorithmic trading influence the British Pound Learn about key indicators like GDP and CPI shaping forex market trends"
 ---
 

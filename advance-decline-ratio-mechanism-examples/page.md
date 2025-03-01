@@ -1,5 +1,5 @@
 ---
-title: "Advance/Decline Ratio: Mechanism and Examples (Algo Trading)"
+title: "Advance/Decline Ratio: Mechanism and Examples"
 description: "Explore the mechanics and importance of the Advance/Decline Ratio in algorithmic trading Learn how ADR helps decipher market sentiment and improve trading strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Barrels Per Day: Explanation and Alternatives (Algo Trading)"
+title: "Barrels Per Day: Explanation and Alternatives"
 description: "Explore how barrels per day impact oil markets and discover renewable energy alternatives. Learn about algorithmic trading's role in energy investment."
 ---
 

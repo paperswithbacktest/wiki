@@ -1,5 +1,5 @@
 ---
-title: "Evergreen Funding: Overview and Insights (Algo Trading)"
+title: "Evergreen Funding: Overview and Insights"
 description: "Explore how evergreen funding and algorithmic trading offer flexible and innovative financial solutions for sustainable business growth and strategic trading advantages."
 ---
 

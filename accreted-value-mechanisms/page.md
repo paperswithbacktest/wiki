@@ -1,5 +1,5 @@
 ---
-title: "Accreted Value and Its Mechanisms (Algo Trading)"
+title: "Accreted Value and Its Mechanisms"
 description: "Explore the intricacies of accreted value, investment analysis, and algorithmic trading essential for informed decision-making in modern financial markets."
 ---
 

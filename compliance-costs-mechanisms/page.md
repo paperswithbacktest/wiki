@@ -1,5 +1,5 @@
 ---
-title: "Compliance Costs and Mechanisms (Algo Trading)"
+title: "Compliance Costs and Mechanisms"
 description: "Compliance in algorithmic trading involves managing costs linked to regulatory adherence and implementing mechanisms to meet legal standards ensuring market integrity."
 ---
 

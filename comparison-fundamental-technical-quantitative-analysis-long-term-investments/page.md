@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Fundamental, Technical, and Quantitative Analysis for Long-Term Investments (Algo Trading)"
+title: "Comparison of Fundamental, Technical, and Quantitative Analysis for Long-Term Investments"
 description: "Explore the strengths of fundamental technical and quantitative analysis in algorithmic trading for long-term investments to maximize returns and minimize risk."
 ---
 

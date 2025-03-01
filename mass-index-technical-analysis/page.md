@@ -1,5 +1,5 @@
 ---
-title: "Mass Index in Technical Analysis (Algo Trading)"
+title: "Mass Index in Technical Analysis"
 description: "Explore the Mass Index a technical indicator for trend reversals in trading Analyze its unique focus on price range volatility and its role in algo trading"
 ---
 

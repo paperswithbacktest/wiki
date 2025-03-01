@@ -1,5 +1,5 @@
 ---
-title: "Buttonwood Agreement: Overview, Historical Context, and Signatories (Algo Trading)"
+title: "Buttonwood Agreement: Overview, Historical Context, and Signatories"
 description: "Explore the Buttonwood Agreement, a historic milestone in U.S. financial markets marking the advent of the New York Stock Exchange. Discover its significance in shaping structured trading practices and its enduring impact on modern algorithmic systems. Learn about the trust and standardization principles established by its signatories, which continue to influence today's financial exchanges. This informative piece also investigates into the agreement's historical context and the evolution of trading platforms over centuries."
 ---
 

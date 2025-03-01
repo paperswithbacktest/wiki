@@ -1,5 +1,5 @@
 ---
-title: "Business Banking Services (Algo Trading)"
+title: "Business Banking Services"
 description: "Explore the integration of business banking services corporate finance and algorithmic trading to optimize financial management and drive sustainable growth."
 ---
 

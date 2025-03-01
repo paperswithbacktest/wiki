@@ -1,5 +1,5 @@
 ---
-title: "Advantages and Disadvantages of Thematic ETFs (Algo Trading)"
+title: "Advantages and Disadvantages of Thematic ETFs"
 description: "Explore the risks and advantages of thematic ETFs, investment funds focusing on market trends, enhanced by algorithmic trading for precision and opportunity."
 ---
 

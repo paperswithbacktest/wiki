@@ -1,5 +1,5 @@
 ---
-title: "Advantages and Disadvantages of Target-Date Funds (Algo Trading)"
+title: "Advantages and Disadvantages of Target-Date Funds"
 description: "Explore target-date funds and algorithmic trading to enhance retirement planning. Learn about their simplicity, automatic rebalancing, and potential downsides."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Accounting Currency and Its Mechanism (Algo Trading)"
+title: "Accounting Currency and Its Mechanism"
 description: "Explore how currency mechanism accounting, financial accounting, and algorithmic trading intersect to shape modern financial practices and optimize global business competitiveness."
 ---
 

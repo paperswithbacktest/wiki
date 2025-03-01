@@ -1,5 +1,5 @@
 ---
-title: "Commodity Futures Trading Commission (Algo Trading)"
+title: "Commodity Futures Trading Commission"
 description: "Explore how the Commodity Futures Trading Commission regulates the impact of algorithmic trading in the derivatives market to ensure integrity and efficiency."
 ---
 

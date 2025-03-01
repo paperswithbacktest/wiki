@@ -1,5 +1,5 @@
 ---
-title: "Demand-Side Economics and Policy Examples (Algo Trading)"
+title: "Demand-Side Economics and Policy Examples"
 description: "Explore the synergy between demand-side economics and algorithmic trading in this in-depth analysis of fiscal policies and market dynamics in a global economy."
 ---
 

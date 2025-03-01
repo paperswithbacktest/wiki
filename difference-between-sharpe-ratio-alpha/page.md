@@ -1,5 +1,5 @@
 ---
-title: "Difference Between Sharpe Ratio and Alpha (Algo Trading)"
+title: "Difference Between Sharpe Ratio and Alpha"
 description: "Explore the difference between Sharpe ratio and alpha in algorithmic trading to assess risk-adjusted returns and benchmark performance for successful strategies."
 ---
 

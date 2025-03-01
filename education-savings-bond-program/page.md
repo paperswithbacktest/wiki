@@ -1,5 +1,5 @@
 ---
-title: "Education Savings Bond Program (Algo Trading)"
+title: "Education Savings Bond Program"
 description: "Explore the benefits and workings of the Education Savings Bond Program to efficiently save for higher education using tax-free interest from government-backed bonds."
 ---
 

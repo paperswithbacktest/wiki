@@ -1,5 +1,5 @@
 ---
-title: "Importance of Knowing Outstanding Shares for Shareholders (Algo Trading)"
+title: "Importance of Knowing Outstanding Shares for Shareholders"
 description: "Understanding outstanding shares is essential for shareholders to evaluate a company's market value and investment potential in the era of algorithmic trading."
 ---
 

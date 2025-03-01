@@ -1,5 +1,5 @@
 ---
-title: "External Influences on EBITDA Margins (Algo Trading)"
+title: "External Influences on EBITDA Margins"
 description: "Explore how external factors impact EBITDA margins and the role of algorithmic trading in navigating financial markets and enhancing investment strategies."
 ---
 

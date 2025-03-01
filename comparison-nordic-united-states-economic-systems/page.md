@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Nordic and United States Economic Systems (Algo Trading)"
+title: "Comparison of Nordic and United States Economic Systems"
 description: "Explore the differences and similarities between Nordic and U.S. economic models and the impact of algorithmic trading on their economies. Understand how the Nordic model blends capitalism with social welfare, while the U.S. model emphasizes economic freedom. Assess the role of technology in shaping these economies and analyze economic philosophies and their implications for wealth distribution and national economic landscapes."
 ---
 

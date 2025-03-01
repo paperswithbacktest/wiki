@@ -1,5 +1,5 @@
 ---
-title: "Live Trading Basics (Algo Trading)"
+title: "Live Trading Basics"
 description: Discover the essentials of live trading in algorithmic trading, focusing on real-time trade execution and the strategic framework it necessitates. Explore various strategies like day trading and scalping, understand crucial software tools, and gain insights into managing real market conditions. Learn how to transition from paper trading to live trading, and equip yourself with the knowledge needed for informed decision-making in this dynamic field.
 ---
 

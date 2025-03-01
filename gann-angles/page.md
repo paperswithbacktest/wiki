@@ -1,5 +1,5 @@
 ---
-title: "Gann Angles (Algo Trading)"
+title: "Gann Angles"
 description: "Explore the fascinating world of Gann Angles and their role in algorithmic trading Get insights into predicting market movements using geometric constructs"
 ---
 

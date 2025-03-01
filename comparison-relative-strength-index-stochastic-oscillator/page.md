@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Relative Strength Index and Stochastic Oscillator (Algo Trading)"
+title: "Comparison of Relative Strength Index and Stochastic Oscillator"
 description: "Compare the RSI and Stochastic Oscillator to optimize your trading strategy. Learn their differences and how they enhance algorithmic trading decisions."
 ---
 

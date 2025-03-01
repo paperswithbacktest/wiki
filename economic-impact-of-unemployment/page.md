@@ -1,5 +1,5 @@
 ---
-title: "Economic Impact of Unemployment (Algo Trading)"
+title: "Economic Impact of Unemployment"
 description: "Explore the interconnected impact of unemployment and algorithmic trading on economic growth and labor markets shaping modern financial dynamics."
 ---
 

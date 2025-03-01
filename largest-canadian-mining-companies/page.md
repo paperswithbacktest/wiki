@@ -1,5 +1,5 @@
 ---
-title: "Largest Canadian Mining Companies (Algo Trading)"
+title: "Largest Canadian Mining Companies"
 description: "Canadian mining companies lead in resource production with commodities like uranium, zinc, and gold. Algorithmic trading reshapes operations, boosting efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Indemnification Methods and Historical Overview (Algo Trading)"
+title: "Indemnification Methods and Historical Overview"
 description: "Explore the significance of indemnification in algorithmic trading as a safeguard against financial risks, detailing methods and legal history essential for secure transactions."
 ---
 

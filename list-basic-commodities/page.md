@@ -1,5 +1,5 @@
 ---
-title: "List of Basic Commodities (Algo Trading)"
+title: "List of Basic Commodities"
 description: "Discover the essentials of commodities in algo trading Explore how automated strategies leverage these crucial resources for optimized trading and risk management"
 ---
 

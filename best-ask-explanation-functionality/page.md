@@ -1,5 +1,5 @@
 ---
-title: "Best Ask: Explanation and Functionality (Algo Trading)"
+title: "Best Ask: Explanation and Functionality"
 description: "Unlock the intricacies of algo trading with a focus on the best ask price vital for traders to evaluate market conditions and enhance profitability strategies."
 ---
 

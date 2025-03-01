@@ -1,5 +1,5 @@
 ---
-title: "Intraday Trading Strategies Explained (Algo Trading)"
+title: "Intraday Trading Strategies Explained"
 description: Discover the essentials of intraday forex trading and how algorithmic strategies can enhance your approach for swift and effective decision-making in rapid market conditions. Explore various strategies like scalping and momentum trading, learn about crucial execution tactics, and understand the tools and techniques needed for successful automated trading systems. Whether a novice or experienced trader, this guide will help refine your skills to maximize opportunities and manage risks in the dynamic world of forex trading.
 ---
 

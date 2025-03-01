@@ -1,5 +1,5 @@
 ---
-title: "Concession Agreement Overview (Algo Trading)"
+title: "Concession Agreement Overview"
 description: "Explore the critical role of concession agreements and algorithmic trading contracts in business strategy Learn how these agreements impact operations and opportunities"
 ---
 

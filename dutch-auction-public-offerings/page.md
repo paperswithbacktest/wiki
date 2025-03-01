@@ -1,5 +1,5 @@
 ---
-title: "Dutch Auction in Public Offerings (Algo Trading)"
+title: "Dutch Auction in Public Offerings"
 description: "Explore the unique influence of Dutch auctions in public offerings and algorithmic trading. This auction model, rooted in Dutch flower markets, employs a descending price structure accelerating price discovery. By fostering transparency, Dutch auctions democratize stock allocations during IPOs, mitigating speculative surges. Their integration in algorithmic trading enhances efficiency and precision. Discover how these auctions revolutionize financial markets by ensuring fair pricing and broadening investment participation."
 ---
 

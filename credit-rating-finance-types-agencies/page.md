@@ -1,5 +1,5 @@
 ---
-title: "Credit Rating in Finance: Mechanisms, Types, and Agencies (Algo Trading)"
+title: "Credit Rating in Finance: Mechanisms, Types, and Agencies"
 description: "Explore the mechanisms, types, and roles of credit ratings in finance and their integration into algorithmic trading systems to shape investment strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Forex Analysis: Meaning, Functionality, and Example (Algo Trading)"
+title: "Forex Analysis: Meaning, Functionality, and Example"
 description: "Explore the essentials of Forex analysis and algorithmic trading. Learn how fundamental and technical factors impact currency movement and enhance trading decisions."
 ---
 

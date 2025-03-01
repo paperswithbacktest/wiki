@@ -1,5 +1,5 @@
 ---
-title: "Market Psychology and Future Predictions (Algo Trading)"
+title: "Market Psychology and Future Predictions"
 description: "Explore the interplay of market psychology, financial predictions, and algorithmic trading to gain insights into investor behavior and formulate effective trading strategies."
 ---
 

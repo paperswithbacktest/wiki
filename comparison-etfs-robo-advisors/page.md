@@ -1,5 +1,5 @@
 ---
-title: "Comparison of ETFs and Robo-Advisors (Algo Trading)"
+title: "Comparison of ETFs and Robo-Advisors"
 description: "Explore how ETFs, robo-advisors, and algorithmic trading are transforming investing with automated strategies and diversified portfolios for modern investors."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Gross Yield: Definition and Examples (Algo Trading)"
+title: "Gross Yield: Definition and Examples"
 description: "Explore the fundamentals of gross yield and its role in algorithmic trading Discover investment yield types and key financial metrics for optimal investing strategies"
 ---
 

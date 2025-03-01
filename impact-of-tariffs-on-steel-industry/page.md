@@ -1,5 +1,5 @@
 ---
-title: "Impact of Tariffs on the Steel Industry (Algo Trading)"
+title: "Impact of Tariffs on the Steel Industry"
 description: "Discover how tariffs on steel impact market dynamics and economic growth, and how algorithmic trading shapes the global steel industry's landscape."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Distribution Yield and Its Calculation (Algo Trading)"
+title: "Distribution Yield and Its Calculation"
 description: "Discover the impacts of distribution yield and yield calculations on investment returns and see how algorithmic trading optimizes these financial metrics."
 ---
 

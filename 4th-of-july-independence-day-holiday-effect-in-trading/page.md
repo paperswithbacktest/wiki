@@ -1,5 +1,5 @@
 ---
-title: "Independence Day (4th of July) Holiday Effect in Trading Explained (Algo Trading)"
+title: "Independence Day (4th of July) Holiday Effect in Trading Explained"
 description: Explore the intricate influence of Independence Day on trading and discover strategic insights for algorithmic traders. This article examines how market closures and reduced participation around the 4th of July impact trading volumes and volatility, offering guidance on optimizing trading strategies to navigate these unique market conditions successfully.
 ---
 

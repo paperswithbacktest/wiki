@@ -1,5 +1,5 @@
 ---
-title: "Garn–St. Germain Depository Institutions Act (Algo Trading)"
+title: "Garn–St. Germain Depository Institutions Act"
 description: "Explore the Garn-St. Germain Act's impact on U.S. banking deregulation discover its role in shaping modern financial practices including algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Clarifi (Algo Trading)"
+title: "Clarifi"
 description: Explore the transformative power of Clarifi in algorithmic trading. Harnessing advanced machine learning, Clarifi enhances trading efficiency and accuracy with real-time data analysis. It empowers traders by identifying actionable patterns and optimizing strategies while supporting robust risk management and improved decision-making. Discover how Clarifi revolutionizes trading strategies and offers a competitive edge in the fast-paced financial markets.
 ---
 

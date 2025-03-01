@@ -1,5 +1,5 @@
 ---
-title: "Measures of Corporate Financial Health (Algo Trading)"
+title: "Measures of Corporate Financial Health"
 description: "Explore corporate financial health and algo trading synergy with key indicators like liquidity solvency and profitability for optimized financial strategies."
 ---
 

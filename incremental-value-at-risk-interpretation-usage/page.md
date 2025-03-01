@@ -1,5 +1,5 @@
 ---
-title: "Incremental Value at Risk: Interpretation and Usage (Algo Trading)"
+title: "Incremental Value at Risk: Interpretation and Usage"
 description: "Explore how Incremental Value at Risk helps investors make informed decisions in algorithmic trading by assessing individual asset impacts on portfolio risk."
 ---
 

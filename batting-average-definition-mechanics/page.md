@@ -1,5 +1,5 @@
 ---
-title: "Batting Average: Definition and Mechanics (Algo Trading)"
+title: "Batting Average: Definition and Mechanics"
 description: "Explore the intersection of baseball statistics and algorithmic trading to discover how data-driven methods like batting averages can enhance decision-making strategies."
 ---
 

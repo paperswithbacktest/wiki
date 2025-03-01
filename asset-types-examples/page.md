@@ -1,5 +1,5 @@
 ---
-title: "Asset: Types and Examples (Algo Trading)"
+title: "Asset: Types and Examples"
 description: "Discover the various types of financial assets and the revolutionary role of algorithmic trading in portfolio management for enhanced investment strategies."
 ---
 

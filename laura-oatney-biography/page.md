@@ -1,5 +1,5 @@
 ---
-title: "Laura Oatney (Biography) (Algo Trading)"
+title: "Laura Oatney (Biography)"
 description: "Discover the impactful career of Laura Oatney in algorithmic trading and futures markets, highlighting her contributions to market compliance and education."
 ---
 

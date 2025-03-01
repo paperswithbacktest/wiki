@@ -1,5 +1,5 @@
 ---
-title: "Bowie Bonds: Operation and History (Algo Trading)"
+title: "Bowie Bonds: Operation and History"
 description: "Explore the evolution of Bowie Bonds in music industry securitization and algorithmic trading revealing new financial opportunities for artists and investors."
 ---
 

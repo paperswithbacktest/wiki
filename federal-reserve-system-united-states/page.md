@@ -1,5 +1,5 @@
 ---
-title: "Federal Reserve System of the United States (Algo Trading)"
+title: "Federal Reserve System of the United States"
 description: "Explore the dynamic interplay between the US Federal Reserve's monetary policies and algorithmic trading. Discover how this relationship influences markets worldwide."
 ---
 

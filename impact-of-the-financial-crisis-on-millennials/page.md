@@ -1,5 +1,5 @@
 ---
-title: "Impact of the Financial Crisis on Millennials (Algo Trading)"
+title: "Impact of the Financial Crisis on Millennials"
 description: "Explore the financial impact of the 2008 crisis on millennials, including investing habits and homeownership trends, amid the rise of algorithmic trading."
 ---
 

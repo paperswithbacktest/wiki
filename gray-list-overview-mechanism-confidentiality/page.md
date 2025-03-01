@@ -1,5 +1,5 @@
 ---
-title: "Gray List: Overview, Mechanism, and Confidentiality (Algo Trading)"
+title: "Gray List: Overview, Mechanism, and Confidentiality"
 description: "Explore the role of gray lists in algorithmic trading focusing on risk management confidential data protection, and how financial strategies adapt to rapid changes."
 ---
 

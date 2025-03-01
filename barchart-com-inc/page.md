@@ -1,5 +1,5 @@
 ---
-title: "Barchart.com Inc. (Algo Trading)"
+title: "Barchart.com Inc."
 description: "Discover powerful investment tools and strategies in algorithmic trading with Barchart.com to enhance portfolio management and improve market predictions."
 ---
 

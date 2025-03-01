@@ -1,5 +1,5 @@
 ---
-title: "Buying ETFs on Margin (Algo Trading)"
+title: "Buying ETFs on Margin"
 description: "Explore how to enhance your investment strategy by buying ETFs on margin with insight into margin trading and algorithmic strategies to optimize returns."
 ---
 

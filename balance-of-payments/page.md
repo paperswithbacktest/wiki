@@ -1,5 +1,5 @@
 ---
-title: "Balance of Payments (Algo Trading)"
+title: "Balance of Payments"
 description: "Understand the synergy between balance of payments and algorithmic trading in financial markets Learn how BOP data optimizes trading strategies and forecasts market trends"
 ---
 

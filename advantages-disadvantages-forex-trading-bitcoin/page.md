@@ -1,5 +1,5 @@
 ---
-title: "Advantages and Disadvantages of Forex Trading with Bitcoin (Algo Trading)"
+title: "Advantages and Disadvantages of Forex Trading with Bitcoin"
 description: "Explore the benefits and challenges of forex trading with Bitcoin through algorithmic strategies Discover crypto's impact on global currency markets in this analysis"
 ---
 

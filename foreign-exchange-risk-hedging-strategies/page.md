@@ -1,5 +1,5 @@
 ---
-title: "Foreign Exchange Risk and Hedging Strategies (Algo Trading)"
+title: "Foreign Exchange Risk and Hedging Strategies"
 description: "Gain insights into managing foreign exchange risk and explore hedging strategies with a focus on algorithmic trading solutions. Learn how businesses can leverage advanced technology for precision and efficiency in mitigating currency volatility and protecting financial stability in global markets. Discover the impact of transaction, translation, and economic risk, and how strategic hedging methods combined with algo trading tools offer a robust framework for navigating currency fluctuations effectively."
 ---
 

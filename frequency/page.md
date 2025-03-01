@@ -1,5 +1,5 @@
 ---
-title: "Frequency (Algo Trading)"
+title: "Frequency"
 description: Explore the role of frequency in algorithmic trading and its impact on financial markets. Delve into the differences between high-frequency and low-frequency trading strategies, their benefits, and drawbacks. Understand how frequency influences profitability and market liquidity while shaping the strategies of traders and financial institutions in the fast-evolving trading environment.
 ---
 

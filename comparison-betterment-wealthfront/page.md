@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Betterment and Wealthfront (Algo Trading)"
+title: "Comparison of Betterment and Wealthfront"
 description: "Discover how automated investment platforms Wealthfront and Betterment utilize algorithmic trading for efficient portfolio management. This article compares their innovative features and investment strategies, exploring their strengths and suitability for various investor needs. Understand key differences to make informed decisions and optimize wealth growth using advanced technology."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "ABX Index Performance During the 2008 Subprime Mortgage Crisis (Algo Trading)"
+title: "ABX Index Performance During the 2008 Subprime Mortgage Crisis"
 description: "Discover how the ABX index served as a crucial indicator during the 2008 subprime mortgage crisis revealing market trends and impacting algorithmic trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Hawkes Process for Order Flow Modeling (Algo Trading)"
+title: "Hawkes Process for Order Flow Modeling"
 description: "Explore how the Hawkes process revolutionizes algorithmic trading with its ability to model market event sequences predicting trade clusters and price dynamics effectively."
 ---
 

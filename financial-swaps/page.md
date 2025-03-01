@@ -1,5 +1,5 @@
 ---
-title: "Financial Swaps (Algo Trading)"
+title: "Financial Swaps"
 description: "Explore the dynamic world of financial swaps and algorithmic trading Discover how derivatives enhance trading strategies by optimizing risk management and capitalizing on market opportunities"
 ---
 

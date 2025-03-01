@@ -1,5 +1,5 @@
 ---
-title: "Excess Cash Flow: Calculation and Example (Algo Trading)"
+title: "Excess Cash Flow: Calculation and Example"
 description: "Explore the essential concepts of excess cash flow and algorithmic trading to enhance financial strategy Learn how business cash management drives growth and stability"
 ---
 

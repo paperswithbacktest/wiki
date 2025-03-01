@@ -1,5 +1,5 @@
 ---
-title: "Just-in-Time Production: Overview and Analysis (Algo Trading)"
+title: "Just-in-Time Production: Overview and Analysis"
 description: "Discover the benefits and challenges of Just-in-Time manufacturing. This strategy optimizes production by aligning schedules with demand to enhance efficiency and reduce waste."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Choosing Mutual Funds Over Individual Stocks (Algo Trading)"
+title: "Choosing Mutual Funds Over Individual Stocks"
 description: "Explore the benefits of choosing mutual funds over individual stocks for a balanced and diversified investment portfolio. Ideal for passive investors seeking professional management."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Debt-for-Bond Swap (Algo Trading)"
+title: "Debt-for-Bond Swap"
 description: "Discover how debt-for-bond swaps and algorithmic trading revolutionize financial strategies enhancing bond market efficiency and financial restructuring."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Intrinsic Value and Market Value Comparison (Algo Trading)"
+title: "Intrinsic Value and Market Value Comparison"
 description: "Explore the differences between intrinsic and market value in investment and how algorithmic trading integrates these concepts to enhance trading strategies."
 ---
 

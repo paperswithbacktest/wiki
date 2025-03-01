@@ -1,5 +1,5 @@
 ---
-title: "Industry Life Cycle Phases and Examples (Algo Trading)"
+title: "Industry Life Cycle Phases and Examples"
 description: "Explore the intersection of business development industry life cycles and algorithmic trading to strategically position your company for sustainable growth and adaptation."
 ---
 

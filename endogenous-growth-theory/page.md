@@ -1,5 +1,5 @@
 ---
-title: "Endogenous Growth Theory (Algo Trading)"
+title: "Endogenous Growth Theory"
 description: "Explore how endogenous growth theory, which emphasizes innovation and human capital, aligns with algorithmic trading to drive sustainable economic and financial growth."
 ---
 

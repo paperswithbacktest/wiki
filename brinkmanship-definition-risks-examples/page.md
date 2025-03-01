@@ -1,5 +1,5 @@
 ---
-title: "Brinkmanship: Definition, Risks, and Examples (Algo Trading)"
+title: "Brinkmanship: Definition, Risks, and Examples"
 description: "Discover how brinkmanship influences negotiation strategies in algorithmic trading, exploring its historical roots, economic applications, and modern financial impacts."
 ---
 

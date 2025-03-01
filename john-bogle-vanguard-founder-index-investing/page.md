@@ -1,5 +1,5 @@
 ---
-title: "John Bogle: Founder of Vanguard and Pioneer of Index Investing (Algo Trading)"
+title: "John Bogle: Founder of Vanguard and Pioneer of Index Investing"
 description: "John Bogle revolutionized investing by introducing index funds through Vanguard prioritizing low costs and democratizing access shaping modern portfolio strategies."
 ---
 

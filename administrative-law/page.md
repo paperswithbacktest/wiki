@@ -1,5 +1,5 @@
 ---
-title: "Administrative Law (Algo Trading)"
+title: "Administrative Law"
 description: "Explore how administrative law interacts with algorithmic trading to establish regulatory frameworks that ensure market integrity and investor protection. Understand the role of government agencies like the SEC and CFTC in enforcing rules and addressing challenges posed by high-speed trading technologies in the financial sector. Discover the processes of rulemaking, enforcement, and adjudication that safeguard public interests while promoting transparency and fairness in trading environments."
 ---
 

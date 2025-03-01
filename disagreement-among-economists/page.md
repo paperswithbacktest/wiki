@@ -1,5 +1,5 @@
 ---
-title: "Disagreement Among Economists (Algo Trading)"
+title: "Disagreement Among Economists"
 description: "Economists' disagreements on theories impact algorithmic trading strategies significantly Through understanding these debates traders can refine automated market decisions"
 ---
 

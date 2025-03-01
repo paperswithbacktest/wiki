@@ -1,5 +1,5 @@
 ---
-title: "Absorption Costing: Benefits and Drawbacks (Algo Trading)"
+title: "Absorption Costing: Benefits and Drawbacks"
 description: "Learn about absorption costing's role in management accounting and its implications in algorithmic trading Optimize resource allocation and ensure compliance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Mechanism and Case Study of Unlimited Bond Purchase (Algo Trading)"
+title: "Mechanism and Case Study of Unlimited Bond Purchase"
 description: "Explore the interplay of financial policy, quantitative easing, and algorithmic trading redefining the economic landscape and understanding the future of finance."
 ---
 

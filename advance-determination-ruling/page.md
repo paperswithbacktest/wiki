@@ -1,5 +1,5 @@
 ---
-title: "Advance Determination Ruling (Algo Trading)"
+title: "Advance Determination Ruling"
 description: "Explore the tax implications of American Depositary Receipts and how algorithmic trading strategies can optimize returns in the complex global investment arena."
 ---
 

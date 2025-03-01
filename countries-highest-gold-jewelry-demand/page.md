@@ -1,5 +1,5 @@
 ---
-title: "Countries with the Highest Gold Jewelry Demand (Algo Trading)"
+title: "Countries with the Highest Gold Jewelry Demand"
 description: "Explore the top countries for gold jewelry demand and how algorithmic trading is shaping the market. Understand the cultural and economic factors driving this trend."
 ---
 

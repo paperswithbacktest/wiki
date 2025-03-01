@@ -1,5 +1,5 @@
 ---
-title: "Ba1/BB+ Rating: Overview and Functions (Algo Trading)"
+title: "Ba1/BB+ Rating: Overview and Functions"
 description: "Discover how Ba1 and BB+ credit ratings impact algorithmic trading strategies by enhancing risk assessments and navigating the complex risk-reward landscape."
 ---
 

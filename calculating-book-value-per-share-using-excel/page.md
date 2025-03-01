@@ -1,5 +1,5 @@
 ---
-title: "Calculating Book Value Per Share Using Excel (Algo Trading)"
+title: "Calculating Book Value Per Share Using Excel"
 description: "Learn how to calculate Book Value Per Share (BVPS) using Excel to assess a company's valuation and integrate it into algorithmic trading strategies."
 ---
 

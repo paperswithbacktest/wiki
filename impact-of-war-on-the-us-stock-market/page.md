@@ -1,5 +1,5 @@
 ---
-title: "Impact of War on the U.S. Stock Market (Algo Trading)"
+title: "Impact of War on the U.S. Stock Market"
 description: "Explore the impact of financial market tensions, including currency and trade wars, on the U.S. stock market and algorithmic trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Mean decrease impurity (MDI) feature importance (Algo Trading)"
+title: "Mean decrease impurity (MDI) feature importance"
 description: Explore the role of Mean Decrease Impurity (MDI) in algorithmic trading and discover how it optimizes machine learning models by identifying key variables. By measuring feature impact on impurity reduction, MDI enhances decision-making and trading strategies, while addressing potential biases and limitations within financial datasets.
 ---
 

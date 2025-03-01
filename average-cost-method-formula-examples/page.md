@@ -1,5 +1,5 @@
 ---
-title: "Average Cost Method and Formula with Examples (Algo Trading)"
+title: "Average Cost Method and Formula with Examples"
 description: "Explore the advantages of the Average Cost Method in inventory management and its impact on financial statements with real-world examples in algo trading."
 ---
 

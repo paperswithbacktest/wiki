@@ -1,5 +1,5 @@
 ---
-title: "Identifiable Asset: Meaning and Uses (Algo Trading)"
+title: "Identifiable Asset: Meaning and Uses"
 description: "Explore the significance of identifiable assets in financial analysis and the revolutionary role of algorithmic trading in optimizing asset management strategies."
 ---
 

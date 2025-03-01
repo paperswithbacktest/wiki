@@ -1,5 +1,5 @@
 ---
-title: "liquidity fragmentation (Algo Trading)"
+title: "liquidity fragmentation"
 description: "Explore the impact of liquidity fragmentation in algorithmic trading and DeFi Understand its causes challenges for traders and potential solutions for a seamless market experience"
 ---
 

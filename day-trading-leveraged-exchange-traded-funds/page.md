@@ -1,5 +1,5 @@
 ---
-title: "Day Trading Leveraged Exchange-Traded Funds (Algo Trading)"
+title: "Day Trading Leveraged Exchange-Traded Funds"
 description: "Explore the complex world of day trading with leveraged ETFs to amplify returns while minimizing risk using insights into algorithmic trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Green Investor Podcast by Investopedia (Algo Trading)"
+title: "Green Investor Podcast by Investopedia"
 description: "Discover the synergy of sustainable investing and algorithmic trading through expert insights via podcasts unlocking innovative financial strategies and ESG trends."
 ---
 

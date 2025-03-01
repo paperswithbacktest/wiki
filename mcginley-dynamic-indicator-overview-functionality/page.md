@@ -1,5 +1,5 @@
 ---
-title: "McGinley Dynamic Indicator: Overview and Functionality (Algo Trading)"
+title: "McGinley Dynamic Indicator: Overview and Functionality"
 description: "Discover the McGinley Dynamic Indicator a tool designed to minimize lag in moving averages by adapting to market speed helping traders make informed decisions."
 ---
 

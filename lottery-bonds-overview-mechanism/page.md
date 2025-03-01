@@ -1,5 +1,5 @@
 ---
-title: "Lottery Bonds: Overview and Mechanism (Algo Trading)"
+title: "Lottery Bonds: Overview and Mechanism"
 description: "Discover the excitement of lottery bonds and enhance your investment strategy with algorithmic trading, blending stable returns with dynamic market agility."
 ---
 

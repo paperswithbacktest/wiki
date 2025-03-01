@@ -1,5 +1,5 @@
 ---
-title: "Assignment of Trade: Concept, Examples, and Criticism (Algo Trading)"
+title: "Assignment of Trade: Concept, Examples, and Criticism"
 description: "Discover the role of Assignment of Trade in optimizing strategies within the mortgage-backed securities market. Explore its mechanisms and criticisms in algo trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Dual Interface Chip Card: Functionality and Applications (Algo Trading)"
+title: "Dual Interface Chip Card: Functionality and Applications"
 description: "Explore the transformative power of dual interface chip cards in revolutionizing contactless payments and algorithmic trading in the evolving financial landscape."
 ---
 

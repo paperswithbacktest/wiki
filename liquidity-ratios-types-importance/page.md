@@ -1,5 +1,5 @@
 ---
-title: "Liquidity Ratios: Types and Importance (Algo Trading)"
+title: "Liquidity Ratios: Types and Importance"
 description: "Explore the significance of liquidity ratios in financial analysis and algorithmic trading. Learn how these metrics enhance investment strategies and assess company health."
 ---
 

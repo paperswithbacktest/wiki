@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin Gold: Distribution, Security, and Transparency (Algo Trading)"
+title: "Bitcoin Gold: Distribution, Security, and Transparency"
 description: "Explore Bitcoin Gold and its role in cryptocurrency with insights on distribution, security, transparency, and considerations in algorithmic trading strategies."
 ---
 

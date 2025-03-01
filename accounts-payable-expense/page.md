@@ -1,5 +1,5 @@
 ---
-title: "Accounts Payable as an Expense (Algo Trading)"
+title: "Accounts Payable as an Expense"
 description: "Explore the integration of accounts payable with expense management and algorithmic trading to optimize financial operations and gain a competitive edge."
 ---
 

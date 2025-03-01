@@ -1,5 +1,5 @@
 ---
-title: "Fundamentally Weighted Index Investing (Algo Trading)"
+title: "Fundamentally Weighted Index Investing"
 description: "Discover the advantages of fundamentally weighted index investing. Learn how focusing on financial metrics over market cap can enhance returns and mitigate risks."
 ---
 

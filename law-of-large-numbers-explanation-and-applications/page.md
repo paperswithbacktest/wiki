@@ -1,5 +1,5 @@
 ---
-title: "Law of Large Numbers: Explanation and Applications (Algo Trading)"
+title: "Law of Large Numbers: Explanation and Applications"
 description: "Understand how the Law of Large Numbers ensures predictions in algorithmic trading are accurate by converging large datasets' outcomes toward expected values."
 ---
 

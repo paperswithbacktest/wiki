@@ -1,5 +1,5 @@
 ---
-title: "Economic Analysis of Low-Cost Airlines (Algo Trading)"
+title: "Economic Analysis of Low-Cost Airlines"
 description: "Explore the economic analysis of low-cost airlines and algorithmic trading strategies that optimize their financial operations and offer competitive pricing."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Ebitda (Algo Trading)"
+title: "Ebitda"
 description: "Explore how EBITDA is used in algorithmic trading to assess company performance and guide investment strategies. Understand the calculation and utility of EBITDA alongside its benefits and limitations. Discover the role of algorithmic trading in processing financial data to improve trading efficiency and identify opportunities by focusing on operational profitability rather than market fluctuations."
 ---
 

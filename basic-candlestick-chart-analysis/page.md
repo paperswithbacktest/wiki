@@ -1,5 +1,5 @@
 ---
-title: "Basic Candlestick Chart Analysis (Algo Trading)"
+title: "Basic Candlestick Chart Analysis"
 description: "Explore the essential role of candlestick charts in technical analysis and algorithmic trading highlighting their contribution to financial market interpretation This article investigates into the basic patterns like Hammer Doji and Engulfing explores their significance in predicting market trends and provides insights into how these charts are integrated into modern trading practices incorporating technical indicators to enhance decision-making strategies"
 ---
 

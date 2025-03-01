@@ -1,5 +1,5 @@
 ---
-title: "M3 Monetary Supply: Liquidity, Disuse, and Classifications (Algo Trading)"
+title: "M3 Monetary Supply: Liquidity, Disuse, and Classifications"
 description: "Explore the complexities of M3 monetary supply liquidity and algorithmic trading Discover how these factors impact economic strategies and global investment landscapes"
 ---
 

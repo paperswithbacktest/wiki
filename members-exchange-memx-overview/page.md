@@ -1,5 +1,5 @@
 ---
-title: "Members Exchange (MEMX) Overview (Algo Trading)"
+title: "Members Exchange (MEMX) Overview"
 description: "Discover how Members Exchange (MEMX) offers a simplified, cost-efficient trading platform that supports algorithmic trading with advanced technology and transparency."
 ---
 

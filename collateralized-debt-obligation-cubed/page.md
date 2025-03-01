@@ -1,5 +1,5 @@
 ---
-title: "Collateralized Debt Obligation Cubed (Algo Trading)"
+title: "Collateralized Debt Obligation Cubed"
 description: "Explore the complex world of CDO-Cubed and algorithmic trading Learn about this derivative of derivatives and its role in modern financial markets"
 ---
 

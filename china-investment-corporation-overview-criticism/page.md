@@ -1,5 +1,5 @@
 ---
-title: "China Investment Corporation: Overview and Criticism (Algo Trading)"
+title: "China Investment Corporation: Overview and Criticism"
 description: "Explore the China Investment Corporation's role as a major global finance player through detailed analysis of its investment strategies and the controversies it faces."
 ---
 

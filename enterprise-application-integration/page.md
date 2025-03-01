@@ -1,5 +1,5 @@
 ---
-title: "Enterprise Application Integration (Algo Trading)"
+title: "Enterprise Application Integration"
 description: "Optimize operational efficiency with Enterprise Application Integration for algorithmic trading by streamlining data flow and supporting real-time trading decisions."
 ---
 

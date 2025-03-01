@@ -1,5 +1,5 @@
 ---
-title: "Basis Price: Definition and Examples (Algo Trading)"
+title: "Basis Price: Definition and Examples"
 description: "Discover the importance of basis price in financial markets, its influence on investment decisions, and the role of algorithmic trading in modern finance."
 ---
 

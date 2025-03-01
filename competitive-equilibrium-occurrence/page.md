@@ -1,5 +1,5 @@
 ---
-title: "Competitive Equilibrium and Occurrence (Algo Trading)"
+title: "Competitive Equilibrium and Occurrence"
 description: "Explore the role of competitive equilibrium in economics and its application in algorithmic trading highlighting market efficiency resource allocation and trading strategies."
 ---
 

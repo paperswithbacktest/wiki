@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Extraordinary and Nonrecurring Items (Algo Trading)"
+title: "Differences Between Extraordinary and Nonrecurring Items"
 description: "Understand the roles of extraordinary and nonrecurring items in financial reports and their impact on algorithmic trading strategies for informed decisions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Advantages and Disadvantages of Paper Trading (Algo Trading)"
+title: "Advantages and Disadvantages of Paper Trading"
 description: "Explore the benefits and challenges of paper trading for algorithmic trading mastery. Learn how simulation can build confidence and improve trading strategies."
 ---
 

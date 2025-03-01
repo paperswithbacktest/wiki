@@ -1,5 +1,5 @@
 ---
-title: "Analyzing Financial Statements of a Company (Algo Trading)"
+title: "Analyzing Financial Statements of a Company"
 description: "Explore how financial statements and analysis enhance algorithmic trading strategies by providing insights into a company's financial health and trading opportunities."
 ---
 

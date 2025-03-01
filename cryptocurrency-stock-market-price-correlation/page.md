@@ -1,5 +1,5 @@
 ---
-title: "Cryptocurrency and Stock Market Price Correlation (Algo Trading)"
+title: "Cryptocurrency and Stock Market Price Correlation"
 description: "Explore the evolving relationship between stock markets and cryptocurrencies, focusing on the notable price correlation and the role of algorithmic trading."
 ---
 

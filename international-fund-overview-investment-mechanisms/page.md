@@ -1,5 +1,5 @@
 ---
-title: "International Fund: Overview and Investment Mechanisms (Algo Trading)"
+title: "International Fund: Overview and Investment Mechanisms"
 description: "Explore the evolving landscape of international funds and investment mechanisms including mutual funds and algorithmic trading for optimal portfolio management."
 ---
 

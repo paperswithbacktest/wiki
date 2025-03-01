@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Net Present Value and Internal Rate of Return (Algo Trading)"
+title: "Comparison of Net Present Value and Internal Rate of Return"
 description: "Compare NPV and IRR to evaluate investment opportunities and algorithmic trading strategies effectively. Learn their benefits and limitations in finance."
 ---
 

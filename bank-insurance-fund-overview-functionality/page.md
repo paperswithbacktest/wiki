@@ -1,5 +1,5 @@
 ---
-title: "Bank Insurance Fund: Overview and Functionality (Algo Trading)"
+title: "Bank Insurance Fund: Overview and Functionality"
 description: "Explore how the Bank Insurance Fund and algorithmic trading strategies bolster financial stability and depositor confidence through innovative protections."
 ---
 

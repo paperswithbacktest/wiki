@@ -1,5 +1,5 @@
 ---
-title: "Game Theory Strategies in Decision-Making (Algo Trading)"
+title: "Game Theory Strategies in Decision-Making"
 description: "Explore how game theory and algorithmic trading strategies enhance decision-making in finance Gain insights into market dynamics and competitive edge methods"
 ---
 

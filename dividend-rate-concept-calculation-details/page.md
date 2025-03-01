@@ -1,5 +1,5 @@
 ---
-title: "Dividend Rate: Concept, Calculation, and Details (Algo Trading)"
+title: "Dividend Rate: Concept, Calculation, and Details"
 description: "Explore the essential concepts of dividend rates calculation and algorithmic trading to enhance your investment strategy and optimize financial returns."
 ---
 

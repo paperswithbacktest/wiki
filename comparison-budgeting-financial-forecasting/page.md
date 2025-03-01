@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Budgeting and Financial Forecasting (Algo Trading)"
+title: "Comparison of Budgeting and Financial Forecasting"
 description: "Discover how budgeting and financial forecasting enhance algorithmic trading by streamlining financial strategies, optimizing resource allocation, and driving stability."
 ---
 

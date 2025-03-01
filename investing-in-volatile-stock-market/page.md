@@ -1,5 +1,5 @@
 ---
-title: "Investing in a Volatile Stock Market (Algo Trading)"
+title: "Investing in a Volatile Stock Market"
 description: "Investing in a volatile stock market involves navigating risks and opportunities. Explore the impact of algorithmic trading for informed, strategic decisions."
 ---
 

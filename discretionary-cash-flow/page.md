@@ -1,5 +1,5 @@
 ---
-title: "Discretionary Cash Flow (Algo Trading)"
+title: "Discretionary Cash Flow"
 description: "Explore the interconnected realms of cash flow management discretionary income and algorithmic trading to optimize financial strategies and enhance investment outcomes."
 ---
 

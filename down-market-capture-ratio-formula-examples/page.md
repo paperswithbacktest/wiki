@@ -1,5 +1,5 @@
 ---
-title: "Down-Market Capture Ratio Formula and Examples (Algo Trading)"
+title: "Down-Market Capture Ratio Formula and Examples"
 description: "Discover the significance of the down-market capture ratio in algorithmic trading Learn how this metric helps gauge investment performance during market declines"
 ---
 

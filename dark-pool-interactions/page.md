@@ -1,5 +1,5 @@
 ---
-title: "dark pool interactions (Algo Trading)"
+title: "dark pool interactions"
 description: "Discover how dark pools and algorithmic trading synergize to execute large financial transactions discreetly exploring strategies benefits and market impacts."
 ---
 

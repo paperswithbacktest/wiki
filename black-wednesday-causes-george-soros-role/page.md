@@ -1,5 +1,5 @@
 ---
-title: "Black Wednesday: Causes and George Soros's Role (Algo Trading)"
+title: "Black Wednesday: Causes and George Soros's Role"
 description: "Explore the causes and impact of Black Wednesday when the British pound collapsed, prompting the UK's exit from the European Exchange Rate Mechanism in 1992. Delve into George Soros's pivotal role, where his strategic short selling of the pound resulted in significant profits and earned him the title \"the man who broke the Bank of England.\" Learn about the rise of algorithmic trading and its ongoing influence on financial markets. Discover how these events reshaped monetary policies and the challenges faced by governments in maintaining fixed exchange rates amidst market pressures."
 ---
 

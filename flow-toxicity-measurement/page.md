@@ -1,5 +1,5 @@
 ---
-title: "Flow toxicity measurement (Algo Trading)"
+title: "Flow toxicity measurement"
 description: "Explore the crucial concept of flow toxicity in algorithmic trading, its impact on market efficiency, and methods to measure and manage its effects. Enhance trade performance."
 ---
 

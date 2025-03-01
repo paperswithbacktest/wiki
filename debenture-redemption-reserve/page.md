@@ -1,5 +1,5 @@
 ---
-title: "Debenture Redemption Reserve (Algo Trading)"
+title: "Debenture Redemption Reserve"
 description: "Explore how financial reserves debenture redemption reserves and algorithmic trading integrate to enhance corporate financial stability and innovation strategies"
 ---
 

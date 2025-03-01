@@ -1,5 +1,5 @@
 ---
-title: "Currency Production in the United States (Algo Trading)"
+title: "Currency Production in the United States"
 description: "Explore the crucial link between U.S. currency production by the Federal Reserve and the impact of algorithmic trading on financial markets and economic stability."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Gravestone Doji and Its Trading Applications (Algo Trading)"
+title: "Gravestone Doji and Its Trading Applications"
 description: "Explore the Gravestone Doji candlestick pattern and its use in algorithmic trading to predict bearish reversals, enhancing decision making and strategy."
 ---
 

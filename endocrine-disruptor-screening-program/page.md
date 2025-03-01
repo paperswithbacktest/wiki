@@ -1,5 +1,5 @@
 ---
-title: "Endocrine Disruptor Screening Program (Algo Trading)"
+title: "Endocrine Disruptor Screening Program"
 description: "Explore the intersection of chemical screening and algorithmic trading with insights into the Endocrine Disruptor Screening Program (EDSP) and its cutting-edge methodologies used to assess chemical bioactivity for regulatory decisions. Meanwhile, discover how algorithmic trading harnesses computer programs to optimize market performance, leveraging data analysis and AI to execute trades with unmatched precision and speed. This article highlights the synergies between these fields, showcasing the broad applicability of data-driven models in enhancing decision-making and efficiency across industries."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Currency Exposure Management in Investment Portfolios (Algo Trading)"
+title: "Currency Exposure Management in Investment Portfolios"
 description: "Discover how algorithmic trading revolutionizes currency exposure management in investment portfolios Enhance returns through diversification and strategic technology use"
 ---
 

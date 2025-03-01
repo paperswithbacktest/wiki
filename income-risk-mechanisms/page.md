@@ -1,5 +1,5 @@
 ---
-title: "Income Risk and Its Mechanisms (Algo Trading)"
+title: "Income Risk and Its Mechanisms"
 description: "Explore income risk in algo trading Discover how fluctuations in interest rates affect investment returns and the importance of risk management strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Key Factors in Real Estate Investment (Algo Trading)"
+title: "Key Factors in Real Estate Investment"
 description: "Explore how algorithmic trading is revolutionizing real estate investment by enhancing decision-making efficiency uncovering opportunities and navigating market complexities."
 ---
 

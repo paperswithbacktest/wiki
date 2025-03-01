@@ -1,5 +1,5 @@
 ---
-title: "Calculating Fixed Asset Depreciation in Excel (Algo Trading)"
+title: "Calculating Fixed Asset Depreciation in Excel"
 description: "Learn how to efficiently calculate fixed asset depreciation in Excel, integrating it into algorithmic trading strategies to optimize financial decisions."
 ---
 

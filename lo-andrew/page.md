@@ -1,5 +1,5 @@
 ---
-title: "Lo, Andrew (Algo Trading)"
+title: "Lo, Andrew"
 description: Explore the transformative influence of Andrew W. Lo on algorithmic trading. As a leading expert, Lo merges finance and computational theory to advance modern trading methodologies. His research provides frameworks for managing risks and seizing opportunities in algo trading, significantly shaping our understanding of financial markets. Discover how Lo's theories continue to guide trading strategies and financial policies.
 ---
 

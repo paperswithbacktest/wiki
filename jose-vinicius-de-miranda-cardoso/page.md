@@ -1,5 +1,5 @@
 ---
-title: "José Vinícius de Miranda Cardoso (Algo Trading)"
+title: "José Vinícius de Miranda Cardoso"
 description: "Explore the career of José Vinícius de Miranda Cardoso a leading figure in algorithmic trading and Quantitative Trader at Morgan Stanley in Hong Kong."
 ---
 

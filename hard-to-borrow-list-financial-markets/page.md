@@ -1,5 +1,5 @@
 ---
-title: "Hard-To-Borrow List in Financial Markets (Algo Trading)"
+title: "Hard-To-Borrow List in Financial Markets"
 description: "Explore the critical role of the hard-to-borrow list in short selling and algorithmic trading Learn how it impacts costs liquidity and trading strategies"
 ---
 

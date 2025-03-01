@@ -1,5 +1,5 @@
 ---
-title: "Comorian Franc: Overview and History (Algo Trading)"
+title: "Comorian Franc: Overview and History"
 description: "Explore the evolution of the Comorian Franc and its economic significance in Comoros Learn about its history challenges and the impact of algorithmic trading"
 ---
 

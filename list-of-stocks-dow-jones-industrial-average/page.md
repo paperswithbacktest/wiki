@@ -1,5 +1,5 @@
 ---
-title: "List of Stocks in the Dow Jones Industrial Average (Algo Trading)"
+title: "List of Stocks in the Dow Jones Industrial Average"
 description: "Explore the potential of algorithmic trading for DJIA stocks Learn about algo strategies benefits in the Dow Jones context and how to leverage market trends"
 ---
 

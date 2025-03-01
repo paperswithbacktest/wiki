@@ -1,5 +1,5 @@
 ---
-title: "Certified Fund Specialist: Responsibilities And Qualifications (Algo Trading)"
+title: "Certified Fund Specialist: Responsibilities And Qualifications"
 description: "Certified Fund Specialists excel in mutual funds and algorithmic trading blending traditional finance skills with modern tech to enhance career prospects and client value."
 ---
 

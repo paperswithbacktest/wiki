@@ -1,5 +1,5 @@
 ---
-title: "Market Perform Rating (Algo Trading)"
+title: "Market Perform Rating"
 description: "Master the nuances of market perform ratings in investment and algorithmic trading Navigate financial analysis for informed decisions and optimize trading strategies."
 ---
 

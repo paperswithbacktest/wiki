@@ -1,5 +1,5 @@
 ---
-title: "Interest-Only Strips (Algo Trading)"
+title: "Interest-Only Strips"
 description: "Explore the complex world of interest-only strips in algo trading understand their impact on investment strategies and learn how to optimize financial portfolios."
 ---
 

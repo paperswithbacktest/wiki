@@ -1,5 +1,5 @@
 ---
-title: "Currency Swaps (Algo Trading)"
+title: "Currency Swaps"
 description: "Explore the pivotal role of currency swaps and algorithmic trading in managing foreign exchange risk and seizing market opportunities with precision."
 ---
 

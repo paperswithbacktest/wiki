@@ -1,5 +1,5 @@
 ---
-title: "George Akerlof: Life, Education, and Contributions (Algo Trading)"
+title: "George Akerlof: Life, Education, and Contributions"
 description: "Explore how George Akerlof's insights on information asymmetry impact economic theory and modern algorithmic trading strategies in today's financial markets."
 ---
 

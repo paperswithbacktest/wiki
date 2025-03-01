@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Accrual and Cash Accounting (Algo Trading)"
+title: "Comparison of Accrual and Cash Accounting"
 description: "Explore the crucial differences between accrual and cash accounting for algo trading. Learn their impacts on financial reporting and strategic decision-making."
 ---
 

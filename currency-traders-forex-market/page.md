@@ -1,5 +1,5 @@
 ---
-title: "Currency Traders in the Forex Market (Algo Trading)"
+title: "Currency Traders in the Forex Market"
 description: "Explore the dynamic world of forex trading in this article that examines currency trading and the integration of algorithmic strategies to enhance trading efficiency. Discover how algo trading leverages technology for faster data analysis and decision-making. Understand the forex market's architecture, its key participants, and the innovative landscape shaping its future. Uncover the essentials of currency pair dynamics, leverage, and analysis techniques that contribute to successful trading in the largest financial market in the world."
 ---
 

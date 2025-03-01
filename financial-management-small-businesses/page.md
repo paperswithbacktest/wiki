@@ -1,5 +1,5 @@
 ---
-title: "Financial Management for Small Businesses (Algo Trading)"
+title: "Financial Management for Small Businesses"
 description: "Discover effective financial management strategies essential for small business success, from robust accounting systems to innovative algorithmic trading. Learn how to optimize resources, make informed decisions, and improve investment strategies to build a strong financial foundation and competitive edge in today's fast-paced market."
 ---
 

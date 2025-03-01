@@ -1,5 +1,5 @@
 ---
-title: "Crowdfunding Opportunities for Non-Accredited Investors (Algo Trading)"
+title: "Crowdfunding Opportunities for Non-Accredited Investors"
 description: "Explore the expanding investment landscape for non-accredited investors through crowdfunding and algo trading Learn strategies to navigate these new opportunities"
 ---
 

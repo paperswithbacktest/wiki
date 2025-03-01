@@ -1,5 +1,5 @@
 ---
-title: "Board of Directors Evaluation (Algo Trading)"
+title: "Board of Directors Evaluation"
 description: "Evaluate your board of directors to ensure strategic alignment and accountability while navigating algorithmic trading risks. Strengthen governance with thorough assessments."
 ---
 

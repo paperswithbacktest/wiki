@@ -1,5 +1,5 @@
 ---
-title: "Darvas Box Trading Strategy (Algo Trading)"
+title: "Darvas Box Trading Strategy"
 description: "Discover the powerful Darvas Box Trading Strategy Learn how this trend-following system utilizes price action to identify breakout opportunities for improved gains"
 ---
 

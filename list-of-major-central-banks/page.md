@@ -1,5 +1,5 @@
 ---
-title: "List of Major Central Banks (Algo Trading)"
+title: "List of Major Central Banks"
 description: "Explore the dynamic relationship between major central banks and algorithmic trading in global finance and discover how they influence economic stability."
 ---
 

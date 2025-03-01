@@ -1,5 +1,5 @@
 ---
-title: "Fair Labor Standards Act: History and Overview (Algo Trading)"
+title: "Fair Labor Standards Act: History and Overview"
 description: "Explore how the Fair Labor Standards Act intersects with algorithmic trading uncovering challenges and ensuring fair labor practices in tech-driven finance."
 ---
 

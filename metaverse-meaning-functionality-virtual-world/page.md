@@ -1,5 +1,5 @@
 ---
-title: "Metaverse: Meaning and Functionality of the Virtual World (Algo Trading)"
+title: "Metaverse: Meaning and Functionality of the Virtual World"
 description: "Explore how the Metaverse is reshaping digital ecosystems through virtual worlds and algorithmic trading to unlock new economic opportunities and innovations."
 ---
 

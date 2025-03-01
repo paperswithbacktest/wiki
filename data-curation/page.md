@@ -1,5 +1,5 @@
 ---
-title: "Data Curation (Algo Trading)"
+title: "Data Curation"
 description: "Discover how data curation drives algorithmic trading by ensuring high-quality data for fast, precise decision-making with advanced AI and ML techniques."
 ---
 

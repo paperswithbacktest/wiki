@@ -1,5 +1,5 @@
 ---
-title: "Capital Gains Yield Calculation and Examples (Algo Trading)"
+title: "Capital Gains Yield Calculation and Examples"
 description: "Discover how to calculate capital gains yield and understand the impact of algorithmic trading on investment returns to enhance your financial strategies."
 ---
 

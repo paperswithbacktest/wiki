@@ -1,5 +1,5 @@
 ---
-title: "Black Economy and Black Market: Overview and Examples (Algo Trading)"
+title: "Black Economy and Black Market: Overview and Examples"
 description: "Explore the black market and informal economy as they circumvent regulations through evolving methods including algorithmic trading and technology advancements."
 ---
 

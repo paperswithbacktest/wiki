@@ -1,5 +1,5 @@
 ---
-title: "Big Bang: Significance, Origin, and Impact (Algo Trading)"
+title: "Big Bang: Significance, Origin, and Impact"
 description: "Explore the parallels between the Big Bang theory in cosmology and the transformative impact of algo trading on financial markets through advanced analytics."
 ---
 

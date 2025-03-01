@@ -1,5 +1,5 @@
 ---
-title: "Long-Run Average Total Cost in Economics (Algo Trading)"
+title: "Long-Run Average Total Cost in Economics"
 description: "Explore the role of long-run average total cost in algorithmic trading to understand cost efficiency and resource optimization for sustainable market advantage."
 ---
 

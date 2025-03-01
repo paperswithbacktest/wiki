@@ -1,5 +1,5 @@
 ---
-title: "International Maritime Organization (Algo Trading)"
+title: "International Maritime Organization"
 description: "Explore the International Maritime Organization's role in regulating global shipping and how algorithmic trading influences maritime operations, enhancing efficiency and sustainability."
 ---
 

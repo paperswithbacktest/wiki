@@ -1,5 +1,5 @@
 ---
-title: "Carried Interest: Benefits and Mechanism (Algo Trading)"
+title: "Carried Interest: Benefits and Mechanism"
 description: "Discover the benefits and mechanisms of carried interest in private equity and algorithmic trading exploring how these strategies can enhance investment returns."
 ---
 

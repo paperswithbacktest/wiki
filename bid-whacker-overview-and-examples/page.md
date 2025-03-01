@@ -1,5 +1,5 @@
 ---
-title: "Bid Whacker: Overview and Examples (Algo Trading)"
+title: "Bid Whacker: Overview and Examples"
 description: "Explore key auction strategies and enhance your bidding skills with Bid Whacker and algorithmic trading techniques for competitive edge and superior outcomes."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Blue Chip Stocks as Investment Options (Algo Trading)"
+title: "Blue Chip Stocks as Investment Options"
 description: "Explore the benefits of blue chip stocks and algorithmic trading in today's financial landscape, balancing stability with efficiency for optimal investment strategies."
 ---
 

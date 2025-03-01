@@ -1,5 +1,5 @@
 ---
-title: "Families First Coronavirus Response Act (Algo Trading)"
+title: "Families First Coronavirus Response Act"
 description: "Explore the intersection of the Families First Coronavirus Response Act and algorithmic trading during the COVID-19 pandemic, highlighting impacts and insights."
 ---
 

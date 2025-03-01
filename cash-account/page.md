@@ -1,5 +1,5 @@
 ---
-title: "Cash Account (Algo Trading)"
+title: "Cash Account"
 description: "Explore the fundamentals of cash accounts and algorithmic trading, ensuring risk-reduced investing with clear insights into modern financial management techniques."
 ---
 

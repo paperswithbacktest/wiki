@@ -1,5 +1,5 @@
 ---
-title: "History of Currency Exchange Rates (Algo Trading)"
+title: "History of Currency Exchange Rates"
 description: "Explore the significance of historical currency exchange rates and the role of algorithmic trading in modern finance to make informed economic decisions."
 ---
 

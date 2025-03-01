@@ -1,5 +1,5 @@
 ---
-title: "Financial Structure (Algo Trading)"
+title: "Financial Structure"
 description: "Explore how financial structure, capital structure, and algorithmic trading converge to enhance corporate finance strategies by optimizing capital allocation and managing risks."
 ---
 

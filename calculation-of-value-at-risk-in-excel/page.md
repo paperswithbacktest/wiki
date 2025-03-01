@@ -1,5 +1,5 @@
 ---
-title: "Calculation of Value at Risk in Excel (Algo Trading)"
+title: "Calculation of Value at Risk in Excel"
 description: "Learn how to calculate Value at Risk (VaR) in Excel for algorithmic trading and risk management with this comprehensive guide. Understand the fundamentals of VaR, its significance in quantifying potential portfolio losses, and the practical steps for using Excel functions to perform these calculations. Discover how incorporating VaR can enhance your trading strategies and ensure adherence to predefined risk parameters. This page provides essential insights and methods to manage financial risk effectively using widely accessible tools."
 ---
 

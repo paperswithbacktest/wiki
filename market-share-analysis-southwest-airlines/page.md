@@ -1,5 +1,5 @@
 ---
-title: "Market Share Analysis of Southwest Airlines (Algo Trading)"
+title: "Market Share Analysis of Southwest Airlines"
 description: "Explore Southwest Airlines' strategic market share growth in the aviation industry through unique business models and algorithmic trading optimization."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Cash Flow Financing: Mechanism and Benefits (Algo Trading)"
+title: "Cash Flow Financing: Mechanism and Benefits"
 description: "Discover the mechanisms and benefits of cash flow financing and algorithmic trading Learn how financial strategies can enhance market efficiency and profitability"
 ---
 

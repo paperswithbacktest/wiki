@@ -1,5 +1,5 @@
 ---
-title: "Guns and Butter in Government Spending (Algo Trading)"
+title: "Guns and Butter in Government Spending"
 description: "Explore the intersection of the 'guns and butter' economic model and algorithmic trading to understand government spending's impact on markets and investment strategies."
 ---
 

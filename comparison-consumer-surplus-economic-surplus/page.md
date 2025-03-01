@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Consumer Surplus and Economic Surplus (Algo Trading)"
+title: "Comparison of Consumer Surplus and Economic Surplus"
 description: "Explore how consumer surplus and economic surplus concepts enhance algorithmic trading strategies by analyzing market dynamics to optimize profitability and efficiency."
 ---
 

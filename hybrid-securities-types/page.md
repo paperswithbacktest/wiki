@@ -1,5 +1,5 @@
 ---
-title: "Hybrid Securities and Their Types (Algo Trading)"
+title: "Hybrid Securities and Their Types"
 description: "Explore the dynamic world of hybrid securities and algorithmic trading with insights into their types, roles, and impacts on investment strategies."
 ---
 

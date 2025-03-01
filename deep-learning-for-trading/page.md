@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning for Trading (Algo Trading)"
+title: "Deep Learning for Trading"
 description: "Deep learning revolutionizes algorithmic trading by modeling complex patterns and enhancing predictive accuracy, enabling precise, data-driven decisions in financial markets."
 ---
 

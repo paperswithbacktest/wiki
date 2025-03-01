@@ -1,5 +1,5 @@
 ---
-title: "Amaranth Advisors (Algo Trading)"
+title: "Amaranth Advisors"
 description: Amaranth Advisors is a renowned case in hedge fund and algorithmic trading history, noted for its meteoric rise and downfall. Initially successful with aggressive strategies in the energy sector, particularly natural gas, the firm capitalized on market inefficiencies using sophisticated algorithms. Despite early success and significant asset management, Amaranth's overreliance on these complex trading models and high leverage exposed it to immense risk. The firm's dramatic collapse highlights the critical importance of robust risk management in algorithmic trading and remains a cautionary tale for balancing innovation with caution in financial markets.
 ---
 

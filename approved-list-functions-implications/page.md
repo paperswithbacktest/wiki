@@ -1,5 +1,5 @@
 ---
-title: "Approved List: Functions and Implications (Algo Trading)"
+title: "Approved List: Functions and Implications"
 description: "Explore how approved lists ensure safety and efficiency in algorithmic trading. Learn about their implications for brokers, fund managers, and automated systems."
 ---
 

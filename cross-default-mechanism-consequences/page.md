@@ -1,5 +1,5 @@
 ---
-title: "Cross Default: Mechanism and Consequences (Algo Trading)"
+title: "Cross Default: Mechanism and Consequences"
 description: "Explore the complexities of cross-default mechanisms and their impact on financial agreements Learn how these provisions affect lenders and borrowers alike in managing risks"
 ---
 

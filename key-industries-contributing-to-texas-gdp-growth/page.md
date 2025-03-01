@@ -1,5 +1,5 @@
 ---
-title: "Key Industries Contributing to Texas GDP Growth (Algo Trading)"
+title: "Key Industries Contributing to Texas GDP Growth"
 description: "Explore Texas's economic growth driven by diverse industries like energy and technology and how algo trading is reshaping its financial landscape."
 ---
 

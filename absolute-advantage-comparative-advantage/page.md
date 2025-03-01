@@ -1,5 +1,5 @@
 ---
-title: "Absolute Advantage and Comparative Advantage (Algo Trading)"
+title: "Absolute Advantage and Comparative Advantage"
 description: "Discover how comparative and absolute advantage concepts enhance algorithmic trading strategies by optimizing trade opportunities and market efficiencies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Developing an Effective Investment Strategy (Algo Trading)"
+title: "Developing an Effective Investment Strategy"
 description: "Explore key aspects of algorithmic trading and effective investment strategies to optimize returns manage risk and achieve financial goals in dynamic markets."
 ---
 

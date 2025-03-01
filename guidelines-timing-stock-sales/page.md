@@ -1,5 +1,5 @@
 ---
-title: "Guidelines for Timing Stock Sales (Algo Trading)"
+title: "Guidelines for Timing Stock Sales"
 description: "Master the art of timing stock sales with insights into market dynamics algorithmic trading and strategic selling to enhance investment returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Deep Discount Brokers (Algo Trading)"
+title: "Deep Discount Brokers"
 description: "Discover the benefits of deep discount brokers in algo trading Learn how these cost-effective tools and platforms optimize trade execution and investment strategies"
 ---
 

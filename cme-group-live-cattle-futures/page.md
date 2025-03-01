@@ -1,5 +1,5 @@
 ---
-title: "CME Group and Live Cattle Futures (Algo Trading)"
+title: "CME Group and Live Cattle Futures"
 description: "Explore the CME Group's role in Live Cattle Futures trading and the impact of algorithmic trading on market dynamics and risk management strategies."
 ---
 

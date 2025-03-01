@@ -1,5 +1,5 @@
 ---
-title: "Limitations of the Unemployment Rate (Algo Trading)"
+title: "Limitations of the Unemployment Rate"
 description: "Explore the limitations of the unemployment rate as an economic indicator in algorithmic trading and how understanding labor market dynamics can enhance trade strategies."
 ---
 

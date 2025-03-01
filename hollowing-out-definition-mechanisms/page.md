@@ -1,5 +1,5 @@
 ---
-title: "Hollowing Out: Definition and Mechanisms (Algo Trading)"
+title: "Hollowing Out: Definition and Mechanisms"
 description: "Explore the 'hollowing out' of traditional financial roles due to algorithmic trading where automation replaces human decision-making with data-driven processes and tech skills."
 ---
 

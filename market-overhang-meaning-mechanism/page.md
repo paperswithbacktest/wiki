@@ -1,5 +1,5 @@
 ---
-title: "Market Overhang: Meaning and Mechanism (Algo Trading)"
+title: "Market Overhang: Meaning and Mechanism"
 description: "Explore the dynamics of market overhang in trading Discover how algorithmic strategies transform investing stay competitive and mitigate risks effectively"
 ---
 

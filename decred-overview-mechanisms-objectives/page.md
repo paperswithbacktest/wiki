@@ -1,5 +1,5 @@
 ---
-title: "Decred: Overview, Mechanisms, and Objectives (Algo Trading)"
+title: "Decred: Overview, Mechanisms, and Objectives"
 description: "Explore Decred's hybrid consensus mechanism and community-driven governance in the cryptocurrency landscape Discover algo trading opportunities within the Decred network"
 ---
 

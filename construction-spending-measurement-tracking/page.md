@@ -1,5 +1,5 @@
 ---
-title: "Construction Spending: Measurement and Tracking (Algo Trading)"
+title: "Construction Spending: Measurement and Tracking"
 description: "Discover how construction spending data is used in algorithmic trading to predict market trends and inform investment strategies with economic insights."
 ---
 

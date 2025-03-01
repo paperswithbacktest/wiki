@@ -1,5 +1,5 @@
 ---
-title: "Impact of Dividends on Stock Prices (Algo Trading)"
+title: "Impact of Dividends on Stock Prices"
 description: "Explore how dividends influence stock prices and enhance investment strategies, from dividend capture to algorithmic trading, optimizing returns for investors."
 ---
 

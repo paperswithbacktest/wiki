@@ -1,5 +1,5 @@
 ---
-title: "Latency arbitrage (Algo Trading)"
+title: "Latency arbitrage"
 description: "Explore latency arbitrage a trading strategy that capitalizes on temporary price differences across markets using high-frequency algorithms and low-latency tech."
 ---
 

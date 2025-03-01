@@ -1,5 +1,5 @@
 ---
-title: "Entrepôt: Historical and Modern Examples (Algo Trading)"
+title: "Entrepôt: Historical and Modern Examples"
 description: "Explore the evolution of entrepôts and modern trade methods like algorithmic trading, highlighting their impact on global commerce throughout history."
 ---
 

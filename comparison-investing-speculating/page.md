@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Investing and Speculating (Algo Trading)"
+title: "Comparison of Investing and Speculating"
 description: "Discover the differences between investing, speculating, and algorithmic trading to craft a sound financial strategy by understanding their unique goals and risks."
 ---
 

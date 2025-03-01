@@ -1,5 +1,5 @@
 ---
-title: "Impact of Credit Rating Risk on Corporate Bonds (Algo Trading)"
+title: "Impact of Credit Rating Risk on Corporate Bonds"
 description: "Explore the impact of credit ratings on corporate bonds in algo trading Discover how these elements interact and influence financial strategies and market dynamics"
 ---
 

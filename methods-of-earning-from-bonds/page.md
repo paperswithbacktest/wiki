@@ -1,5 +1,5 @@
 ---
-title: "Methods of Earning from Bonds (Algo Trading)"
+title: "Methods of Earning from Bonds"
 description: "Explore how algorithmic trading can maximize earnings from bond investments by leveraging high-speed transactions and data-driven strategies in modern financial markets."
 ---
 

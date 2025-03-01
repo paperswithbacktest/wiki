@@ -1,5 +1,5 @@
 ---
-title: "Formula for Calculating Free Cash Flow (Algo Trading)"
+title: "Formula for Calculating Free Cash Flow"
 description: "Discover how Free Cash Flow can indicate a company's financial health, influence investment decisions, and enhance algorithmic trading analysis for investors."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Current Population Survey: Overview and Functionality (Algo Trading)"
+title: "Current Population Survey: Overview and Functionality"
 description: "Explore the vital role of the Current Population Survey in labor market analysis and algorithmic trading. Gain insights into its methodology and applications in economic decision-making."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Fire Economy: Definition, Mechanism, and Significance (Algo Trading)"
+title: "Fire Economy: Definition, Mechanism, and Significance"
 description: "Discover the intricate world of the FIRE economy and algorithmic trading Learn how these components shape global financial markets and drive economic growth"
 ---
 

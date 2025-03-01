@@ -1,5 +1,5 @@
 ---
-title: "Economic Impact of the New Deal (Algo Trading)"
+title: "Economic Impact of the New Deal"
 description: "Explore the economic impact of the New Deal during the Great Depression and discover how modern algorithmic trading reshapes financial markets today."
 ---
 

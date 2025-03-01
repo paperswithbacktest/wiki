@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Hedging in Finance (Algo Trading)"
+title: "Introduction to Hedging in Finance"
 description: "Explore how hedging in finance and algorithmic trading work together to manage risks and optimize returns through strategic and automated trading solutions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Covariance in Portfolio Theory (Algo Trading)"
+title: "Covariance in Portfolio Theory"
 description: "Explore the crucial role of covariance in portfolio theory and its application in algorithmic trading to enhance investment strategies and manage risk effectively."
 ---
 

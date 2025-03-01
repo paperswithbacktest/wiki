@@ -1,5 +1,5 @@
 ---
-title: "Housing Cooperatives and Home Ownership (Algo Trading)"
+title: "Housing Cooperatives and Home Ownership"
 description: "Discover innovative home ownership with housing cooperatives where communal living meets real estate investment. Explore financial and social impacts how co-ops function and their potential in reshaping property markets alongside algorithmic trading insights. Learn how cooperative housing offers cost savings shared responsibilities and tax benefits while promoting community involvement and democratic governance unlocking an alternative approach to traditional home ownership and investments."
 ---
 

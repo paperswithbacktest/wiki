@@ -1,5 +1,5 @@
 ---
-title: "C# (Algo Trading)"
+title: "C#"
 description: Explore how C# empowers algorithmic trading with its robust framework and seamless integration with trading platforms. Learn about tools and frameworks to efficiently build and deploy algorithms, leveraging C# for enhanced precision and efficiency in financial markets. Discover popular platforms and open-source projects that support complex trading strategies and are adaptable to evolving market conditions.
 ---
 

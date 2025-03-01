@@ -1,5 +1,5 @@
 ---
-title: "Consumption Capital Asset Pricing Model (Algo Trading)"
+title: "Consumption Capital Asset Pricing Model"
 description: "Explore the integration of Consumption Capital Asset Pricing Model (CCAPM) in algorithmic trading to enhance investment strategies by assessing consumption risks."
 ---
 

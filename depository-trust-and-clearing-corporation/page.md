@@ -1,5 +1,5 @@
 ---
-title: "Depository Trust and Clearing Corporation (Algo Trading)"
+title: "Depository Trust and Clearing Corporation"
 description: "Explore the crucial role of clearing houses like DTCC in the era of algorithmic trading ensuring efficient trade execution and settlement while managing risks."
 ---
 

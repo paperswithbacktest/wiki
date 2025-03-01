@@ -1,5 +1,5 @@
 ---
-title: "Methods to Manage U.S. Healthcare Costs (Algo Trading)"
+title: "Methods to Manage U.S. Healthcare Costs"
 description: "Explore the innovative use of algorithmic trading principles to manage escalating U.S. healthcare costs with precision solutions and strategic resource optimization."
 ---
 

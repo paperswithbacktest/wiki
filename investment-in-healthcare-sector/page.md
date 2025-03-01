@@ -1,5 +1,5 @@
 ---
-title: "Investment in the Healthcare Sector (Algo Trading)"
+title: "Investment in the Healthcare Sector"
 description: "Explore lucrative healthcare investment opportunities driven by global health demands and tech advancements Discover the role of algorithmic trading in optimizing returns"
 ---
 

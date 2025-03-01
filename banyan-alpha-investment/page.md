@@ -1,5 +1,5 @@
 ---
-title: "Banyan Alpha Investment (Algo Trading)"
+title: "Banyan Alpha Investment"
 description: "Banyan Alpha Investment leads in algorithmic trading using quantitative models and AI, promising enhanced returns through smart, data-driven strategies."
 ---
 

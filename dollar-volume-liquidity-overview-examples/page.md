@@ -1,5 +1,5 @@
 ---
-title: "Dollar Volume Liquidity: Overview and Examples (Algo Trading)"
+title: "Dollar Volume Liquidity: Overview and Examples"
 description: "Explore dollar volume liquidity crucial for investors in algorithmic trading. Understand its role in market stability and decision-making amid evolving liquidity dynamics."
 ---
 

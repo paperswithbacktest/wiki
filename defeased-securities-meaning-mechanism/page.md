@@ -1,5 +1,5 @@
 ---
-title: "Defeased Securities: Meaning and Mechanism (Algo Trading)"
+title: "Defeased Securities: Meaning and Mechanism"
 description: "Explore the intersection of defeased securities and algorithmic trading strategies to understand their role in modern finance High efficiency and stable returns await investors"
 ---
 

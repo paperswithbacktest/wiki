@@ -1,5 +1,5 @@
 ---
-title: "Financial Greeks and Their Applications (Algo Trading)"
+title: "Financial Greeks and Their Applications"
 description: "Explore the essential role of the Greeks in algorithmic trading and risk management within financial derivatives to enhance trading strategies and market stability."
 ---
 

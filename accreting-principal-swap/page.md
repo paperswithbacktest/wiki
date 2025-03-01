@@ -1,5 +1,5 @@
 ---
-title: "Accreting Principal Swap (Algo Trading)"
+title: "Accreting Principal Swap"
 description: "Explore the role of interest rate and accreting swaps in algorithmic trading for risk management and investment optimization in modern financial markets."
 ---
 

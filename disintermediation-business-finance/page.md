@@ -1,5 +1,5 @@
 ---
-title: "Disintermediation in Business and Finance (Algo Trading)"
+title: "Disintermediation in Business and Finance"
 description: "Explore the impact of disintermediation in finance as algorithmic trading and cryptocurrencies cut costs and improve efficiency by bypassing traditional intermediaries."
 ---
 

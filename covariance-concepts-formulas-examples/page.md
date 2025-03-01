@@ -1,5 +1,5 @@
 ---
-title: "Covariance: Concepts, Formulas, and Examples (Algo Trading)"
+title: "Covariance: Concepts, Formulas, and Examples"
 description: "Explore the pivotal role of covariance in algorithmic trading with insights on concepts, formulas, and practical examples to enhance trading strategies."
 ---
 

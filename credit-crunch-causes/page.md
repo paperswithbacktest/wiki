@@ -1,5 +1,5 @@
 ---
-title: "Credit Crunch Causes (Algo Trading)"
+title: "Credit Crunch Causes"
 description: "Explore the causes of credit crunches and their impact on global markets Learn how banking systems financial crises and algorithmic trading interconnect"
 ---
 

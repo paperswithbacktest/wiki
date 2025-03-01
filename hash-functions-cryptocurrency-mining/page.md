@@ -1,5 +1,5 @@
 ---
-title: "Hash Functions and Cryptocurrency Mining (Algo Trading)"
+title: "Hash Functions and Cryptocurrency Mining"
 description: "Explore the vital role of hash functions in cryptocurrency mining and their impact on algorithmic trading Learn how these technologies drive the crypto ecosystem"
 ---
 

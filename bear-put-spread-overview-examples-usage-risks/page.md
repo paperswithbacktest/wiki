@@ -1,5 +1,5 @@
 ---
-title: "Bear Put Spread: Overview, Examples, Usage, and Risks (Algo Trading)"
+title: "Bear Put Spread: Overview, Examples, Usage, and Risks"
 description: "Explore the Bear Put Spread strategy to manage risk in options trading. Learn how to profit from market downturns with algorithmic trading optimization."
 ---
 

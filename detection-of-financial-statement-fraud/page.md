@@ -1,5 +1,5 @@
 ---
-title: "Detection of Financial Statement Fraud (Algo Trading)"
+title: "Detection of Financial Statement Fraud"
 description: "Explore the role of algorithmic trading in detecting financial statement fraud highlighting the balance between technological advancements and potential misuse."
 ---
 

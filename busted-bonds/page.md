@@ -1,5 +1,5 @@
 ---
-title: "Busted Bonds (Algo Trading)"
+title: "Busted Bonds"
 description: "Explore the impact of busted bonds and algorithmic trading on bond markets Learn about financial risks innovation and how to navigate this evolving landscape"
 ---
 

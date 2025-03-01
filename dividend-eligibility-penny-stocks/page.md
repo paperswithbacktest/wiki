@@ -1,5 +1,5 @@
 ---
-title: "Dividend Eligibility of Penny Stocks (Algo Trading)"
+title: "Dividend Eligibility of Penny Stocks"
 description: "Explore the intersection of dividend investing penny stocks and algo trading to enhance your stock market strategy and optimize investment returns."
 ---
 

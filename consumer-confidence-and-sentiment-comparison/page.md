@@ -1,5 +1,5 @@
 ---
-title: "Consumer Confidence And Sentiment Comparison (Algo Trading)"
+title: "Consumer Confidence And Sentiment Comparison"
 description: "Explore the interplay of consumer confidence and sentiment metrics with algorithmic trading strategies to improve decision-making and anticipate market trends effectively."
 ---
 

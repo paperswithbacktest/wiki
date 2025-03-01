@@ -1,5 +1,5 @@
 ---
-title: "If-Converted Method in Programming (Algo Trading)"
+title: "If-Converted Method in Programming"
 description: "Explore the if-converted method in algorithmic trading to enhance performance by accurately evaluating convertible securities' impact on financial metrics."
 ---
 

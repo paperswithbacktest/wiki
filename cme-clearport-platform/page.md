@@ -1,5 +1,5 @@
 ---
-title: "CME ClearPort Platform (Algo Trading)"
+title: "CME ClearPort Platform"
 description: "CME Group ClearPort enhances futures trading by offering a centralized clearing mechanism for OTC transactions, boosting security and optimizing trade execution."
 ---
 

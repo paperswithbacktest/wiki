@@ -1,5 +1,5 @@
 ---
-title: "Complementary Currency: Overview and Examples (Algo Trading)"
+title: "Complementary Currency: Overview and Examples"
 description: "Explore how complementary currencies like Local Exchange Systems redefine economic transactions by enhancing local trade, financial resilience, and community cohesion."
 ---
 

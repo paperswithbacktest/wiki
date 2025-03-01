@@ -1,5 +1,5 @@
 ---
-title: "Bucket: Meaning and Functionality with Examples (Algo Trading)"
+title: "Bucket: Meaning and Functionality with Examples"
 description: "Explore the diverse roles of "bucket" in algorithmic trading from ethical asset management to understanding the unethical brokerage practice of bucketing and its implications."
 ---
 

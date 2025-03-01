@@ -1,5 +1,5 @@
 ---
-title: "Examples and Issuance Reasons for Preferred Stock (Algo Trading)"
+title: "Examples and Issuance Reasons for Preferred Stock"
 description: "Explore the advantages and strategic roles of preferred stock and algorithmic trading in corporate finance Learn how these tools optimize financial performance"
 ---
 

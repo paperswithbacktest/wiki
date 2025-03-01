@@ -1,5 +1,5 @@
 ---
-title: "Criticism of the Capital Asset Pricing Model (Algo Trading)"
+title: "Criticism of the Capital Asset Pricing Model"
 description: "Explore criticisms of the Capital Asset Pricing Model in the context of algorithmic trading Discover why CAPM's assumptions may fall short in modern financial markets"
 ---
 

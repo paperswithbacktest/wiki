@@ -1,5 +1,5 @@
 ---
-title: "Krugerrand Gold Coins (Algo Trading)"
+title: "Krugerrand Gold Coins"
 description: "Explore the fusion of tradition and technology with Krugerrand gold coins and algorithmic trading. Discover how they shape modern investment strategies."
 ---
 

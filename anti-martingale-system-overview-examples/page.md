@@ -1,5 +1,5 @@
 ---
-title: "Anti-Martingale System: Overview and Examples (Algo Trading)"
+title: "Anti-Martingale System: Overview and Examples"
 description: "Explore the Anti-Martingale System a strategic betting approach that capitalizes on winning streaks and minimizes losses leveraged for both gambling and algorithmic trading."
 ---
 

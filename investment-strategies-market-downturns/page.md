@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategies During Market Downturns (Algo Trading)"
+title: "Investment Strategies During Market Downturns"
 description: "Discover effective investment strategies during market downturns by exploring diversification, algorithmic trading, and hedging techniques. Learn how to safeguard assets and capitalize on opportunities with robust financial planning and a strategic approach to volatile markets. Embrace historical insights and modern tools to navigate economic uncertainties with confidence and potential for growth."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Economics and the Study of Human Action and Behavior (Algo Trading)"
+title: "Economics and the Study of Human Action and Behavior"
 description: "Explore the intersection of human behavior and economics in algorithmic trading to enhance decision-making strategies by integrating psychological insights."
 ---
 

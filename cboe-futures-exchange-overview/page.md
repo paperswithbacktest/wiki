@@ -1,5 +1,5 @@
 ---
-title: "Cboe Futures Exchange Overview (Algo Trading)"
+title: "Cboe Futures Exchange Overview"
 description: "Explore the Cboe Futures Exchange specializing in volatility futures and algorithmic trading Learn how futures play a crucial role in financial markets"
 ---
 

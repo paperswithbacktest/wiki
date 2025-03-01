@@ -1,5 +1,5 @@
 ---
-title: "Defense ETFs Amid North Korean Tensions (Algo Trading)"
+title: "Defense ETFs Amid North Korean Tensions"
 description: "Explore the potential of Defense ETFs as investor interest grows amid North Korean tensions and increased defense spending Learn about key ETFs and strategies"
 ---
 

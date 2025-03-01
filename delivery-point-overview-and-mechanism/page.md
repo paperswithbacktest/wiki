@@ -1,5 +1,5 @@
 ---
-title: "Delivery Point: Overview and Mechanism (Algo Trading)"
+title: "Delivery Point: Overview and Mechanism"
 description: "Explore delivery point strategies and algorithmic trading to optimize supply chain logistics achieve cost efficiency real-time demand forecasting and route optimization."
 ---
 

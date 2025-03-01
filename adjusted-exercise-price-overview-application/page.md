@@ -1,5 +1,5 @@
 ---
-title: "Adjusted Exercise Price: Overview and Application (Algo Trading)"
+title: "Adjusted Exercise Price: Overview and Application"
 description: "Explore the strategic synergy of options and algorithmic trading focusing on adjusted exercise prices vital for maintaining option values during corporate events."
 ---
 

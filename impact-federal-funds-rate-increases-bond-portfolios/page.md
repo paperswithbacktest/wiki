@@ -1,5 +1,5 @@
 ---
-title: "Impact of Federal Funds Rate Increases on Bond Portfolios (Algo Trading)"
+title: "Impact of Federal Funds Rate Increases on Bond Portfolios"
 description: "Explore how federal funds rate increases impact bond portfolios and discover strategies to mitigate risks and optimize returns with algorithmic trading."
 ---
 

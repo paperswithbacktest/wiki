@@ -1,5 +1,5 @@
 ---
-title: "Impact of Size on Mutual Fund Performance (Algo Trading)"
+title: "Impact of Size on Mutual Fund Performance"
 description: "Explore how mutual fund size impacts performance and the role of algo trading in fund management plus insights for investors choosing the right fund."
 ---
 

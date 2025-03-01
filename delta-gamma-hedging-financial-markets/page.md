@@ -1,5 +1,5 @@
 ---
-title: "Delta-Gamma Hedging in Financial Markets (Algo Trading)"
+title: "Delta-Gamma Hedging in Financial Markets"
 description: "Explore the intricacies of Delta-Gamma hedging, a key algorithmic trading strategy in financial markets designed to efficiently manage option-related risks."
 ---
 

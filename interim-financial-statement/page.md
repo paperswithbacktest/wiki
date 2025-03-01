@@ -1,5 +1,5 @@
 ---
-title: "Interim Financial Statement (Algo Trading)"
+title: "Interim Financial Statement"
 description: "Explore the essentials of financial reporting, interim statements, and algorithmic trading to make informed decisions in a dynamic financial landscape."
 ---
 

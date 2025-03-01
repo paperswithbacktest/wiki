@@ -1,5 +1,5 @@
 ---
-title: "Ceteris Paribus Assumption in Causal Analysis (Algo Trading)"
+title: "Ceteris Paribus Assumption in Causal Analysis"
 description: "Understanding ceteris paribus in algorithmic trading is crucial for isolating causal effects between market variables leading to better trading strategies."
 ---
 

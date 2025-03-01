@@ -1,5 +1,5 @@
 ---
-title: "dynamic programming in trading (Algo Trading)"
+title: "dynamic programming in trading"
 description: "Explore how dynamic programming transforms algorithmic trading by optimizing strategies to maximize returns and manage risks effectively in volatile markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Fiscal Deficits in U.S. State and Local Governments (Algo Trading)"
+title: "Fiscal Deficits in U.S. State and Local Governments"
 description: "Explore fiscal challenges in U.S. state and local governments and innovative strategies like algorithmic trading for effective management and economic stability."
 ---
 

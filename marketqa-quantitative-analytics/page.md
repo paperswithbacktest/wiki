@@ -1,5 +1,5 @@
 ---
-title: "MarketQA (Quantitative Analytics) (Algo Trading)"
+title: "MarketQA (Quantitative Analytics)"
 description: Discover how MarketQA revolutionizes algorithmic trading by providing advanced quantitative analytics solutions that optimize trading strategies. Harness mathematical models, statistical analyses, and computational techniques to uncover market patterns and make data-driven decisions with enhanced efficiency and effectiveness. MarketQA empowers traders and investment firms with cutting-edge tools, improving their ability to navigate complex financial markets and boost trading performance. Explore the future of quantitative trading and the role of technology in transforming the financial industry.
 ---
 

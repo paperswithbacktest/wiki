@@ -1,5 +1,5 @@
 ---
-title: "Across the Board: Meaning, Functionality, and Examples (Algo Trading)"
+title: "Across the Board: Meaning, Functionality, and Examples"
 description: "Explore the world of algorithmic trading and understand the impact of 'across the board' market movements on securities Learn key strategies and market dynamics"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Korea Investment Corporation: Overview and Functionality (Algo Trading)"
+title: "Korea Investment Corporation: Overview and Functionality"
 description: "Explore how the Korea Investment Corporation leverages algorithmic trading and strategic asset allocation to enhance South Korea's economic growth through effective investment management."
 ---
 

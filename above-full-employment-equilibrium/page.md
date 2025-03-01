@@ -1,5 +1,5 @@
 ---
-title: "Above Full Employment Equilibrium (Algo Trading)"
+title: "Above Full Employment Equilibrium"
 description: "Explore the complex interplay between full employment and economic equilibrium, examining how algorithmic trading influences labor markets and macroeconomic stability."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Covered Call Trading Without Owning Stock (Algo Trading)"
+title: "Covered Call Trading Without Owning Stock"
 description: "Master covered call trading without owning stock by combining algorithmic insights to optimize returns and manage risks efficiently in various market conditions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Cboe SKEW Index and Its Predictive Value (Algo Trading)"
+title: "Cboe SKEW Index and Its Predictive Value"
 description: "Explore the significance and applications of the Cboe SKEW Index in algorithmic trading to understand market volatility and risk prediction. This comprehensive guide examines how the SKEW Index can enhance trading strategies by identifying potential market shifts and tail-risks, offering essential insights into investor sentiment and market dynamics. Discover the role of skewness and volatility in market forecasts and learn how to integrate this index into trading systems for improved risk management and decision-making within the ever-evolving financial landscape."
 ---
 

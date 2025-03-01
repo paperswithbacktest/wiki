@@ -1,5 +1,5 @@
 ---
-title: "Machine learning asset allocation (Algo Trading)"
+title: "Machine learning asset allocation"
 description: "Explore the impact of machine learning on asset allocation in algorithmic trading: learn how ML optimizes decision-making, uncovers patterns in large datasets, and enhances trading strategies by improving risk management and maximizing returns in a dynamic financial market."
 ---
 

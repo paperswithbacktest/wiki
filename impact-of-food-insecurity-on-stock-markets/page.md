@@ -1,5 +1,5 @@
 ---
-title: "Impact of Food Insecurity on Stock Markets (Algo Trading)"
+title: "Impact of Food Insecurity on Stock Markets"
 description: "Discover how food insecurity impacts stock markets and algorithmic trading Analyze the economic interconnections shaping global financial stability"
 ---
 

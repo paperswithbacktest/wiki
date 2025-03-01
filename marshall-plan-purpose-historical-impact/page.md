@@ -1,5 +1,5 @@
 ---
-title: "Marshall Plan: Purpose and Historical Impact (Algo Trading)"
+title: "Marshall Plan: Purpose and Historical Impact"
 description: "Explore the transformative impact of the Marshall Plan on post-WWII Europe and its influence on modern economic strategies like algorithmic trading."
 ---
 

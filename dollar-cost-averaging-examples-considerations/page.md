@@ -1,5 +1,5 @@
 ---
-title: "Dollar-Cost Averaging: Examples and Considerations (Algo Trading)"
+title: "Dollar-Cost Averaging: Examples and Considerations"
 description: "Discover how dollar-cost averaging (DCA) can mitigate market volatility by investing fixed amounts regularly, integrating with algo trading for enhanced outcomes."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Material Requirements Planning: Functionality and Evaluation (Algo Trading)"
+title: "Material Requirements Planning: Functionality and Evaluation"
 description: "Explore the dynamic integration of Material Requirements Planning with algorithmic trading to optimize supply chain and inventory management for better efficiency and competitiveness."
 ---
 

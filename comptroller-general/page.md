@@ -1,5 +1,5 @@
 ---
-title: "Comptroller General (Algo Trading)"
+title: "Comptroller General"
 description: "Explore the roles of fiscal oversight and government finance in economic governance. Learn how algorithmic trading enhances efficiency in public finance management."
 ---
 

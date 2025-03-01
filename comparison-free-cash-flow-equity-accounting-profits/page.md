@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Free Cash Flow to Equity and Accounting Profits (Algo Trading)"
+title: "Comparison of Free Cash Flow to Equity and Accounting Profits"
 description: "Unlock deeper financial insights with our comparison of Free Cash Flow to Equity and accounting profits, vital for enhancing algorithmic trading strategies."
 ---
 

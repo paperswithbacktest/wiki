@@ -1,5 +1,5 @@
 ---
-title: "Cash Management Account (Algo Trading)"
+title: "Cash Management Account"
 description: "Explore the dynamic interplay of cash management, financial management, investment accounts, and algorithmic trading to optimize financial resources and enhance investment returns. Mastering these interconnected elements is vital to maintaining liquidity, achieving long-term financial goals, and navigating the modern financial environment with confidence."
 ---
 

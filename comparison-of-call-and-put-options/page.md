@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Call and Put Options (Algo Trading)"
+title: "Comparison of Call and Put Options"
 description: "Discover the dynamics of call and put options trading and how algorithmic trading optimizes strategies for better risk management and competitive advantage."
 ---
 

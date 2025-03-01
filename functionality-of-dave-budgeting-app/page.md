@@ -1,5 +1,5 @@
 ---
-title: "Functionality of Dave Budgeting App (Algo Trading)"
+title: "Functionality of Dave Budgeting App"
 description: "Discover the Dave Budgeting App's dual capabilities, offering powerful budgeting tools and advanced algorithmic trading for comprehensive financial management."
 ---
 

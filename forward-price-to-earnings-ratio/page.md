@@ -1,5 +1,5 @@
 ---
-title: "Forward Price-to-Earnings Ratio (Algo Trading)"
+title: "Forward Price-to-Earnings Ratio"
 description: "Explore the importance of the Forward Price-to-Earnings (P/E) ratio in evaluating stock valuation and its application in algorithmic trading to optimize strategies."
 ---
 

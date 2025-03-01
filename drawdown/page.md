@@ -1,5 +1,5 @@
 ---
-title: "Drawdown (Algo Trading)"
+title: "Drawdown"
 description: Explore the concept of drawdown in algorithmic trading a crucial metric measuring the decline from a portfolio's peak to trough. This comprehensive guide investigates into its importance types and calculation methods. By understanding drawdowns traders can manage risks effectively enhance strategy durability and improve overall trading performance. Discover strategies to mitigate drawdowns and ensure sustainable algorithmic trading success while integrating this key risk metric into your trading environment for informed decision-making.
 ---
 

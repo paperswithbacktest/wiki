@@ -1,5 +1,5 @@
 ---
-title: "Food & Beverage Alternative Data (Algo Trading)"
+title: "Food & Beverage Alternative Data"
 description: Explore how food and beverage alternative data is transforming algorithmic trading by offering novel insights for market predictions. Understand the impact of consumer consumption trends and transaction data on trading strategies and financial forecasts. Discover techniques for integrating these data sources to gain a competitive edge.
 ---
 

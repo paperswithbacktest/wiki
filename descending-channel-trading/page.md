@@ -1,5 +1,5 @@
 ---
-title: "Descending Channel in Trading (Algo Trading)"
+title: "Descending Channel in Trading"
 description: "Explore the benefits of using descending channels in algorithmic trading to optimize your trading performance and enhance predictive accuracy with strategic insights."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Impact of Public-Private Partnerships on Economic Growth (Algo Trading)"
+title: "Impact of Public-Private Partnerships on Economic Growth"
 description: "Explore the impact of public-private partnerships on economic growth and how they can enhance infrastructure and technology innovations like algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Fannie Mae: Function and Operations (Algo Trading)"
+title: "Fannie Mae: Function and Operations"
 description: "Explore the pivotal role Fannie Mae plays in mortgage finance and the impact of algorithmic trading on mortgage-backed securities in the evolving housing market."
 ---
 

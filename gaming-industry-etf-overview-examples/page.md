@@ -1,5 +1,5 @@
 ---
-title: "Gaming Industry ETF: Overview and Examples (Algo Trading)"
+title: "Gaming Industry ETF: Overview and Examples"
 description: "Explore the growing world of gaming industry ETFs and how algorithmic trading can boost returns by optimizing trade execution in this dynamic sector."
 ---
 

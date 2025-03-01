@@ -1,5 +1,5 @@
 ---
-title: "Islamic Finance Practices (Algo Trading)"
+title: "Islamic Finance Practices"
 description: "Explore the fusion of Islamic finance principles with algorithmic trading. Discover Sharia-compliant banking's ethical practices within modern financial technologies."
 ---
 

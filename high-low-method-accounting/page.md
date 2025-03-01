@@ -1,5 +1,5 @@
 ---
-title: "High-Low Method in Accounting (Algo Trading)"
+title: "High-Low Method in Accounting"
 description: "Discover how the High-Low Method, a traditional accounting tool for cost estimation, integrates with algorithmic trading to optimize execution strategies."
 ---
 

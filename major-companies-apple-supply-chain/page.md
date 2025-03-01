@@ -1,5 +1,5 @@
 ---
-title: "Major Companies in Apple's Supply Chain (Algo Trading)"
+title: "Major Companies in Apple's Supply Chain"
 description: "Explore Apple's supply chain, revealing how strategic supplier partnerships and algorithmic trading drive innovation, efficiency, and market leadership."
 ---
 

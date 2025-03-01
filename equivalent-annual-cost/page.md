@@ -1,5 +1,5 @@
 ---
-title: "Equivalent Annual Cost (Algo Trading)"
+title: "Equivalent Annual Cost"
 description: "Explore the role of Equivalent Annual Cost in comparing investments by transforming costs into a uniform annual figure vital for capital budgeting and algorithm trading."
 ---
 

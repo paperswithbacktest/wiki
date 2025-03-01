@@ -1,5 +1,5 @@
 ---
-title: "Chance-constrained portfolio selection (Algo Trading)"
+title: "Chance-constrained portfolio selection"
 description: "Explore chance-constrained portfolio selection as a sophisticated technique in algorithmic trading that enhances risk management and optimizes investments using probabilistic constraints."
 ---
 

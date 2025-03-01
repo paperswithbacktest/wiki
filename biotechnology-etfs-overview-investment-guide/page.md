@@ -1,5 +1,5 @@
 ---
-title: "Biotechnology ETFs: Overview and Investment Guide (Algo Trading)"
+title: "Biotechnology ETFs: Overview and Investment Guide"
 description: "Explore biotech ETFs and algorithmic trading strategies to tap into the growth of biotechnology through diversified investments and optimize returns with technology."
 ---
 

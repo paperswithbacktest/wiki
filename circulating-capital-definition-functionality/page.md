@@ -1,5 +1,5 @@
 ---
-title: "Circulating Capital: Definition and Functionality (Algo Trading)"
+title: "Circulating Capital: Definition and Functionality"
 description: "Explore the role of circulating capital in business finance and discover how algorithmic trading optimizes financial operations for enhanced efficiency and profitability."
 ---
 

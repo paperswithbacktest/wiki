@@ -1,5 +1,5 @@
 ---
-title: "Basel III International Regulations (Algo Trading)"
+title: "Basel III International Regulations"
 description: "Discover how Basel III regulations and algorithmic trading shape today's financial landscape Ensuring stability and mitigating risks in the global banking sector"
 ---
 

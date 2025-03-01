@@ -1,5 +1,5 @@
 ---
-title: "Decision trees (Algo Trading)"
+title: "Decision trees"
 description: Explore the transformative impact of decision trees in algorithmic trading, a cornerstone tool predicting financial trends by analyzing historical data. With a tree-like model structure, decision trees support clear, logical trading decisions, crucial in the fast-paced finance world. This article investigates into their application, offering valuable insights into their functions and benefits. As the finance industry evolves, understanding decision trees in trading systems empowers traders to enhance performance by leveraging their predictive potential.
 ---
 

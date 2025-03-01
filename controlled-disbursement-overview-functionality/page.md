@@ -1,5 +1,5 @@
 ---
-title: "Controlled Disbursement: Overview and Functionality (Algo Trading)"
+title: "Controlled Disbursement: Overview and Functionality"
 description: "Discover how controlled disbursement and algorithmic trading enhance cash management for businesses, boosting liquidity and optimizing financial operations."
 ---
 

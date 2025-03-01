@@ -1,5 +1,5 @@
 ---
-title: "Components of the Nasdaq Composite Index (Algo Trading)"
+title: "Components of the Nasdaq Composite Index"
 description: "Explore the dynamic relationship between the Nasdaq Composite Index and algorithmic trading to understand their impact on technology stocks and market strategies."
 ---
 

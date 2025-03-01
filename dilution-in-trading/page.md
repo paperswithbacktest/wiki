@@ -1,5 +1,5 @@
 ---
-title: "Dilution in Trading (Algo Trading)"
+title: "Dilution in Trading"
 description: "Explore the impact of stock dilution on trading and investment, crucial for algorithmic strategies. Learn to manage dilution events for optimal returns."
 ---
 

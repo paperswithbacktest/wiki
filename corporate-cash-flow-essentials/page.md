@@ -1,5 +1,5 @@
 ---
-title: "Corporate Cash Flow Essentials (Algo Trading)"
+title: "Corporate Cash Flow Essentials"
 description: "Explore the synergy between cash flow management and algorithmic trading to enhance corporate finance strategies and market responsiveness in today's data-driven landscape."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Credit Cycles in Investing (Algo Trading)"
+title: "Credit Cycles in Investing"
 description: "Discover how credit cycles, financial factors, and algorithmic trading shape modern investing. Explore strategies for navigating dynamic market conditions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Certificate of Government Receipts (Algo Trading)"
+title: "Certificate of Government Receipts"
 description: "Explore the dynamics of modern financial markets with insights into government receipts, securities, and the transformative role of algorithmic trading for market stability."
 ---
 

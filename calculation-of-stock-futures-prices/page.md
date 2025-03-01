@@ -1,5 +1,5 @@
 ---
-title: "Calculation of Stock Futures Prices (Algo Trading)"
+title: "Calculation of Stock Futures Prices"
 description: "Explore the complex world of stock futures pricing and algorithmic trading Learn how precise calculations fuel strategies in this dynamic financial landscape"
 ---
 

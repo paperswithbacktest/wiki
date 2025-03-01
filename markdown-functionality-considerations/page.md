@@ -1,5 +1,5 @@
 ---
-title: "Markdown: Functionality and Considerations (Algo Trading)"
+title: "Markdown: Functionality and Considerations"
 description: "Leverage Markdown for clear and efficient algorithmic trading documentation Enhance readability improve collaboration and maintain seamless strategy execution"
 ---
 

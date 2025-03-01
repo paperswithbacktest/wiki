@@ -1,5 +1,5 @@
 ---
-title: "Asian Tail Theory (Algo Trading)"
+title: "Asian Tail Theory"
 description: "Explore how Asian tail probability theory and algorithmic trading converge, enhancing risk management and decision-making in modern financial markets."
 ---
 

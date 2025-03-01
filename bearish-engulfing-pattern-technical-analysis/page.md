@@ -1,5 +1,5 @@
 ---
-title: "Bearish Engulfing Pattern in Technical Analysis (Algo Trading)"
+title: "Bearish Engulfing Pattern in Technical Analysis"
 description: "Explore the Bearish Engulfing Pattern in technical analysis learn to identify this key reversal indicator and enhance your algorithmic trading strategies effectively."
 ---
 

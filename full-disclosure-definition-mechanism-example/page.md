@@ -1,5 +1,5 @@
 ---
-title: "Full Disclosure: Definition, Mechanism, and Example (Algo Trading)"
+title: "Full Disclosure: Definition, Mechanism, and Example"
 description: "Explore the critical role of financial transparency and full disclosure in algorithmic trading, impacting business trust and stakeholder decision-making in fast-paced markets."
 ---
 

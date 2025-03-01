@@ -1,5 +1,5 @@
 ---
-title: "Bond Covenants: Affirmative and Negative Examples (Algo Trading)"
+title: "Bond Covenants: Affirmative and Negative Examples"
 description: "Discover the key differences between affirmative and negative bond covenants and their impact on algorithmic trading Learn how these covenants shape financial markets"
 ---
 

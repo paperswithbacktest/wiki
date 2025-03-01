@@ -1,5 +1,5 @@
 ---
-title: "Capital Expenditure Budgeting for Companies (Algo Trading)"
+title: "Capital Expenditure Budgeting for Companies"
 description: "Explore the link between capital expenditure budgeting and algorithmic trading to enhance company growth enhance efficiency and stay competitive in evolving markets."
 ---
 

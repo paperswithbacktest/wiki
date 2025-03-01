@@ -1,5 +1,5 @@
 ---
-title: "Material Amount: Definition and Function (Algo Trading)"
+title: "Material Amount: Definition and Function"
 description: "Explore the significance of material amounts in accounting and their impact on algorithmic trading strategies to enhance trading efficiency and financial performance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "ERISA Compliance Checklist for Businesses (Algo Trading)"
+title: "ERISA Compliance Checklist for Businesses"
 description: "Discover essential steps for ERISA compliance in algo trading. Safeguard your business and employees with automated solutions for streamlined benefit management."
 ---
 

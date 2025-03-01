@@ -1,5 +1,5 @@
 ---
-title: "Economic Challenges of Germany in the 2020s (Algo Trading)"
+title: "Economic Challenges of Germany in the 2020s"
 description: "Germany, Europe's economic powerhouse, navigates key challenges in the 2020s including low wage growth, an aging population, and the impact of algorithmic trading on stability."
 ---
 

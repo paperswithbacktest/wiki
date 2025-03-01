@@ -1,5 +1,5 @@
 ---
-title: "Energy Return on Investment: Overview and Calculations (Algo Trading)"
+title: "Energy Return on Investment: Overview and Calculations"
 description: "Explore the synergy of EROI insights and algorithmic trading to enhance energy investment strategies and capitalize on market dynamics with precision and speed."
 ---
 

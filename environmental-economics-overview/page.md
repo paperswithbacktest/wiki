@@ -1,5 +1,5 @@
 ---
-title: "Environmental Economics Overview (Algo Trading)"
+title: "Environmental Economics Overview"
 description: "Explore how the convergence of sustainability, economics, and technology impacts markets and investments, with a focus on environmental economics and algorithmic trading."
 ---
 

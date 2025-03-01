@@ -1,5 +1,5 @@
 ---
-title: "Impact of Government Regulation on the Pharmaceutical Industry (Algo Trading)"
+title: "Impact of Government Regulation on the Pharmaceutical Industry"
 description: "Explore how government regulations shape the pharmaceutical industry's trajectory and impact innovation while algorithmic trading redefines investment strategies."
 ---
 

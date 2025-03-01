@@ -1,5 +1,5 @@
 ---
-title: "Impact of Announcements on Financial Markets (Algo Trading)"
+title: "Impact of Announcements on Financial Markets"
 description: "Announcements significantly impact financial markets by causing immediate and often volatile reactions. Algo trading exploits these effects, optimizing strategies and managing risk."
 ---
 

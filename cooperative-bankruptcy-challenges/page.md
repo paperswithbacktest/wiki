@@ -1,5 +1,5 @@
 ---
-title: "Cooperative Bankruptcy Challenges (Algo Trading)"
+title: "Cooperative Bankruptcy Challenges"
 description: "Explore the impact of cooperative bankruptcies and algorithmic trading on financial markets. Discover challenges and opportunities at this crucial intersection."
 ---
 

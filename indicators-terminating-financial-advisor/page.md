@@ -1,5 +1,5 @@
 ---
-title: "Indicators for Terminating a Financial Advisor (Algo Trading)"
+title: "Indicators for Terminating a Financial Advisor"
 description: "Explore key indicators for terminating a financial advisor and the impact of algorithmic trading on investment strategies. Make informed financial decisions."
 ---
 

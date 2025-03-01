@@ -1,5 +1,5 @@
 ---
-title: "Floaters and Fixed Income Bonds: Meaning, Considerations, and Types (Algo Trading)"
+title: "Floaters and Fixed Income Bonds: Meaning, Considerations, and Types"
 description: "Explore the fundamentals of floaters and fixed income bonds including their types, benefits, risks, and the impact of algorithmic trading on bond markets."
 ---
 

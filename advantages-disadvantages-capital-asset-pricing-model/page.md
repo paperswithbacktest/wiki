@@ -1,5 +1,5 @@
 ---
-title: "Advantages and Disadvantages of the Capital Asset Pricing Model (Algo Trading)"
+title: "Advantages and Disadvantages of the Capital Asset Pricing Model"
 description: "Explore the pros and cons of the Capital Asset Pricing Model in algorithmic trading Understand how CAPM impacts portfolio management and automation strategies"
 ---
 

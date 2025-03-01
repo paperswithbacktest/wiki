@@ -1,5 +1,5 @@
 ---
-title: "Influence of Government Policy on Microeconomics (Algo Trading)"
+title: "Influence of Government Policy on Microeconomics"
 description: "Explore how government policy and algorithmic trading shape microeconomics affecting decision-making for individuals and firms in market environments."
 ---
 

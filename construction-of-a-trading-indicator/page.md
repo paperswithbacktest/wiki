@@ -1,5 +1,5 @@
 ---
-title: "Construction of a Trading Indicator (Algo Trading)"
+title: "Construction of a Trading Indicator"
 description: "Discover how trading indicators are vital in crafting effective trading strategies by providing insights into market dynamics and supporting algorithmic trading decisions."
 ---
 

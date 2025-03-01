@@ -1,5 +1,5 @@
 ---
-title: "metaorders imbalance (Algo Trading)"
+title: "metaorders imbalance"
 description: "Explore how metaorder imbalances impact algorithmic trading strategies enhance market liquidity understanding and offer traders a competitive edge in financial markets"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Gold-Silver Ratio: Overview and Examples (Algo Trading)"
+title: "Gold-Silver Ratio: Overview and Examples"
 description: "Explore the gold-silver ratio's impact on algorithmic trading to enhance investment strategies while understanding market trends for effective decision making."
 ---
 

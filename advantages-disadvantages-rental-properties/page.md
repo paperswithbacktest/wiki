@@ -1,5 +1,5 @@
 ---
-title: "Advantages and Disadvantages of Rental Properties (Algo Trading)"
+title: "Advantages and Disadvantages of Rental Properties"
 description: "Explore the intersection of rental properties and algorithmic trading to optimize real estate investments through data-driven strategies for maximum returns."
 ---
 

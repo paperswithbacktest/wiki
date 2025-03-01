@@ -1,5 +1,5 @@
 ---
-title: "Informationally Efficient Market: Hypothesis and Criticism (Algo Trading)"
+title: "Informationally Efficient Market: Hypothesis and Criticism"
 description: "Explore the Efficient Market Hypothesis and its impact on algorithmic trading Discover insights into market efficiency and the challenges of consistently beating the market"
 ---
 

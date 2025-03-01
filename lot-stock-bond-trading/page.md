@@ -1,5 +1,5 @@
 ---
-title: "Lot in Stock and Bond Trading (Algo Trading)"
+title: "Lot in Stock and Bond Trading"
 description: "Explore the complexities of lot trading in stocks and bonds alongside algorithmic systems for informed decision-making in financial markets and strategy optimization."
 ---
 

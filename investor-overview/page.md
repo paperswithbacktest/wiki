@@ -1,5 +1,5 @@
 ---
-title: "Investor Overview (Algo Trading)"
+title: "Investor Overview"
 description: "Explore how financial markets, investment strategies, and technology intersect with algorithmic trading to reshape the investment landscape. Gain insights into market dynamics, types of investors, and the role of algorithms in executing trades with speed and precision for a competitive edge in modern markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Extraordinary Redemption Explained (Algo Trading)"
+title: "Extraordinary Redemption Explained"
 description: "Explore the intricate world of bond call options, extraordinary redemption provisions, and algorithmic trading Learn how they interact to optimize financial strategies."
 ---
 

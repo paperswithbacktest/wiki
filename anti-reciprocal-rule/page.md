@@ -1,5 +1,5 @@
 ---
-title: "Anti-Reciprocal Rule (Algo Trading)"
+title: "Anti-Reciprocal Rule"
 description: "Explore the impact of the anti-reciprocal rule in algorithmic trading including how it ensures ethical practices by prohibiting conflicts of interest in trading strategies."
 ---
 

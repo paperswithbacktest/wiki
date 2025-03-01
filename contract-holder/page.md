@@ -1,5 +1,5 @@
 ---
-title: "Contract Holder (Algo Trading)"
+title: "Contract Holder"
 description: "Explore the critical role of contract holders in algorithmic trading and the financial sector ensuring obligations are met and enhancing contract management efficiency."
 ---
 

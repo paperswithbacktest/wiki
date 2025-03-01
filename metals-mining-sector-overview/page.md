@@ -1,5 +1,5 @@
 ---
-title: "Metals and Mining Sector Overview (Algo Trading)"
+title: "Metals and Mining Sector Overview"
 description: "Explore the intersection of metals mining and algorithmic trading showcasing how tech innovations impact markets and drive efficiency in resource allocation."
 ---
 

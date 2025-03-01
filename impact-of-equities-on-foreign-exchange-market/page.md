@@ -1,5 +1,5 @@
 ---
-title: "Impact of Equities on the Foreign Exchange Market (Algo Trading)"
+title: "Impact of Equities on the Foreign Exchange Market"
 description: "Explore the impact of equities on FX markets and discover the growing importance of algorithmic trading Learn how algo trading enhances strategy execution and efficiency"
 ---
 

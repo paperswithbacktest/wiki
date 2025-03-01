@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic: History and Future (Algo Trading)"
+title: "Ethereum Classic: History and Future"
 description: "Explore Ethereum Classic's origins from The DAO hack, its steadfast philosophy of blockchain immutability, and its evolving role in algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Cost Depletion: Concepts, Calculation, and Examples (Algo Trading)"
+title: "Cost Depletion: Concepts, Calculation, and Examples"
 description: "Explore cost depletion in resource extraction and algorithmic trading Learn its essential role in accounting for resource consumption and market opportunity erosion"
 ---
 

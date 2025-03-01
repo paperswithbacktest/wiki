@@ -1,5 +1,5 @@
 ---
-title: "Clintonomics: Overview and Criticism (Algo Trading)"
+title: "Clintonomics: Overview and Criticism"
 description: "Explore Clintonomics a blend of fiscal strategies and free trade policies from Bill Clinton's presidency its legacy in economic growth and modern algorithmic trading."
 ---
 

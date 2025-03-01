@@ -1,5 +1,5 @@
 ---
-title: "Arguments for Privatizing Public Goods (Algo Trading)"
+title: "Arguments for Privatizing Public Goods"
 description: "Explore the impact of privatization and algorithmic trading in shaping modern economics with insights on efficiency, market integrity, and societal equity."
 ---
 

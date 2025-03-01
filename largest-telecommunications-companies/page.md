@@ -1,5 +1,5 @@
 ---
-title: "Largest Telecommunications Companies (Algo Trading)"
+title: "Largest Telecommunications Companies"
 description: "Explore how top telecommunications companies like Verizon and AT&T drive global connectivity and innovation, integrating algo trading to enhance financial operations."
 ---
 

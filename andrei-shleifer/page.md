@@ -1,5 +1,5 @@
 ---
-title: "Andrei Shleifer (Algo Trading)"
+title: "Andrei Shleifer"
 description: "Explore Andrei Shleifer's impact on financial economics focusing on his insights into algorithmic trading and behavioral finance revealing market behavior influences."
 ---
 

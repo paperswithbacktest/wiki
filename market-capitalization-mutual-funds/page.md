@@ -1,5 +1,5 @@
 ---
-title: "Market Capitalization Mutual Funds (Algo Trading)"
+title: "Market Capitalization Mutual Funds"
 description: "Explore the intersection of market cap funds and algorithmic trading within mutual funds to optimize investment strategies enhance diversification and improve efficiency."
 ---
 

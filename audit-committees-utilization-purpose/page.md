@@ -1,5 +1,5 @@
 ---
-title: "Audit Committees: Utilization and Purpose (Algo Trading)"
+title: "Audit Committees: Utilization and Purpose"
 description: "Explore the critical role of audit committees in overseeing financial practices and algorithmic trading, ensuring transparency and risk management in modern governance."
 ---
 

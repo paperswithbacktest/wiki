@@ -1,5 +1,5 @@
 ---
-title: "Advantages of Dividend Reinvestment Plans (Algo Trading)"
+title: "Advantages of Dividend Reinvestment Plans"
 description: "Explore the synergy of Dividend Reinvestment Plans and algorithmic trading for enhanced investment growth Learn how compounding and automation drive returns"
 ---
 

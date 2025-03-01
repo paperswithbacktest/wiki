@@ -1,5 +1,5 @@
 ---
-title: "Contract for Differences: Overview and Examples (Algo Trading)"
+title: "Contract for Differences: Overview and Examples"
 description: "Discover the world of Contract for Differences (CFDs) where traders can speculate on price movements of assets like stocks and commodities without owning them. Explore how algorithmic trading enhances CFD trading efficiency by enabling high-speed order execution and data analysis. Understand the mechanics, benefits, and risks of CFDs, and learn about the legalities and global market opportunities. This overview equips readers with insights into leveraging CFDs for trading success in a dynamic financial landscape."
 ---
 

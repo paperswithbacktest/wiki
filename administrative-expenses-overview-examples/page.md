@@ -1,5 +1,5 @@
 ---
-title: "Administrative Expenses: Overview and Examples (Algo Trading)"
+title: "Administrative Expenses: Overview and Examples"
 description: "Explore the significance of administrative expenses in algorithmic trading With a focus on cost management strategies learn how these expenses impact profit margins"
 ---
 

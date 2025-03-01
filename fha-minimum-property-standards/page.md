@@ -1,5 +1,5 @@
 ---
-title: "FHA Minimum Property Standards (Algo Trading)"
+title: "FHA Minimum Property Standards"
 description: "Explore the interconnected world of FHA property standards, real estate requirements, and algorithmic trading. This page investigates into how these elements influence property evaluation, purchase, and trading in today's market. Learn about the significance of FHA standards, the role of algorithmic trading in real estate, and how these factors shape financial and real estate landscapes. Understanding these links is crucial for investors, lenders, and homebuyers navigating property transactions and market trends."
 ---
 

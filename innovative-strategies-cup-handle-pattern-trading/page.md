@@ -1,5 +1,5 @@
 ---
-title: "Innovative Strategies for Cup and Handle Pattern Trading (Algo Trading)"
+title: "Innovative Strategies for Cup and Handle Pattern Trading"
 description: "Discover innovative strategies for trading using the Cup and Handle pattern within algorithmic frameworks to enhance trading performance and manage risks effectively."
 ---
 

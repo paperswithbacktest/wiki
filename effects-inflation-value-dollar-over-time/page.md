@@ -1,5 +1,5 @@
 ---
-title: "Effects of Inflation on the Value of the Dollar Over Time (Algo Trading)"
+title: "Effects of Inflation on the Value of the Dollar Over Time"
 description: "Explore the intricate relationship between inflation and dollar value over time and discover how algorithmic trading aids in understanding market dynamics and managing risks."
 ---
 

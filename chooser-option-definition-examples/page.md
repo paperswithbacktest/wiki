@@ -1,5 +1,5 @@
 ---
-title: "Chooser Option: Definition and Examples (Algo Trading)"
+title: "Chooser Option: Definition and Examples"
 description: "Explore chooser options in algorithmic trading which offer flexibility and adaptability in volatile markets. Learn how these exotic options enhance strategic investment decisions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Hard Money Loan: Uses and Pros and Cons (Algo Trading)"
+title: "Hard Money Loan: Uses and Pros and Cons"
 description: "Explore the benefits and drawbacks of hard money loans in real estate financing Discover how algorithmic trading influences investment strategies for optimal returns"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Budgeting Processes in Corporations (Algo Trading)"
+title: "Budgeting Processes in Corporations"
 description: "Explore the ties between corporate budgeting, financial planning, and algo trading. Master these for strategic financial success and sustained competitive edge."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bagging (Algo Trading)"
+title: "Bagging"
 description: Discover how bagging, a powerful ensemble technique, enhances algorithmic trading strategies by reducing risk and variance while potentially boosting returns. This method generates multiple models from random data subsets, mitigating overfitting and improving performance in volatile financial markets. Learn how bagging compares to other ensemble approaches like boosting, and gain insights into its practical applications for creating resilient trading systems.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "CQS (Algo Trading)"
+title: "CQS"
 description: "CQS leverages cutting-edge technology and sophisticated algorithms to lead the algorithmic trading industry optimizing strategies and execution for market success."
 ---
 

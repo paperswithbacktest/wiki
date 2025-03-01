@@ -1,5 +1,5 @@
 ---
-title: "Cryptography in Cryptocurrency (Algo Trading)"
+title: "Cryptography in Cryptocurrency"
 description: "Explore how cryptography, blockchain, and cryptocurrencies create a secure and efficient digital ecosystem, driving innovation in finance and beyond."
 ---
 

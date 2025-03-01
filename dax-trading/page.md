@@ -1,5 +1,5 @@
 ---
-title: "DAX Trading Explained (Algo Trading)"
+title: "DAX Trading Explained"
 description: Explore DAX trading and learn how algorithmic strategies can be effectively applied to this key German stock market index. Discover various techniques, including trend following, mean reversion, and contrarian trading, along with insights into the DAX's liquidity and volatility. Enhance your trading performance by understanding the role of the DAX as an economic indicator and leveraging advanced computational tools for data analysis and strategy implementation.
 ---
 

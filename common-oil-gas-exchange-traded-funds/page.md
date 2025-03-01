@@ -1,5 +1,5 @@
 ---
-title: "Common Oil and Gas Exchange-Traded Funds (Algo Trading)"
+title: "Common Oil and Gas Exchange-Traded Funds"
 description: "Explore the surge in oil and gas ETFs and learn how algorithmic trading enhances energy investments by optimizing efficiencies and managing risks effectively."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Equity-Linked Note Features (Algo Trading)"
+title: "Equity-Linked Note Features"
 description: "Explore the features of Equity-Linked Notes and how they combine equity and fixed-income benefits to enhance trading strategies through algorithmic platforms."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Green Economics: Overview and Criticisms (Algo Trading)"
+title: "Green Economics: Overview and Criticisms"
 description: "Explore the intricate relationship between green economics sustainable development and algorithmic trading while addressing the critiques and future potential."
 ---
 

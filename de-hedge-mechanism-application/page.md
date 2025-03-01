@@ -1,5 +1,5 @@
 ---
-title: "De-Hedge: Mechanism and Application (Algo Trading)"
+title: "De-Hedge: Mechanism and Application"
 description: "Explore the synergy of de-hedging, algorithmic trading, and risk management to optimize investment strategies and navigate volatile financial markets effectively."
 ---
 

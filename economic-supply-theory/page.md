@@ -1,5 +1,5 @@
 ---
-title: "Economic Supply Theory (Algo Trading)"
+title: "Economic Supply Theory"
 description: "Explore the synergy of market theory supply economics and algorithmic trading transforming financial strategies with technology-driven decision-making."
 ---
 

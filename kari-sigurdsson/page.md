@@ -1,5 +1,5 @@
 ---
-title: "Kari Sigurdsson (Algo Trading)"
+title: "Kari Sigurdsson"
 description: "Discover Kari Sigurdsson's journey in algorithmic trading from his Icelandic roots to leading roles at BlackRock AQR and Schroders with a focus on finance and technology."
 ---
 

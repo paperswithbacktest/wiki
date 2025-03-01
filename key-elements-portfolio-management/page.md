@@ -1,5 +1,5 @@
 ---
-title: "Key Elements of Portfolio Management (Algo Trading)"
+title: "Key Elements of Portfolio Management"
 description: "Unlock effective wealth management with insights into investment strategies portfolio management and algorithmic trading to achieve superior financial outcomes."
 ---
 

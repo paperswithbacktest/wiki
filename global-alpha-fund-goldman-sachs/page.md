@@ -1,5 +1,5 @@
 ---
-title: "Global Alpha fund (Goldman Sachs) (Algo Trading)"
+title: "Global Alpha fund (Goldman Sachs)"
 description: Explore the rise and fall of Goldman Sachs' Global Alpha Fund, a leader in using quantitative strategies and algorithmic trading to optimize hedge fund performance. Despite early successes and significant returns, the fund faced challenges including market volatility, model overfitting, and intense competition, leading to its closure in 2011. This page investigates into the complexities and lessons learned from the fund's innovative yet risky strategies, offering insights into the dynamic world of algorithmic trading and hedge fund management.
 ---
 

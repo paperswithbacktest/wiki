@@ -1,5 +1,5 @@
 ---
-title: "Maturity by Maturity Bidding (Algo Trading)"
+title: "Maturity by Maturity Bidding"
 description: "Explore the growing relevance of maturity bidding in investment strategies and algorithmic trading Discover how these tools optimize financial outcomes for investors"
 ---
 

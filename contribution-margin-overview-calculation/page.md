@@ -1,5 +1,5 @@
 ---
-title: "Contribution Margin: Overview and Calculation (Algo Trading)"
+title: "Contribution Margin: Overview and Calculation"
 description: "Discover the importance of contribution margin in cost accounting and its role in algorithmic trading to enhance profitability analysis and strategy refinement."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Liability Matching: Explanation and Mechanism (Algo Trading)"
+title: "Liability Matching: Explanation and Mechanism"
 description: "Discover how liability matching and algorithmic trading work together to enhance investment strategies ensuring financial commitments are met while optimizing returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Crossover Investor: Overview and Mechanism (Algo Trading)"
+title: "Crossover Investor: Overview and Mechanism"
 description: "Discover how crossover investor strategies and algorithmic trading are reshaping financial markets by bridging public and private investments and optimizing trades."
 ---
 

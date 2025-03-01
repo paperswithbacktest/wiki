@@ -1,5 +1,5 @@
 ---
-title: "Cash Dividends and Stock Dividends (Algo Trading)"
+title: "Cash Dividends and Stock Dividends"
 description: "Explore the key differences between cash and stock dividends in algorithmic trading. Understand their impact on strategies and optimize your investment returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Margaret Thatcher: Political Biography (Algo Trading)"
+title: "Margaret Thatcher: Political Biography"
 description: "Explore Margaret Thatcher's transformative economic policies and their impact on modern algorithmic trading highlighting her enduring legacy in global finance."
 ---
 

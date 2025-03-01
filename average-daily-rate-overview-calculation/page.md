@@ -1,5 +1,5 @@
 ---
-title: "Average Daily Rate: Overview and Calculation (Algo Trading)"
+title: "Average Daily Rate: Overview and Calculation"
 description: "Discover the significance of Average Daily Rate (ADR) in the hotel industry from calculation to strategies for optimization using algorithmic trading concepts."
 ---
 

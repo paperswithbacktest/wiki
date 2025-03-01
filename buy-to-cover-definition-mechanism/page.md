@@ -1,5 +1,5 @@
 ---
-title: "Buy to Cover: Definition and Mechanism (Algo Trading)"
+title: "Buy to Cover: Definition and Mechanism"
 description: "Discover the essentials of buy to cover in stock trading. Unravel its mechanisms and risks while exploring advanced algorithmic strategies."
 ---
 

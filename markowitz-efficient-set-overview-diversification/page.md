@@ -1,5 +1,5 @@
 ---
-title: "Markowitz Efficient Set: Overview and Diversification (Algo Trading)"
+title: "Markowitz Efficient Set: Overview and Diversification"
 description: "Explore the Markowitz Efficient Set to understand optimal portfolio diversification and balance risk and return, essential for strategic algo trading."
 ---
 

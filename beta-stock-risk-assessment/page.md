@@ -1,5 +1,5 @@
 ---
-title: "Beta and Stock Risk Assessment (Algo Trading)"
+title: "Beta and Stock Risk Assessment"
 description: "Understand stock risk through beta in algorithmic trading to enhance investment strategies Improve returns with insights into market volatility and risk management tools"
 ---
 

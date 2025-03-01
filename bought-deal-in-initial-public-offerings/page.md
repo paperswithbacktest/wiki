@@ -1,5 +1,5 @@
 ---
-title: "Bought Deal in Initial Public Offerings (Algo Trading)"
+title: "Bought Deal in Initial Public Offerings"
 description: "Explore how bought deals and algorithmic trading are transforming IPO processes by ensuring speed and certainty while minimizing financing risks for issuers."
 ---
 

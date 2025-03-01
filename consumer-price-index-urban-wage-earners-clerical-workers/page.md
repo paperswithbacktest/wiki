@@ -1,5 +1,5 @@
 ---
-title: "Consumer Price Index for Urban Wage Earners and Clerical Workers (Algo Trading)"
+title: "Consumer Price Index for Urban Wage Earners and Clerical Workers"
 description: "Discover how the Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W) integrates with algorithmic trading to refine financial strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Book Value (Algo Trading)"
+title: "Analysis of Book Value"
 description: "Explore the integration of book value analysis with algorithmic trading to enhance investment strategies by assessing stock valuation through P/B ratios."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "John B. Taylor: American Economist (Algo Trading)"
+title: "John B. Taylor: American Economist"
 description: "Explore the impact of John B. Taylor's economic theories on algorithmic trading Learn how the Taylor Rule guides trading strategies and stabilizes markets"
 ---
 

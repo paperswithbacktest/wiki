@@ -1,5 +1,5 @@
 ---
-title: "Catch-Up Effect and Theory of Economic Convergence (Algo Trading)"
+title: "Catch-Up Effect and Theory of Economic Convergence"
 description: "Explore the catch-up effect and economic convergence in global markets with insights into algorithmic trading's role in enhancing growth and equity."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Economy of the United Kingdom (Algo Trading)"
+title: "Economy of the United Kingdom"
 description: "Explore the dynamic UK economy and its pioneering role in algorithmic trading Discover how tech advancements impact financial markets and economic resilience"
 ---
 

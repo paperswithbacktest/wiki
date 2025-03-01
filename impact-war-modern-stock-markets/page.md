@@ -1,5 +1,5 @@
 ---
-title: "Impact of War on Modern Stock Markets (Algo Trading)"
+title: "Impact of War on Modern Stock Markets"
 description: "Explore the impact of war on stock markets and algorithmic trading offering insights for investors on volatility trends and potential opportunities amidst conflict."
 ---
 

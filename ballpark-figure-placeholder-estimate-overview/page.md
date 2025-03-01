@@ -1,5 +1,5 @@
 ---
-title: "Ballpark Figure: A Placeholder Estimate Overview (Algo Trading)"
+title: "Ballpark Figure: A Placeholder Estimate Overview"
 description: "Explore the role of ballpark figures in algorithmic trading crucial for quick decision-making when precise data is unavailable to shape strategies and responses."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "HUD-1 Form Usage and Purpose (Algo Trading)"
+title: "HUD-1 Form Usage and Purpose"
 description: "The HUD-1 Form details fees in real estate transactions and is key for transparency. While mostly replaced by the Closing Disclosure it remains essential for some deals."
 ---
 

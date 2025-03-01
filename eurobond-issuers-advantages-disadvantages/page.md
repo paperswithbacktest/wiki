@@ -1,5 +1,5 @@
 ---
-title: "Eurobond: Issuers, Advantages, and Disadvantages (Algo Trading)"
+title: "Eurobond: Issuers, Advantages, and Disadvantages"
 description: "Explore Eurobonds and gain insights into their issuance, advantages, and the role of algorithmic trading in modern financial markets for optimized investments."
 ---
 

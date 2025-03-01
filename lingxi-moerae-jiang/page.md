@@ -1,5 +1,5 @@
 ---
-title: "Lingxi (Moerae) Jiang (Algo Trading)"
+title: "Lingxi (Moerae) Jiang"
 description: "Explore Lingxi Jiang's journey in quantitative risk analysis and algorithmic trading where academic excellence meets financial innovation and industry impact."
 ---
 

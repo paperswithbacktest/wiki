@@ -1,5 +1,5 @@
 ---
-title: "Impact of the 2008 Financial Crisis on the Oil and Gas Sector (Algo Trading)"
+title: "Impact of the 2008 Financial Crisis on the Oil and Gas Sector"
 description: "Explore how the 2008 financial crisis impacted the oil and gas sector, focusing on oil price drops and the rise of algorithmic trading during market volatility."
 ---
 

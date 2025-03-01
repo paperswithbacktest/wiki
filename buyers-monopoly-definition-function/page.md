@@ -1,5 +1,5 @@
 ---
-title: "Buyer's Monopoly: Definition and Function (Algo Trading)"
+title: "Buyer's Monopoly: Definition and Function"
 description: "Discover how a buyer's monopoly or monopsony impacts market dynamics and algorithmic trading influencing pricing strategies and regulatory roles."
 ---
 

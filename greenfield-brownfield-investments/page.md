@@ -1,5 +1,5 @@
 ---
-title: "Greenfield and Brownfield Investments (Algo Trading)"
+title: "Greenfield and Brownfield Investments"
 description: "Explore the intricacies of greenfield and brownfield investments in algo trading Discover how FDIs drive global business expansion and capitalize on market opportunities"
 ---
 

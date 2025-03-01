@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategies During Economic Recessions (Algo Trading)"
+title: "Investment Strategies During Economic Recessions"
 description: "Explore investment strategies during economic recessions with a focus on algorithmic trading Discover how to navigate market volatility and seize opportunities"
 ---
 

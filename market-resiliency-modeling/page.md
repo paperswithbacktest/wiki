@@ -1,5 +1,5 @@
 ---
-title: "Market resiliency modeling (Algo Trading)"
+title: "Market resiliency modeling"
 description: "Explore how market resiliency modeling in algorithmic trading ensures stability and efficiency in financial markets by mitigating risks and adapting to volatility."
 ---
 

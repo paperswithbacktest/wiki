@@ -1,5 +1,5 @@
 ---
-title: "Fundamentals of Forex Trading (Algo Trading)"
+title: "Fundamentals of Forex Trading"
 description: "Discover the essentials of forex and algorithmic trading Learn how the vast forex market functions and explore algorithm-driven strategies for trading success"
 ---
 

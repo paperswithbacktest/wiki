@@ -1,5 +1,5 @@
 ---
-title: "IOTA (MIOTA): Overview, Functionality, and Concerns (Algo Trading)"
+title: "IOTA (MIOTA): Overview, Functionality, and Concerns"
 description: "Discover how IOTA, utilizing the innovative Tangle network, revolutionizes IoT with zero transaction fees and scalability. This article explores IOTA's unique framework, its integration with algo trading, and the potential impact on financial markets."
 ---
 

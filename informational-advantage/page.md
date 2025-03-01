@@ -1,5 +1,5 @@
 ---
-title: "Informational advantage (Algo Trading)"
+title: "Informational advantage"
 description: "Explore how the rise of algorithmic trading reshapes financial markets by leveraging informational advantage to enhance speed efficiency and decision-making precision."
 ---
 

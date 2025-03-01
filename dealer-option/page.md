@@ -1,5 +1,5 @@
 ---
-title: "Dealer Option (Algo Trading)"
+title: "Dealer Option"
 description: "Discover the dynamic world of options trading with insights into dealer roles and the transformative impact of algorithmic strategies on market efficiency."
 ---
 

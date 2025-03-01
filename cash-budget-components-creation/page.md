@@ -1,5 +1,5 @@
 ---
-title: "Cash Budget Components and Creation (Algo Trading)"
+title: "Cash Budget Components and Creation"
 description: "Explore key financial strategies including cash budgeting and algorithmic trading Learn how these methods support financial stability growth and informed decision-making"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Expanded Accounting Equation (Algo Trading)"
+title: "Expanded Accounting Equation"
 description: "Explore the vital link between the accounting equation and algorithmic trading Discover how financial reports enhance strategic trading decisions"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Effective Gross Income and Calculation Formula (Algo Trading)"
+title: "Effective Gross Income and Calculation Formula"
 description: "Explore how Effective Gross Income and algorithmic trading converge to enhance real estate investment strategies by providing precise data analysis and planning."
 ---
 

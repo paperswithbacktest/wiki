@@ -1,5 +1,5 @@
 ---
-title: "Expropriation: Purposes and Compensation Concerns (Algo Trading)"
+title: "Expropriation: Purposes and Compensation Concerns"
 description: "Explore the complexities of expropriation and compensation in the digital age. Understand how property rights, government regulations, and algorithmic trading intersect, challenging traditional notions of ownership. With advancements in technology, expropriation now includes digital assets, raising important questions about compensation frameworks. Stay informed on these dynamics to navigate the evolving economic landscape, where property values and rights are redefined by technological and regulatory changes."
 ---
 

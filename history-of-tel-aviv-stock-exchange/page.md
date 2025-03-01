@@ -1,5 +1,5 @@
 ---
-title: "History of the Tel Aviv Stock Exchange (Algo Trading)"
+title: "History of the Tel Aviv Stock Exchange"
 description: "Explore the rich history of the Tel Aviv Stock Exchange from its origins to its role in global finance focusing on innovations and algorithmic trading."
 ---
 

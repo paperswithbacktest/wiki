@@ -1,5 +1,5 @@
 ---
-title: "Han Wang (Algo Trading)"
+title: "Han Wang"
 description: "Han Wang is a leader in algorithmic trading excelling in quantitative finance managing portfolios with innovative strategies as a VP at Acadian Asset."
 ---
 

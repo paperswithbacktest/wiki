@@ -1,5 +1,5 @@
 ---
-title: "Days Working Capital (Algo Trading)"
+title: "Days Working Capital"
 description: "Explore how financial metrics, working capital, and algorithmic trading optimize business finance, enhance liquidity, and strengthen market strategies."
 ---
 

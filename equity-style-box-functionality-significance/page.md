@@ -1,5 +1,5 @@
 ---
-title: "Equity Style Box: Functionality and Significance (Algo Trading)"
+title: "Equity Style Box: Functionality and Significance"
 description: "Explore the fusion of equity style box framework and algorithmic trading to optimize investment strategies, enhance returns, and achieve strategic asset allocation."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Ending Market Value: Calculation and Example (Algo Trading)"
+title: "Ending Market Value: Calculation and Example"
 description: "Explore the significance of Ending Market Value and its role in algo trading for precise investment analysis Understand how EMV guides your financial decisions."
 ---
 

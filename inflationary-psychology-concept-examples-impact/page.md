@@ -1,5 +1,5 @@
 ---
-title: "Inflationary Psychology: Concept, Examples, and Impact (Algo Trading)"
+title: "Inflationary Psychology: Concept, Examples, and Impact"
 description: "Explore how inflationary psychology affects economic dynamics by shaping consumer behavior and expectations Discover the role of algorithmic trading in this context"
 ---
 

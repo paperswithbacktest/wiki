@@ -1,5 +1,5 @@
 ---
-title: "Cable in Foreign Exchange: Meaning and Historical Context (Algo Trading)"
+title: "Cable in Foreign Exchange: Meaning and Historical Context"
 description: "Explore the historical context and significance of 'cable' in forex the GBP/USD pair and how forex algorithmic trading has transformed currency trading."
 ---
 

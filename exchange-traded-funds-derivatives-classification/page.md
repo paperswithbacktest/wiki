@@ -1,5 +1,5 @@
 ---
-title: "Exchange-Traded Funds and Derivatives Classification (Algo Trading)"
+title: "Exchange-Traded Funds and Derivatives Classification"
 description: "Explore the transformative impact of ETFs derivatives and algorithmic trading on investment strategies enhancing returns and optimizing risk management."
 ---
 

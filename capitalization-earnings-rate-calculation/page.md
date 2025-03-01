@@ -1,5 +1,5 @@
 ---
-title: "Capitalization of Earnings and Rate Calculation (Algo Trading)"
+title: "Capitalization of Earnings and Rate Calculation"
 description: "Explore the capitalization of earnings method to assess a company's valuation and profitability by understanding future earnings and calculating the capitalization rate."
 ---
 

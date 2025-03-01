@@ -1,5 +1,5 @@
 ---
-title: "Gross Processing Margin: Overview and Functionality (Algo Trading)"
+title: "Gross Processing Margin: Overview and Functionality"
 description: "Explore the strategic role of Gross Processing Margin in commodity trading Understand its impact on profitability and market dynamics using algorithmic techniques"
 ---
 

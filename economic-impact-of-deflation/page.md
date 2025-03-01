@@ -1,5 +1,5 @@
 ---
-title: "Economic Impact of Deflation (Algo Trading)"
+title: "Economic Impact of Deflation"
 description: "Explore the profound economic impact of deflation and its implications for algorithmic trading Learn how deflation influences market dynamics and economic policies"
 ---
 

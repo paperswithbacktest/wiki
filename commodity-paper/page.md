@@ -1,5 +1,5 @@
 ---
-title: "Commodity Paper (Algo Trading)"
+title: "Commodity Paper"
 description: "Explore the vital role of commodities and algorithmic trading in today's financial markets to optimize investment strategies and enhance risk management."
 ---
 

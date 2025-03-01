@@ -1,5 +1,5 @@
 ---
-title: "Difference Between Revenue and Sales (Algo Trading)"
+title: "Difference Between Revenue and Sales"
 description: "Gain insights into how revenue and sales differ and their impact on algorithmic trading as vital metrics driving quantitative strategies in financial markets."
 ---
 

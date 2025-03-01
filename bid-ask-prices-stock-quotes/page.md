@@ -1,5 +1,5 @@
 ---
-title: "Bid and Ask Prices in Stock Quotes (Algo Trading)"
+title: "Bid and Ask Prices in Stock Quotes"
 description: "Understand the dynamics of bid and ask prices in stock trading and how they influence market transactions. Discover the pivotal role stock quotes play in providing real-time data and learn about the fundamentals of algorithmic trading. This guide highlights the essential trading components and strategies that enhance decision-making in the evolving financial markets."
 ---
 

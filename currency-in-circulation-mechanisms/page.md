@@ -1,5 +1,5 @@
 ---
-title: "Currency in Circulation and Its Mechanisms (Algo Trading)"
+title: "Currency in Circulation and Its Mechanisms"
 description: "Explore the role of currency circulation and algorithmic trading in shaping financial strategies Learn how these elements influence economic stability and market decisions"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Binary Options Trading Outside the United States (Algo Trading)"
+title: "Binary Options Trading Outside the United States"
 description: "Explore binary options trading outside the US. Learn about risk management, algorithmic strategies, and potential benefits of these financial derivatives."
 ---
 

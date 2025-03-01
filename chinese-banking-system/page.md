@@ -1,5 +1,5 @@
 ---
-title: "Chinese Banking System (Algo Trading)"
+title: "Chinese Banking System"
 description: "Explore the rapidly evolving Chinese banking system and the impact of algorithmic trading as they reshape China's financial landscape with new opportunities."
 ---
 

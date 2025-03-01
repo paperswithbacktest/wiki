@@ -1,5 +1,5 @@
 ---
-title: "Crypto Arbitrage Explained (Algo Trading)"
+title: "Crypto Arbitrage Explained"
 description: Learn about cryptocurrency arbitrage in algorithmic trading where traders leverage price differences across multiple exchanges to gain profits quickly. Explore strategies that use algorithms to ensure swift and precise trade executions while understanding the market dynamics, risks, and opportunities involved for maximizing returns in the volatile crypto market.
 ---
 

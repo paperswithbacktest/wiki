@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Bond Ratings: AA+ vs. Aa1 (Algo Trading)"
+title: "Comparison of Bond Ratings: AA+ vs. Aa1"
 description: "Explore the nuances of S&P's AA+ and Moody's Aa1 bond ratings in algo trading. Dive into creditworthiness, strategy insights, and trading efficiency."
 ---
 

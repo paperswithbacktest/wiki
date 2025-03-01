@@ -1,5 +1,5 @@
 ---
-title: "Joel Greenberg Feinberg (Algo Trading)"
+title: "Joel Greenberg Feinberg"
 description: "Explore Joel Greenberg Feinberg's impactful career in algorithmic trading and asset management, highlighting his innovative contributions to financial technology."
 ---
 

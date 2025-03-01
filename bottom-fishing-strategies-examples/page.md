@@ -1,5 +1,5 @@
 ---
-title: "Bottom Fishing Strategies and Examples (Algo Trading)"
+title: "Bottom Fishing Strategies and Examples"
 description: "Discover how bottom fishing strategies in stock trading utilize algorithmic tools to identify undervalued stocks poised for recovery and optimize investment returns."
 ---
 

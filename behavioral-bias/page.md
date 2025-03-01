@@ -1,5 +1,5 @@
 ---
-title: "Behavioral bias (Algo Trading)"
+title: "Behavioral bias"
 description: Explore the intricacies of behavioral biases in algorithmic trading and their influence on trading performance. This article investigates into how cognitive biases like overconfidence and loss aversion can unintentionally affect the decision-making of automated trading systems. Learn about strategies to identify and mitigate these biases to enhance trading outcomes and improve efficiency in financial markets. Gain insight into making more rational and effective decisions by addressing human influences in algorithm design and execution.
 ---
 

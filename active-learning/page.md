@@ -1,5 +1,5 @@
 ---
-title: "Active Learning (Algo Trading)"
+title: "Active Learning"
 description: "Discover how active learning enhances algorithmic trading by optimizing model efficiency and adaptability, crucial for navigating dynamic financial markets effectively."
 ---
 

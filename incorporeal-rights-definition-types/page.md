@@ -1,5 +1,5 @@
 ---
-title: "Incorporeal Rights: Definition and Types (Algo Trading)"
+title: "Incorporeal Rights: Definition and Types"
 description: "Explore the significance of incorporeal rights in the economy, focusing on copyrights and patents, and their implications for algorithmic trading and property rights."
 ---
 

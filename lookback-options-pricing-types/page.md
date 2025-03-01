@@ -1,5 +1,5 @@
 ---
-title: "Lookback Options: Pricing and Types (Algo Trading)"
+title: "Lookback Options: Pricing and Types"
 description: "Discover the pricing and advantages of lookback options in algorithmic trading Explore how these exotic derivatives offer optimal pricing and hedging strategies"
 ---
 

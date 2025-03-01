@@ -1,5 +1,5 @@
 ---
-title: "Horizontal Analysis and Vertical Analysis (Algo Trading)"
+title: "Horizontal Analysis and Vertical Analysis"
 description: "Discover the importance of horizontal and vertical analysis in algo trading. Learn how these financial statement analysis techniques enhance trading strategies."
 ---
 

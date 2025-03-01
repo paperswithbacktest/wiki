@@ -1,5 +1,5 @@
 ---
-title: "Capital Controls (Algo Trading)"
+title: "Capital Controls"
 description: "Explore the intricate dynamics between capital controls and algorithmic trading in today's financial landscape. Understand how government-imposed measures regulate global capital flows while technological advancements in trading impact market volatility. This insightful analysis sheds light on the balance between economic stability and market freedom, emphasizing the necessity for adaptive policies in sustaining economic growth amidst rapid technological changes."
 ---
 

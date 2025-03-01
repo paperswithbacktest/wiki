@@ -1,5 +1,5 @@
 ---
-title: "Manufacturing: Types, Examples, and Economic Indicators (Algo Trading)"
+title: "Manufacturing: Types, Examples, and Economic Indicators"
 description: "Explore how types of manufacturing processes and economic indicators interact with algorithmic trading for strategic financial advantages in today's markets."
 ---
 

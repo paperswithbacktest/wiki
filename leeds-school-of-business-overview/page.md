@@ -1,5 +1,5 @@
 ---
-title: "Leeds School of Business Overview (Algo Trading)"
+title: "Leeds School of Business Overview"
 description: "Explore how the Leeds School of Business at the University of Colorado Boulder prepares students for careers in algorithmic trading through courses and practical insights."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Gross Profit and EBITDA (Algo Trading)"
+title: "Comparison of Gross Profit and EBITDA"
 description: "Discover the key financial metrics of EBITDA and Gross Profit and their impact on algorithmic trading strategies to boost your financial decision-making."
 ---
 

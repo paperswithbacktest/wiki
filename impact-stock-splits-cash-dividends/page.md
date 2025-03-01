@@ -1,5 +1,5 @@
 ---
-title: "Impact of Stock Splits on Cash Dividends (Algo Trading)"
+title: "Impact of Stock Splits on Cash Dividends"
 description: "Explore how stock splits and cash dividends influence shareholder value and algorithmic trading strategies, impacting investor perceptions and market dynamics."
 ---
 

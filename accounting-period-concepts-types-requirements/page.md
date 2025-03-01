@@ -1,5 +1,5 @@
 ---
-title: "Accounting Period: Concepts, Types, and Requirements (Algo Trading)"
+title: "Accounting Period: Concepts, Types, and Requirements"
 description: "Explore key concepts of accounting periods and cycles, essential for accurate financial reporting and decision-making in today's complex trading landscape."
 ---
 

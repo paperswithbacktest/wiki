@@ -1,5 +1,5 @@
 ---
-title: "Internal Rate of Return Overview (Algo Trading)"
+title: "Internal Rate of Return Overview"
 description: "Explore how the Internal Rate of Return is essential for evaluating investment profitability and its integration in algorithmic trading strategies to optimize financial decisions."
 ---
 

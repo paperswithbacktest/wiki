@@ -1,5 +1,5 @@
 ---
-title: "Inclusion of Labor and Overhead in Gross Profit Calculation (Algo Trading)"
+title: "Inclusion of Labor and Overhead in Gross Profit Calculation"
 description: "Discover how labor costs and overhead expenses impact gross profit in algorithmic trading Explore strategies for optimizing financial components to boost profitability."
 ---
 

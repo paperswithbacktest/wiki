@@ -1,5 +1,5 @@
 ---
-title: "Developing and Managing a Forex Trading Strategy (Algo Trading)"
+title: "Developing and Managing a Forex Trading Strategy"
 description: "Explore the world of forex trading strategies and algorithmic trading techniques to enhance your trading skills and succeed in the dynamic forex market."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Dividend Clientele Theory (Algo Trading)"
+title: "Dividend Clientele Theory"
 description: "Explore the dynamic interplay of dividend clientele theory, finance theory, investment strategies, and algorithmic trading to enhance trading efficiency and returns."
 ---
 

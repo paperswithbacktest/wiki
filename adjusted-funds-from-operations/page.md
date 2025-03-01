@@ -1,5 +1,5 @@
 ---
-title: "Adjusted Funds From Operations (Algo Trading)"
+title: "Adjusted Funds From Operations"
 description: "Discover the integration of Adjusted Funds from Operations with algorithmic trading in real estate investment to enhance decision-making and maximize returns."
 ---
 

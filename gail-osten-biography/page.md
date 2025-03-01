@@ -1,5 +1,5 @@
 ---
-title: "Gail Osten Biography (Algo Trading)"
+title: "Gail Osten Biography"
 description: "Explore Gail Osten's impactful career in financial services. Known for her strategic media roles at CBOE, she helped shape the industry's communications."
 ---
 

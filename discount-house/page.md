@@ -1,5 +1,5 @@
 ---
-title: "Discount House (Algo Trading)"
+title: "Discount House"
 description: "Explore the evolving roles of discount houses and algorithmic trading in finance Discover how these elements reshape banking through technology and history"
 ---
 

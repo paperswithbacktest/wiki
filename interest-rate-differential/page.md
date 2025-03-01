@@ -1,5 +1,5 @@
 ---
-title: "Interest Rate Differential (Algo Trading)"
+title: "Interest Rate Differential"
 description: "Explore how differential interest rates affect algorithmic trading by simplifying complex financial concepts for traders looking to leverage these strategies for profit maximization. Learn how understanding interest rate differentials is crucial for informed trading in both forex and bond markets, and how it informs strategy decisions through rapid algo execution."
 ---
 

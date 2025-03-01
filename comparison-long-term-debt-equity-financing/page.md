@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Long-Term Debt and Equity Financing (Algo Trading)"
+title: "Comparison of Long-Term Debt and Equity Financing"
 description: "Explore the benefits and challenges of long-term debt and equity financing for companies. Discover how algo trading impacts corporate finance strategies."
 ---
 

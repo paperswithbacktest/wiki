@@ -1,5 +1,5 @@
 ---
-title: "Cash Book and Its Functionality with Examples (Algo Trading)"
+title: "Cash Book and Its Functionality with Examples"
 description: "Explore the functionality of cash books in financial accounting and their role in algorithmic trading. Learn how accurate cash management enhances trading efficiency."
 ---
 

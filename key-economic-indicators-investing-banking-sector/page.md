@@ -1,5 +1,5 @@
 ---
-title: "Key Economic Indicators for Investing in the Banking Sector (Algo Trading)"
+title: "Key Economic Indicators for Investing in the Banking Sector"
 description: "Discover critical economic indicators for investing in the banking sector via algorithmic trading Learn how interest rates inflation and GDP impact profitability and strategies"
 ---
 

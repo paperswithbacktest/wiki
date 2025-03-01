@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Stock Screeners (Algo Trading)"
+title: "Introduction to Stock Screeners"
 description: "Enhance your investment strategies with stock screeners and algorithmic trading tools Streamline decision-making and uncover profitable opportunities effortlessly"
 ---
 

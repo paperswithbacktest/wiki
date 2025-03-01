@@ -1,5 +1,5 @@
 ---
-title: "Market Value of Equity and Calculation Methods (Algo Trading)"
+title: "Market Value of Equity and Calculation Methods"
 description: "Explore how market value of equity and algorithmic trading impact modern investment strategies, providing insights into equity valuation and financial metrics."
 ---
 

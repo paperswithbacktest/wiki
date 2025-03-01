@@ -1,5 +1,5 @@
 ---
-title: "Chande Momentum Oscillator (Algo Trading)"
+title: "Chande Momentum Oscillator"
 description: "Explore the Chande Momentum Oscillator and its unique approach to measuring market momentum Perfect for traders looking to enhance their technical analysis skills"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of ETFs and Mutual Funds for Young Investors (Algo Trading)"
+title: "Comparison of ETFs and Mutual Funds for Young Investors"
 description: "Compare ETFs and mutual funds for young investors exploring investment options. Learn about their benefits, challenges, cost efficiency, and trading flexibility."
 ---
 

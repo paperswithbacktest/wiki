@@ -1,5 +1,5 @@
 ---
-title: "Diaspora Bond: Concept, Advantages, and Disadvantages (Algo Trading)"
+title: "Diaspora Bond: Concept, Advantages, and Disadvantages"
 description: "Explore the concept of diaspora bonds their advantages and disadvantages and the role of algorithmic trading in enhancing investment strategies for emerging markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Basket Options: Characteristics and Examples (Algo Trading)"
+title: "Basket Options: Characteristics and Examples"
 description: "Explore the characteristics and benefits of basket options in algorithmic trading Discover how these unique financial derivatives enhance investment strategies"
 ---
 

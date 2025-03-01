@@ -1,5 +1,5 @@
 ---
-title: "Common Errors in Trading Low-Cost Options (Algo Trading)"
+title: "Common Errors in Trading Low-Cost Options"
 description: "Discover common pitfalls in low-cost options trading and how to avoid them to optimize returns and manage risk effectively using algorithmic strategies."
 ---
 

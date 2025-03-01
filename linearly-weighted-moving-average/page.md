@@ -1,5 +1,5 @@
 ---
-title: "Linearly Weighted Moving Average (Algo Trading)"
+title: "Linearly Weighted Moving Average"
 description: "Discover the power of the Linearly Weighted Moving Average in algo trading to enhance precision and response speed in trend identification and market analysis."
 ---
 

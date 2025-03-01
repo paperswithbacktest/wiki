@@ -1,5 +1,5 @@
 ---
-title: "External Economies vs. External Diseconomies (Algo Trading)"
+title: "External Economies vs. External Diseconomies"
 description: "Explore the impact of external economies and diseconomies in algo trading. Understand how these factors shape market dynamics and influence trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Master Notes: Overview and Examples (Algo Trading)"
+title: "Master Notes: Overview and Examples"
 description: "Explore the benefits of master notes and algorithmic trading in finance Learn how these instruments enhance diversification risk management and investment returns"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Axe in Securities Trading (Algo Trading)"
+title: "Axe in Securities Trading"
 description: "Explore the importance of understanding the term 'axe' in securities trading and its implications on market strategies and dynamics, especially in algorithmic trading."
 ---
 

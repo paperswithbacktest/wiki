@@ -1,5 +1,5 @@
 ---
-title: "Investor Considerations for 5G Technology (Algo Trading)"
+title: "Investor Considerations for 5G Technology"
 description: "Explore investment opportunities with 5G technology and algorithmic trading Learn how ultra-fast connectivity is reshaping trading strategies and market growth"
 ---
 

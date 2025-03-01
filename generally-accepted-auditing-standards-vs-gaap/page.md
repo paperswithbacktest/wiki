@@ -1,5 +1,5 @@
 ---
-title: "Generally Accepted Auditing Standards vs GAAP (Algo Trading)"
+title: "Generally Accepted Auditing Standards vs GAAP"
 description: "Explore how GAAS and GAAP standards provide a reliable framework crucial for accurate financial reporting and effective algorithmic trading strategies."
 ---
 

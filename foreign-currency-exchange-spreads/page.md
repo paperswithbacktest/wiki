@@ -1,5 +1,5 @@
 ---
-title: "Foreign Currency Exchange Spreads (Algo Trading)"
+title: "Foreign Currency Exchange Spreads"
 description: "Explore the dynamics of the forex market and understand the critical role of exchange spreads and algorithmic trading. Learn how exchange spreads impact transaction costs and liquidity while navigating currency exchange mechanisms. Discover how algorithmic trading enhances trade efficiency and consistency by reducing human errors in decision-making. This insight into forex market intricacies can guide traders in optimizing their strategies in the world's most liquid market."
 ---
 

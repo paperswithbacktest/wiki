@@ -1,5 +1,5 @@
 ---
-title: "Execution Venue Selection (Algo Trading)"
+title: "Execution Venue Selection"
 description: "Optimize your algorithmic trading by selecting the right execution venue considering factors like liquidity, costs, technology, and regulatory compliance."
 ---
 

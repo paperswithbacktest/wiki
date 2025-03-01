@@ -1,5 +1,5 @@
 ---
-title: "Chaebol Structures in South Korea (Algo Trading)"
+title: "Chaebol Structures in South Korea"
 description: "Explore how South Korea's chaebols, such as Samsung and Hyundai, shape the economy and adopt algorithmic trading to stay competitive in global markets."
 ---
 

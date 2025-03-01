@@ -1,5 +1,5 @@
 ---
-title: "Factors Motivating Pfizer Restructuring (Algo Trading)"
+title: "Factors Motivating Pfizer Restructuring"
 description: "Pfizer's restructuring strategy focuses on innovation and efficiency to address market challenges optimize operations and align with evolving pharmaceutical demands."
 ---
 

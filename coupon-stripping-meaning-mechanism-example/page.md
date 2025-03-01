@@ -1,5 +1,5 @@
 ---
-title: "Coupon Stripping: Meaning, Mechanism, and Example (Algo Trading)"
+title: "Coupon Stripping: Meaning, Mechanism, and Example"
 description: "Discover coupon stripping as a financial technique that separates bond interest and principal into tradable securities Learn its benefits and applications here"
 ---
 

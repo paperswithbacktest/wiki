@@ -1,5 +1,5 @@
 ---
-title: "Chris Szmajda (Algo Trading)"
+title: "Chris Szmajda"
 description: "Explore the career of Chris Szmajda in algorithmic trading delving into his expertise in software engineering and leadership at Akuna Capital and beyond."
 ---
 

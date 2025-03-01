@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Direct Costs and Variable Costs (Algo Trading)"
+title: "Differences Between Direct Costs and Variable Costs"
 description: "Explore the detailed differences between variable costs and direct costs in algo trading and learn how understanding these can optimize financial decision-making."
 ---
 

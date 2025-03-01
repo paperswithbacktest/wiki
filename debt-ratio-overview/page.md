@@ -1,5 +1,5 @@
 ---
-title: "Debt Ratio Overview (Algo Trading)"
+title: "Debt Ratio Overview"
 description: "Explore the vital role of debt and leverage ratios in financial analysis and algorithmic trading. Understand how these metrics assess a company's financial health by measuring asset financing through debt and the balance between debt and equity. Learn how algorithmic trading uses these insights to optimize capital deployment and manage risk, ensuring better investment decisions and robust trading strategies. Analyze industry variations and their impact on interpreting these ratios for a clearer evaluation of financial stability and risk in various sectors."
 ---
 

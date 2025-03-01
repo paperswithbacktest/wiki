@@ -1,5 +1,5 @@
 ---
-title: "Clean Shares: Definition and Mechanism (Algo Trading)"
+title: "Clean Shares: Definition and Mechanism"
 description: "Explore 'clean shares' and 'algorithmic trading' to enhance your investing skills with insights on transparency, cost-efficiency, and automated trading strategies."
 ---
 

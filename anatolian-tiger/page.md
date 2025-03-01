@@ -1,5 +1,5 @@
 ---
-title: "Anatolian Tiger (Algo Trading)"
+title: "Anatolian Tiger"
 description: "Explore Turkey's dynamic economic landscape highlighting the Anatolian Tigers' industrial vigor and advancements in algorithmic trading shaping its growth."
 ---
 

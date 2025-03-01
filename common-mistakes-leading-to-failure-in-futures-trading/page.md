@@ -1,5 +1,5 @@
 ---
-title: "Common Mistakes Leading to Failure in Futures Trading (Algo Trading)"
+title: "Common Mistakes Leading to Failure in Futures Trading"
 description: "Discover the common pitfalls in futures and algorithmic trading that can lead to costly failures Learn how to refine your strategies and improve trading success"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Marcel Nutz (Algo Trading)"
+title: "Marcel Nutz"
 description: "Discover Marcel Nutz's impact on algorithmic trading with a robust blend of academia and finance Explore his career from ETH Zurich to Columbia University."
 ---
 

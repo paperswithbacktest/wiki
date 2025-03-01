@@ -1,5 +1,5 @@
 ---
-title: "Job Market: Overview and Analysis (Algo Trading)"
+title: "Job Market: Overview and Analysis"
 description: "Explore the evolving job market with a focus on algorithmic trading as technology and globalization redefine employment trends and create new opportunities."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Fourier Analysis: Meaning and Function (Algo Trading)"
+title: "Fourier Analysis: Meaning and Function"
 description: "Explore how Fourier analysis unveils patterns in complex signals for algorithmic trading, optimizing strategies by transforming time-domain signals into frequency insights."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Kimchi Premium in Cryptocurrency Trading (Algo Trading)"
+title: "Kimchi Premium in Cryptocurrency Trading"
 description: "Explore the Kimchi Premium in crypto trading where South Korean markets exhibit price discrepancies Learn about arbitrage and the role of algorithmic trading"
 ---
 

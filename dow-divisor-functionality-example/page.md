@@ -1,5 +1,5 @@
 ---
-title: "Dow Divisor: Functionality and Example (Algo Trading)"
+title: "Dow Divisor: Functionality and Example"
 description: "Explore how the Dow Divisor maintains the Dow Jones Industrial Average's integrity amid corporate actions, aiding algorithmic trading and investment strategies."
 ---
 

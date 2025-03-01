@@ -1,5 +1,5 @@
 ---
-title: "How to Raise Capital for My Trading and How Much Will I Make? (Algo Trading)"
+title: "How to Raise Capital for My Trading and How Much Will I Make?"
 description: Discover the essential strategies for raising capital in algorithmic trading and maximizing profits. Explore the fundamentals of algo trading, understand the vital role of adequate funding, and learn about traditional and alternative funding opportunities. This comprehensive guide provides insights into building a sustainable trading approach and features success stories to inspire both novice and experienced traders. Equip yourself with the knowledge to secure resources needed to thrive in the dynamic world of algorithmic trading.
 ---
 

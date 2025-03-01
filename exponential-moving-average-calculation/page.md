@@ -1,5 +1,5 @@
 ---
-title: "Exponential Moving Average Calculation (Algo Trading)"
+title: "Exponential Moving Average Calculation"
 description: "This page provides an in-depth exploration of the Exponential Moving Average (EMA) and its significance in algorithmic trading. Learn about its calculation method and practical applications within trading strategies, designed to enhance traders' analytical tools for better market trend analysis. Discover how the EMA offers a more responsive measure to price changes, helping traders navigate complex financial markets with improved accuracy and confidence."
 ---
 

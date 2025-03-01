@@ -1,5 +1,5 @@
 ---
-title: "Effects on Shareholders' Equity in Chapter 11 Bankruptcy (Algo Trading)"
+title: "Effects on Shareholders' Equity in Chapter 11 Bankruptcy"
 description: "Chapter 11 bankruptcy leads to significant risks for shareholders, often devaluing their equity as creditors and bondholders are prioritized. Understanding the impact on corporate finance and the role of algorithmic trading is crucial in navigating this financial challenge."
 ---
 

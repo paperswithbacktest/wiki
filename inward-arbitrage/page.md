@@ -1,5 +1,5 @@
 ---
-title: "Inward Arbitrage (Algo Trading)"
+title: "Inward Arbitrage"
 description: "Explore the strategic dynamics of inward arbitrage in currency trading where algorithmic trading enhances accuracy and speed in leveraging interest rate disparities."
 ---
 

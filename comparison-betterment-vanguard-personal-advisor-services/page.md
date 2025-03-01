@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Betterment and Vanguard Personal Advisor Services (Algo Trading)"
+title: "Comparison of Betterment and Vanguard Personal Advisor Services"
 description: "Compare Betterment and Vanguard Personal Advisor Services for robo-advisory investment options Understand their unique features fees and approaches to financial management"
 ---
 

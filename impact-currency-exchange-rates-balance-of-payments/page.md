@@ -1,5 +1,5 @@
 ---
-title: "Impact of Currency Exchange Rates on Balance of Payments (Algo Trading)"
+title: "Impact of Currency Exchange Rates on Balance of Payments"
 description: "Explore the complex interactions of currency exchange rates and balance of payments in global finance. Discover how algo trading aids in managing these dynamics."
 ---
 

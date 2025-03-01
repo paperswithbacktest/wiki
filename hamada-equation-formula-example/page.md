@@ -1,5 +1,5 @@
 ---
-title: "Hamada Equation: Formula and Example (Algo Trading)"
+title: "Hamada Equation: Formula and Example"
 description: "Explore how the Hamada Equation explains the impact of leverage on risk and asset pricing in finance Discover its role in optimizing capital structure for trading."
 ---
 

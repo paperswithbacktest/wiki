@@ -1,5 +1,5 @@
 ---
-title: "Estimated Recovery Value (Algo Trading)"
+title: "Estimated Recovery Value"
 description: "Explore the integration of estimated recovery value and algorithmic trading in financial strategies to enhance investment valuation and risk management skills."
 ---
 

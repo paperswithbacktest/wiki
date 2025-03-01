@@ -1,5 +1,5 @@
 ---
-title: "CCP Global Overview (Algo Trading)"
+title: "CCP Global Overview"
 description: "Discover how CCP Global, formerly CCP12, enhances global financial stability by fostering cooperation among central counterparties with a commitment to market efficiency."
 ---
 

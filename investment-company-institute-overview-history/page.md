@@ -1,5 +1,5 @@
 ---
-title: "Investment Company Institute: Overview and History (Algo Trading)"
+title: "Investment Company Institute: Overview and History"
 description: "Explore the Investment Company Institute's role in advocating for ethical standards and investor protection while navigating technological advancements like algo trading."
 ---
 

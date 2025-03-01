@@ -1,5 +1,5 @@
 ---
-title: "J.C. Penney Bankruptcy Status and Comparison with Kohl's (Algo Trading)"
+title: "J.C. Penney Bankruptcy Status and Comparison with Kohl's"
 description: "Explore the financial challenges and recovery efforts of Kohl's and J.C. Penney amid industry upheaval and the impact of algorithmic trading on retail stability."
 ---
 

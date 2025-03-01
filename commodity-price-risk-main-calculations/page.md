@@ -1,5 +1,5 @@
 ---
-title: "Commodity Price Risk and Its Main Calculations (Algo Trading)"
+title: "Commodity Price Risk and Its Main Calculations"
 description: "Discover how algorithmic trading transforms commodity risk management by utilizing advanced models and data analytics to mitigate price fluctuations effectively."
 ---
 

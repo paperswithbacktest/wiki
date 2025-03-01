@@ -1,5 +1,5 @@
 ---
-title: "Methods of Measuring Economic Growth in the United States (Algo Trading)"
+title: "Methods of Measuring Economic Growth in the United States"
 description: "Explore the methods of measuring economic growth in the United States focusing on GDP. Understand how algorithmic trading and modern financial practices impact economic assessment."
 ---
 

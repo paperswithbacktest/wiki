@@ -1,5 +1,5 @@
 ---
-title: "Cancel Former Order (CFO): Functionality and Example (Algo Trading)"
+title: "Cancel Former Order (CFO): Functionality and Example"
 description: "Explore the Cancel Former Order process vital for efficient algo trading showcasing its role in swift order management for optimized trading strategies."
 ---
 

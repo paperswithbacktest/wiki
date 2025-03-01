@@ -1,5 +1,5 @@
 ---
-title: "Government of Singapore Investment Corporation (Algo Trading)"
+title: "Government of Singapore Investment Corporation"
 description: "Discover how the Government of Singapore Investment Corporation leverages algorithmic trading to optimize investment efficiency and secure financial stability."
 ---
 

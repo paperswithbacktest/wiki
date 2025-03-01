@@ -1,5 +1,5 @@
 ---
-title: "ISM Manufacturing Index (Algo Trading)"
+title: "ISM Manufacturing Index"
 description: "Explore the significance of the ISM Manufacturing Index in algorithmic trading with insights into manufacturing trends and economic health that drive data-driven decisions."
 ---
 

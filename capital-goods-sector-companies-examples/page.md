@@ -1,5 +1,5 @@
 ---
-title: "Capital Goods Sector: Companies and Examples (Algo Trading)"
+title: "Capital Goods Sector: Companies and Examples"
 description: "Explore the role of the capital goods sector in global economies and its intersection with algorithmic trading strategies influencing market dynamics."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Beneish Model and M-Score Calculation (Algo Trading)"
+title: "Beneish Model and M-Score Calculation"
 description: "Discover the Beneish M-Score a vital financial tool for detecting earnings manipulation through scrutinized financial ratios, crucial in investment analysis."
 ---
 

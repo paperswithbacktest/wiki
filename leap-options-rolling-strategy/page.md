@@ -1,5 +1,5 @@
 ---
-title: "LEAP Options Rolling Strategy (Algo Trading)"
+title: "LEAP Options Rolling Strategy"
 description: "Explore the synergy of LEAP options and algorithmic trading for long-term investment strategies Discover how to leverage positions with capital efficiency."
 ---
 

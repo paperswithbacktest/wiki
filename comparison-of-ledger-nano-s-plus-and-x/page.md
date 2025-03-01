@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Ledger Nano S Plus and X (Algo Trading)"
+title: "Comparison of Ledger Nano S Plus and X"
 description: "Compare Ledger Nano S Plus and Ledger Nano X to find the best security, usability, and price features for cryptocurrency storage and algo trading needs."
 ---
 

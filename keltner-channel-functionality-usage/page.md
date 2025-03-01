@@ -1,5 +1,5 @@
 ---
-title: "Keltner Channel: Functionality and Usage (Algo Trading)"
+title: "Keltner Channel: Functionality and Usage"
 description: "Explore the powerful functionality of Keltner Channels in algorithmic trading as a volatility-based indicator that adapts to market conditions. Discover how this lesser-known tool provides valuable insights into market trends, identifies potential reversals, and anticipates breakout points. Understand the calculation methods and compare Keltner Channels with other popular indicators to enhance decision-making and trading outcomes. Uncover the benefits of integrating Keltner Channels into your trading strategies for improved results."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Full-Service Brokerage and DIY Investing (Algo Trading)"
+title: "Comparison of Full-Service Brokerage and DIY Investing"
 description: "Discover the key differences between DIY investing and full-service brokerage along with the innovative world of algorithmic trading. This comprehensive guide explores the advantages and challenges of each strategy, helping you understand which approach suits your investment style, financial goals, and risk tolerance. Whether you prefer the control of managing your own portfolio, the expertise of professional advisors, or leveraging technology for speedy trades, this article will aid your decision-making process by examining these popular investment pathways."
 ---
 

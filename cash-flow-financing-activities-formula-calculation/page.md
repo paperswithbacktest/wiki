@@ -1,5 +1,5 @@
 ---
-title: "Cash Flow from Financing Activities: Formula and Calculation (Algo Trading)"
+title: "Cash Flow from Financing Activities: Formula and Calculation"
 description: "Master cash flow from financing activities and discover how algorithmic trading optimizes financial strategies and enhances decision-making in dynamic markets."
 ---
 

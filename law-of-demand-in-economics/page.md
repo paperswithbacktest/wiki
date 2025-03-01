@@ -1,5 +1,5 @@
 ---
-title: "Law of Demand in Economics (Algo Trading)"
+title: "Law of Demand in Economics"
 description: "Explore the impact of the law of demand on economic theory and algorithmic trading Discover how price changes influence consumer behavior and trading strategies"
 ---
 

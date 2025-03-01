@@ -1,5 +1,5 @@
 ---
-title: "Government and Nonprofit Financial Management (Algo Trading)"
+title: "Government and Nonprofit Financial Management"
 description: "Explore the complexities of government and nonprofit financial management, including budgeting, accountability, and the impact of algorithmic trading on public funds."
 ---
 

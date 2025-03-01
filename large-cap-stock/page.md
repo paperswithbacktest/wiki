@@ -1,5 +1,5 @@
 ---
-title: "Large Cap Stock (Algo Trading)"
+title: "Large Cap Stock"
 description: "Explore the allure of large-cap stocks for investors seeking stability and steady returns enhanced by algorithmic trading's precision and efficiency."
 ---
 

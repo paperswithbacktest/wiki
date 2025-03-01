@@ -1,5 +1,5 @@
 ---
-title: "Day Trading With Margin (Algo Trading)"
+title: "Day Trading With Margin"
 description: "Discover the power of day trading with margin and algorithmic trading. Learn how these strategies can maximize opportunities while managing associated risks."
 ---
 

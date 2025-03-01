@@ -1,5 +1,5 @@
 ---
-title: "Interpreting Market Psychology Using Technical Indicators (Algo Trading)"
+title: "Interpreting Market Psychology Using Technical Indicators"
 description: "Explore the relationship between market psychology, technical indicators, and algorithmic trading to develop strategies that leverage emotional market dynamics."
 ---
 

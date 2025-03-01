@@ -1,5 +1,5 @@
 ---
-title: "Investor Profiles in Utility Stocks (Algo Trading)"
+title: "Investor Profiles in Utility Stocks"
 description: "Explore how combining utility stocks with algorithmic trading can enhance portfolio performance plus discover investment strategies for income and growth."
 ---
 

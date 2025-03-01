@@ -1,5 +1,5 @@
 ---
-title: "Directional Trading: Overview and Types (Algo Trading)"
+title: "Directional Trading: Overview and Types"
 description: "Explore directional trading and algo trading integration to boost earnings by predicting market trends with algorithmic precision for optimized trading strategies."
 ---
 

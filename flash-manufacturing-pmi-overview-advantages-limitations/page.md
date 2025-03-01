@@ -1,5 +1,5 @@
 ---
-title: "Flash Manufacturing PMI: Overview, Advantages, and Limitations (Algo Trading)"
+title: "Flash Manufacturing PMI: Overview, Advantages, and Limitations"
 description: "Explore the significance of the Flash Manufacturing PMI in trading and investment This timely economic indicator aids strategy development in algorithmic trading"
 ---
 

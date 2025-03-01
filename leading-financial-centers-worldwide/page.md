@@ -1,5 +1,5 @@
 ---
-title: "Leading Financial Centers Worldwide (Algo Trading)"
+title: "Leading Financial Centers Worldwide"
 description: "Discover how leading financial hubs like New York, London, and Hong Kong shape global finance and the evolving role of algorithmic trading in these centers."
 ---
 

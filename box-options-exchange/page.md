@@ -1,5 +1,5 @@
 ---
-title: "Box Options Exchange (Algo Trading)"
+title: "Box Options Exchange"
 description: "Explore the dynamic world of options trading with BOX Exchange and algorithmic trading Discover the synergy between these elements to enhance your trading strategies"
 ---
 

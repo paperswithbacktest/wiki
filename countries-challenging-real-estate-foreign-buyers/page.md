@@ -1,5 +1,5 @@
 ---
-title: "Countries with Challenging Real Estate Markets for Foreign Buyers (Algo Trading)"
+title: "Countries with Challenging Real Estate Markets for Foreign Buyers"
 description: "Explore the complexities of international real estate investing with insights into how algorithmic trading is transforming decision-making for foreign buyers."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Hell or High Water Clause (Algo Trading)"
+title: "Hell or High Water Clause"
 description: "Explore the intricacies of financial agreements and contract law in algorithmic trading Understanding key legal terms is crucial for navigating modern finance."
 ---
 

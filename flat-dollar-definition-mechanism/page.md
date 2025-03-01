@@ -1,5 +1,5 @@
 ---
-title: "Flat Dollar: Definition and Mechanism (Algo Trading)"
+title: "Flat Dollar: Definition and Mechanism"
 description: "Explore the flat dollar concept in algorithmic trading to understand its implications on currency mechanisms and global trade. Discover stability benefits."
 ---
 

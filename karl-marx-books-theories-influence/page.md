@@ -1,5 +1,5 @@
 ---
-title: "Karl Marx: Books, Theories, and Influence (Algo Trading)"
+title: "Karl Marx: Books, Theories, and Influence"
 description: "Explore the intersection of Karl Marx's theories and algorithmic trading in finance, analyzing the socio-economic implications, power dynamics, and potential inequalities."
 ---
 

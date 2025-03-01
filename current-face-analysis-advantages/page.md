@@ -1,5 +1,5 @@
 ---
-title: "Current Face: Analysis and Advantages (Algo Trading)"
+title: "Current Face: Analysis and Advantages"
 description: "Discover the powerful advantages of algorithmic trading with a focus on high throughput and analyzing 'current face' metrics within mortgage-backed securities."
 ---
 

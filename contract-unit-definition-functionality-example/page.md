@@ -1,5 +1,5 @@
 ---
-title: "Contract Unit: Definition and Functionality with Example (Algo Trading)"
+title: "Contract Unit: Definition and Functionality with Example"
 description: "Explore how contract units standardize trading in derivatives markets and how algorithmic trading enhances efficiency and precision in modern financial transactions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Assumptions in T-Test Analysis (Algo Trading)"
+title: "Assumptions in T-Test Analysis"
 description: "Explore the critical assumptions necessary for the valid application of t-tests in algorithmic trading ensuring robust statistical analysis for strategic decisions."
 ---
 

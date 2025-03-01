@@ -1,5 +1,5 @@
 ---
-title: "Mathematics Derivative (Algo Trading)"
+title: "Mathematics Derivative"
 description: "Discover how calculus and derivatives form the foundation of algorithmic trading strategies by analyzing market trends, predicting price fluctuations, and optimizing trade execution. Explore their application in calculating financial derivatives and the importance of mathematical modeling in identifying trading opportunities."
 ---
 

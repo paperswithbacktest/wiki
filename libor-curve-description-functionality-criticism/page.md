@@ -1,5 +1,5 @@
 ---
-title: "LIBOR Curve: Description, Functionality, and Criticism (Algo Trading)"
+title: "LIBOR Curve: Description, Functionality, and Criticism"
 description: "Explore the LIBOR curve's description function and criticism in the context of algorithmic trading Understand its historical significance and adaptation challenges"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Best Trading Strategies Books Explained (Algo Trading)"
+title: "Best Trading Strategies Books Explained"
 description: Explore the dynamic world of algorithmic trading through our comprehensive guide to the best trading strategies books. Gain insights into essential topics such as technical analysis, trading psychology, risk management, and algorithmic implementation. Whether you're a beginner or seasoned trader, these curated recommendations offer valuable knowledge to enhance your proficiency and success in algo trading. Unlock the strategic and psychological frameworks needed to excel and adapt in this rapidly evolving financial landscape. Equip yourself with tools and methodologies to construct effective trading strategies and achieve your trading goals.
 ---
 

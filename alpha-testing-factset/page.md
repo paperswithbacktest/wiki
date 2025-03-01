@@ -1,5 +1,5 @@
 ---
-title: "Alpha Testing (FactSet) (Algo Trading)"
+title: "Alpha Testing (FactSet)"
 description: Discover how alpha testing in algorithmic trading can enhance strategy development and risk management by utilizing historical data for evaluation. Learn about the role of FactSet’s Alpha Testing platform in improving trading performance with robust backtesting capabilities and comprehensive data integration. Gain insights into optimizing trading strategies through informed decision-making and data-driven analytics to succeed in today's financial markets.
 ---
 

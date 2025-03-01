@@ -1,5 +1,5 @@
 ---
-title: "Comparison of The Motley Fool and TheStreet (Algo Trading)"
+title: "Comparison of The Motley Fool and TheStreet"
 description: "Explore the strengths and differences between The Motley Fool and TheStreet to determine which investment advisory service best aligns with your financial goals."
 ---
 

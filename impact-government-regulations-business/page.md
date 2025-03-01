@@ -1,5 +1,5 @@
 ---
-title: "Impact of Government Regulations on Business (Algo Trading)"
+title: "Impact of Government Regulations on Business"
 description: "Explore how government regulations impact businesses in algorithmic trading, balancing innovation and market integrity in today's fast-paced financial landscape."
 ---
 

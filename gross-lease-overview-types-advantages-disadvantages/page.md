@@ -1,5 +1,5 @@
 ---
-title: "Gross Lease: Overview, Types, Advantages, and Disadvantages (Algo Trading)"
+title: "Gross Lease: Overview, Types, Advantages, and Disadvantages"
 description: "Explore the benefits and drawbacks of gross leases in commercial real estate Discover how these lease agreements influence financial outcomes and cost allocation."
 ---
 

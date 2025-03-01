@@ -1,5 +1,5 @@
 ---
-title: "History of U.S. Recessions: Causes and Effects (Algo Trading)"
+title: "History of U.S. Recessions: Causes and Effects"
 description: "Explore the causes and consequences of U.S. recessions, highlighting how historical downturns have shaped economic policies and the role of algorithmic trading."
 ---
 

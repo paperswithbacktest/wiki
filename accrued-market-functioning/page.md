@@ -1,5 +1,5 @@
 ---
-title: "Accrued Market and Its Functioning (Algo Trading)"
+title: "Accrued Market and Its Functioning"
 description: "Explore the synergy between finance and algorithmic trading in accrued markets Understanding these dynamics aids in grasping modern financial market operations"
 ---
 

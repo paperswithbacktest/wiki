@@ -1,5 +1,5 @@
 ---
-title: "Kagi Chart: Functionality and Example (Algo Trading)"
+title: "Kagi Chart: Functionality and Example"
 description: "Explore the innovative Kagi chart for algo trading Learn how this Japanese charting method filters market noise highlights trends and aids decision-making"
 ---
 

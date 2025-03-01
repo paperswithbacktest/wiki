@@ -1,5 +1,5 @@
 ---
-title: "League Table: Definition, Function, and Illustration (Algo Trading)"
+title: "League Table: Definition, Function, and Illustration"
 description: "Discover the importance of ranking systems in finance and sports, focusing on league tables and algorithmic trading to enhance performance analysis."
 ---
 

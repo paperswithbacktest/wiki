@@ -1,5 +1,5 @@
 ---
-title: "International Investment Strategies (Algo Trading)"
+title: "International Investment Strategies"
 description: "Explore international investment strategies with insights on algorithmic trading and diversification to enhance portfolio growth while managing associated risks."
 ---
 

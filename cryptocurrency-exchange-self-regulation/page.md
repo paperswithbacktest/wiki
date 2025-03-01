@@ -1,5 +1,5 @@
 ---
-title: "Cryptocurrency Exchange Self-Regulation (Algo Trading)"
+title: "Cryptocurrency Exchange Self-Regulation"
 description: "Explore the impact of self-regulation and algorithmic trading on cryptocurrency exchanges promoting transparency and ethical practices in rapidly growing markets."
 ---
 

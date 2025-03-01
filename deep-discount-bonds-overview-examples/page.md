@@ -1,5 +1,5 @@
 ---
-title: "Deep-Discount Bonds: Overview and Examples (Algo Trading)"
+title: "Deep-Discount Bonds: Overview and Examples"
 description: "Explore deep-discount bonds and algorithmic trading in bond markets to uncover investment opportunities and risks, maximizing yields with cutting-edge technology."
 ---
 

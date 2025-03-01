@@ -1,5 +1,5 @@
 ---
-title: "Institutional Investment Overview (Algo Trading)"
+title: "Institutional Investment Overview"
 description: "Explore the world of institutional investment and algorithmic trading where large entities like pension and hedge funds shape financial markets with strategic influence."
 ---
 

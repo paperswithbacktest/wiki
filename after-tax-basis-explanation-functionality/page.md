@@ -1,5 +1,5 @@
 ---
-title: "After-Tax Basis: Explanation and Functionality (Algo Trading)"
+title: "After-Tax Basis: Explanation and Functionality"
 description: "Understand the importance of after-tax investment accounting in algorithmic trading to optimize returns by incorporating tax calculations, strategies, and regulations."
 ---
 

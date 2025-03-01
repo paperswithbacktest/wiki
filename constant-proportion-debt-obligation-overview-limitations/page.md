@@ -1,5 +1,5 @@
 ---
-title: "Constant Proportion Debt Obligation: Overview and Limitations (Algo Trading)"
+title: "Constant Proportion Debt Obligation: Overview and Limitations"
 description: "Constant Proportion Debt Obligations utilize complex algorithms to offer high yields with investment-grade risk but face limitations revealed during downturns."
 ---
 

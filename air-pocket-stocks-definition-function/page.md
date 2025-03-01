@@ -1,5 +1,5 @@
 ---
-title: "Air Pocket Stocks: Definition and Function (Algo Trading)"
+title: "Air Pocket Stocks: Definition and Function"
 description: "Explore air pocket stocks and algorithmic trading Discover how sudden market shifts interact with automated trades to create opportunities and challenges for investors"
 ---
 

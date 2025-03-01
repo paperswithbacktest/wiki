@@ -1,5 +1,5 @@
 ---
-title: "Leading Food-Producing Countries (Algo Trading)"
+title: "Leading Food-Producing Countries"
 description: "Explore the role of algorithmic trading in enhancing global food production through the contributions of leading countries like China, India, the US, and Brazil."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "FIFO and LIFO Inventory Valuation Methods (Algo Trading)"
+title: "FIFO and LIFO Inventory Valuation Methods"
 description: "Explore the impact of FIFO and LIFO inventory valuation on algo trading strategies, understanding financial reporting, tax planning, and trading optimization."
 ---
 

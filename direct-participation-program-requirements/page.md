@@ -1,5 +1,5 @@
 ---
-title: "Direct Participation Program Requirements (Algo Trading)"
+title: "Direct Participation Program Requirements"
 description: "Explore the requirements for Direct Participation Programs in Algo Trading Learn about financial thresholds, benefits, and risks to optimize your investment strategy"
 ---
 

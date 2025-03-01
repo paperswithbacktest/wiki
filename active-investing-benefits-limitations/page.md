@@ -1,5 +1,5 @@
 ---
-title: "Active Investing: Benefits and Limitations (Algo Trading)"
+title: "Active Investing: Benefits and Limitations"
 description: "Explore the benefits and limitations of active investing and algorithmic trading to make informed decisions and optimize your financial market strategies effectively."
 ---
 

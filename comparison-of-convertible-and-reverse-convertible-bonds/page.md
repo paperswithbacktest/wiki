@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Convertible and Reverse Convertible Bonds (Algo Trading)"
+title: "Comparison of Convertible and Reverse Convertible Bonds"
 description: "Discover the intricacies of convertible and reverse convertible bonds alongside the impact of algorithmic trading in bond markets, vital for modern investors."
 ---
 

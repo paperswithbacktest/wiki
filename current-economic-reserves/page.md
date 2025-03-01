@@ -1,5 +1,5 @@
 ---
-title: "Current Economic Reserves (Algo Trading)"
+title: "Current Economic Reserves"
 description: "Discover how economic reserves, financial assets, and algorithmic trading shape modern financial markets Boost your understanding of key investment dynamics"
 ---
 

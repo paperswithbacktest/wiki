@@ -1,5 +1,5 @@
 ---
-title: "Level 3 Assets Compared to Level 1 and Level 2 Assets (Algo Trading)"
+title: "Level 3 Assets Compared to Level 1 and Level 2 Assets"
 description: "Explore the complexities of Level 3 assets compared to Level 1 and 2 with insights into algorithmic trading strategies enhancing asset management efficiency."
 ---
 

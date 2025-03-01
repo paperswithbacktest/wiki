@@ -1,5 +1,5 @@
 ---
-title: "Certificate of Participation: Uses and Taxation (Algo Trading)"
+title: "Certificate of Participation: Uses and Taxation"
 description: "Explore the world of Certificates of Participation in finance. Learn about their structure, tax implications, investment strategies, and role in algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Fijian Dollar Overview (Algo Trading)"
+title: "Fijian Dollar Overview"
 description: "Explore the significance of the Fijian Dollar (FJD) in global finance, its role in Fiji's economy, and the impact of algorithmic trading for enhanced efficiency."
 ---
 

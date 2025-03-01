@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Bond Face Value and Market Price (Algo Trading)"
+title: "Comparison of Bond Face Value and Market Price"
 description: "Compare bond face value and market price dynamics Learn how interest rates credit ratings and maturity impact bond valuation in algorithmic trading environments"
 ---
 

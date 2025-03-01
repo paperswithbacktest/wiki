@@ -1,5 +1,5 @@
 ---
-title: "ISO 14000 Standards and Certification (Algo Trading)"
+title: "ISO 14000 Standards and Certification"
 description: "Explore the intersection of ISO 14000 standards and algorithmic trading to enhance sustainability in financial markets by minimizing environmental impact."
 ---
 

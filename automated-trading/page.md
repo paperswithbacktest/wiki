@@ -1,5 +1,5 @@
 ---
-title: "Automated Trading (Algo Trading)"
+title: "Automated Trading"
 description: "Explore the world of algorithmic trading and discover how computer algorithms are transforming the trading landscape by automating trading decisions. This page investigates into the core concepts and benefits of automated trading systems, highlighting their ability to execute trades with increased speed and precision. Understand the advantages of algorithmic trading, such as enhanced efficiency, scalability, and the potential for backtesting strategies, while also considering the challenges like system failures and technology investments. Gain valuable insights to optimize your trading strategies in various financial markets effectively."
 ---
 

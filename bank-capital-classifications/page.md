@@ -1,5 +1,5 @@
 ---
-title: "Bank Capital and Its Classifications (Algo Trading)"
+title: "Bank Capital and Its Classifications"
 description: "Explore the essentials of bank capital, regulatory frameworks, and the impact of algorithmic trading in financial markets. Stay informed about global banking standards."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Effects of Globalization on Comparative Advantage (Algo Trading)"
+title: "Effects of Globalization on Comparative Advantage"
 description: "Explore how globalization and algorithmic trading reshape international trade by enhancing comparative advantage, driving economic efficiency, and boosting global connections."
 ---
 

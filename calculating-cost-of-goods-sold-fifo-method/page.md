@@ -1,5 +1,5 @@
 ---
-title: "Calculating Cost of Goods Sold with FIFO Method (Algo Trading)"
+title: "Calculating Cost of Goods Sold with FIFO Method"
 description: "Learn about the FIFO method for calculating Cost of Goods Sold in algorithmic trading Discover its impact on inventory valuation and trading efficiency"
 ---
 

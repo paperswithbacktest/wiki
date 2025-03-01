@@ -1,5 +1,5 @@
 ---
-title: "Legal Status of Bitcoin by Country (Algo Trading)"
+title: "Legal Status of Bitcoin by Country"
 description: "Discover the varying legal status of Bitcoin worldwide and explore how regulations affect cryptocurrency adoption and algorithmic trading in global markets."
 ---
 

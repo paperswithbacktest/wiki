@@ -1,5 +1,5 @@
 ---
-title: "Leads and Lags in Economics (Algo Trading)"
+title: "Leads and Lags in Economics"
 description: "Explore algo trading and its reliance on economic leads and lags to seize market opportunities and manage risks for enhanced trading performance."
 ---
 

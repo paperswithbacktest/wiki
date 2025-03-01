@@ -1,5 +1,5 @@
 ---
-title: "Maximizing Real Estate Net Worth (Algo Trading)"
+title: "Maximizing Real Estate Net Worth"
 description: "Explore how integrating real estate investment with algorithmic trading can enhance financial portfolios by combining tangible assets and tech-driven strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "IShares Silver Trust ETF (Algo Trading)"
+title: "IShares Silver Trust ETF"
 description: "Explore the benefits of combining iShares Silver Trust ETF (SLV) and algorithmic trading to enhance investment strategies in the silver market. Discover how SLV provides easy exposure to silver prices, while algorithmic trading offers speed, efficiency, and data-driven insights for optimized trading decisions. Ideal for investors looking to mitigate risks and capitalize on silver price movements."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "ETF Rule and Its Significance (Algo Trading)"
+title: "ETF Rule and Its Significance"
 description: "Discover the interconnection of ETFs and algorithmic trading in investment finance Learn how to leverage these tools for enhanced portfolio performance"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Mechanism Design Theory and Its Functionality (Algo Trading)"
+title: "Mechanism Design Theory and Its Functionality"
 description: "Explore mechanism design theory's role in algorithmic trading to achieve desired economic outcomes amidst strategic behavior and incomplete information in markets."
 ---
 

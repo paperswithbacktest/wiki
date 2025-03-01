@@ -1,5 +1,5 @@
 ---
-title: "Calculating Payout Ratio in Excel (Algo Trading)"
+title: "Calculating Payout Ratio in Excel"
 description: "Learn how to calculate the payout ratio in Excel for better financial analysis and explore its application in algorithmic trading practices with this tutorial."
 ---
 

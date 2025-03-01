@@ -1,5 +1,5 @@
 ---
-title: "Leading Corporate Bond Funds (Algo Trading)"
+title: "Leading Corporate Bond Funds"
 description: "Explore the synergy of mutual funds corporate bond funds and algorithmic trading These elements offer diversification and a tech edge to boost investment strategies"
 ---
 

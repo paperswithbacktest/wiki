@@ -1,5 +1,5 @@
 ---
-title: "Comparison of ROCE and ROA (Algo Trading)"
+title: "Comparison of ROCE and ROA"
 description: "Explore the interaction between algorithmic trading and key financial metrics ROCE and ROA to refine investment strategies and enhance decision-making."
 ---
 

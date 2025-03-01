@@ -1,5 +1,5 @@
 ---
-title: "Bankrate Monitor Index (Algo Trading)"
+title: "Bankrate Monitor Index"
 description: "Discover the Bankrate Monitor Index's pivotal role in algo trading by examining its impact on enhancing trading strategies through interest rate insights."
 ---
 

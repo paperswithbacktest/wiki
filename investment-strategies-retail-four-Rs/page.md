@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategies in Retail: The Four Rs (Algo Trading)"
+title: "Investment Strategies in Retail: The Four Rs"
 description: "Explore investment strategies in retail and the rise of algorithmic trading. Learn how the Four Rs help retail investors make informed, successful decisions."
 ---
 

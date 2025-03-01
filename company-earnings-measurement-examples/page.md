@@ -1,5 +1,5 @@
 ---
-title: "Company Earnings and Measurement Examples (Algo Trading)"
+title: "Company Earnings and Measurement Examples"
 description: "Explore how algorithmic trading harnesses the power of financial measurements and earnings reports to optimize trading strategies and enhance market predictions."
 ---
 

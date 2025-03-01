@@ -1,5 +1,5 @@
 ---
-title: "Bank Fees and Revenue Generation (Algo Trading)"
+title: "Bank Fees and Revenue Generation"
 description: "Explore how banks generate revenue through fees, interest income, and algorithmic trading, leveraging technology and fintech partnerships to enhance profitability."
 ---
 

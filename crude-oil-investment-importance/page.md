@@ -1,5 +1,5 @@
 ---
-title: "Crude Oil and Its Importance to Investors (Algo Trading)"
+title: "Crude Oil and Its Importance to Investors"
 description: "Explore crude oil investment opportunities through algorithmic trading strategies enhancing precision and efficiency in trading to maximize potential returns."
 ---
 

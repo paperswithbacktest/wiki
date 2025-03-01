@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Covered Calls and Regular Calls (Algo Trading)"
+title: "Comparison of Covered Calls and Regular Calls"
 description: "Explore the differences between covered and regular calls in options trading and discover how algo trading can optimize these strategies for better outcomes."
 ---
 

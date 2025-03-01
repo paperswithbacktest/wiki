@@ -1,5 +1,5 @@
 ---
-title: "Accelerated Share Repurchase (Algo Trading)"
+title: "Accelerated Share Repurchase"
 description: "Discover the strategy of Accelerated Share Repurchase to boost earnings per share and stock value learn its mechanics benefits and impact on investor confidence."
 ---
 

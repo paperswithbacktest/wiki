@@ -1,5 +1,5 @@
 ---
-title: "Equity Fund Investment for Beginners (Algo Trading)"
+title: "Equity Fund Investment for Beginners"
 description: "Discover the basics of equity fund investment for beginners and learn how algorithmic trading can enhance your portfolio with smart, technology-driven strategies."
 ---
 

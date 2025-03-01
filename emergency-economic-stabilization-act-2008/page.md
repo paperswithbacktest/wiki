@@ -1,5 +1,5 @@
 ---
-title: "Emergency Economic Stabilization Act of 2008 (Algo Trading)"
+title: "Emergency Economic Stabilization Act of 2008"
 description: "Explore the Emergency Economic Stabilization Act of 2008 and its impact on financial markets and algorithmic trading during the global economic crisis."
 ---
 

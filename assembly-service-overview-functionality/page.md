@@ -1,5 +1,5 @@
 ---
-title: "Assembly Service: Overview and Functionality (Algo Trading)"
+title: "Assembly Service: Overview and Functionality"
 description: "Discover how assembly services enhance algorithmic trading systems by integrating essential components for efficient, secure, and reliable trading operations."
 ---
 

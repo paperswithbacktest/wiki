@@ -1,5 +1,5 @@
 ---
-title: "Calculation of Firm's Credit Sales Percentage (Algo Trading)"
+title: "Calculation of Firm's Credit Sales Percentage"
 description: "Discover how calculating a firm's credit sales percentage and utilizing algorithmic trading can enhance financial health efficiency and market competitiveness."
 ---
 

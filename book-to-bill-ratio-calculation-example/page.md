@@ -1,5 +1,5 @@
 ---
-title: "Book-to-Bill Ratio: Calculation and Example (Algo Trading)"
+title: "Book-to-Bill Ratio: Calculation and Example"
 description: "Explore how the book-to-bill ratio informs business and trading decisions It provides insights into order performance and enhances algorithmic trading strategies"
 ---
 

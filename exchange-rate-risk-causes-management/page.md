@@ -1,5 +1,5 @@
 ---
-title: "Exchange Rate Risk: Causes and Management (Algo Trading)"
+title: "Exchange Rate Risk: Causes and Management"
 description: "Explore the complexities of exchange rate risk and currency risks in forex trading Discover traditional and algorithmic trading strategies for effective risk management"
 ---
 

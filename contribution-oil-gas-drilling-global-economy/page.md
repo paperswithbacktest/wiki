@@ -1,5 +1,5 @@
 ---
-title: "Contribution of Oil and Gas Drilling to the Global Economy (Algo Trading)"
+title: "Contribution of Oil and Gas Drilling to the Global Economy"
 description: "Explore how algorithmic trading reshapes the oil and gas sectors by enhancing efficiency in energy markets, driving economic growth, and optimizing resources."
 ---
 

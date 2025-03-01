@@ -1,5 +1,5 @@
 ---
-title: "Difference Between Compiled and Certified Financial Statements (Algo Trading)"
+title: "Difference Between Compiled and Certified Financial Statements"
 description: "Explore the key differences between compiled and certified financial statements in algorithmic trading. Understand their implications for transparency, accuracy, and reliability."
 ---
 

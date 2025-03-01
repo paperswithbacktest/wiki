@@ -1,5 +1,5 @@
 ---
-title: "Collar Agreement: Functionality and Implications (Algo Trading)"
+title: "Collar Agreement: Functionality and Implications"
 description: "Discover how collar agreements function in algorithmic trading to manage investment risks and protect against market volatility with cost-effective strategies."
 ---
 

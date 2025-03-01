@@ -1,5 +1,5 @@
 ---
-title: "Big Bath Accounting Examples and Legality (Algo Trading)"
+title: "Big Bath Accounting Examples and Legality"
 description: "Explore big bath accounting manipulation its impact on financial transparency and legality especially in the context of algorithmic trading highlighting ethical concerns."
 ---
 

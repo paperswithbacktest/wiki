@@ -1,5 +1,5 @@
 ---
-title: "Earning Assets: Examples and Tax Treatment (Algo Trading)"
+title: "Earning Assets: Examples and Tax Treatment"
 description: "Explore the complexities of earning assets and their tax treatment, including algorithmic trading. Learn to optimize investment income and ensure compliance."
 ---
 

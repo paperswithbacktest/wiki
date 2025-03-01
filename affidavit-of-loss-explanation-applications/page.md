@@ -1,5 +1,5 @@
 ---
-title: "Affidavit of Loss: Explanation and Applications (Algo Trading)"
+title: "Affidavit of Loss: Explanation and Applications"
 description: "Explore the vital role of affidavits of loss in legal and financial sectors, especially in algorithmic trading, ensuring protection and recovery of assets."
 ---
 

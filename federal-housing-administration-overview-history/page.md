@@ -1,5 +1,5 @@
 ---
-title: "Federal Housing Administration: Overview and History (Algo Trading)"
+title: "Federal Housing Administration: Overview and History"
 description: "Explore the Federal Housing Administration’s history and role in promoting homeownership and how algorithmic trading is impacting the housing market today."
 ---
 

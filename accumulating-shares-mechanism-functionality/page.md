@@ -1,5 +1,5 @@
 ---
-title: "Accumulating Shares: Mechanism and Functionality (Algo Trading)"
+title: "Accumulating Shares: Mechanism and Functionality"
 description: "Explore accumulating shares and algorithmic trading as effective investment strategies. Understand their benefits and how they complement diversified portfolios."
 ---
 

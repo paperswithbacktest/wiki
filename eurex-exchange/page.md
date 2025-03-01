@@ -1,5 +1,5 @@
 ---
-title: "Eurex Exchange (Algo Trading)"
+title: "Eurex Exchange"
 description: "Explore the vital role of Eurex in Europe's futures markets with insights on algorithmic trading its impact on financial derivatives and evolving technologies."
 ---
 

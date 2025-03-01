@@ -1,5 +1,5 @@
 ---
-title: "Mechanics of Real Estate Banking (Algo Trading)"
+title: "Mechanics of Real Estate Banking"
 description: "Explore the transformative role of algorithmic trading in real estate banking improving investment speed accuracy and efficiency with advanced financial mechanisms."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Liuren Wu (Algo Trading)"
+title: "Liuren Wu"
 description: "Discover the journey of Liuren Wu from chemical engineering in China to his impactful career in algorithmic trading and quantitative finance in the US."
 ---
 

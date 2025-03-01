@@ -1,5 +1,5 @@
 ---
-title: "Key Ratios in Income Statements (Algo Trading)"
+title: "Key Ratios in Income Statements"
 description: "Explore key financial ratios essential for evaluating a company's financial health in income statements and algorithmic trading, enhancing investment decision-making."
 ---
 

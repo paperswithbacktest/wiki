@@ -1,5 +1,5 @@
 ---
-title: "Investment Entry Point and Optimization (Algo Trading)"
+title: "Investment Entry Point and Optimization"
 description: "Optimize your investment strategies by integrating precise entry point timing with algorithmic trading techniques to enhance returns and minimize risk effectively."
 ---
 

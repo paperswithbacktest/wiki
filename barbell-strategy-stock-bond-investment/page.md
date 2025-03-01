@@ -1,5 +1,5 @@
 ---
-title: "Barbell Strategy for Stock and Bond Investment (Algo Trading)"
+title: "Barbell Strategy for Stock and Bond Investment"
 description: "Discover the barbell strategy for balancing stock and bond investments using algorithmic trading to optimize portfolio performance and manage risk effectively."
 ---
 

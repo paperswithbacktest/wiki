@@ -1,5 +1,5 @@
 ---
-title: "Chartalism and Its Mechanisms in the Context of Cryptocurrency (Algo Trading)"
+title: "Chartalism and Its Mechanisms in the Context of Cryptocurrency"
 description: "Explore Chartalism's influence on cryptocurrencies and algorithmic trading as they reshape financial markets challenging traditional monetary theories and regulations."
 ---
 

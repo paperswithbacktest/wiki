@@ -1,5 +1,5 @@
 ---
-title: "Joint Supply and Demand in Economics (Algo Trading)"
+title: "Joint Supply and Demand in Economics"
 description: "Explore the essential roles of joint demand and joint supply in economics and algorithmic trading, revolutionizing today's market strategies and efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Audit Trail: Functionality, Variants, and Case Study (Algo Trading)"
+title: "Audit Trail: Functionality, Variants, and Case Study"
 description: "Discover the role of audit trails in algorithmic trading Gain insights into various audit types and explore case studies for improved transparency and compliance"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Genesis Block: Bitcoin Mysteries and Secret Message (Algo Trading)"
+title: "Genesis Block: Bitcoin Mysteries and Secret Message"
 description: "Explore the profound impact of algorithmic trading on cryptocurrency, Bitcoin's Genesis Block mysteries, and its symbolic message of decentralization."
 ---
 

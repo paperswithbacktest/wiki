@@ -1,5 +1,5 @@
 ---
-title: "AcreTrader Overview 2024 (Algo Trading)"
+title: "AcreTrader Overview 2024"
 description: "Explore AcreTrader's innovative farmland investments and algorithmic trading strategies for 2024 Gain insights into how technology enhances agricultural finance"
 ---
 

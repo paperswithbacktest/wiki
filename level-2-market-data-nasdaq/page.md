@@ -1,5 +1,5 @@
 ---
-title: "Level 2 Market Data on Nasdaq (Algo Trading)"
+title: "Level 2 Market Data on Nasdaq"
 description: "Gain insights into Nasdaq's Level 2 market data for better trading strategies through detailed order book analysis leveraging algorithmic systems for precision."
 ---
 

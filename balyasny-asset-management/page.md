@@ -1,5 +1,5 @@
 ---
-title: "Balyasny Asset Management (Algo Trading)"
+title: "Balyasny Asset Management"
 description: "Explore how Balyasny Asset Management leverages cutting-edge algorithmic trading to enhance investment strategies ensuring precision and uncorrelated returns."
 ---
 

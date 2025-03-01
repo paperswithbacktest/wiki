@@ -1,5 +1,5 @@
 ---
-title: "Challenges in Real Estate Development (Algo Trading)"
+title: "Challenges in Real Estate Development"
 description: "Explore the intersection of real estate development and algorithmic trading highlighting their challenges and impacts on investors and market dynamics. Discover how these trends shape economic growth."
 ---
 

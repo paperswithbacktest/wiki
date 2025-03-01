@@ -1,5 +1,5 @@
 ---
-title: "Calculating Sharpe Ratio Using Excel (Algo Trading)"
+title: "Calculating Sharpe Ratio Using Excel"
 description: "Learn how to calculate the Sharpe Ratio using Excel, an essential financial metric for optimizing algorithmic trading strategies and evaluating risk-adjusted returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Index of Economic Freedom (Algo Trading)"
+title: "Index of Economic Freedom"
 description: "Explore the synergy of the Economic Freedom Index and algorithmic trading in global markets and learn their influence on economic analysis and investment strategies."
 ---
 

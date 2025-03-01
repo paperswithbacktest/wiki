@@ -1,5 +1,5 @@
 ---
-title: "Convergence of Futures and Spot Prices (Algo Trading)"
+title: "Convergence of Futures and Spot Prices"
 description: "Explore the fascinating dynamics of futures and spot price convergence in trading Learn how algorithmic trading and arbitrage drive market efficiency and price alignment"
 ---
 

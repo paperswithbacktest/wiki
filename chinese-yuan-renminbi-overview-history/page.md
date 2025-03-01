@@ -1,5 +1,5 @@
 ---
-title: "Chinese Yuan Renminbi: Overview and History (Algo Trading)"
+title: "Chinese Yuan Renminbi: Overview and History"
 description: "Explore the evolution of the Chinese Yuan Renminbi and its strategic role in global finance and algorithmic trading offering opportunities for savvy investors."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Fourth Market in Financial Trading (Algo Trading)"
+title: "Fourth Market in Financial Trading"
 description: "Discover the Fourth Market in financial trading, where algorithmic strategies enable direct, private, and cost-effective transactions for institutional investors."
 ---
 

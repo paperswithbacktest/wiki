@@ -1,5 +1,5 @@
 ---
-title: "Geographical Diversification: Overview and Analysis (Algo Trading)"
+title: "Geographical Diversification: Overview and Analysis"
 description: "Enhance your investment strategy with geographical diversification and algorithmic trading to manage risks and optimize returns in global market dynamics."
 ---
 

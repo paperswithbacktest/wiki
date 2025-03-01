@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of Pharmaceutical Companies (Algo Trading)"
+title: "Evaluation of Pharmaceutical Companies"
 description: "Discover the comprehensive evaluation of pharmaceutical companies with insights on complex valuation processes and the impact of algorithmic trading strategies."
 ---
 

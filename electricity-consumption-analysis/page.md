@@ -1,5 +1,5 @@
 ---
-title: "Electricity consumption analysis (Algo Trading)"
+title: "Electricity consumption analysis"
 description: Explore the complexities of electricity consumption in algorithmic trading with a focus on sustainability and cost optimization. This analysis investigates into the energy demands of data centers and computing networks essential for the rapid execution of trades. Understand how these consumption patterns affect profitability and environmental impact, while contrasting them with traditional trading methods. Discover insights on enhancing energy efficiency and reducing carbon footprints in modern financial markets.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Long-term Investment in U.S. Savings Bonds (Algo Trading)"
+title: "Long-term Investment in U.S. Savings Bonds"
 description: "Explore U.S. Savings Bonds as a cornerstone of conservative investing offering secure returns and inflation protection essential for long-term portfolio stability"
 ---
 

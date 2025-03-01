@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Lime Financial Services (Algo Trading)"
+title: "Analysis of Lime Financial Services"
 description: "Discover the comprehensive analysis of Lime Financial's algo trading solutions in this article. Established in 2000, Lime Financial has significantly impacted the financial trading sector by offering advanced algorithmic trading platforms designed to enhance efficiency and profitability. Catering to both financial institutions and independent traders, Lime Financial stands out with a robust system tailored for high-frequency trading. This detailed review explores the platform's capabilities, including powerful low-latency technology and extensive API options, ensuring a seamless trading experience for professional traders seeking to optimize performance and gains in the fast-paced, data-driven markets."
 ---
 

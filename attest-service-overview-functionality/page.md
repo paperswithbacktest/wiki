@@ -1,5 +1,5 @@
 ---
-title: "Attest Service: Overview and Functionality (Algo Trading)"
+title: "Attest Service: Overview and Functionality"
 description: "Explore the critical role of attest and audit services in algorithmic trading. Learn how these practices ensure accuracy, trust, and compliance in financial reporting."
 ---
 

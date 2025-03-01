@@ -1,5 +1,5 @@
 ---
-title: "Global Food Production (Algo Trading)"
+title: "Global Food Production"
 description: "Explore the impact of algorithmic trading on global food production and agricultural markets Discover how technology reshapes the future of food security"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Information-Theoretic Trading Strategies (Algo Trading)"
+title: "Information-Theoretic Trading Strategies"
 description: "Explore cutting-edge algorithmic trading with information-theoretic strategies focusing on mastering market data insights to optimize performance and decision-making."
 ---
 

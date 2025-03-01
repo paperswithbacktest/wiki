@@ -1,5 +1,5 @@
 ---
-title: "Hull-White Model (Algo Trading)"
+title: "Hull-White Model"
 description: "Explore the Hull-White Model for algorithmic trading and financial derivatives. Discover its flexibility in capturing interest rate dynamics and enhancing pricing accuracy."
 ---
 

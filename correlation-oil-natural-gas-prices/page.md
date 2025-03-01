@@ -1,5 +1,5 @@
 ---
-title: "Correlation of Oil and Natural Gas Prices (Algo Trading)"
+title: "Correlation of Oil and Natural Gas Prices"
 description: "Explore the dynamic relationship between oil and natural gas prices in the context of algorithmic trading and energy markets. Understand how technological advancements and geopolitical factors influence these correlations and impact global economic trends. Discover how algorithmic trading enhances market participants' ability to analyze and respond to price movements, facilitating informed decision-making and strategic optimization in volatile energy markets."
 ---
 

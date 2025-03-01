@@ -1,5 +1,5 @@
 ---
-title: "Double Entry in Accounting: Purpose and Application (Algo Trading)"
+title: "Double Entry in Accounting: Purpose and Application"
 description: "Discover the fundamental principles of double-entry accounting and its integral role in effective financial management and algorithmic trading. Learn how the double-entry system ensures precise record-keeping and error detection, contributing to robust financial health and strategic planning. Explore the synergy between modern accounting practices and algo trading to enhance decision-making and foster business growth."
 ---
 

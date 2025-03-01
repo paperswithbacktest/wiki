@@ -1,5 +1,5 @@
 ---
-title: "Cryptocurrency Exit Scam Identification (Algo Trading)"
+title: "Cryptocurrency Exit Scam Identification"
 description: "Explore strategies to detect and prevent cryptocurrency exit scams and 'rug pulls' using algorithmic trading tools for safer investments in digital finance."
 ---
 

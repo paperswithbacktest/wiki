@@ -1,5 +1,5 @@
 ---
-title: "Impact of Supply and Demand on the Oil Industry (Algo Trading)"
+title: "Impact of Supply and Demand on the Oil Industry"
 description: "Explore how supply and demand dynamics shape the oil industry's market, with algorithmic trading adding complexity and influencing price volatility."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "China-Africa Development Fund: Overview and Objectives (Algo Trading)"
+title: "China-Africa Development Fund: Overview and Objectives"
 description: "Explore how the China-Africa Development Fund (CADFund) enhances China-Africa economic ties through strategic investments in key sectors for sustainable growth."
 ---
 

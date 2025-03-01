@@ -1,5 +1,5 @@
 ---
-title: "Cryptocurrency Difficulty and Bitcoin Example (Algo Trading)"
+title: "Cryptocurrency Difficulty and Bitcoin Example"
 description: "Explore the intricate dynamics of cryptocurrency mining and algorithmic trading Learn how mining difficulty impacts Bitcoin's economic model and trading strategies"
 ---
 

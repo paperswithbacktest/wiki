@@ -1,5 +1,5 @@
 ---
-title: "Loss Aversion in Trading: Risks and Strategies (Algo Trading)"
+title: "Loss Aversion in Trading: Risks and Strategies"
 description: "Discover how loss aversion influences trading decisions and risk management strategies in algorithmic trading to enhance decision-making and success."
 ---
 

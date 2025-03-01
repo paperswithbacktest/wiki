@@ -1,5 +1,5 @@
 ---
-title: "Efficiency Principle in Economics (Algo Trading)"
+title: "Efficiency Principle in Economics"
 description: "Discover how economic efficiency drives algorithmic trading by optimizing resource use reducing costs and enhancing decision-making through complex algorithms."
 ---
 

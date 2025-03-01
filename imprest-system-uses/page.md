@@ -1,5 +1,5 @@
 ---
-title: "Imprest System and Uses (Algo Trading)"
+title: "Imprest System and Uses"
 description: "Explore the synergy of imprest funds and algorithmic trading for enhanced cash flow management and trading precision in financial systems."
 ---
 

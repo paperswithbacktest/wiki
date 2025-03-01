@@ -1,5 +1,5 @@
 ---
-title: "Fixed Price: Definition and Mechanism (Algo Trading)"
+title: "Fixed Price: Definition and Mechanism"
 description: "Explore the definition and mechanism of fixed price models in algorithmic trading Discover how these models provide stability enhancing trading strategies"
 ---
 

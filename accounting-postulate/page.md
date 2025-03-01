@@ -1,5 +1,5 @@
 ---
-title: "Accounting Postulate (Algo Trading)"
+title: "Accounting Postulate"
 description: "Explore the vital role of accounting principles in algorithmic trading and financial reporting ensuring precision and reliability in an evolving financial ecosystem."
 ---
 

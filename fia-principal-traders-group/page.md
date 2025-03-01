@@ -1,5 +1,5 @@
 ---
-title: "FIA Principal Traders Group Overview (Algo Trading)"
+title: "FIA Principal Traders Group Overview"
 description: "Explore the world of algorithmic trading with the FIA Principal Traders Group, key players in market innovation and efficiency since 2010 within financial markets."
 ---
 

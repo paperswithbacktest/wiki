@@ -1,5 +1,5 @@
 ---
-title: "Average Rate Option (Algo Trading)"
+title: "Average Rate Option"
 description: "Discover how Average Rate Options provide a strategic edge by smoothing currency fluctuation risk through unique, sophisticated hedging mechanisms tailored for global trade."
 ---
 

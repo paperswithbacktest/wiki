@@ -1,5 +1,5 @@
 ---
-title: "Load-Adjusted Return and Its Mechanism (Algo Trading)"
+title: "Load-Adjusted Return and Its Mechanism"
 description: "Explore load-adjusted return and algorithmic trading mechanics to grasp investment performance better, ensuring realistic insights into profitability and strategy optimization."
 ---
 

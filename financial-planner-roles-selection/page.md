@@ -1,5 +1,5 @@
 ---
-title: "Financial Planner: Roles and Selection (Algo Trading)"
+title: "Financial Planner: Roles and Selection"
 description: "Explore the role of financial planners in personal finance and algorithmic trading Discover strategies for wealth management and future financial stability"
 ---
 

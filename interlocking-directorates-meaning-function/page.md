@@ -1,5 +1,5 @@
 ---
-title: "Interlocking Directorates: Meaning and Function (Algo Trading)"
+title: "Interlocking Directorates: Meaning and Function"
 description: "Explore the intricate role of interlocking directorates and algorithmic trading in corporate governance. Understand their impact on market behavior and regulatory challenges."
 ---
 

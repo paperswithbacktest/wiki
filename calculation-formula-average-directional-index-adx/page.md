@@ -1,5 +1,5 @@
 ---
-title: "Calculation and Formula of the Average Directional Index (ADX) (Algo Trading)"
+title: "Calculation and Formula of the Average Directional Index (ADX)"
 description: "Discover the power of the Average Directional Index ADX in algorithmic trading Use this effective tool to assess trend strength for strategic market moves"
 ---
 

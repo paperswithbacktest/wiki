@@ -1,5 +1,5 @@
 ---
-title: "Bailment: Mechanism, Types, and Termination (Algo Trading)"
+title: "Bailment: Mechanism, Types, and Termination"
 description: "Explore the intersection of bailment, legal frameworks, and algorithmic trading. Understand asset transfer, legal agreements, and modern market efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Sharpe Ratio and Treynor Ratio (Algo Trading)"
+title: "Comparison of Sharpe Ratio and Treynor Ratio"
 description: "Explore key investment metrics including Sharpe and Treynor Ratios to understand risk-adjusted returns and the role of algorithmic trading in enhancing performance."
 ---
 

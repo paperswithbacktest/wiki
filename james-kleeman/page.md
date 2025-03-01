@@ -1,5 +1,5 @@
 ---
-title: "James Kleeman (Algo Trading)"
+title: "James Kleeman"
 description: "Explore the journey of James Kleeman from academia to finance bridging physics and algorithmic trading with contributions to research and innovative strategies."
 ---
 

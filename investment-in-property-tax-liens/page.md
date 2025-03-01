@@ -1,5 +1,5 @@
 ---
-title: "Investment in Property Tax Liens (Algo Trading)"
+title: "Investment in Property Tax Liens"
 description: "Discover the intersection of real estate investment and technology with tax lien investing enhanced by algorithmic trading. Learn how purchasing tax liens on properties with unpaid taxes offers potential high returns while using algo trading to optimize portfolios and minimize risks. Explore this innovative approach to real estate investing that combines advanced data analytics and automation for improved decision-making and investment strategies."
 ---
 

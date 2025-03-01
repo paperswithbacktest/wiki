@@ -1,5 +1,5 @@
 ---
-title: "Mechanics of the United States Green Card Lottery (Algo Trading)"
+title: "Mechanics of the United States Green Card Lottery"
 description: "Explore the intersection of the US Green Card Lottery and algo trading Discover how algorithms can enhance efficiency and opportunity in immigration and finance"
 ---
 

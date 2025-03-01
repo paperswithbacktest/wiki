@@ -1,5 +1,5 @@
 ---
-title: "Accounting Practices of Private Equity Funds (Algo Trading)"
+title: "Accounting Practices of Private Equity Funds"
 description: "Explore the intersection of accounting and algorithmic trading in private equity funds Learn how these elements shape strategies and manage investment risks"
 ---
 

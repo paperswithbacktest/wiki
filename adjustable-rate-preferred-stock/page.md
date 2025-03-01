@@ -1,5 +1,5 @@
 ---
-title: "Adjustable-Rate Preferred Stock (Algo Trading)"
+title: "Adjustable-Rate Preferred Stock"
 description: "Adjustable-rate preferred stocks offer a blend of income stability and capital preservation adapting to market highs and lows through variable dividends."
 ---
 

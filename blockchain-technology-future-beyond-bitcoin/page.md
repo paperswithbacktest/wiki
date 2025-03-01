@@ -1,5 +1,5 @@
 ---
-title: "Blockchain Technology as the Future Beyond Bitcoin (Algo Trading)"
+title: "Blockchain Technology as the Future Beyond Bitcoin"
 description: "Explore how blockchain is revolutionizing algorithmic trading by enhancing transparency and security, paving the way for innovative investment strategies and market dynamics."
 ---
 

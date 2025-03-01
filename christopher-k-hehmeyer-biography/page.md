@@ -1,5 +1,5 @@
 ---
-title: "Christopher K. Hehmeyer Biography (Algo Trading)"
+title: "Christopher K. Hehmeyer Biography"
 description: "Explore the notable career of Christopher K. Hehmeyer in financial trading from his influential role in futures and crypto markets to leading Warwick Capital."
 ---
 

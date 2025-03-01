@@ -1,5 +1,5 @@
 ---
-title: "Key Benchmarks Tracking the Banking Sector (Algo Trading)"
+title: "Key Benchmarks Tracking the Banking Sector"
 description: "Explore the dynamic interaction between banking benchmarks, financial indices, and algo trading in the financial sector. Understand their impact on investment strategies."
 ---
 

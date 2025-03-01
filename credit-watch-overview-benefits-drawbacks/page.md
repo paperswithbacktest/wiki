@@ -1,5 +1,5 @@
 ---
-title: "Credit Watch: Overview, Benefits, and Drawbacks (Algo Trading)"
+title: "Credit Watch: Overview, Benefits, and Drawbacks"
 description: "Discover the key aspects of credit ratings, financial assessments, and algorithmic trading Understand their impact on investment strategies and financial risk management"
 ---
 

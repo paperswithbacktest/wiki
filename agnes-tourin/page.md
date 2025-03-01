@@ -1,5 +1,5 @@
 ---
-title: "Agnès Tourin (Algo Trading)"
+title: "Agnès Tourin"
 description: "Discover the impactful career of Agnès Tourin in quantitative finance and algorithmic trading, her pioneering research, and influential teaching at NYU."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Feasibility of Infinite Economic Growth on a Finite Planet (Algo Trading)"
+title: "Feasibility of Infinite Economic Growth on a Finite Planet"
 description: "Explore the challenges of infinite economic growth on a finite planet and the role of algorithmic trading in balancing prosperity with environmental sustainability."
 ---
 

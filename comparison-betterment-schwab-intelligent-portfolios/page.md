@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Betterment and Schwab Intelligent Portfolios (Algo Trading)"
+title: "Comparison of Betterment and Schwab Intelligent Portfolios"
 description: "Discover a detailed comparison of Betterment and Schwab Intelligent Portfolios. Uncover how these leading robo-advisors utilize algorithmic trading to optimize investments."
 ---
 

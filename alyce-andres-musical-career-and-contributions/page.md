@@ -1,5 +1,5 @@
 ---
-title: "Alyce Andres: Musical Career and Contributions (Algo Trading)"
+title: "Alyce Andres: Musical Career and Contributions"
 description: "Alyce Andres blends finance and music expertise to navigate complex markets and create innovative insights, illustrating a unique cross-disciplinary career."
 ---
 

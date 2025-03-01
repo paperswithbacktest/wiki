@@ -1,5 +1,5 @@
 ---
-title: "Inflation-Protected Securities (Algo Trading)"
+title: "Inflation-Protected Securities"
 description: "Explore inflation-protected securities and algorithmic trading to enhance investment strategies Protect assets from inflation while optimizing returns in dynamic markets"
 ---
 

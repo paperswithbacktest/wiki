@@ -1,5 +1,5 @@
 ---
-title: "Confession of Judgment (Algo Trading)"
+title: "Confession of Judgment"
 description: "Explore how confessions of judgment impact debt recovery and algorithmic trading reshapes finance Discover legal nuances and tech trends shaping modern markets"
 ---
 

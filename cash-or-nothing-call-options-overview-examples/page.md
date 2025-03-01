@@ -1,5 +1,5 @@
 ---
-title: "Cash-Or-Nothing Call Options: Overview and Examples (Algo Trading)"
+title: "Cash-Or-Nothing Call Options: Overview and Examples"
 description: "Explore the simplicity of Cash-or-Nothing call options in digital trading where payouts are predetermined making risk management straightforward for traders."
 ---
 

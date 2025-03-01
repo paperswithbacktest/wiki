@@ -1,5 +1,5 @@
 ---
-title: "Development of Custom Trading Strategies (Algo Trading)"
+title: "Development of Custom Trading Strategies"
 description: "Explore and simplify financial strategies investment techniques trading strategies and algorithmic trading to master financial outcomes in a rapidly changing landscape"
 ---
 

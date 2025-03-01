@@ -1,5 +1,5 @@
 ---
-title: "MBA Purchase Index: Significance and Mechanism (Algo Trading)"
+title: "MBA Purchase Index: Significance and Mechanism"
 description: "Explore how the MBA Purchase Index and algorithmic trading intersect to enhance real estate investment strategies, providing insights into market dynamics."
 ---
 

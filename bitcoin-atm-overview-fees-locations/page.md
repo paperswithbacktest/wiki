@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin ATM: Overview, Fees, and Locations (Algo Trading)"
+title: "Bitcoin ATM: Overview, Fees, and Locations"
 description: "Discover everything about Bitcoin ATMs including fees and locations plus delve into algorithmic trading strategies in the crypto market to boost your investments"
 ---
 

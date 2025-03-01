@@ -1,5 +1,5 @@
 ---
-title: "Balloon Maturity and Its Mechanics (Algo Trading)"
+title: "Balloon Maturity and Its Mechanics"
 description: "Explore balloon maturity loans and algorithmic trading to enhance financial strategies. Discover their mechanics, benefits, and risks in this comprehensive guide."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bloomberg Tools in Financial Analysis (Algo Trading)"
+title: "Bloomberg Tools in Financial Analysis"
 description: "Explore Bloomberg's essential tools for financial analysis and algorithmic trading which offer real-time data robust analytics and efficient risk management solutions."
 ---
 

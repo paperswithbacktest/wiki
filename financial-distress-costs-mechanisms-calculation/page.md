@@ -1,5 +1,5 @@
 ---
-title: "Financial Distress Costs: Mechanisms and Calculation (Algo Trading)"
+title: "Financial Distress Costs: Mechanisms and Calculation"
 description: "Explore how financial distress costs and algorithmic trading intersect to offer insights and solutions for financial stability and optimized strategies in firms."
 ---
 

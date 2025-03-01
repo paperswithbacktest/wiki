@@ -1,5 +1,5 @@
 ---
-title: "India Exchange-Traded Fund: Overview and Benefits (Algo Trading)"
+title: "India Exchange-Traded Fund: Overview and Benefits"
 description: "Discover how India's dynamic ETF market offers diverse investment opportunities with algorithmic trading enhancing strategies for optimized growth and risk management."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Discount Notes: Overview, Calculation, and Analysis (Algo Trading)"
+title: "Discount Notes: Overview, Calculation, and Analysis"
 description: "Explore the synergy between discount notes and algorithmic trading to enhance investment strategies with low-risk options and high-speed market executions."
 ---
 

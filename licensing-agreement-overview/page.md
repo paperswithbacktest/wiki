@@ -1,5 +1,5 @@
 ---
-title: "Licensing Agreement Overview (Algo Trading)"
+title: "Licensing Agreement Overview"
 description: "Explore the benefits of licensing agreements in algorithmic trading to boost profits and minimize risks through effective use of intellectual property assets."
 ---
 

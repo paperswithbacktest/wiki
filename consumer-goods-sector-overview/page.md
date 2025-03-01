@@ -1,5 +1,5 @@
 ---
-title: "Consumer Goods Sector Overview (Algo Trading)"
+title: "Consumer Goods Sector Overview"
 description: "Explore how algorithmic trading is transforming the consumer goods sector by enhancing market dynamics, stock liquidity, and investor strategies through technology."
 ---
 

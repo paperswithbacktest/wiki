@@ -1,5 +1,5 @@
 ---
-title: "Blockchain as a Historical Invention (Algo Trading)"
+title: "Blockchain as a Historical Invention"
 description: "Explore how blockchain revolutionizes industries beyond cryptocurrencies by enhancing transparency and security in sectors like finance, healthcare, and trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Abnormal Return: Causes and Examples (Algo Trading)"
+title: "Abnormal Return: Causes and Examples"
 description: "Explore abnormal returns in financial markets and algorithmic trading Understand causes calculations and strategies to leverage these returns effectively"
 ---
 

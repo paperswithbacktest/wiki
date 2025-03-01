@@ -1,5 +1,5 @@
 ---
-title: "Deferred Billing (Algo Trading)"
+title: "Deferred Billing"
 description: "Explore the role of deferred billing in algorithmic trading and how it enhances payment flexibility, boosts customer satisfaction, and aids cash flow management."
 ---
 

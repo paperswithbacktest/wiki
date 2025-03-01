@@ -1,5 +1,5 @@
 ---
-title: "Great Moderation (Algo Trading)"
+title: "Great Moderation"
 description: "Explore how the integration of economic analysis with algorithmic trading optimizes investment strategies amidst business cycles and enhances market stability."
 ---
 

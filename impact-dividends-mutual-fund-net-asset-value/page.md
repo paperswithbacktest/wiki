@@ -1,5 +1,5 @@
 ---
-title: "Impact of Dividends on Mutual Fund Net Asset Value (Algo Trading)"
+title: "Impact of Dividends on Mutual Fund Net Asset Value"
 description: "Explore the impact of dividends on mutual fund NAV and the role of algo trading in modern investing to optimize financial strategies amidst market dynamics."
 ---
 

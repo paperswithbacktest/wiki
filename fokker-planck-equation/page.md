@@ -1,5 +1,5 @@
 ---
-title: "Fokker-Planck equation (Algo Trading)"
+title: "Fokker-Planck equation"
 description: "Explore the Fokker-Planck equation in algorithmic trading to model asset price behavior and develop strategies by understanding market dynamics and volatility."
 ---
 

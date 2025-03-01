@@ -1,5 +1,5 @@
 ---
-title: "Hongyu Wang (Algo Trading)"
+title: "Hongyu Wang"
 description: "Explore the journey of Hongyu Wang from a tech-savvy youth in Shanghai to an accomplished software engineer at Akuna Capital, excelling in algorithmic trading."
 ---
 

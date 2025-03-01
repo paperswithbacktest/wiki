@@ -1,5 +1,5 @@
 ---
-title: "Anti-Fragility (Algo Trading)"
+title: "Anti-Fragility"
 description: "Discover how antifragility and resilience in algo trading create robust strategies that thrive amid market volatility while effectively managing risks."
 ---
 

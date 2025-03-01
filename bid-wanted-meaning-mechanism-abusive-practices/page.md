@@ -1,5 +1,5 @@
 ---
-title: "Bid Wanted: Meaning, Mechanism, and Abusive Practices (Algo Trading)"
+title: "Bid Wanted: Meaning, Mechanism, and Abusive Practices"
 description: "Explore the mechanics of bid wanted announcements in algo trading along with the potential risks and benefits Understand how these practices impact market dynamics"
 ---
 

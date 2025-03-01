@@ -1,5 +1,5 @@
 ---
-title: "Continental Currency: Meaning, History, and Value (Algo Trading)"
+title: "Continental Currency: Meaning, History, and Value"
 description: "Explore the fascinating history of Continental Currency issued during the American Revolutionary War how it rapidly depreciated and its impact on modern finance"
 ---
 

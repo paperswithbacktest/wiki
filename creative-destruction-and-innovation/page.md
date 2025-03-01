@@ -1,5 +1,5 @@
 ---
-title: "Creative Destruction and Innovation (Algo Trading)"
+title: "Creative Destruction and Innovation"
 description: "Explore creative destruction's role in economic growth through innovation with a focus on algorithmic trading's transformation of financial markets."
 ---
 

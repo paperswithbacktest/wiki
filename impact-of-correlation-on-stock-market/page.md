@@ -1,5 +1,5 @@
 ---
-title: "Impact of Correlation on Stock Market (Algo Trading)"
+title: "Impact of Correlation on Stock Market"
 description: "Explore how correlation impacts algorithmic trading in the stock market with advanced strategies to maximize profits and manage risks effectively."
 ---
 

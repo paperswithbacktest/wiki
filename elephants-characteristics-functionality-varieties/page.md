@@ -1,5 +1,5 @@
 ---
-title: "Elephants: Characteristics, Functionality, and Varieties (Algo Trading)"
+title: "Elephants: Characteristics, Functionality, and Varieties"
 description: "Explore the grandeur and complexity of elephants as majestic animals and financial giants. Discover their roles in the wild and the market with insightful parallels."
 ---
 

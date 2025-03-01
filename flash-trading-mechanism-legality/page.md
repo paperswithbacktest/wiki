@@ -1,5 +1,5 @@
 ---
-title: "Flash Trading: Mechanism and Legality (Algo Trading)"
+title: "Flash Trading: Mechanism and Legality"
 description: "Explore the mechanisms and legal debates of flash and high-frequency trading, including their impact on market efficiency, fairness, and regulatory concerns."
 ---
 

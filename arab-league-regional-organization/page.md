@@ -1,5 +1,5 @@
 ---
-title: "Arab League: Regional Organization (Algo Trading)"
+title: "Arab League: Regional Organization"
 description: "Discover how the Arab League's economic landscape intersects with the rise of algo trading navigating Middle Eastern financial markets and global trade dynamics."
 ---
 

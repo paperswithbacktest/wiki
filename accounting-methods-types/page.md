@@ -1,5 +1,5 @@
 ---
-title: "Accounting Methods and Types (Algo Trading)"
+title: "Accounting Methods and Types"
 description: "Explore how different accounting methods integrate with algorithmic trading to ensure accurate financial reporting enhance trading strategies and ensure compliance."
 ---
 

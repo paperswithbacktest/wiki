@@ -1,5 +1,5 @@
 ---
-title: "Ishikawa Diagram: Cause-and-Effect Analysis (Algo Trading)"
+title: "Ishikawa Diagram: Cause-and-Effect Analysis"
 description: "Explore how the Ishikawa Diagram can enhance algorithmic trading by identifying root causes of trading issues Improve your strategies with this powerful tool."
 ---
 

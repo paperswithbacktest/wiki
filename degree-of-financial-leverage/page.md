@@ -1,5 +1,5 @@
 ---
-title: "Degree of Financial Leverage (Algo Trading)"
+title: "Degree of Financial Leverage"
 description: "Explore how the Degree of Financial Leverage (DFL) impacts algorithmic trading strategies Enhance your trading models by understanding DFL's role in finance"
 ---
 

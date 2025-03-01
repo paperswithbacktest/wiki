@@ -1,5 +1,5 @@
 ---
-title: "Ludwig Von Mises: Biography and Economic Theories (Algo Trading)"
+title: "Ludwig Von Mises: Biography and Economic Theories"
 description: "Explore how Ludwig von Mises's Austrian economic theories intersect with modern algorithmic trading offering insights into free market efficiencies and trading strategies."
 ---
 

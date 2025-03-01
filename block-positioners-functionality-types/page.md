@@ -1,5 +1,5 @@
 ---
-title: "Block Positioners: Functionality and Types (Algo Trading)"
+title: "Block Positioners: Functionality and Types"
 description: "Discover how block positioners, industrial tool positioning systems, and algorithmic trading are revolutionizing financial markets with precision and efficiency."
 ---
 

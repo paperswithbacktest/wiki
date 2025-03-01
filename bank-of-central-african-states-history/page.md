@@ -1,5 +1,5 @@
 ---
-title: "Bank of Central African States: Overview and History (Algo Trading)"
+title: "Bank of Central African States: Overview and History"
 description: "Discover the rich history and pivotal role of the Bank of Central African States in driving monetary stability and growth in the CEMAC region."
 ---
 

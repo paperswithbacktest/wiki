@@ -1,5 +1,5 @@
 ---
-title: "Exposure Netting: Overview and Mechanisms (Algo Trading)"
+title: "Exposure Netting: Overview and Mechanisms"
 description: "Discover how exposure netting combined with derivatives and algorithmic trading empowers firms to manage financial risks and enhance their economic stability effectively."
 ---
 

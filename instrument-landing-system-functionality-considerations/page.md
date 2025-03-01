@@ -1,5 +1,5 @@
 ---
-title: "Instrument Landing System: Functionality and Considerations (Algo Trading)"
+title: "Instrument Landing System: Functionality and Considerations"
 description: "Explore the functionality of the Instrument Landing System (ILS) crucial for aviation navigation ensuring precise and safe aircraft landings in various weather conditions."
 ---
 

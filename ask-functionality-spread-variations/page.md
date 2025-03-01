@@ -1,5 +1,5 @@
 ---
-title: "Ask: Functionality and Spread Variations (Algo Trading)"
+title: "Ask: Functionality and Spread Variations"
 description: "Mastering concepts like ask price, ask spread, and bid-ask spread is vital in trading. Explore their impact on algo trading and market efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Inflationary Risk and Mitigation Strategies (Algo Trading)"
+title: "Inflationary Risk and Mitigation Strategies"
 description: "Explore inflation risk and mitigation with algorithmic trading to preserve investment value by using data-driven strategies that protect against rising inflation."
 ---
 

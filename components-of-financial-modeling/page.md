@@ -1,5 +1,5 @@
 ---
-title: "Components of Financial Modeling (Algo Trading)"
+title: "Components of Financial Modeling"
 description: "Explore the crucial components of financial modeling for algorithmic trading and financial analysis Understand its role in predicting outcomes and making informed decisions"
 ---
 

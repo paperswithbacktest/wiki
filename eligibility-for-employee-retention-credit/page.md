@@ -1,5 +1,5 @@
 ---
-title: "Eligibility for Employee Retention Credit (Algo Trading)"
+title: "Eligibility for Employee Retention Credit"
 description: "Explore the eligibility criteria for the Employee Retention Credit amid the challenges of the COVID-19 pandemic and the role of algorithmic trading in financial strategy."
 ---
 

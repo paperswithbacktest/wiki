@@ -1,5 +1,5 @@
 ---
-title: "Ichimoku Strategy (Algo Trading)"
+title: "Ichimoku Strategy"
 description: Discover the significance of the Ichimoku Cloud strategy in algorithmic trading with this comprehensive guide. Learn how this versatile technical indicator, developed in Japan, offers a multidimensional analysis of market conditions by incorporating trends, support and resistance levels, and momentum. Explore the five key components of the Ichimoku Cloud and understand their role in trend identification and potential price movements. This article provides insights on effectively implementing the Ichimoku strategy using Python to enhance trading performance, while discussing the best time frames and risk management practices for its application.
 ---
 

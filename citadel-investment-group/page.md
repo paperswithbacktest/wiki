@@ -1,5 +1,5 @@
 ---
-title: "Citadel Investment Group (Algo Trading)"
+title: "Citadel Investment Group"
 description: "Explore Citadel Investment Group's innovative use of algorithmic trading to improve market efficiency and speed. Learn how technology fuels their financial strategies."
 ---
 

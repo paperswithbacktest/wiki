@@ -1,5 +1,5 @@
 ---
-title: "Health Care Risk Management (Algo Trading)"
+title: "Health Care Risk Management"
 description: "Explore how advanced algorithms from trading are redefining healthcare risk management, enhancing patient safety, and improving care quality through data-driven strategies."
 ---
 

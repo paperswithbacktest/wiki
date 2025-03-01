@@ -1,5 +1,5 @@
 ---
-title: "Invest Then Investigate (Algo Trading)"
+title: "Invest Then Investigate"
 description: "Unlock the complexities of algo trading and investment strategies with insights on value growth and income investing Learn how to navigate today's financial markets"
 ---
 

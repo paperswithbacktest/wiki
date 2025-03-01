@@ -1,5 +1,5 @@
 ---
-title: "Degrees in Demand by Oil Companies (Algo Trading)"
+title: "Degrees in Demand by Oil Companies"
 description: "Explore diverse degree paths vital to the oil industry, from engineering to data science. Discover evolving roles, sustainability, and algo trading opportunities."
 ---
 

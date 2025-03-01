@@ -1,5 +1,5 @@
 ---
-title: "Current Yield: Formula and Calculation (Algo Trading)"
+title: "Current Yield: Formula and Calculation"
 description: "Explore bond yields, investment returns, and algorithmic trading to enhance portfolio management. Learn calculations and strategies for optimal financial gains."
 ---
 

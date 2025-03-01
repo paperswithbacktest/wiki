@@ -1,5 +1,5 @@
 ---
-title: "Applications of Sensitivity Analysis (Algo Trading)"
+title: "Applications of Sensitivity Analysis"
 description: "Explore the importance of sensitivity analysis in algorithmic trading to optimize strategies and enhance robustness against market fluctuations and unforeseen events."
 ---
 

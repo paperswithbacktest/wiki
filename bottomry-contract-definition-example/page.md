@@ -1,5 +1,5 @@
 ---
-title: "Bottomry Contract: Definition and Example (Algo Trading)"
+title: "Bottomry Contract: Definition and Example"
 description: "Explore the fascinating world of bottomry contracts and their evolution into modern marine insurance and algorithmic trading, enhancing risk management today."
 ---
 

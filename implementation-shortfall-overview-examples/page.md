@@ -1,5 +1,5 @@
 ---
-title: "Implementation Shortfall: Overview and Examples (Algo Trading)"
+title: "Implementation Shortfall: Overview and Examples"
 description: "Learn about implementation shortfall a key metric in trading that evaluates execution efficiency in algo trading and its impact on investment costs and returns."
 ---
 

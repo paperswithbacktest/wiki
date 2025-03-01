@@ -1,5 +1,5 @@
 ---
-title: "Calculating Internal Rate of Return Using Excel (Algo Trading)"
+title: "Calculating Internal Rate of Return Using Excel"
 description: "Learn how to calculate Internal Rate of Return (IRR) in Excel for evaluating investment profitability understand financial functions and improve decision-making."
 ---
 

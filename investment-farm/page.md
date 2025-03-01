@@ -1,5 +1,5 @@
 ---
-title: "Investment Farm (Algo Trading)"
+title: "Investment Farm"
 description: "Discover the benefits of diversifying your portfolio with investment farming and algorithmic trading in agriculture. Learn strategies for stable growth."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Load: Significance, Types, and Considerations (Algo Trading)"
+title: "Load: Significance, Types, and Considerations"
 description: "Explore the dynamics of load in algorithmic trading Learn about different load types and their impact on profitability to optimize your trading strategies effectively"
 ---
 

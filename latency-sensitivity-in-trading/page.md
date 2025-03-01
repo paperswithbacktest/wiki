@@ -1,5 +1,5 @@
 ---
-title: "Latency Sensitivity in Trading (Algo Trading)"
+title: "Latency Sensitivity in Trading"
 description: "Explore latency sensitivity in algo trading where swift execution can make or break strategies. Learn how low latency impacts performance and reduces risks."
 ---
 

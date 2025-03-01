@@ -1,5 +1,5 @@
 ---
-title: "Long Jelly Roll (Algo Trading)"
+title: "Long Jelly Roll"
 description: "Explore the long jelly roll strategy in options trading to maximize profit with minimal risk. Ideal for algorithmic trading by exploiting pricing inefficiencies."
 ---
 

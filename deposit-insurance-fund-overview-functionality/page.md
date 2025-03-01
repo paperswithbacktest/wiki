@@ -1,5 +1,5 @@
 ---
-title: "Deposit Insurance Fund Overview and Functionality (Algo Trading)"
+title: "Deposit Insurance Fund Overview and Functionality"
 description: "Explore the role of the Deposit Insurance Fund in protecting depositor assets and enhancing confidence in banking amid the rise of algorithmic trading."
 ---
 

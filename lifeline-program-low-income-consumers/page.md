@@ -1,5 +1,5 @@
 ---
-title: "Lifeline Program for Low-Income Consumers (Algo Trading)"
+title: "Lifeline Program for Low-Income Consumers"
 description: "The Lifeline program by the FCC ensures affordable communication access for low-income households promoting economic and educational opportunities."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Agency Problem and Risk Mitigation (Algo Trading)"
+title: "Agency Problem and Risk Mitigation"
 description: "Explore the intersection of agency problems corporate governance and algorithmic trading. Learn how risk mitigation strategies optimize financial outcomes."
 ---
 

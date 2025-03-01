@@ -1,5 +1,5 @@
 ---
-title: "Dual Banking System: Overview, History, Advantages, and Disadvantages (Algo Trading)"
+title: "Dual Banking System: Overview, History, Advantages, and Disadvantages"
 description: "Explore the intricacies of the U.S. dual banking system, its historical roots, current landscape, and implications for algorithmic trading in financial markets."
 ---
 

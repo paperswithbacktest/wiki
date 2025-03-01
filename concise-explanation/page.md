@@ -1,5 +1,5 @@
 ---
-title: "Concise Explanation (Algo Trading)"
+title: "Concise Explanation"
 description: "Explore algorithmic trading's impact on financial markets with an emphasis on speed and precision through advanced algorithms. This page examines how algo trading utilizes complex mathematical models to manage large datasets, offering improved decision-making and efficiency while minimizing human error. Discover the benefits and challenges of implementing algo strategies, their effects on market dynamics, and the growing accessibility of these tools to both institutional and retail traders."
 ---
 

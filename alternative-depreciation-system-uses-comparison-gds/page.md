@@ -1,5 +1,5 @@
 ---
-title: "Alternative Depreciation System: Uses and Comparison with GDS (Algo Trading)"
+title: "Alternative Depreciation System: Uses and Comparison with GDS"
 description: "Explore the key differences between the Alternative Depreciation System (ADS) and the General Depreciation System (GDS) in the context of financial planning, tax liabilities, and their implications for algorithmic trading strategies. Understand how these depreciation methods can affect tax deductions, asset valuations, and align with business financial objectives for optimal fiscal outcomes. Discover strategic applications in industries such as real estate and the importance of choosing the right system for stable revenue streams and regulatory compliance."
 ---
 

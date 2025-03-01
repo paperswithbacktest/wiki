@@ -1,5 +1,5 @@
 ---
-title: "Industries Potentially Disrupted by Blockchain Technology (Algo Trading)"
+title: "Industries Potentially Disrupted by Blockchain Technology"
 description: "Explore how blockchain technology is transforming algorithmic trading by enhancing security, reducing costs, and increasing transaction efficiency across financial markets."
 ---
 

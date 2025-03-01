@@ -1,5 +1,5 @@
 ---
-title: "Equity Derivatives: Usage and Example (Algo Trading)"
+title: "Equity Derivatives: Usage and Example"
 description: "Explore how equity derivatives and algorithmic trading are revolutionizing investment strategies in today's financial markets. Discover their roles in risk management and speculation, and how they empower investors with tools for efficient trading and maximizing returns."
 ---
 

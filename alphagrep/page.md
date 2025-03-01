@@ -1,5 +1,5 @@
 ---
-title: "AlphaGrep (Algo Trading)"
+title: "AlphaGrep"
 description: "AlphaGrep excels in quantitative trading with advanced algorithmic strategies, offering liquidity on 30+ global exchanges to enhance market efficiency."
 ---
 

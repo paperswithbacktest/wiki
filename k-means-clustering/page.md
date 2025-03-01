@@ -1,5 +1,5 @@
 ---
-title: "K-means clustering (Algo Trading)"
+title: "K-means clustering"
 description: "Explore how K-means clustering enhances algorithmic trading by identifying data patterns with innovative integration of technical indicators like RSI for profitable strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Days to Cover and Investor Utilization (Algo Trading)"
+title: "Days to Cover and Investor Utilization"
 description: "Discover the importance of short interest and days to cover in trading. Learn how algorithmic trading leverages these metrics to enhance investment strategies."
 ---
 

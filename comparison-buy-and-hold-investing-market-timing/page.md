@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Buy-and-Hold Investing and Market Timing (Algo Trading)"
+title: "Comparison of Buy-and-Hold Investing and Market Timing"
 description: "Explore the key differences between buy-and-hold investing and market timing. Discover how these strategies align with various financial goals and risk levels."
 ---
 

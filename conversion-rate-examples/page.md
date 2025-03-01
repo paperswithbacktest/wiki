@@ -1,5 +1,5 @@
 ---
-title: "Conversion Rate and Examples (Algo Trading)"
+title: "Conversion Rate and Examples"
 description: "Explore how conversion rates play a vital role in digital success unlocking insights and strategies to boost effectiveness in marketing and algorithmic trading."
 ---
 

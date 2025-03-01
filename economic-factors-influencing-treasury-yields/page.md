@@ -1,5 +1,5 @@
 ---
-title: "Economic Factors Influencing Treasury Yields (Algo Trading)"
+title: "Economic Factors Influencing Treasury Yields"
 description: "Explore how treasury yields, interest rates, and algorithmic trading interplay, impacting investment strategies and market dynamics in the financial landscape."
 ---
 

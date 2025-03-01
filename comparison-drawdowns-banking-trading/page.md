@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Drawdowns in Banking and Trading (Algo Trading)"
+title: "Comparison of Drawdowns in Banking and Trading"
 description: "Explore drawdowns in banking and trading to enhance risk management. Learn their significance in financial sectors to ensure stability and informed decisions."
 ---
 

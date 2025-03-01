@@ -1,5 +1,5 @@
 ---
-title: "Managing Cryptocurrency FOMO (Algo Trading)"
+title: "Managing Cryptocurrency FOMO"
 description: "Discover strategies for managing cryptocurrency FOMO and learn how algorithmic trading can help investors make data-driven decisions. Understand the psychological effects of FOMO and explore techniques to mitigate impulsive investing driven by market volatility."
 ---
 

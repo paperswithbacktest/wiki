@@ -1,5 +1,5 @@
 ---
-title: "Hierarchy of Effects Theory and Its Stages (Algo Trading)"
+title: "Hierarchy of Effects Theory and Its Stages"
 description: "Explore the intersection of Hierarchy of Effects theory and algorithmic trading to understand consumer behavior and advertising strategy in digital markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Value and Growth ETFs (Algo Trading)"
+title: "Comparison of Value and Growth ETFs"
 description: "Compare value and growth ETFs as modern investment strategies that integrate algorithmic trading and diversification to optimize returns and manage risk."
 ---
 

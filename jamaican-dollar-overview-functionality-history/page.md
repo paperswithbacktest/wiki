@@ -1,5 +1,5 @@
 ---
-title: "Jamaican Dollar: Overview, Functionality, and Historical Context (Algo Trading)"
+title: "Jamaican Dollar: Overview, Functionality, and Historical Context"
 description: "Explore the Jamaican Dollar its historical evolution role in algorithmic trading and international significance illustrating its cultural and economic impact."
 ---
 

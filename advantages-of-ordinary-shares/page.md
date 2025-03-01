@@ -1,5 +1,5 @@
 ---
-title: "Advantages of Ordinary Shares (Algo Trading)"
+title: "Advantages of Ordinary Shares"
 description: "Explore the advantages of ordinary shares in equity investment, including voting rights and potential returns, and the impact of algorithmic trading on efficiency."
 ---
 

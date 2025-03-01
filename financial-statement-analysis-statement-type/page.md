@@ -1,5 +1,5 @@
 ---
-title: "Financial Statement Analysis by Statement Type (Algo Trading)"
+title: "Financial Statement Analysis by Statement Type"
 description: "Explore the crucial link between financial reporting and algorithmic trading to enhance financial literacy and optimize trading strategies for better investment outcomes."
 ---
 

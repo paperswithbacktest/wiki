@@ -1,5 +1,5 @@
 ---
-title: "Income Deposit Securities: Overview and History (Algo Trading)"
+title: "Income Deposit Securities: Overview and History"
 description: "Explore the role of income deposit securities IDS and fixed-income securities in investment strategies, amidst the rise of algorithmic trading in financial markets."
 ---
 

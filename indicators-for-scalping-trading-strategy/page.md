@@ -1,5 +1,5 @@
 ---
-title: "Indicators for Scalping Trading Strategy (Algo Trading)"
+title: "Indicators for Scalping Trading Strategy"
 description: "Explore effective scalping strategies using trading indicators for algorithmic day trading Gain insights into tools like RSI and moving averages for better decisions"
 ---
 

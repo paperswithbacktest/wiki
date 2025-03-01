@@ -1,5 +1,5 @@
 ---
-title: "CUSUM tests (Algo Trading)"
+title: "CUSUM tests"
 description: Explore how CUSUM tests enhance algorithmic trading by detecting subtle data shifts crucial for strategy refinement. Known for identifying changes in time series means effectively, CUSUM provides timely insights into market trends. By accumulating deviations from a mean, this technique aids traders in making informed decisions and maintaining competitiveness in dynamic markets. Learn to implement CUSUM in trading algorithms for increased precision and robust, objective signal generation amidst market volatility.
 ---
 

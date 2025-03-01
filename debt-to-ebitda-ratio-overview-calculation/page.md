@@ -1,5 +1,5 @@
 ---
-title: "Debt-to-EBITDA Ratio Overview and Calculation (Algo Trading)"
+title: "Debt-to-EBITDA Ratio Overview and Calculation"
 description: "Discover the impact of the Debt-to-EBITDA ratio in algorithmic trading and financial health analysis. Learn its calculation and significance for investors."
 ---
 

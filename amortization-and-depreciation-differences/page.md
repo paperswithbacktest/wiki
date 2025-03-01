@@ -1,5 +1,5 @@
 ---
-title: "Amortization and Depreciation Differences (Algo Trading)"
+title: "Amortization and Depreciation Differences"
 description: "Explore the distinctions between amortization and depreciation in financial accounting, and their significance in algorithmic trading. Learn how these concepts impact asset value representation, risk assessment, and investment strategies crucial for navigating today's financial landscape."
 ---
 

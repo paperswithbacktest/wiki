@@ -1,5 +1,5 @@
 ---
-title: "DeMarker Indicator and Trading Strategies (Algo Trading)"
+title: "DeMarker Indicator and Trading Strategies"
 description: "Explore the DeMarker Indicator in trading to predict market trends. Learn its use in identifying overbought and oversold conditions for better trading strategies."
 ---
 

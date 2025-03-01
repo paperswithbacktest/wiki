@@ -1,5 +1,5 @@
 ---
-title: "Converting Value at Risk Across Time Periods (Algo Trading)"
+title: "Converting Value at Risk Across Time Periods"
 description: "Discover how Value at Risk (VaR) integrates with algorithmic trading to enhance financial risk management and optimize decision-making in uncertain markets."
 ---
 

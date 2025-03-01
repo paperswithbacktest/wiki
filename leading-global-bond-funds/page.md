@@ -1,5 +1,5 @@
 ---
-title: "Leading Global Bond Funds (Algo Trading)"
+title: "Leading Global Bond Funds"
 description: "Enhance your investment strategy with global bond funds and algorithmic trading for balanced portfolio growth and risk management in a complex financial world."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Layering (finance) (Algo Trading)"
+title: "Layering (finance)"
 description: "Explore the contentious algorithmic trading strategy of layering, which manipulates stock prices through deceptive trade orders and faces legal and ethical scrutiny worldwide."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Korean Composite Stock Price Index (KOSPI) (Algo Trading)"
+title: "Korean Composite Stock Price Index (KOSPI)"
 description: "Explore the Korean Composite Stock Price Index (KOSPI), a crucial indicator of South Korea's economic health, and its integration with algorithmic trading strategies."
 ---
 

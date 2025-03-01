@@ -1,5 +1,5 @@
 ---
-title: "Deposit/Withdrawal at Custodian (DWAC) (Algo Trading)"
+title: "Deposit/Withdrawal at Custodian (DWAC)"
 description: "Deposit/Withdrawal at Custodian (DWAC) facilitates swift and secure electronic securities transfers essential for efficient algo trading and modern financial operations."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "CREST: Function and Applications in Stock Trading (Algo Trading)"
+title: "CREST: Function and Applications in Stock Trading"
 description: "Explore how CREST and algorithmic trading are revolutionizing stock markets in the UK and Ireland by improving efficiency, liquidity, and transaction speed."
 ---
 

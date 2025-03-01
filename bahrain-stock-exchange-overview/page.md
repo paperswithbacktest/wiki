@@ -1,5 +1,5 @@
 ---
-title: "Bahrain Stock Exchange Overview (Algo Trading)"
+title: "Bahrain Stock Exchange Overview"
 description: "Discover the Bahrain Stock Exchange's evolution to Bahrain Bourse and its embrace of algorithmic trading enhancing financial market efficiency and attracting investors."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Directional Movement Index: Formula, Calculation, and Uses (Algo Trading)"
+title: "Directional Movement Index: Formula, Calculation, and Uses"
 description: "Discover how the Directional Movement Index can enhance trend analysis in trading with its indicators DI and ADX Learn how its formula aids algo trading strategies"
 ---
 

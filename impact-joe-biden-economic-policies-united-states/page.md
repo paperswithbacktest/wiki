@@ -1,5 +1,5 @@
 ---
-title: "Impact of Joe Biden's Economic Policies on the United States (Algo Trading)"
+title: "Impact of Joe Biden's Economic Policies on the United States"
 description: "Explore the impact of Biden's economic policies on the U.S. and algorithmic trading Learn how these strategies affect market dynamics and trading opportunities"
 ---
 

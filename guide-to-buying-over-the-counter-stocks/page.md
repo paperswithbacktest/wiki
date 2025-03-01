@@ -1,5 +1,5 @@
 ---
-title: "Guide to Buying Over-the-Counter Stocks (Algo Trading)"
+title: "Guide to Buying Over-the-Counter Stocks"
 description: "Explore the dynamic world of OTC trading with our comprehensive guide designed for both novice and seasoned investors. Learn how the decentralized broker-dealer network operates beyond traditional exchanges like NYSE or NASDAQ to offer flexibility and access to diverse securities. This article investigates into the mechanics of OTC trading, the application of algo trading, and weighs both risks and rewards. Gain insights into market volatility, liquidity concerns, and strategic approaches to mitigate risk while uncovering opportunities with small and emerging companies. Equip yourself with knowledge to make informed and strategic investment choices in the OTC market."
 ---
 

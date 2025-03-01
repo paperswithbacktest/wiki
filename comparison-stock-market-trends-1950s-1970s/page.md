@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Stock Market Trends: 1950s vs. 1970s (Algo Trading)"
+title: "Comparison of Stock Market Trends: 1950s vs. 1970s"
 description: "Explore the differences in stock market trends between the boom of the 1950s and the economic challenges of the 1970s with the rise of algo trading."
 ---
 

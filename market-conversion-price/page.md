@@ -1,5 +1,5 @@
 ---
-title: "Market Conversion Price (Algo Trading)"
+title: "Market Conversion Price"
 description: "Explore the critical components of algorithmic trading and market conversion price with insights into stock conversion practices and essential financial terms."
 ---
 

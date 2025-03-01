@@ -1,5 +1,5 @@
 ---
-title: "Below Par: Definition, Mechanism, Causes (Algo Trading)"
+title: "Below Par: Definition, Mechanism, Causes"
 description: "Discover the intricacies of bond pricing and its impact on algo trading. Understand why bonds trade below par and how algorithms exploit these dynamics for profit."
 ---
 

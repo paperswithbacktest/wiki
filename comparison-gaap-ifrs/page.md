@@ -1,5 +1,5 @@
 ---
-title: "Comparison of GAAP and IFRS (Algo Trading)"
+title: "Comparison of GAAP and IFRS"
 description: "Explore how GAAP and IFRS impact algorithmic trading with key differences in financial reporting. Understand their role in ensuring transparency and compliance."
 ---
 

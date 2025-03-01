@@ -1,5 +1,5 @@
 ---
-title: "Cash Disbursement Journal (Algo Trading)"
+title: "Cash Disbursement Journal"
 description: "Discover how cash disbursement journals enhance financial management accuracy by tracking outgoing payments and supporting efficient algo trading strategies."
 ---
 

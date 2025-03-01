@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Buy Limit and Stop Orders (Algo Trading)"
+title: "Differences Between Buy Limit and Stop Orders"
 description: "Discover the differences between buy limit and stop orders in algorithmic trading and learn how they enhance trade execution and risk management."
 ---
 

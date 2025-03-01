@@ -1,5 +1,5 @@
 ---
-title: "Departmental Overhead Rate (Algo Trading)"
+title: "Departmental Overhead Rate"
 description: "Explore the synergy between cost allocation, departmental overhead rates, and algorithmic trading for enhanced operational efficiency and competitive advantage."
 ---
 

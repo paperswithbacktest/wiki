@@ -1,5 +1,5 @@
 ---
-title: "Green Bond Investing: Opportunities and Risks (Algo Trading)"
+title: "Green Bond Investing: Opportunities and Risks"
 description: "Explore the opportunities and risks of green bond investing in the evolving landscape of sustainable finance, featuring insights on algorithmic trading."
 ---
 

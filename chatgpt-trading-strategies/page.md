@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT Trading Strategies Explained (Algo Trading)"
+title: "ChatGPT Trading Strategies Explained"
 description: Explore how ChatGPT revolutionizes algorithmic trading in this comprehensive guide. Discover its role in analyzing data, forming strategies, and enhancing decision-making with AI precision. Learn how traders leverage ChatGPT for trading insights, backtesting models, and sentiment analysis to stay ahead in dynamic markets. Understand the advantages and strategic integration of AI in trading to optimize performance and minimize biases.
 ---
 

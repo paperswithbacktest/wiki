@@ -1,5 +1,5 @@
 ---
-title: "Ex-Distribution: Definition and Examples (Algo Trading)"
+title: "Ex-Distribution: Definition and Examples"
 description: "Explore the dynamic interplay between ex-distribution finance, dividends, and algorithmic trading to optimize your investment strategies and enhance shareholder value."
 ---
 

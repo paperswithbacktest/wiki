@@ -1,5 +1,5 @@
 ---
-title: "Chicago Mercantile Exchange: History and Regulation (Algo Trading)"
+title: "Chicago Mercantile Exchange: History and Regulation"
 description: "Explore the evolution and regulation of the Chicago Mercantile Exchange a key player in global financial markets and a leader in algorithmic trading."
 ---
 

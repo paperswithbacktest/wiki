@@ -1,5 +1,5 @@
 ---
-title: "ISM Non-Manufacturing Index: Overview and Categories (Algo Trading)"
+title: "ISM Non-Manufacturing Index: Overview and Categories"
 description: "Explore the ISM Non-Manufacturing Index's significance in understanding service sector health and its role in algorithmic trading for informed economic decisions."
 ---
 

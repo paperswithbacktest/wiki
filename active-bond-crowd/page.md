@@ -1,5 +1,5 @@
 ---
-title: "Active Bond Crowd (Algo Trading)"
+title: "Active Bond Crowd"
 description: "Explore the evolving bond markets and the impact of algorithmic trading and AI on financial decisions Discover how bonds shape global financial ecosystems"
 ---
 

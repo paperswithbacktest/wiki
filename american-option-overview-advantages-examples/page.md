@@ -1,5 +1,5 @@
 ---
-title: "American Option: Overview, Advantages, and Examples (Algo Trading)"
+title: "American Option: Overview, Advantages, and Examples"
 description: "Explore the advantages of American options and their execution flexibility. Learn how algorithmic trading enhances strategies, risk management, and pricing techniques."
 ---
 

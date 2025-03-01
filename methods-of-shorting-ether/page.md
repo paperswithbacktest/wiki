@@ -1,5 +1,5 @@
 ---
-title: "Methods of Shorting Ether (Algo Trading)"
+title: "Methods of Shorting Ether"
 description: "Explore effective methods of shorting Ether in algorithmic trading with strategies and tools to capitalize on Ethereum's price movements and market volatility."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Benchmark Options for Small-Cap Stock Portfolios (Algo Trading)"
+title: "Benchmark Options for Small-Cap Stock Portfolios"
 description: "Explore the potential of combining small-cap investments with algorithmic trading for optimized returns and risk management Discover strategies and tools for success"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Challenges Faced by Airlines (Algo Trading)"
+title: "Challenges Faced by Airlines"
 description: "Explore how airlines navigate financial challenges such as fuel price volatility and regulatory demands using algorithmic trading to optimize financial strategies."
 ---
 

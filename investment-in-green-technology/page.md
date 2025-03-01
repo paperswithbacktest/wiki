@@ -1,5 +1,5 @@
 ---
-title: "Investment in Green Technology (Algo Trading)"
+title: "Investment in Green Technology"
 description: "Explore how sustainable investing and green technology, combined with algorithmic trading, are transforming finance to support both economic returns and environmental goals."
 ---
 

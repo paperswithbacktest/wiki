@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Hong Kong and Mainland China (Algo Trading)"
+title: "Comparison of Hong Kong and Mainland China"
 description: "Explore the key differences in algorithmic trading between Hong Kong and Mainland China Discover diverse regulatory policies market structures and trading strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Headline Effect: Mechanism and Examples (Algo Trading)"
+title: "Headline Effect: Mechanism and Examples"
 description: "Explore the impact of the headline effect in algorithmic trading where media-driven emotional responses can sway investor decisions and market trends significantly."
 ---
 

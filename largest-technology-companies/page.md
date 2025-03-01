@@ -1,5 +1,5 @@
 ---
-title: "Largest Technology Companies (Algo Trading)"
+title: "Largest Technology Companies"
 description: "Explore how tech giants like Apple, Samsung, and Microsoft drive global innovation and impact financial markets through transformative algorithmic trading advancements."
 ---
 

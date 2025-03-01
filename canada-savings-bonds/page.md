@@ -1,5 +1,5 @@
 ---
-title: "Canada Savings Bonds (Algo Trading)"
+title: "Canada Savings Bonds"
 description: "Explore the evolution of Canada Savings Bonds and modern investment alternatives like algorithmic trading offering secure, diversified strategies for investors."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Japan Inc. (Algo Trading)"
+title: "Japan Inc."
 description: "Explore Japan Inc. to understand the synergy between business and government that drives economic growth innovation and algorithmic trading success in the Japanese market."
 ---
 

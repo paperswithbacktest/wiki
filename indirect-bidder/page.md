@@ -1,5 +1,5 @@
 ---
-title: "Indirect Bidder (Algo Trading)"
+title: "Indirect Bidder"
 description: "Explore the impact of indirect bidding and algorithmic trading in financial markets. Discover key auction methods like English Dutch and sealed-bid auctions."
 ---
 

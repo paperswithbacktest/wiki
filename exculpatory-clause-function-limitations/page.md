@@ -1,5 +1,5 @@
 ---
-title: "Exculpatory Clause: Function and Limitations (Algo Trading)"
+title: "Exculpatory Clause: Function and Limitations"
 description: "Explore the role and limitations of exculpatory clauses in algorithmic trading Discover how these legal provisions manage risk and define responsibilities"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Methods of Funding a Forex Account (Algo Trading)"
+title: "Methods of Funding a Forex Account"
 description: "Explore secure and efficient methods to fund your forex account. Learn about wire transfers, credit cards, e-wallets, and cryptocurrencies to enhance trading."
 ---
 

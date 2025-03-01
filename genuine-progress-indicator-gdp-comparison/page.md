@@ -1,5 +1,5 @@
 ---
-title: "Genuine Progress Indicator Compared to GDP (Algo Trading)"
+title: "Genuine Progress Indicator Compared to GDP"
 description: "Discover how the Genuine Progress Indicator (GPI) contrasts with GDP by integrating environmental and social metrics, and its impact on algorithmic trading strategies."
 ---
 

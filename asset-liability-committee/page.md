@@ -1,5 +1,5 @@
 ---
-title: "Asset-Liability Committee (Algo Trading)"
+title: "Asset-Liability Committee"
 description: "Explore the strategic roles of the Asset-Liability Committee and algorithmic trading in managing financial risks and optimizing asset-liability balance in finance."
 ---
 

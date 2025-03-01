@@ -1,5 +1,5 @@
 ---
-title: "Absolute Value: Overview and Calculation Methods (Algo Trading)"
+title: "Absolute Value: Overview and Calculation Methods"
 description: "Explore absolute value in algorithmic trading as a key mathematical concept enhancing financial strategies by focusing on intrinsic asset value amidst market volatility."
 ---
 

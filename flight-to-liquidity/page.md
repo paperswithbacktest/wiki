@@ -1,5 +1,5 @@
 ---
-title: "Flight to Liquidity (Algo Trading)"
+title: "Flight to Liquidity"
 description: "Explore liquidity's crucial role in algo trading and investments Discover how these elements empower investors to navigate evolving financial markets efficiently"
 ---
 

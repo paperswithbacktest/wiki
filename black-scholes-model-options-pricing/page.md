@@ -1,5 +1,5 @@
 ---
-title: "Black-Scholes Model and Options Pricing (Algo Trading)"
+title: "Black-Scholes Model and Options Pricing"
 description: "Explore the fundamentals of options pricing with the Black-Scholes Model a key component in algorithmic trading and financial derivatives valuation."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Private and Public Companies (Algo Trading)"
+title: "Differences Between Private and Public Companies"
 description: "Explore the differences between public and private companies in algorithmic trading. Understand how structure impacts strategy, capital access, and regulation."
 ---
 

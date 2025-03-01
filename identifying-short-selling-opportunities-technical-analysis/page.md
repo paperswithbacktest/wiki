@@ -1,5 +1,5 @@
 ---
-title: "Identifying Short-Selling Opportunities with Technical Analysis (Algo Trading)"
+title: "Identifying Short-Selling Opportunities with Technical Analysis"
 description: "Discover how technical analysis uncovers short-selling opportunities in algorithmic trading. Learn about key indicators, strategies, and risk management."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Barrel of Oil Equivalent (Algo Trading)"
+title: "Barrel of Oil Equivalent"
 description: "Uncover the pivotal role of the Barrel of Oil Equivalent in energy trading Discover how BOE simplifies energy comparison and enhances algorithmic trading efficiency"
 ---
 

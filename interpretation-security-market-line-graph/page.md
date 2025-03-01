@@ -1,5 +1,5 @@
 ---
-title: "Interpretation of a Security Market Line Graph (Algo Trading)"
+title: "Interpretation of a Security Market Line Graph"
 description: "Explore the Security Market Line in algorithmic trading to understand risk-return dynamics, using CAPM for informed investment decisions and better outcomes."
 ---
 

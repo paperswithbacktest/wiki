@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Book Value and Carrying Value (Algo Trading)"
+title: "Comparison of Book Value and Carrying Value"
 description: "Discover the key differences between book value and carrying value essential for algorithmic trading and financial analysis to enhance investment strategies."
 ---
 

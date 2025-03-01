@@ -1,5 +1,5 @@
 ---
-title: "Industrialization and Urbanization (Algo Trading)"
+title: "Industrialization and Urbanization"
 description: "Explore the dynamic relationship between industrialization, urbanization, and economic development, tracing their evolution from the Industrial Revolution to modern-day technological advancements like algorithmic trading. Understand how these forces have shaped urban landscapes and financial markets, fostering economic growth and innovation while presenting new challenges for sustainable urban planning. This page investigates into historical insights and current trends that inform future strategies for balanced and inclusive development."
 ---
 

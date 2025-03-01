@@ -1,5 +1,5 @@
 ---
-title: "Eurex: Overview, History, and Trading Technology (Algo Trading)"
+title: "Eurex: Overview, History, and Trading Technology"
 description: "Explore Eurex a leader in futures and options markets blending historic roots with cutting-edge trading technology and innovative algorithmic systems."
 ---
 

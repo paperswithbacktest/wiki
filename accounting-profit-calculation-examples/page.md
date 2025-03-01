@@ -1,5 +1,5 @@
 ---
-title: "Accounting Profit: Calculation and Examples (Algo Trading)"
+title: "Accounting Profit: Calculation and Examples"
 description: "Discover how to accurately calculate accounting profit, essential for evaluating financial performance in both traditional and algorithmic trading contexts."
 ---
 

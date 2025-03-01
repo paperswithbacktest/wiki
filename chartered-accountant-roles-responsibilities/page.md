@@ -1,5 +1,5 @@
 ---
-title: "Chartered Accountant Roles and Responsibilities (Algo Trading)"
+title: "Chartered Accountant Roles and Responsibilities"
 description: "Discover how Chartered Accountants enhance financial strategies in the evolving world of algo trading through risk management, compliance, and tech integration."
 ---
 

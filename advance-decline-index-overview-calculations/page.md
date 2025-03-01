@@ -1,5 +1,5 @@
 ---
-title: "Advance/Decline Index: Overview and Calculations (Algo Trading)"
+title: "Advance/Decline Index: Overview and Calculations"
 description: "Explore the Advance/Decline Index and learn its significance in algorithmic trading. Understand market momentum by tracking advancing vs. declining stocks."
 ---
 

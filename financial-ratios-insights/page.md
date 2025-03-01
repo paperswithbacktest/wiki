@@ -1,5 +1,5 @@
 ---
-title: "Financial Ratios and Their Insights (Algo Trading)"
+title: "Financial Ratios and Their Insights"
 description: "Explore how financial ratios and algorithmic trading enhance investment strategies, offering insights into company performance, risk assessment, and profitable trading."
 ---
 

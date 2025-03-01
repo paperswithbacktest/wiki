@@ -1,5 +1,5 @@
 ---
-title: "Burgernomics: Definition and Mechanism (Algo Trading)"
+title: "Burgernomics: Definition and Mechanism"
 description: "Explore the synergy between Burgernomics economic theory and algorithmic trading Analyzing purchasing power reveals insights into global currency valuation and market strategies"
 ---
 

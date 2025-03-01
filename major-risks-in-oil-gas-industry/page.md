@@ -1,5 +1,5 @@
 ---
-title: "Major Risks in the Oil and Gas Industry (Algo Trading)"
+title: "Major Risks in the Oil and Gas Industry"
 description: "Explore the major risks facing the oil and gas industry including political instability regulatory challenges and market volatility despite technological advances"
 ---
 

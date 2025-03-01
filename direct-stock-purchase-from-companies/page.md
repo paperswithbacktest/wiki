@@ -1,5 +1,5 @@
 ---
-title: "Direct Stock Purchase from Companies (Algo Trading)"
+title: "Direct Stock Purchase from Companies"
 description: "Explore the benefits of direct stock purchase plans and algorithmic trading to enhance portfolio efficiency while reducing fees in today's dynamic markets."
 ---
 

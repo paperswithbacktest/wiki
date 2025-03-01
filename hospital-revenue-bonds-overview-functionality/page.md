@@ -1,5 +1,5 @@
 ---
-title: "Hospital Revenue Bonds: Overview and Functionality (Algo Trading)"
+title: "Hospital Revenue Bonds: Overview and Functionality"
 description: "Explore the dynamic role of hospital revenue bonds in healthcare finance Learn how these bonds fund expansions and the impact of algorithmic trading on their market"
 ---
 

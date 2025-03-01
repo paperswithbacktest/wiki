@@ -1,5 +1,5 @@
 ---
-title: "ATR Bands Trading Strategy (Algo Trading)"
+title: "ATR Bands Trading Strategy"
 description: Explore the ATR Bands trading strategy, a pivotal tool in algorithmic trading that enhances decision-making by quantifying market volatility. Discover how ATR Bands extend the Average True Range (ATR) indicator to visualize price movements, support dynamic risk management, and identify entry and exit points across various market conditions, from trending to range-bound scenarios. Learn the mechanics of ATR Bands, their integration into trading algorithms, and their benefits and limitations for traders seeking to balance returns with risk management.
 ---
 

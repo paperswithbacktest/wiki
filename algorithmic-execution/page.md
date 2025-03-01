@@ -1,5 +1,5 @@
 ---
-title: "algorithmic execution (Algo Trading)"
+title: "algorithmic execution"
 description: "Discover the world of algorithmic execution in trading where technology drives speed and precision Explore its benefits pitfalls and strategies for success"
 ---
 

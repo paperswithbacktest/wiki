@@ -1,5 +1,5 @@
 ---
-title: "Methods of Mining Litecoin (Algo Trading)"
+title: "Methods of Mining Litecoin"
 description: "Discover how Litecoin mining with Scrypt and algorithmic trading can optimize your crypto venture, offering faster transactions, enhanced accessibility, and efficiency."
 ---
 

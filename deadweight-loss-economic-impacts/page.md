@@ -1,5 +1,5 @@
 ---
-title: "Deadweight Loss and Its Economic Impacts (Algo Trading)"
+title: "Deadweight Loss and Its Economic Impacts"
 description: "Explore the economic impacts of deadweight loss, its causes like taxes and monopolies, and the complex role of algorithmic trading in market efficiency."
 ---
 

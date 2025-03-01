@@ -1,5 +1,5 @@
 ---
-title: "Common Stock Indicators for Trend Trading (Algo Trading)"
+title: "Common Stock Indicators for Trend Trading"
 description: "Explore how stock indicators, trend trading, and technical analysis empower traders in algorithmic trading. Learn key tools like RSI, MACD, and ADX."
 ---
 

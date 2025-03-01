@@ -1,5 +1,5 @@
 ---
-title: "Applications of Euler’s Number in Finance (Algo Trading)"
+title: "Applications of Euler’s Number in Finance"
 description: "Discover how Euler's number 'e' enhances algorithmic trading by aiding market prediction, optimizing financial models, and refining portfolio management strategies."
 ---
 

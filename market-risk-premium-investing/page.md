@@ -1,5 +1,5 @@
 ---
-title: "Market Risk Premium in Investing (Algo Trading)"
+title: "Market Risk Premium in Investing"
 description: "Explore the significance of the market risk premium in investing and the role of algorithmic trading in maximizing returns while managing investment risks."
 ---
 

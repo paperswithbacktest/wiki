@@ -1,5 +1,5 @@
 ---
-title: "Cryptocurrencies: Overview and Analysis (Algo Trading)"
+title: "Cryptocurrencies: Overview and Analysis"
 description: "Discover the impact of cryptocurrencies and blockchain technology on financial markets Explore algorithmic trading and digital investments opportunities"
 ---
 

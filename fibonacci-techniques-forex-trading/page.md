@@ -1,5 +1,5 @@
 ---
-title: "Fibonacci Techniques in Forex Trading (Algo Trading)"
+title: "Fibonacci Techniques in Forex Trading"
 description: "Explore how Fibonacci techniques enhance forex trading with algorithms Analyze market behavior easily using Fibonacci retracement and extension strategies"
 ---
 

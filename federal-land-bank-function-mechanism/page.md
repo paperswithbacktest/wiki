@@ -1,5 +1,5 @@
 ---
-title: "Federal Land Bank: Function and Mechanism (Algo Trading)"
+title: "Federal Land Bank: Function and Mechanism"
 description: "Discover how the Federal Land Bank supports rural development with long-term financing while algorithmic trading revolutionizes financial efficiencies in land financing."
 ---
 

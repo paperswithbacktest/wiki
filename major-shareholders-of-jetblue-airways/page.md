@@ -1,5 +1,5 @@
 ---
-title: "Major Shareholders of JetBlue Airways (Algo Trading)"
+title: "Major Shareholders of JetBlue Airways"
 description: "Explore JetBlue Airways' major shareholders and how algo trading influences investment decisions in the aviation industry for strategic financial insights."
 ---
 

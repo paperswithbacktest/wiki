@@ -1,5 +1,5 @@
 ---
-title: "History and Overview of the New Zealand Dollar (Algo Trading)"
+title: "History and Overview of the New Zealand Dollar"
 description: "Explore the New Zealand Dollar's history and its influence on global trading markets Understand how algorithmic trading strategies utilize historical currency data to optimize investments"
 ---
 

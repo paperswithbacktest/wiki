@@ -1,5 +1,5 @@
 ---
-title: "Fast-Moving Consumer Goods Industry Overview (Algo Trading)"
+title: "Fast-Moving Consumer Goods Industry Overview"
 description: "Explore how the FMCG industry integrates algorithmic trading to enhance efficiency. Learn about market dynamics and technological advancements driving profitability."
 ---
 

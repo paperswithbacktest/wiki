@@ -1,5 +1,5 @@
 ---
-title: "Chart of Accounts: Overview and Functionality (Algo Trading)"
+title: "Chart of Accounts: Overview and Functionality"
 description: "Discover the crucial role of a Chart of Accounts in financial management and algorithmic trading, enhancing clarity in reporting and decision-making."
 ---
 

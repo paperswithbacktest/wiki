@@ -1,5 +1,5 @@
 ---
-title: "Impact of Investing $10,000 at 2008 Financial Crisis Lows (Algo Trading)"
+title: "Impact of Investing $10,000 at 2008 Financial Crisis Lows"
 description: "Discover the impact of investing $10,000 at 2008 crisis lows with insights into market recovery algorithmic trading and long-term investment strategies."
 ---
 

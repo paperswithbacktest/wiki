@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Shanghai Upgrade (Algo Trading)"
+title: "Ethereum Shanghai Upgrade"
 description: "Explore the potential impact of Ethereum's Shanghai Upgrade on algorithmic trading with insights into enhanced transaction speeds, reduced fees, and improved scalability."
 ---
 

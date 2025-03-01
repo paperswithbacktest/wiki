@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Return on Equity and Return on Capital (Algo Trading)"
+title: "Comparison of Return on Equity and Return on Capital"
 description: "Explore the significance of Return on Equity and Return on Capital in algorithmic trading and their role in enhancing investment strategies and decisions."
 ---
 

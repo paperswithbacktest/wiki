@@ -1,5 +1,5 @@
 ---
-title: "Comparison of S&P 500 and Russell 1000 (Algo Trading)"
+title: "Comparison of S&P 500 and Russell 1000"
 description: "Explore the differences between the S&P 500 and Russell 1000 indices and the role algorithmic trading plays in optimizing investment strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Ethical Guidelines for Brokers (Algo Trading)"
+title: "Ethical Guidelines for Brokers"
 description: "Explore the ethical guidelines and responsibilities of brokers in algorithmic trading, emphasizing integrity, transparency, and investor protection in evolving markets."
 ---
 

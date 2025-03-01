@@ -1,5 +1,5 @@
 ---
-title: "Khandani, Amir (Algo Trading)"
+title: "Khandani, Amir"
 description: Explore the influential contributions of Khandani Amir to algorithmic trading, highlighting his role in advancing financial strategies and models. Gain insights into Amir's academic and professional journey, which includes key associations with top institutions like MIT. Delve into the impact of his work on risk management, trading strategies, and the formulation of economic models. Discover how Amir's integration of mathematical models and machine learning techniques has shaped modern financial markets, enhancing efficiency and accuracy. This article provides a comprehensive overview of his legacy and the evolving field of algorithmic trading.
 ---
 

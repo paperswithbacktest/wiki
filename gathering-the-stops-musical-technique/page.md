@@ -1,5 +1,5 @@
 ---
-title: "Gathering The Stops: A Musical Technique (Algo Trading)"
+title: "Gathering The Stops: A Musical Technique"
 description: "Explore the impact of the "Gather In The Stops" technique on algorithmic trading. Understand how it manipulates stop orders and challenges trading systems."
 ---
 

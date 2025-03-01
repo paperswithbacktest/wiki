@@ -1,5 +1,5 @@
 ---
-title: "Jeffrey C. Sprecher Biography (Algo Trading)"
+title: "Jeffrey C. Sprecher Biography"
 description: "Explore Jeffrey C Sprecher’s journey as a pioneer in electronic trading and algorithmic platforms leading ICE to global prominence in financial markets"
 ---
 

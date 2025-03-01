@@ -1,5 +1,5 @@
 ---
-title: "Cross Currency Triangulation and Its Mechanism (Algo Trading)"
+title: "Cross Currency Triangulation and Its Mechanism"
 description: "Discover the mechanisms of cross currency triangulation and algorithmic trading in the forex market. Learn how leveraging advanced strategies can optimize trading outcomes by exploiting arbitrage opportunities and enhancing efficiency. Understand the key role of technology in reducing human error and ensuring precision in a dynamic trading environment."
 ---
 

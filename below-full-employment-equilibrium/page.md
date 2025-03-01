@@ -1,5 +1,5 @@
 ---
-title: "Below Full Employment Equilibrium (Algo Trading)"
+title: "Below Full Employment Equilibrium"
 description: "Explore the dynamic intersection of economic equilibrium full employment and algorithmic trading to understand their impact on global markets and growth strategies."
 ---
 

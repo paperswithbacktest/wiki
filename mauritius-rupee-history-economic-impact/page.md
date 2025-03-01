@@ -1,5 +1,5 @@
 ---
-title: "Mauritius Rupee: History and Economic Impact (Algo Trading)"
+title: "Mauritius Rupee: History and Economic Impact"
 description: "Explore the historical evolution and modern economic impact of the Mauritius Rupee including the rise of algorithmic trading in the Mauritian financial sector."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Causes of Stock Price Decline (Algo Trading)"
+title: "Causes of Stock Price Decline"
 description: "Explore factors causing stock price declines with a focus on economic influences and how algorithmic trading can amplify market volatility and impact."
 ---
 

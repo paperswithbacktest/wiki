@@ -1,5 +1,5 @@
 ---
-title: "Financial Risk Ratios and Their Role in Risk Assessment (Algo Trading)"
+title: "Financial Risk Ratios and Their Role in Risk Assessment"
 description: "Explore the critical role of financial risk ratios in assessing risk in algorithmic trading to enhance strategies amid fast market fluctuations and high volatility."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Developed Countries Without Minimum Wage Laws (Algo Trading)"
+title: "Developed Countries Without Minimum Wage Laws"
 description: "Explore the complex relationship between labor laws, minimum wage policies, and algorithmic trading in developed countries and their impact on economic stability."
 ---
 

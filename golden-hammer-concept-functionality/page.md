@@ -1,5 +1,5 @@
 ---
-title: "Golden Hammer Concept and Functionality (Algo Trading)"
+title: "Golden Hammer Concept and Functionality"
 description: "Explore how cognitive biases, such as the golden hammer, affect algorithmic trading by causing reliance on familiar strategies, impacting adaptability and performance."
 ---
 

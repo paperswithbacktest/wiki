@@ -1,5 +1,5 @@
 ---
-title: "Global Recessions: Overview and History (Algo Trading)"
+title: "Global Recessions: Overview and History"
 description: "Explore the history and impact of global recessions along with the role of algorithmic trading in financial markets and its influence on market dynamics."
 ---
 

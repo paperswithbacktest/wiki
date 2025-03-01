@@ -1,5 +1,5 @@
 ---
-title: "Bogey in Sports: Meaning and Examples (Algo Trading)"
+title: "Bogey in Sports: Meaning and Examples"
 description: "Discover the connection between sports and finance with our exploration of the term 'bogey' Learn its impact in golf scoring and as an investing benchmark"
 ---
 

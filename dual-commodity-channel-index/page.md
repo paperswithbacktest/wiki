@@ -1,5 +1,5 @@
 ---
-title: "Dual Commodity Channel Index (Algo Trading)"
+title: "Dual Commodity Channel Index"
 description: "Explore the Duel Commodity Channel Index for algo trading strategies. Enhance your market analysis with DCCI's dual-oscillator mechanism and improve trade accuracy."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Japan Exchange-Traded Fund (Algo Trading)"
+title: "Japan Exchange-Traded Fund"
 description: "Explore the thriving world of Japan ETFs and algorithmic trading Learn how these investment tools offer diversified access to Japan's robust markets and growth sectors"
 ---
 

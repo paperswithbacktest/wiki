@@ -1,5 +1,5 @@
 ---
-title: "Guilder Share in New York (Algo Trading)"
+title: "Guilder Share in New York"
 description: "Explore the evolution of Guilder shares from their role in global trading before ADRs to their influence on cross-border financial integration today."
 ---
 

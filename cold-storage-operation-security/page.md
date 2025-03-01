@@ -1,5 +1,5 @@
 ---
-title: "Cold Storage: Operation and Security (Algo Trading)"
+title: "Cold Storage: Operation and Security"
 description: "Explore how cold storage enhances security in algorithmic trading by keeping assets offline to prevent cyber threats ensuring both asset protection and efficient trading."
 ---
 

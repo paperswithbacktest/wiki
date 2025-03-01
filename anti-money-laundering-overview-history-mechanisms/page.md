@@ -1,5 +1,5 @@
 ---
-title: "Anti-Money Laundering: Overview, History, and Mechanisms (Algo Trading)"
+title: "Anti-Money Laundering: Overview, History, and Mechanisms"
 description: "Explore the evolution of Anti-Money Laundering regulations in the context of algorithmic trading and discover how advanced technologies are safeguarding financial markets."
 ---
 

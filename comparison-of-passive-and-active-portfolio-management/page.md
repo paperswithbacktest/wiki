@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Passive and Active Portfolio Management (Algo Trading)"
+title: "Comparison of Passive and Active Portfolio Management"
 description: "Explore the distinct strategies in active and passive portfolio management including the role of algorithmic trading to enhance investment outcomes and risk management."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "automated market makers (AMM) (Algo Trading)"
+title: "automated market makers (AMM)"
 description: "Discover the transformative role of automated market makers in decentralized finance. Learn how AMMs enhance crypto trading with liquidity pools and smart contracts."
 ---
 

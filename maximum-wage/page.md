@@ -1,5 +1,5 @@
 ---
-title: "Maximum Wage (Algo Trading)"
+title: "Maximum Wage"
 description: "Explore the intersection of wage regulation, income limits, and algorithmic trading, examining their implications on economic equity and market efficiency."
 ---
 

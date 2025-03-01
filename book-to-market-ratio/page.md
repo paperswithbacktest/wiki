@@ -1,5 +1,5 @@
 ---
-title: "Book-to-Market Ratio (Algo Trading)"
+title: "Book-to-Market Ratio"
 description: "Explore the significance of the book-to-market ratio in algorithmic trading to assess stock valuation by comparing a company's book and market values."
 ---
 

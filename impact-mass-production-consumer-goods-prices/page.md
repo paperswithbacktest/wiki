@@ -1,5 +1,5 @@
 ---
-title: "Impact of Mass Production on Consumer Goods Prices (Algo Trading)"
+title: "Impact of Mass Production on Consumer Goods Prices"
 description: "Explore how mass production and algorithmic trading impact global consumer goods pricing through their dynamic interplay in a rapidly evolving economy."
 ---
 

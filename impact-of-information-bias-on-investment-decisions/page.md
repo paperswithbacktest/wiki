@@ -1,5 +1,5 @@
 ---
-title: "Impact of Information Bias on Investment Decisions (Algo Trading)"
+title: "Impact of Information Bias on Investment Decisions"
 description: "Explore how information bias skews investment decisions in algo trading Learn strategies to mitigate its effects for more rational trading outcomes"
 ---
 

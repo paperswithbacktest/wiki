@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Global and International Funds (Algo Trading)"
+title: "Differences Between Global and International Funds"
 description: "Explore diverse investment options with global and international funds, focusing on unique markets and leveraging algorithmic trading for optimized returns."
 ---
 

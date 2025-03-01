@@ -1,5 +1,5 @@
 ---
-title: "Income Effect and Substitution Effect (Algo Trading)"
+title: "Income Effect and Substitution Effect"
 description: "Explore the income and substitution effects and their impact on algorithmic trading. Understand consumer behavior and market dynamics through these economic principles."
 ---
 

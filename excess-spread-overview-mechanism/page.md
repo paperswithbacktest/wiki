@@ -1,5 +1,5 @@
 ---
-title: "Excess Spread: Overview and Mechanism (Algo Trading)"
+title: "Excess Spread: Overview and Mechanism"
 description: "Explore the interplay of securitization, excess spread, and algorithmic trading, highlighting their collective impact on modern financial markets and investment strategies."
 ---
 

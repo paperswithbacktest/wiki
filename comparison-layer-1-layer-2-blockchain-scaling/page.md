@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Layer 1 and Layer 2 Blockchain Scaling Solutions (Algo Trading)"
+title: "Comparison of Layer 1 and Layer 2 Blockchain Scaling Solutions"
 description: "Explore the differences between Layer 1 and Layer 2 blockchain solutions to understand how they address scalability challenges and enhance algo trading efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Commodity Index: Functions and Examples (Algo Trading)"
+title: "Commodity Index: Functions and Examples"
 description: "Explore how commodity indices function in algorithmic trading and their role in modern investment strategies enhancing data-driven decision-making and market insights."
 ---
 

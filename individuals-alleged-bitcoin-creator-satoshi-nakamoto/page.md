@@ -1,5 +1,5 @@
 ---
-title: "Individuals Alleged to Be Bitcoin Creator Satoshi Nakamoto (Algo Trading)"
+title: "Individuals Alleged to Be Bitcoin Creator Satoshi Nakamoto"
 description: "Explore the intriguing mystery of Bitcoin creator Satoshi Nakamoto whose identity remains unknown despite sparking vast speculation. Delve into Nakamoto's vision of decentralized finance and how algorithmic trading intersects with cryptocurrency innovation shaping the future of digital economies and broadening access to financial systems worldwide."
 ---
 

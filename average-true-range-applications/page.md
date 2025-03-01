@@ -1,5 +1,5 @@
 ---
-title: "Average True Range and Its Applications (Algo Trading)"
+title: "Average True Range and Its Applications"
 description: "Explore the power of Average True Range (ATR) in algorithmic trading Discover how this key volatility indicator enhances strategies and refines decision-making skills"
 ---
 

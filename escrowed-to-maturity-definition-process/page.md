@@ -1,5 +1,5 @@
 ---
-title: "Escrowed to Maturity: Definition and Process (Algo Trading)"
+title: "Escrowed to Maturity: Definition and Process"
 description: "Discover the role of escrowed to maturity in maximizing investor gains and minimizing risks in financial maturity management and algorithmic trading."
 ---
 

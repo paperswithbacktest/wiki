@@ -1,5 +1,5 @@
 ---
-title: "Forward Discount Calculation and Examples (Algo Trading)"
+title: "Forward Discount Calculation and Examples"
 description: "Explore the role of forward discounts in algorithmic trading and currency exchange Understand how calculations and interest rate differentials inform trades"
 ---
 

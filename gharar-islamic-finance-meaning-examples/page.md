@@ -1,5 +1,5 @@
 ---
-title: "Gharar in Islamic Finance: Meaning and Examples (Algo Trading)"
+title: "Gharar in Islamic Finance: Meaning and Examples"
 description: "Explore the concept of gharar in Islamic finance and its implications in algorithmic trading focusing on transparency and ethical financial practices."
 ---
 

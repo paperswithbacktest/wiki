@@ -1,5 +1,5 @@
 ---
-title: "Andreas Preuss: Biography and Career (Algo Trading)"
+title: "Andreas Preuss: Biography and Career"
 description: "Discover the remarkable career of Andreas Preuss, a key figure in exchange technology and algorithmic trading innovation, influencing global financial markets."
 ---
 

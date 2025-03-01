@@ -1,5 +1,5 @@
 ---
-title: "Bond Investment and Functionality (Algo Trading)"
+title: "Bond Investment and Functionality"
 description: "Explore the intersection of traditional bonds and innovative algorithmic trading to maximize investment returns while balancing stability and technology."
 ---
 

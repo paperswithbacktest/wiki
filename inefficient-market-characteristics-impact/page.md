@@ -1,5 +1,5 @@
 ---
-title: "Inefficient Market: Characteristics and Impact (Algo Trading)"
+title: "Inefficient Market: Characteristics and Impact"
 description: "Explore the characteristics and impacts of inefficient markets in algorithmic trading Uncover opportunities and strategies to exploit market inefficiencies"
 ---
 

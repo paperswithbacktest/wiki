@@ -1,5 +1,5 @@
 ---
-title: "Bear Spread: Overview and Examples of Options Strategies (Algo Trading)"
+title: "Bear Spread: Overview and Examples of Options Strategies"
 description: "Explore bear spread options strategies for algorithmic trading to profit from market declines Understand bear put and bear call spreads risk management and rewards"
 ---
 

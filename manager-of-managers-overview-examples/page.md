@@ -1,5 +1,5 @@
 ---
-title: "Manager of Managers: Overview and Examples (Algo Trading)"
+title: "Manager of Managers: Overview and Examples"
 description: "Discover the essential role of Manager of Managers (MoM) in algo trading Learn how strategic oversight enhances performance and aligns with investment goals"
 ---
 

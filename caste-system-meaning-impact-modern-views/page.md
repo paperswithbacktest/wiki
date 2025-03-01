@@ -1,5 +1,5 @@
 ---
-title: "Caste System: Meaning, Impact, and Modern Views (Algo Trading)"
+title: "Caste System: Meaning, Impact, and Modern Views"
 description: "Explore the influence of historical caste systems on modern financial hierarchies, focusing on algorithmic trading's role in reinforcing economic stratifications."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Liquidity Management in Business and Investment (Algo Trading)"
+title: "Liquidity Management in Business and Investment"
 description: "Effective liquidity management ensures businesses and investors can meet obligations and capitalize on opportunities through strategic cash flow optimization and algorithmic trading."
 ---
 

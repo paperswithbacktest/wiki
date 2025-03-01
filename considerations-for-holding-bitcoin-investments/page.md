@@ -1,5 +1,5 @@
 ---
-title: "Considerations for Holding Bitcoin Investments (Algo Trading)"
+title: "Considerations for Holding Bitcoin Investments"
 description: "Explore the essentials of holding Bitcoin investments with insights into HODLing and algorithmic trading Discover strategies to navigate cryptocurrency markets effectively"
 ---
 

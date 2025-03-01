@@ -1,5 +1,5 @@
 ---
-title: "Investor Behavior Analysis (Algo Trading)"
+title: "Investor Behavior Analysis"
 description: "Explore how psychological factors impact investor behavior and decision-making in the context of algorithmic trading by analyzing emotional, cognitive, and social influences on market dynamics."
 ---
 

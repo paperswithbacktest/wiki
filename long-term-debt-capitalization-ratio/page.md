@@ -1,5 +1,5 @@
 ---
-title: "Long-Term Debt to Capitalization Ratio (Algo Trading)"
+title: "Long-Term Debt to Capitalization Ratio"
 description: "Explore how understanding debt to capitalization ratios enhances algorithmic trading strategies by improving risk management and optimizing investment outcomes."
 ---
 

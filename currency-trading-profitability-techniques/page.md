@@ -1,5 +1,5 @@
 ---
-title: "Currency Trading Profitability Techniques (Algo Trading)"
+title: "Currency Trading Profitability Techniques"
 description: "Learn effective currency trading techniques with a focus on algorithmic strategies within the forex market. Discover how algo trading enhances efficiency and profitability while managing risks. This guide covers forex fundamentals, analytical tools, and key concepts like leverage and margin to improve your trading approach and potential returns."
 ---
 

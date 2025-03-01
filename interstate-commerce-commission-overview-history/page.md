@@ -1,5 +1,5 @@
 ---
-title: "Interstate Commerce Commission: Overview and History (Algo Trading)"
+title: "Interstate Commerce Commission: Overview and History"
 description: "Explore the role of the Interstate Commerce Commission in U.S. regulatory history from overseeing transportation to its impact on algorithmic trading."
 ---
 

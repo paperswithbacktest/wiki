@@ -1,5 +1,5 @@
 ---
-title: "Mechanisms of Unconventional Monetary Policy (Algo Trading)"
+title: "Mechanisms of Unconventional Monetary Policy"
 description: "Explore the synergy between unconventional monetary policy and algorithmic trading in shaping financial markets and economic stability."
 ---
 

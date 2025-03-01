@@ -1,5 +1,5 @@
 ---
-title: "Coinage Act of 1792: History and Requirements (Algo Trading)"
+title: "Coinage Act of 1792: History and Requirements"
 description: "Discover the pivotal role of the Coinage Act of 1792 in shaping US monetary policy revolutionizing currency with the US Mint and standardization principles."
 ---
 

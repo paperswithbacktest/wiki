@@ -1,5 +1,5 @@
 ---
-title: "Low-Latency Trading (Algo Trading)"
+title: "Low-Latency Trading"
 description: "Discover the advantages of low-latency algorithmic trading and learn how cutting-edge technology reduces execution time for a competitive edge in fast markets."
 ---
 

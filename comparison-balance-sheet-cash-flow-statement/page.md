@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Balance Sheet and Cash Flow Statement (Algo Trading)"
+title: "Comparison of Balance Sheet and Cash Flow Statement"
 description: "Explore the crucial role of balance sheets and cash flow statements in algo trading Learn how to leverage these documents for data-driven trading strategies"
 ---
 

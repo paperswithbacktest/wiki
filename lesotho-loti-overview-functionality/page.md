@@ -1,5 +1,5 @@
 ---
-title: "Lesotho Loti: Overview and Functionality (Algo Trading)"
+title: "Lesotho Loti: Overview and Functionality"
 description: "Explore the Lesotho Loti currency in the context of its peg to the South African Rand and its impact on economic growth and algorithmic trading opportunities."
 ---
 

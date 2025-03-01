@@ -1,5 +1,5 @@
 ---
-title: "Ethiopian Birr: Overview and Historical Context (Algo Trading)"
+title: "Ethiopian Birr: Overview and Historical Context"
 description: "Explore the historical evolution and economic significance of the Ethiopian Birr within both domestic and international contexts while assessing future challenges and opportunities."
 ---
 

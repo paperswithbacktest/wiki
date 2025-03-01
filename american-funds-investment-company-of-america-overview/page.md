@@ -1,5 +1,5 @@
 ---
-title: "American Funds Investment Company of America Overview (Algo Trading)"
+title: "American Funds Investment Company of America Overview"
 description: "Discover how American Funds’ AIVSX integrates algorithmic trading for enhanced investment strategies, optimizing performance and fostering growth through technology."
 ---
 

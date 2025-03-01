@@ -1,5 +1,5 @@
 ---
-title: "Kazakhstan Tenge Overview (Algo Trading)"
+title: "Kazakhstan Tenge Overview"
 description: "Discover the essentials of Kazakhstan's Tenge and algorithmic trading in forex. Learn the Tenge's role, algo trading benefits, and future trends in forex."
 ---
 

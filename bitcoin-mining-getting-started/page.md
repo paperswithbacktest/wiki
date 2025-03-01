@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin Mining and Getting Started (Algo Trading)"
+title: "Bitcoin Mining and Getting Started"
 description: "Discover the essentials of Bitcoin mining and algorithmic trading with this beginner's guide. Uncover the intricacies of Bitcoin's network security and transaction validation while exploring the landscape of cryptocurrency trading using automated strategies. Understand how to harness mining and algo trading to optimize profitability, and learn about the technological advances from CPUs to ASICs that have shaped Bitcoin's evolution. Perfect for new investors and tech enthusiasts, this article provides the foundational knowledge needed to navigate the dynamic world of digital currencies."
 ---
 

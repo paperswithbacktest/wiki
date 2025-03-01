@@ -1,5 +1,5 @@
 ---
-title: "Kangaroo Bonds (Algo Trading)"
+title: "Kangaroo Bonds"
 description: "Explore the growing significance of Kangaroo bonds in global financial markets and the impact of algorithmic trading on bond transactions for diverse investment opportunities."
 ---
 

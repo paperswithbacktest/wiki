@@ -1,5 +1,5 @@
 ---
-title: "Lease Rate: Overview, Mechanisms, and Types (Algo Trading)"
+title: "Lease Rate: Overview, Mechanisms, and Types"
 description: "Explore lease rates and algorithmic trading in finance Discover how lease agreements and lease rates influence investments and understand algorithmic trading strategies"
 ---
 

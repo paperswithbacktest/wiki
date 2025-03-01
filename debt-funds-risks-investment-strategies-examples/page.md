@@ -1,5 +1,5 @@
 ---
-title: "Debt Funds: Risks, Investment Strategies, and Examples (Algo Trading)"
+title: "Debt Funds: Risks, Investment Strategies, and Examples"
 description: "Explore how debt funds balance risks and returns through strategic financial risk management and algorithmic trading Learn about investment strategies and examples"
 ---
 

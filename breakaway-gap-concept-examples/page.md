@@ -1,5 +1,5 @@
 ---
-title: "Breakaway Gap: Concept and Examples (Algo Trading)"
+title: "Breakaway Gap: Concept and Examples"
 description: "Explore the concept of breakaway gaps in trading and their significance in predicting market trends. Learn how algorithmic trading can optimize these strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Contraction Risk: Overview and Example (Algo Trading)"
+title: "Contraction Risk: Overview and Example"
 description: "Explore contraction risk in algorithmic trading a vital financial concept highlighting risks linked to fluctuating interest rates and borrower prepayments."
 ---
 

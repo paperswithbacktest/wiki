@@ -1,5 +1,5 @@
 ---
-title: "Baltic Exchange Overview and Functionality (Algo Trading)"
+title: "Baltic Exchange Overview and Functionality"
 description: "Discover the role of the Baltic Exchange in global maritime trade how algo trading is reshaping freight rates and market transparency in the shipping industry."
 ---
 

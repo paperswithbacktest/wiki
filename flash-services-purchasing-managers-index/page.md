@@ -1,5 +1,5 @@
 ---
-title: "Flash Services Purchasing Managers' Index (Algo Trading)"
+title: "Flash Services Purchasing Managers' Index"
 description: "The Flash Services PMI offers early insights into the service sector's health, influencing market strategies and economic forecasts for investors and traders alike."
 ---
 

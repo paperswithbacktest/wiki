@@ -1,5 +1,5 @@
 ---
-title: "Difference Between Blend Fund and Balanced Fund (Algo Trading)"
+title: "Difference Between Blend Fund and Balanced Fund"
 description: "Explore the key differences between blend and balanced funds in mutual investments Learn the benefits and challenges of each along with the role of algorithmic trading"
 ---
 

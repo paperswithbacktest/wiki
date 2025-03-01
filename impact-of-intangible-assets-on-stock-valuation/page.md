@@ -1,5 +1,5 @@
 ---
-title: "Impact of Intangible Assets on Stock Valuation (Algo Trading)"
+title: "Impact of Intangible Assets on Stock Valuation"
 description: "Explore how intangible assets and algorithmic trading shape stock valuation strategies highlighting their impact on modern financial markets and investment insights."
 ---
 

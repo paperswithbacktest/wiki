@@ -1,5 +1,5 @@
 ---
-title: "Currency Trading Platforms: Overview, Examples, Advantages, and Disadvantages (Algo Trading)"
+title: "Currency Trading Platforms: Overview, Examples, Advantages, and Disadvantages"
 description: "Explore the dynamics of currency trading platforms and algorithmic trading in Forex Learn the advantages and challenges of these technologies in the market"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Financing Options for Purchasing Foreign Real Estate (Algo Trading)"
+title: "Financing Options for Purchasing Foreign Real Estate"
 description: "Discover diverse financing options for foreign real estate investment with insights into algorithmic trading Discover strategies to maximize returns and mitigate risks."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Company Float (Algo Trading)"
+title: "Company Float"
 description: "Discover essential concepts like company shares, stock float, and algorithmic trading that shape investment strategies and optimize market activities."
 ---
 

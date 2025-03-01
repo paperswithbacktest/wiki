@@ -1,5 +1,5 @@
 ---
-title: "Hedge Funds and Distressed Debt Investments (Algo Trading)"
+title: "Hedge Funds and Distressed Debt Investments"
 description: "Explore how hedge funds leverage algorithmic trading in distressed debt investments to maximize returns, navigating complex market conditions and financial challenges."
 ---
 

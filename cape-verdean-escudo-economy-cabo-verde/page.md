@@ -1,5 +1,5 @@
 ---
-title: "Cape Verdean Escudo and Economy of Cabo Verde (Algo Trading)"
+title: "Cape Verdean Escudo and Economy of Cabo Verde"
 description: "Explore Cabo Verde's unique economic landscape shaped by its service-driven GDP and the role of the Cape Verdean escudo in modern algo trading dynamics."
 ---
 

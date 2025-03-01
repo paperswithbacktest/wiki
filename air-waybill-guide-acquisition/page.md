@@ -1,5 +1,5 @@
 ---
-title: "Air Waybill Guide and Acquisition (Algo Trading)"
+title: "Air Waybill Guide and Acquisition"
 description: "Explore how Air Waybill and algorithmic trading intersect to revolutionize freight transport, enhancing efficiency, reducing costs, and improving logistics processes."
 ---
 

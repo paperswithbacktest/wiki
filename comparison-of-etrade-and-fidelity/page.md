@@ -1,5 +1,5 @@
 ---
-title: "Comparison of E*TRADE and Fidelity (Algo Trading)"
+title: "Comparison of E*TRADE and Fidelity"
 description: "Compare ETRADE and Fidelity's algorithmic trading offerings to find the right platform for your financial goals. Discover tools, support, and strategies."
 ---
 

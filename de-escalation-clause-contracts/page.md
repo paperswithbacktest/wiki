@@ -1,5 +1,5 @@
 ---
-title: "De-Escalation Clause in Contracts (Algo Trading)"
+title: "De-Escalation Clause in Contracts"
 description: "Understand the role of de-escalation clauses in algorithmic trading contracts Learn how these clauses offer financial safeguards by adjusting prices in volatile markets"
 ---
 

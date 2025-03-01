@@ -1,5 +1,5 @@
 ---
-title: "Consequences of Non-Payment of Student Loans (Algo Trading)"
+title: "Consequences of Non-Payment of Student Loans"
 description: "Explore the implications of student loan defaults in the context of modern financial markets influenced by algorithmic trading. This article examines the repercussions of non-payment, potential effects on borrowers' credit scores, and broader economic challenges. It highlights the significance of financial literacy as a preventive measure and suggests possible policy interventions to mitigate risks while analyzing how algorithmic trading dynamics intersect with these financial issues."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Full Delivery Shares (Algo Trading)"
+title: "Full Delivery Shares"
 description: "Explore the dynamics of full delivery shares in algorithmic trading focusing on challenges and opportunities within niche markets like Taiwan for informed investing."
 ---
 

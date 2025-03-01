@@ -1,5 +1,5 @@
 ---
-title: "Comparison of REITs and Real Estate Mutual Funds (Algo Trading)"
+title: "Comparison of REITs and Real Estate Mutual Funds"
 description: "Explore the differences between REITs and real estate mutual funds in algo trading Learn about their benefits risks and which suits your investment strategy"
 ---
 

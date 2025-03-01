@@ -1,5 +1,5 @@
 ---
-title: "Energy-Efficient Buildings: Investment Benefits and Drawbacks (Algo Trading)"
+title: "Energy-Efficient Buildings: Investment Benefits and Drawbacks"
 description: "Explore the benefits and drawbacks of investing in energy-efficient buildings with insights on algorithmic trading for sustainable investments and market optimization."
 ---
 

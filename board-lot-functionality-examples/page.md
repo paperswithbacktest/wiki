@@ -1,5 +1,5 @@
 ---
-title: "Board Lot: Functionality and Examples (Algo Trading)"
+title: "Board Lot: Functionality and Examples"
 description: "Explore the synergy of board lot trading and algorithmic trading in the evolving stock market Discover how these elements drive efficiency and liquidity for investors"
 ---
 

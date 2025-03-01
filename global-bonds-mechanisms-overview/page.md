@@ -1,5 +1,5 @@
 ---
-title: "Global Bonds: Mechanisms and Overview (Algo Trading)"
+title: "Global Bonds: Mechanisms and Overview"
 description: "Explore the mechanisms of global bonds and algorithmic trading to optimize your investments by understanding these key financial instruments and strategies."
 ---
 

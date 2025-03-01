@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Credit Spread Risk and Default Risk in Financial Situations (Algo Trading)"
+title: "Comparison of Credit Spread Risk and Default Risk in Financial Situations"
 description: "Explore the dynamics of credit spread risk and default risk in financial markets Discover how algorithmic trading enhances risk management and portfolio optimization"
 ---
 

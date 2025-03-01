@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Return on Investment and Internal Rate of Return (Algo Trading)"
+title: "Comparison of Return on Investment and Internal Rate of Return"
 description: "Explore the significance of internal rate of return in algorithmic trading and investment analysis Learn how IRR enhances decision making by simplifying profitability assessments"
 ---
 

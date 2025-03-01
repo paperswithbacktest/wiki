@@ -1,5 +1,5 @@
 ---
-title: "Escrow Receipt: Overview and Examples (Algo Trading)"
+title: "Escrow Receipt: Overview and Examples"
 description: "Explore how escrow processes enhance security and trust in financial transactions, especially in algorithmic trading, by mitigating risks and ensuring compliance."
 ---
 

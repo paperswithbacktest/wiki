@@ -1,5 +1,5 @@
 ---
-title: "Lao Kip: Currency and Functionality (Algo Trading)"
+title: "Lao Kip: Currency and Functionality"
 description: "Explore the Lao Kip and its role in algorithmic trading Discover how this unique currency offers trading opportunities amid economic dynamics and market challenges"
 ---
 

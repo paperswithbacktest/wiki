@@ -1,5 +1,5 @@
 ---
-title: "Crossover Fund: Overview and Functionality (Algo Trading)"
+title: "Crossover Fund: Overview and Functionality"
 description: "Explore the dynamic interplay of crossover funds and algorithmic trading to optimize investment portfolios and navigate financial market complexities effectively."
 ---
 

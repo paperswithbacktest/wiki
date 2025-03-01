@@ -1,5 +1,5 @@
 ---
-title: "Identifying Quality Investments Using Return on Invested Capital (Algo Trading)"
+title: "Identifying Quality Investments Using Return on Invested Capital"
 description: "Discover how Return on Invested Capital (ROIC) enhances algorithmic trading with insights into selecting quality investments based on capital efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Absolute and Relative P/E Ratios (Algo Trading)"
+title: "Comparison of Absolute and Relative P/E Ratios"
 description: "Explore the role of absolute and relative P/E ratios in algorithmic trading Discover insights into stock valuation methods for smarter investment decisions"
 ---
 

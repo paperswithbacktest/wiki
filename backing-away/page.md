@@ -1,5 +1,5 @@
 ---
-title: "Backing Away (Algo Trading)"
+title: "Backing Away"
 description: "Explore why some traders are backing away from algorithmic trading despite its speed and efficiency due to technical complexity financial risks and regulatory challenges."
 ---
 

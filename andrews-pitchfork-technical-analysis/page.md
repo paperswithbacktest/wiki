@@ -1,5 +1,5 @@
 ---
-title: "Andrews' Pitchfork in Technical Analysis (Algo Trading)"
+title: "Andrews' Pitchfork in Technical Analysis"
 description: "Explore Andrews' Pitchfork in technical analysis for algorithmic trading Learn how this tool helps identify market trends and enhance trading precision"
 ---
 

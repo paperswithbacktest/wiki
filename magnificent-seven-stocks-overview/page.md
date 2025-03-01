@@ -1,5 +1,5 @@
 ---
-title: "Magnificent Seven Stocks: Overview and Analysis (Algo Trading)"
+title: "Magnificent Seven Stocks: Overview and Analysis"
 description: "Explore the intricate dynamics of the Magnificent Seven stocks, leaders in tech innovation and market influence, with insights into algo trading strategies and future prospects."
 ---
 

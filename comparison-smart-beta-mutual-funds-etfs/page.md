@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Smart Beta Mutual Funds and Smart Beta ETFs (Algo Trading)"
+title: "Comparison of Smart Beta Mutual Funds and Smart Beta ETFs"
 description: "Discover the differences between Smart Beta Mutual Funds and Smart Beta ETFs focusing on strategy nuances and algorithmic trading for better investment insights."
 ---
 

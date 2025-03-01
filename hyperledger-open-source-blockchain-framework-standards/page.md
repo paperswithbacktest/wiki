@@ -1,5 +1,5 @@
 ---
-title: "Hyperledger: Open Source Blockchain Framework and Standards (Algo Trading)"
+title: "Hyperledger: Open Source Blockchain Framework and Standards"
 description: "Explore how Hyperledger's blockchain frameworks enhance algorithmic trading with improved security, transparency, and efficiency in financial markets."
 ---
 

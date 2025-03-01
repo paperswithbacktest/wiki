@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Portfolio Management and Financial Planning (Algo Trading)"
+title: "Differences Between Portfolio Management and Financial Planning"
 description: "Explore investment strategies and the role of financial planning versus portfolio management in wealth building Understand the impact of algorithmic trading"
 ---
 

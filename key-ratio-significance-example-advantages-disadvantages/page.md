@@ -1,5 +1,5 @@
 ---
-title: "Key Ratio: Significance, Example, Advantages and Disadvantages (Algo Trading)"
+title: "Key Ratio: Significance, Example, Advantages and Disadvantages"
 description: "Discover the significance of key financial ratios in algorithmic trading explore their advantages and disadvantages for informed financial analysis and strategy."
 ---
 

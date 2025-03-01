@@ -1,5 +1,5 @@
 ---
-title: "Birake Cryptocurrency Platform (Algo Trading)"
+title: "Birake Cryptocurrency Platform"
 description: "Discover Birake's innovative cryptocurrency platform that empowers users with algorithmic trading and white-label exchange solutions for seamless, decentralized trading."
 ---
 

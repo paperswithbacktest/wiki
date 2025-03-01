@@ -1,5 +1,5 @@
 ---
-title: "Martingale System in Investing (Algo Trading)"
+title: "Martingale System in Investing"
 description: "Explore the Martingale system's application in algorithmic trading its potential for gains and risks in modern investing and strategies for effective deployment."
 ---
 

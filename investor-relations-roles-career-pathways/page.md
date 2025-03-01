@@ -1,5 +1,5 @@
 ---
-title: "Investor Relations: Roles and Career Pathways (Algo Trading)"
+title: "Investor Relations: Roles and Career Pathways"
 description: "Explore the intersection of investor relations and algorithmic trading careers focusing on essential skills, strategic communication, and future industry trends."
 ---
 

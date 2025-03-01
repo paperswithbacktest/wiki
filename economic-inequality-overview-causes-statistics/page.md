@@ -1,5 +1,5 @@
 ---
-title: "Economic Inequality: Overview, Causes, and Statistics (Algo Trading)"
+title: "Economic Inequality: Overview, Causes, and Statistics"
 description: "Explore how economic inequality intertwines with algorithmic trading highlighting its role in widening wealth gaps despite offering market efficiency benefits."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Immediate or Cancel Order (Algo Trading)"
+title: "Immediate or Cancel Order"
 description: "Explore the impact of algorithmic trading on stock orders and finance Understand market order types and algo trading's role in optimizing executions"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "House Flipping: Process, Getting Started, and Common Pitfalls (Algo Trading)"
+title: "House Flipping: Process, Getting Started, and Common Pitfalls"
 description: "Explore the innovative blend of house flipping and algorithmic trading for optimized real estate investments. Learn strategies boost your returns today."
 ---
 

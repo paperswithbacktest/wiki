@@ -1,5 +1,5 @@
 ---
-title: "Limited Risk: Explanation and Operational Mechanism (Algo Trading)"
+title: "Limited Risk: Explanation and Operational Mechanism"
 description: "Learn about limited risk strategies in algorithmic trading and discover key techniques to manage risk, protect investments and optimize trading strategies."
 ---
 

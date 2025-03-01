@@ -1,5 +1,5 @@
 ---
-title: "Limit Move in Trading (Algo Trading)"
+title: "Limit Move in Trading"
 description: "Explore the dynamic intersection of limit moves and algorithmic trading to manage market volatility effectively using advanced strategies and automated systems."
 ---
 

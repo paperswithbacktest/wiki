@@ -1,5 +1,5 @@
 ---
-title: "Kondratieff Waves (Algo Trading)"
+title: "Kondratieff Waves"
 description: "Explore the impact of Kondratieff Waves on global markets and algorithmic trading Understand long-term economic cycles driven by technological innovations"
 ---
 

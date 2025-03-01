@@ -1,5 +1,5 @@
 ---
-title: "Beginner’s Guide to Quantitative Trading (Algo Trading)"
+title: "Beginner’s Guide to Quantitative Trading"
 description: Explore the world of quantitative trading, a key component of algorithmic trading that utilizes mathematical models and statistical analysis to automate trading strategies. This guide investigates into the benefits and challenges of quantitative trading, its technological foundations, and its future potential with advancements in AI and machine learning. Gain insight into model development, strategy execution, risk management, and the reduction of human biases, solidifying quantitative trading’s role in modern financial markets. Discover how these methods transform data into actionable insights, enhancing precision and efficiency in trading executions.
 ---
 

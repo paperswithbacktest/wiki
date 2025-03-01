@@ -1,5 +1,5 @@
 ---
-title: "Average Up Trading Strategy (Algo Trading)"
+title: "Average Up Trading Strategy"
 description: "Combine Average Up trading with algo trading for enhanced investment strategies. Learn to optimize trades, capitalize on market momentum, and reduce risks."
 ---
 

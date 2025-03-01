@@ -1,5 +1,5 @@
 ---
-title: "Dietary And Sleep Habits: Definitions And Methods (Algo Trading)"
+title: "Dietary And Sleep Habits: Definitions And Methods"
 description: "Discover how diet and sleep habits impact algorithmic trading success as you explore strategies to maintain health, optimize performance, and boost productivity."
 ---
 

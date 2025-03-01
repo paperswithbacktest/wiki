@@ -1,5 +1,5 @@
 ---
-title: "Economic Refugee: Definition, Advantages, and Disadvantages (Algo Trading)"
+title: "Economic Refugee: Definition, Advantages, and Disadvantages"
 description: "Discover the dynamics of economic migration including the benefits and challenges faced by economic refugees and their impact on global migration trends."
 ---
 

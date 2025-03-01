@@ -1,5 +1,5 @@
 ---
-title: "Internal Rate of Return: Formula and Examples (Algo Trading)"
+title: "Internal Rate of Return: Formula and Examples"
 description: "Explore the fundamentals of Internal Rate of Return (IRR) in investment analysis Learn IRR calculation and its role in algorithmic trading decision-making"
 ---
 

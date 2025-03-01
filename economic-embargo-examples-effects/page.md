@@ -1,5 +1,5 @@
 ---
-title: "Economic Embargo: Examples and Effects (Algo Trading)"
+title: "Economic Embargo: Examples and Effects"
 description: "Explore the impacts of economic embargoes and algorithmic trading in international trade Discover how these restrictions affect countries and markets worldwide"
 ---
 

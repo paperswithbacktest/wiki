@@ -1,5 +1,5 @@
 ---
-title: "Bath: Definition, Mechanism, and Example (Algo Trading)"
+title: "Bath: Definition, Mechanism, and Example"
 description: "Explore the intriguing parallels between bath hygiene and algorithmic trading, emphasizing strategic planning and risk management for personal and financial well-being."
 ---
 

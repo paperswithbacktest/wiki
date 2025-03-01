@@ -1,5 +1,5 @@
 ---
-title: "Edmund S. Phelps: Biography and Contributions (Algo Trading)"
+title: "Edmund S. Phelps: Biography and Contributions"
 description: "Discover how Edmund S. Phelps's groundbreaking economic theories intersect with algorithmic trading methodologies to revolutionize market strategies and analysis."
 ---
 

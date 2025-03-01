@@ -1,5 +1,5 @@
 ---
-title: "Economic Impacts of Specialization (Algo Trading)"
+title: "Economic Impacts of Specialization"
 description: "Explore the economic impacts of specialization and algorithmic trading Discover how these concepts optimize efficiency and reshape modern economies"
 ---
 

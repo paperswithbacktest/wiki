@@ -1,5 +1,5 @@
 ---
-title: "European Callable Bonds: Mechanism and Functionality (Algo Trading)"
+title: "European Callable Bonds: Mechanism and Functionality"
 description: "Explore the intricacies of European callable bonds and algorithmic trading to optimize portfolio performance. Understand their mechanisms, benefits, and risks."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Pro Forma and GAAP Financial Statements (Algo Trading)"
+title: "Comparison of Pro Forma and GAAP Financial Statements"
 description: "Explore the key differences between pro forma and GAAP financial statements and their impact on algorithmic trading providing insights into financial reporting and decision-making."
 ---
 

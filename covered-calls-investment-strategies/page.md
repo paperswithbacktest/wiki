@@ -1,5 +1,5 @@
 ---
-title: "Covered Calls and Their Use in Investment Strategies (Algo Trading)"
+title: "Covered Calls and Their Use in Investment Strategies"
 description: "Explore the synergy of covered calls and algorithmic trading to enhance investment strategies Learn how these methods balance risk and reward in options trading"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Accounting Changes and Error Correction (Algo Trading)"
+title: "Accounting Changes and Error Correction"
 description: "Explore accounting changes, error correction, and algorithmic trading fundamentals in financial reporting, essential for transparency and regulatory compliance."
 ---
 

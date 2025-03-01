@@ -1,5 +1,5 @@
 ---
-title: "American Dream: Concept, Examples, and Measurement (Algo Trading)"
+title: "American Dream: Concept, Examples, and Measurement"
 description: "Explore the evolution of the American Dream and how algorithmic trading exemplifies new pathways to success through innovation technology and financial independence."
 ---
 

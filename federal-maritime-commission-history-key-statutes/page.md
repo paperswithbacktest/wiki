@@ -1,5 +1,5 @@
 ---
-title: "Federal Maritime Commission: History and Key Statutes (Algo Trading)"
+title: "Federal Maritime Commission: History and Key Statutes"
 description: "Explore the history and role of the Federal Maritime Commission in regulating ocean shipping ensuring fairness in international trade and promoting competition."
 ---
 

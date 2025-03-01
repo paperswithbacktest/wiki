@@ -1,5 +1,5 @@
 ---
-title: "Components of Risk Premium (Algo Trading)"
+title: "Components of Risk Premium"
 description: "Explore the intricacies of risk premiums in algorithmic trading and their impact on investment decisions. Learn how to balance potential returns and investment risks."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Application of Modern Portfolio Theory (Algo Trading)"
+title: "Application of Modern Portfolio Theory"
 description: "Explore the synergy of Modern Portfolio Theory and algorithmic trading to optimize your investment strategy balancing risk, returns, and diversification."
 ---
 

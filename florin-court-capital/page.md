@@ -1,5 +1,5 @@
 ---
-title: "Florin Court Capital (Algo Trading)"
+title: "Florin Court Capital"
 description: "Florin Court Capital excels in algorithmic trading using innovative strategies and advanced technologies to enhance efficiency and impact in the financial markets."
 ---
 

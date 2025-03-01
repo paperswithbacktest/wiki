@@ -1,5 +1,5 @@
 ---
-title: "Cross-Currency Swap: Mechanism and Applications (Algo Trading)"
+title: "Cross-Currency Swap: Mechanism and Applications"
 description: "Explore the mechanism and applications of cross-currency swaps in algo trading, enhancing currency risk management and strategic financial decisions in global markets."
 ---
 

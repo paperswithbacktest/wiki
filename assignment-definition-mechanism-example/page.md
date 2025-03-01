@@ -1,5 +1,5 @@
 ---
-title: "Assignment: Definition, Mechanism, Example (Algo Trading)"
+title: "Assignment: Definition, Mechanism, Example"
 description: "Explore how algorithmic trading revolutionizes markets by automating trades with precision and speed. Discover mechanisms, strategies, and real-world implementations."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Cash Flow (Algo Trading)"
+title: "Cash Flow"
 description: "Explore the essential relationship between accounting, cash flow, and algorithmic trading to make informed investment decisions. Delve into how accurate accounting provides insights into financial health, while cash flow analysis assesses liquidity and operational strength. Learn how algorithmic trading leverages technology to identify profitable opportunities and optimize market efficiency. This comprehensive understanding empowers investors and companies to devise sharper strategies, minimize risks, and maximize returns in the dynamic financial sector."
 ---
 

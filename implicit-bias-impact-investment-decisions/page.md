@@ -1,5 +1,5 @@
 ---
-title: "Implicit Bias and Its Impact on Investment Decisions (Algo Trading)"
+title: "Implicit Bias and Its Impact on Investment Decisions"
 description: "Explore how implicit bias affects investment decisions and learn strategies to minimize its impact with insights into algorithmic trading and investment psychology."
 ---
 

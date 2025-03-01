@@ -1,5 +1,5 @@
 ---
-title: "Assessing Trust in Bond Rating Agencies (Algo Trading)"
+title: "Assessing Trust in Bond Rating Agencies"
 description: "Explore the dynamic relationship between trust in credit rating agencies, bond ratings, and the impact of algorithmic trading on bond market efficiency."
 ---
 

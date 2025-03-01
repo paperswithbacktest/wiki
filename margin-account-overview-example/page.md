@@ -1,5 +1,5 @@
 ---
-title: "Margin Account: Overview and Example (Algo Trading)"
+title: "Margin Account: Overview and Example"
 description: "Discover the synergy of margin accounts and algorithmic trading to enhance investment potential while mastering risk management in today's dynamic financial markets."
 ---
 

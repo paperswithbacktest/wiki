@@ -1,5 +1,5 @@
 ---
-title: "Dual Trading: Overview, Mechanism, and Regulation (Algo Trading)"
+title: "Dual Trading: Overview, Mechanism, and Regulation"
 description: "Explore the complexities of dual trading and algorithmic trading in financial markets Understand their mechanisms, benefits, risks, and regulatory frameworks"
 ---
 

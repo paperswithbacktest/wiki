@@ -1,5 +1,5 @@
 ---
-title: "Business Segment Reporting (Algo Trading)"
+title: "Business Segment Reporting"
 description: "Explore the crucial synergy between business segment financial reporting and algorithmic trading in today's competitive financial landscape to enhance performance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Behavioral Finance Overview (Algo Trading)"
+title: "Behavioral Finance Overview"
 description: "Explore behavioral finance algorithmic trading and investor psychology to gain insights into market dynamics and improve financial decision-making strategies."
 ---
 

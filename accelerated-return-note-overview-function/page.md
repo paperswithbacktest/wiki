@@ -1,5 +1,5 @@
 ---
-title: "Accelerated Return Note: Overview and Function (Algo Trading)"
+title: "Accelerated Return Note: Overview and Function"
 description: "Explore the dynamics of Accelerated Return Notes in algo trading Discover how these structured products offer potential high returns linked to market indices"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Free Asset Ratio: Overview and Calculation (Algo Trading)"
+title: "Free Asset Ratio: Overview and Calculation"
 description: "Explore how the Free Asset Ratio impacts insurance solvency and algorithmic trading strategies Learn how FAR assesses financial health in life insurance companies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Adopter Categories (Algo Trading)"
+title: "Adopter Categories"
 description: "Discover how innovation adoption shapes algorithmic trading success. Learn to identify adopter categories and the Diffusion of Innovations theory to boost competitive edge."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategies for Short-Term and Long-Term Goals (Algo Trading)"
+title: "Investment Strategies for Short-Term and Long-Term Goals"
 description: "Explore effective investment strategies for short-term and long-term goals including the benefits of algorithmic trading in optimizing and automating financial decisions"
 ---
 

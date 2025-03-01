@@ -1,5 +1,5 @@
 ---
-title: "Econometrician: Overview and Function (Algo Trading)"
+title: "Econometrician: Overview and Function"
 description: "Discover how econometricians use mathematical and statistical methods to analyze economic data, enhancing algorithmic trading strategies for optimal performance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Economic Justice: Definition and Examples (Algo Trading)"
+title: "Economic Justice: Definition and Examples"
 description: "Explore the interconnected roles of economic justice, social equality, and algorithmic trading in shaping fair wealth distribution and addressing income disparities."
 ---
 

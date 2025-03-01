@@ -1,5 +1,5 @@
 ---
-title: "Gartley Pattern Trading Strategy Explained (Algo Trading)"
+title: "Gartley Pattern Trading Strategy Explained"
 description: The Gartley pattern trading strategy is a detailed harmonic trading method utilized for forecasting market retracements and continuations using Fibonacci ratios. This strategy offers traders a systematic approach to predict possible reversals or trend continuations by recognizing a specific chart formation. In algorithmic trading, automating the detection of the Gartley pattern can help traders enhance decision-making reliability. Mastery of this pattern requires a deep understanding of harmonic trading principles and the integration of these insights into algorithmic models to refine entry and exit points effectively.
 ---
 

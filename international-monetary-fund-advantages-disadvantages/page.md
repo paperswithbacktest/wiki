@@ -1,5 +1,5 @@
 ---
-title: "International Monetary Fund: Advantages and Disadvantages (Algo Trading)"
+title: "International Monetary Fund: Advantages and Disadvantages"
 description: "Explore the advantages and disadvantages of the IMF on global economics and algorithmic trading, balancing the benefits of economic stability with potential challenges."
 ---
 

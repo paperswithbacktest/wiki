@@ -1,5 +1,5 @@
 ---
-title: "Comparison of R-Squared and Beta (Algo Trading)"
+title: "Comparison of R-Squared and Beta"
 description: "Explore the pivotal role of R-Squared and Beta in algorithmic trading. Learn to evaluate market risks and optimize trading strategies for improved returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Fiscal Policy Authority in the United States: President vs. Congress (Algo Trading)"
+title: "Fiscal Policy Authority in the United States: President vs. Congress"
 description: "Explore the dynamic relationship between the President and Congress in shaping U.S. fiscal policy and its impact on algorithmic trading and financial markets."
 ---
 

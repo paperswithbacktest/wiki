@@ -1,5 +1,5 @@
 ---
-title: "Investment Horizon and Portfolio Considerations (Algo Trading)"
+title: "Investment Horizon and Portfolio Considerations"
 description: "Discover the essentials of investment horizon and algorithmic trading and their impact on portfolio management. Learn to optimize strategy effectively."
 ---
 

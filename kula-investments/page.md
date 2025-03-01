@@ -1,5 +1,5 @@
 ---
-title: "Kula Investments (Algo Trading)"
+title: "Kula Investments"
 description: "Kula Investments leads in algorithmic trading by leveraging complex algorithms for high-speed trading decisions maximizing returns and minimizing risk in competitive markets."
 ---
 

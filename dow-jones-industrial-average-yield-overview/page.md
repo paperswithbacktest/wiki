@@ -1,5 +1,5 @@
 ---
-title: "Dow Jones Industrial Average Yield Overview (Algo Trading)"
+title: "Dow Jones Industrial Average Yield Overview"
 description: "Explore an insightful overview of the Dow Jones Industrial Average focusing on yield calculations and the significant role of algorithmic trading in financial markets."
 ---
 

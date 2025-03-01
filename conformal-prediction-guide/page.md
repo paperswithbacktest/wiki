@@ -1,5 +1,5 @@
 ---
-title: "Conformal Prediction Guide (Algo Trading)"
+title: "Conformal Prediction Guide"
 description: Explore the world of algorithmic trading and the importance of prediction intervals with our comprehensive guide on Conformal Prediction. Learn how MAPIE enhances trading strategies by utilizing model agnostic prediction interval estimation, offering a detailed look at its principles, implementation, and potential to improve risk management and decision-making in financial markets. Dive into the future of trading with insights into advanced statistical tools and uncertainty estimation techniques that refine risk management practices.
 ---
 

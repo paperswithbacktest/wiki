@@ -1,5 +1,5 @@
 ---
-title: "Deutsche Börse Group (Algo Trading)"
+title: "Deutsche Börse Group"
 description: "Explore the evolving landscape of European financial markets and algorithmic trading with insights from Deutsche Boerse Group's innovative trading solutions."
 ---
 

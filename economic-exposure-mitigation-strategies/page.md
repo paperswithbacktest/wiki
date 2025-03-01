@@ -1,5 +1,5 @@
 ---
-title: "Economic Exposure and Mitigation Strategies (Algo Trading)"
+title: "Economic Exposure and Mitigation Strategies"
 description: "Discover how businesses and traders can manage economic exposure and leverage algorithmic trading to mitigate risks, stabilize outcomes, and seize global financial opportunities."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Market Cycles: How They Work and Their Types (Algo Trading)"
+title: "Market Cycles: How They Work and Their Types"
 description: "Unlock insights into market cycles and improve trading strategies by understanding the phases of expansion and contraction Explore how algorithmic trading optimizes this knowledge"
 ---
 

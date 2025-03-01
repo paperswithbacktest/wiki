@@ -1,5 +1,5 @@
 ---
-title: "Difference Between Exchange-Traded Products and Exchange-Traded Funds (Algo Trading)"
+title: "Difference Between Exchange-Traded Products and Exchange-Traded Funds"
 description: "Discover the key differences between exchange-traded products and exchange-traded funds, and explore how algo trading revolutionizes modern investment strategies."
 ---
 

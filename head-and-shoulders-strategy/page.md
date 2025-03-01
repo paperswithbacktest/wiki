@@ -1,5 +1,5 @@
 ---
-title: "Head and Shoulders Strategy Explained (Algo Trading)"
+title: "Head and Shoulders Strategy Explained"
 description: Discover the intricacies of the head and shoulders trading strategy in algorithmic trading. This pattern, recognized for its three-peak structure, signals potential market reversals. Its understanding enables traders to optimize trade timings, maximize profits, and enhance automated trading systems. Learn how to calculate target prices and integrate this strategy into algo-trading to boost trading performance efficiently.
 ---
 

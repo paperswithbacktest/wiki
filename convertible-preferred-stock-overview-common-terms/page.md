@@ -1,5 +1,5 @@
 ---
-title: "Convertible Preferred Stock: Overview and Common Terms (Algo Trading)"
+title: "Convertible Preferred Stock: Overview and Common Terms"
 description: "Explore the unique benefits of Convertible Preferred Stock in this comprehensive guide to CPS concepts and algorithmic trading strategies for optimized investments."
 ---
 

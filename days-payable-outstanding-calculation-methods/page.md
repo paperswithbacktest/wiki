@@ -1,5 +1,5 @@
 ---
-title: "Days Payable Outstanding and Calculation Methods (Algo Trading)"
+title: "Days Payable Outstanding and Calculation Methods"
 description: "Discover how Days Payable Outstanding (DPO) impacts financial strategy and algorithmic trading by analyzing its calculation and application for optimized outcomes."
 ---
 

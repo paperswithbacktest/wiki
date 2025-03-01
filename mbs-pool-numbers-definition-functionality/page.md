@@ -1,5 +1,5 @@
 ---
-title: "MBS Pool Numbers: Definition and Functionality (Algo Trading)"
+title: "MBS Pool Numbers: Definition and Functionality"
 description: "Explore the essential role of MBS pool numbers in algorithmic trading and investment, offering key insights into mortgage-backed securities for informed decision-making."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Government Regulations Impacting Banking Sector Investment (Algo Trading)"
+title: "Government Regulations Impacting Banking Sector Investment"
 description: "Explore how government regulations shape investment banking and algorithmic trading, balancing innovation with market stability and promoting transparent financial practices."
 ---
 

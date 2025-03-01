@@ -1,5 +1,5 @@
 ---
-title: "Look-ahead bias (Algo Trading)"
+title: "Look-ahead bias"
 description: Look-ahead bias in algorithmic trading can distort strategy performance assessments, leading to overly optimistic outcomes by using future data not available during decision-making. This bias affects backtesting, causing an inaccurate evaluation that may not hold in real-time trading. By understanding and preventing look-ahead bias, traders can achieve more reliable and trustworthy trading strategies, ensuring that they are based on data available at each decision point. Identifying and mitigating this bias is essential for creating robust algorithms that perform well under real market conditions.
 ---
 

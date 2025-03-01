@@ -1,5 +1,5 @@
 ---
-title: "Letters Patent: Definition and Functionality (Algo Trading)"
+title: "Letters Patent: Definition and Functionality"
 description: "Explore the crucial role of letters patent in safeguarding algorithmic trading innovations, ensuring competitive advantage through legal protection in a tech-driven market."
 ---
 

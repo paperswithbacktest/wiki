@@ -1,5 +1,5 @@
 ---
-title: "London Interbank Offered Rate and Its Applications (Algo Trading)"
+title: "London Interbank Offered Rate and Its Applications"
 description: "Explore the influence of LIBOR in global financial markets and the implications of its 2023 phaseout on algorithmic trading and financial strategies."
 ---
 

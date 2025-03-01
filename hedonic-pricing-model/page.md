@@ -1,5 +1,5 @@
 ---
-title: "Hedonic Pricing Model (Algo Trading)"
+title: "Hedonic Pricing Model"
 description: "Discover how hedonic pricing enhances algorithmic trading by decomposing product values into attributes for better market insights and economic valuation."
 ---
 

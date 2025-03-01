@@ -1,5 +1,5 @@
 ---
-title: "Byzantium Fork: Mechanism and Objectives (Algo Trading)"
+title: "Byzantium Fork: Mechanism and Objectives"
 description: "Explore the Byzantium fork's impact on Ethereum's infrastructure and its influence on algorithmic trading strategies with enhanced efficiency and security features."
 ---
 

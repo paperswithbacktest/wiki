@@ -1,5 +1,5 @@
 ---
-title: "Capital Appreciation: Overview and Examples (Algo Trading)"
+title: "Capital Appreciation: Overview and Examples"
 description: "Explore the synergy of asset valuation, capital appreciation, and algorithmic trading to optimize investment strategies and leverage cutting-edge innovations."
 ---
 

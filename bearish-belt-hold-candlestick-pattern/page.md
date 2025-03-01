@@ -1,5 +1,5 @@
 ---
-title: "Bearish Belt Hold Candlestick Pattern (Algo Trading)"
+title: "Bearish Belt Hold Candlestick Pattern"
 description: "Explore the Bearish Belt Hold candlestick pattern and its strategic use in algorithmic trading to predict bearish reversals and enhance trade efficiency."
 ---
 

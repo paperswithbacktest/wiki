@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Prime Costs and Conversion Costs (Algo Trading)"
+title: "Comparison of Prime Costs and Conversion Costs"
 description: "Explore the essential comparison of prime and conversion costs in algorithmic trading to enhance efficiency and profitability in financial operations."
 ---
 

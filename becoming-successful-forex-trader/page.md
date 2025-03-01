@@ -1,5 +1,5 @@
 ---
-title: "Becoming a Successful Forex Trader (Algo Trading)"
+title: "Becoming a Successful Forex Trader"
 description: "Discover strategies for successful Forex trading using algorithmic tools. Learn how to combine traditional methods with technology to enhance trading performance."
 ---
 

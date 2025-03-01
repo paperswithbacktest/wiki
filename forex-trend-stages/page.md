@@ -1,5 +1,5 @@
 ---
-title: "Forex Trend Stages (Algo Trading)"
+title: "Forex Trend Stages"
 description: "Master Forex trading by understanding market stages and trends with algo trading Learn how to leverage these insights for successful currency trades"
 ---
 

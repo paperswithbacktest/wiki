@@ -1,5 +1,5 @@
 ---
-title: "Electronic Communication Network (Algo Trading)"
+title: "Electronic Communication Network"
 description: "Explore the transformative impact of Electronic Communication Networks and algorithmic trading in financial markets boosting efficiency and global accessibility."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Microeconomics and Macroeconomics (Algo Trading)"
+title: "Differences Between Microeconomics and Macroeconomics"
 description: "Discover the key differences between microeconomics and macroeconomics and how these concepts shape algorithmic trading strategies. This page explores the role of microeconomic principles in understanding individual market behaviors and macroeconomic analysis in evaluating national and international economic trends. Gain insights into how economic knowledge can offer a competitive edge in financial markets through informed trading strategies and risk management."
 ---
 

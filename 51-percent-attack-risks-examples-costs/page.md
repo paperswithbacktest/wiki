@@ -1,5 +1,5 @@
 ---
-title: "51% Attack: Risks, Examples, and Costs (Algo Trading)"
+title: "51% Attack: Risks, Examples, and Costs"
 description: "Explore the dynamics of 51% attacks on blockchain networks examining the risks and costs involved Discover preventive measures to safeguard against these threats."
 ---
 

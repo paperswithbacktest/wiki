@@ -1,5 +1,5 @@
 ---
-title: "Labor Union: History and Examples (Algo Trading)"
+title: "Labor Union: History and Examples"
 description: "Explore the pivotal role of labor unions in securing workers' rights and their adaptation amidst technological advancements like algorithmic trading in modern times."
 ---
 

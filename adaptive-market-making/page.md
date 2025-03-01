@@ -1,5 +1,5 @@
 ---
-title: "adaptive market making (Algo Trading)"
+title: "adaptive market making"
 description: "Adaptive market making is an advanced algorithmic trading strategy that adjusts quoting parameters in real-time ensuring liquidity and efficient trade execution."
 ---
 

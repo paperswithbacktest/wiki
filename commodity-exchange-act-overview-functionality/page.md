@@ -1,5 +1,5 @@
 ---
-title: "Commodity Exchange Act: Overview and Functionality (Algo Trading)"
+title: "Commodity Exchange Act: Overview and Functionality"
 description: "Explore the Commodity Exchange Act's role in US commodity market regulation and its adaptation to modern algorithmic trading challenges with oversight by the CFTC."
 ---
 

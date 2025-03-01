@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Macroeconomics and Finance (Algo Trading)"
+title: "Differences Between Macroeconomics and Finance"
 description: "Explore the distinct roles of macroeconomics and finance in shaping algorithmic trading strategies to optimize market outcomes and anticipate trends."
 ---
 

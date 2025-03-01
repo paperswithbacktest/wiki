@@ -1,5 +1,5 @@
 ---
-title: "Autonomous Investment and Influencing Factors (Algo Trading)"
+title: "Autonomous Investment and Influencing Factors"
 description: "Explore how algorithmic trading and autonomous investments are transforming financial markets by leveraging AI and machine learning to optimize strategies and manage risks efficiently."
 ---
 

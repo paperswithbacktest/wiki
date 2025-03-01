@@ -1,5 +1,5 @@
 ---
-title: "Layering (Algo Trading)"
+title: "Layering"
 description: Explore the controversial strategy of layering in algorithmic trading on this insightful page. Discover how traders manipulate market conditions by placing and canceling orders to create deceptive supply and demand. Understand the ethical and legal implications of this tactic and its impact on modern finance. Learn how regulators scrutinize such practices and the importance of adhering to ethical trading standards. Delve into notable cases of layering, including regulatory actions and the broader context of algorithmic trading strategies.
 ---
 

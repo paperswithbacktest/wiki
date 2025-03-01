@@ -1,5 +1,5 @@
 ---
-title: "Dijkstra’s Algorithm Explained (Algo Trading)"
+title: "Dijkstra’s Algorithm Explained"
 description: Explore the power of Dijkstra’s Algorithm within algorithmic trading to enhance decision-making and execution speed. This article dives into key distinctions between Dijkstra and Prim's Algorithms, shedding light on their practical applications for minimizing transaction latency and optimizing data paths. Unlock the potential of these foundational graph-based methods to refine trading strategies and optimize financial outcomes.
 ---
 

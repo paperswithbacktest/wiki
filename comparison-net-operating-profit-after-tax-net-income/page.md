@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Net Operating Profit After Tax and Net Income (Algo Trading)"
+title: "Comparison of Net Operating Profit After Tax and Net Income"
 description: "Explore the core differences between Net Operating Profit After Tax and net income and how these metrics can impact investment decisions and trading strategies."
 ---
 

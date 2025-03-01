@@ -1,5 +1,5 @@
 ---
-title: "Impact of Bond Coupon Interest Rate on Price (Algo Trading)"
+title: "Impact of Bond Coupon Interest Rate on Price"
 description: "Explore the impact of bond coupon interest rates on bond pricing discover the role of algorithmic trading and learn strategies to optimize investments."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Broker Booth Support System: History and Overview (Algo Trading)"
+title: "Broker Booth Support System: History and Overview"
 description: "Explore the transformation of stock trading technology through the history of the Broker Booth Support System and its influence on algorithmic trading."
 ---
 

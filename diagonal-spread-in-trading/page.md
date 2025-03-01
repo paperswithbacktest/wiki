@@ -1,5 +1,5 @@
 ---
-title: "Diagonal Spread in Trading (Algo Trading)"
+title: "Diagonal Spread in Trading"
 description: "Explore how diagonal spreads in algo trading combine vertical and calendar strategies for added flexibility and potential profitability through automation."
 ---
 

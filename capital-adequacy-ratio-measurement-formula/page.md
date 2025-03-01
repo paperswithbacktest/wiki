@@ -1,5 +1,5 @@
 ---
-title: "Capital Adequacy Ratio: Measurement and Formula (Algo Trading)"
+title: "Capital Adequacy Ratio: Measurement and Formula"
 description: "Explore the intricacies of the Capital Adequacy Ratio an essential banking metric reflecting financial stability through regulatory compliance and risk management."
 ---
 

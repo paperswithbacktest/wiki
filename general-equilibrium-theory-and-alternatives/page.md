@@ -1,5 +1,5 @@
 ---
-title: "General Equilibrium Theory and Alternatives (Algo Trading)"
+title: "General Equilibrium Theory and Alternatives"
 description: "Explore the intricacies of General Equilibrium Theory and its alternatives, highlighting the role of algorithmic trading in bridging theoretical economics and practical market applications. Understand how this theory, providing a framework for supply and demand interactions across markets, faces challenges due to its assumptions. Discover how technological advancements in trading exploit these economic models, underscoring both their strengths and limitations in real-world scenarios."
 ---
 

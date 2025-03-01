@@ -1,5 +1,5 @@
 ---
-title: "Large-Value Stocks: Characteristics, Functionality, and Risks (Algo Trading)"
+title: "Large-Value Stocks: Characteristics, Functionality, and Risks"
 description: "Explore the characteristics and risks of large-value stocks in algo trading. Understand their appeal, potential pitfalls, and how algorithmic trading impacts their market dynamics."
 ---
 

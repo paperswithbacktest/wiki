@@ -1,5 +1,5 @@
 ---
-title: "Market efficiency hypothesis (Algo Trading)"
+title: "Market efficiency hypothesis"
 description: "Explore the Efficient Market Hypothesis in the context of algorithmic trading where rapid data processing enhances market efficiency while raising volatility concerns."
 ---
 

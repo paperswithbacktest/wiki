@@ -1,5 +1,5 @@
 ---
-title: "Material News (Algo Trading)"
+title: "Material News"
 description: "Explore how material news, financial reporting, corporate disclosures, and algorithmic trading shape investor strategies and impact market volatility in finance."
 ---
 

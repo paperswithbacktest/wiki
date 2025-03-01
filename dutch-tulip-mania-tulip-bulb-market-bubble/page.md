@@ -1,5 +1,5 @@
 ---
-title: "Dutch Tulip Mania: The Tulip Bulb Market Bubble (Algo Trading)"
+title: "Dutch Tulip Mania: The Tulip Bulb Market Bubble"
 description: "Explore the fascinating history of Dutch tulip mania, a classic case of a market bubble driven by speculative trading and the allure of rare tulip varieties."
 ---
 

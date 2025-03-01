@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategies in a Bear Market (Algo Trading)"
+title: "Investment Strategies in a Bear Market"
 description: "Navigate the complexities of bear markets with effective investment strategies and algorithmic trading insights. This comprehensive guide explores risk management, asset allocation, and automated trading techniques to help investors mitigate losses and capitalize on opportunities during market downturns, ensuring long-term financial stability and growth."
 ---
 

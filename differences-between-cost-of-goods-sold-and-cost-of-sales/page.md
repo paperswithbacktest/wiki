@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Cost of Goods Sold and Cost of Sales (Algo Trading)"
+title: "Differences Between Cost of Goods Sold and Cost of Sales"
 description: "Understand the key differences between Cost of Goods Sold and cost of sales in algo trading to optimize financial performance and make informed decisions."
 ---
 

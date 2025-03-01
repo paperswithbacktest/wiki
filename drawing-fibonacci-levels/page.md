@@ -1,5 +1,5 @@
 ---
-title: "Drawing Fibonacci Levels (Algo Trading)"
+title: "Drawing Fibonacci Levels"
 description: "Explore the significance of Fibonacci levels in algorithmic trading Learn how these mathematical ratios help traders predict market trends and develop strategic insights"
 ---
 

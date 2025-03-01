@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Porter's Five Forces and SWOT Analysis (Algo Trading)"
+title: "Comparison of Porter's Five Forces and SWOT Analysis"
 description: "Discover the synergy between Porter's Five Forces and SWOT analysis in algo trading to optimize strategic management and enhance market positioning."
 ---
 

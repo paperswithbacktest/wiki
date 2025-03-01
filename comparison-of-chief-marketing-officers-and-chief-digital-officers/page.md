@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Chief Marketing Officers and Chief Digital Officers (Algo Trading)"
+title: "Comparison of Chief Marketing Officers and Chief Digital Officers"
 description: "Explore the distinct roles of Chief Digital Officers and Chief Marketing Officers in optimizing algorithmic trading through digital innovation and market strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Benefits of Stock Share Repurchases (Algo Trading)"
+title: "Benefits of Stock Share Repurchases"
 description: "Explore the intersection of stock buybacks and algorithmic trading, examining their impact on modern finance, market dynamics, and corporate strategies."
 ---
 

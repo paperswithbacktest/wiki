@@ -1,5 +1,5 @@
 ---
-title: "Class 3-6 Bonds: Overview and Functionality (Algo Trading)"
+title: "Class 3-6 Bonds: Overview and Functionality"
 description: "Explore the role of Class 3-6 bonds in investment strategies and how algorithmic trading reshapes their landscape offering risk and potential rewards."
 ---
 

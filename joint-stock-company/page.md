@@ -1,5 +1,5 @@
 ---
-title: "Joint-Stock Company (Algo Trading)"
+title: "Joint-Stock Company"
 description: "Explore how joint-stock companies have evolved from historic trade facilitators to modern corporations utilizing algorithmic trading improving market efficiency and global impact."
 ---
 

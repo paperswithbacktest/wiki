@@ -1,5 +1,5 @@
 ---
-title: "Fixed-income relative-value investing (Algo Trading)"
+title: "Fixed-income relative-value investing"
 description: Discover the sophisticated world of Fixed-Income Relative-Value Investing (FI-RV), an investment strategy designed to exploit valuation discrepancies in related fixed-income securities. This approach leverages algorithmic trading to enhance precision and speed, enabling investors to capitalize on fleeting market inefficiencies across government bonds, interest rate swaps, and futures contracts. With a focus on risk management and leveraging advanced quantitative models, FI-RV offers a systematic and scalable means to achieve consistent profits while adapting to evolving financial markets. Explore the synergies between technology and strategy in today's fast-paced investment landscape.
 ---
 

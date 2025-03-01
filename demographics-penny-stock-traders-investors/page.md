@@ -1,5 +1,5 @@
 ---
-title: "Demographics Of Penny Stock Traders And Investors (Algo Trading)"
+title: "Demographics Of Penny Stock Traders And Investors"
 description: "Explore the intersection of penny stocks and algorithmic trading, understanding their dynamics and risk factors, with tips to optimize investment strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Employment Act of 1946: Overview and Historical Context (Algo Trading)"
+title: "Employment Act of 1946: Overview and Historical Context"
 description: "Explore the impact of the Employment Act of 1946 on U.S. economic policy by examining its role in stabilizing post-war economy through structured federal management."
 ---
 

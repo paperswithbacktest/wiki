@@ -1,5 +1,5 @@
 ---
-title: "Advantages and Disadvantages of Holding Single Stocks in a Portfolio (Algo Trading)"
+title: "Advantages and Disadvantages of Holding Single Stocks in a Portfolio"
 description: "Explore the pros and cons of single stock investments in a portfolio Understand algorithmic trading's role in enhancing strategy efficiency and risk management"
 ---
 

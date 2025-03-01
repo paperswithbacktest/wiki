@@ -1,5 +1,5 @@
 ---
-title: "Competition in Contracting Act: Overview and Mechanism (Algo Trading)"
+title: "Competition in Contracting Act: Overview and Mechanism"
 description: "Explore the Competition in Contracting Act and its significance in government procurement and algorithmic trading focusing on transparency, efficiency, and fairness."
 ---
 

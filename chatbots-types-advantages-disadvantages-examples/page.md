@@ -1,5 +1,5 @@
 ---
-title: "Chatbots: Types, Advantages, Disadvantages, and Examples (Algo Trading)"
+title: "Chatbots: Types, Advantages, Disadvantages, and Examples"
 description: "Explore the impact of AI in trading with insights into chatbots, their pros and cons, and examples. Discover how AI reshapes communication and finance."
 ---
 

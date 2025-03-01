@@ -1,5 +1,5 @@
 ---
-title: "Activity Cost Pool: Overview and Examples (Algo Trading)"
+title: "Activity Cost Pool: Overview and Examples"
 description: "Explore the synergy between cost accounting and algorithmic trading with activity cost pools Learn how to enhance strategies optimize processes and boost profitability"
 ---
 

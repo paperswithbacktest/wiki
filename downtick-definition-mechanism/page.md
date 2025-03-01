@@ -1,5 +1,5 @@
 ---
-title: "Downtick: Definition and Mechanism (Algo Trading)"
+title: "Downtick: Definition and Mechanism"
 description: "Discover the impact of downticks in stock trading and how algorithmic trading leverages market trends for strategic advantage. Understand key concepts and tools."
 ---
 

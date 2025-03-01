@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Return on Equity and Return on Assets (Algo Trading)"
+title: "Comparison of Return on Equity and Return on Assets"
 description: "Explore the differences between Return on Equity (ROE) and Return on Assets (ROA) in algorithmic trading for insights into company performance and investment strategies."
 ---
 

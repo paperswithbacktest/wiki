@@ -1,5 +1,5 @@
 ---
-title: "Accumulated Depreciation and Expense (Algo Trading)"
+title: "Accumulated Depreciation and Expense"
 description: "Explore the synergy between financial accounting, asset management, depreciation, and algorithmic trading to enhance investment strategies and decision-making in finance."
 ---
 

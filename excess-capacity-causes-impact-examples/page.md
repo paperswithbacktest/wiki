@@ -1,5 +1,5 @@
 ---
-title: "Excess Capacity: Causes, Impact, and Examples (Algo Trading)"
+title: "Excess Capacity: Causes, Impact, and Examples"
 description: "Explore the causes and impacts of excess capacity and how businesses can strategically leverage it for competitive advantage, especially in algorithmic trading."
 ---
 

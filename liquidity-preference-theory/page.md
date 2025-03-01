@@ -1,5 +1,5 @@
 ---
-title: "Liquidity Preference Theory (Algo Trading)"
+title: "Liquidity Preference Theory"
 description: "Explore the fusion of Keynesian liquidity preference theory with algorithmic trading strategies in finance. Discover insights into modern markets."
 ---
 

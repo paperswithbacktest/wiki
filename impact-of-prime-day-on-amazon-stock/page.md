@@ -1,5 +1,5 @@
 ---
-title: "Impact of Prime Day on Amazon Stock (Algo Trading)"
+title: "Impact of Prime Day on Amazon Stock"
 description: "Explore the impact of Amazon Prime Day on AMZN stock and algorithmic trading strategies Discover how this retail event influences market trends and investor sentiment"
 ---
 

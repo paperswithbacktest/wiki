@@ -1,5 +1,5 @@
 ---
-title: "Ease of Movement Indicator (Algo Trading)"
+title: "Ease of Movement Indicator"
 description: "Ease of Movement (EMV) is a key trading indicator combining volume and price data to assess stock movement fluidity aiding trend analysis and trading decisions."
 ---
 

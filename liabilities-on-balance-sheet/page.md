@@ -1,5 +1,5 @@
 ---
-title: "Liabilities on a Balance Sheet (Algo Trading)"
+title: "Liabilities on a Balance Sheet"
 description: "Explore the impact of balance sheet liabilities on algorithmic trading strategies to gain a competitive edge by understanding financial commitments and risks."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Leading Investment Fund Families (Algo Trading)"
+title: "Leading Investment Fund Families"
 description: "Explore the pivotal role of investment fund families in portfolio management and the evolution of algorithmic trading for optimized financial strategies."
 ---
 

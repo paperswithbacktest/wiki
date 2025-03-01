@@ -1,5 +1,5 @@
 ---
-title: "Intrinsic Value (Algo Trading)"
+title: "Intrinsic Value"
 description: "Explore how intrinsic value valuation and algorithmic trading are transforming modern investment strategies. Discover the fundamentals of intrinsic value, enabling investors to assess an asset's true worth beyond market prices. Delve into algorithmic trading, where advanced algorithms optimize trade execution, reducing human error. Gain insights on integrating these tools for strategic investment decisions and efficient market navigation. Ideal for both novice and seasoned investors aiming to optimize financial strategies in dynamic markets."
 ---
 

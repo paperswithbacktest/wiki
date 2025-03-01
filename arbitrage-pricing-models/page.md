@@ -1,5 +1,5 @@
 ---
-title: "Arbitrage pricing models (Algo Trading)"
+title: "Arbitrage pricing models"
 description: "Explore arbitrage pricing models in algorithmic trading focusing on Arbitrage Pricing Theory (APT) to capture asset price movements via systematic factors."
 ---
 

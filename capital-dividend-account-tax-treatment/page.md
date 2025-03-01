@@ -1,5 +1,5 @@
 ---
-title: "Capital Dividend Account and Tax Treatment (Algo Trading)"
+title: "Capital Dividend Account and Tax Treatment"
 description: "Explore the benefits of Capital Dividend Accounts and their tax advantages for Canadian firms. Learn how algorithmic trading can boost CDA efficiency."
 ---
 

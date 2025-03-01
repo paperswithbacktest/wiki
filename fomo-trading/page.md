@@ -1,5 +1,5 @@
 ---
-title: "FOMO in Trading (Algo Trading)"
+title: "FOMO in Trading"
 description: Explore the influence of Fear of Missing Out (FOMO) in trading and how it affects decision-making in high-stakes environments like stock markets. Understand the impact of real-time information and social media on traders' behavior, often leading to impulsive actions. Discover how algorithmic trading can help mitigate FOMO by promoting disciplined trading strategies and removing emotional biases. Gain insights into characteristics of FOMO traders and learn strategies to manage these emotions for improved trading performance.
 ---
 

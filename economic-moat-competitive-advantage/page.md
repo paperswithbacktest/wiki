@@ -1,5 +1,5 @@
 ---
-title: "Economic Moat and Competitive Advantage (Algo Trading)"
+title: "Economic Moat and Competitive Advantage"
 description: "Discover how businesses utilize economic moats and algorithmic trading to establish a sustainable competitive advantage by leveraging unique assets and cutting-edge technology."
 ---
 

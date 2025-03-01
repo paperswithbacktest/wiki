@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Foreign Portfolio and Foreign Direct Investment (Algo Trading)"
+title: "Comparison of Foreign Portfolio and Foreign Direct Investment"
 description: "Explore the key differences between Foreign Portfolio Investment and Foreign Direct Investment and discover how algorithmic trading influences these strategies."
 ---
 

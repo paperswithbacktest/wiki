@@ -1,5 +1,5 @@
 ---
-title: "Economic Value: Meaning, Examples, and Estimation Methods (Algo Trading)"
+title: "Economic Value: Meaning, Examples, and Estimation Methods"
 description: "Discover the crucial role of economic value and how it influences resource allocation and pricing in markets with insights into algorithmic trading strategies."
 ---
 

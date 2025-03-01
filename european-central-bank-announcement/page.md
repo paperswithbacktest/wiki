@@ -1,5 +1,5 @@
 ---
-title: "European Central Bank Announcement (Algo Trading)"
+title: "European Central Bank Announcement"
 description: "Explore how ECB announcements influence algorithmic trading in this detailed analysis of the eurozone's economic policies and market dynamics."
 ---
 

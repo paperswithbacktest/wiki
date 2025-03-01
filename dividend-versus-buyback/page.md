@@ -1,5 +1,5 @@
 ---
-title: "Dividend Versus Buyback (Algo Trading)"
+title: "Dividend Versus Buyback"
 description: "Explore the dynamics of dividend policies versus stock buybacks and the role of algorithmic trading in enhancing shareholder value and optimizing corporate finance."
 ---
 

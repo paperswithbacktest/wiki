@@ -1,5 +1,5 @@
 ---
-title: "Gann Fans and Their Calculation in Technical Analysis (Algo Trading)"
+title: "Gann Fans and Their Calculation in Technical Analysis"
 description: "Explore the integration of Gann Fans with algorithmic trading strategies to optimize market predictions and enhance trading precision through advanced techniques."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Earnest Money in Real Estate (Algo Trading)"
+title: "Earnest Money in Real Estate"
 description: "Explore how earnest money fortifies real estate deals and discover parallels with algorithmic trading innovations that enhance efficiency in property transactions."
 ---
 

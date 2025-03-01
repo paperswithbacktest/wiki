@@ -1,5 +1,5 @@
 ---
-title: "Major Participants in the Bond Market (Algo Trading)"
+title: "Major Participants in the Bond Market"
 description: "Explore key players in the bond market including issuers underwriters and purchasers Learn how algorithmic trading impacts debt securities for better returns"
 ---
 

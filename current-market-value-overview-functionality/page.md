@@ -1,5 +1,5 @@
 ---
-title: "Current Market Value: Overview and Functionality (Algo Trading)"
+title: "Current Market Value: Overview and Functionality"
 description: "Explore how Current Market Value (CMV) and algorithmic trading synergize to optimize investment strategies by providing real-time asset valuation insights crucial for informed market decisions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Impact of Kamala Harris's Economic Plan (Algo Trading)"
+title: "Impact of Kamala Harris's Economic Plan"
 description: "Explore how Kamala Harris's economic plan impacts algorithmic trading and the broader US economy. Analyze its influence on financial strategies, economic growth, and policy outcomes, understanding its potential to foster equitable growth and address income disparities."
 ---
 

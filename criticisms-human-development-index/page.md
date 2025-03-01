@@ -1,5 +1,5 @@
 ---
-title: "Criticisms of the Human Development Index (Algo Trading)"
+title: "Criticisms of the Human Development Index"
 description: "Explore the limitations of the Human Development Index focusing on its simplification of complex development dynamics and its implications for algorithmic trading."
 ---
 

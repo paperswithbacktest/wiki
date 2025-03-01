@@ -1,5 +1,5 @@
 ---
-title: "Allied Lines: Definition and Functionality (Algo Trading)"
+title: "Allied Lines: Definition and Functionality"
 description: "Explore the synergy between insurance and algorithmic trading as allied lines enhance risk assessment and premium determination in financial markets."
 ---
 

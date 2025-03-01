@@ -1,5 +1,5 @@
 ---
-title: "Home Bias: Definition, Mechanisms, and Considerations (Algo Trading)"
+title: "Home Bias: Definition, Mechanisms, and Considerations"
 description: "Discover how home bias and financial psychology impact investment decisions and learn strategies to leverage algorithmic trading for improved diversification and outcomes."
 ---
 

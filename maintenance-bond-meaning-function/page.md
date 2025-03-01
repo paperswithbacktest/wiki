@@ -1,5 +1,5 @@
 ---
-title: "Maintenance Bond: Meaning and Function (Algo Trading)"
+title: "Maintenance Bond: Meaning and Function"
 description: "Discover how maintenance bonds in construction projects provide essential financial security ensuring contractors address any post-completion defects."
 ---
 

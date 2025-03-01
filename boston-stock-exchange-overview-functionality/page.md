@@ -1,5 +1,5 @@
 ---
-title: "Boston Stock Exchange: Overview and Functionality (Algo Trading)"
+title: "Boston Stock Exchange: Overview and Functionality"
 description: "Explore the Boston Stock Exchange's historic role in U.S. finance and the impact of algorithmic trading on market dynamics following its integration with Nasdaq."
 ---
 

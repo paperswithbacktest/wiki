@@ -1,5 +1,5 @@
 ---
-title: "Considerations for Purchasing a Vacation Home with Friends (Algo Trading)"
+title: "Considerations for Purchasing a Vacation Home with Friends"
 description: "Discover the potential of buying a vacation home with friends by exploring shared ownership models and the role of algorithmic trading in real estate investing."
 ---
 

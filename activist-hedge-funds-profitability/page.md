@@ -1,5 +1,5 @@
 ---
-title: "Activist Hedge Funds and Profitability (Algo Trading)"
+title: "Activist Hedge Funds and Profitability"
 description: "Explore how activist hedge funds and algorithmic trading are reshaping finance with innovative strategies that maximize profitability and shareholder value."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Insider Trading and Its Legal Status (Algo Trading)"
+title: "Insider Trading and Its Legal Status"
 description: "Explore the complex realm of insider trading, a significant aspect of finance that balances legality, ethics, and market dynamics. Understand the distinctions between legal practices, regulated by frameworks like the Securities Exchange Act of 1934, and illegal activities that undermine market integrity. This page investigates into the impact of algorithmic trading on insider trading regulations, providing insights into maintaining fairness and transparency in evolving financial markets."
 ---
 

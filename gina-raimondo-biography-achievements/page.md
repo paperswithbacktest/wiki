@@ -1,5 +1,5 @@
 ---
-title: "Gina Raimondo: Biography and Achievements (Algo Trading)"
+title: "Gina Raimondo: Biography and Achievements"
 description: "Explore the remarkable career of Gina Raimondo blending politics finance and technology. Discover her leadership in commerce and advancements in algo trading."
 ---
 

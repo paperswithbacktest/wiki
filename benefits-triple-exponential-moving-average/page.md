@@ -1,5 +1,5 @@
 ---
-title: "Benefits of Triple Exponential Moving Average (Algo Trading)"
+title: "Benefits of Triple Exponential Moving Average"
 description: "Discover the power of Triple Exponential Moving Average (TRIX) in trading Learn how TRIX filters market noise identifies trends and enhances algorithmic trading strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Estimated Current Return (Algo Trading)"
+title: "Estimated Current Return"
 description: "Explore how algorithmic trading enhances investment strategies by leveraging data-driven approaches for estimated returns, aiding in optimal decision-making and risk management."
 ---
 

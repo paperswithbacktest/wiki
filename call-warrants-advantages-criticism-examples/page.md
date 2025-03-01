@@ -1,5 +1,5 @@
 ---
-title: "Call Warrants: Advantages, Criticism, and Examples (Algo Trading)"
+title: "Call Warrants: Advantages, Criticism, and Examples"
 description: "Explore the advantages and criticisms of call warrants in algo trading. Learn about their high leverage potential, speculative risks, and investment strategies."
 ---
 

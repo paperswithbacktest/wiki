@@ -1,5 +1,5 @@
 ---
-title: "Extraordinary Repairs: Definition, Mechanism, and Examples (Algo Trading)"
+title: "Extraordinary Repairs: Definition, Mechanism, and Examples"
 description: "Explore the importance of extraordinary repairs, asset maintenance, and capital improvements in the context of algorithmic trading to enhance financial efficiency and asset management."
 ---
 

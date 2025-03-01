@@ -1,5 +1,5 @@
 ---
-title: "Disguised Unemployment and Its Types (Algo Trading)"
+title: "Disguised Unemployment and Its Types"
 description: "Explore the complexities of disguised unemployment and its impact on economic stability alongside the role of algo trading in employment trends and market dynamics."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Market Cycles and Investment Returns (Algo Trading)"
+title: "Market Cycles and Investment Returns"
 description: "Discover how understanding market cycles and utilizing algorithmic trading can enhance investment returns by optimizing strategies in a dynamic financial environment."
 ---
 

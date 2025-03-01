@@ -1,5 +1,5 @@
 ---
-title: "High-Yield Bonds: Types and Investment Strategies (Algo Trading)"
+title: "High-Yield Bonds: Types and Investment Strategies"
 description: "Explore high-yield bonds for high returns: understand their risks, types, and strategies including algorithmic trading to enhance your investment portfolio."
 ---
 

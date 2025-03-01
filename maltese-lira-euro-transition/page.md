@@ -1,5 +1,5 @@
 ---
-title: "Maltese Lira and Transition to the Euro (Algo Trading)"
+title: "Maltese Lira and Transition to the Euro"
 description: "The transition from the Maltese Lira to the Euro in 2008 marked a pivotal shift in Malta’s economy enhancing trade, stability, and integration within the EU."
 ---
 

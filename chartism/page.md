@@ -1,5 +1,5 @@
 ---
-title: "Chartism (Algo Trading)"
+title: "Chartism"
 description: "Explore the unexpected connection between 19th-century Chartism, a movement advocating for political reforms and greater democracy, and modern algorithmic trading, characterized by data-driven financial strategies. This article investigates into the systematic approaches both entities employ to achieve their respective goals of social reform and financial gain, highlighting how historical movements influence today's technological and financial practices."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Calculating Beta in Excel: Portfolio Mathematics for Investors (Algo Trading)"
+title: "Calculating Beta in Excel: Portfolio Mathematics for Investors"
 description: "Learn how to calculate Beta in Excel for effective portfolio management and algorithmic trading Explore investment risk strategies with step-by-step guidance"
 ---
 

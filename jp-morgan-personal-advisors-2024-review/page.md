@@ -1,5 +1,5 @@
 ---
-title: "J.P. Morgan Personal Advisors 2024 Review (Algo Trading)"
+title: "J.P. Morgan Personal Advisors 2024 Review"
 description: "Explore how J.P. Morgan Personal Advisors blend human expertise with algorithmic trading to offer innovative financial advisory services and optimized investment strategies."
 ---
 

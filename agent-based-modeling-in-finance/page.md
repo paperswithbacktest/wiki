@@ -1,5 +1,5 @@
 ---
-title: "Agent-Based Modeling in Finance (Algo Trading)"
+title: "Agent-Based Modeling in Finance"
 description: "Discover the impact of agent-based modeling in finance, focusing on algorithmic trading's complex dynamics to enhance strategy and market stability."
 ---
 

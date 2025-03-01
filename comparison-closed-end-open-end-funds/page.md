@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Closed-End and Open-End Funds (Algo Trading)"
+title: "Comparison of Closed-End and Open-End Funds"
 description: "Explore the key differences between open-end and closed-end funds in this guide Highlight the benefits challenges and role of algorithmic trading in fund management"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Impact of the Bretton Woods System (Algo Trading)"
+title: "Impact of the Bretton Woods System"
 description: "Explore how the historical Bretton Woods System and modern algorithmic trading have shaped global finance, impacting economic strategies and market operations."
 ---
 

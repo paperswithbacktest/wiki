@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning Classification Strategy in Python (Algo Trading)"
+title: "Machine Learning Classification Strategy in Python"
 description: Explore the integration of machine learning classification techniques in Python for algorithmic trading strategies. Learn about essential classification algorithms, their implementation, and practical applications in trading. Understand key concepts, address challenges like overfitting, and discover insights to enhance trading decisions using Python's robust libraries such as Scikit-learn and TensorFlow. Enhance your competitive edge in predicting market movements with this comprehensive guide.
 ---
 

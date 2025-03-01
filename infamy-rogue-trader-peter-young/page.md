@@ -1,5 +1,5 @@
 ---
-title: "Infamy of Rogue Trader Peter Young (Algo Trading)"
+title: "Infamy of Rogue Trader Peter Young"
 description: "Explore the notorious financial scandal of rogue trader Peter Young whose unauthorized trading at Morgan Grenfell triggered calls for stronger financial regulations."
 ---
 

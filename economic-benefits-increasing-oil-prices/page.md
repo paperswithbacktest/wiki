@@ -1,5 +1,5 @@
 ---
-title: "Economic Benefits of Increasing Oil Prices (Algo Trading)"
+title: "Economic Benefits of Increasing Oil Prices"
 description: "Discover how rising oil prices fuel economic growth and innovation in the energy sector while algorithmic trading transforms market dynamics."
 ---
 

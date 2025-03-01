@@ -1,5 +1,5 @@
 ---
-title: "Classification of Dividends as Passive or Ordinary Income (Algo Trading)"
+title: "Classification of Dividends as Passive or Ordinary Income"
 description: "Understand dividend income classification as passive or ordinary and how algorithmic trading optimizes this. Explore strategies that maximize financial gains."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "China as the World's Manufacturing Hub (Algo Trading)"
+title: "China as the World's Manufacturing Hub"
 description: "Discover how China's dominance in manufacturing and the rise of algorithmic trading are reshaping global industrial production and economic dynamics."
 ---
 

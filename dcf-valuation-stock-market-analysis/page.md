@@ -1,5 +1,5 @@
 ---
-title: "DCF Valuation and Stock Market Analysis (Algo Trading)"
+title: "DCF Valuation and Stock Market Analysis"
 description: "Explore DCF valuation and its role in stock market analysis through algorithmic trading Discover how it aids in understanding investment opportunities"
 ---
 

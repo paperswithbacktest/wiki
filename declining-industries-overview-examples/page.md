@@ -1,5 +1,5 @@
 ---
-title: "Declining Industries: Overview and Examples (Algo Trading)"
+title: "Declining Industries: Overview and Examples"
 description: "Explore declining industries and their characteristics, causes, and impacts. Discover how algorithmic trading can uncover investment opportunities amidst industry downturns."
 ---
 

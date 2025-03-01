@@ -1,5 +1,5 @@
 ---
-title: "Asymmetric Information in Economics (Algo Trading)"
+title: "Asymmetric Information in Economics"
 description: "Explore the influence of asymmetric information on economic dynamics and its implications in algorithmic trading. Discover how information imbalances can impact market efficiency and trading strategies, and learn about the potential challenges and opportunities they create within financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "European Economic Area Agreement: Overview and Functionality (Algo Trading)"
+title: "European Economic Area Agreement: Overview and Functionality"
 description: "Discover the European Economic Area (EEA) Agreement's role in economic integration and its significant impact on algorithmic trading and market dynamics in Europe."
 ---
 

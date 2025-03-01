@@ -1,5 +1,5 @@
 ---
-title: "Capital Markets: Functions and Operations (Algo Trading)"
+title: "Capital Markets: Functions and Operations"
 description: "Explore the dynamic landscape of capital markets and algorithmic trading to understand their functions, operations, and impact on global finance today."
 ---
 

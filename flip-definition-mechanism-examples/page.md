@@ -1,5 +1,5 @@
 ---
-title: "Flip: Definition, Mechanism, and Examples (Algo Trading)"
+title: "Flip: Definition, Mechanism, and Examples"
 description: "Explore the mechanics and implications of mechanism flips in algorithmic trading. Learn how these unexpected changes in trading behavior affect strategy and risk management."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Largest Developed Market ETFs (Algo Trading)"
+title: "Largest Developed Market ETFs"
 description: "Explore the largest EFA Developed Market ETFs and the role of algorithmic trading with a focus on VEA to optimize your investment strategy globally."
 ---
 

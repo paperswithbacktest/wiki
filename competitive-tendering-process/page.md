@@ -1,5 +1,5 @@
 ---
-title: "Competitive Tendering Process (Algo Trading)"
+title: "Competitive Tendering Process"
 description: "Explore the synergy between competitive tender procurement and algorithmic trading as they enhance market transparency and efficiency for financial frameworks."
 ---
 

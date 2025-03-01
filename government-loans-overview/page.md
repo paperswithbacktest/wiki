@@ -1,5 +1,5 @@
 ---
-title: "Government Loans Overview (Algo Trading)"
+title: "Government Loans Overview"
 description: "Explore the convergence of public financing, government loans, and algo trading and their impact on economic growth financial stability and market efficiency."
 ---
 

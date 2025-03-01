@@ -1,5 +1,5 @@
 ---
-title: "Cost Flow: Overview, Mechanisms, and Examples (Algo Trading)"
+title: "Cost Flow: Overview, Mechanisms, and Examples"
 description: "Discover the fundamental role of cost flow in algorithmic trading and how it interlinks financial analysis and cost accounting to optimize trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Common Misconceptions About Forex Trading (Algo Trading)"
+title: "Common Misconceptions About Forex Trading"
 description: "Explore common misconceptions about forex trading and algorithmic strategies Uncover truths behind myths to improve understanding and trading decisions"
 ---
 

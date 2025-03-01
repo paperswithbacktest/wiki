@@ -1,5 +1,5 @@
 ---
-title: "AQR's Strategy Against Beta (Algo Trading)"
+title: "AQR's Strategy Against Beta"
 description: "Explore AQR's 'Bet Against Beta' strategy leveraging quantitative finance to improve portfolio risk management by targeting stocks with varying beta values."
 ---
 

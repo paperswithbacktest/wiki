@@ -1,5 +1,5 @@
 ---
-title: "Accounts Receivable Discounting: Overview and Mechanism (Algo Trading)"
+title: "Accounts Receivable Discounting: Overview and Mechanism"
 description: "Explore the convergence of accounts receivable discounting and algorithmic trading for enhanced cash flow management improved efficiency and strategic growth."
 ---
 

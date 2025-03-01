@@ -1,5 +1,5 @@
 ---
-title: "Economic Calendar: Functions and Applications (Algo Trading)"
+title: "Economic Calendar: Functions and Applications"
 description: "Explore the synergies between market analysis, financial planning, economic calendars, and algorithmic trading to enhance your trading strategies successfully."
 ---
 

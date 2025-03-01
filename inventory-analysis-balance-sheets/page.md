@@ -1,5 +1,5 @@
 ---
-title: "Inventory Analysis on Balance Sheets (Algo Trading)"
+title: "Inventory Analysis on Balance Sheets"
 description: "Explore how inventory management and balance sheet analysis enhance algorithmic trading by providing insights into a company's financial health operational efficiency and market strategies."
 ---
 

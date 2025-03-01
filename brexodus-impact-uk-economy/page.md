@@ -1,5 +1,5 @@
 ---
-title: "Brexodus and Its Impact on the UK Economy (Algo Trading)"
+title: "Brexodus and Its Impact on the UK Economy"
 description: "Explore the concept of Brexodus and its profound impact on the UK economy from skilled labor shortages to shifts in financial markets and algorithmic trading."
 ---
 

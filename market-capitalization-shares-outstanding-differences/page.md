@@ -1,5 +1,5 @@
 ---
-title: "Market Capitalization and Shares Outstanding: Differences (Algo Trading)"
+title: "Market Capitalization and Shares Outstanding: Differences"
 description: "Learn the key differences between market capitalization and shares outstanding along with the role of algorithmic trading in making informed investment decisions."
 ---
 

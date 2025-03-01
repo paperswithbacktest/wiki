@@ -1,5 +1,5 @@
 ---
-title: "Domestic Production Activities Deduction (Algo Trading)"
+title: "Domestic Production Activities Deduction"
 description: "Explore the strategic tax benefits of domestic production activities and algorithmic trading insights to enhance your business's financial strategy and growth."
 ---
 

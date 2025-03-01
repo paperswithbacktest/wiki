@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Income Statement and Balance Sheet (Algo Trading)"
+title: "Differences Between Income Statement and Balance Sheet"
 description: "Explore the importance of income statements and balance sheets in algorithmic trading to enhance decisions using crucial financial data for trading strategies."
 ---
 

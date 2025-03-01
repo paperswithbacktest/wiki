@@ -1,5 +1,5 @@
 ---
-title: "Explicit Cost: Examples and Mechanism (Algo Trading)"
+title: "Explicit Cost: Examples and Mechanism"
 description: "Explore the complexities of explicit costs in algorithmic trading. Learn to identify, manage, and optimize these tangible expenses for enhanced profitability."
 ---
 

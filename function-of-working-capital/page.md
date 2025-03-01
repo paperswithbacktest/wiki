@@ -1,5 +1,5 @@
 ---
-title: "Function of Working Capital (Algo Trading)"
+title: "Function of Working Capital"
 description: "Discover the pivotal role working capital and algorithmic trading play in financial management understand how they enhance resource allocation and operational efficiency."
 ---
 

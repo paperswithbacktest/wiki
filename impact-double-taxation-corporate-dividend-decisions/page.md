@@ -1,5 +1,5 @@
 ---
-title: "Impact of Double Taxation on Corporate Dividend Decisions (Algo Trading)"
+title: "Impact of Double Taxation on Corporate Dividend Decisions"
 description: "Explore how double taxation affects corporate dividends and algorithmic trading strategies empowering investors and executives to optimize tax efficiency and returns."
 ---
 

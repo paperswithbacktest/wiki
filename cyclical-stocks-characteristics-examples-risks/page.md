@@ -1,5 +1,5 @@
 ---
-title: "Cyclical Stocks: Characteristics, Examples, and Risks (Algo Trading)"
+title: "Cyclical Stocks: Characteristics, Examples, and Risks"
 description: "Explore the characteristics and risks of cyclical stocks in this comprehensive guide, including their relationship with economic cycles and algorithmic trading strategies."
 ---
 

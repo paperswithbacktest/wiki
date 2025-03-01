@@ -1,5 +1,5 @@
 ---
-title: "Demand Index: Definition, Rules, and Examples (Algo Trading)"
+title: "Demand Index: Definition, Rules, and Examples"
 description: "Discover the Demand Index in algorithmic trading a key indicator measuring buying and selling pressures to predict market shifts and optimize strategies."
 ---
 

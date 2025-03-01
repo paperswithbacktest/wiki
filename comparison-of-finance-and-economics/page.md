@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Finance and Economics (Algo Trading)"
+title: "Comparison of Finance and Economics"
 description: "Explore how finance, economics, and algorithmic trading intersect to shape modern markets. Discover their roles in money management and resource allocation."
 ---
 

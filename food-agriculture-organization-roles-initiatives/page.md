@@ -1,5 +1,5 @@
 ---
-title: "Food and Agriculture Organization: Roles and Initiatives (Algo Trading)"
+title: "Food and Agriculture Organization: Roles and Initiatives"
 description: "Explore the Food and Agriculture Organization's roles and initiatives in sustainable agriculture and how algorithmic trading is shaping modern food systems."
 ---
 

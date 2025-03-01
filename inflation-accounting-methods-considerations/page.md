@@ -1,5 +1,5 @@
 ---
-title: "Inflation Accounting Methods and Considerations (Algo Trading)"
+title: "Inflation Accounting Methods and Considerations"
 description: "Discover essential inflation accounting methods useful for financial reporting and algo trading Learn techniques to adjust financial data amidst fluctuating inflation"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Credit Easing: Mechanisms, Implementation, and Criticisms (Algo Trading)"
+title: "Credit Easing: Mechanisms, Implementation, and Criticisms"
 description: "Explore the dynamic interplay between credit easing and algorithmic trading within global finance Discover how these mechanisms influence markets and policies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Iceland Krona: Overview and History (Algo Trading)"
+title: "Iceland Krona: Overview and History"
 description: "Explore the rich history and modern significance of the Iceland Krona ISK from its inception to its role in algorithmic trading and global finance."
 ---
 

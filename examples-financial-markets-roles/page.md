@@ -1,5 +1,5 @@
 ---
-title: "Examples of Financial Markets and Their Roles (Algo Trading)"
+title: "Examples of Financial Markets and Their Roles"
 description: "Explore various financial markets and their roles in the global economy including stock, bond, and commodities markets and the rise of algorithmic trading"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Eurozone History and Member Countries (Algo Trading)"
+title: "Eurozone History and Member Countries"
 description: "Explore the Eurozone's history and member countries while understanding how algorithmic trading reshapes economic landscapes of this global economic powerhouse."
 ---
 

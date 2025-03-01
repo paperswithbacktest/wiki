@@ -1,5 +1,5 @@
 ---
-title: "Fiscal Neutrality: Definition and Examples (Algo Trading)"
+title: "Fiscal Neutrality: Definition and Examples"
 description: "Explore the complex relationship between fiscal neutrality and algorithmic trading and how they impact financial markets and economic policy for national stability."
 ---
 

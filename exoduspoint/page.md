@@ -1,5 +1,5 @@
 ---
-title: "ExodusPoint (Algo Trading)"
+title: "ExodusPoint"
 description: "Explore ExodusPoint Capital Management's pioneering role in algorithmic trading with innovative strategies integrating machine learning for superior market insights."
 ---
 

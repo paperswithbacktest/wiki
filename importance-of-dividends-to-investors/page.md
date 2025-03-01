@@ -1,5 +1,5 @@
 ---
-title: "Importance of Dividends to Investors (Algo Trading)"
+title: "Importance of Dividends to Investors"
 description: "Discover how combining dividend investing with algorithmic trading can enhance financial returns explore AI's role in optimizing portfolios and managing risks."
 ---
 

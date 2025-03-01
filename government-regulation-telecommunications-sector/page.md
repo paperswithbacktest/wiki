@@ -1,5 +1,5 @@
 ---
-title: "Government Regulation in the Telecommunications Sector (Algo Trading)"
+title: "Government Regulation in the Telecommunications Sector"
 description: "Explore the impact of government regulations on telecommunications and algorithmic trading Discover how these rules influence innovation development and financial markets"
 ---
 

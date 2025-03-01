@@ -1,5 +1,5 @@
 ---
-title: "Ethical Walls in Investment Banking (Algo Trading)"
+title: "Ethical Walls in Investment Banking"
 description: "Discover the essential role of ethical walls in investment banking and algorithmic trading Learn how they prevent conflicts of interest and protect sensitive data"
 ---
 

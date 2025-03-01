@@ -1,5 +1,5 @@
 ---
-title: "Market Regimes (Algo Trading)"
+title: "Market Regimes"
 description: "Explore how recognizing market regimes impacts algorithmic trading strategies enhancing success by adapting to bull, bear, efficient, and chaotic market phases."
 ---
 

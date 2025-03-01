@@ -1,5 +1,5 @@
 ---
-title: "Investment Revenue Generation (Algo Trading)"
+title: "Investment Revenue Generation"
 description: "Discover the potential of algorithmic trading to enhance investment revenue. Explore benefits, strategies, and key factors essential for successful algo trading profitability."
 ---
 

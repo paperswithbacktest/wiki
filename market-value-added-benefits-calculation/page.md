@@ -1,5 +1,5 @@
 ---
-title: "Market Value Added: Benefits and Calculation (Algo Trading)"
+title: "Market Value Added: Benefits and Calculation"
 description: "Discover Market Value Added and its integration in algorithmic trading Learn how MVA assesses corporate performance and enhances trading strategy potential"
 ---
 

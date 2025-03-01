@@ -1,5 +1,5 @@
 ---
-title: "Amartya Sen: Early Life and Education (Algo Trading)"
+title: "Amartya Sen: Early Life and Education"
 description: "Explore how Amartya Sen's formative years and educational journey influenced his economic theories and their application in algorithmic trading today."
 ---
 

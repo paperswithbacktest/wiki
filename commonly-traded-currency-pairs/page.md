@@ -1,5 +1,5 @@
 ---
-title: "Commonly Traded Currency Pairs (Algo Trading)"
+title: "Commonly Traded Currency Pairs"
 description: "Explore the essentials of forex trading with a focus on currency pairs and algorithmic trading. Understand how these elements shape strategies, provide liquidity, and offer opportunities in the evolving forex market. Gain insights into major, minor, and exotic pairs while learning about the impact and advantages of algo trading in enhancing efficiency and decision-making. Discover strategies for navigating market trends and optimizing trades in this comprehensive guide."
 ---
 

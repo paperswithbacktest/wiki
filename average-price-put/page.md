@@ -1,5 +1,5 @@
 ---
-title: "Average Price Put (Algo Trading)"
+title: "Average Price Put"
 description: "Explore the impact of algorithmic trading on average price put options, enhancing hedging strategies by optimizing execution and managing volatility effectively."
 ---
 

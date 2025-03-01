@@ -1,5 +1,5 @@
 ---
-title: "Federal Report on Environmental Impacts of Cryptocurrency (Algo Trading)"
+title: "Federal Report on Environmental Impacts of Cryptocurrency"
 description: "Explore the federal report on cryptocurrency and algorithmic trading's environmental impacts focusing on energy consumption and potential regulatory solutions."
 ---
 

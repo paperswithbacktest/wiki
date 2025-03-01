@@ -1,5 +1,5 @@
 ---
-title: "Impact of Short Selling on Markets and Investors (Algo Trading)"
+title: "Impact of Short Selling on Markets and Investors"
 description: "Explore the impact of short selling and algorithmic trading on markets Learn how these strategies influence price discovery liquidity and investor decisions"
 ---
 

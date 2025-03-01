@@ -1,5 +1,5 @@
 ---
-title: "Economic Stimulus: Mechanisms, Benefits, and Risks (Algo Trading)"
+title: "Economic Stimulus: Mechanisms, Benefits, and Risks"
 description: "Explore the crucial relationship between economic stimulus measures, fiscal policies, and algorithmic trading in modern economies. Gain insights into how governments and financial institutions use these tools to stabilize growth, enhance market efficiency, and mitigate financial crises impacts. Understand the dynamic roles and challenges of blending technological advancements with traditional economic strategies."
 ---
 

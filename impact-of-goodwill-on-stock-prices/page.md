@@ -1,5 +1,5 @@
 ---
-title: "Impact of Goodwill on Stock Prices (Algo Trading)"
+title: "Impact of Goodwill on Stock Prices"
 description: "Discover how goodwill impacts stock prices in algorithmic trading. Learn the role of intangible assets and advanced trading strategies in stock valuation."
 ---
 

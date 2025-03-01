@@ -1,5 +1,5 @@
 ---
-title: "Managed Accounts and Mutual Funds: Comparison and Functionality (Algo Trading)"
+title: "Managed Accounts and Mutual Funds: Comparison and Functionality"
 description: "Gain insights into the nuances between managed accounts mutual funds and algorithmic trading Discover how each investment type functions to optimize your strategy"
 ---
 

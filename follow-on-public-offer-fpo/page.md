@@ -1,5 +1,5 @@
 ---
-title: "Follow-on Public Offer (FPO) (Algo Trading)"
+title: "Follow-on Public Offer (FPO)"
 description: "Discover the synergy between Follow-on Public Offerings and algorithmic trading Learn how these financial strategies optimize capital raising and trading efficiency"
 ---
 

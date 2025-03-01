@@ -1,5 +1,5 @@
 ---
-title: "Common Debt-to-Equity Ratio for Banks (Algo Trading)"
+title: "Common Debt-to-Equity Ratio for Banks"
 description: "Explore how debt-to-equity ratios influence bank strategies and the role of algorithmic trading in navigating financial metrics for informed decision-making."
 ---
 

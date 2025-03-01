@@ -1,5 +1,5 @@
 ---
-title: "Impact of Venmo Debit Card on PayPal's Financial Strategy (Algo Trading)"
+title: "Impact of Venmo Debit Card on PayPal's Financial Strategy"
 description: "Discover how Venmo debit cards impact PayPal's financial strategy by enhancing payment processes and leveraging algorithmic trading for improved efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "market resiliency (Algo Trading)"
+title: "market resiliency"
 description: "Explore the concept of Market Resilience in trading analytics to understand how markets quickly stabilize after significant trades This metric is essential for traders seeking stability and informed decision-making."
 ---
 

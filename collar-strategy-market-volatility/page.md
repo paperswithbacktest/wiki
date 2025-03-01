@@ -1,5 +1,5 @@
 ---
-title: "Collar Strategy in Market Volatility (Algo Trading)"
+title: "Collar Strategy in Market Volatility"
 description: "Discover how the collar strategy in algo trading helps manage market volatility, safeguard investments, and balance risk and reward for portfolio stability."
 ---
 

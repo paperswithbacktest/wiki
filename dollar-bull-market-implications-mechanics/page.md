@@ -1,5 +1,5 @@
 ---
-title: "Dollar Bull Market: Implications and Mechanics (Algo Trading)"
+title: "Dollar Bull Market: Implications and Mechanics"
 description: "Explore the impact of dollar bull markets and algorithmic trading on forex patterns Gain insights into technological advances shaping currency trading trends"
 ---
 

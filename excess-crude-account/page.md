@@ -1,5 +1,5 @@
 ---
-title: "Excess Crude Account (Algo Trading)"
+title: "Excess Crude Account"
 description: "Explore how algorithmic trading can optimize Nigeria's oil revenue management by improving transparency and efficiency to stabilize the economy and boost governance."
 ---
 

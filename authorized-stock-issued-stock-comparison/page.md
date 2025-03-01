@@ -1,5 +1,5 @@
 ---
-title: "Authorized Stock and Issued Stock Comparison (Algo Trading)"
+title: "Authorized Stock and Issued Stock Comparison"
 description: "Understand the difference between authorized and issued stock to make informed investment decisions. Learn their impact on trading, dilution, and market strategies."
 ---
 

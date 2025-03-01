@@ -1,5 +1,5 @@
 ---
-title: "Gemini Cryptocurrency Wallet Analysis (Algo Trading)"
+title: "Gemini Cryptocurrency Wallet Analysis"
 description: "Explore the Gemini Cryptocurrency Wallet for secure digital asset management and algorithmic trading capabilities Discover its features and benefits today"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Impact of Balance of Trade on GDP (Algo Trading)"
+title: "Impact of Balance of Trade on GDP"
 description: "Explore how the balance of trade influences GDP and its significance for algorithmic trading providing essential insights for traders and economists alike."
 ---
 

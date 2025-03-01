@@ -1,5 +1,5 @@
 ---
-title: "Death Put: Overview, Advantages, and Disadvantages (Algo Trading)"
+title: "Death Put: Overview, Advantages, and Disadvantages"
 description: "Discover the benefits and challenges of death puts in bonds and algorithmic trading, offering key insights into portfolio management in volatile financial markets."
 ---
 

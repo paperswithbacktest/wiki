@@ -1,5 +1,5 @@
 ---
-title: "Comparing Investment Returns Using Market Indexes (Algo Trading)"
+title: "Comparing Investment Returns Using Market Indexes"
 description: "Unlock insights into market indexes and algorithmic trading Explore how benchmarks like the S&P 500 shape investment returns and refine trading strategies"
 ---
 

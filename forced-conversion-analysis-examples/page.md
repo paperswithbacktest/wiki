@@ -1,5 +1,5 @@
 ---
-title: "Forced Conversion: Analysis and Examples (Algo Trading)"
+title: "Forced Conversion: Analysis and Examples"
 description: "Explore the intersections of ethics and control in forced religious conversions and algorithmic trading highlighting their impacts on autonomy and modern society."
 ---
 

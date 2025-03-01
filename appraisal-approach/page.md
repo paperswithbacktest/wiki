@@ -1,5 +1,5 @@
 ---
-title: "Appraisal Approach (Algo Trading)"
+title: "Appraisal Approach"
 description: "Explore how valuation, appraisal methods, and algorithmic trading influence financial decisions in this insightful article for traders and finance professionals."
 ---
 

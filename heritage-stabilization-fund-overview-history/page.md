@@ -1,5 +1,5 @@
 ---
-title: "Heritage and Stabilization Fund: Overview and History (Algo Trading)"
+title: "Heritage and Stabilization Fund: Overview and History"
 description: "Explore the Heritage and Stabilization Fund of Trinidad and Tobago and how algorithmic trading enhances its economic stability for future generations."
 ---
 

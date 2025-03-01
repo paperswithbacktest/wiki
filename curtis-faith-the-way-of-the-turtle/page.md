@@ -1,5 +1,5 @@
 ---
-title: "Curtis Faith and “The Way of the Turtle” Explained (Algo Trading)"
+title: "Curtis Faith and “The Way of the Turtle” Explained"
 description: Explore the insights and methodologies behind Curtis Faith's book "The Way of the Turtle," which covers the famous Turtle Trading experiment designed by Richard Dennis and William Eckhardt to prove that successful trading can be taught. Delve into the key principles of this mechanical trading system, including trend-following strategies, objective decision-making, and volatility-based position sizing, which have been proven adaptable in today's algorithmic trading landscape. Learn how these rules-driven strategies can enhance trading consistency and capitalize on profitable market trends.
 ---
 

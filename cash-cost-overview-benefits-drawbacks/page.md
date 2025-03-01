@@ -1,5 +1,5 @@
 ---
-title: "Cash Cost: Overview, Benefits, and Drawbacks (Algo Trading)"
+title: "Cash Cost: Overview, Benefits, and Drawbacks"
 description: "Explore the key aspects of cash cost management, financial analysis, and algorithmic trading to enhance financial efficiency and strategy in modern markets."
 ---
 

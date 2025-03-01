@@ -1,5 +1,5 @@
 ---
-title: "Building Permits: Types and Economic Impact (Algo Trading)"
+title: "Building Permits: Types and Economic Impact"
 description: "Explore the relationship between building permits, economic conditions, and technology innovations. Learn how algorithmic trading uses permit data to predict market trends."
 ---
 

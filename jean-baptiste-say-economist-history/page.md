@@ -1,5 +1,5 @@
 ---
-title: "Jean-Baptiste Say: Economist History (Algo Trading)"
+title: "Jean-Baptiste Say: Economist History"
 description: "Explore the enduring impact of Jean-Baptiste Say's economic theories such as Say's Law of Markets and their modern relevance, particularly in algorithmic trading."
 ---
 

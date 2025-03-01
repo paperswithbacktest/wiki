@@ -1,5 +1,5 @@
 ---
-title: "Beneficiaries of Mutual Funds (Algo Trading)"
+title: "Beneficiaries of Mutual Funds"
 description: "Explore how mutual funds are adapting to algorithmic trading enhancing efficiency and precision in portfolio management while benefiting long-term investors."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Bitcoin and Ethereum (Algo Trading)"
+title: "Comparison of Bitcoin and Ethereum"
 description: "Discover the key differences between Bitcoin and Ethereum in algorithmic trading Explore technological foundations strategies and market trends to trade smarter"
 ---
 

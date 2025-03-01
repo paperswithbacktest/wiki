@@ -1,5 +1,5 @@
 ---
-title: "Duopoly in Economics: Types and Examples (Algo Trading)"
+title: "Duopoly in Economics: Types and Examples"
 description: "Explore the interaction between duopolies and algorithmic trading analyzing how these dynamics impact strategies and market performance in economic contexts."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "History of Johnson & Johnson (Algo Trading)"
+title: "History of Johnson & Johnson"
 description: "Explore the history of Johnson & Johnson and its evolution from sterile surgical supplies to a global healthcare giant with potential for algorithmic trading integration."
 ---
 

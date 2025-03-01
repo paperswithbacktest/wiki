@@ -1,5 +1,5 @@
 ---
-title: "Accounting Conventions and Their Methods and Applications (Algo Trading)"
+title: "Accounting Conventions and Their Methods and Applications"
 description: "Explore how accounting methods like accrual accounting impact algorithmic trading Enhance transparency and compliance in automated trading environments"
 ---
 

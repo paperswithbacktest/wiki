@@ -1,5 +1,5 @@
 ---
-title: "Book Closing Process (Algo Trading)"
+title: "Book Closing Process"
 description: "Explore the synergy of accounting cycles book closing and algorithmic trading for optimized financial processes and strategies in today's fast-paced world."
 ---
 

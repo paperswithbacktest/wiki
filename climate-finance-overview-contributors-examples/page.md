@@ -1,5 +1,5 @@
 ---
-title: "Climate Finance: Overview, Key Contributors, and Examples (Algo Trading)"
+title: "Climate Finance: Overview, Key Contributors, and Examples"
 description: "Discover climate finance's role in combating climate change with key contributors and innovative strategies like algorithmic trading for efficient resource allocation."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Government Accountability Office: Overview and History (Algo Trading)"
+title: "Government Accountability Office: Overview and History"
 description: "Explore the Government Accountability Office's history and its pivotal role in ensuring transparency and accountability in federal operations and algorithmic trading oversight."
 ---
 

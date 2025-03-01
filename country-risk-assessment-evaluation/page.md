@@ -1,5 +1,5 @@
 ---
-title: "Country Risk Assessment and Evaluation (Algo Trading)"
+title: "Country Risk Assessment and Evaluation"
 description: "Explore the integration of country risk assessment and algorithmic trading in international investments optimizing portfolios and mitigating potential financial losses."
 ---
 

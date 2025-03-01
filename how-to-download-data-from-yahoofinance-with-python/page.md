@@ -1,5 +1,5 @@
 ---
-title: "How to Download Data from Yahoo Finance with Python (Algo Trading)"
+title: "How to Download Data from Yahoo Finance with Python"
 description: Learn how to download data from Yahoo Finance using Python's yfinance library designed for algorithmic trading and financial analysis. This guide explores the installation, setup, and use of key components like yf.Ticker and yf.download to retrieve historical market data. Understand the benefits and limitations of yfinance in accessing comprehensive financial information without needing extensive setup, making it an ideal tool for beginners in trading.
 ---
 

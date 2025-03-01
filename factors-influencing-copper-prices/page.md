@@ -1,5 +1,5 @@
 ---
-title: "Factors Influencing Copper Prices (Algo Trading)"
+title: "Factors Influencing Copper Prices"
 description: "Explore the key factors influencing copper prices including supply-demand balance, geopolitical events, currency rates, and algorithmic trading for informed decisions."
 ---
 

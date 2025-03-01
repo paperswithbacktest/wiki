@@ -1,5 +1,5 @@
 ---
-title: "LIFO Reserve and Calculation (Algo Trading)"
+title: "LIFO Reserve and Calculation"
 description: "Explore the impact of LIFO reserves on inventory valuation and algorithmic trading techniques to optimize financial strategies in today's market."
 ---
 

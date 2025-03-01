@@ -1,5 +1,5 @@
 ---
-title: "Comparables in Financial Analysis (Algo Trading)"
+title: "Comparables in Financial Analysis"
 description: "Explore asset valuation techniques like Comparable Company Analysis and algorithmic trading to enhance your financial strategy and make informed decisions."
 ---
 

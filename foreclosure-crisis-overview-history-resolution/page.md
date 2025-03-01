@@ -1,5 +1,5 @@
 ---
-title: "Foreclosure Crisis: Overview and Historical Context (Algo Trading)"
+title: "Foreclosure Crisis: Overview and Historical Context"
 description: "Explore the impact of the 2008 foreclosure crisis and discover how algorithmic trading could enhance financial stability and prevent future economic downturns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Common-Size Analysis of Financial Statements (Algo Trading)"
+title: "Common-Size Analysis of Financial Statements"
 description: "Explore the essential role of common-size analysis in financial statements for algo trading to enhance decision-making and trading strategies through data-driven insights."
 ---
 

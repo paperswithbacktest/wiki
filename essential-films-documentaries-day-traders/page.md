@@ -1,5 +1,5 @@
 ---
-title: "Essential Films and Documentaries for Day Traders (Algo Trading)"
+title: "Essential Films and Documentaries for Day Traders"
 description: "Engage with immersive day trading films that offer deep insights into finance, exploring psychological strains and strategic decisions on the trading floor."
 ---
 

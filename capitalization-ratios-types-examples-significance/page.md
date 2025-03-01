@@ -1,5 +1,5 @@
 ---
-title: "Capitalization Ratios: Types, Examples, and Significance (Algo Trading)"
+title: "Capitalization Ratios: Types, Examples, and Significance"
 description: "Discover the significance of capitalization ratios in algorithmic trading Learn how these financial metrics evaluate leverage and guide strategic investment decisions"
 ---
 

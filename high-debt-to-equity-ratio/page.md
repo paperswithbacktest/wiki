@@ -1,5 +1,5 @@
 ---
-title: "High Debt-To-Equity Ratio (Algo Trading)"
+title: "High Debt-To-Equity Ratio"
 description: "Discover how the high debt-to-equity ratio impacts financial leverage and risk. Learn its role in algorithmic trading and industry-specific considerations."
 ---
 

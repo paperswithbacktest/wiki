@@ -1,5 +1,5 @@
 ---
-title: "Ethereum: Overview and Functionality (Algo Trading)"
+title: "Ethereum: Overview and Functionality"
 description: "Explore Ethereum's impact on algorithmic trading as it combines blockchain technology with smart contracts to enhance security, efficiency, and innovation."
 ---
 

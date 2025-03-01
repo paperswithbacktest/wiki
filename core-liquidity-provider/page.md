@@ -1,5 +1,5 @@
 ---
-title: "Core Liquidity Provider (Algo Trading)"
+title: "Core Liquidity Provider"
 description: "Explore the essential role of core liquidity providers in financial markets and discover how algorithmic trading enhances their efficiency, ensuring seamless transactions."
 ---
 

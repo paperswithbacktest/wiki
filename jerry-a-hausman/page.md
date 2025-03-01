@@ -1,5 +1,5 @@
 ---
-title: "Jerry A. Hausman (Algo Trading)"
+title: "Jerry A. Hausman"
 description: "Explore Jerry A Hausman's groundbreaking contributions to econometrics and algorithmic trading where economic theory meets computational efficiency for market insights."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Coinbase Commerce: Overview, Functionality, and Advantages (Algo Trading)"
+title: "Coinbase Commerce: Overview, Functionality, and Advantages"
 description: "Explore how Coinbase Commerce revolutionizes e-commerce by facilitating secure and efficient cryptocurrency payments while enhancing business agility and broadening market reach."
 ---
 

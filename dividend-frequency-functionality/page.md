@@ -1,5 +1,5 @@
 ---
-title: "Dividend Frequency and Functionality (Algo Trading)"
+title: "Dividend Frequency and Functionality"
 description: "Explore how dividend frequencies and algorithmic trading enhance investment strategies by optimizing income and managing risks for improved financial performance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Depreciation Recapture Overview and Calculations (Algo Trading)"
+title: "Depreciation Recapture Overview and Calculations"
 description: "Explore how depreciation recapture and asset depreciation influence investment strategies in algo trading to maximize tax efficiency and trading profitability."
 ---
 

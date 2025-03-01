@@ -1,5 +1,5 @@
 ---
-title: "Key Currency: Meaning and Function (Algo Trading)"
+title: "Key Currency: Meaning and Function"
 description: "Discover the interplay between key currencies and algorithmic trading their crucial roles in global finance and how they influence market strategies and stability."
 ---
 

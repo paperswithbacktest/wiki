@@ -1,5 +1,5 @@
 ---
-title: "Institutional Shares: Eligibility and Examples (Algo Trading)"
+title: "Institutional Shares: Eligibility and Examples"
 description: "Explore the dynamics of institutional investing and algorithmic trading including eligibility criteria for institutional shares and benefits for large-scale investors."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Alyeska Investment Group (Algo Trading)"
+title: "Alyeska Investment Group"
 description: "Alyeska Investment Group excels in the hedge fund industry through innovative algorithmic trading strategies ensuring consistent returns and robust risk management."
 ---
 

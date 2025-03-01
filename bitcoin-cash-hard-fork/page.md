@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin Cash Hard Fork (Algo Trading)"
+title: "Bitcoin Cash Hard Fork"
 description: "Explore Bitcoin Cash's hard fork origins and its impact on algorithmic trading in the dynamic crypto landscape highlighting key interactions and investor insights."
 ---
 

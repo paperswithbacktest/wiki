@@ -1,5 +1,5 @@
 ---
-title: "Major Donors to the Clinton Campaign (Algo Trading)"
+title: "Major Donors to the Clinton Campaign"
 description: "Explore the key donors behind Hillary Clinton's 2016 campaign and the innovative use of algorithmic trading in political fundraising strategies."
 ---
 

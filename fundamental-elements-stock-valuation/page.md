@@ -1,5 +1,5 @@
 ---
-title: "Fundamental Elements of Stock Valuation (Algo Trading)"
+title: "Fundamental Elements of Stock Valuation"
 description: "Explore essential stock valuation methods and algorithmic trading strategies to make informed investment decisions in today's complex financial markets."
 ---
 

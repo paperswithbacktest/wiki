@@ -1,5 +1,5 @@
 ---
-title: "Countertrade: Types and Examples (Algo Trading)"
+title: "Countertrade: Types and Examples"
 description: "Explore countertrade as a vital strategy in international trade, particularly in developing countries, involving types like barter, counterpurchase, and offset agreements."
 ---
 

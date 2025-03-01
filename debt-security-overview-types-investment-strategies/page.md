@@ -1,5 +1,5 @@
 ---
-title: "Debt Security: Overview, Types, and Investment Strategies (Algo Trading)"
+title: "Debt Security: Overview, Types, and Investment Strategies"
 description: "Explore the world of debt securities and algorithmic trading Uncover types investment strategies and potential risks to make informed financial decisions"
 ---
 

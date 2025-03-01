@@ -1,5 +1,5 @@
 ---
-title: "Inter-Dealer Brokers: Overview, Considerations, and Advantages (Algo Trading)"
+title: "Inter-Dealer Brokers: Overview, Considerations, and Advantages"
 description: "Explore the role of inter-dealer brokers in financial markets focusing on their contributions to liquidity provision price discovery and the rise of algorithmic trading."
 ---
 

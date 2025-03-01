@@ -1,5 +1,5 @@
 ---
-title: "Hedge in Investing (Algo Trading)"
+title: "Hedge in Investing"
 description: "Explore hedge funds and algorithmic trading's role in optimizing portfolios while managing risks effectively. Learn key strategies for modern investing success."
 ---
 

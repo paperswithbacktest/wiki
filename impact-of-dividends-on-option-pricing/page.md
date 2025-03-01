@@ -1,5 +1,5 @@
 ---
-title: "Impact of Dividends on Option Pricing (Algo Trading)"
+title: "Impact of Dividends on Option Pricing"
 description: "Explore how dividends affect option pricing and impact financial strategies. Delve into traditional and algorithmic models for effective trading insights."
 ---
 

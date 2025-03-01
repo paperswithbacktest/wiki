@@ -1,5 +1,5 @@
 ---
-title: "Economy of New Jersey: Leading Industries and GDP Growth (Algo Trading)"
+title: "Economy of New Jersey: Leading Industries and GDP Growth"
 description: "Discover the diverse economic landscape of New Jersey with strong GDP growth driven by leading industries like pharmaceuticals and algorithmic trading."
 ---
 

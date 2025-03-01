@@ -1,5 +1,5 @@
 ---
-title: "Healthy EV/EBITDA Ratio (Algo Trading)"
+title: "Healthy EV/EBITDA Ratio"
 description: "Explore the significance of the EV/EBITDA ratio in business valuation and enhance investment strategies by integrating algorithmic trading for optimal results."
 ---
 

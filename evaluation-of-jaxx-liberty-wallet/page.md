@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of Jaxx Liberty Wallet (Algo Trading)"
+title: "Evaluation of Jaxx Liberty Wallet"
 description: "Discover Jaxx Liberty Wallet's versatility in securely managing over 80 digital currencies with an easy interface real-time data and seamless crypto swaps."
 ---
 

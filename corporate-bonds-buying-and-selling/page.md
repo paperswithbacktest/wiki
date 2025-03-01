@@ -1,5 +1,5 @@
 ---
-title: "Corporate Bonds: Buying and Selling (Algo Trading)"
+title: "Corporate Bonds: Buying and Selling"
 description: "Explore how algorithmic trading is revolutionizing the corporate bonds market enhancing trading efficiency and providing insights into future financial trends."
 ---
 

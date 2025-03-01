@@ -1,5 +1,5 @@
 ---
-title: "Dynamic Gap Analysis (Algo Trading)"
+title: "Dynamic Gap Analysis"
 description: "Explore how gap analysis and dynamic gap analysis enhance algorithmic trading by identifying discrepancies optimizing strategies and managing risks in real-time."
 ---
 

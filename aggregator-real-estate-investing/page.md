@@ -1,5 +1,5 @@
 ---
-title: "Aggregator in Real Estate Investing (Algo Trading)"
+title: "Aggregator in Real Estate Investing"
 description: "Explore the intersection of real estate investing and algorithmic trading. Discover how tech-driven solutions reshape strategies for enhanced investment outcomes."
 ---
 

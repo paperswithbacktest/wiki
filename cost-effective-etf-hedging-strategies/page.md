@@ -1,5 +1,5 @@
 ---
-title: "Cost-Effective ETF Hedging Strategies (Algo Trading)"
+title: "Cost-Effective ETF Hedging Strategies"
 description: "Explore cost-effective ETF hedging strategies using algorithmic trading to optimize portfolio performance and minimize investment risks efficiently."
 ---
 

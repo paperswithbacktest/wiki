@@ -1,5 +1,5 @@
 ---
-title: "Average Length of Economic Boom and Bust Cycles (Algo Trading)"
+title: "Average Length of Economic Boom and Bust Cycles"
 description: "Explore the interplay between economic cycles and algorithmic trading, uncovering how technology aids in navigating boom and bust phases for optimized market strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Generation Z: Birth Years and Demographics (Algo Trading)"
+title: "Generation Z: Birth Years and Demographics"
 description: "Explore the unique characteristics and interests of Generation Z, born between 1997 and 2012, focusing on their diverse demographics and growing involvement in algorithmic trading. As the most racially and ethnically diverse generation, they are significantly impacting societal norms and financial markets. Gen Z's digital fluency and strong advocacy for social issues such as healthcare and environmental protection mark them as key players in shaping future trends. Embrace their innovative spirit and influence as they rapidly transition into financial independence, bringing new dynamics to financial systems with their data-driven approach to trading."
 ---
 

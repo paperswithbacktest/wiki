@@ -1,5 +1,5 @@
 ---
-title: "CME Group and 30-Year U.S. Treasury Bonds (Algo Trading)"
+title: "CME Group and 30-Year U.S. Treasury Bonds"
 description: "Explore how CME Group's 30-Year U.S. Treasury Bonds leverage algorithmic trading for optimized execution speed and precision, enhancing trading strategies."
 ---
 

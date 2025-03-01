@@ -1,5 +1,5 @@
 ---
-title: "Levered Free Cash Flow (Algo Trading)"
+title: "Levered Free Cash Flow"
 description: "Explore Levered Free Cash Flow and its role in assessing financial health and investment in algorithmic trading to enhance decision-making strategies."
 ---
 

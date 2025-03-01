@@ -1,5 +1,5 @@
 ---
-title: "Accrual Accounting (Algo Trading)"
+title: "Accrual Accounting"
 description: "Explore how accrual accounting influences algorithmic trading by ensuring accurate financial reporting. Understand its role in aligning trading strategies with precise financial data, offering a comprehensive snapshot of a firm's financial health. This approach aids in decision-making and compliance, essential for gaining a competitive edge in fast-paced markets."
 ---
 

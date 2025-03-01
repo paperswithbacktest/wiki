@@ -1,5 +1,5 @@
 ---
-title: "Historical Cases of Hyperinflation and Currency Devaluation (Algo Trading)"
+title: "Historical Cases of Hyperinflation and Currency Devaluation"
 description: "Explore historical hyperinflation and currency devaluation cases and learn how algorithmic trading can help manage these economic challenges today."
 ---
 

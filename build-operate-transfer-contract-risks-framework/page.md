@@ -1,5 +1,5 @@
 ---
-title: "Build-Operate-Transfer Contract: Risks and Framework (Algo Trading)"
+title: "Build-Operate-Transfer Contract: Risks and Framework"
 description: "Explore the synergies between Build-Operate-Transfer contracts and algorithmic trading to revolutionize infrastructure projects through enhanced efficiency and technology integration."
 ---
 

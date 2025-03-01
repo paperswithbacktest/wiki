@@ -1,5 +1,5 @@
 ---
-title: "Borderline Risk in Insurance (Algo Trading)"
+title: "Borderline Risk in Insurance"
 description: "Explore the intricate interplay between borderline risk in insurance and algorithmic trading Learn how financial professionals optimize risk assessment for better decisions"
 ---
 

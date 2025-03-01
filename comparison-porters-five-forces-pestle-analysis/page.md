@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Porter's Five Forces and PESTLE Analysis (Algo Trading)"
+title: "Comparison of Porter's Five Forces and PESTLE Analysis"
 description: "Explore the strategic comparison of Porter's Five Forces and PESTLE analysis in understanding business environments for algorithmic trading. Delve into how these frameworks help companies analyze competitive forces and macro-environmental factors, enhancing decision-making and market adaptability. This article examines their role in fostering competitiveness and long-term profitability amidst dynamic challenges."
 ---
 

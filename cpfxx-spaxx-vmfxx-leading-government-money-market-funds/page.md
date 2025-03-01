@@ -1,5 +1,5 @@
 ---
-title: "CPFXX, SPAXX, and VMFXX: Leading Government Money Market Funds (Algo Trading)"
+title: "CPFXX, SPAXX, and VMFXX: Leading Government Money Market Funds"
 description: "Discover how CPFXX, SPAXX, and VMFXX lead government money market funds by providing stability and liquidity with algorithmic trading efficiency."
 ---
 

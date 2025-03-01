@@ -1,5 +1,5 @@
 ---
-title: "Chartered Mutual Fund Counselor (Algo Trading)"
+title: "Chartered Mutual Fund Counselor"
 description: "Discover the enduring value of the Chartered Mutual Fund Counselor certification and its impact on mutual fund advisory through algorithmic trading strategies."
 ---
 

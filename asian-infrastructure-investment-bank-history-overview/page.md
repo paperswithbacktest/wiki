@@ -1,5 +1,5 @@
 ---
-title: "History and Overview of the Asian Infrastructure Investment Bank (Algo Trading)"
+title: "History and Overview of the Asian Infrastructure Investment Bank"
 description: "Learn about the Asian Infrastructure Investment Bank and its role in global finance focusing on sustainable infrastructure investments and algorithmic trading integration."
 ---
 

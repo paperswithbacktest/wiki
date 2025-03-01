@@ -1,5 +1,5 @@
 ---
-title: "Hong Kong Monetary Authority: Roles and Functions (Algo Trading)"
+title: "Hong Kong Monetary Authority: Roles and Functions"
 description: "Explore the vital roles and functions of the Hong Kong Monetary Authority in maintaining currency stability and fostering financial innovation within Hong Kong."
 ---
 

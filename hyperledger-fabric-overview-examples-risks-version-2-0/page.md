@@ -1,5 +1,5 @@
 ---
-title: "Hyperledger Fabric: Overview, Examples, Risks, and Version 2.0 (Algo Trading)"
+title: "Hyperledger Fabric: Overview, Examples, Risks, and Version 2.0"
 description: "Explore how Hyperledger Fabric 2.0 enhances algorithmic trading by increasing efficiency and security. Discover its role in transforming financial markets."
 ---
 

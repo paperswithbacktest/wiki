@@ -1,5 +1,5 @@
 ---
-title: "Discrepancy Between Face Value and Market Value of Preferred Stocks (Algo Trading)"
+title: "Discrepancy Between Face Value and Market Value of Preferred Stocks"
 description: "Discover the key differences between face value and market value of preferred stocks and how algorithmic trading enhances their valuation for informed investments."
 ---
 

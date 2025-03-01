@@ -1,5 +1,5 @@
 ---
-title: "Deriving the Black-Scholes Equation (Algo Trading)"
+title: "Deriving the Black-Scholes Equation"
 description: Explore the pivotal role of the Black-Scholes model in algo trading. This article investigates into the derivation of the Black-Scholes equation, essential for pricing options and understanding market dynamics. By analyzing key assumptions like constant volatility and lognormal distribution, traders gain insights to build robust algorithms. This comprehensive guide aids in optimizing trading strategies, adapting to market changes, and enhancing precision in financial decision-making. Perfect for those aiming to leverage mathematical frameworks to succeed in algorithmic trading.
 ---
 

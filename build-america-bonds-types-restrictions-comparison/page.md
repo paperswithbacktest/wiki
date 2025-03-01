@@ -1,5 +1,5 @@
 ---
-title: "Build America Bonds: Types, Restrictions, and Comparison with Other Bonds (Algo Trading)"
+title: "Build America Bonds: Types, Restrictions, and Comparison with Other Bonds"
 description: "Explore the significance of Build America Bonds (BABs) including their types restrictions and comparison with other bonds in the context of algorithmic trading strategies."
 ---
 

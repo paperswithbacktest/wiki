@@ -1,5 +1,5 @@
 ---
-title: "Differences Between ETF Options and Index Options (Algo Trading)"
+title: "Differences Between ETF Options and Index Options"
 description: "Discover the key differences between ETF and index options in algorithmic trading Explore how these instruments help hedge risks and seize market opportunities"
 ---
 

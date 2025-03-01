@@ -1,5 +1,5 @@
 ---
-title: "Methods of Investing One Thousand Dollars (Algo Trading)"
+title: "Methods of Investing One Thousand Dollars"
 description: "Maximize your $1000 investment with algorithmic trading Learn how to leverage algo trading for improved efficiency and potential returns with innovative strategies"
 ---
 

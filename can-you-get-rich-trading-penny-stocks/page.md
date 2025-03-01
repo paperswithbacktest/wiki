@@ -1,5 +1,5 @@
 ---
-title: "Can You Get Rich Trading Penny Stocks? (Algo Trading)"
+title: "Can You Get Rich Trading Penny Stocks?"
 description: Explore the potential of getting rich trading penny stocks through algorithmic trading. Understand the dynamics of penny stocks, their risks, and their high-reward nature alongside the benefits and challenges of using computer algorithms to trade these volatile assets. Learn how algorithmic trading can enhance precision, speed, and strategy in trading penny stocks, while highlighting the essential aspects of strategy and risk management for interested traders.
 ---
 

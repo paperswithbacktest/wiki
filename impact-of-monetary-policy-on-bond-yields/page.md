@@ -1,5 +1,5 @@
 ---
-title: "Impact of Monetary Policy on Bond Yields (Algo Trading)"
+title: "Impact of Monetary Policy on Bond Yields"
 description: "Explore the impact of monetary policy on bond yields with insights into algorithmic trading Learn how interest rates and central bank strategies shape financial markets"
 ---
 

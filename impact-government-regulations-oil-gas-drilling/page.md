@@ -1,5 +1,5 @@
 ---
-title: "Impact of Government Regulations on Oil and Gas Drilling (Algo Trading)"
+title: "Impact of Government Regulations on Oil and Gas Drilling"
 description: "Explore the impact of government regulations and algorithmic trading on the oil and gas drilling sector highlighting regulatory compliance challenges and market innovations."
 ---
 

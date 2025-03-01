@@ -1,5 +1,5 @@
 ---
-title: "Equity Income: Overview, Functionality, and Examples (Algo Trading)"
+title: "Equity Income: Overview, Functionality, and Examples"
 description: "Discover how dividend stocks, equity income, and algorithmic trading integrate to enhance investment portfolios, balance risk, and maximize returns effectively."
 ---
 

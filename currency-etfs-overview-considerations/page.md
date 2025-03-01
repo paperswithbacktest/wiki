@@ -1,5 +1,5 @@
 ---
-title: "Currency ETFs: Overview and Considerations (Algo Trading)"
+title: "Currency ETFs: Overview and Considerations"
 description: "Explore currency ETFs and algorithmic trading to discover how this intersection enhances investment strategies offering diversification and efficiency."
 ---
 

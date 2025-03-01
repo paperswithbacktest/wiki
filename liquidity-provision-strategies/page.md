@@ -1,5 +1,5 @@
 ---
-title: "liquidity-provision strategies (Algo Trading)"
+title: "liquidity-provision strategies"
 description: "Discover liquidity provision strategies in algo trading enhancing market efficiency by automating order execution and minimizing transaction costs."
 ---
 

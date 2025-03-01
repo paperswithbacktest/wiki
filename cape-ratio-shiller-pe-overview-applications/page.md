@@ -1,5 +1,5 @@
 ---
-title: "CAPE Ratio: Shiller P/E Ratio Overview and Applications (Algo Trading)"
+title: "CAPE Ratio: Shiller P/E Ratio Overview and Applications"
 description: "Explore the CAPE Ratio Shiller P/E Ratio and its applications in algorithmic trading to understand stock market valuations and potential investment strategies."
 ---
 

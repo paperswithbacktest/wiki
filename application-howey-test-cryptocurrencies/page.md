@@ -1,5 +1,5 @@
 ---
-title: "Application of the Howey Test to Cryptocurrencies (Algo Trading)"
+title: "Application of the Howey Test to Cryptocurrencies"
 description: "Discover how the Howey Test applies to cryptocurrencies and its crucial role in determining digital asset classification impacting algorithmic trading and regulation."
 ---
 

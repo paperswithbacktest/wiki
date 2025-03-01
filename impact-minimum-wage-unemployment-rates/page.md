@@ -1,5 +1,5 @@
 ---
-title: "Impact of Minimum Wage on Unemployment Rates (Algo Trading)"
+title: "Impact of Minimum Wage on Unemployment Rates"
 description: "Explore how minimum wage laws affect unemployment rates and their interplay with algorithmic trading in financial markets to shape economic conditions."
 ---
 

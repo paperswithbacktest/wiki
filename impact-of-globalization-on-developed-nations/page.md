@@ -1,5 +1,5 @@
 ---
-title: "Impact of Globalization on Developed Nations (Algo Trading)"
+title: "Impact of Globalization on Developed Nations"
 description: "Explore how globalization affects developed nations with a focus on economic growth and financial market evolution driven by algorithmic trading innovations."
 ---
 

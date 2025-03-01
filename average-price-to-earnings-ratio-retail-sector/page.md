@@ -1,5 +1,5 @@
 ---
-title: "Average Price-to-Earnings Ratio in Retail Sector (Algo Trading)"
+title: "Average Price-to-Earnings Ratio in Retail Sector"
 description: "Explore the impact of price-to-earnings ratios and algorithmic trading in the retail sector, offering investors insights into stock valuation and optimal strategies."
 ---
 

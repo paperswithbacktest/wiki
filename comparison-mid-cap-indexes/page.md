@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Mid-Cap Indexes (Algo Trading)"
+title: "Comparison of Mid-Cap Indexes"
 description: "Explore the dynamics of mid-cap indexes in algorithmic trading to optimize investment strategies. Gain insights into index structures and their unique benefits."
 ---
 

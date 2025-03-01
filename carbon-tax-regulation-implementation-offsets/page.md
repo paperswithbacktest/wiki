@@ -1,5 +1,5 @@
 ---
-title: "Carbon Tax: Regulation, Implementation, and Offsets (Algo Trading)"
+title: "Carbon Tax: Regulation, Implementation, and Offsets"
 description: "Discover how carbon taxes, offsets, and algorithmic trading converge to tackle climate change by managing emissions, optimizing markets, and fostering sustainability."
 ---
 

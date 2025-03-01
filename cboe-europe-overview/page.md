@@ -1,5 +1,5 @@
 ---
-title: "Cboe Europe Overview (Algo Trading)"
+title: "Cboe Europe Overview"
 description: "Discover Cboe Europe's pivotal role in algorithmic trading with advanced technologies and diverse services across 18 major European markets for optimal strategies."
 ---
 

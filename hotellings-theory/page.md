@@ -1,5 +1,5 @@
 ---
-title: "Hotelling's Theory (Algo Trading)"
+title: "Hotelling's Theory"
 description: "Explore Hotelling's Theory and its impact on algorithmic trading Discover how this economic principle helps traders predict price movements of nonrenewable resources"
 ---
 

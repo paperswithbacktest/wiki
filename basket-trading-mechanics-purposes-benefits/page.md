@@ -1,5 +1,5 @@
 ---
-title: "Basket Trading: Mechanics, Purposes, and Benefits (Algo Trading)"
+title: "Basket Trading: Mechanics, Purposes, and Benefits"
 description: "Explore the mechanics and benefits of basket trading within algorithmic trading. Understand how this strategy boosts diversification and efficiency."
 ---
 

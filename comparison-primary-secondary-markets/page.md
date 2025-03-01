@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Primary and Secondary Markets (Algo Trading)"
+title: "Comparison of Primary and Secondary Markets"
 description: "Explore the dynamics of primary and secondary markets in finance and how algorithmic trading enhances efficiency in trading securities."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Ask Size in Finance (Algo Trading)"
+title: "Ask Size in Finance"
 description: "Explore the significance of ask size in stock trading how it impacts market dynamics and the role of algorithmic trading in optimizing trade strategies."
 ---
 

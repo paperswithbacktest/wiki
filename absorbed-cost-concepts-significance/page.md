@@ -1,5 +1,5 @@
 ---
-title: "Absorbed Cost: Concepts and Significance (Algo Trading)"
+title: "Absorbed Cost: Concepts and Significance"
 description: "Explore absorbed cost and its impact on financial statements and algorithmic trading strategies in finance Learn about its role in cost accounting and analysis"
 ---
 

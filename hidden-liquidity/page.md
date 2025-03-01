@@ -1,5 +1,5 @@
 ---
-title: "Hidden Liquidity (Algo Trading)"
+title: "Hidden Liquidity"
 description: "Discover the advantages of hidden liquidity in algorithmic trading learn how large trades can be executed discreetly to minimize market impact and enhance efficiency."
 ---
 

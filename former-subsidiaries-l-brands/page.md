@@ -1,5 +1,5 @@
 ---
-title: "Former Subsidiaries of L Brands (Algo Trading)"
+title: "Former Subsidiaries of L Brands"
 description: "L Brands, once a retail titan, strategically navigated the market through key acquisitions like Victoria's Secret and Bath & Body Works, bolstering its industry-leading status. Facing evolving market demands and competitive pressures, it adapted by divesting non-core assets and eventually splitting into two entities, Victoria's Secret & Co. and Bath & Body Works, Inc., focusing on their respective strengths. This article explores L Brands' strategic journey, highlighting the role of acquisitions in its growth and the impact of algorithmic trading strategies in managing its subsidiaries amidst a rapidly changing retail landscape."
 ---
 

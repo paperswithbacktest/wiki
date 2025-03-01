@@ -1,5 +1,5 @@
 ---
-title: "Discount Rate: Federal Reserve Usage and Cash-Flow Analysis (Algo Trading)"
+title: "Discount Rate: Federal Reserve Usage and Cash-Flow Analysis"
 description: "Discover how the Federal Reserve's discount rate impacts cash-flow analysis and algorithmic trading strategies, shaping investment decisions in evolving markets."
 ---
 

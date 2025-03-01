@@ -1,5 +1,5 @@
 ---
-title: "Arms Index (TRIN) Calculation (Algo Trading)"
+title: "Arms Index (TRIN) Calculation"
 description: "Explore the Arms Index (TRIN) calculation a key technical indicator in trading that analyzes stock market dynamics through price and volume to guide decisions."
 ---
 

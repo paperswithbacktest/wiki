@@ -1,5 +1,5 @@
 ---
-title: "Construction Lien and State Law Examples (Algo Trading)"
+title: "Construction Lien and State Law Examples"
 description: "Explore construction lien laws and their significance in ensuring payments for contractors and suppliers while examining state-specific variations and technological impacts."
 ---
 

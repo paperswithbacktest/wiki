@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Diluted Share Price (Algo Trading)"
+title: "Analysis of Diluted Share Price"
 description: "Explore the impact of diluted share price in stock analysis and algorithmic trading Learn how financial metrics guide informed investment strategies"
 ---
 

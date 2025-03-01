@@ -1,5 +1,5 @@
 ---
-title: "Growth Firm Overview (Algo Trading)"
+title: "Growth Firm Overview"
 description: "Explore algorithmic trading firms blending tech with business strategies to outperform traditional methods. Learn about their growth, innovation, and market impact."
 ---
 

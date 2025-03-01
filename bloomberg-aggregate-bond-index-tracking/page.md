@@ -1,5 +1,5 @@
 ---
-title: "Bloomberg Aggregate Bond Index and Its Tracking (Algo Trading)"
+title: "Bloomberg Aggregate Bond Index and Its Tracking"
 description: "Explore the synergy between the Bloomberg Aggregate Bond Index and algorithmic trading as this page dives into how 'the Agg' serves as a foundational benchmark for forming refined trading strategies in the bond market. Learn about the significance of understanding the diverse composition of the Agg, including its exclusion of high-yield and select municipal securities, and uncover insights into how algorithmic trading transforms investment paradigms by enhancing efficiency and precision in trade execution. Discover strategic uses of algorithmic tools in navigating interest rate dynamics and market volatility within the context of the fixed-income securities market."
 ---
 

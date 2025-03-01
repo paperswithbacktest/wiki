@@ -1,5 +1,5 @@
 ---
-title: "Martingale Trading Strategy (Algo Trading)"
+title: "Martingale Trading Strategy"
 description: Explore the Martingale trading strategy's application in algorithmic trading, focusing on its potential for recovery in volatile markets. Learn how algorithmic systems can automate trade adjustments, while understanding the significant risks involved due to market unpredictability. Discover ways to implement risk controls and draw comparisons with other strategies to mitigate losses effectively.
 ---
 

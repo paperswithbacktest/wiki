@@ -1,5 +1,5 @@
 ---
-title: "Accelerated Depreciation and Calculation Methods (Algo Trading)"
+title: "Accelerated Depreciation and Calculation Methods"
 description: "Master accelerated depreciation and algorithmic trading to enhance financial strategy and cash flow management Optimize tax planning and refine trading algorithms"
 ---
 

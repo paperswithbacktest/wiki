@@ -1,5 +1,5 @@
 ---
-title: "Economies of Scale in Globalization (Algo Trading)"
+title: "Economies of Scale in Globalization"
 description: "Explore how globalization enables economies of scale and the role of algorithmic trading in enhancing efficiency and growth while navigating global market challenges."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Controversial Investment Theories (Algo Trading)"
+title: "Controversial Investment Theories"
 description: "Explore core financial strategies and investment theories including EMH and MPT alongside the transformative impact of algorithmic trading in optimizing portfolios."
 ---
 

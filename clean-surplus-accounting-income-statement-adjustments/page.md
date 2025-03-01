@@ -1,5 +1,5 @@
 ---
-title: "Clean Surplus Accounting and Income Statement Adjustments (Algo Trading)"
+title: "Clean Surplus Accounting and Income Statement Adjustments"
 description: "Explore how clean surplus accounting and income statement adjustments enhance financial transparency and improve algorithmic trading accuracy in financial markets."
 ---
 

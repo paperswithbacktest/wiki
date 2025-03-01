@@ -1,5 +1,5 @@
 ---
-title: "Costs Excluded from Gross Profit Margin (Algo Trading)"
+title: "Costs Excluded from Gross Profit Margin"
 description: "Explore the key financial metric of Gross Profit Margin its exclusions and its importance in algorithmic trading This article analyzes its role in financial analysis"
 ---
 

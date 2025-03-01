@@ -1,5 +1,5 @@
 ---
-title: "Dark Pool Liquidity: Overview and Criticism (Algo Trading)"
+title: "Dark Pool Liquidity: Overview and Criticism"
 description: "Explore the dynamics of liquidity dark pools and algorithmic trading in financial markets Understand their roles in increasing efficiency and market concern"
 ---
 

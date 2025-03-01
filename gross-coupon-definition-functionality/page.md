@@ -1,5 +1,5 @@
 ---
-title: "Gross Coupon: Definition and Functionality (Algo Trading)"
+title: "Gross Coupon: Definition and Functionality"
 description: "Explore the role of gross coupons in bond trading and how algorithmic trading enhances market efficiency By understanding these concepts investors optimize strategies."
 ---
 

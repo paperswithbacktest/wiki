@@ -1,5 +1,5 @@
 ---
-title: "Low latency trading architectures (Algo Trading)"
+title: "Low latency trading architectures"
 description: "Dive into the essentials of low latency trading architectures in algo trading to optimize performance in financial markets with cutting-edge technologies."
 ---
 

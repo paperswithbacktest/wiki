@@ -1,5 +1,5 @@
 ---
-title: "Lognormal and Normal Distributions (Algo Trading)"
+title: "Lognormal and Normal Distributions"
 description: "Explore the significance of normal and lognormal distributions in finance and algo trading to model risks returns and asset prices for informed decision-making."
 ---
 

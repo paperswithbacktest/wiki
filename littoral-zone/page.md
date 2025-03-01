@@ -1,5 +1,5 @@
 ---
-title: "Littoral Zone (Algo Trading)"
+title: "Littoral Zone"
 description: "Explore the littoral zone's unique ecosystem, its significance in biodiversity, and the role of algorithmic trading in sustainable management efforts."
 ---
 

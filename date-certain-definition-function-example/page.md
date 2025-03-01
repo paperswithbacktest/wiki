@@ -1,5 +1,5 @@
 ---
-title: "Date Certain: Definition, Function, and Example (Algo Trading)"
+title: "Date Certain: Definition, Function, and Example"
 description: "Explore the impact of date certain functions in algorithmic trading These functions enhance precision and reliability in trade execution vital for strategy success"
 ---
 

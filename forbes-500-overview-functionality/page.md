@@ -1,5 +1,5 @@
 ---
-title: "Forbes 500: Overview and Functionality (Algo Trading)"
+title: "Forbes 500: Overview and Functionality"
 description: "Explore how Forbes 500 companies leverage algorithmic trading to enhance investment strategies with speed and efficiency, reducing human emotion in decision-making."
 ---
 

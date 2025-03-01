@@ -1,5 +1,5 @@
 ---
-title: "Firm Order: Meaning and Functionality (Algo Trading)"
+title: "Firm Order: Meaning and Functionality"
 description: "Discover the vital role of order processing in algorithmic trading and financial markets Explore the systems and technologies that enhance trading efficiency today"
 ---
 

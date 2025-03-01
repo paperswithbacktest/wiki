@@ -1,5 +1,5 @@
 ---
-title: "Key Questions Before Investing in Bonds (Algo Trading)"
+title: "Key Questions Before Investing in Bonds"
 description: "Explore the crucial considerations of investing in bonds and algorithmic trading Understand how to balance traditional strategies with modern innovations in finance"
 ---
 

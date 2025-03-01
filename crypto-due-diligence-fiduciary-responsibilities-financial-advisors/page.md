@@ -1,5 +1,5 @@
 ---
-title: "Crypto Due Diligence and Fiduciary Responsibilities of Financial Advisors (Algo Trading)"
+title: "Crypto Due Diligence and Fiduciary Responsibilities of Financial Advisors"
 description: "Explore the role of financial advisors in cryptocurrency markets focusing on due diligence and fiduciary duties Learn about integrating crypto assets ethically and legally"
 ---
 

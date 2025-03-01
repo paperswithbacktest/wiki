@@ -1,5 +1,5 @@
 ---
-title: "Dividend Enhanced Convertible Stocks (Algo Trading)"
+title: "Dividend Enhanced Convertible Stocks"
 description: "Explore the potential of dividend enhanced convertible stocks combined with algorithmic trading to optimize returns through strategic automation and market insights."
 ---
 

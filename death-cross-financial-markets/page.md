@@ -1,5 +1,5 @@
 ---
-title: "Death Cross in Financial Markets (Algo Trading)"
+title: "Death Cross in Financial Markets"
 description: "Explore the role of death cross in financial markets and algorithmic trading Learn how technical indicators and advanced trading strategies can predict market trends"
 ---
 

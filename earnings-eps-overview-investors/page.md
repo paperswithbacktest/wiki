@@ -1,5 +1,5 @@
 ---
-title: "Earnings and EPS Overview for Investors (Algo Trading)"
+title: "Earnings and EPS Overview for Investors"
 description: "Discover how Earnings Per Share (EPS) and algorithmic trading impact investment strategies Learn to leverage EPS for data-driven decisions in dynamic markets"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Evaluating Bond Performance (Algo Trading)"
+title: "Evaluating Bond Performance"
 description: "Explore the synergy of financial analysis, bond evaluation, and algorithmic trading to maximize returns and minimize risks in complex investment landscapes."
 ---
 

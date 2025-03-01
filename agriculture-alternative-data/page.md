@@ -1,5 +1,5 @@
 ---
-title: "Agriculture Alternative Data (Algo Trading)"
+title: "Agriculture Alternative Data"
 description: Unlock the potential of agriculture alternative data in algorithmic trading strategies with cutting-edge insights that drive financial success. Explore diverse non-traditional data sources such as satellite imagery and weather patterns to enhance market predictions and gain a strategic edge in the evolving agricultural sector.
 ---
 

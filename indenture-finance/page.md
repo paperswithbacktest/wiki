@@ -1,5 +1,5 @@
 ---
-title: "Indenture in Finance (Algo Trading)"
+title: "Indenture in Finance"
 description: "Indentures in finance are crucial for formalizing debt agreements with clear terms, safeguarding all parties involved, and supporting stability in financial markets."
 ---
 

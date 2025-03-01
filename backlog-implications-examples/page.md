@@ -1,5 +1,5 @@
 ---
-title: "Backlog: Implications and Examples (Algo Trading)"
+title: "Backlog: Implications and Examples"
 description: "Explore the impact of backlogs in algorithmic trading and discover strategies to manage them effectively for improved trading performance and system resilience."
 ---
 

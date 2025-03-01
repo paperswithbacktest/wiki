@@ -1,5 +1,5 @@
 ---
-title: "Functions of Business Intelligence Technologies (Algo Trading)"
+title: "Functions of Business Intelligence Technologies"
 description: "Explore the pivotal roles of Business Intelligence technologies in enhancing decision-making and efficiency with a focus on data analysis and algorithmic trading."
 ---
 

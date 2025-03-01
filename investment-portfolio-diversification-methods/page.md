@@ -1,5 +1,5 @@
 ---
-title: "Investment Portfolio Diversification Methods (Algo Trading)"
+title: "Investment Portfolio Diversification Methods"
 description: "Explore how investment portfolio diversification and algorithmic trading enhance financial strategies offering insights into minimizing risks while optimizing returns."
 ---
 

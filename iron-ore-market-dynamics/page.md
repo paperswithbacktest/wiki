@@ -1,5 +1,5 @@
 ---
-title: "Iron Ore Market Dynamics (Algo Trading)"
+title: "Iron Ore Market Dynamics"
 description: "Discover the complexities of the global iron ore market. Understand price dynamics, key players, and the growing impact of algorithmic trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Exchange-Traded Mutual Funds: Overview and Mechanism (Algo Trading)"
+title: "Exchange-Traded Mutual Funds: Overview and Mechanism"
 description: "Explore the dynamics of Exchange-Traded Mutual Funds ETMFs and their innovative trade mechanisms Learn how algorithmic trading enhances ETMF efficiency"
 ---
 

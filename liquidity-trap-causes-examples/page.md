@@ -1,5 +1,5 @@
 ---
-title: "Liquidity Trap: Causes and Examples (Algo Trading)"
+title: "Liquidity Trap: Causes and Examples"
 description: "Explore the causes and examples of liquidity traps in economic theory. Learn how monetary policy and algorithmic trading adapt to challenge stagnant economies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Guarantee Fees (Algo Trading)"
+title: "Guarantee Fees"
 description: "Explore the significance of guarantee and algorithmic trading fees and their impact on lending and investment strategies within today's financial landscape."
 ---
 

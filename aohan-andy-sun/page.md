@@ -1,5 +1,5 @@
 ---
-title: "Aohan (Andy) Sun (Algo Trading)"
+title: "Aohan (Andy) Sun"
 description: "Discover the journey of Aohan Sun in algorithmic trading. From a strong academic background to vital contributions at Akuna Capital in high-frequency trading."
 ---
 

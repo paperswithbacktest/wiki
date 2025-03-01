@@ -1,5 +1,5 @@
 ---
-title: "Currency Board Versus Central Bank (Algo Trading)"
+title: "Currency Board Versus Central Bank"
 description: "Explore the dynamic interactions between central banks, currency boards, and algorithmic trading as they reshape the global financial landscape, impacting liquidity and stability."
 ---
 

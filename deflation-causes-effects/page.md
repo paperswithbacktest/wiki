@@ -1,5 +1,5 @@
 ---
-title: "Deflation: Causes and Effects (Algo Trading)"
+title: "Deflation: Causes and Effects"
 description: "Explore the causes and effects of deflation and how it impacts algo trading strategies Discover how persistent price decreases influence economic stability and trading models"
 ---
 

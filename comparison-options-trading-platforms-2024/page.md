@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Options Trading Platforms for 2024 (Algo Trading)"
+title: "Comparison of Options Trading Platforms for 2024"
 description: "Explore top options trading platforms for 2024 with our detailed guide. Compare features, assess algorithmic trading tools, and maximize your trading potential."
 ---
 

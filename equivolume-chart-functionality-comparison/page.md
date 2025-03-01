@@ -1,5 +1,5 @@
 ---
-title: "Equivolume Chart: Functionality and Comparison (Algo Trading)"
+title: "Equivolume Chart: Functionality and Comparison"
 description: "Discover how Equivolume charts integrate price and volume data to provide insights into market trends, offering a valuable tool for algo trading strategies."
 ---
 

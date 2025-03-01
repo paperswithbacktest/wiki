@@ -1,5 +1,5 @@
 ---
-title: "Applications of Artificial Intelligence by the U.S. Government (Algo Trading)"
+title: "Applications of Artificial Intelligence by the U.S. Government"
 description: "Explore how the U.S. government utilizes AI in algorithmic trading for enhanced financial transactions providing insights into AI's implications on economy and technology."
 ---
 

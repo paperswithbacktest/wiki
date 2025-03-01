@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Natural Gas (Algo Trading)"
+title: "Introduction to Natural Gas"
 description: "Explore the vital role of natural gas in energy markets and discover algorithmic trading's transformative impact on natural gas pricing and efficiency."
 ---
 

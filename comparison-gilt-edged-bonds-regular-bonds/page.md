@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Gilt-Edged Bonds and Regular Bonds (Algo Trading)"
+title: "Comparison of Gilt-Edged Bonds and Regular Bonds"
 description: "Explore the differences between gilt-edged bonds and regular bonds in algorithmic trading highlighting their risk profiles features and strategic implications."
 ---
 

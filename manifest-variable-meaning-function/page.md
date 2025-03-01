@@ -1,5 +1,5 @@
 ---
-title: "Manifest Variable: Meaning and Function (Algo Trading)"
+title: "Manifest Variable: Meaning and Function"
 description: "Discover how manifest and latent variables impact algorithmic trading Explore their functions in data-driven strategies for effective trades and market insights"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Electronics Industry (Algo Trading)"
+title: "Electronics Industry"
 description: "Explore the convergence of electronics and manufacturing technology driving advancements in algorithmic trading. Discover how this synergy enhances financial markets."
 ---
 

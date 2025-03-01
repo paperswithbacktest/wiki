@@ -1,5 +1,5 @@
 ---
-title: "Low-Income Home Energy Assistance Program (Algo Trading)"
+title: "Low-Income Home Energy Assistance Program"
 description: "Explore the intersection of LIHEAP and algorithmic trading for innovative solutions enhancing energy assistance programs, using data-driven approaches for improved efficiency."
 ---
 

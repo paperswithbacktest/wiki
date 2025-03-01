@@ -1,5 +1,5 @@
 ---
-title: "Exposure in Various Contexts (Algo Trading)"
+title: "Exposure in Various Contexts"
 description: "Discover how to manage exposure in algorithmic trading with effective risk management strategies. Learn about exposure metrics, risk assessment, and real-time risk management techniques to optimize trading success and protect investments."
 ---
 

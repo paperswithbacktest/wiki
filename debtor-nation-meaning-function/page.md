@@ -1,5 +1,5 @@
 ---
-title: "Debtor Nation: Meaning and Function (Algo Trading)"
+title: "Debtor Nation: Meaning and Function"
 description: "Explore the impact of national debt on debtor countries and how algorithmic trading may influence economic stability and debt management strategies."
 ---
 

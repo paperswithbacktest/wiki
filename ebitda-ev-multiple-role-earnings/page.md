@@ -1,5 +1,5 @@
 ---
-title: "EBITDA/EV Multiple and Its Role in Earnings (Algo Trading)"
+title: "EBITDA/EV Multiple and Its Role in Earnings"
 description: "Discover the importance of the EBITDA/EV multiple as a key financial metric in algorithmic trading, offering insights into company returns and operational performance. This ratio aids investors in identifying lucrative opportunities by providing a consistent framework for evaluating company value free from capital structure and tax influences. Apt for cross-company analysis, it is increasingly vital for traders seeking a competitive edge in modern financial markets."
 ---
 

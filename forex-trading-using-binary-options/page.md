@@ -1,5 +1,5 @@
 ---
-title: "Forex Trading Using Binary Options (Algo Trading)"
+title: "Forex Trading Using Binary Options"
 description: "Discover strategies for trading in the dynamic Forex market using binary options and algorithms Leverage technology and simplify trading for potential profit"
 ---
 

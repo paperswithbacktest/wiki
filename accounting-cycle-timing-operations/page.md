@@ -1,5 +1,5 @@
 ---
-title: "Accounting Cycle: Timing and Operations (Algo Trading)"
+title: "Accounting Cycle: Timing and Operations"
 description: "Explore how financial timing the accounting cycle and algo trading interplay to enhance company performance by optimizing cash flow profitability and strategic financial decisions"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Buy Low, Sell High Strategy (Algo Trading)"
+title: "Buy Low, Sell High Strategy"
 description: "Explore algo trading's buy low sell high strategy to maximize returns with automated processes reducing emotional bias with data-driven precision efficiency"
 ---
 

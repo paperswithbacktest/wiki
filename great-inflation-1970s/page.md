@@ -1,5 +1,5 @@
 ---
-title: "The Great Inflation of the 1970s (Algo Trading)"
+title: "The Great Inflation of the 1970s"
 description: "Explore the challenges of the 1970s Great Inflation and how algorithmic trading leverages historical insights to enhance modern financial strategies."
 ---
 

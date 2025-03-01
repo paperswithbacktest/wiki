@@ -1,5 +1,5 @@
 ---
-title: "Demand Theory in Economics (Algo Trading)"
+title: "Demand Theory in Economics"
 description: "Explore how demand theory informs algorithmic trading strategies by examining consumer behavior's impact on market prices and trade execution, optimizing financial outcomes."
 ---
 

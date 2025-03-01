@@ -1,5 +1,5 @@
 ---
-title: "Asset Deficiency: Overview and Examples (Algo Trading)"
+title: "Asset Deficiency: Overview and Examples"
 description: "Explore asset deficiency in finance understand its impact on businesses and discover how algorithmic trading offers solutions for mitigating financial shortfalls."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Economic Indicators for Predicting Market Trends (Algo Trading)"
+title: "Economic Indicators for Predicting Market Trends"
 description: "Explore the pivotal role of economic indicators and market trends in algo trading. Discover how predictive economics aids in informed decision-making for investors."
 ---
 

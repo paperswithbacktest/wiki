@@ -1,5 +1,5 @@
 ---
-title: "Measuring the Total Stock Market (Algo Trading)"
+title: "Measuring the Total Stock Market"
 description: "Explore the complexities of the stock market through algo trading insights Learn how market indexes like S&P 500 and DJIA help measure market performance"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Commoditization and Its Mechanisms (Algo Trading)"
+title: "Commoditization and Its Mechanisms"
 description: "Explore the intricate relationship between commoditization and algorithmic trading in global markets Understanding these economic elements is crucial for financial success"
 ---
 

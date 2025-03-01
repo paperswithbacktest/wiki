@@ -1,5 +1,5 @@
 ---
-title: "Enterprise Value to Revenue Multiple (Algo Trading)"
+title: "Enterprise Value to Revenue Multiple"
 description: "Discover the significance of the Enterprise Value-to-Revenue multiple in algorithmic trading and how it aids in evaluating companies and developing trading strategies."
 ---
 

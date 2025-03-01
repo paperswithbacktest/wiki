@@ -1,5 +1,5 @@
 ---
-title: "Gold Mine Grade Explanation (Algo Trading)"
+title: "Gold Mine Grade Explanation"
 description: "Discover how the intersection of gold mining and algorithmic trading is revolutionizing resource extraction and trading efficiency by leveraging technology."
 ---
 

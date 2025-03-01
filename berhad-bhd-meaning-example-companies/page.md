@@ -1,5 +1,5 @@
 ---
-title: "Berhad (BHD): Meaning and Example Companies (Algo Trading)"
+title: "Berhad (BHD): Meaning and Example Companies"
 description: "Explore the significance of Berhad (BHD) companies in Malaysia's economy, particularly their role in public equity markets and algorithmic trading advancements."
 ---
 

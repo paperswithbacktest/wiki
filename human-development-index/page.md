@@ -1,5 +1,5 @@
 ---
-title: "Human Development Index (Algo Trading)"
+title: "Human Development Index"
 description: "Explore the Human Development Index's relevance in assessing global development and its innovative application in algorithmic trading to evaluate emerging market opportunities."
 ---
 

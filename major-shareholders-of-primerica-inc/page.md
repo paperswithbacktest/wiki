@@ -1,5 +1,5 @@
 ---
-title: "Major Shareholders of Primerica, Inc. (Algo Trading)"
+title: "Major Shareholders of Primerica, Inc."
 description: "Explore how algorithmic trading impacts major shareholders of Primerica Inc., a leading financial services company specializing in products for middle-income households."
 ---
 

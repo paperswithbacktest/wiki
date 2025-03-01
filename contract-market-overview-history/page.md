@@ -1,5 +1,5 @@
 ---
-title: "Contract Market: Overview and Historical Context (Algo Trading)"
+title: "Contract Market: Overview and Historical Context"
 description: "Explore the evolution of contract markets and algorithmic trading, from manual methods to high-frequency trading, shaping efficiency and financial markets globally."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Investor Strategies Using Puts and Calls for Hedging (Algo Trading)"
+title: "Investor Strategies Using Puts and Calls for Hedging"
 description: "Explore strategies for hedging using puts and calls in algo trading to manage risk and optimize returns in volatile markets with automated precision."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Hot Wallets and Cold Wallets (Algo Trading)"
+title: "Comparison of Hot Wallets and Cold Wallets"
 description: "Explore the key differences between hot and cold cryptocurrency wallets for secure and efficient digital asset management in algorithmic trading environments."
 ---
 

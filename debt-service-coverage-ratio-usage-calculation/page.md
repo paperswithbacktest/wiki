@@ -1,5 +1,5 @@
 ---
-title: "Debt-Service Coverage Ratio: Usage and Calculation (Algo Trading)"
+title: "Debt-Service Coverage Ratio: Usage and Calculation"
 description: "Explore the significance of the Debt-Service Coverage Ratio in financial health assessment and its application in algorithmic trading for informed investment decisions."
 ---
 

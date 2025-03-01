@@ -1,5 +1,5 @@
 ---
-title: "Determining Option Strike Prices (Algo Trading)"
+title: "Determining Option Strike Prices"
 description: "Discover how algorithmic trading enhances option pricing and strike price determination, crucial for effective risk management and strategic trading in financial markets."
 ---
 

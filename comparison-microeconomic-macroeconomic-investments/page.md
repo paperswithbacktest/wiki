@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Microeconomic and Macroeconomic Investments (Algo Trading)"
+title: "Comparison of Microeconomic and Macroeconomic Investments"
 description: "Explore the interplay between microeconomic and macroeconomic factors in shaping investment strategies and the role of algorithmic trading in modern markets."
 ---
 

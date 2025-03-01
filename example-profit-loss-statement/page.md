@@ -1,5 +1,5 @@
 ---
-title: "Example of a Profit and Loss Statement (Algo Trading)"
+title: "Example of a Profit and Loss Statement"
 description: "Explore how Profit and Loss statements enhance algorithmic trading strategies by providing key financial insights for optimizing trades and maximizing returns."
 ---
 

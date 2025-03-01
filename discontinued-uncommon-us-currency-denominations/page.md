@@ -1,5 +1,5 @@
 ---
-title: "Discontinued and Uncommon U.S. Currency Denominations (Algo Trading)"
+title: "Discontinued and Uncommon U.S. Currency Denominations"
 description: "Explore discontinued and rare U.S. currency denominations that reflect historical shifts in economic and regulatory practices, intertwining past and modern finance."
 ---
 

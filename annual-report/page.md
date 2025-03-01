@@ -1,5 +1,5 @@
 ---
-title: "Annual Report (Algo Trading)"
+title: "Annual Report"
 description: "Explore the vital connections between corporate reporting and algorithmic trading in finance Learn how annual reports impact market stability and investor decisions"
 ---
 

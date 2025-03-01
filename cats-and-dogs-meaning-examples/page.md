@@ -1,5 +1,5 @@
 ---
-title: "Cats and Dogs: Meaning and Examples (Algo Trading)"
+title: "Cats and Dogs: Meaning and Examples"
 description: "Explore the meaning of "cats and dogs" in stock trading, often linked to speculative OTC stocks, and how algorithmic trading influences their volatility."
 ---
 

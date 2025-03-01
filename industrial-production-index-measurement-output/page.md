@@ -1,5 +1,5 @@
 ---
-title: "Industrial Production Index: Measurement of Output (Algo Trading)"
+title: "Industrial Production Index: Measurement of Output"
 description: "The Industrial Production Index is a vital tool for assessing economic performance and guiding policy decisions while influencing algorithmic trading strategies."
 ---
 

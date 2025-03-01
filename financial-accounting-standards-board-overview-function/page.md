@@ -1,5 +1,5 @@
 ---
-title: "Financial Accounting Standards Board: Overview and Function (Algo Trading)"
+title: "Financial Accounting Standards Board: Overview and Function"
 description: "Explore the crucial role of the Financial Accounting Standards Board in setting accounting standards and its impact on financial reporting and algorithmic trading."
 ---
 

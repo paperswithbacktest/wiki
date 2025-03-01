@@ -1,5 +1,5 @@
 ---
-title: "Key Figures in Brexit Negotiations (Algo Trading)"
+title: "Key Figures in Brexit Negotiations"
 description: "Explore the intersection of Brexit's key negotiators and the impact of algorithmic trading on financial markets during this historic geopolitical event."
 ---
 

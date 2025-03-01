@@ -1,5 +1,5 @@
 ---
-title: "Factors Leading to Decrease in Dividends per Share (Algo Trading)"
+title: "Factors Leading to Decrease in Dividends per Share"
 description: "Explore the factors affecting dividends per share including financial performance and algorithmic trading to optimize investment strategies effectively."
 ---
 

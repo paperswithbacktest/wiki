@@ -1,5 +1,5 @@
 ---
-title: "Libyan Investment Authority (Algo Trading)"
+title: "Libyan Investment Authority"
 description: "Discover how the Libyan Investment Authority uses algorithmic trading to enhance investment efficiency and risk management, supporting diversified economic growth."
 ---
 

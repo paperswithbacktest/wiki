@@ -1,5 +1,5 @@
 ---
-title: "Impact of Interest Rate Changes on Utility Stocks (Algo Trading)"
+title: "Impact of Interest Rate Changes on Utility Stocks"
 description: "Explore how interest rate fluctuations impact utility stocks and discover the role of algorithmic trading in optimizing investment strategies in this sector."
 ---
 

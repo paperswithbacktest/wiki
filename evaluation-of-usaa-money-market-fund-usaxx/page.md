@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of the USAA Money Market Fund USAXX (Algo Trading)"
+title: "Evaluation of the USAA Money Market Fund USAXX"
 description: "Discover the insights on the USAXX USAA Money Market Fund, a key player for investors seeking stability and liquidity as part of their low-volatility investment strategy. Explore how algorithmic trading can enhance the fund's integration into dynamic portfolios and learn about potential benefits and risks involved to make informed investment decisions."
 ---
 

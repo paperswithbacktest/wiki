@@ -1,5 +1,5 @@
 ---
-title: "Investment in Medical Equipment Companies (Algo Trading)"
+title: "Investment in Medical Equipment Companies"
 description: "Explore the lucrative world of medical equipment investments with algorithmic trading Boost your returns by leveraging cutting-edge data analytics in healthcare"
 ---
 

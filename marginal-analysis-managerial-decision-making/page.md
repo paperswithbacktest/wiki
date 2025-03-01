@@ -1,5 +1,5 @@
 ---
-title: "Marginal Analysis in Managerial Decision-Making (Algo Trading)"
+title: "Marginal Analysis in Managerial Decision-Making"
 description: "Explore the application of marginal analysis in managerial decision-making within algo trading to optimize resource allocation and enhance business efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Issued Shares Compared to Outstanding Shares (Algo Trading)"
+title: "Issued Shares Compared to Outstanding Shares"
 description: "Discover the key differences between issued and outstanding shares in the stock market and learn how algorithmic trading has reshaped trading strategies."
 ---
 

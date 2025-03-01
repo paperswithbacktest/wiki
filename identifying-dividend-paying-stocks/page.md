@@ -1,5 +1,5 @@
 ---
-title: "Identifying Dividend-Paying Stocks (Algo Trading)"
+title: "Identifying Dividend-Paying Stocks"
 description: "Optimize returns by combining dividend investing with algorithmic trading Discover key strategies and metrics to enhance your financial market strategy"
 ---
 

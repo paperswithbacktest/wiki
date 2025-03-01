@@ -1,5 +1,5 @@
 ---
-title: "Grexit: Implications, Processes, and Historical Context (Algo Trading)"
+title: "Grexit: Implications, Processes, and Historical Context"
 description: "Explore the Grexit scenario and its impact on Greece and the Eurozone focusing on economic implications and the role of algorithmic trading in market stability."
 ---
 

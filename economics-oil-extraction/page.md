@@ -1,5 +1,5 @@
 ---
-title: "Economics of Oil Extraction (Algo Trading)"
+title: "Economics of Oil Extraction"
 description: "Explore the intricate dynamics of oil extraction economics and the transformative impact of algorithmic trading on the oil industry in this in-depth analysis."
 ---
 

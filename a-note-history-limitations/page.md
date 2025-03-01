@@ -1,5 +1,5 @@
 ---
-title: "A-Note: Definition, Historical Context, and Limitations (Algo Trading)"
+title: "A-Note: Definition, Historical Context, and Limitations"
 description: "Explore the nuances of A-Note algorithmic trading including its definition historical roots and limitations in optimizing asset-backed securities A-Notes investment."
 ---
 

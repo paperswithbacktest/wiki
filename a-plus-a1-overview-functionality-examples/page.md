@@ -1,5 +1,5 @@
 ---
-title: "A+/A1: Overview and Functionality with Examples (Algo Trading)"
+title: "A+/A1: Overview and Functionality with Examples"
 description: "Explore A+/A1 credit ratings and their influence on algorithmic trading Discover how these ratings impact investment strategies risk management and returns optimization"
 ---
 

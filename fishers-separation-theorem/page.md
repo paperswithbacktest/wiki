@@ -1,5 +1,5 @@
 ---
-title: "Fisher's Separation Theorem (Algo Trading)"
+title: "Fisher's Separation Theorem"
 description: "Fisher's Separation Theorem bridges traditional financial theories with modern practices in corporate finance and algorithmic trading emphasizing objective profit maximization."
 ---
 

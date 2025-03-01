@@ -1,5 +1,5 @@
 ---
-title: "Marco Pagano (Algo Trading)"
+title: "Marco Pagano"
 description: "Explore the academic journey of Marco Pagano, an economist with expertise in finance, market microstructure, and corporate finance. Discover his contributions and roles."
 ---
 

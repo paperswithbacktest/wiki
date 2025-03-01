@@ -1,5 +1,5 @@
 ---
-title: "BATS Exchange (Algo Trading)"
+title: "BATS Exchange"
 description: "Explore BATS Global Markets' journey from an alternative trading system to a key player in algorithmic trading and its impact on modern financial markets."
 ---
 

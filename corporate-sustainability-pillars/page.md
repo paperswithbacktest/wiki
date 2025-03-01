@@ -1,5 +1,5 @@
 ---
-title: "Corporate Sustainability Pillars (Algo Trading)"
+title: "Corporate Sustainability Pillars"
 description: "Explore corporate sustainability in the context of algorithmic trading and how it integrates Environmental Social and Governance factors to boost ethical investing."
 ---
 

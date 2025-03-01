@@ -1,5 +1,5 @@
 ---
-title: "Macroprudential Analysis: Overview and Methodology (Algo Trading)"
+title: "Macroprudential Analysis: Overview and Methodology"
 description: "Explore macroprudential analysis, risk management, and financial stability in modern financial systems, examining their impact on systemic risk control and algorithmic trading."
 ---
 

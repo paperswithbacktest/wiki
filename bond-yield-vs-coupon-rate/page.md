@@ -1,5 +1,5 @@
 ---
-title: "Bond Yield vs. Coupon Rate (Algo Trading)"
+title: "Bond Yield vs. Coupon Rate"
 description: "Discover the nuances between bond yield and coupon rate and how algorithmic trading reshapes bond markets for optimized strategies and informed investment decisions."
 ---
 

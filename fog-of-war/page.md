@@ -1,5 +1,5 @@
 ---
-title: "Fog of War (Algo Trading)"
+title: "Fog of War"
 description: "Explore the similarities between military strategy and algorithmic trading in navigating unpredictability using adaptive tactics for success in uncertain environments."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Institutional Investor Index (Algo Trading)"
+title: "Institutional Investor Index"
 description: "Explore how institutional investors leverage algorithmic trading for informed investment decisions Gain insights into their impact on market dynamics and efficiency"
 ---
 

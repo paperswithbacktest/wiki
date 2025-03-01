@@ -1,5 +1,5 @@
 ---
-title: "History and Usage of the Euro (Algo Trading)"
+title: "History and Usage of the Euro"
 description: "Explore the history and impacts of the Euro in global finance and discover algorithmic trading's crucial role in modern markets focusing on currency strategies."
 ---
 

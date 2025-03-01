@@ -1,5 +1,5 @@
 ---
-title: "Four Down Days and Up Explained (Algo Trading)"
+title: "Four Down Days and Up Explained"
 description: Discover the intricacies of row trading in algorithmic trading and learn how this granular strategy focuses on sequences of price movements to optimize trading decisions. Using sophisticated algorithms to automate trades, row trading allows traders to capitalize on market inefficiencies with precision and speed. This article investigates into the implementation and mechanics of row trading, highlighting its contrast with broader strategies and its role in minimizing human error. Explore how row trading informs modern financial markets and why understanding these strategies is vital for future trading success.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Detachable Warrants: Overview and Mechanism (Algo Trading)"
+title: "Detachable Warrants: Overview and Mechanism"
 description: "Explore the unique investment opportunities offered by detachable warrants and the precision of algorithmic trading in modern financial markets."
 ---
 

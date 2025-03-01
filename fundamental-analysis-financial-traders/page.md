@@ -1,5 +1,5 @@
 ---
-title: "Fundamental Analysis for Financial Traders (Algo Trading)"
+title: "Fundamental Analysis for Financial Traders"
 description: "Explore the essentials of fundamental analysis and algorithmic trading for financial markets Discover trading strategies that guide informed investment decisions"
 ---
 

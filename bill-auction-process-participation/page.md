@@ -1,5 +1,5 @@
 ---
-title: "Bill Auction Process and Participation (Algo Trading)"
+title: "Bill Auction Process and Participation"
 description: "Explore the integration of algorithmic trading in Treasury bill auctions Learn how advanced algorithms enhance speed precision and investment strategies in finance"
 ---
 

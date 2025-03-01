@@ -1,5 +1,5 @@
 ---
-title: "Jesse Livermore: Insights from a Celebrated Stock Trader (Algo Trading)"
+title: "Jesse Livermore: Insights from a Celebrated Stock Trader"
 description: "Explore the timeless trading strategies of Jesse Livermore a pioneer whose insights into market dynamics remain invaluable for today's algorithmic traders."
 ---
 

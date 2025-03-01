@@ -1,5 +1,5 @@
 ---
-title: "FT Wilshire 5000 Index Overview (Algo Trading)"
+title: "FT Wilshire 5000 Index Overview"
 description: "Explore the FT Wilshire 5000 Index to gain insights into US stock market trends. This total market index aids in algorithmic trading and investment analysis."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Contingent Shares: Overview, Advantages, and Disadvantages (Algo Trading)"
+title: "Contingent Shares: Overview, Advantages, and Disadvantages"
 description: "Explore the advantages and disadvantages of contingent shares and algorithmic trading in stock investment Learn how these strategies impact modern finance"
 ---
 

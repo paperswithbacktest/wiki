@@ -1,5 +1,5 @@
 ---
-title: "Goodwill in Accounting: Definition and Calculation (Algo Trading)"
+title: "Goodwill in Accounting: Definition and Calculation"
 description: "Explore goodwill in accounting and its role in valuing acquisitions as a unique intangible asset Learn how algorithmic trading influences goodwill perception and strategy"
 ---
 

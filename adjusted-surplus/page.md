@@ -1,5 +1,5 @@
 ---
-title: "Adjusted Surplus (Algo Trading)"
+title: "Adjusted Surplus"
 description: "Explore the significance of adjusted surplus and algo trading in economic and financial contexts. Learn how these elements aid in efficient market management."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Common Misunderstandings About Free Markets (Algo Trading)"
+title: "Common Misunderstandings About Free Markets"
 description: "Discover the truth about free markets and algorithmic trading by dispelling common misconceptions and myths for better policy and investment decisions."
 ---
 

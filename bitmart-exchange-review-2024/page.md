@@ -1,5 +1,5 @@
 ---
-title: "BitMart Exchange Review 2024 (Algo Trading)"
+title: "BitMart Exchange Review 2024"
 description: "Discover the comprehensive 2024 review of BitMart Exchange focusing on key features support for algorithmic trading and lessons learned from past security breaches."
 ---
 

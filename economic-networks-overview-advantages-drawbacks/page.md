@@ -1,5 +1,5 @@
 ---
-title: "Economic Networks: Overview, Advantages, and Drawbacks (Algo Trading)"
+title: "Economic Networks: Overview, Advantages, and Drawbacks"
 description: "Explore the transformative role of economic networks and algorithmic trading in global finance examining their benefits, challenges, and real-world impacts."
 ---
 

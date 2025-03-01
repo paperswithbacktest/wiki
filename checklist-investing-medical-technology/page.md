@@ -1,5 +1,5 @@
 ---
-title: "Checklist for Investing in Medical Technology (Algo Trading)"
+title: "Checklist for Investing in Medical Technology"
 description: "Discover how to strategically invest in medical technology by leveraging algorithmic trading This guide offers insights for navigating this innovative landscape."
 ---
 

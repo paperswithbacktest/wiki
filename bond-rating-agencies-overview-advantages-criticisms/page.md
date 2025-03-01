@@ -1,5 +1,5 @@
 ---
-title: "Bond Rating Agencies: Overview, Advantages, and Criticisms (Algo Trading)"
+title: "Bond Rating Agencies: Overview, Advantages, and Criticisms"
 description: "Discover how bond rating agencies impact investment strategies through credit assessments and algorithmic trading insights contributing to market stability and efficiency."
 ---
 

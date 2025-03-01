@@ -1,5 +1,5 @@
 ---
-title: "Bellwether: Overview, Advantages and Disadvantages, Examples (Algo Trading)"
+title: "Bellwether: Overview, Advantages and Disadvantages, Examples"
 description: "Explore the role of bellwether stocks in algo trading to refine investment strategies by harnessing predictive insights while balancing efficiency with informed oversight."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Entropy: Concept, Risk Assessment, and Computation (Algo Trading)"
+title: "Entropy: Concept, Risk Assessment, and Computation"
 description: "Explore how entropy enhances algorithmic trading by assessing market risk and unpredictability This concept offers unique insights for refined trading strategies"
 ---
 

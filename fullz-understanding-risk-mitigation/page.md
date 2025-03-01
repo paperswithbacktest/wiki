@@ -1,5 +1,5 @@
 ---
-title: "Fullz: Understanding and Risk Mitigation (Algo Trading)"
+title: "Fullz: Understanding and Risk Mitigation"
 description: "Protect sensitive data in algorithmic trading by understanding risks posed by Fullz. Strengthen cybersecurity to mitigate identity theft and fraud impacts."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Closed-End and Open-End Investments (Algo Trading)"
+title: "Comparison of Closed-End and Open-End Investments"
 description: "Explore the differences between closed-end and open-end investments and learn how algorithmic trading can complement these strategies to enhance efficiency."
 ---
 

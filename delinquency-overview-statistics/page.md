@@ -1,5 +1,5 @@
 ---
-title: "Delinquency: Overview and Statistics (Algo Trading)"
+title: "Delinquency: Overview and Statistics"
 description: "Explore the intricate world of financial delinquencies and their critical role in signaling economic conditions. This page examines delinquency trends and the transformative impact of algorithmic trading on managing financial risks. Learn how advanced trading algorithms utilize massive datasets to identify patterns and predict delinquency scenarios, enabling financial institutions to adopt a proactive approach. Discover historical and current trends, case studies, and actionable insights into effective risk management strategies through algorithmic solutions."
 ---
 

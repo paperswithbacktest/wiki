@@ -1,5 +1,5 @@
 ---
-title: "Evaluating High ESG Scores in Companies (Algo Trading)"
+title: "Evaluating High ESG Scores in Companies"
 description: "Explore how high ESG scores in companies influence sustainable investing and algorithmic trading, creating opportunities for ethical and profitable financial markets."
 ---
 

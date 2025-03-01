@@ -1,5 +1,5 @@
 ---
-title: "Economic Development Measurement Using GNP (Algo Trading)"
+title: "Economic Development Measurement Using GNP"
 description: "Explore the complex interplay between economic development GNP and algo trading to understand their impact on national economies and global financial dynamics."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Capital Stock: Example and Comparison of Preferred and Common Stock (Algo Trading)"
+title: "Capital Stock: Example and Comparison of Preferred and Common Stock"
 description: "Explore the differences between common and preferred stock and learn how algorithmic trading can enhance your investment strategy in this informative guide."
 ---
 

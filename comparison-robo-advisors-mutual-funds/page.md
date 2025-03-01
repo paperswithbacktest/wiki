@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Robo-Advisors and Mutual Funds (Algo Trading)"
+title: "Comparison of Robo-Advisors and Mutual Funds"
 description: "Explore the benefits and features of robo-advisors and mutual funds in this detailed comparison to help you make informed investment decisions."
 ---
 

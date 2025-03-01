@@ -1,5 +1,5 @@
 ---
-title: "Constitutional Economics: Overview, Mechanisms, and Origins (Algo Trading)"
+title: "Constitutional Economics: Overview, Mechanisms, and Origins"
 description: "Explore the fascinating interplay between economics, constitutional law, political economy, and algorithmic trading in shaping modern economic systems and market dynamics."
 ---
 

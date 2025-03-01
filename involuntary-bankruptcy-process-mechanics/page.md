@@ -1,5 +1,5 @@
 ---
-title: "Involuntary Bankruptcy Process and Mechanics (Algo Trading)"
+title: "Involuntary Bankruptcy Process and Mechanics"
 description: "Discover how involuntary bankruptcy and algorithmic trading intersect within the financial world providing critical insights for investors and businesses alike."
 ---
 

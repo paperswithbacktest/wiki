@@ -1,5 +1,5 @@
 ---
-title: "International Competitive Bidding (Algo Trading)"
+title: "International Competitive Bidding"
 description: "Explore the intersection of international competitive bidding and algorithmic trading to enhance efficiency, compliance, and strategic growth in global markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of SPDR ETFs, Vanguard ETFs, and iShares (Algo Trading)"
+title: "Comparison of SPDR ETFs, Vanguard ETFs, and iShares"
 description: "Explore the advantages of Vanguard, iShares, and SPDR ETFs in algo trading; understand the benefits of low costs, high liquidity, and strategic diversity."
 ---
 

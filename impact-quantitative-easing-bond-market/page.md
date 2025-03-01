@@ -1,5 +1,5 @@
 ---
-title: "Impact of Quantitative Easing on Bond Market (Algo Trading)"
+title: "Impact of Quantitative Easing on Bond Market"
 description: "Explore the dynamic impact of quantitative easing on bond markets and algorithmic trading, analyzing their intricate influences on global financial stability and investment strategies."
 ---
 

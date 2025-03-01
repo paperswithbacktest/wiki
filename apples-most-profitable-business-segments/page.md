@@ -1,5 +1,5 @@
 ---
-title: "Apple's Most Profitable Business Segments (Algo Trading)"
+title: "Apple's Most Profitable Business Segments"
 description: "Discover Apple's top earning business segments and how they drive profitability through strategic diversification and innovation in technology and services."
 ---
 

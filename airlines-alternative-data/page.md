@@ -1,5 +1,5 @@
 ---
-title: "Airlines Alternative Data (Algo Trading)"
+title: "Airlines Alternative Data"
 description: Explore how alternative data from the airline industry is revolutionizing algorithmic trading by providing unique insights beyond traditional data sources. Discover how investors leverage this data to understand market trends, consumer behaviors, and economic indicators for enhanced decision-making and risk mitigation. Uncover the importance of real-time geolocation, web traffic, and sentiment analysis in refining trading strategies, with companies like Towergate Informatics leading the aggregation of these valuable datasets.
 ---
 

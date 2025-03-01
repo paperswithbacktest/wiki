@@ -1,5 +1,5 @@
 ---
-title: "Financial Crisis Responsibility Fee (Algo Trading)"
+title: "Financial Crisis Responsibility Fee"
 description: "Explore the implications of the Financial Crisis Responsibility Fee and algorithmic trading in restoring financial accountability and mitigating future risks."
 ---
 

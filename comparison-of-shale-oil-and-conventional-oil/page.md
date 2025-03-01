@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Shale Oil and Conventional Oil (Algo Trading)"
+title: "Comparison of Shale Oil and Conventional Oil"
 description: "Explore the economic, operational, and environmental differences between shale and conventional oil, and how algo trading reshapes the global oil market landscape."
 ---
 

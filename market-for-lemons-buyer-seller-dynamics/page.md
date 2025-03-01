@@ -1,5 +1,5 @@
 ---
-title: "Market for Lemons: Buyer and Seller Dynamics (Algo Trading)"
+title: "Market for Lemons: Buyer and Seller Dynamics"
 description: "Explore buyer and seller dynamics in markets with information asymmetry and algorithmic trading Learn how trust and market efficiency are affected and strategies to mitigate these challenges"
 ---
 

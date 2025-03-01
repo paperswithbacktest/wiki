@@ -1,5 +1,5 @@
 ---
-title: "Impact of Keynesian Economics on Economic Cycles (Algo Trading)"
+title: "Impact of Keynesian Economics on Economic Cycles"
 description: "Explore the impact of Keynesian economics on economic cycles and its integration with algorithmic trading strategies to balance boom-bust cycles effectively."
 ---
 

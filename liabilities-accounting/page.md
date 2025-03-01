@@ -1,5 +1,5 @@
 ---
-title: "Liabilities in Accounting (Algo Trading)"
+title: "Liabilities in Accounting"
 description: "Explore the crucial role of financial responsibilities, accounting obligations, and liabilities in the complex financial landscape, and understand how algorithmic trading impacts them. Learn about strategic financial management and compliance to drive business success while navigating modern financial challenges."
 ---
 

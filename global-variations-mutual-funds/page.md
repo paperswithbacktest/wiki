@@ -1,5 +1,5 @@
 ---
-title: "Global Variations in Mutual Funds (Algo Trading)"
+title: "Global Variations in Mutual Funds"
 description: "Explore global strategies in mutual funds and algorithmic trading, highlighting regulatory impacts, benefits, and challenges for discerning investors."
 ---
 

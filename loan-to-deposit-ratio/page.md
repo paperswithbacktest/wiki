@@ -1,5 +1,5 @@
 ---
-title: "Loan-to-Deposit Ratio (Algo Trading)"
+title: "Loan-to-Deposit Ratio"
 description: "Explore the importance of the Loan-to-Deposit Ratio in banking. Learn how it reflects a bank's liquidity and lending practices, impacting financial health and strategy."
 ---
 

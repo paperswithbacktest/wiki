@@ -1,5 +1,5 @@
 ---
-title: "Black Thursday: History, Impact, and Aftermath (Algo Trading)"
+title: "Black Thursday: History, Impact, and Aftermath"
 description: "Explore the history and impact of Black Thursday in 1929, a pivotal event in the Stock Market Crash, and its modern parallels in algorithmic trading."
 ---
 

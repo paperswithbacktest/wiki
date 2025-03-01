@@ -1,5 +1,5 @@
 ---
-title: "Cliometrics: Meaning and Function (Algo Trading)"
+title: "Cliometrics: Meaning and Function"
 description: "Explore cliometrics and its impact on algo trading by blending historical data and statistical analysis to enhance modern financial strategies and decision-making."
 ---
 

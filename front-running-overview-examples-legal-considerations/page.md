@@ -1,5 +1,5 @@
 ---
-title: "Front-Running: Overview, Examples, and Legal Considerations (Algo Trading)"
+title: "Front-Running: Overview, Examples, and Legal Considerations"
 description: "Explore the complexities of front-running in algorithmic and high-frequency trading within the financial markets. Understand the mechanics and ethical concerns of trading based on insider knowledge, the significant legal frameworks regulating this practice, and how technological advancements have amplified this issue. Gain insight into the challenges front-running poses to market integrity and the necessity for strict oversight to ensure fair trading practices."
 ---
 

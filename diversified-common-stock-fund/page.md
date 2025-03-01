@@ -1,5 +1,5 @@
 ---
-title: "Diversified Common Stock Fund (Algo Trading)"
+title: "Diversified Common Stock Fund"
 description: "Explore diversified common stock funds and algorithmic trading strategies for optimizing investment portfolios to achieve balanced risk-return in today's markets."
 ---
 

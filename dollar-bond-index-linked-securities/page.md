@@ -1,5 +1,5 @@
 ---
-title: "Dollar Bond Index-Linked Securities (Algo Trading)"
+title: "Dollar Bond Index-Linked Securities"
 description: "Discover Dollar Bond Index-Linked Securities designed to offer investors flexible bond-linked returns. Explore their role in algorithmic trading strategies."
 ---
 

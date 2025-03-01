@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategies in Travel and Tourism (Algo Trading)"
+title: "Investment Strategies in Travel and Tourism"
 description: "Explore how algorithmic trading is revolutionizing investment tourism in the bustling travel sector Learn key strategies for maximizing returns in volatile markets"
 ---
 

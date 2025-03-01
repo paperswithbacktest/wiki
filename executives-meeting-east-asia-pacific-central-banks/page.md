@@ -1,5 +1,5 @@
 ---
-title: "Executives' Meeting of East Asia-Pacific Central Banks (Algo Trading)"
+title: "Executives' Meeting of East Asia-Pacific Central Banks"
 description: "Discover how EMEAP bolsters algorithmic trading in East Asia-Pacific enhancing financial stability through cooperation and advanced technology adoption."
 ---
 

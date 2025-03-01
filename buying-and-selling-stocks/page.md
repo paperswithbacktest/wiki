@@ -1,5 +1,5 @@
 ---
-title: "Buying and Selling Stocks (Algo Trading)"
+title: "Buying and Selling Stocks"
 description: "Explore the world of stock trading from traditional methods to advanced algorithmic strategies Learn how technology reshapes markets and investor opportunities"
 ---
 

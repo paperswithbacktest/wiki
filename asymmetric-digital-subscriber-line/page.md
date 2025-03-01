@@ -1,5 +1,5 @@
 ---
-title: "Asymmetric Digital Subscriber Line (Algo Trading)"
+title: "Asymmetric Digital Subscriber Line"
 description: "Explore how ADSL broadband internet influences algorithmic trading, highlighting benefits and limitations, while comparing with other internet technologies."
 ---
 

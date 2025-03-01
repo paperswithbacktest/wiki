@@ -1,5 +1,5 @@
 ---
-title: "Applied Overhead: Explanation and Example (Algo Trading)"
+title: "Applied Overhead: Explanation and Example"
 description: "Learn how applied overhead impacts algorithmic trading and financial planning. Discover methods to allocate costs for enhanced strategy and profitability analysis."
 ---
 

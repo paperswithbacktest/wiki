@@ -1,5 +1,5 @@
 ---
-title: "Coupon Bond Overview and Modern Applications (Algo Trading)"
+title: "Coupon Bond Overview and Modern Applications"
 description: "Explore fixed income investing with coupon bonds for steady income and diversification. Discover impacts of algorithmic trading on bond markets and strategies."
 ---
 

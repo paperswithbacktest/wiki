@@ -1,5 +1,5 @@
 ---
-title: "Jessica Titlebaum Darmoni: Profile and Achievements (Algo Trading)"
+title: "Jessica Titlebaum Darmoni: Profile and Achievements"
 description: "Jessica Titlebaum Darmoni is a trailblazer in algorithmic trading and finance, championing gender diversity and communication, and empowering women leaders."
 ---
 

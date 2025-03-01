@@ -1,5 +1,5 @@
 ---
-title: "Baby Bells: Overview and Advantages (Algo Trading)"
+title: "Baby Bells: Overview and Advantages"
 description: "Explore the impact of Baby Bells on telecom, from breaking up AT&T to innovations like algorithmic trading for business growth and technological adaptation."
 ---
 

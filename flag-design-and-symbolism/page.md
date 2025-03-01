@@ -1,5 +1,5 @@
 ---
-title: "Flag Design and Symbolism (Algo Trading)"
+title: "Flag Design and Symbolism"
 description: "Discover the intriguing parallels between flag design and algorithmic trading as symbols bridge creativity with precision in visual and quantitative worlds."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Penny Stocks and Forex Trading (Algo Trading)"
+title: "Comparison of Penny Stocks and Forex Trading"
 description: "Explore the differences between penny stocks and forex trading emphasizing their unique risks and opportunities to optimize financial returns using algo trading."
 ---
 

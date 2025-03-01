@@ -1,5 +1,5 @@
 ---
-title: "Asymmetric Volatility Phenomenon (Algo Trading)"
+title: "Asymmetric Volatility Phenomenon"
 description: "Discover the Asymmetric Volatility Phenomenon in algorithmic trading Learn how volatility differs in market downturns and its impact on trading strategies."
 ---
 

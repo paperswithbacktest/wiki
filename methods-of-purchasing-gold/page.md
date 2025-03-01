@@ -1,5 +1,5 @@
 ---
-title: "Methods of Purchasing Gold (Algo Trading)"
+title: "Methods of Purchasing Gold"
 description: "Explore diverse methods of purchasing gold from traditional physical ownership to modern algorithmic trading to optimize your investment strategy."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Affordability Index Overview and Examples (Algo Trading)"
+title: "Affordability Index Overview and Examples"
 description: "Discover how algorithmic trading has become more accessible for traders of all scales by reducing cost barriers and leveraging innovative platforms and strategies."
 ---
 

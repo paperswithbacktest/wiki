@@ -1,5 +1,5 @@
 ---
-title: "Asset-Or-Nothing Call Option (Algo Trading)"
+title: "Asset-Or-Nothing Call Option"
 description: "Explore asset-or-nothing call options and algorithmic trading in derivatives for strategic investment with unique risk and reward profiles to enhance returns."
 ---
 

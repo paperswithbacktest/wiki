@@ -1,5 +1,5 @@
 ---
-title: "CME Group Stock Index Futures (Algo Trading)"
+title: "CME Group Stock Index Futures"
 description: "Explore CME Group's stock index futures for dynamic algorithmic trading with high liquidity and diverse contracts on indices like S&P 500 NASDAQ-100 and DJIA."
 ---
 

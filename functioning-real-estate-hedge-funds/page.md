@@ -1,5 +1,5 @@
 ---
-title: "Functioning of Real Estate Hedge Funds (Algo Trading)"
+title: "Functioning of Real Estate Hedge Funds"
 description: "Explore how real estate hedge funds leverage algorithmic trading to maximize investment returns merging stable real estate assets with advanced financial strategies."
 ---
 

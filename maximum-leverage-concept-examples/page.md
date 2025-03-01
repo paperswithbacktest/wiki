@@ -1,5 +1,5 @@
 ---
-title: "Maximum Leverage: Concept and Examples (Algo Trading)"
+title: "Maximum Leverage: Concept and Examples"
 description: "Explore the concept of maximum leverage and its role in algorithmic trading Learn how investors use borrowed capital to boost returns and manage financial risks"
 ---
 

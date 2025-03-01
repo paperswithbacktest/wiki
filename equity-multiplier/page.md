@@ -1,5 +1,5 @@
 ---
-title: "Equity Multiplier (Algo Trading)"
+title: "Equity Multiplier"
 description: "Explore the significance of the equity multiplier in financial analysis and algorithmic trading. Understand how this leverage ratio helps assess a company’s financial structure by comparing its assets relative to shareholders’ equity, offering insights into financial risk and investment strategies. Discover its role in evaluating financial health and optimizing real-time trading decisions, providing critical perspectives on profitability and risk management in today’s markets."
 ---
 

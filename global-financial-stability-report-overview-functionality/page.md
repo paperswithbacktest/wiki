@@ -1,5 +1,5 @@
 ---
-title: "Global Financial Stability Report: Overview and Functionality (Algo Trading)"
+title: "Global Financial Stability Report: Overview and Functionality"
 description: "Explore the Global Financial Stability Report's insights on algorithmic trading and emerging market risks, highlighting its role in assessing and guiding market stability."
 ---
 

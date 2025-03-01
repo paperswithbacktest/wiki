@@ -1,5 +1,5 @@
 ---
-title: "Bond Anticipation Note (Algo Trading)"
+title: "Bond Anticipation Note"
 description: "Explore the strategic use of Bond Anticipation Notes and algorithmic trading's impact on municipal finance Learn how BANs and advanced trading enhance investments"
 ---
 

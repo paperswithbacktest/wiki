@@ -1,5 +1,5 @@
 ---
-title: "Headline Earnings: Meaning and Criticism (Algo Trading)"
+title: "Headline Earnings: Meaning and Criticism"
 description: "Explore the significance of headline earnings in financial reporting and algorithmic trading as they focus on core profitability by excluding non-recurring items."
 ---
 

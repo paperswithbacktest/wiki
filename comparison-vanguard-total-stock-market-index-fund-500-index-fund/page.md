@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Vanguard Total Stock Market Index Fund and Vanguard 500 Index Fund (Algo Trading)"
+title: "Comparison of Vanguard Total Stock Market Index Fund and Vanguard 500 Index Fund"
 description: "Explore the comparison of Vanguard Total Stock Market and Vanguard 500 Index Funds with insights on integrating these with algorithmic trading strategies."
 ---
 

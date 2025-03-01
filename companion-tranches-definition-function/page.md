@@ -1,5 +1,5 @@
 ---
-title: "Companion Tranches: Definition and Function (Algo Trading)"
+title: "Companion Tranches: Definition and Function"
 description: "Companion tranches are crucial in managing prepayment risk in CMOs. Learn how they function in structured finance and how algorithmic trading optimizes investments."
 ---
 

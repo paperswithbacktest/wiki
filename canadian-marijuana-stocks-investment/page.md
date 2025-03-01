@@ -1,5 +1,5 @@
 ---
-title: "List of Canadian Marijuana Stocks for Investment (Algo Trading)"
+title: "List of Canadian Marijuana Stocks for Investment"
 description: "Invest in Canadian marijuana stocks with algorithmic trading for potential high returns Streamline decision-making and optimize your portfolio in this dynamic market"
 ---
 

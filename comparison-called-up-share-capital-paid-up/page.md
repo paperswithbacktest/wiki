@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Called-Up Share Capital and Paid-Up Share Capital (Algo Trading)"
+title: "Comparison of Called-Up Share Capital and Paid-Up Share Capital"
 description: "Explore the differences between called-up and paid-up share capital in corporate finance and how algorithmic trading enhances investment strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Gross Spread Overview and Mechanism (Algo Trading)"
+title: "Gross Spread Overview and Mechanism"
 description: "Explore the dynamics of gross spread in investment banking and the role of algorithmic trading in shaping modern financial strategies for optimal profitability."
 ---
 

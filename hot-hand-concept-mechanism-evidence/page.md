@@ -1,5 +1,5 @@
 ---
-title: "Hot Hand: Concept, Mechanism, and Evidence (Algo Trading)"
+title: "Hot Hand: Concept, Mechanism, and Evidence"
 description: "Explore the captivating 'Hot Hand' phenomenon in trading and sports examining cognitive biases and statistical analyses to understand streaks and investment impacts."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Debt-To-Capital Ratio Reduction Strategies (Algo Trading)"
+title: "Debt-To-Capital Ratio Reduction Strategies"
 description: "Explore effective strategies to reduce the debt-to-capital ratio using algorithmic trading and financial management to enhance business growth and stability."
 ---
 

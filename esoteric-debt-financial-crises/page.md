@@ -1,5 +1,5 @@
 ---
-title: "Esoteric Debt and Financial Crises (Algo Trading)"
+title: "Esoteric Debt and Financial Crises"
 description: "Explore the complexities of esoteric debt and algorithmic trading shaping today's financial world, including their role in crises and impact on market dynamics."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bootstraps (Algo Trading)"
+title: "Bootstraps"
 description: Explore the intricacies of algorithmic trading with a focus on bootstrapping techniques. Understand how this resampling method enhances model estimations by replicating data variations, improving predictive capabilities, and evaluating performance. Discover the role of bootstrap aggregation in creating stable and robust trading strategies through bagging, random forests, and boosting, providing a foundation for effective risk management and market opportunities.
 ---
 

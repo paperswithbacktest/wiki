@@ -1,5 +1,5 @@
 ---
-title: "Leading Opportunities in Eco-Friendly Investment (Algo Trading)"
+title: "Leading Opportunities in Eco-Friendly Investment"
 description: "Explore eco-friendly investment opportunities through algorithmic trading that blend financial goals with sustainability, supporting a healthier planet."
 ---
 

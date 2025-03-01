@@ -1,5 +1,5 @@
 ---
-title: "Callable Bonds: Types, Examples, Advantages and Disadvantages (Algo Trading)"
+title: "Callable Bonds: Types, Examples, Advantages and Disadvantages"
 description: "Explore the world of callable bonds including types examples benefits and risks associated with these flexible debt instruments and algorithmic trading integration"
 ---
 

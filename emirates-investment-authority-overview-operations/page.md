@@ -1,5 +1,5 @@
 ---
-title: "Emirates Investment Authority: Overview and Operations (Algo Trading)"
+title: "Emirates Investment Authority: Overview and Operations"
 description: "Explore the Emirates Investment Authority's role as the UAE's federal wealth fund using algorithmic trading to enhance investment strategies and economic stability."
 ---
 

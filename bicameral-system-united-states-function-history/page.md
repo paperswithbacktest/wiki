@@ -1,5 +1,5 @@
 ---
-title: "Bicameral System in the United States: Function and Historical Overview (Algo Trading)"
+title: "Bicameral System in the United States: Function and Historical Overview"
 description: "Explore the impact of the U.S. bicameral system on algorithmic trading and financial regulations. Understand how Congressional decisions shape the trading landscape."
 ---
 

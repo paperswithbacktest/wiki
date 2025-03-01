@@ -1,5 +1,5 @@
 ---
-title: "Bourse: Definition, History, and Examples (Algo Trading)"
+title: "Bourse: Definition, History, and Examples"
 description: "Explore the evolution of bourses from manual trading centers to advanced algorithmic trading hubs highlighting key historical transitions shaping today's markets."
 ---
 

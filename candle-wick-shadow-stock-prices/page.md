@@ -1,5 +1,5 @@
 ---
-title: "Candle Wick and Shadow in Stock Prices (Algo Trading)"
+title: "Candle Wick and Shadow in Stock Prices"
 description: "Explore the role of candle wick analysis in algorithmic trading to enhance stock strategy precision and market performance with candlestick insights."
 ---
 

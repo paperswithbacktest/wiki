@@ -1,5 +1,5 @@
 ---
-title: "Centiva Capital (Algo Trading)"
+title: "Centiva Capital"
 description: "Centiva Capital leverages cutting-edge algorithmic strategies for efficient trading in financial markets minimizing human error and setting new industry standards."
 ---
 

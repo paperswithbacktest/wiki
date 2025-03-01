@@ -1,5 +1,5 @@
 ---
-title: "Benefits of SPAN Margin System (Algo Trading)"
+title: "Benefits of SPAN Margin System"
 description: "Explore the benefits of the SPAN margin system in algorithmic trading Discover how it enhances risk management and optimizes capital efficiency in dynamic markets"
 ---
 

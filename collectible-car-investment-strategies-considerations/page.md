@@ -1,5 +1,5 @@
 ---
-title: "Collectible Car Investment: Strategies and Considerations (Algo Trading)"
+title: "Collectible Car Investment: Strategies and Considerations"
 description: "Discover strategies for investing in collectible cars including pitfalls and innovative methods like algorithmic trading to balance your financial portfolio."
 ---
 

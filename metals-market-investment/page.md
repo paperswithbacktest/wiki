@@ -1,5 +1,5 @@
 ---
-title: "Metals Market Investment (Algo Trading)"
+title: "Metals Market Investment"
 description: "Explore the transformative role of algorithmic trading in the metals market enhancing precision and speed in trading decisions for savvy investors."
 ---
 

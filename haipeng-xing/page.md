@@ -1,5 +1,5 @@
 ---
-title: "Haipeng Xing (Algo Trading)"
+title: "Haipeng Xing"
 description: "Haipeng Xing is a leading academic in algorithmic trading and financial econometrics holding a professorship at Stony Brook University New York."
 ---
 

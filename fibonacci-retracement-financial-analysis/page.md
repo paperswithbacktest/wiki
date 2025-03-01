@@ -1,5 +1,5 @@
 ---
-title: "Fibonacci Retracement in Financial Analysis (Algo Trading)"
+title: "Fibonacci Retracement in Financial Analysis"
 description: "Explore the significance of Fibonacci retracement in financial analysis and algorithmic trading with this insightful article. Discover how mathematical ratios derived from the Fibonacci sequence help traders predict market reversals and identify potential support and resistance levels. Learn about the integration of these retracement levels into automated trading systems using Python, enhancing strategic decision-making and trading efficiency. This read covers the practical applications of Fibonacci retracement, offering traders a robust tool for evaluating market trends and improving trading precision."
 ---
 

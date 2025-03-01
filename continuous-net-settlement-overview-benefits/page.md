@@ -1,5 +1,5 @@
 ---
-title: "Continuous Net Settlement: Overview and Benefits (Algo Trading)"
+title: "Continuous Net Settlement: Overview and Benefits"
 description: "Explore the benefits of Continuous Net Settlement in financial markets, a key process enhancing trading efficiency by netting trades and reducing counterparty risk."
 ---
 

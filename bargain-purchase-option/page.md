@@ -1,5 +1,5 @@
 ---
-title: "Bargain Purchase Option (Algo Trading)"
+title: "Bargain Purchase Option"
 description: "Explore bargain purchase options in lease agreements and their role in algorithmic trading Discover how these strategies enhance decision-making and asset acquisition"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Inventory Management: Overview and Methods (Algo Trading)"
+title: "Inventory Management: Overview and Methods"
 description: "Explore how inventory management enhances business and financial operations through optimized methods, logistics, and algorithmic trading for maximum efficiency."
 ---
 

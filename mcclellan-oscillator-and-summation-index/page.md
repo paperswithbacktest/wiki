@@ -1,5 +1,5 @@
 ---
-title: "McClellan Oscillator and Summation Index Explained (Algo Trading)"
+title: "McClellan Oscillator and Summation Index Explained"
 description: The McClellan Oscillator and Summation Index article provides a comprehensive analysis of these key market indicators, often used by traders to assess market breadth and trends. With a focus on their application in algorithmic trading, it illustrates how these tools can enhance automated trading decisions through quantitative analysis. The detailed explanations on calculating and backtesting strategies with these indicators offer valuable insights for traders seeking to optimize trading models for effective long-term results.
 ---
 

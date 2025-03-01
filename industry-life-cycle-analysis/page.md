@@ -1,5 +1,5 @@
 ---
-title: "Industry Life Cycle Analysis (Algo Trading)"
+title: "Industry Life Cycle Analysis"
 description: "Explore how industry life cycle analysis can optimize algorithmic trading by understanding growth stages to adapt strategies and improve trading outcomes."
 ---
 

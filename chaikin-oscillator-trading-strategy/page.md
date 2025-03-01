@@ -1,5 +1,5 @@
 ---
-title: "Chaikin Oscillator Trading Strategy Explained (Algo Trading)"
+title: "Chaikin Oscillator Trading Strategy Explained"
 description: Explore the Chaikin Oscillator trading strategy in algorithmic trading by understanding its calculation and application. Learn how this indicator assesses market momentum through accumulation and distribution analysis for enhanced trading strategies. Discover insights from backtests and the practical use of the Chaikin Oscillator to anticipate price movements and identify trading opportunities.
 ---
 

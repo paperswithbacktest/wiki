@@ -1,5 +1,5 @@
 ---
-title: "Commercial Code: Overview and Functionality (Algo Trading)"
+title: "Commercial Code: Overview and Functionality"
 description: "Explore the interaction of the Uniform Commercial Code with algo trading revealing how business law adapts to technology ensuring market fairness and efficiency."
 ---
 

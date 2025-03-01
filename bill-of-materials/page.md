@@ -1,5 +1,5 @@
 ---
-title: "Bill of Materials (Algo Trading)"
+title: "Bill of Materials"
 description: "Explore how combining Bill of Materials management with algorithmic trading techniques can revolutionize manufacturing, enhancing efficiency and reducing costs."
 ---
 

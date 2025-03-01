@@ -1,5 +1,5 @@
 ---
-title: "Down Round: Overview and Alternatives (Algo Trading)"
+title: "Down Round: Overview and Alternatives"
 description: "Explore the dynamics of venture capital down rounds and their impact on algorithmic trading strategies Discover how these events influence market conditions and investor sentiment."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Impact of Climate Change on Homeownership (Algo Trading)"
+title: "Impact of Climate Change on Homeownership"
 description: "Explore how climate change impacts homeownership and financial markets through algorithmic trading providing insights on environmental risks and adaptive strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Investment in Sports Trading Cards (Algo Trading)"
+title: "Investment in Sports Trading Cards"
 description: "Explore the growing investment potential in sports trading cards influenced by nostalgia, cultural significance, and algo trading strategies for optimizing returns."
 ---
 

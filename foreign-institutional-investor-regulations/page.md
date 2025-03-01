@@ -1,5 +1,5 @@
 ---
-title: "Foreign Institutional Investor and Regulations (Algo Trading)"
+title: "Foreign Institutional Investor and Regulations"
 description: "Explore Foreign Institutional Investors and the complexities they bring to global markets through algorithmic trading Discover investment regulations and market impacts"
 ---
 

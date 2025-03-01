@@ -1,5 +1,5 @@
 ---
-title: "Impact of Interest Rates on Property Values (Algo Trading)"
+title: "Impact of Interest Rates on Property Values"
 description: "Explore how interest rates, property values, and algorithmic trading shape real estate markets. Understand their intersection and the impact on property valuations."
 ---
 

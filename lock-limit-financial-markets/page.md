@@ -1,5 +1,5 @@
 ---
-title: "Lock Limit In Financial Markets (Algo Trading)"
+title: "Lock Limit In Financial Markets"
 description: "Explore the critical roles of lock limits and algorithmic trading in financial markets ensuring stability and efficiency by balancing risk with growth opportunities."
 ---
 

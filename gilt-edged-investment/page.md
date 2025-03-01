@@ -1,5 +1,5 @@
 ---
-title: "Gilt-Edged Investment (Algo Trading)"
+title: "Gilt-Edged Investment"
 description: "Explore the stability of gilt-edged investments and sovereign bonds in fixed-income markets and how algorithmic trading enhances their efficiency and liquidity."
 ---
 

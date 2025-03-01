@@ -1,5 +1,5 @@
 ---
-title: "Donchian Channels: Formula, Calculation, and Applications (Algo Trading)"
+title: "Donchian Channels: Formula, Calculation, and Applications"
 description: "Explore Donchian Channels and their role in algorithmic trading Learn how these indicators identify trends and breakouts and integrate them into automated systems"
 ---
 

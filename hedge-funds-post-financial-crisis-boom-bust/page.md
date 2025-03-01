@@ -1,5 +1,5 @@
 ---
-title: "Hedge Funds Post-Financial Crisis: Boom and Bust (Algo Trading)"
+title: "Hedge Funds Post-Financial Crisis: Boom and Bust"
 description: "Explore hedge funds' roles post-financial crisis in cycles of boom and bust and how algorithmic trading strategies impact modern financial markets."
 ---
 

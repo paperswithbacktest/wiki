@@ -1,5 +1,5 @@
 ---
-title: "Botnet Mining: Overview and Mechanism (Algo Trading)"
+title: "Botnet Mining: Overview and Mechanism"
 description: "Explore the intricate relationship between botnets mining and algorithmic trading and its impact on cybersecurity. Discover strategies to mitigate risks."
 ---
 

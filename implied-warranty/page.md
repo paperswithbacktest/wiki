@@ -1,5 +1,5 @@
 ---
-title: "Implied Warranty (Algo Trading)"
+title: "Implied Warranty"
 description: "Explore the intersection of warranty law and algorithmic trading to understand how legal assurances impact trading technologies and consumer protection."
 ---
 

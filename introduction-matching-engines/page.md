@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Matching Engines (Algo Trading)"
+title: "Introduction to Matching Engines"
 description: Discover the essential role of matching engines in algorithmic trading, where they serve as the backbone for rapid and precise trade execution. Explore their architecture, efficient components like load balancers and proximity hosting, and key algorithms like FIFO, which are vital for modern trading platforms and high-frequency trading strategies.
 ---
 

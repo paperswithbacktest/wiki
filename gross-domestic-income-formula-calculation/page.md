@@ -1,5 +1,5 @@
 ---
-title: "Gross Domestic Income: Formula and Calculation (Algo Trading)"
+title: "Gross Domestic Income: Formula and Calculation"
 description: "Explore the importance and calculation of Gross Domestic Income in economic analysis and algorithmic trading Understand how GDI enhances trading strategies"
 ---
 

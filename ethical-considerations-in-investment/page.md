@@ -1,5 +1,5 @@
 ---
-title: "Ethical Considerations in Investment (Algo Trading)"
+title: "Ethical Considerations in Investment"
 description: "Explore the ethical considerations in algorithmic trading and investment as technology transforms financial markets with speed and efficiency while raising issues of fairness and transparency."
 ---
 

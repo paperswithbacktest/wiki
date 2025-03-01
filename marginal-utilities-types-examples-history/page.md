@@ -1,5 +1,5 @@
 ---
-title: "Marginal Utilities: Types, Examples, and History (Algo Trading)"
+title: "Marginal Utilities: Types, Examples, and History"
 description: "Explore the intricate world of marginal utilities in economic theory and algorithmic trading Unveil how understanding utility shapes consumer choices and market dynamics"
 ---
 

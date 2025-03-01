@@ -1,5 +1,5 @@
 ---
-title: "Index ETF: Types, Benefits, and Risks (Algo Trading)"
+title: "Index ETF: Types, Benefits, and Risks"
 description: "Index ETFs offer cost-effective diversification by tracking market indices like the S&P 500 Learn about their benefits risks and the influence of algorithmic trading"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Investing in Your 20s: Establishing a Financial Foundation (Algo Trading)"
+title: "Investing in Your 20s: Establishing a Financial Foundation"
 description: "Investing in your 20s with algo trading can boost your financial future by leveraging compound interest and modern technology for optimal wealth growth."
 ---
 

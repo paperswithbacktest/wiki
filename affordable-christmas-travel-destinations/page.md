@@ -1,5 +1,5 @@
 ---
-title: "Affordable Christmas Travel Destinations (Algo Trading)"
+title: "Affordable Christmas Travel Destinations"
 description: "Discover budget-friendly Christmas travel destinations and smart money-saving strategies. Enhance your holiday budget with algorithmic trading to maximize festive enjoyment."
 ---
 

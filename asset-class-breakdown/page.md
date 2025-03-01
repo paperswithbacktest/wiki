@@ -1,5 +1,5 @@
 ---
-title: "Asset Class Breakdown (Algo Trading)"
+title: "Asset Class Breakdown"
 description: "Discover the strategic allocation of asset classes in portfolio management and the transformative role of algorithmic trading for enhancing investment performance."
 ---
 

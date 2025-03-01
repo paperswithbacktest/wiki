@@ -1,5 +1,5 @@
 ---
-title: "Cheap Intelligence for Financial Markets (Algo Trading)"
+title: "Cheap Intelligence for Financial Markets"
 description: "Unlock the potential of algo trading with cost-effective solutions that enhance efficiency and access to financial markets for both retail and institutional investors."
 ---
 

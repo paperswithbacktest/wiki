@@ -1,5 +1,5 @@
 ---
-title: "Deep reinforcement learning for trading (Algo Trading)"
+title: "Deep reinforcement learning for trading"
 description: "Explore cutting-edge deep reinforcement learning for algorithmic trading Discover adaptive strategies that leverage AI to optimize financial market analysis and decision-making"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comprehensive Guide to Game Theory (Algo Trading)"
+title: "Comprehensive Guide to Game Theory"
 description: "Explore the synergy between algorithmic trading and game theory strategies. Learn how these key concepts shape trading tactics and enhance market prediction."
 ---
 

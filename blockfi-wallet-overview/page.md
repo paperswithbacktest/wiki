@@ -1,5 +1,5 @@
 ---
-title: "BlockFi Wallet Overview (Algo Trading)"
+title: "BlockFi Wallet Overview"
 description: "Explore BlockFi Wallet's innovative financial services including crypto wallets and algorithmic trading Learn how BlockFi bridges traditional finance with modern crypto."
 ---
 

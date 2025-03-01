@@ -1,5 +1,5 @@
 ---
-title: "Heterodox Economics and Orthodox Comparison (Algo Trading)"
+title: "Heterodox Economics and Orthodox Comparison"
 description: "Explore the contrasting realms of heterodox and orthodox economics, examining diverse theories and their implications on algorithmic trading strategies."
 ---
 

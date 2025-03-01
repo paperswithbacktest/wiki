@@ -1,5 +1,5 @@
 ---
-title: "Impact Investing: Balancing Social Good and Profit (Algo Trading)"
+title: "Impact Investing: Balancing Social Good and Profit"
 description: "Explore the synergy of impact investing and algorithmic trading combining financial returns with social and environmental benefits for a sustainable future."
 ---
 

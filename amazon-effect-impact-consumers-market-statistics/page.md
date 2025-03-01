@@ -1,5 +1,5 @@
 ---
-title: "Amazon Effect: Impact on Consumers and Market Statistics (Algo Trading)"
+title: "Amazon Effect: Impact on Consumers and Market Statistics"
 description: "Explore the Amazon Effect and its transformative impact on consumer behavior and market dynamics, from reshaping expectations to driving growth in ecommerce."
 ---
 

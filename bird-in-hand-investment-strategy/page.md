@@ -1,5 +1,5 @@
 ---
-title: "Bird In Hand as an Investment Strategy (Algo Trading)"
+title: "Bird In Hand as an Investment Strategy"
 description: "Explore the Bird in Hand Theory as an investment strategy emphasizing preference for stable dividends over capital gains, shaping modern investor behavior."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Fade in Finance: Concepts, Examples, and Trading Strategies (Algo Trading)"
+title: "Fade in Finance: Concepts, Examples, and Trading Strategies"
 description: "Explore the contrarian world of fade trading Learn strategies examples and insights into how traders profit by bucking market trends using algorithmic methods"
 ---
 

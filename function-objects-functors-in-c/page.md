@@ -1,5 +1,5 @@
 ---
-title: "Function Objects (Functors) in C++ (Algo Trading)"
+title: "Function Objects (Functors) in C++"
 description: Explore how functors enhance C++ code optimization for algorithmic trading by offering modularity and state retention. Functors, as function objects, empower developers to encapsulate strategy logic and maintain data across function calls, ensuring efficiency and code clarity essential for high-frequency trading.
 ---
 

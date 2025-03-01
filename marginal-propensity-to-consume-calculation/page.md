@@ -1,5 +1,5 @@
 ---
-title: "Marginal Propensity to Consume Calculation (Algo Trading)"
+title: "Marginal Propensity to Consume Calculation"
 description: "Explore the integration of Marginal Propensity to Consume in algorithmic trading discover its economic impact on consumer behavior and market trends analysis."
 ---
 

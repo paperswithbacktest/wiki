@@ -1,5 +1,5 @@
 ---
-title: "Financial Intermediation (Algo Trading)"
+title: "Financial Intermediation"
 description: "Explore the roles of financial intermediaries and algorithmic trading in modern finance Examine their impact on market liquidity and economic growth."
 ---
 

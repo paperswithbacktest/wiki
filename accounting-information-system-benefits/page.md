@@ -1,5 +1,5 @@
 ---
-title: "Accounting Information System and Its Benefits (Algo Trading)"
+title: "Accounting Information System and Its Benefits"
 description: "Explore the benefits of integrating Accounting Information Systems with algo trading to optimize financial data management streamline operations and enhance decision-making."
 ---
 

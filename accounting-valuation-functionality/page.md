@@ -1,5 +1,5 @@
 ---
-title: "Accounting Valuation and Functionality (Algo Trading)"
+title: "Accounting Valuation and Functionality"
 description: "Explore accounting valuation's role in finance and algorithmic trading Learn how valuation methods guide assessing assets and shaping data-driven trading strategies"
 ---
 

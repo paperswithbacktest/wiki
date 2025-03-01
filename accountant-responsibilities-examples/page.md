@@ -1,5 +1,5 @@
 ---
-title: "Accountant Responsibilities and Examples (Algo Trading)"
+title: "Accountant Responsibilities and Examples"
 description: "Explore the evolving role of accountants in financial technology with a focus on algorithmic trading Discover how technology integration reshapes accounting duties"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Collateralized Mortgage Obligation Versus Collateralized Bond Obligation (Algo Trading)"
+title: "Collateralized Mortgage Obligation Versus Collateralized Bond Obligation"
 description: "Explore the intricate dynamics of CMOs and CBOs amid the rise of algorithmic trading, revealing how these elements optimize financial market efficiency and investor returns."
 ---
 

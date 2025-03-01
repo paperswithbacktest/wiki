@@ -1,5 +1,5 @@
 ---
-title: "Legality of Short Selling by Country (Algo Trading)"
+title: "Legality of Short Selling by Country"
 description: "Explore the legal landscape of short selling and algorithmic trading across countries Learn about regulations aimed at maintaining market stability and fairness"
 ---
 

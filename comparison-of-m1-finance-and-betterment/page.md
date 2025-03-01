@@ -1,5 +1,5 @@
 ---
-title: "Comparison of M1 Finance and Betterment (Algo Trading)"
+title: "Comparison of M1 Finance and Betterment"
 description: "Explore the key differences between M1 Finance and Betterment in algo trading Understand their features user experiences fees and investment options to decide which suits your needs"
 ---
 

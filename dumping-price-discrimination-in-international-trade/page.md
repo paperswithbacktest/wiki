@@ -1,5 +1,5 @@
 ---
-title: "Dumping: Price Discrimination in International Trade (Algo Trading)"
+title: "Dumping: Price Discrimination in International Trade"
 description: "Explore the intricacies of international trade through the lens of price discrimination and dumping. These practices influence markets by varying prices across regions, often leading to competitive advantages and challenges. Algorithmic trading further reshapes trade dynamics, enhancing efficiency but raising ethical concerns. Understand the legal and strategic implications of these practices on global trade and how they impact industry competition and regulatory environments."
 ---
 

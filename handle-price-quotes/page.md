@@ -1,5 +1,5 @@
 ---
-title: "Handle in Price Quotes (Algo Trading)"
+title: "Handle in Price Quotes"
 description: "Understand handles and price quotes in algo trading to optimize strategies and make informed decisions in dynamic financial markets through precision and speed."
 ---
 

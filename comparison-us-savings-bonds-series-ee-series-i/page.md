@@ -1,5 +1,5 @@
 ---
-title: "Comparison of U.S. Savings Bonds: Series EE and Series I (Algo Trading)"
+title: "Comparison of U.S. Savings Bonds: Series EE and Series I"
 description: "Compare Series EE and Series I U.S. Savings Bonds with insights on their benefits for stable investing plus the impact of digital innovations and algo trading."
 ---
 

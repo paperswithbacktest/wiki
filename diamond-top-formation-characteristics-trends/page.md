@@ -1,5 +1,5 @@
 ---
-title: "Diamond Top Formation: Characteristics and Trends (Algo Trading)"
+title: "Diamond Top Formation: Characteristics and Trends"
 description: "Explore the diamond top formation in trading, a vital pattern for identifying trend reversals. Enhance your trading strategies with technical analysis insights."
 ---
 

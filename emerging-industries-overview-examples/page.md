@@ -1,5 +1,5 @@
 ---
-title: "Emerging Industries: Overview and Examples (Algo Trading)"
+title: "Emerging Industries: Overview and Examples"
 description: "Explore how emerging industries like algorithmic trading and AI are transforming global markets with innovative technologies, driving economic growth and opportunities."
 ---
 

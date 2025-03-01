@@ -1,5 +1,5 @@
 ---
-title: "Impact of Average Collection Period on Cash Flow (Algo Trading)"
+title: "Impact of Average Collection Period on Cash Flow"
 description: "Discover how managing the average collection period optimizes cash flow in algo trading ensuring liquidity, operational flexibility, and financial efficiency."
 ---
 

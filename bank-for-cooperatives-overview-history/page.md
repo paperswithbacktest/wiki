@@ -1,5 +1,5 @@
 ---
-title: "Bank for Cooperatives: Overview and History (Algo Trading)"
+title: "Bank for Cooperatives: Overview and History"
 description: "Explore the evolving role of the Bank for Cooperatives within the Farm Credit System and its integration of algorithmic trading for enhanced financial strategies."
 ---
 

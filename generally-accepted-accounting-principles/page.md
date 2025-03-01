@@ -1,5 +1,5 @@
 ---
-title: "Generally Accepted Accounting Principles (Algo Trading)"
+title: "Generally Accepted Accounting Principles"
 description: "Explore the vital connection between GAAP accounting standards and algorithmic trading for accurate financial reporting and enhanced market transparency."
 ---
 

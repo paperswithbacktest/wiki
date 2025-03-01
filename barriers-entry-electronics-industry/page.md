@@ -1,5 +1,5 @@
 ---
-title: "Barriers to Entry in the Electronics Industry (Algo Trading)"
+title: "Barriers to Entry in the Electronics Industry"
 description: "Explore the intricacies of entering the electronics and algorithmic trading industries. Discover the high capital costs, technical expertise, and strategic planning needed."
 ---
 

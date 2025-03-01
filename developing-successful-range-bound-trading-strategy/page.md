@@ -1,5 +1,5 @@
 ---
-title: "Developing a Successful Range-Bound Trading Strategy (Algo Trading)"
+title: "Developing a Successful Range-Bound Trading Strategy"
 description: "Develop a successful range-bound trading strategy by leveraging algorithmic trading techniques. Automate decisions to capitalize on market cycles with precision."
 ---
 

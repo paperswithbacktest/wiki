@@ -1,5 +1,5 @@
 ---
-title: "Fiscal Multiplier: Overview and Applications (Algo Trading)"
+title: "Fiscal Multiplier: Overview and Applications"
 description: "Explore the fiscal multiplier's crucial role in macroeconomics and its impact on GDP through government fiscal spending. Understand its roots in Keynesian economics, analyzing how changes in government expenditure and taxation influence economic activity. Discover its application in modern financial tools like algorithmic trading to enhance market prediction and policy-making effectiveness. This article provides an in-depth look at theoretical and practical aspects of the fiscal multiplier, its historical uses, and its significance in navigating economic crises and fostering growth."
 ---
 

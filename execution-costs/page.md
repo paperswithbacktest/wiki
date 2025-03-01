@@ -1,5 +1,5 @@
 ---
-title: "Execution costs (Algo Trading)"
+title: "Execution costs"
 description: Algorithmic trading has revolutionized the financial industry by allowing high-speed trade executions using advanced algorithms and machine learning. However, managing execution costs, including brokerage fees, taxes, slippage, and market impact, remains a significant challenge for maintaining profitability. These costs, both explicit and implicit, can erode potential profits if not effectively managed. Understanding their impact on trading strategies and implementing methods to reduce these costs are crucial for optimizing trading outcomes and ensuring the viability of strategies in live markets.
 ---
 

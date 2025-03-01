@@ -1,5 +1,5 @@
 ---
-title: "MACD Histogram Explained (Algo Trading)"
+title: "MACD Histogram Explained"
 description: Understand the MACD histogram strategy for algorithmic trading, a key tool for identifying market momentum and reversals. Learn how the strategy interprets histogram divergence between MACD and signal lines to predict price changes. Discover how traders use this strategy for ETFs, optimizing returns by adjusting thresholds and observation periods to fit market conditions, ultimately enhancing trading decisions with data-driven insights.
 ---
 

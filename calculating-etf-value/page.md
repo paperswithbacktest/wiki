@@ -1,5 +1,5 @@
 ---
-title: "Calculating ETF Value (Algo Trading)"
+title: "Calculating ETF Value"
 description: "Learn how to accurately value ETFs with insights into Net Asset Value NAV calculations market price dynamics and the role of algorithmic trading."
 ---
 

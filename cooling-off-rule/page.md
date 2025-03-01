@@ -1,5 +1,5 @@
 ---
-title: "Cooling-Off Rule (Algo Trading)"
+title: "Cooling-Off Rule"
 description: "Explore the significance of cooling-off periods in consumer protection and algorithmic trading highlighting their role in safeguarding against impulsive financial decisions."
 ---
 

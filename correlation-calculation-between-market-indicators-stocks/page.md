@@ -1,5 +1,5 @@
 ---
-title: "Correlation Calculation Between Market Indicators and Stocks (Algo Trading)"
+title: "Correlation Calculation Between Market Indicators and Stocks"
 description: "Explore the critical role of correlation between market indicators and stocks in algorithmic trading to enhance predictive accuracy, risk assessment, and strategies."
 ---
 

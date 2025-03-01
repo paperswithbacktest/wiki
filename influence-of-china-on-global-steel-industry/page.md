@@ -1,5 +1,5 @@
 ---
-title: "Influence of China on the Global Steel Industry (Algo Trading)"
+title: "Influence of China on the Global Steel Industry"
 description: "Explore how China shapes the global steel market as the top producer and consumer plus the role of algorithmic trading in navigating market complexities."
 ---
 

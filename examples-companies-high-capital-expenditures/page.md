@@ -1,5 +1,5 @@
 ---
-title: "Examples of Companies with High Capital Expenditures (Algo Trading)"
+title: "Examples of Companies with High Capital Expenditures"
 description: "Discover how high capital expenditure (CapEx) leaders like Alphabet and Amazon leverage investments in technology and infrastructure to maintain industry dominance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Impact of Stock Splits on Investments (Algo Trading)"
+title: "Impact of Stock Splits on Investments"
 description: "Explore how stock splits and algorithmic trading influence stock market investments understanding their impact on trading volume liquidity and shareholder value."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Perpetual and Periodic Inventory Systems (Algo Trading)"
+title: "Comparison of Perpetual and Periodic Inventory Systems"
 description: "Explore the key differences between periodic and perpetual inventory systems, essential for optimizing inventory management and boosting trading strategies."
 ---
 

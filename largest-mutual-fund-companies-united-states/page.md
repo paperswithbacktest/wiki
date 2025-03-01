@@ -1,5 +1,5 @@
 ---
-title: "Largest Mutual Fund Companies in the United States (Algo Trading)"
+title: "Largest Mutual Fund Companies in the United States"
 description: "Explore the largest mutual fund companies in the US like BlackRock Vanguard and Charles Schwab and understand how algorithmic trading is transforming investments"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Inelastic Goods: Characteristics and Examples (Algo Trading)"
+title: "Inelastic Goods: Characteristics and Examples"
 description: "Discover the characteristics and examples of inelastic goods in economics Learn how price variations impact demand and influence trading strategies"
 ---
 

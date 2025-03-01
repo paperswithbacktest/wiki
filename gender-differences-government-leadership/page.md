@@ -1,5 +1,5 @@
 ---
-title: "Gender Differences in Government Leadership (Algo Trading)"
+title: "Gender Differences in Government Leadership"
 description: "Explore the nexus of gender equality in government and the impact of algorithmic trading on financial markets uncovering trends shaping today's socio-political landscape."
 ---
 

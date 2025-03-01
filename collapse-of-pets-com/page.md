@@ -1,5 +1,5 @@
 ---
-title: "Collapse of Pets.com (Algo Trading)"
+title: "Collapse of Pets.com"
 description: "Explore the rise and fall of Pets.com during the dot-com bubble highlighting the impact of speculative trading and flawed business models in tech startups."
 ---
 

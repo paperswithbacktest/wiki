@@ -1,5 +1,5 @@
 ---
-title: "Exercising Options on Expiration Date (Algo Trading)"
+title: "Exercising Options on Expiration Date"
 description: "Explore the intricacies of options trading with a focus on expiration dates and algorithmic techniques Learn how mastery of these concepts can enhance returns"
 ---
 

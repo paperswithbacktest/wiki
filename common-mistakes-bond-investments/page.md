@@ -1,5 +1,5 @@
 ---
-title: "Common Mistakes in Bond Investments (Algo Trading)"
+title: "Common Mistakes in Bond Investments"
 description: "Explore common pitfalls in bond investments and algorithmic trading Understand interest rate risk inflation and credit risks for better financial decision-making"
 ---
 

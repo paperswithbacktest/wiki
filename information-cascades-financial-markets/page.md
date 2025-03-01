@@ -1,5 +1,5 @@
 ---
-title: "Information Cascades in Financial Markets (Algo Trading)"
+title: "Information Cascades in Financial Markets"
 description: "Explore the complexities of information cascades in financial markets and their impact on algorithmic trading Learn how herd behavior influences market trends"
 ---
 

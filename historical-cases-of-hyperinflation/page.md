@@ -1,5 +1,5 @@
 ---
-title: "Historical Cases of Hyperinflation (Algo Trading)"
+title: "Historical Cases of Hyperinflation"
 description: "Explore historical hyperinflation cases and the innovative role of algorithmic trading in managing economic volatility and crafting resilient financial strategies."
 ---
 

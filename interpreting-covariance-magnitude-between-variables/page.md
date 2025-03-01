@@ -1,5 +1,5 @@
 ---
-title: "Interpreting Covariance Magnitude Between Variables (Algo Trading)"
+title: "Interpreting Covariance Magnitude Between Variables"
 description: "Explore the significance of covariance and correlation in algo trading to enhance strategies and risk management. Learn to interpret these key statistical tools."
 ---
 

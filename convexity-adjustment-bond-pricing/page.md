@@ -1,5 +1,5 @@
 ---
-title: "Convexity Adjustment in Bond Pricing (Algo Trading)"
+title: "Convexity Adjustment in Bond Pricing"
 description: "Explore bond pricing with a focus on convexity adjustment, a crucial element in algorithmic trading that enhances price accuracy amid interest rate shifts."
 ---
 

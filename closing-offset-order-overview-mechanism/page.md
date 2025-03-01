@@ -1,5 +1,5 @@
 ---
-title: "Closing Offset Order: Overview and Mechanism (Algo Trading)"
+title: "Closing Offset Order: Overview and Mechanism"
 description: "Explore the significance and mechanics of Closing Offset Orders in algorithmic trading focusing on how they ensure smooth market closure and enhance trading efficiency."
 ---
 

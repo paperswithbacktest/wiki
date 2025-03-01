@@ -1,5 +1,5 @@
 ---
-title: "Constant Yield Method Overview and Calculation (Algo Trading)"
+title: "Constant Yield Method Overview and Calculation"
 description: "Explore how the constant yield method and algorithmic trading strategies merge to enhance investment returns with precise yield calculations and rapid executions."
 ---
 

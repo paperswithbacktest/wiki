@@ -1,5 +1,5 @@
 ---
-title: "Accounting Insolvency: Overview and Case Studies (Algo Trading)"
+title: "Accounting Insolvency: Overview and Case Studies"
 description: "Explore accounting insolvency in the context of algo trading with this insightful analysis featuring real-world case studies to understand financial distress risks."
 ---
 

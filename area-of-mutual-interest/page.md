@@ -1,5 +1,5 @@
 ---
-title: "Area of Mutual Interest (Algo Trading)"
+title: "Area of Mutual Interest"
 description: "Explore how collaboration and mutual interests shape algorithmic trading strategies to optimize efficiency and performance in today's dynamic financial markets."
 ---
 

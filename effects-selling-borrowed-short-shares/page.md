@@ -1,5 +1,5 @@
 ---
-title: "Effects of Selling Borrowed Short Shares (Algo Trading)"
+title: "Effects of Selling Borrowed Short Shares"
 description: "Explore the effects of selling borrowed short shares through algorithmic trading. This article discusses potential profit, risks, and integration into portfolios."
 ---
 

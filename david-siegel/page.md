@@ -1,5 +1,5 @@
 ---
-title: "David Siegel (Algo Trading)"
+title: "David Siegel"
 description: David Siegel is a key figure in computer science and entrepreneurship, known for his significant impact on algorithmic trading. As co-founder and co-chairman of Two Sigma, Siegel has revolutionized modern finance through the use of data science and technology, establishing the firm as a leader in the field. His journey from a young tech prodigy to a pioneer in the financial industry highlights his ability to combine technology and finance, shaping the future of these industries with innovative, data-driven investment strategies.
 ---
 

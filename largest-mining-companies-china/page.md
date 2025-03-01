@@ -1,5 +1,5 @@
 ---
-title: "Largest Mining Companies in China (Algo Trading)"
+title: "Largest Mining Companies in China"
 description: "Explore the impact of China's largest mining companies as they lead global markets and integrate algorithmic trading to optimize efficiency and sustainability."
 ---
 

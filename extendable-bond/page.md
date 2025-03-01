@@ -1,5 +1,5 @@
 ---
-title: "Extendable Bond (Algo Trading)"
+title: "Extendable Bond"
 description: "Explore the dynamic world of extendable bonds and algorithmic trading Discover how these financial innovations shape today's bond investment strategies and trends"
 ---
 

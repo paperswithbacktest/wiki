@@ -1,5 +1,5 @@
 ---
-title: "Convertible Virtual Currency (Algo Trading)"
+title: "Convertible Virtual Currency"
 description: "Explore the intricacies of cryptocurrencies and algorithmic trading Discover insights into digital asset investment strategies and the evolving financial landscape."
 ---
 

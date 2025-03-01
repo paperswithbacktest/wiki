@@ -1,5 +1,5 @@
 ---
-title: "Capital Note: Function and Role in Fixed Income Trading (Algo Trading)"
+title: "Capital Note: Function and Role in Fixed Income Trading"
 description: "Explore the function and role of capital notes in fixed income trading and how algorithmic strategies transform this complex market for investors and traders."
 ---
 

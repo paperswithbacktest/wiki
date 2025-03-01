@@ -1,5 +1,5 @@
 ---
-title: "Fighting the Tape: Mechanics and Examples (Algo Trading)"
+title: "Fighting the Tape: Mechanics and Examples"
 description: "Explore the contrarian strategy of "fighting the tape" in algorithmic trading. Learn how to navigate market trends with informed decisions for potential rewards."
 ---
 

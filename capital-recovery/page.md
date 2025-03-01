@@ -1,5 +1,5 @@
 ---
-title: "Capital Recovery (Algo Trading)"
+title: "Capital Recovery"
 description: "Explore capital recovery in investment strategies using financial analysis and algorithmic trading to maximize returns and minimize risks smartly and efficiently."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin Misery Index (Algo Trading)"
+title: "Bitcoin Misery Index"
 description: "Discover the power of the Bitcoin Misery Index in algorithmic trading to optimize strategies with market sentiment insights for informed cryptocurrency investments."
 ---
 

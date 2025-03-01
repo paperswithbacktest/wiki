@@ -1,5 +1,5 @@
 ---
-title: "Locating a BIPOC Financial Advisor or Planner (Algo Trading)"
+title: "Locating a BIPOC Financial Advisor or Planner"
 description: "Discover the importance of finding BIPOC financial advisors and understand how diversity in finance boosts innovation, equity, and better client relations."
 ---
 

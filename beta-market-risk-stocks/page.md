@@ -1,5 +1,5 @@
 ---
-title: "Beta and Market Risk of Stocks (Algo Trading)"
+title: "Beta and Market Risk of Stocks"
 description: "Explore market risk beta and algorithmic trading to understand stock volatility improve risk management and enhance trading strategies through technology."
 ---
 

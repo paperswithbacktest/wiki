@@ -1,5 +1,5 @@
 ---
-title: "Economic Sociology (Algo Trading)"
+title: "Economic Sociology"
 description: "Explore how economic sociology views algorithmic trading through a social lens examining how embeddedness and relational dynamics influence modern markets."
 ---
 

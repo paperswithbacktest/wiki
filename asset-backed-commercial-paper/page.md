@@ -1,5 +1,5 @@
 ---
-title: "Asset-Backed Commercial Paper (Algo Trading)"
+title: "Asset-Backed Commercial Paper"
 description: "Explore asset-backed commercial paper and its role in short-term financing Discover how algorithmic trading impacts these securities and enhances market efficiency"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "McClellan Oscillator: Function and Interpretation (Algo Trading)"
+title: "McClellan Oscillator: Function and Interpretation"
 description: "Explore the McClellan Oscillator and its role in algo trading Unlock market sentiment insights Gauge momentum and predict reversals with this tool"
 ---
 

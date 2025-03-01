@@ -1,5 +1,5 @@
 ---
-title: "Buying a Spread: Meaning, Function, and Benefits (Algo Trading)"
+title: "Buying a Spread: Meaning, Function, and Benefits"
 description: "Explore spread trading and algorithmic trading strategies to boost returns and manage risks effectively through market inefficiencies in modern finance."
 ---
 

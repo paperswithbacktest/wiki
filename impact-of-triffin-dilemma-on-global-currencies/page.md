@@ -1,5 +1,5 @@
 ---
-title: "Impact of the Triffin Dilemma on Global Currencies (Algo Trading)"
+title: "Impact of the Triffin Dilemma on Global Currencies"
 description: "Explore how the Triffin Dilemma influences global currencies and algorithmic trading revealing their impact on international finance and economic stability."
 ---
 

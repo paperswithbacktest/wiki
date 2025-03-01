@@ -1,5 +1,5 @@
 ---
-title: "List of Largest Trucking Companies (Algo Trading)"
+title: "List of Largest Trucking Companies"
 description: "Explore the global impact of leading trucking companies and how algorithmic trading is transforming financial strategies in this essential industry sector."
 ---
 

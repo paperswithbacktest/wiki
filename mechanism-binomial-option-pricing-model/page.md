@@ -1,5 +1,5 @@
 ---
-title: "Mechanism of the Binomial Option Pricing Model (Algo Trading)"
+title: "Mechanism of the Binomial Option Pricing Model"
 description: "Explore the in-depth mechanics of the binomial option pricing model, a pivotal method used in algorithmic trading for evaluating options. This model stands out for its simplicity and adaptability, providing traders with a discrete-time framework to estimate option prices based on potential future asset price movements. Ideal for both American and European options, the binomial model aids in strategic decision-making and optimizing trading strategies in dynamic market environments."
 ---
 

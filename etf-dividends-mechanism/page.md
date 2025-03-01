@@ -1,5 +1,5 @@
 ---
-title: "ETF Dividends Mechanism (Algo Trading)"
+title: "ETF Dividends Mechanism"
 description: "Explore how dividends, ETFs, and algorithmic trading intertwine to enhance returns and manage risks while optimizing modern investment strategies effectively."
 ---
 

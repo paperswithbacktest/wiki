@@ -1,5 +1,5 @@
 ---
-title: "Business Models by Industry (Algo Trading)"
+title: "Business Models by Industry"
 description: "Explore the transformative role of algorithmic trading in finance, uncovering core business models, strategic planning, and the impact of technology and regulations."
 ---
 

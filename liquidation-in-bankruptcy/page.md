@@ -1,5 +1,5 @@
 ---
-title: "Liquidation in Bankruptcy (Algo Trading)"
+title: "Liquidation in Bankruptcy"
 description: "Explore the intersection of bankruptcy and algorithmic trading to understand financial distress management and adapt trading strategies amid market volatility."
 ---
 

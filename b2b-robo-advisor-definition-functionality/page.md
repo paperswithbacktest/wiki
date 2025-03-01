@@ -1,5 +1,5 @@
 ---
-title: "B2B Robo-Advisor: Definition And Functionality (Algo Trading)"
+title: "B2B Robo-Advisor: Definition And Functionality"
 description: "Explore how B2B robo-advisors redefine financial management with tailored algorithmic trading solutions helping businesses leverage data for strategic growth."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Inventory Accounting: Overview and Benefits (Algo Trading)"
+title: "Inventory Accounting: Overview and Benefits"
 description: "Explore how inventory accounting integrates with algorithmic trading to improve financial decision-making and performance. Discover benefits and challenges."
 ---
 

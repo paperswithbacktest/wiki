@@ -1,5 +1,5 @@
 ---
-title: "Market Value Adjustment of Fixed Assets (Algo Trading)"
+title: "Market Value Adjustment of Fixed Assets"
 description: "Enhance your asset valuation accuracy with algorithmic trading technologies Explore how market value adjustments impact financial transparency and decision-making."
 ---
 

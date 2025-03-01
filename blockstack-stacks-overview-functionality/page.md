@@ -1,5 +1,5 @@
 ---
-title: "Blockstack and Stacks: Overview and Functionality (Algo Trading)"
+title: "Blockstack and Stacks: Overview and Functionality"
 description: "Discover how Stacks and Blockstack enhance blockchain's functionality with Bitcoin integration smart contracts and dApps offering algo trading opportunities."
 ---
 

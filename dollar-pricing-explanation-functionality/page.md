@@ -1,5 +1,5 @@
 ---
-title: "Dollar Pricing: Explanation and Functionality (Algo Trading)"
+title: "Dollar Pricing: Explanation and Functionality"
 description: "Explore the role of the U.S. dollar in global finance and how algorithmic trading influences currency exchange rates, aiding traders in navigating market dynamics."
 ---
 

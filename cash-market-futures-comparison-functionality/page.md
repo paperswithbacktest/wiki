@@ -1,5 +1,5 @@
 ---
-title: "Cash Market and Futures: Comparison and Functionality (Algo Trading)"
+title: "Cash Market and Futures: Comparison and Functionality"
 description: "Understand the differences and functionalities between cash and futures markets, and how algorithmic trading revolutionizes trading efficiency in these arenas."
 ---
 

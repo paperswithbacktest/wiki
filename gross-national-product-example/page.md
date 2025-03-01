@@ -1,5 +1,5 @@
 ---
-title: "Gross National Product with Example (Algo Trading)"
+title: "Gross National Product with Example"
 description: "Explore how Gross National Product impacts algo trading by understanding its role in assessing a country's economic health and influencing trading strategies."
 ---
 

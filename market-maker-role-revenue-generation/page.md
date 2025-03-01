@@ -1,5 +1,5 @@
 ---
-title: "Market Maker: Role and Revenue Generation (Algo Trading)"
+title: "Market Maker: Role and Revenue Generation"
 description: "Explore the roles of market makers and algorithmic trading in modern finance. Discover how they enhance liquidity, efficiency, and market stability."
 ---
 

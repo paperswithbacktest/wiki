@@ -1,5 +1,5 @@
 ---
-title: "Big Mac Index: Overview, Calculations, and Disadvantages (Algo Trading)"
+title: "Big Mac Index: Overview, Calculations, and Disadvantages"
 description: "Explore the Big Mac Index to understand purchasing power parity and currency valuation. Learn its impact on trading strategies and unveil its inherent limitations."
 ---
 

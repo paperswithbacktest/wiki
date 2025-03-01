@@ -1,5 +1,5 @@
 ---
-title: "Digital Ruble: Functionality, History, and Objectives (Algo Trading)"
+title: "Digital Ruble: Functionality, History, and Objectives"
 description: "Explore the digital ruble's role in Russia's economy as a central bank digital currency CBDC. Learn how it impacts transactions, inclusion, and financial systems."
 ---
 

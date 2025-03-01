@@ -1,5 +1,5 @@
 ---
-title: "Half Stock in Finance (Algo Trading)"
+title: "Half Stock in Finance"
 description: "Explore half stock structures and algorithmic trading strategies to optimize investment portfolios enhance returns and mitigate risks in finance."
 ---
 

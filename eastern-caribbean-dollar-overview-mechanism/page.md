@@ -1,5 +1,5 @@
 ---
-title: "Eastern Caribbean Dollar: Overview and Mechanism (Algo Trading)"
+title: "Eastern Caribbean Dollar: Overview and Mechanism"
 description: "Discover how the Eastern Caribbean Dollar's stability and fixed exchange rate to the US Dollar offers unique opportunities and challenges for algorithmic trading."
 ---
 

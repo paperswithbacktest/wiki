@@ -1,5 +1,5 @@
 ---
-title: "Elves: Characteristics, Roles, and Future Predictions (Algo Trading)"
+title: "Elves: Characteristics, Roles, and Future Predictions"
 description: "Discover how elves transition from myth to market in algo trading. Explore their symbolic traits of foresight and agility reflected in modern finance strategies."
 ---
 

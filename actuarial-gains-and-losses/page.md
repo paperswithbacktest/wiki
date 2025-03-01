@@ -1,5 +1,5 @@
 ---
-title: "Actuarial Gains and Losses (Algo Trading)"
+title: "Actuarial Gains and Losses"
 description: "Explore the interplay between actuarial gains and losses and algorithmic trading in this in-depth article that addresses modern finance dynamics and reporting."
 ---
 

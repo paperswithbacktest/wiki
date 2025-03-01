@@ -1,5 +1,5 @@
 ---
-title: "Bid Bond and Performance Bond Comparison (Algo Trading)"
+title: "Bid Bond and Performance Bond Comparison"
 description: "Explore the roles of bid and performance bonds in construction contracts and the impacts of algo trading in financial markets to understand their convergence."
 ---
 

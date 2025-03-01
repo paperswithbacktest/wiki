@@ -1,5 +1,5 @@
 ---
-title: "Disadvantages of Using Moving Averages (Algo Trading)"
+title: "Disadvantages of Using Moving Averages"
 description: "Explore the potential downsides of using moving averages in algorithmic trading including delayed signals and reduced accuracy in volatile markets."
 ---
 

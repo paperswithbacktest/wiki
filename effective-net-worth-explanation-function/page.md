@@ -1,5 +1,5 @@
 ---
-title: "Effective Net Worth: Explanation and Function (Algo Trading)"
+title: "Effective Net Worth: Explanation and Function"
 description: "Explore how understanding net worth, financial literacy, and algo trading can improve financial health and prosperity with actionable strategies for growth."
 ---
 

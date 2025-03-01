@@ -1,5 +1,5 @@
 ---
-title: "Elizabeth Warren's Economic Policy: Transformation and Reform (Algo Trading)"
+title: "Elizabeth Warren's Economic Policy: Transformation and Reform"
 description: "Explore how Elizabeth Warren's economic policy aims to transform financial markets with robust consumer protection, financial regulations, and ensuring market equity."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Hikkake Pattern Overview and Examples (Algo Trading)"
+title: "Hikkake Pattern Overview and Examples"
 description: "Discover the Hikkake pattern a unique trading formation signaling market reversals or trends Learn to identify and leverage it for algorithmic trading success"
 ---
 

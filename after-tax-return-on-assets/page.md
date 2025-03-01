@@ -1,5 +1,5 @@
 ---
-title: "After-Tax Return on Assets (Algo Trading)"
+title: "After-Tax Return on Assets"
 description: "Explore ROA and After-Tax ROA in algorithmic trading to identify companies efficiently using assets, enhancing investment decisions and trading strategy effectiveness."
 ---
 

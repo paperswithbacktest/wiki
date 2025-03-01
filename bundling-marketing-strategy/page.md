@@ -1,5 +1,5 @@
 ---
-title: "Bundling as a Marketing Strategy (Algo Trading)"
+title: "Bundling as a Marketing Strategy"
 description: "Explore how product bundling paired with algorithmic trading can boost business efficiency enhance customer satisfaction and uncover hidden sales patterns."
 ---
 

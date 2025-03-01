@@ -1,5 +1,5 @@
 ---
-title: "Coefficient of Variation: Explanation and Applications (Algo Trading)"
+title: "Coefficient of Variation: Explanation and Applications"
 description: "Explore how the coefficient of variation and data variability enhance algorithmic trading by assessing risk-reward ratios and improving trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bonnie Van Ness (Algo Trading)"
+title: "Bonnie Van Ness"
 description: "Explore Bonnie Van Ness's journey in finance education and algorithmic trading research Delve into her academic achievements and contributions to market insights"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Asset-Based Approach: Calculations and Adjustments (Algo Trading)"
+title: "Asset-Based Approach: Calculations and Adjustments"
 description: "Discover advanced calculations and adjustments in asset-based approaches within algorithmic trading. Explore how tech transforms trading and asset evaluation."
 ---
 

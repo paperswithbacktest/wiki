@@ -1,5 +1,5 @@
 ---
-title: "Economic Effects of an Inverted Yield Curve (Algo Trading)"
+title: "Economic Effects of an Inverted Yield Curve"
 description: "Explore the economic implications of an inverted yield curve, a critical indicator within the bond market that signals potential downturns. Historically associated with recessions, this phenomenon impacts investor behavior, financial markets, and lending practices. Discover how algorithmic trading strategies are leveraged to navigate these complex market conditions."
 ---
 

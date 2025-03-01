@@ -1,5 +1,5 @@
 ---
-title: "Economic Leakage and Examples (Algo Trading)"
+title: "Economic Leakage and Examples"
 description: "Explore economic leakage within economics and algorithmic trading to understand its impact on monetary flow and model evaluations, ensuring robust strategies."
 ---
 

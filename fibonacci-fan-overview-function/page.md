@@ -1,5 +1,5 @@
 ---
-title: "Fibonacci Fan: Overview and Function (Algo Trading)"
+title: "Fibonacci Fan: Overview and Function"
 description: "Explore the foundational aspects and algorithmic integration of Fibonacci Fans in trading. Learn how these tools enhance precision in identifying key market levels."
 ---
 

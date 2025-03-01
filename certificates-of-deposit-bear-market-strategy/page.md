@@ -1,5 +1,5 @@
 ---
-title: "Certificates of Deposit as a Bear Market Strategy (Algo Trading)"
+title: "Certificates of Deposit as a Bear Market Strategy"
 description: "Mitigate bear market risks with Certificates of Deposit and algorithmic trading for a balanced investment strategy that offers stability and opportunities."
 ---
 

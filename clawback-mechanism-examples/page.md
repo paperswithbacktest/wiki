@@ -1,5 +1,5 @@
 ---
-title: "Clawback Mechanism and Examples (Algo Trading)"
+title: "Clawback Mechanism and Examples"
 description: "Explore the significance of compensation clawbacks in finance and algorithmic trading as mechanisms for risk mitigation and aligning executive interests with company goals."
 ---
 

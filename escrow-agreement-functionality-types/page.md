@@ -1,5 +1,5 @@
 ---
-title: "Escrow Agreement: Functionality and Types (Algo Trading)"
+title: "Escrow Agreement: Functionality and Types"
 description: "Explore the significance of escrow agreements in secure transactions from real estate to algorithmic trading Learn how they ensure compliance and protect assets"
 ---
 

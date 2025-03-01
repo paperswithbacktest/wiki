@@ -1,5 +1,5 @@
 ---
-title: "Managed Money (Algo Trading)"
+title: "Managed Money"
 description: "Explore managed funds and algorithmic trading as they reshape investment strategies with professional management and automated trade precision for optimal returns."
 ---
 

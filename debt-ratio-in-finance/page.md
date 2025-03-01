@@ -1,5 +1,5 @@
 ---
-title: "Debt Ratio in Finance (Algo Trading)"
+title: "Debt Ratio in Finance"
 description: "Explore the connection between debt ratios and algorithmic trading, focusing on financial leverage metrics essential for risk assessment and strategic trading decisions in modern finance."
 ---
 

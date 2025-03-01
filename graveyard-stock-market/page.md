@@ -1,5 +1,5 @@
 ---
-title: "Graveyard Stock Market (Algo Trading)"
+title: "Graveyard Stock Market"
 description: "Explore the impact of algorithmic trading and financial downturns on stock market dynamics and investment strategies in today's volatile landscape."
 ---
 

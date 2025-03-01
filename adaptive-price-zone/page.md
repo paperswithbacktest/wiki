@@ -1,5 +1,5 @@
 ---
-title: "Adaptive Price Zone (Algo Trading)"
+title: "Adaptive Price Zone"
 description: "Explore the Adaptive Price Zone indicator a valuable tool for identifying potential market reversals in volatile conditions ideal for traders seeking dynamic strategies."
 ---
 

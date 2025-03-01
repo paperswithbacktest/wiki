@@ -1,5 +1,5 @@
 ---
-title: "Difference Between Authorized and Outstanding Shares (Algo Trading)"
+title: "Difference Between Authorized and Outstanding Shares"
 description: "Explore the critical distinctions between authorized and outstanding shares in stock trading for better corporate management strategy and informed investment decisions."
 ---
 

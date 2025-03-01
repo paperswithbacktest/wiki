@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Hurdle Rate and Internal Rate of Return (Algo Trading)"
+title: "Comparison of Hurdle Rate and Internal Rate of Return"
 description: "Discover the differences between hurdle rate and IRR in algorithmic trading and how they optimize investment strategies for enhanced financial outcomes"
 ---
 

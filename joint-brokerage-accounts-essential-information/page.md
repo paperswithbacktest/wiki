@@ -1,5 +1,5 @@
 ---
-title: "Joint Brokerage Accounts: Essential Information (Algo Trading)"
+title: "Joint Brokerage Accounts: Essential Information"
 description: "Discover the benefits of joint brokerage accounts in pooling resources for shared financial goals while leveraging algorithmic trading to enhance investment strategies."
 ---
 

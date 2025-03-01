@@ -1,5 +1,5 @@
 ---
-title: "Dividend ETF: Overview and Functionality (Algo Trading)"
+title: "Dividend ETF: Overview and Functionality"
 description: "Explore the benefits of Dividend ETFs and algorithmic trading to optimize income-focused investments. Learn how modern technology enhances market strategies."
 ---
 

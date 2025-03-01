@@ -1,5 +1,5 @@
 ---
-title: "Incremental Capital Output Ratio (ICOR) (Algo Trading)"
+title: "Incremental Capital Output Ratio (ICOR)"
 description: "Discover how the Incremental Capital Output Ratio (ICOR) influences investment efficiency and economic growth in algorithmic trading strategies."
 ---
 

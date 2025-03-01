@@ -1,5 +1,5 @@
 ---
-title: "Calculating Stock Value with the Gordon Growth Model in Excel (Algo Trading)"
+title: "Calculating Stock Value with the Gordon Growth Model in Excel"
 description: "Learn how to use the Gordon Growth Model in Excel for calculating stock value and enhancing algorithmic trading strategies. Perfect for traders and analysts."
 ---
 

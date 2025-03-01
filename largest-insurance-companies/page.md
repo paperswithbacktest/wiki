@@ -1,5 +1,5 @@
 ---
-title: "List of Largest Insurance Companies (Algo Trading)"
+title: "List of Largest Insurance Companies"
 description: "Explore the impact of algorithmic trading on leading insurance companies, enhancing risk management and investment efficiency amidst global economic shifts."
 ---
 

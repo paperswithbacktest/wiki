@@ -1,5 +1,5 @@
 ---
-title: "Five Rings (Algo Trading)"
+title: "Five Rings"
 description: "Discover how Five Rings utilizes advanced algorithmic trading to enhance speed, efficiency, and precision in modern financial markets, staying ahead in the industry."
 ---
 

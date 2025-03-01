@@ -1,5 +1,5 @@
 ---
-title: "Currency Substitution: Types and Risks (Algo Trading)"
+title: "Currency Substitution: Types and Risks"
 description: "Explore the complexities of currency substitution in global finance Learn about its types and risks alongside the impacts of monetary policy and algo trading"
 ---
 

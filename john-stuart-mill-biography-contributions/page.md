@@ -1,5 +1,5 @@
 ---
-title: "John Stuart Mill: Biography and Contributions (Algo Trading)"
+title: "John Stuart Mill: Biography and Contributions"
 description: "Explore how John Stuart Mill's utilitarian philosophy intersects with algorithmic trading to foster ethical practices while maximizing societal welfare in modern finance."
 ---
 

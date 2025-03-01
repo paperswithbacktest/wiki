@@ -1,5 +1,5 @@
 ---
-title: "Indicated Yield: Overview and Limitations (Algo Trading)"
+title: "Indicated Yield: Overview and Limitations"
 description: "Explore the importance of indicated yield as a forward-looking metric in finance Learn how algorithmic trading combines with yield metrics to optimize investment performance"
 ---
 

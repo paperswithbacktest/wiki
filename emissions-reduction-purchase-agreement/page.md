@@ -1,5 +1,5 @@
 ---
-title: "Emissions Reduction Purchase Agreement (Algo Trading)"
+title: "Emissions Reduction Purchase Agreement"
 description: "Explore Emissions Reduction Purchase Agreements ERPAs and their role in carbon credit trading to incentivize greenhouse gas reductions through algorithmic trading solutions."
 ---
 

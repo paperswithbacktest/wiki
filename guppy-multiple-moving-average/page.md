@@ -1,5 +1,5 @@
 ---
-title: "Guppy Multiple Moving Average Explained (Algo Trading)"
+title: "Guppy Multiple Moving Average Explained"
 description: Discover the power of the Guppy Multiple Moving Average (GMMA) in algorithmic trading as we explore its role in identifying market breakouts and trends. This article investigates into the functions and effectiveness of the GMMA, a tool using short-term and long-term exponential moving averages to refine entry and exit strategies. Gain insights into the GMMA's computation and strategic application, and learn how it balances the nuances of market movements to enhance trading precision and success.
 
 ---

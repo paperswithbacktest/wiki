@@ -1,5 +1,5 @@
 ---
-title: "Core Bond Funds: Top Options for Long-Term Investors (Algo Trading)"
+title: "Core Bond Funds: Top Options for Long-Term Investors"
 description: "Discover top core bond funds for long-term growth and stability Learn how algorithmic trading enhances returns and mitigates risk Explore diverse bond strategies"
 ---
 

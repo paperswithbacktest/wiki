@@ -1,5 +1,5 @@
 ---
-title: "Biothermal Energy: Overview and Applications (Algo Trading)"
+title: "Biothermal Energy: Overview and Applications"
 description: "Explore biothermal energy and its synergy with algorithmic trading in the energy sector Discover how this integration enhances efficiency and sustainability"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Credit Spread Options: Mechanism and Types (Algo Trading)"
+title: "Credit Spread Options: Mechanism and Types"
 description: "Explore the mechanics and types of credit spread options in algorithmic trading Discover strategies to manage risk and maximize income in modern financial markets"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Delivered Ex Ship (DES) vs. DAT and DAP (Algo Trading)"
+title: "Delivered Ex Ship (DES) vs. DAT and DAP"
 description: "Explore the nuances of Delivered Ex Ship DES versus DAT and DAP in algorithmic trading to refine delivery strategies and enhance trade execution efficiency."
 ---
 

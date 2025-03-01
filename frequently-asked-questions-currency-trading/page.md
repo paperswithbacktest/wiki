@@ -1,5 +1,5 @@
 ---
-title: "Frequently Asked Questions About Currency Trading (Algo Trading)"
+title: "Frequently Asked Questions About Currency Trading"
 description: "Discover the essentials of Forex trading and algorithmic strategies their benefits and risks. Enhance your understanding of this dynamic trading environment."
 ---
 

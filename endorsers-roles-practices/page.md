@@ -1,5 +1,5 @@
 ---
-title: "Endorsers: Roles and Practices (Algo Trading)"
+title: "Endorsers: Roles and Practices"
 description: "Explore how marketing endorsers bridge algorithmic trading technologies with users enhancing market reach through strategic engagement and impactful branding."
 ---
 

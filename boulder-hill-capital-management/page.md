@@ -1,5 +1,5 @@
 ---
-title: "Boulder Hill Capital Management (Algo Trading)"
+title: "Boulder Hill Capital Management"
 description: "Discover Boulder Hill Capital Management's innovative approach to algorithmic trading established in 2021 by industry veterans focused on risk management and growth."
 ---
 

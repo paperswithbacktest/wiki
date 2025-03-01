@@ -1,5 +1,5 @@
 ---
-title: "Andrew Choi (Algo Trading)"
+title: "Andrew Choi"
 description: "Explore the career of Andrew Choi in algo trading from his early life and education in New Zealand to his impactful contributions in Asia-Pacific markets."
 ---
 

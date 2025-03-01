@@ -1,5 +1,5 @@
 ---
-title: "Annual Budget: Development and Usage (Algo Trading)"
+title: "Annual Budget: Development and Usage"
 description: "Explore the complexities of budget management in algorithmic trading with insights into development, usage, and strategies to navigate financial challenges."
 ---
 

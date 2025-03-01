@@ -1,5 +1,5 @@
 ---
-title: "Financial CHOICE Act Overview (Algo Trading)"
+title: "Financial CHOICE Act Overview"
 description: "The Financial CHOICE Act aimed to streamline financial regulations post-Dodd-Frank affecting areas like algorithmic trading while balancing oversight and innovation."
 ---
 

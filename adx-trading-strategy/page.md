@@ -1,5 +1,5 @@
 ---
-title: "ADX (Average Directional Index) Trading Strategy Explained (Algo Trading)"
+title: "ADX (Average Directional Index) Trading Strategy Explained"
 description: Explore the intricacies of the Average Directional Movement Index (ADX) used in algorithmic trading to evaluate market trend strength. Developed by J. Welles Wilder Jr., this indicator aids traders by highlighting trend intensity to optimize strategy efficiency. Learn about ADX's components, calculations, and how it can be integrated into trading algorithms for enhanced decision-making in various market conditions. Discover optimal settings for different trading styles by leveraging the ADX to refine your approach.
 ---
 

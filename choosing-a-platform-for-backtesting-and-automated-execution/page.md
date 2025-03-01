@@ -1,5 +1,5 @@
 ---
-title: "Choosing a Platform for Backtesting and Automated Execution (Algo Trading)"
+title: "Choosing a Platform for Backtesting and Automated Execution"
 description: Explore the essential aspects of selecting the best platform for backtesting and automated execution in algo trading. Discover how backtesting, a vital process using historical data, helps validate trading strategies before live deployment. The article reviews top backtesting software, evaluating features, ease of use, cost, and support, to assist traders in optimizing strategy development and informed decision-making in financial markets.
 ---
 

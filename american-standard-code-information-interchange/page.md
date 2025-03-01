@@ -1,5 +1,5 @@
 ---
-title: "American Standard Code for Information Interchange (Algo Trading)"
+title: "American Standard Code for Information Interchange"
 description: "Explore the role of the American Standard Code for Information Interchange ASCII in algorithmic trading systems. Discover how this foundational character encoding system supports efficient data transmission and reduces errors in financial markets despite the rise of Unicode. Learn about ASCII's history and its enduring relevance in facilitating seamless communication in trading environments."
 ---
 

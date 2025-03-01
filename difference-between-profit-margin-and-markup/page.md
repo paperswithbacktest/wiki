@@ -1,5 +1,5 @@
 ---
-title: "Difference Between Profit Margin and Markup (Algo Trading)"
+title: "Difference Between Profit Margin and Markup"
 description: "Explore the essential differences between profit margin and markup for effective pricing strategies in algorithmic trading to optimize profitability decisions."
 ---
 

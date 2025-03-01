@@ -1,5 +1,5 @@
 ---
-title: "Business Interest Expense (Algo Trading)"
+title: "Business Interest Expense"
 description: "Explore how algorithmic trading transforms business finance by optimizing interest expenses and corporate accounting for greater financial efficiency and growth."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Leveraged Buyback: Overview and Significance (Algo Trading)"
+title: "Leveraged Buyback: Overview and Significance"
 description: "Explore the significance of leveraged buybacks in corporate finance and their interplay with algorithmic trading strategies to boost shareholder value and market positioning."
 ---
 

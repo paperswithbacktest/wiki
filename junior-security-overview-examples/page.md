@@ -1,5 +1,5 @@
 ---
-title: "Junior Security: Overview and Examples (Algo Trading)"
+title: "Junior Security: Overview and Examples"
 description: "Explore junior security concepts within cybersecurity and algorithmic trading to understand foundational defenses against cyber threats, ensuring robust data protection."
 ---
 

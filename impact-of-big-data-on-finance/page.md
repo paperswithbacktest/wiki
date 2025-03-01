@@ -1,5 +1,5 @@
 ---
-title: "Impact of Big Data on Finance (Algo Trading)"
+title: "Impact of Big Data on Finance"
 description: "Explore how big data analytics and algorithmic trading revolutionize finance by enhancing decision-making processes optimizing outcomes and mitigating risks."
 ---
 

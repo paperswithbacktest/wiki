@@ -1,5 +1,5 @@
 ---
-title: "Delayed Perpetuity: Concepts and Calculations (Algo Trading)"
+title: "Delayed Perpetuity: Concepts and Calculations"
 description: "Explore the critical role of delayed perpetuity in finance and algorithmic trading understanding its application in creating stable long-term income streams."
 ---
 

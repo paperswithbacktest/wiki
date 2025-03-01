@@ -1,5 +1,5 @@
 ---
-title: "Long-Short Mutual Fund: Overview and Mechanics (Algo Trading)"
+title: "Long-Short Mutual Fund: Overview and Mechanics"
 description: "Explore the mechanics of long-short mutual funds utilizing algorithmic trading to enhance portfolio management by capitalizing on market inefficiencies."
 ---
 

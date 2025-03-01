@@ -1,5 +1,5 @@
 ---
-title: "Differences Between Proven And Unproven Oil Reserves (Algo Trading)"
+title: "Differences Between Proven And Unproven Oil Reserves"
 description: "Explore the critical differences between proven and unproven oil reserves and their significance in energy markets enhanced by algorithmic trading technologies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Debit and Credit Relationship (Algo Trading)"
+title: "Debit and Credit Relationship"
 description: "Explore the crucial role of debits and credits in accounting and their integration with algorithmic trading for optimized trading strategies and accurate record-keeping."
 ---
 

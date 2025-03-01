@@ -1,5 +1,5 @@
 ---
-title: "Current Delivery Practices (Algo Trading)"
+title: "Current Delivery Practices"
 description: "Explore how current delivery practices in logistics leverage algorithmic trading concepts for efficiency enhancing supply chain management with real-time data analysis."
 ---
 

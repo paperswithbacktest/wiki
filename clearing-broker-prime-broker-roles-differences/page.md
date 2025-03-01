@@ -1,5 +1,5 @@
 ---
-title: "Clearing Broker and Prime Broker: Roles and Differences (Algo Trading)"
+title: "Clearing Broker and Prime Broker: Roles and Differences"
 description: "Explore the roles and differences between clearing and prime brokers in algo trading Discover how these entities enhance efficiency and reduce risk in financial markets"
 ---
 

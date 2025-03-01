@@ -1,5 +1,5 @@
 ---
-title: "Inverted Yield Curve (Algo Trading)"
+title: "Inverted Yield Curve"
 description: "Discover how inverted yield curves indicate economic downturns and how algorithmic trading optimizes strategies, providing investors with key insights."
 ---
 

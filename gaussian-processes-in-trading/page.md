@@ -1,5 +1,5 @@
 ---
-title: "Gaussian processes in trading (Algo Trading)"
+title: "Gaussian processes in trading"
 description: "Gaussian processes revolutionize algorithmic trading by enhancing prediction accuracy and quantifying uncertainties, offering traders a competitive advantage in volatile markets."
 ---
 

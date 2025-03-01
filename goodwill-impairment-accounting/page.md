@@ -1,5 +1,5 @@
 ---
-title: "Goodwill Impairment in Accounting (Algo Trading)"
+title: "Goodwill Impairment in Accounting"
 description: "Explore how goodwill impairment impacts accounting and trading strategies by analyzing its effects on financial reporting and the role of algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Fear and Greed Index Overview (Algo Trading)"
+title: "Fear and Greed Index Overview"
 description: "Explore how the Fear and Greed Index influences algorithmic trading by measuring investor sentiment and providing insights into market trends and trading strategies."
 ---
 

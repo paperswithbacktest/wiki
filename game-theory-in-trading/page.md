@@ -1,5 +1,5 @@
 ---
-title: "game theory in trading (Algo Trading)"
+title: "game theory in trading"
 description: "Explore the synergy between game theory and algorithmic trading to enhance decision-making and strategy formulation for competitive market efficiency."
 ---
 

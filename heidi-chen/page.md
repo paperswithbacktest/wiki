@@ -1,5 +1,5 @@
 ---
-title: "Heidi Chen (Algo Trading)"
+title: "Heidi Chen"
 description: "Explore Heidi Chen's journey from a prodigious math talent to a leading figure in algorithmic trading with successful stints at Acadian Asset Management and beyond."
 ---
 

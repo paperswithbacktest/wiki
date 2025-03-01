@@ -1,5 +1,5 @@
 ---
-title: "Equinix Inc. (Algo Trading)"
+title: "Equinix Inc."
 description: "Explore how Equinix enhances algorithmic trading with advanced data center technologies ensuring low latency and improved connectivity across global markets."
 ---
 

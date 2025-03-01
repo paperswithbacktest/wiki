@@ -1,5 +1,5 @@
 ---
-title: "Intrinsic Value in Investing and Business (Algo Trading)"
+title: "Intrinsic Value in Investing and Business"
 description: "Explore business valuation, intrinsic value, and algorithmic trading to make informed investment decisions and adapt to fast-paced financial markets."
 ---
 

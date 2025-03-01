@@ -1,5 +1,5 @@
 ---
-title: "Algorithmic Order Placement (Algo Trading)"
+title: "Algorithmic Order Placement"
 description: "Explore the fundamentals of algorithmic trading to enhance efficiency and profitability in financial markets with automated computer algorithms for traders."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Cash Flow From Investing Activities (Algo Trading)"
+title: "Cash Flow From Investing Activities"
 description: "Explore how investment activities and algorithmic trading impact cash flow dynamics providing insights into financial decision-making and strategy optimization."
 ---
 

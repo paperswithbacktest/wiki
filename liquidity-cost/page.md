@@ -1,5 +1,5 @@
 ---
-title: "liquidity cost (Algo Trading)"
+title: "liquidity cost"
 description: "Learn about liquidity cost in algorithmic trading its impact on strategy profitability and methods to efficiently manage expenses for competitive trading."
 ---
 

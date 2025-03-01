@@ -1,5 +1,5 @@
 ---
-title: "liquidity synchronization (Algo Trading)"
+title: "liquidity synchronization"
 description: "Optimize algorithmic trading strategies with liquidity synchronization aligning trades with market liquidity for efficient execution and enhanced profitability."
 ---
 

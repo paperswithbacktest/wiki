@@ -1,5 +1,5 @@
 ---
-title: "Cboe Global Markets Overview (Algo Trading)"
+title: "Cboe Global Markets Overview"
 description: "Cboe Global Markets leads in algorithmic trading technology fostering innovation and efficiency across financial markets enhancing trading speed and precision."
 ---
 

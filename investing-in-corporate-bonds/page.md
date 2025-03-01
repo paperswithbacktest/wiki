@@ -1,5 +1,5 @@
 ---
-title: "Investing in Corporate Bonds (Algo Trading)"
+title: "Investing in Corporate Bonds"
 description: "Discover how algorithmic trading transforms corporate bond investing by boosting efficiency and liquidity in financial markets. Explore the benefits of automation in reducing transaction costs and enhancing decision-making, alongside understanding key corporate bond features and strategies to optimize investment portfolios."
 ---
 

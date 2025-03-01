@@ -1,5 +1,5 @@
 ---
-title: "Cointegration (Algo Trading)"
+title: "Cointegration"
 description: Explore the significance of cointegration in algorithmic trading, where it identifies long-term relationships between financial assets for profit through mean-reversion strategies. Delve into foundational theories by Granger and Engle, and learn methodologies like the Engle-Granger and Johansen tests for detecting cointegration. Discover practical applications and strategies to enhance trading performance by understanding these statistical concepts.
 ---
 

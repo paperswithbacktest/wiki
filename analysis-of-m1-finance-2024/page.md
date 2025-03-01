@@ -1,5 +1,5 @@
 ---
-title: "Analysis of M1 Finance 2024 (Algo Trading)"
+title: "Analysis of M1 Finance 2024"
 description: "Explore the 2024 advancements of M1 Finance, a leading investment platform that merges manual investing with sophisticated automation. Known for its innovative use of customizable \"Pies\" and \"Slices,\" M1 Finance offers an intuitive approach to portfolio management tailored to individual goals. This year, the emphasis is on algorithmic trading capabilities, aligning with evolving trends in automation. Discover how M1 Finance's features empower both novice and seasoned investors through dynamic rebalancing, cost-effective solutions, and an adaptable fee model, positioning it as a preferred choice in the fintech landscape."
 ---
 

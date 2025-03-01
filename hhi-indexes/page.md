@@ -1,5 +1,5 @@
 ---
-title: "HHI indexes (Algo Trading)"
+title: "HHI indexes"
 description: Discover the significance of the Herfindahl-Hirschman Index (HHI) in algorithmic trading by understanding its role in evaluating market concentration and competition. Explore how HHI informs portfolio diversification and risk assessment strategies, especially within cryptocurrency markets where decentralization varies. Learn how this metric helps optimize trading decisions by providing a quantitative measure of market dynamics, aiding traders to navigate the fast-paced landscape of digital assets effectively.
 ---
 

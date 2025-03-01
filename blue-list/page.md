@@ -1,5 +1,5 @@
 ---
-title: "Blue List (Algo Trading)"
+title: "Blue List"
 description: "Explore the innovative relationship between endangered species conservation and finance with a focus on the Blue List and algorithmic trading strategies."
 ---
 

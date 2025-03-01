@@ -1,5 +1,5 @@
 ---
-title: "Inside Days and Outside Days in Trading (Algo Trading)"
+title: "Inside Days and Outside Days in Trading"
 description: "Explore how inside days and outside days impact trading strategies by offering key insights into market movements and optimizing algorithmic trading efficiency."
 ---
 

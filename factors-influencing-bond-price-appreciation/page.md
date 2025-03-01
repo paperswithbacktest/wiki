@@ -1,5 +1,5 @@
 ---
-title: "Factors Influencing Bond Price Appreciation (Algo Trading)"
+title: "Factors Influencing Bond Price Appreciation"
 description: "Explore how algorithmic trading influences bond price appreciation, considering factors such as interest rates, economic conditions, and investor sentiment."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Center for Research in Security Prices (Algo Trading)"
+title: "Center for Research in Security Prices"
 description: "Explore how the Center for Research in Security Prices (CRSP) transforms financial markets with reliable historical data essential for algo trading and investment analysis."
 ---
 

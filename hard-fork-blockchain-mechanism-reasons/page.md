@@ -1,5 +1,5 @@
 ---
-title: "Hard Fork in Blockchain: Mechanism and Reasons (Algo Trading)"
+title: "Hard Fork in Blockchain: Mechanism and Reasons"
 description: "Explore blockchain hard forks and their impact on crypto algo trading Learn about mechanisms reasons and strategies shaping the digital currency landscape"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Commercial Credit: Overview And Types (Algo Trading)"
+title: "Commercial Credit: Overview And Types"
 description: "Explore the role of commercial credit and algorithmic trading in financial growth Understand how these mechanisms enhance business liquidity and market operations"
 ---
 

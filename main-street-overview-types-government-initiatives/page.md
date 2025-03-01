@@ -1,5 +1,5 @@
 ---
-title: "Main Street: Overview, Types, Government Initiatives (Algo Trading)"
+title: "Main Street: Overview, Types, Government Initiatives"
 description: "Explore the role of Main Street, the diverse types of small businesses, government initiatives, and the growing impact of algorithmic trading in local economies."
 ---
 

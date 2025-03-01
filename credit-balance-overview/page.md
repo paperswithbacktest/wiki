@@ -1,5 +1,5 @@
 ---
-title: "Credit Balance Overview (Algo Trading)"
+title: "Credit Balance Overview"
 description: "Explore the vital roles of accounting terms, credit balances, and algorithmic trading to enhance financial management and strategic planning in modern finance."
 ---
 

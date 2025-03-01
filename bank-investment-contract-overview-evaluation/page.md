@@ -1,5 +1,5 @@
 ---
-title: "Bank Investment Contract: Overview and Evaluation (Algo Trading)"
+title: "Bank Investment Contract: Overview and Evaluation"
 description: "Explore Bank Investment Contracts offering low-risk, stable returns and their integration with algorithmic trading for diversified, resilient portfolios."
 ---
 

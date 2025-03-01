@@ -1,5 +1,5 @@
 ---
-title: "Active Management in Investment (Algo Trading)"
+title: "Active Management in Investment"
 description: "Active management in investment involves strategic asset decisions to surpass benchmarks using market research and analysis Learn the benefits and challenges"
 ---
 

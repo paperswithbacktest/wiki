@@ -1,5 +1,5 @@
 ---
-title: "LedgerX: Cryptocurrency Options Exchange (Algo Trading)"
+title: "LedgerX: Cryptocurrency Options Exchange"
 description: "LedgerX offers a secure and regulated platform for cryptocurrency derivatives trading with advanced algorithmic tools catering to both institutional and retail investors."
 ---
 

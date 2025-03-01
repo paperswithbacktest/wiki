@@ -1,5 +1,5 @@
 ---
-title: "Classified Shares: Definition and Functionality (Algo Trading)"
+title: "Classified Shares: Definition and Functionality"
 description: "Explore classified shares, their rights, and impact on investor control and returns. Learn how they shape algorithmic trading strategies and corporate governance."
 ---
 

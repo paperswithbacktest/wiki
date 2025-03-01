@@ -1,5 +1,5 @@
 ---
-title: "International Chamber of Commerce Activities (Algo Trading)"
+title: "International Chamber of Commerce Activities"
 description: "Explore the pivotal activities of the International Chamber of Commerce in promoting global trade and fostering innovation in algorithmic trading solutions. This article investigates into the ICC's role in establishing trading standards, offering dispute resolution, and integrating advanced trading technologies which together create a stable and efficient international trade environment. With a history of driving economic growth since 1919, the ICC continues to enhance cross-border collaboration, benefiting businesses and economies worldwide."
 ---
 

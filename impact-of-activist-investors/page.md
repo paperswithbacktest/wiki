@@ -1,5 +1,5 @@
 ---
-title: "Impact of Activist Investors (Algo Trading)"
+title: "Impact of Activist Investors"
 description: "Explore how activist investors and algorithmic trading are reshaping finance through tech-driven strategies and shareholder influence in modern investment landscapes."
 ---
 

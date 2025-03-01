@@ -1,5 +1,5 @@
 ---
-title: "Impact of Government Regulation on Privacy-Centric Cryptocurrencies (Algo Trading)"
+title: "Impact of Government Regulation on Privacy-Centric Cryptocurrencies"
 description: "Discover how government regulation impacts privacy-centric cryptocurrencies and what this means for privacy features, financial privacy, and algorithmic trading."
 ---
 

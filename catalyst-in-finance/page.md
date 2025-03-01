@@ -1,5 +1,5 @@
 ---
-title: "Catalyst in Finance (Algo Trading)"
+title: "Catalyst in Finance"
 description: "Discover how algo trading acts as a catalyst in finance, enhancing market efficiency through technological advancements and reshaping global markets."
 ---
 

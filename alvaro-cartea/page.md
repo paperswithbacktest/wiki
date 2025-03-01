@@ -1,5 +1,5 @@
 ---
-title: "Álvaro Cartea (Algo Trading)"
+title: "Álvaro Cartea"
 description: "Explore the illustrious career of Álvaro Cartea in quantitative finance algorithmic trading and academia showcasing his pioneering work at institutions like Oxford."
 ---
 

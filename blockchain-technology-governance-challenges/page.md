@@ -1,5 +1,5 @@
 ---
-title: "Blockchain Technology and Governance Challenges (Algo Trading)"
+title: "Blockchain Technology and Governance Challenges"
 description: "Explore the complexities of blockchain and algorithmic trading including governance and scalability issues that impact their transformative potential in finance."
 ---
 

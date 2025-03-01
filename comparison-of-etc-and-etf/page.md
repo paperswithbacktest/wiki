@@ -1,5 +1,5 @@
 ---
-title: "Comparison of ETC and ETF (Algo Trading)"
+title: "Comparison of ETC and ETF"
 description: "Explore the key differences between ETC and ETF in algorithmic trading Learn how investors use these tools to enhance portfolio diversification and efficiency"
 ---
 

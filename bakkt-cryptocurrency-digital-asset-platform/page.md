@@ -1,5 +1,5 @@
 ---
-title: "Bakkt: Cryptocurrency and Digital Asset Platform (Algo Trading)"
+title: "Bakkt: Cryptocurrency and Digital Asset Platform"
 description: "Explore Bakkt's innovative platform leading the way in digital asset trading with secure custody, algorithmic trading, and strategic partnerships for seamless transactions."
 ---
 

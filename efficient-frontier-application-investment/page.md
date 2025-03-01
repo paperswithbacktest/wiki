@@ -1,5 +1,5 @@
 ---
-title: "Efficient Frontier and Its Application in Investment (Algo Trading)"
+title: "Efficient Frontier and Its Application in Investment"
 description: "Discover how the efficient frontier portfolio optimization and algo trading can enhance investment strategies by maximizing returns and managing risk effectively."
 ---
 

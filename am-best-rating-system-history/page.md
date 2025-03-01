@@ -1,5 +1,5 @@
 ---
-title: "AM Best Rating System and History (Algo Trading)"
+title: "AM Best Rating System and History"
 description: "Explore AM Best's vital role in financial decision-making with its thorough evaluation of insurers. Learn how ratings enhance algorithmic trading strategies."
 ---
 

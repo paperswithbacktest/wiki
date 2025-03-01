@@ -1,5 +1,5 @@
 ---
-title: "Guinean Franc: Overview and Mechanism (Algo Trading)"
+title: "Guinean Franc: Overview and Mechanism"
 description: "Explore the role of the Guinean Franc in Guinea’s economy and the transformative impact of algorithmic trading on currency markets in emerging economies."
 ---
 

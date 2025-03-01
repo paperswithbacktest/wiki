@@ -1,5 +1,5 @@
 ---
-title: "Investment Analysis of the Utilities Sector (Algo Trading)"
+title: "Investment Analysis of the Utilities Sector"
 description: "Explore the impact of algorithmic trading on investments in the utilities sector including renewable energy trends and data-driven strategies for optimal returns."
 ---
 

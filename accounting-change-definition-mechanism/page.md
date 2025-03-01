@@ -1,5 +1,5 @@
 ---
-title: "Accounting Change: Definition and Mechanism (Algo Trading)"
+title: "Accounting Change: Definition and Mechanism"
 description: "Discover the mechanism of accounting changes in the evolving world of finance and algorithmic trading and how they impact financial reporting and investment decisions."
 ---
 

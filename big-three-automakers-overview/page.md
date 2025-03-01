@@ -1,5 +1,5 @@
 ---
-title: "Big Three Automakers Overview (Algo Trading)"
+title: "Big Three Automakers Overview"
 description: "Explore the impact of algorithmic trading on the market capitalizations of the Big Three US automakers General Motors, Ford, and Stellantis in today's evolving auto industry."
 ---
 

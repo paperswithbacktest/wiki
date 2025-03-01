@@ -1,5 +1,5 @@
 ---
-title: "International Commodities Clearing House (Algo Trading)"
+title: "International Commodities Clearing House"
 description: "Explore the evolution of the International Commodities Clearing House and its transition to the London Clearing House as it adapts to algorithmic trading."
 ---
 

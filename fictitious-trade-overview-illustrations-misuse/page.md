@@ -1,5 +1,5 @@
 ---
-title: "Fictitious Trade: Overview, Illustrations, and Misuse (Algo Trading)"
+title: "Fictitious Trade: Overview, Illustrations, and Misuse"
 description: "Explore the complexities of algorithmic trading including fictitious trades that manipulate market perception and undermine financial integrity. This article provides insights into improper practices and the need for robust regulatory frameworks to maintain a secure trading environment while examining real-world examples of these deceptive tactics."
 ---
 

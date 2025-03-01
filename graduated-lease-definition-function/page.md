@@ -1,5 +1,5 @@
 ---
-title: "Graduated Lease: Definition and Function (Algo Trading)"
+title: "Graduated Lease: Definition and Function"
 description: "Explore the intricacies of graduated leases in real estate and their surprising link to algorithmic trading for strategic and informed investment decisions."
 ---
 

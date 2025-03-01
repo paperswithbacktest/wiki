@@ -1,5 +1,5 @@
 ---
-title: "Let Your Profits Run: Concept and Application (Algo Trading)"
+title: "Let Your Profits Run: Concept and Application"
 description: "Explore the concept of letting profits run in algorithmic trading to maximize returns by understanding historical strategies and modern techniques for optimal investing."
 ---
 

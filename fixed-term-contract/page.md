@@ -1,5 +1,5 @@
 ---
-title: "Fixed-Term Contract (Algo Trading)"
+title: "Fixed-Term Contract"
 description: "Discover how fixed-term contracts align with the dynamic nature of algorithmic trading providing specialized expertise and cost-effective workforce solutions for project goals."
 ---
 

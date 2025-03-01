@@ -1,5 +1,5 @@
 ---
-title: "Cash Flow After Taxes: Formula and Example (Algo Trading)"
+title: "Cash Flow After Taxes: Formula and Example"
 description: "Explore how CFAT enhances algorithmic trading strategies by merging financial health insights with trading precision improving investment decisions in real time."
 ---
 

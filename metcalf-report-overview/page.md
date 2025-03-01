@@ -1,5 +1,5 @@
 ---
-title: "Metcalf Report Overview (Algo Trading)"
+title: "Metcalf Report Overview"
 description: "Explore the enduring relevance of the 1976 Metcalf Report in today's algorithmic trading landscape highlighting ongoing regulatory challenges and market implications."
 ---
 

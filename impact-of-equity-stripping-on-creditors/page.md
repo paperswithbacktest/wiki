@@ -1,5 +1,5 @@
 ---
-title: "Impact of Equity Stripping on Creditors (Algo Trading)"
+title: "Impact of Equity Stripping on Creditors"
 description: "Explore equity stripping and algorithmic trading to safeguard assets, with strategies that optimize investment returns while considering ethical and legal facets."
 ---
 

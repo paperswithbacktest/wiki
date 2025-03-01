@@ -1,5 +1,5 @@
 ---
-title: "Implied Volatility in Options and Calendar Spreads (Algo Trading)"
+title: "Implied Volatility in Options and Calendar Spreads"
 description: "Explore the power of implied volatility in options trading and calendar spreads learn how algorithmic trading enhances strategy execution for optimal gains"
 ---
 

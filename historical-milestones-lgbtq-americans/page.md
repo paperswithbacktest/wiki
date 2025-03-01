@@ -1,5 +1,5 @@
 ---
-title: "Historical Milestones of LGBTQ+ Americans (Algo Trading)"
+title: "Historical Milestones of LGBTQ+ Americans"
 description: "Explore the pivotal milestones of LGBTQ+ history alongside the transformative impact of algorithmic trading on finance in shaping modern American society."
 ---
 

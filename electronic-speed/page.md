@@ -1,5 +1,5 @@
 ---
-title: "Electronic Speed (Algo Trading)"
+title: "Electronic Speed"
 description: "Explore the world of algorithmic trading with eSpeed a leading platform in electronic bond trading offering high-speed efficient transactions with Nasdaq OMX."
 ---
 

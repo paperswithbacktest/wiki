@@ -1,5 +1,5 @@
 ---
-title: "Industries Where Average Collection Period Is Significant (Algo Trading)"
+title: "Industries Where Average Collection Period Is Significant"
 description: "Explore the significance of the average collection period in industries like banking and healthcare along with the transformative impact of algorithmic trading."
 ---
 

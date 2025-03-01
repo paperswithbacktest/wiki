@@ -1,5 +1,5 @@
 ---
-title: "Counter Currency: Definition and Examples (Algo Trading)"
+title: "Counter Currency: Definition and Examples"
 description: "Explore counter currency in forex trading and the impact of algorithmic trading on market dynamics with examples that enhance trading efficiency."
 ---
 

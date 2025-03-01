@@ -1,5 +1,5 @@
 ---
-title: "Economic Factors Leading to World War II (Algo Trading)"
+title: "Economic Factors Leading to World War II"
 description: "Explore the economic factors that led to World War II including the impacts of the Treaty of Versailles and the Great Depression on global conflict dynamics."
 ---
 

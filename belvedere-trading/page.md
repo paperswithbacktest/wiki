@@ -1,5 +1,5 @@
 ---
-title: "Belvedere Trading (Algo Trading)"
+title: "Belvedere Trading"
 description: "Discover Belvedere Trading a leader in algorithmic trading known for its innovative strategies and technology-driven approach to market-making."
 ---
 

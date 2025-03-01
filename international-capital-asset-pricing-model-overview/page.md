@@ -1,5 +1,5 @@
 ---
-title: "Overview of the International Capital Asset Pricing Model (Algo Trading)"
+title: "Overview of the International Capital Asset Pricing Model"
 description: "Explore the International Capital Asset Pricing Model for algorithmic trading to understand how it extends CAPM to address exchange rate risks in global markets."
 ---
 

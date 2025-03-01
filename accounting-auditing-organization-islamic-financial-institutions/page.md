@@ -1,5 +1,5 @@
 ---
-title: "Accounting and Auditing Organization for Islamic Financial Institutions (Algo Trading)"
+title: "Accounting and Auditing Organization for Islamic Financial Institutions"
 description: "Explore the challenges and innovations in Islamic finance with AAOIFI's role in standardizing financial practices while integrating ethical algorithmic trading."
 ---
 

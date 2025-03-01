@@ -1,5 +1,5 @@
 ---
-title: "Inclusion of Depreciation and Amortization in Gross Profit (Algo Trading)"
+title: "Inclusion of Depreciation and Amortization in Gross Profit"
 description: "Explore the integration of depreciation and amortization into gross profit for enhanced cost management in algorithmic trading. Learn key financial strategies today."
 ---
 

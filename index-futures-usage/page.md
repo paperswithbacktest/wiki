@@ -1,5 +1,5 @@
 ---
-title: "Index Futures Usage (Algo Trading)"
+title: "Index Futures Usage"
 description: "Explore the fusion of index futures and algorithmic trading shaping modern financial markets by enabling advanced strategies for risk management and efficient trade execution."
 ---
 

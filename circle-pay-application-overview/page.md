@@ -1,5 +1,5 @@
 ---
-title: "Circle Pay Application Overview (Algo Trading)"
+title: "Circle Pay Application Overview"
 description: "Explore the synergy of Circle Pay and algorithmic trading as they revolutionize financial transactions with blockchain security and efficiency in real-time fund management."
 ---
 

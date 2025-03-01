@@ -1,5 +1,5 @@
 ---
-title: "Dual and Multiple Exchange Rate Systems (Algo Trading)"
+title: "Dual and Multiple Exchange Rate Systems"
 description: "Explore the nuances of dual and multiple exchange rate systems and how algorithmic trading navigates these complexities to seize profitable opportunities."
 ---
 

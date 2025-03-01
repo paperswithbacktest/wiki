@@ -1,5 +1,5 @@
 ---
-title: "Larry Hite: A Trading Legend (Algo Trading)"
+title: "Larry Hite: A Trading Legend"
 description: Explore the revolutionary legacy of Larry Hite in algorithmic trading. Recognized for his pioneering risk management techniques and systematic methodologies, Hite's work has fundamentally shaped modern trading strategies. Discover how his innovative approach continues to influence contemporary trading practices by prioritizing data-driven decisions and protecting capital over speculative gains, establishing a benchmark in the financial markets.
 ---
 

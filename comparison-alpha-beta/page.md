@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Alpha and Beta (Algo Trading)"
+title: "Comparison of Alpha and Beta"
 description: "Explore the critical differences between alpha and beta in algorithmic trading to enhance your investment strategies. This page provides an insightful comparison of these key metrics, vital for assessing performance and risk in complex financial markets. Alpha focuses on the excess return over a benchmark, highlighting the added value of active management. In contrast, beta measures an asset's market sensitivity, essential for gauging systematic risk and volatility. Understand how to leverage alpha and beta for optimizing trading strategies, managing risk, and improving financial outcomes."
 ---
 

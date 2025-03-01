@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Spin-Offs and IPOs (Algo Trading)"
+title: "Comparison of Spin-Offs and IPOs"
 description: "Explore the differences between IPOs and spinoffs in algorithmic trading Discover their unique pathways objectives and impacts on companies and investors"
 ---
 

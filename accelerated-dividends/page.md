@@ -1,5 +1,5 @@
 ---
-title: "Accelerated Dividends (Algo Trading)"
+title: "Accelerated Dividends"
 description: "Explore the strategic significance of accelerated dividends and how algorithmic trading enhances dividend strategies for optimizing investment returns."
 ---
 

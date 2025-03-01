@@ -1,5 +1,5 @@
 ---
-title: "Impact of Cognitive Bias on Business (Algo Trading)"
+title: "Impact of Cognitive Bias on Business"
 description: "Explore how cognitive biases affect business decisions and algorithmic trading. Discover ways to mitigate these biases for improved strategic outcomes."
 ---
 

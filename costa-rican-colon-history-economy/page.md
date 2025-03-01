@@ -1,5 +1,5 @@
 ---
-title: "Costa Rican Colón: Overview, History, and Economic Role (Algo Trading)"
+title: "Costa Rican Colón: Overview, History, and Economic Role"
 description: "Explore the impact of algorithmic trading on the Costa Rican Colón and economy as technology reshapes finance and traditional economic models in Costa Rica."
 ---
 

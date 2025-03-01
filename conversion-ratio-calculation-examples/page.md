@@ -1,5 +1,5 @@
 ---
-title: "Conversion Ratio Calculation and Examples (Algo Trading)"
+title: "Conversion Ratio Calculation and Examples"
 description: "Discover how to calculate conversion ratios and rates in algo trading. Enhance your trading strategies with practical examples and algorithmic insights."
 ---
 

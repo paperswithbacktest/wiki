@@ -1,5 +1,5 @@
 ---
-title: "Chinese Depositary Receipts: Overview and Functionality (Algo Trading)"
+title: "Chinese Depositary Receipts: Overview and Functionality"
 description: "Explore the functionality of Chinese Depositary Receipts which enable foreign equity trading on Chinese exchanges aligning global markets with China's financial system."
 ---
 

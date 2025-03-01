@@ -1,5 +1,5 @@
 ---
-title: "Investment Strategies Based on Time Horizons (Algo Trading)"
+title: "Investment Strategies Based on Time Horizons"
 description: "Explore investment strategies aligned with various time horizons including value and growth investing and understand how algorithmic trading enhances decision-making."
 ---
 

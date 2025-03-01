@@ -1,5 +1,5 @@
 ---
-title: "Comparison of ETFs and ETNs (Algo Trading)"
+title: "Comparison of ETFs and ETNs"
 description: "Explore the nuances of ETFs and ETNs in algorithmic trading Discover how these investment tools differ in benefits risks and usage for informed financial decisions"
 ---
 

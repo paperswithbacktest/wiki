@@ -1,5 +1,5 @@
 ---
-title: "Collar Options Strategy (Algo Trading)"
+title: "Collar Options Strategy"
 description: "Discover the synergy between collar options strategy and algorithmic trading to optimize risk management and decision-making in evolving financial markets."
 ---
 

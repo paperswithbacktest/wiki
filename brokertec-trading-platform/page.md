@@ -1,5 +1,5 @@
 ---
-title: "BrokerTec Trading Platform (Algo Trading)"
+title: "BrokerTec Trading Platform"
 description: "Explore BrokerTec's cutting-edge trading platform for fixed income and FX markets featuring advanced algorithmic tools under the CME Group's innovation."
 ---
 

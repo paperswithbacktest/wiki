@@ -1,5 +1,5 @@
 ---
-title: "Currency Pairs With High Spread-to-Pip Potential for Day Trading (Algo Trading)"
+title: "Currency Pairs With High Spread-to-Pip Potential for Day Trading"
 description: "Optimize day trading strategies with insights on currency pairs that offer high spread-to-pip potential. Learn about forex spreads to boost trading efficiency."
 ---
 

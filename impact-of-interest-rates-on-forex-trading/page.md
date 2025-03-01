@@ -1,5 +1,5 @@
 ---
-title: "Impact of Interest Rates on Forex Trading (Algo Trading)"
+title: "Impact of Interest Rates on Forex Trading"
 description: "Explore the impact of interest rates on Forex trading with insights into how algorithmic trading transforms strategies. Learn to navigate currency market shifts."
 ---
 

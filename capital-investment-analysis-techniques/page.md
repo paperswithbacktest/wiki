@@ -1,5 +1,5 @@
 ---
-title: "Capital Investment Analysis and Techniques (Algo Trading)"
+title: "Capital Investment Analysis and Techniques"
 description: "Unlock the complexities of modern investing with insights on capital investment strategies and algorithmic trading techniques to optimize financial returns."
 ---
 

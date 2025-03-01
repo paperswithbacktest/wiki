@@ -1,5 +1,5 @@
 ---
-title: "Economic Indicators of Canada (Algo Trading)"
+title: "Economic Indicators of Canada"
 description: "Explore Canada's economic indicators including GDP, employment, CPI, and more, and discover how algorithmic trading utilizes these metrics to optimize financial strategies."
 ---
 

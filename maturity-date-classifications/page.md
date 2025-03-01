@@ -1,5 +1,5 @@
 ---
-title: "Maturity Date and Its Classifications (Algo Trading)"
+title: "Maturity Date and Its Classifications"
 description: "Discover the significance of maturity dates in investments and algorithmic trading Learn how these key financial concepts influence strategies and maximize returns."
 ---
 

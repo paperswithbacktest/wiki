@@ -1,5 +1,5 @@
 ---
-title: "CHIPS UID in Fintech (Algo Trading)"
+title: "CHIPS UID in Fintech"
 description: "Explore the key role of CHIPS UID and algorithmic trading in fintech advancing secure, efficient, data-driven processes transforming modern financial markets."
 ---
 

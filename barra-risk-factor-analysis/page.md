@@ -1,5 +1,5 @@
 ---
-title: "Barra Risk Factor Analysis (Algo Trading)"
+title: "Barra Risk Factor Analysis"
 description: "Explore Barra Risk Factor Analysis a key tool in algorithmic trading that optimizes portfolio allocations by dissecting complex risks and enhancing investment strategies."
 ---
 
