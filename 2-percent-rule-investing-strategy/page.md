@@ -28,7 +28,7 @@ $$
 
 ## How does the 2% Rule apply to different types of investments?
 
-The 2% Rule can be used for different types of investments, not just stocks and forex. For example, if you are investing in real estate, you could use the 2% Rule to decide how much money to put into one property. If your total investment money is $100,000, you would only spend $2,000 on one property. This helps you spread your risk and not lose too much if one investment does not do well.
+The 2% Rule can be used for different types of investments, not just stocks and [forex](/wiki/forex-system). For example, if you are investing in real estate, you could use the 2% Rule to decide how much money to put into one property. If your total investment money is $100,000, you would only spend $2,000 on one property. This helps you spread your risk and not lose too much if one investment does not do well.
 
 The rule can also be applied to other types of investments like mutual funds or bonds. If you have $50,000 to invest, you would only put $1,000 into one mutual fund or bond. This way, if the value of that fund or bond goes down, you won't lose a big part of your money. Using the 2% Rule helps you keep your investments safe and grow your money slowly over time.
 

@@ -21,7 +21,7 @@ Investing fully in equities can offer some compelling upsides. First, there’s 
 
 ## What risks come with a 100% equities portfolio?
 
-A 100% equities portfolio comes with some real risks you can’t ignore. The big one is volatility—stock markets can swing hard, and with no bonds or cash to soften the blow, your portfolio takes the full hit during crashes. Think 20%, 30%, or even 50% drops in bad years; that’s not rare historically. There’s also no safety net—diversification across asset classes can cushion losses, but here, you’re all in on stocks, so a broad market downturn tanks everything. Timing matters too; if you need to pull money out during a dip, you’re locked into selling low. And while equities tend to grow long-term, short-term losses can test your nerves or derail plans if your horizon isn’t as long as you thought. It’s a high-stakes ride.
+A 100% equities portfolio comes with some real risks you can’t ignore. The big one is [volatility](/wiki/volatility-trading-strategies)—stock markets can swing hard, and with no bonds or cash to soften the blow, your portfolio takes the full hit during crashes. Think 20%, 30%, or even 50% drops in bad years; that’s not rare historically. There’s also no safety net—diversification across asset classes can cushion losses, but here, you’re all in on stocks, so a broad market downturn tanks everything. Timing matters too; if you need to pull money out during a dip, you’re locked into selling low. And while equities tend to grow long-term, short-term losses can test your nerves or derail plans if your horizon isn’t as long as you thought. It’s a high-stakes ride.
 
 ## How does a 100% equities strategy differ from a diversified portfolio?
 
@@ -37,7 +37,7 @@ Historical returns of equities are the backbone of the 100% equities strategy—
 
 ## What role does time horizon play in a 100% equities approach?
 
-Time horizon is the make-or-break factor in a 100% equities approach. The longer you’ve got—think 20, 30, or 40 years—the better it works, because stocks can be a rollercoaster, but historically, they trend up over decades. A long runway lets you weather crashes and capitalize on recovery, turning volatility into a non-issue. If your horizon’s short, say 5 years or less, you’re rolling the dice— a market drop could hit right when you need the cash, forcing you to sell low. The strategy thrives on patience; it’s about giving compounding returns time to snowball. Without that buffer, the risk skyrockets, and the whole logic falls apart. Time’s your shock absorber.
+Time horizon is the make-or-break [factor](/wiki/factor-investing) in a 100% equities approach. The longer you’ve got—think 20, 30, or 40 years—the better it works, because stocks can be a rollercoaster, but historically, they trend up over decades. A long runway lets you weather crashes and capitalize on recovery, turning volatility into a non-issue. If your horizon’s short, say 5 years or less, you’re rolling the dice— a market drop could hit right when you need the cash, forcing you to sell low. The strategy thrives on patience; it’s about giving compounding returns time to snowball. Without that buffer, the risk skyrockets, and the whole logic falls apart. Time’s your shock absorber.
 
 ## How can an investor manage volatility in a 100% equities portfolio?
 
@@ -45,7 +45,7 @@ Managing volatility in a 100% equities portfolio is less about dodging it and mo
 
 ## What asset allocation options exist within a 100% equities strategy?
 
-Within a 100% equities strategy, asset allocation isn’t about mixing stocks with bonds or cash—it’s about how you divvy up the stock pile itself. You could go all-in on a broad market index, like an S&P 500 fund, for maximum spread across big U.S. companies. Or split it by sector—say, tech, healthcare, energy—chasing growth or hedging against a single industry tanking. There’s also geographic flavor: U.S. stocks, international developed markets, or emerging markets for different risk-reward vibes. You might tilt toward growth stocks for upside or value stocks for stability-ish. Small-cap, mid-cap, or large-cap splits offer another lever—small-caps can boom but flop harder. Dividends matter too—some prioritize high-yield stocks for cash flow. It’s all stocks, just sliced different ways.
+Within a 100% equities strategy, asset allocation isn’t about mixing stocks with bonds or cash—it’s about how you divvy up the stock pile itself. You could go all-in on a broad market index, like an S&P 500 fund, for maximum spread across big U.S. companies. Or split it by sector—say, tech, healthcare, energy—chasing growth or hedging against a single industry tanking. There’s also geographic flavor: U.S. stocks, international developed markets, or emerging markets for different risk-reward vibes. You might tilt toward [growth stocks](/wiki/growth-stocks) for upside or value stocks for stability-ish. Small-cap, mid-cap, or large-cap splits offer another lever—small-caps can boom but flop harder. Dividends matter too—some prioritize high-yield stocks for cash flow. It’s all stocks, just sliced different ways.
 
 ## How do taxes and fees impact a 100% equities investment?
 

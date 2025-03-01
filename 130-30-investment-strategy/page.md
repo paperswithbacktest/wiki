@@ -80,7 +80,7 @@ But leverage can also make things worse if your stock picks don't do well. If th
 
 ## Can you provide a real-world example of a successful 130-30 strategy?
 
-One real-world example of a successful 130-30 strategy was used by a hedge fund called AQR Capital Management. They managed to beat the market by using this strategy smartly. AQR picked stocks they thought would do well and bought them with 100% of their money. Then, they borrowed an extra 30% to buy even more of those good stocks. At the same time, they short sold stocks they thought would go down in value. By doing this, they made money from both the stocks that went up and the ones that went down.
+One real-world example of a successful 130-30 strategy was used by a [hedge fund](/wiki/hedge-fund-trading-strategies) called AQR Capital Management. They managed to beat the market by using this strategy smartly. AQR picked stocks they thought would do well and bought them with 100% of their money. Then, they borrowed an extra 30% to buy even more of those good stocks. At the same time, they short sold stocks they thought would go down in value. By doing this, they made money from both the stocks that went up and the ones that went down.
 
 Their success came from carefully choosing which stocks to buy and which to short sell. AQR used a lot of research and data to make their choices. This helped them make more money than they would have if they just bought stocks with their own money. Their 130-30 strategy showed that, when done right, it can lead to better returns than regular investing.
 

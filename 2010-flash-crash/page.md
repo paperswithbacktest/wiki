@@ -35,7 +35,7 @@ After the crash, people realized they needed to change the rules to make the sto
 
 Algorithmic trading, especially high-frequency trading, played a big role in the 2010 Flash Crash. This type of trading uses computers to buy and sell stocks very quickly, often in fractions of a second. On May 6, 2010, a large sell order for a certain type of stock was placed. This order was so big that it triggered other computers to start selling their stocks too. They thought the price was going to drop even more, so they wanted to sell before the price went down. This started a chain reaction, making the prices drop very fast and causing the crash.
 
-After the crash, people learned that algorithmic trading needed to be watched more closely. The fast trading by computers made the market go crazy in just 36 minutes. New rules were made to slow down high-frequency trading and to stop big sell orders from causing such big problems. These changes helped to make the market more stable and less likely to crash like that again. The 2010 Flash Crash was a big lesson, showing everyone that computers can make things worse if they are not watched carefully.
+After the crash, people learned that [algorithmic trading](/wiki/algorithmic-trading) needed to be watched more closely. The fast trading by computers made the market go crazy in just 36 minutes. New rules were made to slow down high-frequency trading and to stop big sell orders from causing such big problems. These changes helped to make the market more stable and less likely to crash like that again. The 2010 Flash Crash was a big lesson, showing everyone that computers can make things worse if they are not watched carefully.
 
 ## What was the impact of the 2010 Flash Crash on individual investors?
 

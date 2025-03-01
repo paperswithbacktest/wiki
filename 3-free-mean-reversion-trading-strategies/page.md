@@ -82,7 +82,7 @@ $$
 
 where $N$ is the number of observations, $x_i$ is each individual observation, and $\mu$ is the mean of these observations.
 
-These indicators, when applied correctly, can significantly aid in identifying potential trading opportunities based on mean reversion strategies, guiding traders to make informed decisions in algorithmic trading environments.
+These indicators, when applied correctly, can significantly aid in identifying potential trading opportunities based on mean reversion strategies, guiding traders to make informed decisions in [algorithmic trading](/wiki/algorithmic-trading) environments.
 
 ## How to use mean reversion strategies?
 
