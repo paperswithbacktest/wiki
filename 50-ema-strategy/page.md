@@ -23,7 +23,7 @@ Each day, you take the current day's closing price, subtract the previous day's 
 
 The 50-day EMA is considered significant in trading because it helps traders see the overall trend of a stock or asset over a medium-term period. By looking at the 50-day EMA, traders can tell if the price is going up or down over about two months. If the price stays above the 50-day EMA, it suggests that the trend is upward, which might be a good time to buy. If the price drops below the 50-day EMA, it could mean the trend is turning downward, and it might be a time to sell.
 
-Traders also use the 50-day EMA to spot when the trend might be changing. For example, if the price crosses above the 50-day EMA after being below it, this could be a signal that the trend is turning bullish. On the other hand, if the price crosses below the 50-day EMA after being above it, it might signal a bearish trend. This makes the 50-day EMA a useful tool for making decisions about when to enter or exit trades.
+Traders also use the 50-day EMA to spot when the trend might be changing. For example, if the price crosses above the 50-day EMA after being below it, this could be a signal that the trend is turning bullish. On the other hand, if the price crosses below the 50-day EMA after being above it, it might signal a bearish trend. This makes the 50-day EMA a useful tool for making decisions about when to enter or [exit](/wiki/exit-strategy) trades.
 
 
 ## What is the 50 EMA Strategy?

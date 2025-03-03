@@ -46,7 +46,7 @@ But, others are not so sure. They say the paper doesn't prove that Tether is bei
 
 ## What are the potential implications of Tether manipulation on the broader cryptocurrency market?
 
-If Tether is being used to push up Bitcoin prices, it could shake up the whole cryptocurrency market. People might start to doubt if the prices of cryptocurrencies are real or just being controlled by a few people. This could make investors lose trust in cryptocurrencies, and they might decide to sell their coins or stop buying new ones. If a lot of people do this, the prices of all cryptocurrencies could go down a lot.
+If Tether is being used to push up Bitcoin prices, it could shake up the whole [cryptocurrency](/wiki/cryptocurrency) market. People might start to doubt if the prices of cryptocurrencies are real or just being controlled by a few people. This could make investors lose trust in cryptocurrencies, and they might decide to sell their coins or stop buying new ones. If a lot of people do this, the prices of all cryptocurrencies could go down a lot.
 
 Also, if it turns out that Tether is being used to manipulate Bitcoin, it could lead to new rules and laws for cryptocurrencies. Governments and other groups might want to make sure this kind of thing doesn't happen again. They could put in place stricter rules for how cryptocurrencies are made and traded. This could make it harder for new cryptocurrencies to start up and might slow down the whole market.
 

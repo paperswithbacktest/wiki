@@ -33,13 +33,13 @@ The day after Independence Day can also see lower trading volumes. Many people m
 
 ## What are some common trading strategies used during the Independence Day holiday period?
 
-During the Independence Day holiday period, traders often use strategies that take advantage of the lower trading volumes and potential for increased volatility. One common strategy is to close out positions before the holiday to avoid any unexpected market moves when the market is less liquid. Traders might also look to take profits or reduce risk before the holiday, as the market can be unpredictable with fewer people trading.
+During the Independence Day holiday period, traders often use strategies that take advantage of the lower trading volumes and potential for increased [volatility](/wiki/volatility-trading-strategies). One common strategy is to close out positions before the holiday to avoid any unexpected market moves when the market is less liquid. Traders might also look to take profits or reduce risk before the holiday, as the market can be unpredictable with fewer people trading.
 
 Another strategy some traders use is to watch for any big news or events that happen over the holiday and be ready to act when the market reopens. Since trading volumes are lower, any news can have a bigger impact on stock prices. Traders might set up trades to take advantage of these moves when the market opens again. Overall, the key during the Independence Day period is to be cautious and ready to adjust plans based on how the market reacts after the holiday.
 
 ## How do market liquidity and volatility change around Independence Day?
 
-Around Independence Day, market liquidity usually goes down. This means there are fewer people buying and selling stocks. The market is closed on July 4th, so no trading happens on that day. Also, many traders take time off the day before or after the holiday, so there are fewer trades happening. When fewer people are trading, it can be harder to buy or sell stocks quickly, and this can make the market less liquid.
+Around Independence Day, market [liquidity](/wiki/liquidity-risk-premium) usually goes down. This means there are fewer people buying and selling stocks. The market is closed on July 4th, so no trading happens on that day. Also, many traders take time off the day before or after the holiday, so there are fewer trades happening. When fewer people are trading, it can be harder to buy or sell stocks quickly, and this can make the market less liquid.
 
 Volatility can also change around Independence Day. Because there are fewer traders, any news or events that happen over the holiday can have a bigger effect on stock prices. When the market reopens, there might be more ups and downs in stock prices because of this. Traders need to be careful and ready for these changes, as the market can be more unpredictable when it's less liquid and more volatile.
 
@@ -77,7 +77,7 @@ Sometimes, big news or events that happen in the U.S. over the holiday can affec
 
 One advanced trading technique to capitalize on the Independence Day holiday effect is to use options strategies. Since the market is closed on July 4th and trading volumes are lower around the holiday, traders can use options to bet on how the market might move when it reopens. For example, a trader might buy options that will make money if the market goes up or down a lot after the holiday. This can be a good way to take advantage of the bigger changes in stock prices that can happen when the market is less busy.
 
-Another technique is to use algorithmic trading. Algorithms can be set up to watch the market and make trades based on certain patterns or news. Around Independence Day, these algorithms can be adjusted to be ready for the lower trading volumes and possible big moves in stock prices. Traders can set their algorithms to buy or sell stocks quickly when the market opens again, taking advantage of any changes that happen because of the holiday. By using these advanced techniques, traders can try to make money from the unique way the market acts around Independence Day.
+Another technique is to use [algorithmic trading](/wiki/algorithmic-trading). Algorithms can be set up to watch the market and make trades based on certain patterns or news. Around Independence Day, these algorithms can be adjusted to be ready for the lower trading volumes and possible big moves in stock prices. Traders can set their algorithms to buy or sell stocks quickly when the market opens again, taking advantage of any changes that happen because of the holiday. By using these advanced techniques, traders can try to make money from the unique way the market acts around Independence Day.
 
 ## References & Further Reading
 

@@ -58,7 +58,7 @@ Spence has also worked with governments and big groups. He was part of the Counc
 
 ## What books has A. Michael Spence authored?
 
-A. Michael Spence has written several books about economics. One of his famous books is called "Market Signaling: Informational Transfer in Hiring and Related Screening Processes." In this book, he explains his Signaling Theory and how it works in job markets. He talks about how people use things like education to show their skills to employers, even if the education itself doesn't make them better at the job.
+A. Michael Spence has written several [books](/wiki/algo-trading-books) about economics. One of his famous books is called "Market Signaling: Informational Transfer in Hiring and Related Screening Processes." In this book, he explains his Signaling Theory and how it works in job markets. He talks about how people use things like education to show their skills to employers, even if the education itself doesn't make them better at the job.
 
 Another important book by Spence is "The Next Convergence: The Future of Economic Growth in a Multispeed World." In this book, he looks at how different countries are growing at different speeds and what this means for the world's economy. He talks about how countries can work together to make the world a better place for everyone. These books have helped many people understand his ideas and how they can be used to make better economic policies.
 

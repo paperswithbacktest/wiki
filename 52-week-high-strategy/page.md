@@ -21,7 +21,7 @@ To use this strategy, investors watch stocks and see how close they are to their
 
 ## What are the key principles behind the 52-Week High Strategy?
 
-The 52-Week High Strategy is based on the idea that stocks reaching new highs are strong and likely to keep going up. When a stock gets close to its highest price in the last year, it catches people's attention. More people want to buy it because they think it will keep going up. This strategy believes in the power of momentum, where a stock's price keeps rising because more and more people are buying it.
+The 52-Week High Strategy is based on the idea that stocks reaching new highs are strong and likely to keep going up. When a stock gets close to its highest price in the last year, it catches people's attention. More people want to buy it because they think it will keep going up. This strategy believes in the power of [momentum](/wiki/momentum), where a stock's price keeps rising because more and more people are buying it.
 
 Investors using this strategy look for stocks that are near their 52-week high. They think these stocks have a good chance of going even higher. The key is to buy these stocks when they are close to their high and then hold onto them as they hopefully keep rising. This simple approach helps investors find stocks that might be good investments based on their recent performance.
 
@@ -63,13 +63,13 @@ Compared to other momentum strategies, the 52-Week High Strategy can be riskier 
 
 ## Can the 52-Week High Strategy be combined with other investment strategies?
 
-Yes, the 52-Week High Strategy can be combined with other investment strategies to make a more balanced approach. For example, you might use the 52-Week High Strategy to pick stocks that are doing well, but also look at other things like how much the company is earning or what the industry is doing. This way, you're not just relying on the stock's recent high price, but also on other important information that can help you make better choices.
+Yes, the 52-Week High Strategy can be combined with other investment strategies to make a more balanced approach. For example, you might use the 52-Week High Strategy to pick stocks that are doing well, but also look at other things like how much the company is [earning](/wiki/earning-announcement) or what the industry is doing. This way, you're not just relying on the stock's recent high price, but also on other important information that can help you make better choices.
 
 Another way to combine the 52-Week High Strategy with other strategies is to use it along with a value investing approach. Value investing looks for stocks that are priced lower than they should be based on the company's earnings or assets. By combining the 52-Week High Strategy with value investing, you can find stocks that are not only near their high but also a good deal. This can help you find stocks that have both momentum and value, which might make your investments more successful.
 
 ## What historical data supports the effectiveness of the 52-Week High Strategy?
 
-The 52-Week High Strategy has been studied and found to work well over time. Researchers Thomas J. George and Chuan-Yang Hwang looked at data from 1963 to 2001 and found that stocks near their 52-week high often did better than other stocks. They saw that these stocks kept going up because more people wanted to buy them. This showed that the strategy could help people make money by picking stocks that were doing well and likely to keep doing well.
+The 52-Week High Strategy has been studied and found to work well over time. Researchers Thomas J. George and Chuan-Yang Hwang looked at data from 1963 to 2001 and found that stocks near their 52-week high often did better than other stocks. They saw that these stocks kept going up because more people wanted to buy them. This showed that the strategy could help people make money by [picking](/wiki/asset-class-picking) stocks that were doing well and likely to keep doing well.
 
 Other studies have also supported the idea that the 52-Week High Strategy can be effective. For example, a study by Huseyin Gulen and Beni Lauterbach in 2010 looked at data from 1990 to 2006 and found similar results. They saw that stocks near their 52-week high often had higher returns than other stocks. This means that by focusing on stocks that are close to their highest price in the last year, investors might be able to find good investments that keep going up in value.
 

@@ -21,7 +21,7 @@ If a 51% attack happens, it can shake people's faith in the whole system. People
 
 ## What are the potential risks of a 51% attack for cryptocurrency users?
 
-A 51% attack can be really bad for people using a cryptocurrency. If someone takes over more than half of the network's power, they can mess with transactions. They might stop new transactions from happening, which means you can't use the cryptocurrency to buy things or send money to others. They could also try to spend the same money twice, which is called double-spending. This can make you lose money if you've already sent some cryptocurrency to someone, and then the attacker reverses the transaction.
+A 51% attack can be really bad for people using a [cryptocurrency](/wiki/cryptocurrency). If someone takes over more than half of the network's power, they can mess with transactions. They might stop new transactions from happening, which means you can't use the cryptocurrency to buy things or send money to others. They could also try to spend the same money twice, which is called double-spending. This can make you lose money if you've already sent some cryptocurrency to someone, and then the attacker reverses the transaction.
 
 This kind of attack can also make people lose trust in the cryptocurrency. If users see that the system isn't safe, they might stop using it, which can make the value of the cryptocurrency go down a lot. Even though these attacks are hard to do and usually don't last long, the damage they cause can be big. Users might lose money and trust, and it can take a while for the cryptocurrency to recover its reputation and value.
 
@@ -71,7 +71,7 @@ To catch a 51% attack early, developers can use special tools that keep an eye o
 
 ## What role do mining pools play in the possibility of a 51% attack?
 
-Mining pools are groups of people who work together to mine cryptocurrency. They share their computing power to have a better chance of earning rewards. But if one mining pool gets too big, it could end up controlling more than half of the network's power. This would make it easier for them to do a 51% attack. So, the size of mining pools can make a network more at risk of being attacked.
+Mining pools are groups of people who work together to mine cryptocurrency. They share their computing power to have a better chance of [earning](/wiki/earning-announcement) rewards. But if one mining pool gets too big, it could end up controlling more than half of the network's power. This would make it easier for them to do a 51% attack. So, the size of mining pools can make a network more at risk of being attacked.
 
 To lower the chance of a 51% attack, it's important for mining pools to stay small and spread out. If there are many different pools, it's harder for any one of them to take over the network. People running the cryptocurrency can also keep an eye on mining pools and make rules to stop them from getting too big. By keeping mining pools balanced, the network can stay safer and less likely to be attacked.
 
