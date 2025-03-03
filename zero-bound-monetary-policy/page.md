@@ -42,7 +42,7 @@ When an economy is stuck at the zero lower bound, the central bank needs to find
 
 The zero bound and the effective lower bound (ELB) are similar ideas, but they have a small difference. The zero bound is when interest rates can't go below zero. This is because people would rather keep their money in cash than in a bank if they have to pay to keep it there. So, central banks can't lower interest rates below zero when they are at the zero bound.
 
-The effective lower bound is a bit different. It's the lowest interest rate that a central bank can set before people start taking their money out of banks and keeping it as cash. Sometimes, central banks can actually set interest rates a little below zero, but not too far. This means the effective lower bound might be slightly below zero, but it's still a limit on how low interest rates can go.
+The effective lower bound is a bit different. It's the lowest [interest rate](/wiki/interest-rate-trading-strategies) that a central bank can set before people start taking their money out of banks and keeping it as cash. Sometimes, central banks can actually set interest rates a little below zero, but not too far. This means the effective lower bound might be slightly below zero, but it's still a limit on how low interest rates can go.
 
 ## How have central banks historically responded to reaching the zero bound?
 
@@ -72,7 +72,7 @@ Another long-term effect is that it can be tough for banks to make money when in
 
 Negative interest rates are when central banks set interest rates below zero. This happens when they want to encourage people and businesses to spend more money, even after they've already hit the zero bound. At the zero bound, interest rates can't go any lower than zero because people would rather keep their money in cash than in a bank if they have to pay to keep it there. But sometimes, central banks can push rates a little below zero, hoping to make it a bit more expensive to keep money in the bank. This might make people take their money out and spend it instead.
 
-Using negative interest rates is a way to fight the limits of the zero bound. When interest rates are negative, it means that instead of earning money on their savings, people have to pay to keep their money in the bank. This can make them more likely to spend or invest their money, which can help the economy grow. But negative interest rates can be tricky to use and might not always work as well as hoped. They can also cause problems for banks, which might struggle to make money when they have to pay interest on deposits.
+Using negative interest rates is a way to fight the limits of the zero bound. When interest rates are negative, it means that instead of [earning](/wiki/earning-announcement) money on their savings, people have to pay to keep their money in the bank. This can make them more likely to spend or invest their money, which can help the economy grow. But negative interest rates can be tricky to use and might not always work as well as hoped. They can also cause problems for banks, which might struggle to make money when they have to pay interest on deposits.
 
 ## What are the theoretical and practical implications of escaping the zero bound?
 
