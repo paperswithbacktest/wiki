@@ -4,7 +4,7 @@ description: Discover the transformative journey of Alex Gerko, founder of XTX M
 ---
 
 
-
+![Image](images/1.png)
 
 ## Table of Contents
 
