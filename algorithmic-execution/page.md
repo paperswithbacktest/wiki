@@ -1,10 +1,10 @@
 ---
-title: "algorithmic execution"
+title: "Algorithmic Execution"
 description: "Discover the world of algorithmic execution in trading where technology drives speed and precision Explore its benefits pitfalls and strategies for success"
 ---
 
 
-![Image](images/1.webp)
+![Image](images/1.png)
 
 ## Table of Contents
 
