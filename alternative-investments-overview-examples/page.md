@@ -4,7 +4,7 @@ description: "Explore the world of alternative investments including algorithmic
 ---
 
 
-![Image](images/1.jpeg)
+![Image](images/1.png)
 
 ## Table of Contents
 
