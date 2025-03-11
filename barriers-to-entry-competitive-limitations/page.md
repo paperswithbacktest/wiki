@@ -3,175 +3,84 @@ title: "Barriers to Entry and Competitive Limitations"
 description: "Discover the complexities of algorithmic trading by exploring competitive limitations and barriers to entry. Gain insights into market dynamics and innovation."
 ---
 
-Algorithmic trading refers to the use of computer algorithms to automate trading decisions, execution, and management in financial markets. This method of trading has gained significant prominence due to its ability to process large volumes of data with speed and accuracy, far surpassing the capabilities of human traders. Over the past few decades, algorithmic trading has revolutionized trading practices by enhancing efficiency, reducing transaction costs, and allowing traders to conduct high-frequency operations that capitalize on market movements in fractions of a second.
-
-The transformation brought about by algorithmic trading has also led to considerable changes in market dynamics. Traditional trading, once dependent on human intuition and experience, now increasingly relies on mathematical models and automated systems capable of executing trades at lightning speed. This shift has not only improved market liquidity but also introduced increased volatility due to the high volume of trades conducted at any given time.
 
 ![Image](images/1.png)
 
-This article aims to provide a comprehensive understanding of the various factors that influence the use and success of algorithmic trading strategies. It focuses on three critical areas: market limitations that may hinder algorithmic operations, barriers to entry for aspiring algorithmic traders, and the competitive landscape that drives innovation within the industry. By examining these aspects, the discussion seeks to equip readers with the necessary insights to navigate the complexities associated with algorithmic trading. Recognizing these factors is crucial for traders and firms who wish to successfully implement algorithmic strategies and gain a competitive edge in the ever-evolving financial markets.
-
 ## Table of Contents
 
-## Understanding Algorithmic Trading
+## What are barriers to entry in a market?
 
-Algorithmic trading, often referred to as algo trading, is the use of computer algorithms to automate trading decisions in financial markets. Unlike traditional trading methods, where decisions are made by human traders based on market analysis and intuition, algorithmic trading employs pre-defined mathematical models and rules to execute trades. This approach allows for greater consistency and can operate at speeds that are unattainable for human traders.
+Barriers to entry are things that make it hard for new businesses to start in a market. These barriers can be things like high costs to get started, rules and laws that are hard to follow, or not being able to get the materials or technology needed. When these barriers are high, it can be tough for new companies to compete with the ones already there.
 
-**Technological Advancements**
+There are different kinds of barriers to entry. One kind is when a few big companies already control a lot of the market. It can be hard for a new business to break in because the big companies have a lot of customers and power. Another kind of barrier is when a company has a special advantage, like a patent that stops others from making the same product. These barriers can keep new businesses out and make the market less competitive.
 
-The growth of algorithmic trading has been significantly driven by advancements in technology. The development of high-speed computing and enhanced data processing capabilities have made it possible to analyze vast streams of market data in real time. Additionally, improvements in telecommunications infrastructure have reduced latency, enabling traders to execute orders with minimal delay. The rise of machine learning and artificial intelligence has further bolstered algorithmic trading by facilitating sophisticated prediction models and adaptive strategies that can learn from market behavior.
+## How do barriers to entry affect new businesses?
 
-**Overview of Trading Strategies**
+Barriers to entry make it tough for new businesses to start up and grow. When there are high costs to get started, like buying expensive equipment or renting a big space, new businesses might not have enough money to cover these costs. Also, if there are strict rules and laws that new businesses need to follow, it can take a lot of time and money to understand and meet these requirements. This can slow down or even stop new businesses from entering the market.
 
-Several [algorithmic trading](/wiki/algorithmic-trading) strategies have been developed to capitalize on different market conditions. High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) is one such strategy that focuses on executing a large number of orders at extremely high speeds, often within microseconds. HFT seeks to exploit small market inefficiencies and profit from minute price discrepancies.
+Another problem is when a few big companies already control a lot of the market. These big companies might have loyal customers and strong brand names, making it hard for new businesses to attract customers away from them. If a big company has a patent or special technology that new businesses can't use, it creates another barrier. All these factors can make it really hard for new businesses to compete and succeed in the market.
 
-Another common strategy is statistical [arbitrage](/wiki/arbitrage), which involves identifying pricing inefficiencies between related securities and executing trades to take advantage of these discrepancies. This often requires complex statistical models and a deep understanding of financial correlations.
+## What are some common types of barriers to entry?
 
-**Benefits of Algorithmic Trading**
+Barriers to entry are things that make it hard for new businesses to start in a market. One common type of barrier is high startup costs. This means that new businesses need a lot of money to buy equipment, rent a space, or hire workers. Another barrier is government rules and laws. These can be hard to understand and follow, and they might need a lot of time and money to meet the requirements.
 
-Algorithmic trading offers numerous advantages over traditional trading methods. Its automation leads to significant improvements in efficiency by executing trades at optimal times without human intervention. Speed is another critical benefit; an algorithm can process large volumes of data and execute thousands of orders per second, a feat impossible for human traders.
+Another type of barrier is when a few big companies already control a lot of the market. These companies might have loyal customers and strong brand names, which makes it hard for new businesses to attract customers. If a big company has a patent or special technology that new businesses can't use, that's another barrier. This kind of advantage can make it very difficult for new businesses to compete.
 
-Additionally, because algorithms strictly adhere to the predefined rules and models, they reduce the likelihood of human error. This adherence to rules can eliminate emotional decision-making, which often leads to mistakes in trading.
+Lastly, access to important resources like raw materials or distribution channels can also be a barrier. If new businesses can't easily get the materials they need or can't find a way to sell their products, it's tough for them to start up and grow. These barriers can keep new businesses out of the market and make it less competitive.
 
-Overall, algorithmic trading has transformed the landscape of financial markets by leveraging technology to enhance trading precision and efficiency. As technological advancements continue, the prevalence and sophistication of algorithmic trading are expected to increase, further reducing barriers for participation and changing traditional trading dynamics.
+## Can you explain the concept of economies of scale as a barrier to entry?
 
-## Market Limitations in Algorithm Trading
+Economies of scale is when big companies can make things cheaper than small companies because they make a lot more of the product. Imagine a big factory that makes thousands of toys every day. They can buy the materials they need in bulk, which costs less per toy than if a small factory only made a few toys. The big factory can also spread out the costs of running the factory over more toys, so each toy costs less to make. This makes it hard for new, small businesses to compete because they can't make things as cheaply.
 
-Algorithmic trading, while transformative in modern financial markets, faces various market limitations that can impact its efficiency and effectiveness. One major limitation is [liquidity](/wiki/liquidity-risk-premium) constraints, which can significantly affect the capacity to execute large orders without causing substantial price movements. Liquidity can vary greatly between assets and markets, and during certain periods—such as market stress—can become insufficient for executing strategies that rely on quick entry and [exit](/wiki/exit-strategy) positions. For example, high-frequency trading, which depends on executing large volumes of trades in a brief period, can suffer in markets with low liquidity, resulting in increased slippage and execution costs.
+Because of economies of scale, new businesses might struggle to enter the market. If a new business tries to make the same product, they will have higher costs per item because they don't make as many. This means they have to charge more for their product, and customers might not want to pay more when they can buy the same thing cheaper from a big company. So, economies of scale can be a big barrier to entry, keeping new businesses out of the market and making it hard for them to grow.
 
-Market [volatility](/wiki/volatility-trading-strategies) also presents challenges to algorithmic trading strategies. High volatility can lead to unpredictable price swings, making it difficult for algorithms to effectively predict market movements and adjust strategies instantly. While some trading models are designed to exploit volatility, excessive market fluctuations can lead to significant risk exposure and potential losses.
+## How does government regulation act as a barrier to entry?
 
-Technologically, algorithmic trading is further limited by issues related to latency and data feed accuracy. Latency, defined as the time delay between the initiation and execution of a trade, is crucial in high-frequency trading scenarios. Even slight delays can lead to significant discrepancies in trade execution, affecting profitability. Reducing latency often requires substantial investment in infrastructure, such as colocation services with the exchange servers and state-of-the-art networking technology.
+Government rules and laws can make it hard for new businesses to start up. These rules are there to make sure businesses do things safely and fairly, but they can be tough for new companies to follow. For example, a new business might need special licenses or permits to operate. Getting these can take a lot of time and money, which can be a big problem for a new company that doesn't have a lot of resources.
 
-Data feed accuracy is equally critical as errors or delays in market data can lead to incorrect trading decisions. Algorithms rely heavily on real-time data for price signals and market conditions; thus, inaccuracies can cause substantial financial losses. Ensuring high-quality, low-latency data feeds is essential for the successful implementation of trading algorithms.
+Also, some industries have very strict rules that new businesses have to follow. For example, in the pharmaceutical industry, new companies need to do a lot of testing and get approval from the government before they can sell their products. This process can take years and cost a lot of money. Because of these high costs and long waits, many new businesses might decide not to enter the market at all. So, government regulation can be a big barrier to entry, making it hard for new companies to compete.
 
-Regulatory constraints present another layer of complexity. Regulatory environments differ significantly across markets and regions, impacting how algorithmic trading strategies are developed and executed. Regulations can dictate aspects such as order-to-trade ratios, price increments, and trading hours. They can also impose restrictions on certain high-frequency trading practices considered to create market disturbances. Adhering to these regulations necessitates comprehensive compliance frameworks, potentially increasing operational costs for trading firms.
+## What role do patents and intellectual property rights play in creating barriers to entry?
 
-The effectiveness of algorithmic trading is also closely tied to the market infrastructure and access to high-speed trading platforms. Markets equipped with advanced technological infrastructure provide a conducive environment for algorithmic strategies to thrive. High-speed trading platforms enable quicker order execution, vital for maintaining the competitive edge in timing-sensitive strategies. However, access to such platforms often comes at a premium, posing a barrier for smaller firms or new entrants lacking significant capital.
+Patents and intellectual property rights give companies the right to stop others from making, using, or selling their inventions or creations. If a company has a patent on a product, it means that new businesses can't make or sell the same thing without permission. This can make it really hard for new businesses to enter the market because they can't use the same technology or ideas that the big companies have.
 
-In summary, while algorithmic trading offers numerous advantages, understanding and addressing market limitations such as liquidity constraints, volatility, latency, data accuracy, regulatory compliance, and the need for advanced trading infrastructure is critical to maximizing its potential.
+For example, if a big company has a patent on a new kind of medicine, new businesses can't make that medicine until the patent runs out. This can take many years, and by then, the big company might have made a lot of money and built a strong position in the market. So, patents and intellectual property rights can be a big barrier to entry, making it tough for new businesses to compete and grow.
 
-## Barriers to Entry in Algorithmic Trading
+## How do high capital requirements limit competition?
 
-Algorithmic trading has become a sophisticated tool in modern financial markets, offering significant advantages such as precision, speed, and the reduction of human error. Nevertheless, the barriers to entry in algorithmic trading are formidable, particularly for new entrants or smaller firms. These barriers can be broadly categorized into high initial costs, the necessity for technical expertise, regulatory compliance, and competitive disadvantages compared to established firms.
+High capital requirements mean that new businesses need a lot of money to start up. They might need to buy expensive machines, rent a big space, or hire a lot of workers. If a new business doesn't have enough money, it can be really hard for them to get started. This makes it tough for new businesses to enter the market and compete with big companies that already have a lot of money.
 
-### High Initial Costs
+Because of high capital requirements, only businesses with a lot of money can enter the market. This can limit competition because fewer new businesses are able to start up. When there are fewer competitors, the big companies can keep their prices high and don't have to worry as much about losing customers. So, high capital requirements can make the market less competitive and harder for new businesses to succeed.
 
-Developing and implementing algorithmic trading systems require substantial financial investment. These costs originate from the hardware and software infrastructure essential for executing trades efficiently. High-performance computing resources are necessary to process large volumes of data at high speeds. Furthermore, ongoing costs related to system maintenance, data feeds, and software updates contribute to the financial burden. For example, acquiring real-time data feeds and developing algorithms to interpret and act on this data are both resource-intensive processes.
+## In what ways can brand loyalty and customer inertia be considered barriers to entry?
 
-### Technical Expertise
+Brand loyalty and customer inertia make it hard for new businesses to enter a market. Brand loyalty means that customers really like and trust a certain brand. They keep buying from that brand because they believe it's the best. When a new business comes along, it's tough for them to get these loyal customers to switch. The new business might have to spend a lot of money on advertising and discounts to try to win over these customers, which can be expensive and risky.
 
-A significant barrier is the requirement for specialized technical expertise. Algorithmic trading intersects multiple disciplines, including finance, computer science, and [statistics](/wiki/bayesian-statistics). Professionals who can develop robust algorithms must possess skills in coding (often Python or C++), quantitative analysis, and financial modeling. This expertise is rare, and hiring or training employees can be both challenging and costly. Additionally, continuous adaptation to technological advancements and financial theory developments is critical, necessitating ongoing education and skill enhancement.
+Customer inertia is when people stick with what they know because it's easy and comfortable. They might not want to try a new product or service, even if it's better, because they're used to what they have. This makes it hard for new businesses to attract customers. If people are happy with what they're using and don't want to change, a new business has to work extra hard to show them that their product is worth trying. Both brand loyalty and customer inertia can keep new businesses out of the market and make it less competitive.
 
-### Regulatory Compliance
+## How do network effects contribute to competitive limitations?
 
-Navigating the regulatory landscape is another significant challenge. Different markets and regions impose various compliance requirements that firms must adhere to, which adds another layer of complexity and cost. Regulations may dictate criteria related to data usage, transaction transparency, and risk management, requiring firms to invest in legal counsel and compliance infrastructure. Complying with these regulations is not only costly but also time-consuming, often necessitating the establishment of dedicated compliance departments.
+Network effects happen when a product or service becomes more useful as more people use it. Think about social media platforms like Facebook or messaging apps like WhatsApp. The more people who use them, the better they are because you can connect with more friends and family. This makes it really hard for a new social media or messaging app to compete. If a new app comes out, it won't have as many users, so people might not want to switch because their friends aren't on it.
 
-### Competitive Edge of Established Firms
+Because of network effects, big companies that already have a lot of users can keep growing and getting stronger. New businesses trying to enter the market have a tough time because they start with fewer users. This means their product or service isn't as valuable at first. So, network effects can make the market less competitive by making it hard for new businesses to attract enough users to be successful.
 
-Established firms in algorithmic trading possess significant competitive advantages. They often have access to proprietary technologies that have been honed over years of research and development. These technologies, along with large datasets, allow these firms to optimize and refine their trading strategies continually. They also have better access to capital, enabling them to invest heavily in cutting-edge technology and talent. This access to capital and technology creates a formidable barrier for new entrants, who struggle to compete on a level playing field.
+## What strategies can new entrants use to overcome barriers to entry?
 
-In conclusion, while algorithmic trading offers many potential benefits, the entry barriers are substantial. New traders and firms must overcome challenges related to high initial costs, the need for technical expertise, regulatory hurdles, and the stronghold of established competitors. Understanding these barriers is essential for entities attempting to establish themselves in this competitive field.
+New businesses can use different strategies to get around barriers to entry. One way is to find a niche market that the big companies are not paying attention to. By focusing on a specific group of customers with unique needs, a new business can offer something special that the big companies don't have. Another strategy is to use technology to lower costs. For example, a new business might use online tools to sell products without needing a big store, which can save a lot of money. They can also use social media to reach customers without spending a lot on advertising.
 
-## Competition in Algorithmic Trading
+Another approach is to partner with other businesses. By working together, a new business can share the costs of getting started and use the other company's resources, like their distribution network or customer base. This can help them get into the market faster and with less money. Finally, new businesses can focus on innovation. By coming up with new ideas or improving existing products, they can attract customers who are looking for something different. This can help them stand out and compete with the big companies, even if they have less money or fewer resources.
 
-Competition among algorithmic traders is a driving force behind innovation and efficiency within financial markets. As firms vie for dominance, they push the boundaries of technology and strategy, seeking any advantage to secure better trading outcomes. This competition creates a dynamic environment where constant adaptation and improvement are paramount.
+## How do barriers to entry influence market structure and competition?
 
-Network effects play a crucial role in solidifying the competitive advantages of firms with significant market shares. These effects are characterized by the increasing value of a product or service as more participants use it. In algorithmic trading, firms with larger market shares can leverage network effects by gaining access to a wealth of market data and liquidity, which enhances their trading models' predictive accuracy and execution efficiency. As more traders interact with their platforms, these firms can improve their algorithms through the increased diversity and [volume](/wiki/volume-trading-strategy) of data available, thus reinforcing their market position.
+Barriers to entry shape how a market works and how much competition there is. When it's hard for new businesses to start up because of high costs, strict rules, or other barriers, the market can end up being controlled by just a few big companies. These companies can keep their prices high and don't have to worry much about new competitors coming in and taking away their customers. This means less competition, and customers might not have as many choices or as good of a deal.
 
-The intense competitive pressures within algorithmic trading markets catalyze rapid evolution in both trading strategies and technology. For instance, high-frequency trading (HFT) strategies continually evolve to incorporate the latest technological advancements, such as co-location and low-latency trading infrastructure, to maintain an edge in execution speed. Similarly, other algorithmic strategies, like [statistical arbitrage](/wiki/statistical-arbitrage), perpetually integrate cutting-edge [machine learning](/wiki/machine-learning) techniques and large-scale data processing capabilities to refine predictive models and enhance profitability.
+On the other hand, when barriers to entry are low, it's easier for new businesses to come into the market. This can lead to more competition, which is good for customers because it can mean lower prices and more choices. When there are lots of businesses competing, they have to work harder to keep their customers happy. So, the level of barriers to entry can really change how competitive a market is and how it's structured.
 
-Data and analytics emerge as core advantages in this competitive landscape. The ability to process and analyze vast amounts of real-time and historical market data can differentiate leading algorithmic trading firms from their rivals. Advanced analytics allow traders to uncover hidden patterns, optimize trade execution, and develop complex strategies that can adapt to changing market conditions. This requires sophisticated data infrastructure and skilled quantitative analysts who can translate data insights into actionable trading strategies.
+## Can you discuss a case study where barriers to entry significantly impacted industry competition?
 
-A simple example illustrating the application of data analytics in algorithmic trading can be shown through a basic Python script utilizing a trading library like `pandas` to analyze stock price movements:
+The pharmaceutical industry is a great example of how barriers to entry can really affect competition. One big barrier is the cost of developing new drugs. It can take billions of dollars and many years to create a new medicine, do all the testing, and get it approved by the government. This high cost means that only big companies with a lot of money can afford to do it. These big companies can then get patents on their new drugs, which stops other companies from making the same medicine for a long time. This makes it very hard for new businesses to enter the market and compete.
 
-```python
-import pandas as pd
-
-# Load historical stock data
-data = pd.read_csv('historical_stock_data.csv')
-
-# Calculate moving averages
-data['MA_50'] = data['Close'].rolling(window=50).mean()
-data['MA_200'] = data['Close'].rolling(window=200).mean()
-
-# Generate trading signals: Buy when MA_50 crosses above MA_200, Sell when it crosses below
-data['Signal'] = 0
-data['Signal'][50:] = np.where(data['MA_50'][50:] > data['MA_200'][50:], 1, -1)
-
-# Preview the signals
-print(data[['Close', 'MA_50', 'MA_200', 'Signal']].tail())
-
-```
-
-This script exemplifies the use of data analysis to generate trading signals based on moving average crossovers, a simplistic yet foundational component of more complex algorithmic strategies.
-
-In conclusion, competition among algorithmic traders is instrumental in driving the sector's ongoing transformation. Firms that harness the potential of network effects, innovate through advanced strategies and technologies, and effectively utilize data and analytics maintain their edge in a highly competitive market. As the industry continues to evolve, these elements will undoubtedly shape the future landscape of algorithmic trading.
-
-## Strategies to Overcome Market Limitations and Barriers
-
-Algorithmic trading faces numerous challenges, but there are strategic approaches to effectively navigate these obstacles. These strategies can significantly enhance the resilience and success of trading endeavors in the face of market limitations and barriers to entry.
-
-### Mitigating Market Limitations
-
-One of the primary strategies to mitigate market limitations is through portfolio diversification. By diversifying assets and strategies, traders can reduce exposure to specific risks and increase the robustness of their portfolios. This can be quantitatively achieved using techniques such as the Modern Portfolio Theory (MPT), which optimizes asset allocation to achieve a desirable risk-return balance. The goal is to spread risk across various instruments, markets, and timeframes, thereby minimizing the impact of adverse market movements.
-
-Risk management techniques are also crucial for overcoming market limitations. Implementing stop-loss orders, setting appropriate leverage levels, and using options for hedging are practical methods. Risk management ensures that traders maintain a sustainable level of risk exposure, safeguarding capital against unforeseen market volatility.
-
-### Overcoming Barriers to Entry
-
-For new entrants facing barriers to entry, collaboration and technological partnerships can be essential. Collaborating with established firms can provide access to technology, data, and infrastructure that would otherwise be difficult to obtain independently. Partnerships can also offer insights into market practices and regulatory compliance, reducing the learning curve for newcomers.
-
-Additionally, keeping abreast of regulatory changes is vital. Understanding the regulatory landscape and adapting strategies to ensure compliance can prevent legal and operational challenges. New traders should consider engaging legal and compliance experts to navigate the complex regulatory requirements effectively.
-
-### Leveraging Cutting-edge Technology
-
-Incorporating cutting-edge technology is crucial for maintaining a competitive edge. Advances in [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and machine learning (ML) offer opportunities to enhance trading algorithms through better data analytics and predictive modeling. For example, using ML algorithms, traders can identify patterns and signals in vast datasets that are otherwise imperceptible through traditional methods.
-
-Python, a popular programming language, provides numerous libraries such as Pandas for data manipulation and TensorFlow for building ML models. For instance, a simple example of utilizing Python to calculate portfolio diversification is as follows:
-
-```python
-import numpy as np
-import pandas as pd
-
-# Sample returns for three different assets
-returns = pd.DataFrame({
-    'Asset1': [0.05, 0.10, 0.15],
-    'Asset2': [0.02, 0.03, 0.04],
-    'Asset3': [0.06, 0.07, 0.08]
-})
-
-# Calculate mean returns and covariance matrix
-mean_returns = returns.mean()
-cov_matrix = returns.cov()
-
-# Define portfolio weights
-weights = np.array([0.4, 0.4, 0.2])
-
-# Calculate portfolio return and risk
-portfolio_return = np.dot(weights, mean_returns)
-portfolio_risk = np.sqrt(np.dot(weights.T, np.dot(cov_matrix, weights)))
-
-print(f"Portfolio Return: {portfolio_return}, Portfolio Risk: {portfolio_risk}")
-```
-
-This example demonstrates how to calculate expected portfolio returns and risk using historical asset returns, highlighting the role of technology in optimizing trading strategies.
-
-### Conclusion
-
-The successful navigation of market limitations and barriers involves a multifaceted approach that incorporates sound risk management, strategic collaborations, regulatory awareness, and technological innovation. By employing these strategies, traders can enhance their ability to compete and succeed in the evolving landscape of algorithmic trading. As the industry progresses, continuous adaptation and leveraging of new technologies will remain pivotal in shaping successful trading practices.
-
-## Conclusion
-
-Understanding the dynamics that affect the success of algorithmic trading is essential for anyone involved in modern financial markets. The significance of being aware of market limitations, barriers to entry, and competition cannot be overstated, as these factors profoundly influence the development and success of algorithmic trading strategies. 
-
-Market limitations such as liquidity constraints and volatility, alongside technological issues like latency and data accuracy, present challenges that can impact algorithmic efficiency. Recognizing and addressing these can mitigate adverse effects. Barriers to entry, which include high initial costs and the necessity for technical expertise, further emphasize the challenges for new entrants. Established firms often have a competitive edge due to proprietary technologies and better access to capital and data, making it crucial for newcomers to seek innovative solutions and partnerships.
-
-Competition plays a vital role, driving innovation and efficiency in algorithmic trading. The rapid evolution of strategies and technologies is a testament to the continuous drive for superiority among traders. Data analytics remain pivotal, serving as a cornerstone for gaining competitive advantage.
-
-To succeed, traders must be adaptive, continuously researching and updating their strategies in response to evolving market conditions and regulatory landscapes. Embracing cutting-edge technology and innovative solutions enhances competitive standing and can facilitate overcoming both entry barriers and inherent market limitations.
-
-With the ongoing advancements in technology and data processing capabilities, the future of algorithmic trading holds immense potential to further shape financial markets. As algorithmic strategies become increasingly sophisticated, they will continue to redefine how trading is conducted, making the thorough comprehension of these elements essential for practitioners aiming to thrive in this dynamic ecosystem.
+Another example is the airline industry. Starting an airline is really expensive because you need to buy planes, get all the right licenses, and follow a lot of strict rules. These high costs and strict rules make it hard for new airlines to start up. Also, the big airlines already have a lot of customers and routes, so they have a strong position in the market. This makes it tough for new airlines to attract enough passengers to be successful. Because of these barriers, the airline industry often has less competition, and the big airlines can keep their prices high.
 
 ## References & Further Reading
 
