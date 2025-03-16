@@ -32,7 +32,7 @@ Just like with a 3-Fund Portfolio, the mix of the funds in a 4-Fund Portfolio de
 
 These portfolios are recommended for long-term investing because they are simple, low-cost, and help spread your money across many different types of investments. By using low-cost index funds, you don't pay a lot of fees, which means more of your money stays in your pocket and can grow over time. These portfolios include a mix of stocks, bonds, and sometimes real estate, which helps reduce risk. If one part of the market goes down, other parts might go up, which can protect your money.
 
-Another reason these portfolios are good for long-term investing is that they are easy to manage. You don't need to spend a lot of time picking individual stocks or trying to guess which parts of the market will do well. Instead, you can set up your portfolio and let it grow over many years. This approach works well for people who want to invest for goals like retirement or saving for a big purchase in the future. By sticking with these portfolios and not trying to time the market, you can build wealth slowly and steadily over time.
+Another reason these portfolios are good for long-term investing is that they are easy to manage. You don't need to spend a lot of time [picking](/wiki/asset-class-picking) individual stocks or trying to guess which parts of the market will do well. Instead, you can set up your portfolio and let it grow over many years. This approach works well for people who want to invest for goals like retirement or saving for a big purchase in the future. By sticking with these portfolios and not trying to time the market, you can build wealth slowly and steadily over time.
 
 ## How do you allocate assets in a 3-Fund Portfolio?
 

@@ -24,7 +24,7 @@ Once you have your smaller group, you can study them to learn about things like 
 
 Simple random sampling is really helpful in population studies because it makes sure everyone has an equal chance of being picked. This means the smaller group you study is a good reflection of the whole population. It's like if you want to know what everyone in your school thinks about a new rule, and you pick students randomly, you're more likely to get a mix of opinions that shows what the whole school thinks.
 
-Another benefit is that it's easy to do and understand. You just need a list of everyone in the population and a way to pick numbers randomly. This makes it less complicated than other ways of picking people to study. Plus, because it's simple, it's usually cheaper and quicker to do. So, if you're trying to learn about a big group of people, simple random sampling can save you time and money while still giving you good information.
+Another benefit is that it's easy to do and understand. You just need a list of everyone in the population and a way to pick numbers randomly. This makes it less complicated than other ways of [picking](/wiki/asset-class-picking) people to study. Plus, because it's simple, it's usually cheaper and quicker to do. So, if you're trying to learn about a big group of people, simple random sampling can save you time and money while still giving you good information.
 
 ## What are the limitations of simple random sampling?
 
@@ -62,7 +62,7 @@ Other sampling methods, like stratified sampling, can be more accurate and effic
 
 In population studies, simple random sampling can be done using different software tools. One common tool is Microsoft Excel. You can put all the names or numbers of the people in your big group into an Excel sheet. Then, you can use Excel's random number generator to pick numbers randomly. The people with those numbers are the ones you study. Excel is easy to use and a lot of people already have it on their computers.
 
-Another tool people often use is R, which is a free software for doing statistics. In R, you can use functions like `sample()` to pick numbers randomly from your list of people. R is very powerful and can do a lot of different things, but it might be a bit harder to learn if you're new to it. Some people also use software like SPSS or SAS, which are good for big studies and have special tools for picking samples randomly. These tools can help make sure you do simple random sampling the right way and get good results for your study.
+Another tool people often use is R, which is a free software for doing [statistics](/wiki/bayesian-statistics). In R, you can use functions like `sample()` to pick numbers randomly from your list of people. R is very powerful and can do a lot of different things, but it might be a bit harder to learn if you're new to it. Some people also use software like SPSS or SAS, which are good for big studies and have special tools for picking samples randomly. These tools can help make sure you do simple random sampling the right way and get good results for your study.
 
 ## How can bias be minimized when using simple random sampling in population studies?
 

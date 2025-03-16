@@ -36,7 +36,7 @@ These indices are important because they give people a quick way to see how big,
 
 Companies are chosen for a blue-chip index based on how big, stable, and well-known they are. People who run the index look at things like how much money the company makes, how long it has been around, and if it is a leader in its industry. They also check if the company pays dividends regularly, which is like giving money back to people who own its stock. This helps make sure only the most reliable and successful companies are included.
 
-The process can be different for each index. For example, the Dow Jones Industrial Average picks companies that represent a good mix of industries in the U.S. economy. The people in charge might change which companies are in the index if a company is not doing well or if a new company becomes really important. The FTSE 100 and Nikkei 225 also have their own ways of picking companies, but they all focus on choosing the biggest and most stable ones. This way, the index gives a good picture of how the economy is doing.
+The process can be different for each index. For example, the Dow Jones Industrial Average picks companies that represent a good mix of industries in the U.S. economy. The people in charge might change which companies are in the index if a company is not doing well or if a new company becomes really important. The FTSE 100 and Nikkei 225 also have their own ways of [picking](/wiki/asset-class-picking) companies, but they all focus on choosing the biggest and most stable ones. This way, the index gives a good picture of how the economy is doing.
 
 ## What criteria are used to determine if a company is 'blue-chip'?
 

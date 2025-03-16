@@ -58,7 +58,7 @@ The reason BANs have such a short maturity period is that they are used as a tem
 
 ## How is the interest on Bond Anticipation Notes usually structured?
 
-The interest on Bond Anticipation Notes is usually structured as a simple interest rate. This means that the interest is calculated based on the principal amount of the BAN and the time it's held. The interest rate is often lower than other short-term loans because BANs are seen as safe investments. They are backed by the promise that the city or government will pay them back with money from future bond sales.
+The interest on Bond Anticipation Notes is usually structured as a simple [interest rate](/wiki/interest-rate-trading-strategies). This means that the interest is calculated based on the principal amount of the BAN and the time it's held. The interest rate is often lower than other short-term loans because BANs are seen as safe investments. They are backed by the promise that the city or government will pay them back with money from future bond sales.
 
 When someone buys a BAN, they know exactly how much interest they will earn because the rate is set at the start. The interest is usually paid when the BAN matures, which can be anywhere from a few months to a couple of years. This makes BANs a predictable and secure way for investors to earn a little money while helping cities start big projects quickly.
 

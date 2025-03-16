@@ -18,7 +18,7 @@ AI in trading is not just about speed and data analysis. It also involves machin
 
 AI trading strategies and traditional trading methods differ in how they process information and make decisions. Traditional trading often relies on human analysis, where traders look at charts, news, and other data to decide when to buy or sell. This can be time-consuming and limited by how much data a person can handle at once. On the other hand, AI trading uses computers to analyze vast amounts of data quickly. AI can spot patterns and trends that might be too complex or subtle for a human to see, leading to potentially more informed trading decisions.
 
-Another key difference is how AI can learn and adapt over time. Traditional methods depend a lot on the trader's experience and gut feelings, which don't change much over short periods. AI, however, can use machine learning to get better at predicting market movements. As it processes more data and sees more market conditions, it can adjust its strategies to become more accurate. This ability to evolve makes AI trading more dynamic compared to the more static nature of traditional methods, which might not adapt as quickly to new market trends or data.
+Another key difference is how AI can learn and adapt over time. Traditional methods depend a lot on the trader's experience and gut feelings, which don't change much over short periods. AI, however, can use [machine learning](/wiki/machine-learning) to get better at predicting market movements. As it processes more data and sees more market conditions, it can adjust its strategies to become more accurate. This ability to evolve makes AI trading more dynamic compared to the more static nature of traditional methods, which might not adapt as quickly to new market trends or data.
 
 ## What are the basic components of an AI trading system?
 
@@ -38,11 +38,11 @@ Beginners in AI trading often start with simple trend-following strategies. Thes
 
 Another common strategy for beginners is using AI for basic sentiment analysis. This involves the AI looking at news articles, social media posts, and other sources to see if people feel good or bad about a certain stock. If the AI sees a lot of positive comments, it might suggest buying the stock, thinking that positive sentiment could push the price up. This strategy helps beginners understand how public opinion can affect the market, and it's relatively simple to follow.
 
-Some beginners also try out AI-based momentum strategies. These strategies focus on stocks that are moving a lot, either up or down. The AI looks for stocks that have strong recent performance and suggests buying them, hoping the momentum will keep going. This can be exciting for beginners because it involves quick decisions and can lead to fast gains, though it also comes with more risk.
+Some beginners also try out AI-based [momentum](/wiki/momentum) strategies. These strategies focus on stocks that are moving a lot, either up or down. The AI looks for stocks that have strong recent performance and suggests buying them, hoping the momentum will keep going. This can be exciting for beginners because it involves quick decisions and can lead to fast gains, though it also comes with more risk.
 
 ## What are the benefits of using AI technology in algorithmic trading?
 
-AI technology has notably transformed algorithmic trading by offering several significant benefits that enhance trading operations. 
+AI technology has notably transformed [algorithmic trading](/wiki/algorithmic-trading) by offering several significant benefits that enhance trading operations. 
 
 **Increased Efficiency:** The utilization of AI in algorithmic trading has vastly improved how data is processed and decisions are made. AI algorithms are designed to parse large volumes of complex data at high speeds, enabling swift trade executions that were not possible manually. These algorithms evaluate market conditions and execute trades instantaneously, thereby increasing the overall efficiency of trading operations.
 
@@ -72,7 +72,7 @@ Another way AI improves prediction accuracy is by learning from past trades. As 
 
 ## What advanced AI techniques are used in expert trading strategies?
 
-Expert traders use advanced AI techniques like deep learning and reinforcement learning to make their trading strategies better. Deep learning is a way for the computer to look at lots of data and find very complex patterns. It's like the AI is trying to understand the market in a deep way, not just looking at simple trends. By using deep learning, the AI can see things that might be too hard for a person to notice, which can help make more accurate predictions about what the market will do next.
+Expert traders use advanced AI techniques like [deep learning](/wiki/deep-learning) and [reinforcement learning](/wiki/reinforcement-learning) to make their trading strategies better. Deep learning is a way for the computer to look at lots of data and find very complex patterns. It's like the AI is trying to understand the market in a deep way, not just looking at simple trends. By using deep learning, the AI can see things that might be too hard for a person to notice, which can help make more accurate predictions about what the market will do next.
 
 Another advanced technique is reinforcement learning, where the AI learns by trying different things and seeing what works best. It's like the AI is playing a game where it gets points for making good trades and loses points for bad ones. Over time, the AI figures out the best ways to trade by learning from its successes and failures. This helps the AI adapt to new market conditions and keep improving its strategies, which can lead to better trading results for experts.
 
@@ -92,7 +92,7 @@ Another ethical concern is about privacy and data use. AI systems need a lot of 
 
 Evaluating the performance of an AI trading strategy involves looking at how well it makes money and how it handles risk. You can start by checking the returns, which is how much money the strategy makes over time. It's important to compare these returns to what you might get from simpler investments, like a savings account or a basic stock index. Also, look at the risk, which is how much the strategy's value can go up and down. A good AI trading strategy should make more money than it loses, and it should do this without taking too much risk.
 
-Another way to evaluate an AI trading strategy is by using backtesting. This means running the strategy on past market data to see how it would have done if it was used back then. Backtesting can show you if the strategy works well over different market conditions. But remember, past results don't always mean the strategy will do the same in the future. So, it's also good to keep an eye on the strategy as it trades in real time, making sure it still works well and adjusting it if needed.
+Another way to evaluate an AI trading strategy is by using [backtesting](/wiki/backtesting). This means running the strategy on past market data to see how it would have done if it was used back then. Backtesting can show you if the strategy works well over different market conditions. But remember, past results don't always mean the strategy will do the same in the future. So, it's also good to keep an eye on the strategy as it trades in real time, making sure it still works well and adjusting it if needed.
 
 ## References & Further Reading
 

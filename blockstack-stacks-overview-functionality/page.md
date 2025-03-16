@@ -48,7 +48,7 @@ STX also helps people be part of making decisions about the Stacks blockchain. I
 
 In the Stacks blockchain, they use something called Proof of Transfer (PoX) to make sure everyone agrees on what's happening. This is different from other blockchains that might use Proof of Work or Proof of Stake. With PoX, people who have Stacks tokens, or STX, can "lock up" their tokens to help run the blockchain. By doing this, they get to mine Bitcoin as a reward. This way, Stacks uses the security of Bitcoin to keep everything safe and fair.
 
-When someone locks up their STX, they help choose who gets to add new blocks to the Stacks blockchain. This is called "stacking." The more STX you lock up, the more say you have in who gets to add blocks. This makes the system fair because everyone with STX can help decide how the blockchain works. It's like voting, but instead of picking leaders, you're helping to keep the blockchain running smoothly and securely.
+When someone locks up their STX, they help choose who gets to add new blocks to the Stacks blockchain. This is called "stacking." The more STX you lock up, the more say you have in who gets to add blocks. This makes the system fair because everyone with STX can help decide how the blockchain works. It's like voting, but instead of [picking](/wiki/asset-class-picking) leaders, you're helping to keep the blockchain running smoothly and securely.
 
 ## What are Clarity smart contracts and how do they differ from other smart contract languages?
 

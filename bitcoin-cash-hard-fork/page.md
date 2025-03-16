@@ -18,7 +18,7 @@ One big difference is that Bitcoin Cash can handle more transactions at the same
 
 A hard fork in cryptocurrency is like making a big change to the rules of a game that everyone has to follow. Imagine you're playing a game and suddenly, the rules change so much that it's like playing a new game. In cryptocurrency, a hard fork happens when the people who take care of the cryptocurrency decide to change the way it works in a big way. When this happens, the old version of the cryptocurrency and the new version can both keep going, but they are separate from each other.
 
-For example, if you have money in the old version, you might also get money in the new version after a hard fork. This is because the new version starts with the same history as the old one up to the point of the fork. But after the fork, they go their separate ways. Hard forks can happen for many reasons, like wanting to make the cryptocurrency faster or more secure. It's a big decision because it can split the community of people who use and support the cryptocurrency.
+For example, if you have money in the old version, you might also get money in the new version after a hard fork. This is because the new version starts with the same history as the old one up to the point of the fork. But after the fork, they go their separate ways. Hard forks can happen for many reasons, like wanting to make the [cryptocurrency](/wiki/cryptocurrency) faster or more secure. It's a big decision because it can split the community of people who use and support the cryptocurrency.
 
 ## Why did the Bitcoin Cash hard fork occur?
 

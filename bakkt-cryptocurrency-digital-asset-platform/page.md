@@ -22,7 +22,7 @@ They also offer different ways to trade. For example, you can buy or sell Bitcoi
 
 ## What types of digital assets can be traded on Bakkt?
 
-Bakkt lets people trade different types of digital assets. The main one is Bitcoin, which is a popular cryptocurrency that many people know about and use. Bakkt makes it easy and safe to buy and sell Bitcoin, so more people can use it without worrying.
+Bakkt lets people trade different types of digital assets. The main one is Bitcoin, which is a popular [cryptocurrency](/wiki/cryptocurrency) that many people know about and use. Bakkt makes it easy and safe to buy and sell Bitcoin, so more people can use it without worrying.
 
 Besides Bitcoin, Bakkt also works with other digital assets. They are always looking to add more types of cryptocurrencies and digital items to their platform. This means that as digital assets become more popular, Bakkt will have more options for people to trade.
 

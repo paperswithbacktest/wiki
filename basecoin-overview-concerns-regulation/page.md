@@ -18,7 +18,7 @@ Basecoin works by using special computer programs called smart contracts. These 
 
 Basecoin was created by a company called Reserve. The people at Reserve wanted to make a cryptocurrency that is easy to use and keeps its value steady. They thought that if they could make a cryptocurrency that doesn't go up and down a lot in price, more people would want to use it. This is why they made Basecoin.
 
-The mission of Reserve and Basecoin is to help people around the world, especially in places where the money can be unstable. They want to give people a way to save and spend money without worrying about big changes in its value. By making Basecoin, they hope to make it easier for people to use cryptocurrency in their everyday lives.
+The mission of Reserve and Basecoin is to help people around the world, especially in places where the money can be unstable. They want to give people a way to save and spend money without worrying about big changes in its value. By making Basecoin, they hope to make it easier for people to use [cryptocurrency](/wiki/cryptocurrency) in their everyday lives.
 
 ## How does Basecoin differ from other cryptocurrencies like Bitcoin?
 

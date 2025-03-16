@@ -18,7 +18,7 @@ ADTV is important for investors because it can help them make better decisions. 
 
 To calculate the Average Daily Trading Volume (ADTV), you first need to pick a time period, like a month or three months. Then, you add up the total number of shares traded each day during that time. For example, if you're looking at a month, you would add up the trading volume for each of the 30 days.
 
-Next, you divide the total number of shares traded by the number of days in your chosen period. So, if the total trading volume over 30 days is 3 million shares, you would divide 3 million by 30 to get the ADTV. This gives you the average number of shares traded each day, which helps you understand how active the stock is.
+Next, you divide the total number of shares traded by the number of days in your chosen period. So, if the total trading [volume](/wiki/volume-trading-strategy) over 30 days is 3 million shares, you would divide 3 million by 30 to get the ADTV. This gives you the average number of shares traded each day, which helps you understand how active the stock is.
 
 ## Why is ADTV important for investors and traders?
 
@@ -72,13 +72,13 @@ The size of the companies in a sector can also affect the ADTV. Big companies in
 
 To get a deeper look at ADTV, you can use something called time series analysis. This means looking at how the ADTV changes over time, like from one day to the next or over weeks and months. By doing this, you can spot patterns or trends that might not be clear if you just look at one number. For example, you might see that the ADTV goes up around certain times of the year or after big news events. This can help you predict when a stock might be easier or harder to trade in the future.
 
-Another advanced way to analyze ADTV is by using machine learning. This is a bit more complicated, but it can help you find hidden patterns in the data. Machine learning can look at lots of different things at the same time, like the ADTV, the stock price, and even news about the company. By doing this, it can help you understand how all these things work together to affect the stock's trading volume. This can give you a better idea of when to buy or sell, based on not just the ADTV but everything else going on around it.
+Another advanced way to analyze ADTV is by using [machine learning](/wiki/machine-learning). This is a bit more complicated, but it can help you find hidden patterns in the data. Machine learning can look at lots of different things at the same time, like the ADTV, the stock price, and even news about the company. By doing this, it can help you understand how all these things work together to affect the stock's trading volume. This can give you a better idea of when to buy or sell, based on not just the ADTV but everything else going on around it.
 
 ## How can ADTV be integrated with other financial metrics for enhanced analysis?
 
 ADTV can be combined with other financial numbers to give a fuller picture of a stock. One way to do this is by looking at the stock's price-to-earnings ratio (P/E ratio) along with the ADTV. The P/E ratio tells you how much people are willing to pay for the company's earnings. If a stock has a high ADTV and a low P/E ratio, it might be a good buy because it's easy to trade and not too expensive. On the other hand, if the P/E ratio is high, the stock might be overvalued, even if it's easy to trade.
 
-Another important metric to look at with ADTV is the stock's volatility. Volatility shows how much the stock's price moves up and down. By comparing the ADTV with the stock's volatility, you can see if a stock is easy to trade but still has big price swings. This can help you decide if the stock is too risky for you. For example, a stock with a high ADTV and low volatility might be a safe choice for someone who wants to trade a lot without worrying about big price changes.
+Another important metric to look at with ADTV is the stock's [volatility](/wiki/volatility-trading-strategies). Volatility shows how much the stock's price moves up and down. By comparing the ADTV with the stock's volatility, you can see if a stock is easy to trade but still has big price swings. This can help you decide if the stock is too risky for you. For example, a stock with a high ADTV and low volatility might be a safe choice for someone who wants to trade a lot without worrying about big price changes.
 
 ## References & Further Reading
 

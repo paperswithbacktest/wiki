@@ -78,7 +78,7 @@ For people who are just starting to use the Bloomberg Terminal, there's a specia
 
 Bloomberg takes the security and privacy of the data on its Terminal very seriously. They use strong encryption to keep the information safe when it's being sent from the terminal to their servers. This means that even if someone tries to steal the data while it's traveling over the internet, they won't be able to read it. Bloomberg also has strict rules about who can see the data. Only people who have permission can access the information, and they have to log in with a special username and password.
 
-To make sure the data stays private, Bloomberg follows a lot of rules and laws about data protection. They have a team that watches for any strange activity on the Terminal and can stop it if they see something wrong. Users can also set up their own security settings, like choosing a strong password and setting up two-factor authentication. This means you need more than just a password to log in, which makes it harder for someone else to use your account. By doing all these things, Bloomberg helps keep the data on the Terminal safe and private.
+To make sure the data stays private, Bloomberg follows a lot of rules and laws about data protection. They have a team that watches for any strange activity on the Terminal and can stop it if they see something wrong. Users can also set up their own security settings, like choosing a strong password and setting up two-[factor](/wiki/factor-investing) authentication. This means you need more than just a password to log in, which makes it harder for someone else to use your account. By doing all these things, Bloomberg helps keep the data on the Terminal safe and private.
 
 ## References & Further Reading
 

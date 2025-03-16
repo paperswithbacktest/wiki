@@ -18,7 +18,7 @@ People call him the 'Sultan of Currencies' because he was really good at trading
 
 Bill Lipschutz was born in 1956 and grew up in a family that valued education. He went to college at Cornell University, where he studied architecture and fine arts. While in college, he started trading stocks and got really interested in the financial markets. After graduating, he decided to switch from architecture to finance and went to business school at Harvard. This is where he learned a lot about finance and trading.
 
-After finishing at Harvard, Bill started working at Salomon Brothers, a big bank in New York. He began in their bond department but soon moved to the foreign exchange (forex) trading desk. This is where he started trading currencies. Bill was very good at it and quickly became one of the top traders at the bank. His success in trading currencies earned him the nickname 'Sultan of Currencies.' He worked there for many years and made a lot of money for the bank and himself.
+After finishing at Harvard, Bill started working at Salomon Brothers, a big bank in New York. He began in their bond department but soon moved to the foreign exchange ([forex](/wiki/forex-system)) trading desk. This is where he started trading currencies. Bill was very good at it and quickly became one of the top traders at the bank. His success in trading currencies earned him the nickname 'Sultan of Currencies.' He worked there for many years and made a lot of money for the bank and himself.
 
 ## Can you explain the basic principles of currency trading that Bill Lipschutz follows?
 

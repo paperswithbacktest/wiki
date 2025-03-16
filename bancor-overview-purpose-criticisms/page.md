@@ -24,11 +24,11 @@ Bancor was launched in 2017. The platform uses a special system called "automate
 
 The main purpose of Bancor is to make it easy for people to trade different types of cryptocurrencies. It does this by using a special system called "automated market makers." This system lets people swap one type of crypto for another without needing someone else to trade with them directly. This makes trading faster and simpler for everyone using the platform.
 
-Bancor was created by Galia Benartzi and Guy Benartzi, who are brother and sister. They wanted to solve the problem of complicated cryptocurrency trading. They launched Bancor in 2017 and introduced a token called BNT. This token helps keep the value stable when people are trading different cryptocurrencies on the platform.
+Bancor was created by Galia Benartzi and Guy Benartzi, who are brother and sister. They wanted to solve the problem of complicated [cryptocurrency](/wiki/cryptocurrency) trading. They launched Bancor in 2017 and introduced a token called BNT. This token helps keep the value stable when people are trading different cryptocurrencies on the platform.
 
 ## How does Bancor's liquidity pool system work?
 
-Bancor's liquidity pool system is a special way to help people trade cryptocurrencies easily. Instead of needing someone else to trade with you, Bancor uses pools of different cryptocurrencies. When you want to trade, you swap your crypto with the pool. The pool always has enough of each type of crypto, so you can trade anytime without waiting for another person.
+Bancor's [liquidity](/wiki/liquidity-risk-premium) pool system is a special way to help people trade cryptocurrencies easily. Instead of needing someone else to trade with you, Bancor uses pools of different cryptocurrencies. When you want to trade, you swap your crypto with the pool. The pool always has enough of each type of crypto, so you can trade anytime without waiting for another person.
 
 The system works by keeping a balance in the pools. Each pool has two types of cryptocurrencies, and they work together to keep the value stable. When you trade, the amount of each crypto in the pool changes a little, but the system makes sure it stays balanced. This way, the price stays fair for everyone, and you can always trade quickly and easily.
 

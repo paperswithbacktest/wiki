@@ -18,7 +18,7 @@ Bitumen is formed from crude oil, which comes from deep under the ground. Over m
 
 Bitumen comes mostly from crude oil. People get crude oil by drilling deep into the ground where it has been trapped for millions of years. The crude oil is then taken to a refinery, where it is heated and separated into different parts. Bitumen is the thick, heavy part that is left after the lighter parts like gasoline and diesel are taken away.
 
-Another source of bitumen is oil sands, also called tar sands. These are found in places like Canada and Venezuela. Oil sands are a mixture of sand, water, clay, and bitumen. To get the bitumen out, people have to dig up the oil sands and use hot water or steam to separate the bitumen from the sand. This process is more difficult and expensive than getting bitumen from crude oil, but it is still an important source.
+Another source of bitumen is oil sands, also called tar sands. These are found in places like Canada and Venezuela. Oil sands are a mixture of sand, water, clay, and bitumen. To get the bitumen out, people have to dig up the oil sands and use hot water or steam to separate the bitumen from the sand. This process is more difficult and expensive than getting bitumen from [crude oil](/wiki/crude-oil), but it is still an important source.
 
 ## What are the physical properties of bitumen?
 

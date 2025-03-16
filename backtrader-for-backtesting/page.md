@@ -18,7 +18,7 @@ Backtesting is important because it helps traders understand the potential risks
 
 To install Backtrader on Windows, you first need to make sure you have Python installed on your computer. You can download Python from the official website if you don't have it already. Once Python is set up, open the command prompt and type `pip install backtrader`. Press enter, and the installation will start. It might take a few minutes, but once it's done, you can start using Backtrader to test your trading strategies.
 
-For macOS users, the process is similar. Ensure you have Python installed, which often comes pre-installed on Macs. Open the Terminal, which you can find in the Applications folder under Utilities. In the Terminal, type `pip install backtrader` and hit enter. The installation should begin and complete in a few minutes, after which you can use Backtrader for your trading strategy backtesting.
+For macOS users, the process is similar. Ensure you have Python installed, which often comes pre-installed on Macs. Open the Terminal, which you can find in the Applications folder under Utilities. In the Terminal, type `pip install [backtrader](/wiki/backtrader)` and hit enter. The installation should begin and complete in a few minutes, after which you can use Backtrader for your trading strategy [backtesting](/wiki/backtesting).
 
 On Linux, you'll also need Python installed, which is commonly available on most distributions. Open the terminal and type `pip install backtrader`, then press enter. The installation will run and finish shortly, allowing you to use Backtrader to analyze your trading strategies.
 
@@ -106,7 +106,7 @@ While specific case studies depend on available data and strategies, Backtrader 
 - **Mean Reversion**: Using statistical methods to identify deviations from average prices and making trades accordingly.
 - **Pair Trading**: Exploiting price movements between correlated securities, demonstrated effectively using Backtrader’s flexibility in handling multiple data feeds.
 
-These steps and examples outline the fundamental process of implementing and testing trading strategies using Backtrader, showcasing its utility in developing robust algorithmic trading solutions.
+These steps and examples outline the fundamental process of implementing and testing trading strategies using Backtrader, showcasing its utility in developing robust [algorithmic trading](/wiki/algorithmic-trading) solutions.
 
 
 ## What data formats does Backtrader support for historical price data?
@@ -125,7 +125,7 @@ After running the optimization, Backtrader gives you a report that shows how eac
 
 Backtrader gives you several key numbers to help you see how well your trading strategy is doing. These numbers include things like how much money you made overall, which is called the total return. It also tells you about the risk you took, with metrics like the maximum drawdown, which is the biggest drop in your account value. Another important number is the Sharpe ratio, which helps you understand if the returns you got were worth the risk you took.
 
-You can also look at how often your strategy made money, which is the win rate. Backtrader will show you the average win and the average loss, so you can see if your winning trades are bigger than your losing trades. It also gives you the profit factor, which is the total money made from winning trades divided by the total money lost from losing trades. All these numbers help you decide if your strategy is good or if you need to make changes.
+You can also look at how often your strategy made money, which is the win rate. Backtrader will show you the average win and the average loss, so you can see if your winning trades are bigger than your losing trades. It also gives you the profit [factor](/wiki/factor-investing), which is the total money made from winning trades divided by the total money lost from losing trades. All these numbers help you decide if your strategy is good or if you need to make changes.
 
 ## How do you implement risk management in Backtrader?
 

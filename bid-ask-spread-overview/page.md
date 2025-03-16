@@ -34,7 +34,7 @@ Another thing that affects the bid-ask spread is how much the price of the stock
 
 ## How does market liquidity affect the bid-ask spread?
 
-Market liquidity is all about how easy it is to buy or sell something without the price changing a lot. When a market is very liquid, it means there are lots of people wanting to buy and sell. This makes the bid-ask spread smaller because buyers and sellers can easily find each other. It's like a busy marketplace where everyone is trading, so you can quickly buy or sell at a price that's not too different from what others are willing to pay or accept.
+Market [liquidity](/wiki/liquidity-risk-premium) is all about how easy it is to buy or sell something without the price changing a lot. When a market is very liquid, it means there are lots of people wanting to buy and sell. This makes the bid-ask spread smaller because buyers and sellers can easily find each other. It's like a busy marketplace where everyone is trading, so you can quickly buy or sell at a price that's not too different from what others are willing to pay or accept.
 
 On the other hand, if a market is not very liquid, it means fewer people are interested in trading. This can make the bid-ask spread bigger because it's harder to find someone to trade with. Imagine a quiet market where only a few people are around. If you want to buy something, you might have to pay more than you'd like because there aren't many sellers. And if you want to sell, you might have to accept less because there aren't many buyers. So, the less liquid a market is, the bigger the bid-ask spread tends to be.
 
@@ -46,7 +46,7 @@ On the other hand, if the spread is small, it usually means the security is less
 
 ## What is the relationship between bid-ask spread and trading volume?
 
-The bid-ask spread and trading volume are closely related. When a security has a high trading volume, it means a lot of people are buying and selling it. This high interest makes it easier to match buyers and sellers, which usually leads to a smaller bid-ask spread. Think of it like a busy market where everyone can find someone to trade with quickly, so the difference between what people want to buy and sell for is small.
+The bid-ask spread and trading [volume](/wiki/volume-trading-strategy) are closely related. When a security has a high trading volume, it means a lot of people are buying and selling it. This high interest makes it easier to match buyers and sellers, which usually leads to a smaller bid-ask spread. Think of it like a busy market where everyone can find someone to trade with quickly, so the difference between what people want to buy and sell for is small.
 
 On the other hand, if a security has a low trading volume, it means fewer people are interested in trading it. This can make the bid-ask spread bigger because it's harder to find someone to trade with. It's like a quiet market where you might have to wait a long time to find a buyer or seller, and the price difference between what people are willing to pay and what they want to sell for can be larger. So, generally, a higher trading volume leads to a smaller bid-ask spread, and a lower trading volume can lead to a larger spread.
 
@@ -66,7 +66,7 @@ Another thing traders can do is to watch the market and wait for the right time 
 
 The bid-ask spread can be different depending on the market or type of asset you're looking at. In big stock markets like the New York Stock Exchange, where lots of people trade popular stocks, the spread is usually small. This is because there are many buyers and sellers, so it's easy to match them up. But in smaller markets or for less popular stocks, the spread can be bigger because fewer people are trading, making it harder to find someone to buy from or sell to.
 
-The spread can also change a lot between different types of assets. For example, stocks of big companies usually have smaller spreads than stocks of small companies because more people are interested in them. In the bond market, the spread can be bigger because bonds are traded less often than stocks. And in the forex market, where people trade different currencies, the spread can be very small for major currency pairs like the US dollar and the Euro, but bigger for less common pairs. So, the type of market and the asset you're trading can make a big difference in the size of the bid-ask spread.
+The spread can also change a lot between different types of assets. For example, stocks of big companies usually have smaller spreads than stocks of small companies because more people are interested in them. In the bond market, the spread can be bigger because bonds are traded less often than stocks. And in the [forex](/wiki/forex-system) market, where people trade different currencies, the spread can be very small for major currency pairs like the US dollar and the Euro, but bigger for less common pairs. So, the type of market and the asset you're trading can make a big difference in the size of the bid-ask spread.
 
 ## What are the implications of a high bid-ask spread for market makers?
 

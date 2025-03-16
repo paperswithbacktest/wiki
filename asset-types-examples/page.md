@@ -34,7 +34,7 @@ Tangible assets also include things like jewelry, art, and electronics. Jewelry 
 
 Intangible assets are things you can't touch or see, but they still have value. They are important because they can help a business make money or have a good reputation. Some examples of intangible assets are patents, which give a company the right to make or sell a special product, and trademarks, which protect a company's name or logo. These are valuable because they stop other people from copying the company's products or using its name.
 
-Another example of an intangible asset is goodwill. This is the value of a company's good reputation. If people like a company and trust its products, that can make the company worth more money. Copyrights are also intangible assets. They protect things like books, music, and movies, so only the owner can make money from them. These intangible assets are important because they help businesses make money and stand out from others.
+Another example of an intangible asset is goodwill. This is the value of a company's good reputation. If people like a company and trust its products, that can make the company worth more money. Copyrights are also intangible assets. They protect things like [books](/wiki/algo-trading-books), music, and movies, so only the owner can make money from them. These intangible assets are important because they help businesses make money and stand out from others.
 
 ## How do current assets differ from fixed assets?
 

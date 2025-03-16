@@ -18,7 +18,7 @@ By using a bond ladder, you don't have to worry about all your money being tied 
 
 A bond ladder works by spreading out your investment in bonds over different times when they mature. Imagine you have some money to invest in bonds. Instead of putting it all into one bond that matures in, say, five years, you split it up. You buy some bonds that mature in one year, some in two years, some in three years, and so on, up to five years. This way, you have bonds maturing every year, which is like having steps on a ladder.
 
-When a bond matures, you get your money back. You can then use that money to buy a new bond at the top of your ladder, which might have a longer maturity than the one that just matured. This keeps your ladder going. If interest rates go up, you can buy the new bond at a higher rate. If rates go down, you still have the other bonds earning at the old, higher rates. This helps you manage risk and gives you a steady flow of money as each bond matures.
+When a bond matures, you get your money back. You can then use that money to buy a new bond at the top of your ladder, which might have a longer maturity than the one that just matured. This keeps your ladder going. If interest rates go up, you can buy the new bond at a higher rate. If rates go down, you still have the other bonds [earning](/wiki/earning-announcement) at the old, higher rates. This helps you manage risk and gives you a steady flow of money as each bond matures.
 
 ## What are the benefits of using a bond ladder?
 
@@ -28,7 +28,7 @@ Another benefit is that a bond ladder gives you a regular income. As each bond m
 
 ## How can a bond ladder help manage interest rate risk?
 
-A bond ladder helps manage interest rate risk by spreading out when your bonds mature. Imagine you have bonds that mature every year for the next five years. If interest rates go up, the bonds that mature soon can be reinvested at the new, higher rates. This way, you can take advantage of higher rates without having to wait for all your bonds to mature at once.
+A bond ladder helps manage [interest rate](/wiki/interest-rate-trading-strategies) risk by spreading out when your bonds mature. Imagine you have bonds that mature every year for the next five years. If interest rates go up, the bonds that mature soon can be reinvested at the new, higher rates. This way, you can take advantage of higher rates without having to wait for all your bonds to mature at once.
 
 On the other hand, if interest rates go down, you still have some bonds that were bought at the old, higher rates. These bonds will keep earning more until they mature. By having bonds mature at different times, you don't have to worry about all your money being stuck at a lower rate if rates drop. This makes a bond ladder a smart way to handle changes in interest rates.
 

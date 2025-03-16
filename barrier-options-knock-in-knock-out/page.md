@@ -48,7 +48,7 @@ Another advantage of barrier options is that they help traders manage their risk
 
 ## What are the risks associated with knock-in and knock-out options?
 
-Knock-in options carry the risk that the price of the thing you're trading might never hit the barrier level. If it doesn't, the option never starts working, and you won't make any money from it. This means you might miss out on a good chance to make money if the price doesn't move the way you thought it would. Also, because knock-in options can be cheaper, you might be tempted to buy more of them, but this can lead to bigger losses if none of them start working.
+Knock-in options [carry](/wiki/carry-trading) the risk that the price of the thing you're trading might never hit the barrier level. If it doesn't, the option never starts working, and you won't make any money from it. This means you might miss out on a good chance to make money if the price doesn't move the way you thought it would. Also, because knock-in options can be cheaper, you might be tempted to buy more of them, but this can lead to bigger losses if none of them start working.
 
 Knock-out options have a different kind of risk. If the price hits the barrier, the option stops working, and you lose the money you paid for it. This can happen even if the price later moves in the direction you wanted. For example, if you buy a knock-out option thinking a stock will go up, but the price first hits the barrier and the option stops working, you lose your money even if the stock goes up later. This can be frustrating because you might have made money if you had bought a regular option instead.
 

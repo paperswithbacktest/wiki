@@ -80,7 +80,7 @@ One important standard is the ISO 20022, which is used for financial messaging. 
 
 In the future, book-entry securities systems might change a lot because of new technology. One big trend could be the use of blockchain. Blockchain is like a special kind of computer record that's very hard to change or cheat. If book-entry securities start using blockchain, it could make them even safer and easier to move around. People might also be able to buy and sell securities without needing a middle person like a broker, which could save time and money.
 
-Another trend that might affect book-entry securities is the growth of artificial intelligence (AI). AI can help make the systems that manage these securities smarter and faster. For example, AI could spot mistakes or fraud more quickly, making the whole system more reliable. As more people use their phones and computers for everything, book-entry securities might become even more popular and easier to use. This could mean more people around the world will start using them, making the market bigger and more connected.
+Another trend that might affect book-entry securities is the growth of [artificial intelligence](/wiki/ai-artificial-intelligence) (AI). AI can help make the systems that manage these securities smarter and faster. For example, AI could spot mistakes or fraud more quickly, making the whole system more reliable. As more people use their phones and computers for everything, book-entry securities might become even more popular and easier to use. This could mean more people around the world will start using them, making the market bigger and more connected.
 
 ## References & Further Reading
 

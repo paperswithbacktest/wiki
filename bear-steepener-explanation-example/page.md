@@ -54,7 +54,7 @@ Another example can be seen in the late 1990s, especially around 1999. The econo
 
 Traders can make money from a Bear Steepener by betting on the difference between long-term and short-term interest rates getting bigger. One way to do this is by selling long-term bonds and buying short-term bonds. When long-term interest rates go up more than short-term rates, the value of long-term bonds goes down, and the value of short-term bonds stays more stable. So, traders can make money from the difference in how these bonds change in value.
 
-Another way traders can profit is by using financial tools like interest rate swaps or futures. These tools let traders bet on the future direction of interest rates. If a trader thinks a Bear Steepener is coming, they might use these tools to make money from the long-term rates going up more than the short-term rates. By understanding the signs of a Bear Steepener and using the right strategies, traders can take advantage of the changing interest rate environment.
+Another way traders can profit is by using financial tools like [interest rate](/wiki/interest-rate-trading-strategies) swaps or futures. These tools let traders bet on the future direction of interest rates. If a trader thinks a Bear Steepener is coming, they might use these tools to make money from the long-term rates going up more than the short-term rates. By understanding the signs of a Bear Steepener and using the right strategies, traders can take advantage of the changing interest rate environment.
 
 ## What are the risks associated with trading during a Bear Steepener?
 

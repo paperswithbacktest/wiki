@@ -18,7 +18,7 @@ For example, imagine a bond with a face value of $1,000 and an interest rate of 
 
 A bond premium is calculated by finding the difference between what you pay for a bond and its face value. The face value is the amount the bond will be worth when it matures. If you pay more than the face value, that extra amount is the premium. For example, if a bond's face value is $1,000 and you buy it for $1,050, the premium is $50.
 
-The reason a bond might sell at a premium is usually because its interest rate is higher than what's currently available in the market. People are willing to pay more for a bond that gives them a better return. So, if a bond pays 5% interest and new bonds only pay 3%, investors might pay more for the 5% bond. This premium affects the bond's yield, which is the total return you get from the bond, including interest and any gain or loss when you sell it or it matures.
+The reason a bond might sell at a premium is usually because its [interest rate](/wiki/interest-rate-trading-strategies) is higher than what's currently available in the market. People are willing to pay more for a bond that gives them a better return. So, if a bond pays 5% interest and new bonds only pay 3%, investors might pay more for the 5% bond. This premium affects the bond's yield, which is the total return you get from the bond, including interest and any gain or loss when you sell it or it matures.
 
 ## Why do bonds trade at a premium?
 

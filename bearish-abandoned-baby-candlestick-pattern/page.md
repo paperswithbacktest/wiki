@@ -52,7 +52,7 @@ It's also important that the pattern is clear and easy to see on the chart. This
 
 ## How can traders confirm a bearish abandoned baby pattern?
 
-Traders can confirm a bearish abandoned baby pattern by looking at other signs in the market. After seeing the pattern, they should check if other things are also showing that the price might go down. This could be other bearish patterns on the chart, like a head and shoulders top or a double top. They should also look at the trading volume. If the volume is high when the big black candle appears, it's a stronger sign that people are selling and the price might keep going down.
+Traders can confirm a bearish abandoned baby pattern by looking at other signs in the market. After seeing the pattern, they should check if other things are also showing that the price might go down. This could be other bearish patterns on the chart, like a head and shoulders top or a double top. They should also look at the trading [volume](/wiki/volume-trading-strategy). If the volume is high when the big black candle appears, it's a stronger sign that people are selling and the price might keep going down.
 
 Another way to confirm the pattern is by watching the price after it happens. If the price keeps going down after the bearish abandoned baby pattern, it's more likely that the pattern was right. Traders can also use other tools like moving averages or trend lines to see if they also show that the trend might be changing. If all these signs point in the same direction, it's a good idea to trust the bearish abandoned baby pattern and think about selling the stock before the price drops more.
 

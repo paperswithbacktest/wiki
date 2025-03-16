@@ -18,7 +18,7 @@ Investing in a Spot Ether ETF can be easier and less risky than buying Ethereum 
 
 A Spot Ether ETF is different from other ETFs because it directly holds Ethereum, the cryptocurrency. Most ETFs track things like stocks, bonds, or commodities, but a Spot Ether ETF tracks the price of Ethereum itself. This means that when you buy shares in a Spot Ether ETF, you're getting exposure to the actual price movements of Ethereum, not just a fund that tries to mimic its performance.
 
-Other types of ETFs, like futures-based ETFs, don't hold the actual asset. For example, a Bitcoin futures ETF would hold contracts that bet on the future price of Bitcoin, not Bitcoin itself. This can lead to differences in how the ETF performs compared to the actual cryptocurrency. A Spot Ether ETF, on the other hand, gives investors a more direct and immediate connection to Ethereum's price, making it simpler and potentially more accurate for tracking the cryptocurrency's value.
+Other types of ETFs, like futures-based ETFs, don't hold the actual asset. For example, a Bitcoin futures [ETF](/wiki/etf-trading-strategies) would hold contracts that bet on the future price of Bitcoin, not Bitcoin itself. This can lead to differences in how the ETF performs compared to the actual [cryptocurrency](/wiki/cryptocurrency). A Spot Ether ETF, on the other hand, gives investors a more direct and immediate connection to Ethereum's price, making it simpler and potentially more accurate for tracking the cryptocurrency's value.
 
 ## Why might someone be interested in investing in a Spot Ether ETF?
 

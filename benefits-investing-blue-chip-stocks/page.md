@@ -88,7 +88,7 @@ Fabozzi, F. J., & Focardi, S. M. (2008). *Robust Portfolio Optimization and Mana
 
 Tsay, R. S. (2010). *Analysis of Financial Time Series.* Wiley. A thorough exploration of statistical methods for analyzing financial data, this resource covers time series analysis techniques crucial for informed investment decisions and model development.
 
-Crack, T. (2019). *Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies.* This book offers insights into the mechanics of algorithmic trading, highlighting strategies and technologies such as Direct Market Access, suitable for traders looking to leverage high-speed trading systems.
+Crack, T. (2019). *Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies.* This book offers insights into the mechanics of [algorithmic trading](/wiki/algorithmic-trading), highlighting strategies and technologies such as Direct Market Access, suitable for traders looking to leverage high-speed trading systems.
 
 Chan, E. (2009). *Quantitative Trading: How to Build Your Own Algorithmic Trading Business.* Chan provides guidance on building and implementing algorithmic trading systems, focusing on strategy development, [backtesting](/wiki/backtesting), and risk management for quantitative traders.
 

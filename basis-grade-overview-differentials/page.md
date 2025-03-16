@@ -48,7 +48,7 @@ These price differences make trading fair and clear for everyone. Buyers know wh
 
 Changes in Basis Grade differentials can happen because of many things. One big reason is the supply and demand of the commodity. If there is a lot of a commodity around, the price difference for better quality might get smaller because people are not as willing to pay more. But if the commodity is hard to find, people might pay more for better quality, making the price difference bigger. Also, new technology or ways of farming can change how good the commodity is, which can affect the price difference too.
 
-Another factor is the weather. Bad weather can make it hard to grow good crops, so the price difference for better quality might go up because there is less of the good stuff around. On the other hand, if the weather is good and everyone can grow high-quality crops, the price difference might go down. Changes in what people want can also affect the price difference. If more people want high-quality food, the price difference for better quality might go up.
+Another [factor](/wiki/factor-investing) is the weather. Bad weather can make it hard to grow good crops, so the price difference for better quality might go up because there is less of the good stuff around. On the other hand, if the weather is good and everyone can grow high-quality crops, the price difference might go down. Changes in what people want can also affect the price difference. If more people want high-quality food, the price difference for better quality might go up.
 
 ## How can traders use Basis Grade differentials to their advantage?
 

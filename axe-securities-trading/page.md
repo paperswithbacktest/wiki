@@ -40,7 +40,7 @@ Another way to spot a trader's axe is by watching their trading behavior. If a t
 
 ## What role does an axe play in market liquidity?
 
-An axe can affect how easy or hard it is to buy or sell a security in the market, which is called liquidity. If a trader has a strong axe to buy or sell a certain security, they might trade it a lot. This can make it easier for other people to trade that security because there's more activity around it. When a trader with an axe is actively buying or selling, it can bring more people into the market, making it more liquid.
+An axe can affect how easy or hard it is to buy or sell a security in the market, which is called [liquidity](/wiki/liquidity-risk-premium). If a trader has a strong axe to buy or sell a certain security, they might trade it a lot. This can make it easier for other people to trade that security because there's more activity around it. When a trader with an axe is actively buying or selling, it can bring more people into the market, making it more liquid.
 
 On the other hand, if a trader's axe is too strong and they keep trying to buy or sell the same security, it might scare other traders away. They might think the price will move too much in one direction and decide not to trade. This can make the market less liquid because fewer people are willing to trade that security. So, an axe can either help or hurt market liquidity, depending on how other traders react to it.
 
@@ -76,7 +76,7 @@ Another technique is using technology and data analysis. Traders use special sof
 
 ## How does the concept of an axe apply to algorithmic trading?
 
-In algorithmic trading, an axe is like a rule or set of rules that tells the computer what to trade. Just like a human trader might have an axe for a certain stock, an algorithm can be programmed to focus on buying or selling a specific security. This helps the algorithm make decisions quickly and without getting distracted by other things happening in the market. If the algorithm is set up to buy a stock, it will keep trying to buy that stock based on the rules it's given, even if the market changes a lot.
+In [algorithmic trading](/wiki/algorithmic-trading), an axe is like a rule or set of rules that tells the computer what to trade. Just like a human trader might have an axe for a certain stock, an algorithm can be programmed to focus on buying or selling a specific security. This helps the algorithm make decisions quickly and without getting distracted by other things happening in the market. If the algorithm is set up to buy a stock, it will keep trying to buy that stock based on the rules it's given, even if the market changes a lot.
 
 Algorithms can also change their axe if they're programmed to do so. This happens when new information comes in or if the market moves in a way that the algorithm wasn't expecting. For example, if a company releases good news, the algorithm might switch from selling to buying that company's stock because it thinks the price will go up. These changes can happen very fast, and the algorithm can adjust its trading strategy automatically. This way, algorithmic traders can stay on top of what's happening in the market and make the most of their trades.
 

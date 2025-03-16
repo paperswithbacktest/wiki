@@ -78,7 +78,7 @@ Another way applied economics helps with sustainable development is by looking a
 
 ## What advanced techniques are used in applied economics research?
 
-In applied economics research, one advanced technique is called machine learning. This is a way of using computers to find patterns in big sets of data. Economists use machine learning to predict things like how people will spend their money or how a new policy might affect the economy. It's like teaching a computer to learn from examples, so it can make good guesses about the future. This helps economists make better decisions because they can see trends that might be hard to notice otherwise.
+In applied economics research, one advanced technique is called [machine learning](/wiki/machine-learning). This is a way of using computers to find patterns in big sets of data. Economists use machine learning to predict things like how people will spend their money or how a new policy might affect the economy. It's like teaching a computer to learn from examples, so it can make good guesses about the future. This helps economists make better decisions because they can see trends that might be hard to notice otherwise.
 
 Another technique is called experimental economics. This involves setting up experiments where people make choices in a controlled setting. Economists use these experiments to test their theories and see how people really behave. For example, they might give people money to spend in a fake store to see how they react to different prices. This helps economists understand how policies might work in real life. By using experiments, they can get a better idea of what will happen when they try to solve real-world problems.
 

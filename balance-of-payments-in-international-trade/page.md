@@ -20,7 +20,7 @@ The Balance of Payments has three main parts: the current account, the capital a
 
 The capital account and the financial account are the other two parts. The capital account records special kinds of money transfers, like gifts to foreign countries or money from selling things like patents or trademarks. It's usually a smaller part of the Balance of Payments. The financial account tracks investments, like when people or companies from one country buy stocks or property in another country, or when they lend money to other countries. If a country gets more investment money than it sends out, it has a financial account surplus. If it sends out more investment money than it gets, it has a financial account deficit.
 
-Together, these three accounts show the total money flow in and out of a country. They help us understand if a country is spending more money abroad than it's earning, or if it's earning more than it's spending. This information is important for governments to make decisions about their economic policies and to keep the country's economy healthy.
+Together, these three accounts show the total money flow in and out of a country. They help us understand if a country is spending more money abroad than it's [earning](/wiki/earning-announcement), or if it's earning more than it's spending. This information is important for governments to make decisions about their economic policies and to keep the country's economy healthy.
 
 ## How does the Current Account differ from the Capital Account?
 

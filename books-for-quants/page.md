@@ -18,7 +18,7 @@ In addition to these basics, a beginner quant should also become familiar with s
 
 For learning the basics of probability and statistics, a good starting book is "A First Course in Probability" by Sheldon Ross. This book explains probability concepts in a clear way, using lots of examples. It covers topics like basic probability rules, random variables, and common probability distributions. It's a great choice for beginners because it builds up the ideas step by step, making it easier to understand.
 
-Another recommended book is "Statistics and Data Analysis for Financial Engineering" by David Ruppert and David S. Matteson. This book focuses on how statistics is used in finance. It explains key statistical concepts like regression analysis, time series analysis, and how to handle financial data. The book uses real-world financial examples, which makes it very useful for quants who want to apply what they learn directly to their work.
+Another recommended book is "Statistics and Data Analysis for Financial Engineering" by David Ruppert and David S. Matteson. This book focuses on how [statistics](/wiki/bayesian-statistics) is used in finance. It explains key statistical concepts like regression analysis, time series analysis, and how to handle financial data. The book uses real-world financial examples, which makes it very useful for quants who want to apply what they learn directly to their work.
 
 Both books are well-suited for someone starting in quantitative finance. They provide a solid foundation in probability and statistics, which are essential for understanding and working with financial data. By reading these books, a beginner quant can gain the knowledge needed to tackle more advanced topics in the field.
 

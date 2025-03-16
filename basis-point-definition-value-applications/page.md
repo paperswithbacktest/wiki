@@ -18,7 +18,7 @@ Using basis points is helpful because it makes it easier to talk about small cha
 
 A basis point is usually shortened to "bps" or "bp". These abbreviations stand for "basis points" or "basis point". You will see them a lot in financial news and reports.
 
-Using "bps" or "bp" helps people talk about tiny changes in percentages easily. For example, instead of saying an interest rate went up by 0.25%, you can say it went up by 25 basis points or 25 bps. This makes it simpler to understand and compare small changes.
+Using "bps" or "bp" helps people talk about tiny changes in percentages easily. For example, instead of saying an [interest rate](/wiki/interest-rate-trading-strategies) went up by 0.25%, you can say it went up by 25 basis points or 25 bps. This makes it simpler to understand and compare small changes.
 
 ## What is the value of one basis point?
 
@@ -76,7 +76,7 @@ Using basis points helps financial institutions talk about pricing in a clear wa
 
 ## What advanced strategies involve basis points in financial markets?
 
-In financial markets, basis points are used in advanced strategies like hedging and arbitrage. Hedging involves using basis points to manage risk. For example, if a trader expects interest rates to go up by 50 basis points, they might buy financial instruments that will gain value if rates increase. This way, they can protect their other investments from losing value because of the rate change. It's like having an umbrella ready if it starts to rain.
+In financial markets, basis points are used in advanced strategies like hedging and [arbitrage](/wiki/arbitrage). Hedging involves using basis points to manage risk. For example, if a trader expects interest rates to go up by 50 basis points, they might buy financial instruments that will gain value if rates increase. This way, they can protect their other investments from losing value because of the rate change. It's like having an umbrella ready if it starts to rain.
 
 Arbitrage is another strategy where basis points matter a lot. Traders look for small differences in prices between different markets or products. If they see that one bond's yield is 10 basis points higher in one market than in another, they can buy the bond in the cheaper market and sell it in the more expensive one. This small difference, measured in basis points, can lead to big profits if done on a large scale. It's like buying something on sale in one store and selling it for a higher price in another store.
 

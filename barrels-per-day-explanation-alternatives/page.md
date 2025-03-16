@@ -40,7 +40,7 @@ Market analysts use the BPD number to guess what will happen with oil prices in 
 
 ## What are the common alternatives to barrels per day for measuring oil production?
 
-Another way to measure oil production is by using cubic meters per day. This is common in places that use the metric system. One cubic meter is about 6.29 barrels, so it's easy to change between the two measurements. Using cubic meters can be handy because it fits better with other measurements like the size of oil tanks or how much oil a ship can carry.
+Another way to measure oil production is by using cubic meters per day. This is common in places that use the metric system. One cubic meter is about 6.29 barrels, so it's easy to change between the two measurements. Using cubic meters can be handy because it fits better with other measurements like the size of oil tanks or how much oil a ship can [carry](/wiki/carry-trading).
 
 Sometimes, people also use tons per day to talk about oil production. This is because oil can be weighed, and a ton of oil is about 7.33 barrels. This measurement is useful when you're shipping oil because ships often carry cargo by weight. It helps figure out how much oil a ship can take and how much it will cost to move it from one place to another.
 

@@ -22,7 +22,7 @@ These dealers also follow strict rules set by the government to keep everything 
 
 ## How does one become an authorized forex dealer?
 
-To become an authorized forex dealer, a person or company needs to get permission from the government. This usually involves applying to a financial regulatory authority, like a central bank or a ministry of finance. The application process can be detailed and might need the applicant to show they have enough knowledge about foreign exchange markets, good business practices, and the ability to follow strict rules and laws.
+To become an authorized [forex](/wiki/forex-system) dealer, a person or company needs to get permission from the government. This usually involves applying to a financial regulatory authority, like a central bank or a ministry of finance. The application process can be detailed and might need the applicant to show they have enough knowledge about foreign exchange markets, good business practices, and the ability to follow strict rules and laws.
 
 Once the application is submitted, it will be reviewed to make sure the applicant meets all the requirements. This might include checks on the applicant's financial stability, their background, and their plans for running a forex dealing business. If everything looks good, the applicant will be given a license or authorization to operate as a forex dealer. They will then need to follow ongoing rules and might have to report regularly to the regulatory authority to keep their status as an authorized forex dealer.
 
@@ -72,7 +72,7 @@ These dealers also help set the exchange rates. They watch the market all the ti
 
 Authorized forex dealers can use something called hedging to protect their clients' money from big changes in exchange rates. Hedging is like buying insurance for currency trades. For example, if a dealer thinks the value of a currency might go down, they can use a special contract to lock in a good exchange rate now. This way, even if the currency does go down, their clients won't lose as much money. Hedging helps dealers manage the risk of the foreign exchange market, making it safer for everyone.
 
-Another strategy they might use is called scalping. Scalping means making a lot of small trades very quickly to take advantage of tiny changes in exchange rates. Dealers who use this strategy need to watch the market very closely and be ready to act fast. By making these small trades, they can earn a little bit of money from each one, and over time, these small profits can add up. Scalping requires a lot of skill and quick thinking, but it can be a good way for dealers to make money in the fast-moving world of forex trading.
+Another strategy they might use is called [scalping](/wiki/gamma-scalping). Scalping means making a lot of small trades very quickly to take advantage of tiny changes in exchange rates. Dealers who use this strategy need to watch the market very closely and be ready to act fast. By making these small trades, they can earn a little bit of money from each one, and over time, these small profits can add up. Scalping requires a lot of skill and quick thinking, but it can be a good way for dealers to make money in the fast-moving world of forex trading.
 
 ## How do technological advancements affect the operations of authorized forex dealers?
 

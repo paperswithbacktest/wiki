@@ -40,7 +40,7 @@ Long-term bonds, on the other hand, take much longer to mature, often more than 
 
 ## How does the maturity of a bond affect its interest rate risk?
 
-The maturity of a bond affects its interest rate risk a lot. Interest rate risk is the chance that the value of your bond will go down if interest rates go up. If you have a bond that matures soon, like a short-term bond, it has less interest rate risk. That's because you will get your money back quicker, so you won't be stuck with a bond that's worth less if interest rates rise. Short-term bonds are safer in this way.
+The maturity of a bond affects its [interest rate](/wiki/interest-rate-trading-strategies) risk a lot. Interest rate risk is the chance that the value of your bond will go down if interest rates go up. If you have a bond that matures soon, like a short-term bond, it has less interest rate risk. That's because you will get your money back quicker, so you won't be stuck with a bond that's worth less if interest rates rise. Short-term bonds are safer in this way.
 
 On the other hand, if you have a bond that takes a long time to mature, like a long-term bond, it has more interest rate risk. If interest rates go up, the value of your long-term bond can drop a lot. That's because you have to wait a long time to get your money back, and during that time, new bonds might be issued with higher interest rates. So, long-term bonds are riskier when it comes to changes in interest rates, but they also usually offer higher interest rates to make up for that risk.
 

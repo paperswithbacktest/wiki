@@ -24,7 +24,7 @@ Once you've typed the command and pressed enter, pip will start working. It migh
 
 A Backtesting.py script has a few important parts that work together to test a trading strategy. First, there's the data part. This is where you tell the script which past market data to use for the test. You need to load this data into the script so it knows what prices and other information to look at. Next, there's the strategy part. This is where you write down the rules for buying and selling. You tell the script things like when to buy, when to sell, and how much to buy or sell. This part is really important because it's the heart of your trading plan.
 
-Then, there's the backtesting part. This is where the script actually runs your strategy on the past data. It goes through the data day by day or minute by minute, following your rules to see what would have happened. After that, there's the analysis part. Here, the script shows you the results. It tells you things like how much money you would have made or lost, and other useful numbers that help you understand if your strategy worked well. All these parts together help you see if your trading ideas are good without risking real money.
+Then, there's the [backtesting](/wiki/backtesting) part. This is where the script actually runs your strategy on the past data. It goes through the data day by day or minute by minute, following your rules to see what would have happened. After that, there's the analysis part. Here, the script shows you the results. It tells you things like how much money you would have made or lost, and other useful numbers that help you understand if your strategy worked well. All these parts together help you see if your trading ideas are good without risking real money.
 
 ## How do you set up a simple trading strategy using Backtesting.py?
 
@@ -34,7 +34,7 @@ Next, you need to define the `next` method in your `Strategy` class. This method
 
 ## What types of data can be used with Backtesting.py for backtesting?
 
-Backtesting.py can work with different types of data, like stock prices, forex rates, and cryptocurrency values. You can use data that shows how prices changed over time, like daily or hourly prices. This data usually has columns for things like the opening price, highest price, lowest price, and closing price of a trading period. You can get this data from places like Yahoo Finance, which gives you free stock data, or from paid services that might give you more detailed information.
+Backtesting.py can work with different types of data, like stock prices, [forex](/wiki/forex-system) rates, and [cryptocurrency](/wiki/cryptocurrency) values. You can use data that shows how prices changed over time, like daily or hourly prices. This data usually has columns for things like the opening price, highest price, lowest price, and closing price of a trading period. You can get this data from places like Yahoo Finance, which gives you free stock data, or from paid services that might give you more detailed information.
 
 The data you use needs to be in a format that Backtesting.py can understand, like a pandas DataFrame. This means you might need to change the data a bit before you can use it. You can also add other information to your data, like trading volumes or technical indicators, if you think they will help your strategy. The main thing is that your data should have enough history so you can see how your trading ideas would have worked over a long time.
 

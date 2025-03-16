@@ -80,7 +80,7 @@ BMO also uses new technology to make banking better. They have things like onlin
 
 The Bank of Montreal, or BMO, is always looking ahead to make sure they keep helping people and businesses with their money. One big plan they have is to grow even more in the United States. They did this by buying Bank of the West, which helped them reach more customers there. BMO wants to keep finding new ways to grow and help more people, not just in Canada and the U.S., but maybe in other places too.
 
-Another important plan for BMO is to keep up with new technology. They want to make their online and mobile banking even better so that people can do more things easily from home or on their phones. BMO is also working on using new tools like artificial intelligence to help customers manage their money better. By doing these things, BMO hopes to stay a leader in banking and keep making their customers happy.
+Another important plan for BMO is to keep up with new technology. They want to make their online and mobile banking even better so that people can do more things easily from home or on their phones. BMO is also working on using new tools like [artificial intelligence](/wiki/ai-artificial-intelligence) to help customers manage their money better. By doing these things, BMO hopes to stay a leader in banking and keep making their customers happy.
 
 ## References & Further Reading
 

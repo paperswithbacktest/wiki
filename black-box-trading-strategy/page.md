@@ -42,7 +42,7 @@ Another disadvantage is that black box trading can lead to big losses if the sec
 
 To start using a black box trading strategy, you first need to learn about how the stock market works and how to write computer programs. You'll need to collect a lot of data about stocks, like prices and market trends. Then, you'll have to create your own secret formula, or algorithm, that looks at this data and decides when to buy or sell. This part can be hard because you need to know a lot about both trading and coding. Once you have your algorithm, you'll need to set up a system that can use it to make trades automatically.
 
-After you have your black box system ready, you'll need to test it to see if it works well. You can do this by using old market data to see how your strategy would have done in the past. This is called backtesting. If your system looks good in the tests, you can start using it with real money, but you'll need to watch it closely. Even though the details of your strategy are secret, you should still use tools to keep an eye on how it's doing and manage any risks. Remember, black box trading can be tricky, so always be ready to learn and make changes if something goes wrong.
+After you have your black box system ready, you'll need to test it to see if it works well. You can do this by using old market data to see how your strategy would have done in the past. This is called [backtesting](/wiki/backtesting). If your system looks good in the tests, you can start using it with real money, but you'll need to watch it closely. Even though the details of your strategy are secret, you should still use tools to keep an eye on how it's doing and manage any risks. Remember, black box trading can be tricky, so always be ready to learn and make changes if something goes wrong.
 
 ## What types of data are typically used in black box trading models?
 
@@ -58,7 +58,7 @@ Even though the details of how the black box works are secret, the system still 
 
 ## Can you explain the role of machine learning in black box trading?
 
-Machine learning plays a big role in black box trading. It helps the computer program learn from the data it sees. The program can look at lots of information like stock prices and market trends, and it uses this data to find patterns. Over time, the machine learning part of the black box gets better at spotting these patterns and making decisions about when to buy or sell stocks. This means the strategy can change and improve without someone having to tell it what to do.
+Machine learning plays a big role in black box trading. It helps the computer program learn from the data it sees. The program can look at lots of information like stock prices and market trends, and it uses this data to find patterns. Over time, the [machine learning](/wiki/machine-learning) part of the black box gets better at spotting these patterns and making decisions about when to buy or sell stocks. This means the strategy can change and improve without someone having to tell it what to do.
 
 Even though machine learning makes the black box smarter, it also makes it more mysterious. Because the program learns on its own, it can be hard to understand exactly why it's making certain trades. The details of how the machine learning works are part of the secret formula, so even the people using the black box might not know all the steps it's taking. This can be risky because if the market changes in a way the program didn't expect, it might make bad trades, and it can be tough to figure out what went wrong.
 
@@ -76,7 +76,7 @@ At the same time, regulators know that black box trading can be good for the mar
 
 ## What advanced techniques can enhance the performance of a black box trading system?
 
-One way to make a black box trading system work better is by using something called deep learning. This is a type of machine learning that can look at very complex patterns in data. By using deep learning, the black box can get better at figuring out what's going on in the market and making smarter trades. It's like teaching the computer to see things in the data that it couldn't see before, which can help it make more money.
+One way to make a black box trading system work better is by using something called [deep learning](/wiki/deep-learning). This is a type of machine learning that can look at very complex patterns in data. By using deep learning, the black box can get better at figuring out what's going on in the market and making smarter trades. It's like teaching the computer to see things in the data that it couldn't see before, which can help it make more money.
 
 Another technique is to use something called ensemble methods. This means using more than one black box model at the same time. Each model might look at the data a little differently, and by combining their decisions, the system can make better trades. It's like having a team of experts instead of just one, and the team can often make better choices than any single person. This can help the black box trading system be more reliable and successful.
 

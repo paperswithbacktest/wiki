@@ -18,7 +18,7 @@ When a borrower has a Ba1/BB+ rating, it means they are seen as having a higher 
 
 Credit rating agencies like Moody's and Standard & Poor's (S&P) assign Ba1/BB+ ratings. Their job is to look at how likely a borrower, like a company or a country, is to pay back money they borrow. They give a grade, or rating, to show how safe or risky it is to lend money to that borrower. Moody's uses Ba1 and S&P uses BB+, but both mean the same thing: the borrower is a bit risky but still okay.
 
-These agencies help investors make choices about where to put their money. If a borrower gets a Ba1/BB+ rating, it tells investors that there's a higher chance the borrower might not pay back the money on time. But it also means the borrower is not in the worst situation. Investors might want a higher interest rate to take on this extra risk. The agencies keep watching and can change the ratings if the borrower's situation gets better or worse.
+These agencies help investors make choices about where to put their money. If a borrower gets a Ba1/BB+ rating, it tells investors that there's a higher chance the borrower might not pay back the money on time. But it also means the borrower is not in the worst situation. Investors might want a higher [interest rate](/wiki/interest-rate-trading-strategies) to take on this extra risk. The agencies keep watching and can change the ratings if the borrower's situation gets better or worse.
 
 ## How does a Ba1/BB+ rating compare to other credit ratings?
 

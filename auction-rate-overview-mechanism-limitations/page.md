@@ -22,9 +22,9 @@ These securities are often used for things like city bonds or student loans. The
 
 ## What are the common types of auction rate securities?
 
-Auction rate securities come in a few common types. One type is auction rate municipal bonds, which are used by cities or states to borrow money for things like building schools or roads. These bonds have interest rates that change every few weeks, depending on what investors are willing to accept at the auction. Another type is auction rate preferred stock, which is a kind of stock that companies issue. Like the municipal bonds, the interest rate on these stocks changes at each auction.
+Auction rate securities come in a few common types. One type is auction rate municipal bonds, which are used by cities or states to borrow money for things like building schools or roads. These bonds have interest rates that change every few weeks, depending on what investors are willing to accept at the auction. Another type is auction rate preferred stock, which is a kind of stock that companies issue. Like the municipal bonds, the [interest rate](/wiki/interest-rate-trading-strategies) on these stocks changes at each auction.
 
-Another common type is auction rate student loan-backed securities. These are backed by student loans and work the same way as the other types. The interest rate changes at each auction, based on the bids from investors. All these types of securities can offer higher returns than regular fixed-rate investments, but they also carry more risk. If an auction fails because not enough people want to buy the securities, investors might have to wait until the next auction to sell their securities, which can be a problem if they need their money back sooner.
+Another common type is auction rate student loan-backed securities. These are backed by student loans and work the same way as the other types. The interest rate changes at each auction, based on the bids from investors. All these types of securities can offer higher returns than regular fixed-rate investments, but they also [carry](/wiki/carry-trading) more risk. If an auction fails because not enough people want to buy the securities, investors might have to wait until the next auction to sell their securities, which can be a problem if they need their money back sooner.
 
 ## Who are the typical investors in auction rate securities?
 
@@ -90,5 +90,5 @@ Another risk is that the interest rate can change a lot. Since the rate is set e
 
 - Books and articles discussing the historical evolution of financial markets and trading technologies furnish crucial context and foresight into future trends. Notable works include "Flash Boys: A Wall Street Revolt" by Michael Lewis, which investigates the rise of high-frequency trading, and "Principles" by Ray Dalio, giving insights into investment strategies and economic systems.
 
-These resources collectively offer a comprehensive foundation for understanding auction rate securities, algorithmic trading, and the ever-evolving landscape of financial markets.
+These resources collectively offer a comprehensive foundation for understanding auction rate securities, [algorithmic trading](/wiki/algorithmic-trading), and the ever-evolving landscape of financial markets.
 

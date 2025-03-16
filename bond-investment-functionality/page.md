@@ -24,7 +24,7 @@ Each type of bond has its own set of pros and cons, and the choice depends on yo
 
 ## How do bonds generate income for investors?
 
-Bonds generate income for investors mainly through interest payments. When you buy a bond, you are lending money to the issuer, like a company or the government. In return, they agree to pay you interest regularly, usually every six months, until the bond reaches its maturity date. This interest is like a reward for letting them use your money. The amount of interest you get depends on the bond's interest rate, which is set when the bond is issued. So, if you hold onto the bond until it matures, you will keep getting these regular interest payments.
+Bonds generate income for investors mainly through interest payments. When you buy a bond, you are lending money to the issuer, like a company or the government. In return, they agree to pay you interest regularly, usually every six months, until the bond reaches its maturity date. This interest is like a reward for letting them use your money. The amount of interest you get depends on the bond's [interest rate](/wiki/interest-rate-trading-strategies), which is set when the bond is issued. So, if you hold onto the bond until it matures, you will keep getting these regular interest payments.
 
 Besides the interest payments, you also get your original investment back when the bond matures. This is called the principal. So, not only do you earn income from the interest over time, but you also get your money back at the end. This makes bonds a good way to earn a steady income, especially if you need money coming in regularly. However, if you sell the bond before it matures, the price you get might be different from what you paid, depending on how interest rates have changed and the bond's credit rating.
 
@@ -52,7 +52,7 @@ Understanding these risks can help you make better choices about which bonds to 
 
 Bond ratings are like report cards for bonds. They tell you how safe a bond is. Agencies like Moody's, Standard & Poor's, and Fitch give bonds ratings based on how likely the issuer is to pay back the money they borrowed. A high rating, like AAA, means the bond is very safe and the issuer is likely to pay you back. A low rating, like BB or below, means the bond is riskier and there's a higher chance the issuer might not pay you back. When you're thinking about buying a bond, these ratings help you decide if it's a good investment for you.
 
-If you're someone who doesn't like taking big risks, you might choose bonds with high ratings. They might not give you as much interest, but they're more likely to pay you back. On the other hand, if you're okay with taking more risk for the chance to earn more money, you might look at bonds with lower ratings. These bonds usually offer higher interest to make up for the extra risk. So, bond ratings can guide you in picking the right bonds for your investment goals and how much risk you're comfortable with.
+If you're someone who doesn't like taking big risks, you might choose bonds with high ratings. They might not give you as much interest, but they're more likely to pay you back. On the other hand, if you're okay with taking more risk for the chance to earn more money, you might look at bonds with lower ratings. These bonds usually offer higher interest to make up for the extra risk. So, bond ratings can guide you in [picking](/wiki/asset-class-picking) the right bonds for your investment goals and how much risk you're comfortable with.
 
 ## What is the yield to maturity of a bond and how is it calculated?
 
@@ -76,7 +76,7 @@ Bonds also help you manage risk because they can act like a safety net. Differen
 
 Advanced investors can use bond ladders to manage their cash flow in a smart way. A bond ladder is when you buy bonds that mature at different times. Imagine you have five bonds, and each one matures a year apart. When the first bond matures, you get your money back and can either spend it or buy another bond. This way, you have money coming in every year, which helps you plan your cash flow better. It's like having a steady stream of income that you can count on.
 
-Using a bond ladder helps you manage the risk of interest rates changing. If rates go up, you can reinvest the money from the bonds that mature at the new, higher rate. If rates go down, you still have the older bonds that were bought at higher rates, so you're not stuck with all your money earning less. This strategy gives you flexibility and helps keep your cash flow stable, no matter what happens with interest rates.
+Using a bond ladder helps you manage the risk of interest rates changing. If rates go up, you can reinvest the money from the bonds that mature at the new, higher rate. If rates go down, you still have the older bonds that were bought at higher rates, so you're not stuck with all your money [earning](/wiki/earning-announcement) less. This strategy gives you flexibility and helps keep your cash flow stable, no matter what happens with interest rates.
 
 ## What are the tax implications of investing in bonds and how can they be optimized?
 

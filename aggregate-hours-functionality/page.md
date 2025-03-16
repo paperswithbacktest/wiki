@@ -28,7 +28,7 @@ Another important source of data is the Current Population Survey (CPS), which i
 
 ## Which agencies are responsible for reporting Aggregate Hours statistics?
 
-The main agency responsible for reporting Aggregate Hours statistics is the Bureau of Labor Statistics (BLS). They collect data through the Current Employment Statistics (CES) program. In this program, they ask businesses and government agencies about their employees and the total hours these employees worked. This helps the BLS figure out the total number of hours worked in different industries and the whole economy.
+The main agency responsible for reporting Aggregate Hours [statistics](/wiki/bayesian-statistics) is the Bureau of Labor Statistics (BLS). They collect data through the Current Employment Statistics (CES) program. In this program, they ask businesses and government agencies about their employees and the total hours these employees worked. This helps the BLS figure out the total number of hours worked in different industries and the whole economy.
 
 Another agency that helps with Aggregate Hours data is the Census Bureau. They work with the BLS on the Current Population Survey (CPS). This survey asks people in households about their jobs and how many hours they worked in the past week. By combining the information from both the CES and CPS, the government can get a full picture of Aggregate Hours. This information is important for understanding how the economy is doing and making good decisions about policies.
 

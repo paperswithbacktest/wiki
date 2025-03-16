@@ -42,7 +42,7 @@ The final stage happens when the price breaks out of the bottom of the flag. Thi
 
 ## What are the common entry points for trading a Bear Flag pattern?
 
-When you want to trade a Bear Flag pattern, the main entry point is when the price breaks out of the bottom of the flag. This break tells you that the sellers are still strong and the price might keep going down. So, you can enter a short position, which means you are betting that the price will fall. This breakout is important because it confirms that the bearish trend is likely to continue.
+When you want to trade a Bear Flag pattern, the main entry point is when the price breaks out of the bottom of the flag. This break tells you that the sellers are still strong and the price might keep going down. So, you can enter a short position, which means you are betting that the price will fall. This [breakout](/wiki/breakout-trading) is important because it confirms that the bearish trend is likely to continue.
 
 Another entry point some traders use is right before the breakout, when the price is still inside the flag. They watch the price closely and enter a short position when it looks like it's about to break out. This can be riskier because the breakout might not happen, but it can also give you a better price if you get it right. Both ways need you to watch the chart carefully to make sure you enter at the right time.
 
@@ -68,7 +68,7 @@ Lastly, some traders hold onto their trades for too long, hoping for bigger prof
 
 ## How does volume play a role in confirming a Bear Flag pattern?
 
-Volume is important when you are looking at a Bear Flag pattern because it helps you know if the pattern is strong. When the price drops fast to make the flagpole, you want to see a lot of volume. This means many people are selling the stock, and it shows that the sellers are strong. If the volume is low during the flagpole, it might mean the pattern is not as strong, and the price might not keep going down.
+Volume is important when you are looking at a Bear Flag pattern because it helps you know if the pattern is strong. When the price drops fast to make the flagpole, you want to see a lot of [volume](/wiki/volume-trading-strategy). This means many people are selling the stock, and it shows that the sellers are strong. If the volume is low during the flagpole, it might mean the pattern is not as strong, and the price might not keep going down.
 
 When the price breaks out of the bottom of the flag, you also want to see high volume. High volume at the breakout means more people are selling and it confirms that the bearish trend might continue. If the volume is low when the price breaks out, it might not be a good sign. The breakout might not be strong enough, and the price might not drop as much as you expect. So, watching the volume can help you decide if the Bear Flag pattern is a good one to trade.
 

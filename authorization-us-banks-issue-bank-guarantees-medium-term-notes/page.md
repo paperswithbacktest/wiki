@@ -28,7 +28,7 @@ Once a bank gets the green light, they can start issuing bank guarantees to thei
 
 ## What are the regulatory requirements for U.S. banks to issue MTNs?
 
-U.S. banks need to follow rules set by the Securities and Exchange Commission (SEC) to issue Medium Term Notes (MTNs). They have to register the MTNs with the SEC, which means they need to provide detailed information about the notes, like how much they are worth, what the interest rate is, and how long they last. This helps investors know what they are buying. Banks also need to make sure they follow rules about how they sell the MTNs, making sure they don't trick people or hide important information.
+U.S. banks need to follow rules set by the Securities and Exchange Commission (SEC) to issue Medium Term Notes (MTNs). They have to register the MTNs with the SEC, which means they need to provide detailed information about the notes, like how much they are worth, what the [interest rate](/wiki/interest-rate-trading-strategies) is, and how long they last. This helps investors know what they are buying. Banks also need to make sure they follow rules about how they sell the MTNs, making sure they don't trick people or hide important information.
 
 Once the MTNs are registered, banks need to keep following rules to make sure they stay honest and fair. They have to report regularly to the SEC about how the MTNs are doing and if anything changes. This helps keep investors informed and safe. Banks also need to have enough money to pay back the MTNs when they are due, which is important for keeping trust with investors.
 

@@ -46,7 +46,7 @@ Another way to mitigate the risks is to set clear limits on how much you're will
 
 ## What psychological factors influence a trader's decision to make a blind entry?
 
-One big psychological factor that can lead to a blind entry is the fear of missing out, or FOMO. When traders see others making money or hear about a hot tip, they might feel like they need to jump in quickly to not miss out on the gains. This fear can push them to make quick decisions without thinking things through or doing any research. They might follow the crowd without understanding what they're getting into, hoping to make easy money.
+One big psychological [factor](/wiki/factor-investing) that can lead to a blind entry is the fear of missing out, or FOMO. When traders see others making money or hear about a hot tip, they might feel like they need to jump in quickly to not miss out on the gains. This fear can push them to make quick decisions without thinking things through or doing any research. They might follow the crowd without understanding what they're getting into, hoping to make easy money.
 
 Another psychological factor is overconfidence. Some traders might think they know more than they actually do, or they might trust advice from friends or online sources too much. This overconfidence can make them believe that they can make a good trade even without all the information. They might ignore the risks and go ahead with a blind entry, thinking that they're smart enough to make it work out. This can lead to big losses if the trade doesn't go as planned.
 

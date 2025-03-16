@@ -42,7 +42,7 @@ Sometimes, bigger companies that are going through tough times might also get th
 
 Investing in something with a Ba2 or BB rating can be risky. These ratings mean that the company or country might have trouble paying back the money they owe. This could happen because they are not making enough money, or because they have too much debt. If they can't pay back their loans, you might lose some or all of the money you invested.
 
-Because of this risk, if you decide to invest in a Ba2 or BB rated company or country, you might have to accept a higher interest rate. This is because lenders want more money to take on the extra risk. But even with a higher interest rate, there's still a chance you won't get all your money back. So, it's important to think carefully before putting your money into these kinds of investments.
+Because of this risk, if you decide to invest in a Ba2 or BB rated company or country, you might have to accept a higher [interest rate](/wiki/interest-rate-trading-strategies). This is because lenders want more money to take on the extra risk. But even with a higher interest rate, there's still a chance you won't get all your money back. So, it's important to think carefully before putting your money into these kinds of investments.
 
 ## How do Ba2/BB ratings impact the cost of borrowing for issuers?
 

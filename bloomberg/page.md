@@ -76,7 +76,7 @@ Bloomberg has also faced controversy over privacy and data security. In the past
 
 ## What future developments can we expect from Bloomberg in the financial sector?
 
-Bloomberg is always working on new things to help people who work with money. They might make the Bloomberg Terminal even better by adding new tools and information. This could help traders and investors make even smarter decisions. They might also use new technology like artificial intelligence to make their news and data services better. This could mean faster and more accurate information for users.
+Bloomberg is always working on new things to help people who work with money. They might make the Bloomberg Terminal even better by adding new tools and information. This could help traders and investors make even smarter decisions. They might also use new technology like [artificial intelligence](/wiki/ai-artificial-intelligence) to make their news and data services better. This could mean faster and more accurate information for users.
 
 Another thing Bloomberg might do is focus more on financial education. They could create more training programs and courses to help people learn about money and finance. This could be useful for students and people who are new to the financial world. By doing this, Bloomberg could help more people understand how to work with money and make good choices.
 

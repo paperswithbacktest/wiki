@@ -78,7 +78,7 @@ Now, Bitcoin is much more popular and many more people know about it. Its value 
 
 The Bitcoin pizza purchase teaches us that investing in cryptocurrencies can be risky because their value can change a lot. When Laszlo Hanyecz bought two pizzas for 10,000 Bitcoins in 2010, those Bitcoins were worth about $41. Now, those same Bitcoins would be worth millions of dollars. This shows how much the value of Bitcoin can go up over time. It's important for people to think about how much risk they want to take when they invest in cryptocurrencies.
 
-Another lesson from the pizza purchase is that timing can be very important in cryptocurrency investments. If someone had bought Bitcoins right after Laszlo's purchase and held onto them, they could have made a lot of money. But it's hard to know when the best time to buy or sell is. So, people need to do a lot of research and be ready for the value to go up and down before they decide to invest in cryptocurrencies.
+Another lesson from the pizza purchase is that timing can be very important in [cryptocurrency](/wiki/cryptocurrency) investments. If someone had bought Bitcoins right after Laszlo's purchase and held onto them, they could have made a lot of money. But it's hard to know when the best time to buy or sell is. So, people need to do a lot of research and be ready for the value to go up and down before they decide to invest in cryptocurrencies.
 
 ## References & Further Reading
 

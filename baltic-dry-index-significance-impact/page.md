@@ -22,7 +22,7 @@ Once they have all the estimates, the Baltic Exchange puts them together to crea
 
 ## What does the Baltic Dry Index measure?
 
-The Baltic Dry Index (BDI) measures how much it costs to ship dry bulk commodities like coal, iron ore, and grains across the world's oceans. It's like a big number that tells us how much money shipping companies are charging to move these goods from one place to another. The BDI is calculated every day by the Baltic Exchange, which is a company in London. They ask ship brokers how much it would cost to rent different types of ships to carry goods on specific routes, and then they use this information to figure out the average cost.
+The Baltic Dry Index (BDI) measures how much it costs to ship dry bulk commodities like coal, iron ore, and grains across the world's oceans. It's like a big number that tells us how much money shipping companies are charging to move these goods from one place to another. The BDI is calculated every day by the Baltic Exchange, which is a company in London. They ask ship brokers how much it would cost to rent different types of ships to [carry](/wiki/carry-trading) goods on specific routes, and then they use this information to figure out the average cost.
 
 The BDI is important because it can show us how healthy the global economy is. When the BDI goes up, it usually means that more goods are being shipped, which can be a sign that the economy is doing well. When the BDI goes down, it might mean that fewer goods are being shipped, which could be a sign of economic trouble. Because the BDI only looks at the cost of shipping dry bulk commodities, it's seen as a good, unbiased way to measure economic activity without being affected by things like oil prices or currency changes.
 

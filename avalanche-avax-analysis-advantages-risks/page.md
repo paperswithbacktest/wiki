@@ -26,7 +26,7 @@ Lastly, Avalanche allows developers to create their own custom blockchains, some
 
 The Avalanche platform is known for being fast and able to handle many transactions at once. It can process thousands of transactions per second, which is much faster than many other blockchains like Ethereum. This makes it great for applications that need to work quickly and not get slowed down. Avalanche also uses a special way to agree on transactions called Avalanche consensus. This method is not only fast but also uses less energy than the methods used by other blockchains, making it more eco-friendly.
 
-Another important feature of Avalanche is that it lets developers create their own custom blockchains. This is not as easy to do on other platforms like Ethereum. By allowing this, Avalanche gives developers the freedom to build networks that fit their specific needs. The native cryptocurrency of Avalanche, called AVAX, is used to pay for transaction fees and can be staked to help secure the network. People who stake their AVAX can earn rewards, which encourages more people to get involved and keep the network running smoothly.
+Another important feature of Avalanche is that it lets developers create their own custom blockchains. This is not as easy to do on other platforms like Ethereum. By allowing this, Avalanche gives developers the freedom to build networks that fit their specific needs. The native [cryptocurrency](/wiki/cryptocurrency) of Avalanche, called AVAX, is used to pay for transaction fees and can be staked to help secure the network. People who stake their AVAX can earn rewards, which encourages more people to get involved and keep the network running smoothly.
 
 ## How does the consensus mechanism of Avalanche work?
 

@@ -32,7 +32,7 @@ Now, look at the vertical axis, which is the line on the left side of the graph.
 
 Bar graphs are great for showing data that can be split into different groups or categories. For example, if you want to show how many people like different kinds of pizza, like pepperoni, cheese, or veggie, a bar graph is perfect. Each bar can stand for a different pizza type, and the height of the bar can show how many people like that type. This makes it easy to see which pizza is the most popular at a glance.
 
-Bar graphs are also good for showing changes over time. If you want to show how many books a library loans out each month, you can use a bar graph. Each bar can represent a different month, and the height of the bar can show the number of books loaned out. This way, you can quickly see if the number of loans goes up or down from month to month.
+Bar graphs are also good for showing changes over time. If you want to show how many [books](/wiki/algo-trading-books) a library loans out each month, you can use a bar graph. Each bar can represent a different month, and the height of the bar can show the number of books loaned out. This way, you can quickly see if the number of loans goes up or down from month to month.
 
 ## How do you create a basic bar graph?
 

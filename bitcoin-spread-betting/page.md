@@ -64,7 +64,7 @@ Using leverage can be exciting because it lets you bet on bigger changes in Bitc
 
 ## What are the key indicators to watch when spread betting on Bitcoin?
 
-When you're spread betting on Bitcoin, it's important to keep an eye on some key indicators that can help you guess where the price might go. One big thing to watch is the overall trend of Bitcoin's price. If it's been going up for a while, it might keep going up, and if it's been going down, it might keep going down. Another important indicator is trading volume, which shows how many Bitcoins are being bought and sold. If the volume is high, it means a lot of people are interested in Bitcoin, and the price might change more quickly.
+When you're spread betting on Bitcoin, it's important to keep an eye on some key indicators that can help you guess where the price might go. One big thing to watch is the overall trend of Bitcoin's price. If it's been going up for a while, it might keep going up, and if it's been going down, it might keep going down. Another important indicator is trading [volume](/wiki/volume-trading-strategy), which shows how many Bitcoins are being bought and sold. If the volume is high, it means a lot of people are interested in Bitcoin, and the price might change more quickly.
 
 You should also pay attention to technical indicators like moving averages, which can help you see the average price of Bitcoin over time. If the current price is above the moving average, it might be a good sign that the price will keep going up. And don't forget about the Relative Strength Index (RSI), which can tell you if Bitcoin is being bought or sold too much. If the RSI is very high, it might mean the price is too high and could go down soon. If it's very low, it might mean the price is too low and could go up. Keeping an eye on these indicators can help you make smarter bets on Bitcoin.
 
@@ -78,7 +78,7 @@ Another important part of managing risk is to not use too much leverage. Leverag
 
 For expert Bitcoin spread bettors, there are several advanced tools and platforms that can help make better bets. One popular platform is MetaTrader 4 (MT4) and MetaTrader 5 (MT5). These platforms let you use lots of different technical indicators and charts to see what Bitcoin's price might do next. They also have tools like 'stop loss' and 'take profit' that can help you manage your risks better. Another tool that experts use is TradingView, which has lots of charts and a big community where people share ideas about Bitcoin's price.
 
-Another important tool for expert bettors is algorithmic trading software. This software uses math to make bets for you based on rules you set. It can help you make quick bets without having to watch the price all the time. Some experts also use platforms like NinjaTrader, which has lots of tools for making and testing trading strategies. These advanced tools and platforms can help expert bettors make smarter bets and manage their risks better, but they need to learn how to use them well.
+Another important tool for expert bettors is [algorithmic trading](/wiki/algorithmic-trading) software. This software uses math to make bets for you based on rules you set. It can help you make quick bets without having to watch the price all the time. Some experts also use platforms like NinjaTrader, which has lots of tools for making and testing trading strategies. These advanced tools and platforms can help expert bettors make smarter bets and manage their risks better, but they need to learn how to use them well.
 
 ## References & Further Reading
 

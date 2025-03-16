@@ -22,7 +22,7 @@ Also, because the lot sizes are smaller in a mini account, the profits and losse
 
 ## What are the typical lot sizes and leverage options available with mini forex accounts?
 
-In a mini forex account, the typical lot size is 10,000 units of the base currency. This is smaller than the 100,000 units used in a standard account. The smaller lot size means that each trade involves less money, making it easier for beginners to start trading without needing a large amount of capital.
+In a mini [forex](/wiki/forex-system) account, the typical lot size is 10,000 units of the base currency. This is smaller than the 100,000 units used in a standard account. The smaller lot size means that each trade involves less money, making it easier for beginners to start trading without needing a large amount of capital.
 
 Leverage options for mini forex accounts can vary depending on the broker, but they often range from 1:50 to 1:400. Leverage lets you control a larger position with less money. For example, with 1:100 leverage, you can control a $10,000 position with just $100. This can increase your potential profits, but it also increases the risk, so it's important to use leverage carefully.
 

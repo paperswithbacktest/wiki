@@ -28,7 +28,7 @@ The rule is important for all kinds of investments, like stocks, bonds, and othe
 
 ## What are the key components of the Best Execution Rule?
 
-The Best Execution Rule is all about making sure that when brokers buy or sell things like stocks for their clients, they try their best to get the best price. This means that brokers need to look at different places where they can make the trade and choose the one that gives the best deal. It's not just about picking the easiest or quickest option; it's about finding the place that will give the client the most value for their money.
+The Best Execution Rule is all about making sure that when brokers buy or sell things like stocks for their clients, they try their best to get the best price. This means that brokers need to look at different places where they can make the trade and choose the one that gives the best deal. It's not just about [picking](/wiki/asset-class-picking) the easiest or quickest option; it's about finding the place that will give the client the most value for their money.
 
 This rule is important because it helps protect people who invest their money. When brokers follow this rule, they show that they care about getting the best price for their clients, not just doing what's easiest for them. This builds trust between brokers and their clients, and it makes the whole financial market fairer and more honest. Everyone, from big investors to small ones, benefits from knowing that their brokers are working hard to get them the best possible deal.
 

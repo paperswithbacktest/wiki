@@ -78,7 +78,7 @@ Another thing to consider is the time difference and how it can affect the payme
 
 Different financial institutions can handle the assignment of proceeds in different ways. Some banks might have strict rules and need a lot of paperwork before they agree to handle the payment. They might want to see the sales contract, invoices, and other documents to make sure everything is okay. Other banks might be more flexible and easier to work with. They might not need as many documents and could agree to handle the payment faster. It's important for the seller to talk to different banks and see which one fits their needs best.
 
-Even though the basic idea of an assignment of proceeds is the same everywhere, how it works can change from one bank to another. Some banks might charge higher fees for their services, while others might have lower fees but take longer to process everything. The seller needs to understand these differences and choose a bank that offers the best balance of speed, cost, and service. By doing their homework and picking the right bank, the seller can make sure they get their money safely and on time.
+Even though the basic idea of an assignment of proceeds is the same everywhere, how it works can change from one bank to another. Some banks might charge higher fees for their services, while others might have lower fees but take longer to process everything. The seller needs to understand these differences and choose a bank that offers the best balance of speed, cost, and service. By doing their homework and [picking](/wiki/asset-class-picking) the right bank, the seller can make sure they get their money safely and on time.
 
 ## References & Further Reading
 

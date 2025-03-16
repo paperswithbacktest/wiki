@@ -28,7 +28,7 @@ Bonds with ratings below BBB, like BB, B, CCC, CC, C, and D, are called speculat
 
 ## How do bond ratings affect the interest rates of bonds?
 
-Bond ratings have a big effect on the interest rates that bonds offer. When a bond has a high rating, like AAA or AA, it is seen as very safe. Because it's safe, people are happy to buy these bonds even if the interest rate is low. So, safer bonds usually have lower interest rates. This is because investors feel confident that they will get their money back, so they don't need a high reward for lending it.
+Bond ratings have a big effect on the interest rates that bonds offer. When a bond has a high rating, like AAA or AA, it is seen as very safe. Because it's safe, people are happy to buy these bonds even if the [interest rate](/wiki/interest-rate-trading-strategies) is low. So, safer bonds usually have lower interest rates. This is because investors feel confident that they will get their money back, so they don't need a high reward for lending it.
 
 On the other hand, bonds with lower ratings, like BB or B, are riskier. There's a bigger chance that the company or government might not pay back the money. To get people to buy these riskier bonds, they need to offer higher interest rates. The higher interest rate is like a reward for taking the risk. So, the lower the bond rating, the higher the interest rate usually is, because investors need more incentive to buy them.
 

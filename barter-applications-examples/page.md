@@ -28,7 +28,7 @@ As societies grew and became more complex, barter continued to be important. Anc
 
 ## Can you provide examples of barter in everyday life?
 
-Barter happens in everyday life when people trade things without using money. For example, if you have some old clothes that you don't wear anymore, you might trade them with a friend who has some books you want to read. Both of you get something new without spending any money. This kind of trade can happen between friends, family, or even neighbors.
+Barter happens in everyday life when people trade things without using money. For example, if you have some old clothes that you don't wear anymore, you might trade them with a friend who has some [books](/wiki/algo-trading-books) you want to read. Both of you get something new without spending any money. This kind of trade can happen between friends, family, or even neighbors.
 
 Another example is when someone needs help with a task, like fixing a bike, and they don't have money to pay for it. They might offer to help with something else in return, like cooking a meal or helping with gardening. This way, both people get what they need by trading skills or services. Barter can be a useful way to get things done without using money, especially when people trust each other and have something the other person wants.
 

@@ -46,7 +46,7 @@ Another common benchmark is the S&P SmallCap 600 Index. This index tracks 600 sm
 
 ## How can the Russell 2000 Index be used as a benchmark for small-cap stocks?
 
-The Russell 2000 Index is a popular way to measure how well small-cap stocks are doing. It includes 2000 of the smallest companies in the U.S. stock market. When investors want to see if their small-cap stocks are doing well, they can compare them to the Russell 2000. If their stocks are doing better than the index, it means they are picking good companies. If they are doing worse, it might be time to rethink their choices.
+The Russell 2000 Index is a popular way to measure how well small-cap stocks are doing. It includes 2000 of the smallest companies in the U.S. stock market. When investors want to see if their small-cap stocks are doing well, they can compare them to the Russell 2000. If their stocks are doing better than the index, it means they are [picking](/wiki/asset-class-picking) good companies. If they are doing worse, it might be time to rethink their choices.
 
 Using the Russell 2000 as a benchmark helps investors understand their investment performance. It gives them a clear picture of how the average small company is doing, so they can see if their picks are beating the average. This can help them make better decisions about buying or selling stocks and adjusting their investment strategy to meet their goals.
 

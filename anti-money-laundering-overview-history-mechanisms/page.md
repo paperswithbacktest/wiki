@@ -54,7 +54,7 @@ To make sure these measures work well, financial institutions use special softwa
 
 Financial institutions use special software to help them spot and stop money laundering. This software looks at how money moves in and out of accounts and can find patterns that might be signs of dirty money. For example, if someone is breaking up a big amount of money into smaller ones to avoid being noticed, the software can see that. It also helps banks know when to take a closer look at what's going on. By using this technology, banks can catch people who are trying to hide their illegal money more easily.
 
-Another important technology is artificial intelligence (AI). AI can learn from past money movements and get better at spotting strange things. It can look at lots of information very quickly and find things that a person might miss. For example, AI can see if someone is moving money in a way that doesn't make sense, like sending money to a country they have no connection with. By using AI, financial institutions can be even better at stopping money laundering and keeping their systems safe.
+Another important technology is [artificial intelligence](/wiki/ai-artificial-intelligence) (AI). AI can learn from past money movements and get better at spotting strange things. It can look at lots of information very quickly and find things that a person might miss. For example, AI can see if someone is moving money in a way that doesn't make sense, like sending money to a country they have no connection with. By using AI, financial institutions can be even better at stopping money laundering and keeping their systems safe.
 
 ## What are the challenges faced in enforcing anti-money laundering laws?
 

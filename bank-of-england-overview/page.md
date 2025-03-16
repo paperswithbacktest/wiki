@@ -46,7 +46,7 @@ The MPC tries to keep prices stable, which means they want to stop things from g
 
 The Bank of England sets interest rates through its Monetary Policy Committee (MPC). The MPC meets eight times a year to look at the economy and decide if the interest rates should change. They think about things like how fast prices are going up, how well the economy is doing, and what might happen in the future. If they think prices are going up too fast, they might raise the interest rates to slow things down. If the economy needs a boost, they might lower the interest rates to make borrowing cheaper and encourage people to spend more.
 
-When the MPC decides on a new interest rate, they announce it to the public. This rate is called the "Bank Rate," and it affects the whole economy. Banks use this rate to set their own interest rates for loans and savings. If the Bank Rate goes up, borrowing money becomes more expensive, and people might spend less. If it goes down, borrowing becomes cheaper, and people might spend more. By changing the Bank Rate, the Bank of England helps to keep the economy balanced and prices stable.
+When the MPC decides on a new [interest rate](/wiki/interest-rate-trading-strategies), they announce it to the public. This rate is called the "Bank Rate," and it affects the whole economy. Banks use this rate to set their own interest rates for loans and savings. If the Bank Rate goes up, borrowing money becomes more expensive, and people might spend less. If it goes down, borrowing becomes cheaper, and people might spend more. By changing the Bank Rate, the Bank of England helps to keep the economy balanced and prices stable.
 
 ## What is quantitative easing and how has the Bank of England used it?
 

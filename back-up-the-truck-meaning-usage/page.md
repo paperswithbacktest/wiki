@@ -34,7 +34,7 @@ However, if everyone in a formal setting understands the phrase and uses it ofte
 
 ## How has the usage of 'Back Up The Truck' evolved over time?
 
-The phrase "Back Up The Truck" started in the world of business and finance. People used it when they saw a stock that was very cheap and thought it would go up in value. They would say they wanted to "back up the truck" to buy as many shares as they could. This was like saying the deal was so good, they needed a truck to carry all the shares they wanted to buy.
+The phrase "Back Up The Truck" started in the world of business and finance. People used it when they saw a stock that was very cheap and thought it would go up in value. They would say they wanted to "back up the truck" to buy as many shares as they could. This was like saying the deal was so good, they needed a truck to [carry](/wiki/carry-trading) all the shares they wanted to buy.
 
 Over time, the phrase moved beyond just stocks and into everyday language. People started using it to talk about buying a lot of anything that was a good deal. Whether it was groceries, clothes, or anything else on sale, if someone thought it was a great deal, they might say they wanted to "back up the truck" and get as much of it as they could. This shows how the phrase became more common and used in many different situations.
 

@@ -18,7 +18,7 @@ The Taka is important because it helps the economy of Bangladesh run smoothly. W
 
 In Bangladesh, people use the Taka for all kinds of daily transactions. When someone goes to the market to buy vegetables, they pay with Taka. If they take a bus or a rickshaw, they use Taka to pay the fare. People also use Taka to buy things like clothes, electronics, and even to pay for services like haircuts or doctor visits. In shops and stores, you will see prices listed in Taka, and people use Taka notes and coins to make their purchases.
 
-Even online, the Taka is used for transactions. Many people in Bangladesh use mobile banking services like bKash or Rocket to send and receive money, pay bills, and shop online. These services make it easy to use Taka digitally, without needing to carry cash. Whether it's buying something from a street vendor or paying for a subscription service, the Taka is the currency that makes these everyday transactions possible in Bangladesh.
+Even online, the Taka is used for transactions. Many people in Bangladesh use mobile banking services like bKash or Rocket to send and receive money, pay bills, and shop online. These services make it easy to use Taka digitally, without needing to [carry](/wiki/carry-trading) cash. Whether it's buying something from a street vendor or paying for a subscription service, the Taka is the currency that makes these everyday transactions possible in Bangladesh.
 
 ## What are the denominations of the Bangladeshi Taka?
 

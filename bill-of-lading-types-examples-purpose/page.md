@@ -80,7 +80,7 @@ To keep Bills of Lading secure, businesses should use strong safety measures. If
 
 In the future, technology will play a bigger role in how Bills of Lading are used and managed. One big trend is the use of blockchain. Blockchain is like a secure digital notebook that everyone can see but no one can change without everyone knowing. It can help make Bills of Lading safer and easier to track. With blockchain, businesses can see every step of the shipping process and know that the Bill of Lading is real and hasn't been changed. This can help stop fraud and make shipping more trustworthy.
 
-Another trend is the use of artificial intelligence (AI) and smart systems. AI can help check Bills of Lading for mistakes and make sure everything is correct before they are sent out. It can also help with managing the whole shipping process, making it faster and more efficient. As more businesses start using electronic Bills of Lading, these smart systems will become even more important. They can help keep everything organized and make sure that the goods get to where they need to go on time.
+Another trend is the use of [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and smart systems. AI can help check Bills of Lading for mistakes and make sure everything is correct before they are sent out. It can also help with managing the whole shipping process, making it faster and more efficient. As more businesses start using electronic Bills of Lading, these smart systems will become even more important. They can help keep everything organized and make sure that the goods get to where they need to go on time.
 
 ## References & Further Reading
 

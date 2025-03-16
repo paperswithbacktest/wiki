@@ -40,13 +40,13 @@ On the other hand, Weighted Average Maturity (WAM) is simpler. It just looks at 
 
 ## What impact does AEM have on interest rate risk?
 
-Average Effective Maturity (AEM) affects how much interest rate risk you face with your bond investments. If the AEM of your bond portfolio is long, it means your money is tied up for a longer time. This makes your bonds more sensitive to changes in interest rates. If interest rates go up, the value of your bonds might go down because new bonds will offer higher interest rates, making your older bonds less attractive to buyers.
+Average Effective Maturity (AEM) affects how much [interest rate](/wiki/interest-rate-trading-strategies) risk you face with your bond investments. If the AEM of your bond portfolio is long, it means your money is tied up for a longer time. This makes your bonds more sensitive to changes in interest rates. If interest rates go up, the value of your bonds might go down because new bonds will offer higher interest rates, making your older bonds less attractive to buyers.
 
 On the other hand, if the AEM is short, your bonds are less sensitive to interest rate changes. Your money comes back to you faster, so you can reinvest it at the new, higher interest rates if they go up. This means less risk because you're not stuck with low-interest bonds for a long time. So, understanding the AEM of your bond portfolio helps you know how much interest rate risk you're taking on.
 
 ## How does AEM affect the yield of a bond portfolio?
 
-Average Effective Maturity (AEM) can affect the yield of a bond portfolio in a big way. If the AEM is long, it means your money is in the bonds for a longer time. This can be good because you get to keep earning interest for longer. If interest rates stay the same or go down, you'll end up with a higher yield because you're getting paid interest over a longer period. But, if interest rates go up, the yield on your bonds might not look as good compared to new bonds that offer higher rates.
+Average Effective Maturity (AEM) can affect the yield of a bond portfolio in a big way. If the AEM is long, it means your money is in the bonds for a longer time. This can be good because you get to keep [earning](/wiki/earning-announcement) interest for longer. If interest rates stay the same or go down, you'll end up with a higher yield because you're getting paid interest over a longer period. But, if interest rates go up, the yield on your bonds might not look as good compared to new bonds that offer higher rates.
 
 On the other hand, if the AEM is short, your money comes back to you faster. This means you can reinvest it sooner, maybe at a higher interest rate if rates have gone up. But, you'll also earn interest for a shorter time, so your overall yield might be lower unless you can find a way to reinvest at a better rate. So, the AEM helps you understand how long you'll earn interest and how changes in interest rates might affect the yield of your bond portfolio.
 

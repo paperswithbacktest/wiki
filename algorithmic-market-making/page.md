@@ -90,7 +90,7 @@ Jane Street stands out for its use of proprietary algorithms to effectively navi
 
 Optiver is another leader in algorithmic market making, known for its specialization in options trading. Based in Amsterdam, Optiver employs cutting-edge technologies to maintain a strong presence in global financial markets. The firm leverages complex mathematical models to price options with precision, facilitating liquidity and ensuring market depth. Its commitment to innovation and technology allows Optiver to adapt to changing market conditions swiftly, maintaining robust market-making operations worldwide.
 
-These firms highlight the transformative impact of algorithmic trading in market making, as they continually push the boundaries of speed, efficiency, and accuracy in financial markets. Through their pioneering efforts, Citadel Securities, Jane Street, and Optiver set industry standards and contribute significantly to the evolution of market-making practices in the digital age.
+These firms highlight the transformative impact of [algorithmic trading](/wiki/algorithmic-trading) in market making, as they continually push the boundaries of speed, efficiency, and accuracy in financial markets. Through their pioneering efforts, Citadel Securities, Jane Street, and Optiver set industry standards and contribute significantly to the evolution of market-making practices in the digital age.
 
 ## References & Further Reading
 

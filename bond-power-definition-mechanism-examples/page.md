@@ -84,11 +84,11 @@ Another example is a family where the parents, John and Lisa, have been married 
 
 ## References & Further Reading
 
-Lopez de Prado, M. "Advances in Financial Machine Learning." Wiley. This book explores the application of machine learning to finance, offering insights into the development of models that can enhance trading strategies. Lopez de Prado provides detailed methodologies for deploying advanced machine learning techniques in trading, emphasizing data analysis and model evaluation.
+Lopez de Prado, M. "Advances in Financial Machine Learning." Wiley. This book explores the application of [machine learning](/wiki/machine-learning) to finance, offering insights into the development of models that can enhance trading strategies. Lopez de Prado provides detailed methodologies for deploying advanced machine learning techniques in trading, emphasizing data analysis and model evaluation.
 
 Aronson, D. R. "Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals." Wiley. Aronson's work focuses on the application of scientific methods to technical analysis, advocating for the rigorous testing of trading signals. The book guides readers on how to apply statistical inference to improve the reliability of trading strategies.
 
-Jansen, S. "Machine Learning for Algorithmic Trading: A Step-by-Step Guide to Predictive Modeling and Strategy Design." Packt Publishing. Jansen provides a comprehensive guide on creating predictive models for trading. The book covers the full process from data preprocessing to strategy [backtesting](/wiki/backtesting), making it a valuable resource for anyone interested in algorithmic trading.
+Jansen, S. "Machine Learning for Algorithmic Trading: A Step-by-Step Guide to Predictive Modeling and Strategy Design." Packt Publishing. Jansen provides a comprehensive guide on creating predictive models for trading. The book covers the full process from data preprocessing to strategy [backtesting](/wiki/backtesting), making it a valuable resource for anyone interested in [algorithmic trading](/wiki/algorithmic-trading).
 
 Chan, E. P. "Quantitative Trading: How to Build Your Own Algorithmic Trading Business." Wiley. This book offers practical advice on setting up a [quantitative trading](/wiki/quantitative-trading) business. Chan focuses on designing trading strategies, understanding market risks, and the technological infrastructure necessary for algorithmic trading.
 

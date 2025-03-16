@@ -54,7 +54,7 @@ One big reason for longer economic cycles is better economic policies. Governmen
 
 ## What factors influence the duration of economic booms and busts?
 
-Many things can change how long an economic boom or bust lasts. One big factor is what the government does. If the government spends more money or changes interest rates, it can help the economy grow longer or make a bust less bad. Another factor is what people and businesses do. If people keep spending money and businesses keep investing, a boom can last longer. But if people start saving more and businesses stop investing, a bust can come faster.
+Many things can change how long an economic boom or bust lasts. One big [factor](/wiki/factor-investing) is what the government does. If the government spends more money or changes interest rates, it can help the economy grow longer or make a bust less bad. Another factor is what people and businesses do. If people keep spending money and businesses keep investing, a boom can last longer. But if people start saving more and businesses stop investing, a bust can come faster.
 
 The world also plays a big role. If other countries are doing well, it can help a boom last longer. But if there are big problems in other countries, it can make a bust worse. Technology and new ideas can also affect how long booms and busts last. New technology can make the economy grow faster, making booms longer. But if the economy depends too much on one thing, like housing, a bust can be worse when that thing stops growing.
 

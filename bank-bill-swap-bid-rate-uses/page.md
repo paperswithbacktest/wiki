@@ -22,7 +22,7 @@ After removing the highest and lowest rates, AFMA averages the middle rates to f
 
 ## Who uses the BBSY and for what purposes?
 
-The BBSY is used by banks and financial institutions in Australia. They use it to decide how much interest to charge on loans and other financial products like mortgages, business loans, and credit cards. When banks lend money to each other, they also use the BBSY to figure out the interest rate for these short-term loans. This helps them manage their money and plan for the future.
+The BBSY is used by banks and financial institutions in Australia. They use it to decide how much interest to charge on loans and other financial products like mortgages, business loans, and credit cards. When banks lend money to each other, they also use the BBSY to figure out the [interest rate](/wiki/interest-rate-trading-strategies) for these short-term loans. This helps them manage their money and plan for the future.
 
 People and businesses also feel the impact of the BBSY. If the BBSY goes up, the interest rates on loans can go up too, making borrowing more expensive. On the other hand, if the BBSY goes down, loans can become cheaper. This rate is important for anyone who needs to borrow money because it affects how much they will have to pay back.
 

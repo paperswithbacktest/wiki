@@ -28,7 +28,7 @@ The collapse of these hedge funds was a big warning sign that something was very
 
 ## When did the Bear Stearns hedge fund collapse occur?
 
-The Bear Stearns hedge fund collapse happened in the summer of 2007. There were two hedge funds involved: the Bear Stearns High-Grade Structured Credit Fund and the Bear Stearns High-Grade Structured Credit Enhanced Leveraged Fund. These funds had invested a lot of money in mortgage-backed securities, which are investments linked to home loans. When people started having trouble paying their home loans, the value of these securities went down a lot. This caused the funds to lose a lot of money very quickly.
+The Bear Stearns [hedge fund](/wiki/hedge-fund-trading-strategies) collapse happened in the summer of 2007. There were two hedge funds involved: the Bear Stearns High-Grade Structured Credit Fund and the Bear Stearns High-Grade Structured Credit Enhanced Leveraged Fund. These funds had invested a lot of money in mortgage-backed securities, which are investments linked to home loans. When people started having trouble paying their home loans, the value of these securities went down a lot. This caused the funds to lose a lot of money very quickly.
 
 The collapse of these hedge funds was a big warning sign that the housing market was in trouble. It also showed that Bear Stearns was taking too many risks. This made people lose trust in Bear Stearns, and it was one of the reasons why the whole company got into big trouble. Eventually, in March 2008, Bear Stearns was bought by JPMorgan Chase to stop it from going completely out of business.
 

@@ -52,7 +52,7 @@ Sometimes, news or events can change what people think about a stock very quickl
 
 ## What impact does batch trading have on market volatility?
 
-Batch trading can help reduce market volatility. This is because all the trades happen at the same time instead of all day long. When trades are done in batches, the prices don't change as quickly as they do in continuous trading. This means that if a lot of people want to sell a stock, the price might not drop as fast because the orders are all processed together. It's like everyone gets a chance to see where the price is going to be before they decide to buy or sell.
+Batch trading can help reduce market [volatility](/wiki/volatility-trading-strategies). This is because all the trades happen at the same time instead of all day long. When trades are done in batches, the prices don't change as quickly as they do in continuous trading. This means that if a lot of people want to sell a stock, the price might not drop as fast because the orders are all processed together. It's like everyone gets a chance to see where the price is going to be before they decide to buy or sell.
 
 But batch trading can also lead to some big price changes at the times when the batches are processed. If a lot of people want to buy or sell at the same time, the price can jump a lot when the batch is done. This can make the market seem a bit more unpredictable at those specific times. Still, overall, batch trading can make the market calmer because it slows down how fast prices can change.
 
@@ -76,7 +76,7 @@ On the other hand, continuous trading systems need rules that keep the market st
 
 ## What advanced strategies can be employed in continuous trading to optimize returns?
 
-In continuous trading, experienced traders can use a strategy called "day trading" to try to make money from small changes in stock prices during the day. They buy a stock when they think the price will go up and sell it quickly when it does. This can be done many times in one day. Day traders often use charts and other tools to guess where the price might go next. They might also use "stop-loss orders" to automatically sell a stock if it starts to lose too much value, which helps them manage their risk.
+In continuous trading, experienced traders can use a strategy called "[day trading](/wiki/day-trading-spy)" to try to make money from small changes in stock prices during the day. They buy a stock when they think the price will go up and sell it quickly when it does. This can be done many times in one day. Day traders often use charts and other tools to guess where the price might go next. They might also use "stop-loss orders" to automatically sell a stock if it starts to lose too much value, which helps them manage their risk.
 
 Another strategy is "swing trading," where traders hold onto a stock for a few days or weeks, trying to catch bigger price moves. They look for patterns in the stock's price over time and try to buy when they think the price will start going up and sell when they think it's about to go down. Swing traders need to be good at reading the market and understanding how news and events can affect stock prices. Both day trading and swing trading need a lot of practice and a good understanding of the market to work well.
 

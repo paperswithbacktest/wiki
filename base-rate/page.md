@@ -54,13 +54,13 @@ Using base rates can also help doctors decide which tests to do. If an illness i
 
 ## What role do base rates play in Bayesian statistics?
 
-In Bayesian statistics, base rates are super important because they help us start with a guess about how likely something is before we get any new information. Think of it like this: if you're trying to figure out if it will rain today, you might start by looking at how often it rains in your area during this time of year. That's the base rate. It gives you a starting point, or what's called the "prior probability," to make your guess.
+In Bayesian [statistics](/wiki/bayesian-statistics), base rates are super important because they help us start with a guess about how likely something is before we get any new information. Think of it like this: if you're trying to figure out if it will rain today, you might start by looking at how often it rains in your area during this time of year. That's the base rate. It gives you a starting point, or what's called the "prior probability," to make your guess.
 
 When new information comes in, like a weather report saying there's a chance of rain, Bayesian statistics lets you update your guess. You take the base rate and mix it with the new information to get a new, better guess, or what's called the "posterior probability." By always thinking about the base rate, you make sure your guesses stay realistic and connected to what usually happens. This helps you make smarter decisions based on all the information you have.
 
 ## How can understanding base rates improve machine learning models?
 
-Understanding base rates can make machine learning models better by helping them start with a good guess about how common something is. For example, if a model is trying to guess if someone will buy a product, it can look at how often people usually buy that product. This starting guess, or base rate, helps the model make better predictions right from the beginning. Without knowing the base rate, the model might make wrong guesses and learn the wrong things, which can make it less accurate.
+Understanding base rates can make [machine learning](/wiki/machine-learning) models better by helping them start with a good guess about how common something is. For example, if a model is trying to guess if someone will buy a product, it can look at how often people usually buy that product. This starting guess, or base rate, helps the model make better predictions right from the beginning. Without knowing the base rate, the model might make wrong guesses and learn the wrong things, which can make it less accurate.
 
 By using base rates, machine learning models can also learn faster and be more fair. When a model knows how common something is, it can pay more attention to new information that's different from what's normal. This helps the model learn from unusual cases without forgetting what's common. Also, using base rates can help make sure the model treats everyone fairly, because it starts with a realistic view of the world instead of making guesses based on too little information.
 

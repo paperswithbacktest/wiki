@@ -92,5 +92,5 @@ Another important strategy is to build strong relationships with local banks and
 
 - Forbes. (2019). Bitcoin and Currency Restrictions: A Global Perspective. Available at https://www.forbes.com/sites/bitcoin-currency-restrictions  
 
-These resources provide comprehensive insights into blocked currencies, the influence of monetary policy on currency restrictions, and the evolution of algorithmic trading within forex markets. Each reference offers valuable data and analyses that contribute to understanding the complex dynamics affecting global finance and investment strategies.
+These resources provide comprehensive insights into blocked currencies, the influence of monetary policy on currency restrictions, and the evolution of [algorithmic trading](/wiki/algorithmic-trading) within [forex](/wiki/forex-system) markets. Each reference offers valuable data and analyses that contribute to understanding the complex dynamics affecting global finance and investment strategies.
 

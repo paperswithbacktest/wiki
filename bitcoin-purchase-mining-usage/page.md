@@ -24,7 +24,7 @@ Remember, buying Bitcoin can be a bit tricky at first, but once you get the hang
 
 ## What are the different methods to store Bitcoin securely?
 
-There are several ways to store Bitcoin securely, and the best choice depends on what you need and how much you want to spend. One common way is to use a digital wallet on your computer or phone. These wallets can be easy to use and set up, but they can also be risky if your device gets hacked or stolen. Some people choose to use wallets provided by cryptocurrency exchanges, which can be convenient but also come with risks because you're trusting the exchange to keep your Bitcoin safe.
+There are several ways to store Bitcoin securely, and the best choice depends on what you need and how much you want to spend. One common way is to use a digital wallet on your computer or phone. These wallets can be easy to use and set up, but they can also be risky if your device gets hacked or stolen. Some people choose to use wallets provided by [cryptocurrency](/wiki/cryptocurrency) exchanges, which can be convenient but also come with risks because you're trusting the exchange to keep your Bitcoin safe.
 
 Another safer option is to use a hardware wallet, which is a special device that looks like a USB stick. It keeps your Bitcoin offline, making it much harder for hackers to steal it. You can plug the hardware wallet into your computer when you want to move your Bitcoin, but the actual Bitcoin stays safe on the device. This method is more expensive than using a digital wallet, but it's one of the most secure ways to store your Bitcoin.
 
@@ -74,7 +74,7 @@ Taxes can be tricky with Bitcoin. If you earn Bitcoin, like from mining or getti
 
 ## How does the volatility of Bitcoin affect its use as a currency or investment?
 
-The price of Bitcoin can go up and down a lot, which is called volatility. This can make it hard to use Bitcoin as money for everyday things. If you buy something with Bitcoin, the price might be different by the time you get it. This can make it hard to know how much you're really spending. It's like trying to buy something with a dollar that keeps changing its value. Because of this, not many stores accept Bitcoin, and it can be tricky to use it for regular shopping.
+The price of Bitcoin can go up and down a lot, which is called [volatility](/wiki/volatility-trading-strategies). This can make it hard to use Bitcoin as money for everyday things. If you buy something with Bitcoin, the price might be different by the time you get it. This can make it hard to know how much you're really spending. It's like trying to buy something with a dollar that keeps changing its value. Because of this, not many stores accept Bitcoin, and it can be tricky to use it for regular shopping.
 
 But, the volatility of Bitcoin can also make it a good investment. Some people buy Bitcoin hoping its price will go up so they can sell it later for more money. It's kind of like buying a stock that can go up or down a lot. This can be exciting but also risky. If the price goes down, you could lose money. So, people who want to invest in Bitcoin need to be ready for big changes and think carefully about how much risk they're willing to take.
 

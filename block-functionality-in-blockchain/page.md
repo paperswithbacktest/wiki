@@ -40,7 +40,7 @@ Block time is important because it affects how fast the blockchain can process t
 
 ## What is a block reward and how does it incentivize miners?
 
-A block reward is like a prize that miners get for adding a new block to the blockchain. When a miner solves the puzzle to create a new block, they get to keep some of the cryptocurrency from that block as a reward. This reward is a big reason why miners work hard to add new blocks. It's like getting paid for doing a job, but instead of money, they get cryptocurrency.
+A block reward is like a prize that miners get for adding a new block to the blockchain. When a miner solves the puzzle to create a new block, they get to keep some of the [cryptocurrency](/wiki/cryptocurrency) from that block as a reward. This reward is a big reason why miners work hard to add new blocks. It's like getting paid for doing a job, but instead of money, they get cryptocurrency.
 
 The block reward is important because it encourages miners to keep the blockchain running smoothly. If there were no rewards, miners might not want to spend their time and energy solving puzzles. But with the block reward, they have a reason to keep working, which helps keep the blockchain safe and growing. As more blocks are added, the blockchain becomes stronger and more secure, all thanks to the miners being motivated by their rewards.
 

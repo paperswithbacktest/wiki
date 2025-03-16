@@ -78,15 +78,15 @@ Overall, deflation can be good for some parts of the economy because it makes th
 
 ## What are the potential risks and challenges associated with managing deflation effectively?
 
-Managing deflation effectively can be really hard because it can lead to a lot of problems if it's not handled right. One big risk is that if prices keep going down, people might wait to buy things, thinking they'll be even cheaper later. This can make businesses sell less and might even cause them to close down or lay off workers. If a lot of businesses do this, it can slow down the whole economy. Another challenge is that deflation can make it harder for people who owe money. If they have to pay back loans with money that's worth more than when they borrowed it, it can be tough for them, especially if they're earning less because of the slowing economy.
+Managing deflation effectively can be really hard because it can lead to a lot of problems if it's not handled right. One big risk is that if prices keep going down, people might wait to buy things, thinking they'll be even cheaper later. This can make businesses sell less and might even cause them to close down or lay off workers. If a lot of businesses do this, it can slow down the whole economy. Another challenge is that deflation can make it harder for people who owe money. If they have to pay back loans with money that's worth more than when they borrowed it, it can be tough for them, especially if they're [earning](/wiki/earning-announcement) less because of the slowing economy.
 
 Another risk is that deflation can make people save more and spend less, which can make the economy even slower. When people save more, businesses don't sell as much, and this can lead to a cycle where prices keep falling and people keep saving, making things worse. Governments and central banks have to be careful when trying to stop deflation because the things they do, like lowering interest rates or printing more money, might not work if people still think prices will keep going down. It's a tricky balance to get right, and if they don't, the economy could stay stuck in a bad spot for a long time.
 
 ## References & Further Reading
 
-Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). "Algorithms for Hyper-Parameter Optimization." Advances in Neural Information Processing Systems, 24, highlights methodologies for optimizing algorithmic trading strategies by fine-tuning hyper-parameters, a critical aspect for adapting to deflationary environments.
+Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). "Algorithms for Hyper-Parameter Optimization." Advances in Neural Information Processing Systems, 24, highlights methodologies for optimizing [algorithmic trading](/wiki/algorithmic-trading) strategies by fine-tuning hyper-parameters, a critical aspect for adapting to deflationary environments.
 
-Lopez de Prado, M. "Advances in Financial Machine Learning," provides insights into machine learning applications in finance, essential for developing adaptive algorithmic trading systems capable of responding to economic fluctuations such as deflation.
+Lopez de Prado, M. "Advances in Financial Machine Learning," provides insights into [machine learning](/wiki/machine-learning) applications in finance, essential for developing adaptive algorithmic trading systems capable of responding to economic fluctuations such as deflation.
 
 Aronson, D. "Evidence-Based Technical Analysis," emphasizes the importance of data-driven decision-making in trading, underpinning the need for strategies that can efficiently operate in deflationary markets.
 

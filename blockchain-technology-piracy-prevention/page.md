@@ -24,7 +24,7 @@ The key to blockchain is that once information is added, it's very hard to chang
 
 ## What is piracy in the context of digital content?
 
-Piracy in the context of digital content means copying or sharing things like movies, music, or books without permission from the people who made them. It's like taking something that belongs to someone else without asking. People often do this by downloading files from the internet or sharing them with others.
+Piracy in the context of digital content means copying or sharing things like movies, music, or [books](/wiki/algo-trading-books) without permission from the people who made them. It's like taking something that belongs to someone else without asking. People often do this by downloading files from the internet or sharing them with others.
 
 This can hurt the people who created the content because they don't get paid for their work. It's against the law in many places and can lead to big problems for those who do it. Companies and creators try to stop piracy by using special technology and working with the law to protect their rights.
 

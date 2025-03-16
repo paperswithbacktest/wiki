@@ -30,7 +30,7 @@ These funds believe that by understanding and going against these common mistake
 
 Typical investors in Behavioral Funds are often people who are interested in understanding how human behavior affects the stock market. They might be looking for a different way to invest their money, one that takes into account not just the numbers, but also how people feel and think about their investments. These investors might be curious about why people make certain financial decisions and how those decisions can be used to find good investment opportunities.
 
-These investors could also be people who want to try a strategy that goes against the usual way of picking stocks. They might believe that by understanding and using the patterns in how people behave, they can do better than traditional investment methods. Behavioral Funds attract those who are willing to take a bit of a different approach, hoping that it will lead to better returns over time.
+These investors could also be people who want to try a strategy that goes against the usual way of [picking](/wiki/asset-class-picking) stocks. They might believe that by understanding and using the patterns in how people behave, they can do better than traditional investment methods. Behavioral Funds attract those who are willing to take a bit of a different approach, hoping that it will lead to better returns over time.
 
 ## What are the main strategies used by Behavioral Funds?
 
@@ -70,7 +70,7 @@ For example, if a good company gets some bad news and everyone starts selling it
 
 ## How can one evaluate the performance of a Behavioral Fund?
 
-To evaluate the performance of a Behavioral Fund, you can start by looking at how it has done over time compared to the market. You might check its returns over different periods, like one year, three years, or five years. It's good to see if the fund has beaten the market or if it has done better than similar funds. Another thing to look at is how much the fund's value goes up and down, which is called volatility. If the fund's value changes a lot, it might be riskier, but it could also mean bigger wins or losses.
+To evaluate the performance of a Behavioral Fund, you can start by looking at how it has done over time compared to the market. You might check its returns over different periods, like one year, three years, or five years. It's good to see if the fund has beaten the market or if it has done better than similar funds. Another thing to look at is how much the fund's value goes up and down, which is called [volatility](/wiki/volatility-trading-strategies). If the fund's value changes a lot, it might be riskier, but it could also mean bigger wins or losses.
 
 You can also look at other things like how much the fund costs to invest in. Fees can eat into your returns, so a fund with lower fees might be better if it performs well. It's also helpful to read reports from the fund managers to understand their strategy and how they use behavioral finance to pick stocks. By looking at all these things together, you can get a good idea of how well the Behavioral Fund is doing and if it's a good fit for your investment goals.
 

@@ -18,7 +18,7 @@ The way Bitcoin Private works is a bit different from regular Bitcoin. It uses s
 
 Bitcoin Private is different from Bitcoin mainly because it focuses on giving users more privacy. When you use Bitcoin, everyone can see your transactions on the blockchain, which is like a public record. But with Bitcoin Private, it uses a special technology called zk-snarks to keep your transactions private. This means that while people can see that a transaction happened, they can't see who sent the money or who received it. So, if you want to keep your financial activities secret, Bitcoin Private might be better for you than regular Bitcoin.
 
-Another way Bitcoin Private differs from Bitcoin is how it was created. Bitcoin Private is a mix of Bitcoin and another cryptocurrency called ZClassic. It started in 2018, which makes it newer than Bitcoin. Both have a limited number of coins, but Bitcoin Private was made to add privacy features that Bitcoin doesn't have. So, if privacy is important to you, Bitcoin Private offers something that Bitcoin does not.
+Another way Bitcoin Private differs from Bitcoin is how it was created. Bitcoin Private is a mix of Bitcoin and another [cryptocurrency](/wiki/cryptocurrency) called ZClassic. It started in 2018, which makes it newer than Bitcoin. Both have a limited number of coins, but Bitcoin Private was made to add privacy features that Bitcoin doesn't have. So, if privacy is important to you, Bitcoin Private offers something that Bitcoin does not.
 
 ## What are the main objectives of Bitcoin Private?
 

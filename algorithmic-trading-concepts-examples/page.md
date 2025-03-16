@@ -138,7 +138,7 @@ The most common algorithmic trading strategies range from simple to sophisticate
 
 8. **High-Frequency Trading (HFT)** - Less a strategy, more a style. Think scalping tiny price gaps or front-running orders with microsecond execution. It’s for pros with deep pockets and custom tech—think co-located servers—not beginners.
 
-Each has its sweet spot. Momentum loves [volatility](/wiki/volatility-trading-strategies); mean reversion hates it. Arbitrage needs precision; [market making](/wiki/market-making) needs volume. Beginners might start with crossovers or mean reversion since they’re easier to code and test, while advanced traders layer in pairs or HFT with beefier tools. Pick based on your market, data, and stomach for risk.
+Each has its sweet spot. Momentum loves [volatility](/wiki/volatility-trading-strategies); mean reversion hates it. Arbitrage needs precision; [market making](/wiki/market-making) needs [volume](/wiki/volume-trading-strategy). Beginners might start with crossovers or mean reversion since they’re easier to code and test, while advanced traders layer in pairs or [HFT](/wiki/high-frequency-trading-strategies) with beefier tools. Pick based on your market, data, and stomach for risk.
 
 ## How does backtesting improve algorithmic trading performance?  
 
@@ -148,11 +148,11 @@ First, it reveals if your idea even holds water. You feed your algorithm—like 
 
 It also exposes weaknesses. Maybe your strategy nails uptrends but gets shredded in choppy markets. Backtesting shows you the hit rate (percent of profitable trades), average profit versus loss, and max losing streaks. You can spot if it’s overfitted—tuned too perfectly to past quirks that won’t repeat—or if it chokes on transaction costs you forgot to include. For example, a high-frequency scalper might look golden until commissions eat the gains.
 
-Tweaking becomes data-driven, not guesswork. Say your 10-day/50-day crossover lags too much; backtesting lets you test a 5-day/20-day version instead. You see the impact on returns and risk (like Sharpe ratio) instantly. It’s iterative—adjust, retest, refine—until the algo’s robust across different market conditions, like bull runs or crashes.
+Tweaking becomes data-driven, not guesswork. Say your 10-day/50-day crossover lags too much; [backtesting](/wiki/backtesting) lets you test a 5-day/20-day version instead. You see the impact on returns and risk (like Sharpe ratio) instantly. It’s iterative—adjust, retest, refine—until the algo’s robust across different market conditions, like bull runs or crashes.
 
 Risk management sharpens, too. Backtesting shows your worst drawdown—maybe a 20% dip in 2018’s volatility spike. You can size positions or set stop-losses to survive that, not just hope it works. It’s not foolproof—past data doesn’t guarantee future wins, and “black swan” events like 2020’s pandemic crash can blindside you—but it cuts naive errors.
 
-Tools like Python’s `backtrader` or MetaTrader’s strategy tester make it accessible. You just need clean data (Yahoo Finance, Quandl) and realistic assumptions (slippage, fees). Without it, you’re flying blind; with it, you’ve got a map—imperfect, but miles ahead of gut instinct.
+Tools like Python’s `[backtrader](/wiki/backtrader)` or MetaTrader’s strategy tester make it accessible. You just need clean data (Yahoo Finance, Quandl) and realistic assumptions (slippage, fees). Without it, you’re flying blind; with it, you’ve got a map—imperfect, but miles ahead of gut instinct.
 
 ## What role does data play in designing trading algorithms?  
 
@@ -166,7 +166,7 @@ Data variety shapes sophistication. Basic algos might just use price and volume,
 
 Quality trumps everything. Data needs to be reliable—adjusted for splits, dividends, or glitches—and high-resolution if your strategy demands it (daily bars won’t cut it for [scalping](/wiki/gamma-scalping)). Free sources like Yahoo Finance work for starters, but pros pay for Bloomberg or Refinitiv to avoid delays or errors. Bad data can fool you into overconfidence; a strategy “winning” on corrupted numbers flops live.
 
-Finally, it’s about adaptation. Live data—streamed via APIs from brokers like Interactive Brokers—keeps your algo reacting to the market now, not just yesterday. Designing with this in mind means coding for speed and handling outliers (a flash crash shouldn’t nuke you). Data isn’t static; it’s the pulse that keeps your algo alive and evolving. Skimp on it, and you’re building on sand.
+Finally, it’s about adaptation. Live data—streamed via APIs from brokers like [Interactive Brokers](/wiki/interactive-brokers-api)—keeps your algo reacting to the market now, not just yesterday. Designing with this in mind means coding for speed and handling outliers (a flash crash shouldn’t nuke you). Data isn’t static; it’s the pulse that keeps your algo alive and evolving. Skimp on it, and you’re building on sand.
 
 ## How do you manage risk in algorithmic trading?  
 
@@ -180,7 +180,7 @@ Diversify your trades. If your algo only plays one stock or strategy (say, [mome
 
 Leverage is a double-edged sword. Borrowing amps up gains but magnifies losses. Cap it in your code—maybe 2:1 max—and monitor margin use live. A 50% drawdown on a leveraged account can wipe you out faster than you can blink. Algos don’t flinch, so you have to enforce discipline upfront.
 
-Monitor real-time. Markets shift—volatility spikes, liquidity dries up. Build alerts or kill switches: “If drawdown hits 10% today, pause trading.” This catches bugs or black swans (think 2020 flash crash) before they spiral. Test for slippage, too—your backtest might assume perfect fills, but live trades don’t, so pad your risk calc for that.
+Monitor real-time. Markets shift—volatility spikes, [liquidity](/wiki/liquidity-risk-premium) dries up. Build alerts or kill switches: “If drawdown hits 10% today, pause trading.” This catches bugs or black swans (think 2020 flash crash) before they spiral. Test for slippage, too—your backtest might assume perfect fills, but live trades don’t, so pad your risk calc for that.
 
 Finally, stress-test everything. Run your algo on historical worst-case scenarios—2008 meltdown, 2018 Volmageddon. If it survives with acceptable losses, you’re in decent shape. Risk management isn’t sexy, but it’s why pros last while amateurs bust. Code it tight, test it hard, and don’t trust luck.
 

@@ -84,7 +84,7 @@ Using data analytics also makes it easier to manage many assets at the same time
 
 In expert-level asset condition assessments, advanced techniques like thermography are used to find problems that you can't see with your eyes. Thermography uses special cameras that can see heat. By looking at the heat patterns on an asset, experts can find places where things might be wearing out or breaking down. For example, if a part of a machine is hotter than it should be, it might mean there's a problem inside that needs fixing. This technique is really helpful because it can show issues early, before they cause big trouble.
 
-Another advanced technique is using drones with high-tech sensors. Drones can fly around and take pictures or videos from places that are hard for people to reach, like the top of a tall building or under a bridge. These drones can also carry sensors that measure things like vibrations or sounds, which can tell experts if something is wrong with the asset. By using drones, experts can get a lot of information quickly and safely, which helps them make better decisions about what needs to be fixed and when.
+Another advanced technique is using drones with high-tech sensors. Drones can fly around and take pictures or videos from places that are hard for people to reach, like the top of a tall building or under a bridge. These drones can also [carry](/wiki/carry-trading) sensors that measure things like vibrations or sounds, which can tell experts if something is wrong with the asset. By using drones, experts can get a lot of information quickly and safely, which helps them make better decisions about what needs to be fixed and when.
 
 ## References & Further Reading
 

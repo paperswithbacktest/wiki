@@ -22,7 +22,7 @@ Bitcoin Maximalists believe that Bitcoin's design and its large, secure network 
 
 ## What is the philosophy behind Bitcoin Maximalism?
 
-The philosophy behind Bitcoin Maximalism is simple: Bitcoin is the best and only cryptocurrency that matters. People who believe in this idea think that Bitcoin is better than any other digital money because it was the first one and has the biggest and safest network. They believe that other cryptocurrencies, or altcoins, do not offer anything special or better than what Bitcoin already does. Because of this, Bitcoin Maximalists think that Bitcoin will be the only digital currency that lasts in the long run.
+The philosophy behind Bitcoin Maximalism is simple: Bitcoin is the best and only [cryptocurrency](/wiki/cryptocurrency) that matters. People who believe in this idea think that Bitcoin is better than any other digital money because it was the first one and has the biggest and safest network. They believe that other cryptocurrencies, or altcoins, do not offer anything special or better than what Bitcoin already does. Because of this, Bitcoin Maximalists think that Bitcoin will be the only digital currency that lasts in the long run.
 
 Bitcoin Maximalists often warn others about the risks of investing in other cryptocurrencies. They think that putting money into altcoins is a bad idea because those other digital currencies are not as good or safe as Bitcoin. They believe that Bitcoin will become the standard for money worldwide and that it is the only digital currency worth focusing on. This strong belief in Bitcoin drives their actions and advice to others in the world of cryptocurrency.
 

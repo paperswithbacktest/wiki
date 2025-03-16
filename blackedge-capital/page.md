@@ -22,7 +22,7 @@ The story about BlackEdge Capital was used to teach people about the dangers of 
 
 ## Who are the founders of BlackEdge Capital?
 
-BlackEdge Capital is not a real company. It was made up for a story about a hedge fund. The story was about how the company used secret information to make money, which is against the law. This kind of action is called insider trading.
+BlackEdge Capital is not a real company. It was made up for a story about a [hedge fund](/wiki/hedge-fund-trading-strategies). The story was about how the company used secret information to make money, which is against the law. This kind of action is called insider trading.
 
 Because BlackEdge Capital is not real, it doesn't have real founders. The story used the fake company to show people how bad things can happen in the finance world. It helped people learn about the dangers of breaking the rules and why it's important to follow the law in finance.
 
@@ -58,7 +58,7 @@ The story about BlackEdge Capital helped people learn about the dangers of break
 
 ## What are the key factors that differentiate BlackEdge Capital from other investment firms?
 
-BlackEdge Capital is not a real company. It was made up for a story about a hedge fund that used secret information to make money. This kind of action is called insider trading and is against the law. In the story, BlackEdge Capital was shown as different from other investment firms because it used secret information to make its trades. This made it seem like they were very good at picking investments, but really they were just cheating.
+BlackEdge Capital is not a real company. It was made up for a story about a hedge fund that used secret information to make money. This kind of action is called insider trading and is against the law. In the story, BlackEdge Capital was shown as different from other investment firms because it used secret information to make its trades. This made it seem like they were very good at [picking](/wiki/asset-class-picking) investments, but really they were just cheating.
 
 The story about BlackEdge Capital helped people learn about the dangers of breaking rules in the finance world. It showed how some people in finance can do bad things to make money and how hard it can be to catch them. Even though BlackEdge Capital is not real, the story helped people understand why it's important to follow the law in finance and not use secret information to make trades.
 

@@ -40,7 +40,7 @@ Expectations of future prices can make backwardation happen because they change 
 
 ## What impact does the cost of carry have on backwardation?
 
-The cost of carry is what it costs to keep a commodity until you sell it. It includes things like storage, insurance, and interest on money you borrowed to buy the commodity. When the cost of carry is high, it can make backwardation less likely because people will want to be paid more to hold onto the commodity until the future. But if the cost of carry is low, it can help cause backwardation because people won't need as much extra money to keep the commodity, so the price for the future can be lower than the price today.
+The cost of [carry](/wiki/carry-trading) is what it costs to keep a commodity until you sell it. It includes things like storage, insurance, and interest on money you borrowed to buy the commodity. When the cost of carry is high, it can make backwardation less likely because people will want to be paid more to hold onto the commodity until the future. But if the cost of carry is low, it can help cause backwardation because people won't need as much extra money to keep the commodity, so the price for the future can be lower than the price today.
 
 In backwardation, the futures price is lower than the spot price. If the cost of carry is low, people might be okay with selling the commodity now at a higher price and buying a futures contract at a lower price. This is because the cost of keeping the commodity until the future isn't too high. So, low costs of carry can make backwardation more likely to happen.
 
@@ -64,7 +64,7 @@ Some investors might also use backwardation to predict future price changes. If 
 
 ## What advanced strategies can be used to profit from backwardation?
 
-One advanced strategy to profit from backwardation is called a cash-and-carry arbitrage. This is when traders buy the commodity at the current high price and then sell a futures contract at the lower future price. They make money from the difference between these two prices. But they also have to think about the cost of keeping the commodity until the future, like storage and insurance. If these costs are low enough, the strategy can work well. Traders need to be careful and make sure the profit from the price difference is more than the cost of carry.
+One advanced strategy to profit from backwardation is called a cash-and-carry [arbitrage](/wiki/arbitrage). This is when traders buy the commodity at the current high price and then sell a futures contract at the lower future price. They make money from the difference between these two prices. But they also have to think about the cost of keeping the commodity until the future, like storage and insurance. If these costs are low enough, the strategy can work well. Traders need to be careful and make sure the profit from the price difference is more than the cost of carry.
 
 Another strategy is to use options. Traders can buy put options on the commodity, which give them the right to sell it at a certain price in the future. If the market stays in backwardation and the future price stays low, the value of the put option can go up. Traders can then sell the put option for a profit. This strategy can be good because it limits the risk. The most a trader can lose is the price they paid for the option. But if the market changes and goes into contango, the value of the put option might go down, so traders need to watch the market closely.
 

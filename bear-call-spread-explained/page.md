@@ -64,7 +64,7 @@ But time decay can also be a problem if the stock price goes up a lot. If the st
 
 ## What is the impact of implied volatility on a Bear Call Spread?
 
-Implied volatility is how much people think a stock's price might move in the future. When you set up a Bear Call Spread, high implied volatility can be good for you because it means you get more money from selling the call option at the lower strike price. This is because options with high implied volatility are more expensive. So, if you think the stock price will stay the same or go down a little, you can use the extra money you get from the high implied volatility to increase your potential profit.
+Implied [volatility](/wiki/volatility-trading-strategies) is how much people think a stock's price might move in the future. When you set up a Bear Call Spread, high implied volatility can be good for you because it means you get more money from selling the call option at the lower strike price. This is because options with high implied volatility are more expensive. So, if you think the stock price will stay the same or go down a little, you can use the extra money you get from the high implied volatility to increase your potential profit.
 
 But, if implied volatility goes down after you set up your Bear Call Spread, it can be bad for you. This is because the value of both options you sold and bought will go down. But since you got more money from selling the first call option, the drop in implied volatility can help you keep more of the net premium you received. However, if the stock price goes up a lot, a drop in implied volatility won't help you much. You could still lose money, but the most you can lose is the difference between the two strike prices minus the net premium you received.
 

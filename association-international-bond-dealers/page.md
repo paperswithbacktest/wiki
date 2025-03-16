@@ -78,7 +78,7 @@ The AIBD also helps its members learn about new rules and changes in the bond ma
 
 The AIBD helps its members deal with market ups and downs and economic problems by making sure everyone follows the same rules. These rules help keep the bond market stable, even when things get tough. When everyone knows what to expect, it makes it easier to handle sudden changes in the market. The AIBD also keeps its members informed about what's happening in the economy. This way, they can make smart choices and be ready for any challenges that come up.
 
-The AIBD also holds meetings and workshops where members can talk about how to handle market volatility and economic crises. By sharing ideas and learning from each other, members can find new ways to keep the bond market strong. This helps everyone work together to solve problems and make the bond market a safer place during tough times. The AIBD's focus on cooperation and education helps its members stay ready and respond well to any economic challenges they face.
+The AIBD also holds meetings and workshops where members can talk about how to handle market [volatility](/wiki/volatility-trading-strategies) and economic crises. By sharing ideas and learning from each other, members can find new ways to keep the bond market strong. This helps everyone work together to solve problems and make the bond market a safer place during tough times. The AIBD's focus on cooperation and education helps its members stay ready and respond well to any economic challenges they face.
 
 ## References & Further Reading
 

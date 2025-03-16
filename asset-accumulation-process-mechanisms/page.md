@@ -42,7 +42,7 @@ By sticking to a budget, you can control your spending and make sure you're putt
 
 ## How can debt management impact the asset accumulation process?
 
-Debt management is really important when you're trying to build up your assets. If you have a lot of debt, like credit card debt or student loans, it can make it harder to save money. That's because you have to use your money to pay off what you owe instead of putting it into savings or investments. High-interest debt can be especially bad because it grows quickly, and you end up paying more money over time. By managing your debt well, like paying it off faster or getting a lower interest rate, you free up more money to put toward your assets.
+Debt management is really important when you're trying to build up your assets. If you have a lot of debt, like credit card debt or student loans, it can make it harder to save money. That's because you have to use your money to pay off what you owe instead of putting it into savings or investments. High-interest debt can be especially bad because it grows quickly, and you end up paying more money over time. By managing your debt well, like paying it off faster or getting a lower [interest rate](/wiki/interest-rate-trading-strategies), you free up more money to put toward your assets.
 
 When you manage your debt well, you can focus more on growing your wealth. For example, if you pay off your credit cards, you won't have to spend as much on interest each month. That means you can put that money into a savings account or buy stocks instead. Over time, this can make a big difference in how much you can accumulate. Good debt management helps you keep more of your money working for you, so you can build a stronger financial future.
 

@@ -18,7 +18,7 @@ This reward serves two main purposes. First, it encourages miners to keep the ne
 
 Block rewards are a big reason why miners and validators work hard on the blockchain. Imagine you're playing a game where you can win prizes. The block reward is like the prize you get for winning. Miners and validators have to solve tough puzzles or check transactions. When they do it right, they get the block reward. This makes them want to keep playing the game because they can earn money.
 
-The reward also helps keep the blockchain safe and running smoothly. If there were no rewards, miners and validators might not want to spend their time and energy on the blockchain. But because they can earn block rewards, they are motivated to keep adding new blocks and verifying transactions. This keeps the whole system working well and secure for everyone using the cryptocurrency.
+The reward also helps keep the blockchain safe and running smoothly. If there were no rewards, miners and validators might not want to spend their time and energy on the blockchain. But because they can earn block rewards, they are motivated to keep adding new blocks and verifying transactions. This keeps the whole system working well and secure for everyone using the [cryptocurrency](/wiki/cryptocurrency).
 
 ## What is the typical structure of a block reward?
 

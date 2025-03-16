@@ -18,7 +18,7 @@ These ETFs allow investors to bet on Bitcoin's price without actually owning the
 
 A Bitcoin Futures ETF works by investing in futures contracts that are tied to the price of Bitcoin. Futures are agreements to buy or sell something at a future date for a price set today. The ETF buys these contracts instead of actual Bitcoins. When the price of Bitcoin goes up or down, the value of the futures contracts changes too. This means the ETF's value changes based on what people think Bitcoin's price will be in the future, not what it is right now.
 
-This type of ETF lets people invest in Bitcoin without having to buy the cryptocurrency directly. It's easier for many investors because they can buy and sell the ETF on a stock exchange, just like they would with stocks. However, because the ETF is based on futures, it can be a bit more complicated. The price of the ETF might not always move in the same way as Bitcoin's actual price, which can add some risk.
+This type of [ETF](/wiki/etf-trading-strategies) lets people invest in Bitcoin without having to buy the [cryptocurrency](/wiki/cryptocurrency) directly. It's easier for many investors because they can buy and sell the ETF on a stock exchange, just like they would with stocks. However, because the ETF is based on futures, it can be a bit more complicated. The price of the ETF might not always move in the same way as Bitcoin's actual price, which can add some risk.
 
 ## What are the benefits of investing in a Bitcoin Futures ETF?
 
@@ -78,7 +78,7 @@ Compared to owning Bitcoin directly, the fees for a Bitcoin Futures ETF can be a
 
 Expert investors can use Bitcoin Futures ETFs to try to make money from both when Bitcoin's price goes up and when it goes down. They can do this by buying the ETF when they think Bitcoin's price will go up, and selling it when they think it will go down. This is called going long and short. They can also use something called leverage, which means borrowing money to buy more of the ETF. This can make their profits bigger if they guess right, but it can also make their losses bigger if they guess wrong. It's a risky way to try to make more money, but it can work well for people who know what they're doing.
 
-Another advanced strategy is using Bitcoin Futures ETFs for arbitrage. This means looking for small differences in price between the ETF and Bitcoin's actual price, or between different futures contracts. If an expert investor sees that the ETF is cheaper than it should be compared to Bitcoin, they can buy the ETF and sell Bitcoin at the same time. If they do this right, they can make a small profit from the difference in price. This can be a good way to make steady money, but it takes a lot of watching the market and quick trading to do well.
+Another advanced strategy is using Bitcoin Futures ETFs for [arbitrage](/wiki/arbitrage). This means looking for small differences in price between the ETF and Bitcoin's actual price, or between different futures contracts. If an expert investor sees that the ETF is cheaper than it should be compared to Bitcoin, they can buy the ETF and sell Bitcoin at the same time. If they do this right, they can make a small profit from the difference in price. This can be a good way to make steady money, but it takes a lot of watching the market and quick trading to do well.
 
 ## References & Further Reading
 

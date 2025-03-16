@@ -52,7 +52,7 @@ But there are also some risks to think about. Some people worry that bigger bloc
 
 ## How does Bitcoin Unlimited handle block size limits?
 
-Bitcoin Unlimited lets users decide how big blocks of transactions can be. In the regular Bitcoin software, called Bitcoin Core, each block is limited to 1MB. But with Bitcoin Unlimited, if most users agree, blocks can get bigger. This means the network can handle more transactions at once, which could make transactions faster and cheaper. It's like voting on the size of a suitcase; if everyone agrees, you can use a bigger one to carry more stuff.
+Bitcoin Unlimited lets users decide how big blocks of transactions can be. In the regular Bitcoin software, called Bitcoin Core, each block is limited to 1MB. But with Bitcoin Unlimited, if most users agree, blocks can get bigger. This means the network can handle more transactions at once, which could make transactions faster and cheaper. It's like voting on the size of a suitcase; if everyone agrees, you can use a bigger one to [carry](/wiki/carry-trading) more stuff.
 
 This way of deciding on block size is called Emergent Consensus. It's different because it doesn't have a fixed rule like Bitcoin Core. Some people like this because it makes the network more flexible and can help Bitcoin grow. But not everyone agrees. Some worry that bigger blocks might make the network harder to run and less secure. They think keeping blocks small is important for making sure anyone can use the software and the network stays safe. So, Bitcoin Unlimited tries to balance these ideas by letting the community vote on changes.
 
@@ -66,7 +66,7 @@ Over time, Bitcoin Unlimited didn't become the main way people use Bitcoin. In 2
 
 Bitcoin Unlimited is mainly about changing how Bitcoin works, but it doesn't directly connect with other cryptocurrencies. It's a different way to run the Bitcoin network, where users can vote on how big blocks of transactions can be. This idea is part of a bigger discussion about making Bitcoin better, but it doesn't change how Bitcoin interacts with other cryptocurrencies like Ethereum or Litecoin. Those other cryptocurrencies have their own rules and networks, so Bitcoin Unlimited's changes only affect Bitcoin.
 
-Even though Bitcoin Unlimited doesn't directly interact with other cryptocurrencies, its ideas have influenced some of them. For example, when people disagreed about Bitcoin Unlimited, some created Bitcoin Cash, which used similar ideas about bigger blocks. This shows how ideas from Bitcoin Unlimited can spread to other parts of the cryptocurrency world. But overall, Bitcoin Unlimited is focused on Bitcoin and doesn't change how Bitcoin talks to or works with other cryptocurrencies.
+Even though Bitcoin Unlimited doesn't directly interact with other cryptocurrencies, its ideas have influenced some of them. For example, when people disagreed about Bitcoin Unlimited, some created Bitcoin Cash, which used similar ideas about bigger blocks. This shows how ideas from Bitcoin Unlimited can spread to other parts of the [cryptocurrency](/wiki/cryptocurrency) world. But overall, Bitcoin Unlimited is focused on Bitcoin and doesn't change how Bitcoin talks to or works with other cryptocurrencies.
 
 ## What are the current developments and future plans for Bitcoin Unlimited?
 

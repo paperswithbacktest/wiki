@@ -22,7 +22,7 @@ Using probability also helps traders manage risk. They can calculate how much th
 
 ## Can you explain the concept of risk-free profit in arbitrage?
 
-Risk-free profit in arbitrage is when someone makes money without taking any risk. This happens when a trader finds a price difference between two places and buys low in one place and sells high in another. Because the profit comes from the difference in prices, and not from guessing if the price will go up or down, there's no risk of losing money if the trade is done quickly and correctly.
+Risk-free profit in [arbitrage](/wiki/arbitrage) is when someone makes money without taking any risk. This happens when a trader finds a price difference between two places and buys low in one place and sells high in another. Because the profit comes from the difference in prices, and not from guessing if the price will go up or down, there's no risk of losing money if the trade is done quickly and correctly.
 
 For example, if a toy costs $10 in one store and $12 in another, a trader can buy the toy for $10 and sell it for $12, making a $2 profit. This profit is risk-free because the trader knows the prices in both stores before making the trade. The key is to do the trade fast before the prices change, which can be tricky but is possible with the right tools and quick action.
 
@@ -30,7 +30,7 @@ For example, if a toy costs $10 in one store and $12 in another, a trader can bu
 
 There are several types of arbitrage strategies that traders use to make money. One common type is called spatial arbitrage. This is when a trader buys something in one place where it's cheaper and sells it in another place where it's more expensive. For example, if a toy is cheaper in one city than another, a trader can buy it in the cheaper city and sell it in the more expensive one. Another type is called temporal arbitrage, where a trader buys something at one time when it's cheaper and sells it at another time when it's more expensive. This can happen with seasonal items, like buying winter coats in the summer and selling them in the winter.
 
-Another type of arbitrage is called statistical arbitrage. This is when traders use math and computers to find small differences in prices between related things, like stocks. They might buy one stock and sell another, betting that the price difference will change in their favor. Then there's convertible arbitrage, which is when traders buy a company's stock and also buy something that can be turned into that stock, like a bond. They do this hoping to make money from the difference in how these two things are priced. Each of these strategies tries to make money with as little risk as possible by taking advantage of price differences.
+Another type of arbitrage is called [statistical arbitrage](/wiki/statistical-arbitrage). This is when traders use math and computers to find small differences in prices between related things, like stocks. They might buy one stock and sell another, betting that the price difference will change in their favor. Then there's convertible arbitrage, which is when traders buy a company's stock and also buy something that can be turned into that stock, like a bond. They do this hoping to make money from the difference in how these two things are priced. Each of these strategies tries to make money with as little risk as possible by taking advantage of price differences.
 
 ## How can one identify arbitrage opportunities in the market?
 
@@ -64,7 +64,7 @@ The key to making money with statistical arbitrage is to act fast and use a lot 
 
 ## What role does high-frequency trading play in arbitrage?
 
-High-frequency trading (HFT) is a type of trading where computers make lots of trades very quickly. It's really important for arbitrage because it helps traders spot and use price differences before they go away. In arbitrage, the goal is to buy something cheap in one place and sell it for more in another. HFT makes this possible by watching prices all the time and making trades in just a few seconds. This is much faster than a person could do it, so it gives traders a big advantage.
+High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) is a type of trading where computers make lots of trades very quickly. It's really important for arbitrage because it helps traders spot and use price differences before they go away. In arbitrage, the goal is to buy something cheap in one place and sell it for more in another. HFT makes this possible by watching prices all the time and making trades in just a few seconds. This is much faster than a person could do it, so it gives traders a big advantage.
 
 But HFT also makes things more competitive. Because so many traders use HFT, the price differences that arbitrage depends on can disappear very quickly. This means that traders need to be even faster and use better technology to find and use these opportunities. While HFT can help make more money from arbitrage, it also makes it harder because everyone is trying to do the same thing at the same time.
 
@@ -76,7 +76,7 @@ The tricky part is figuring out the chance of the trade working. In arbitrage, t
 
 ## What advanced mathematical models are used to predict arbitrage opportunities?
 
-Traders use advanced math models to find and predict arbitrage opportunities. One common model is called the Black-Scholes model, which is used a lot in the stock market to guess how the price of options will change. This model looks at things like the price of the stock right now, how much the stock's price moves around, how long until the option runs out, and the interest rate. By using this model, traders can find differences in prices between stocks and options and make trades to make money from these differences.
+Traders use advanced math models to find and predict arbitrage opportunities. One common model is called the Black-Scholes model, which is used a lot in the stock market to guess how the price of options will change. This model looks at things like the price of the stock right now, how much the stock's price moves around, how long until the option runs out, and the [interest rate](/wiki/interest-rate-trading-strategies). By using this model, traders can find differences in prices between stocks and options and make trades to make money from these differences.
 
 Another model that traders use is called the Kalman filter. This model helps traders predict how prices will change over time by looking at past data. It's good at finding small price differences that might not be easy to see. Traders can use the Kalman filter to watch lots of different things at the same time, like stocks, and find chances to buy low and sell high. Both of these models help traders spot arbitrage opportunities before they go away, but they need good computers and a lot of data to work well.
 

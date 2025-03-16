@@ -70,7 +70,7 @@ Another type of asset, like stocks or bonds, can also affect your taxes. If you 
 
 Assets can be used as collateral for loans, which means you give the lender something valuable in case you can't pay back the loan. If you don't pay, the lender can take the asset and sell it to get their money back. This makes the lender feel safer about giving you the loan because they have something to fall back on. Common assets used as collateral include houses, cars, and sometimes even things like jewelry or savings accounts.
 
-Using assets as collateral can help you get a loan more easily and sometimes at a lower interest rate. Lenders see the loan as less risky because they can take the asset if needed. But, it's important to be careful because if you can't pay back the loan, you could lose the asset. This is why it's a good idea to only use assets as collateral if you're sure you can make the loan payments on time.
+Using assets as collateral can help you get a loan more easily and sometimes at a lower [interest rate](/wiki/interest-rate-trading-strategies). Lenders see the loan as less risky because they can take the asset if needed. But, it's important to be careful because if you can't pay back the loan, you could lose the asset. This is why it's a good idea to only use assets as collateral if you're sure you can make the loan payments on time.
 
 ## What strategies can be used for asset management and optimization?
 

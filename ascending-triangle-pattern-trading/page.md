@@ -18,7 +18,7 @@ Traders use this pattern to decide when to buy a stock. They watch the price as 
 
 An ascending triangle pattern starts to form when the price of a stock or asset keeps hitting the same high point, which we call the resistance line. This line stays flat because the price can't go above it. At the same time, the price keeps making higher lows. This means each time the price drops, it doesn't go as low as it did before. These higher lows create a line that slopes upward, and this is called the support line. The space between these two lines looks like a triangle that is getting smaller as it moves to the right.
 
-As the price moves within this triangle, it gets closer and closer to the resistance line. Traders watch this closely because if the price finally breaks through the resistance line, it's a sign that the price might keep going up. This break through the resistance is called a breakout. If the price doesn't break through and instead falls below the support line, the pattern fails, and the price might go down instead.
+As the price moves within this triangle, it gets closer and closer to the resistance line. Traders watch this closely because if the price finally breaks through the resistance line, it's a sign that the price might keep going up. This break through the resistance is called a [breakout](/wiki/breakout-trading). If the price doesn't break through and instead falls below the support line, the pattern fails, and the price might go down instead.
 
 ## What does an ascending triangle pattern indicate about market sentiment?
 
@@ -42,7 +42,7 @@ How reliable the pattern is can also depend on other things. For example, the ov
 
 To spot an ascending triangle pattern, you need to look at the price chart closely. Start by finding a flat line at the top of the chart where the price keeps hitting the same high point. This is called the resistance line. Then, look for a line at the bottom that keeps going up, making higher lows each time the price drops. This is the support line. The space between these two lines should get smaller and smaller, making a triangle shape that points to the right.
 
-Once you see these lines, check if the pattern is strong. Make sure the price touches the resistance line at least two times and the support line at least two times too. The more times the price hits these lines, the stronger the pattern is. Also, pay attention to how much the price moves up and down. If the price moves a lot, the pattern might not be as reliable. It's good to use other tools and signs, like moving averages or volume, to make sure the pattern is real and not just by chance.
+Once you see these lines, check if the pattern is strong. Make sure the price touches the resistance line at least two times and the support line at least two times too. The more times the price hits these lines, the stronger the pattern is. Also, pay attention to how much the price moves up and down. If the price moves a lot, the pattern might not be as reliable. It's good to use other tools and signs, like moving averages or [volume](/wiki/volume-trading-strategy), to make sure the pattern is real and not just by chance.
 
 Remember, the ascending triangle pattern is a sign that buyers are getting stronger. If the price breaks through the resistance line, it's a good time to think about buying. But if the price falls below the support line, the pattern fails, and you might want to sell. Always use this pattern with other information to make the best trading choices.
 
@@ -58,7 +58,7 @@ When you see an ascending triangle pattern, a good time to buy the stock is when
 
 For exiting the trade, you have two main choices. First, you can set a target price for when to sell. A common way to do this is to measure the height of the triangle from the bottom to the top at its widest part, and then add that height to the breakout point. This gives you a price goal. Second, you need a stop-loss order to protect your money if the pattern fails. Place the stop-loss just below the rising bottom line, called the support line. If the price falls below this line, it's a sign to sell and cut your losses.
 
-Using these entry and exit strategies can help you make the most of the ascending triangle pattern. Always remember to look at other signs and information too, because no pattern is perfect. This way, you can make smarter choices and trade more safely.
+Using these entry and [exit](/wiki/exit-strategy) strategies can help you make the most of the ascending triangle pattern. Always remember to look at other signs and information too, because no pattern is perfect. This way, you can make smarter choices and trade more safely.
 
 ## What are the potential risks and pitfalls associated with trading ascending triangle patterns?
 

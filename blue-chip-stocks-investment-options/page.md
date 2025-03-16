@@ -52,7 +52,7 @@ Lastly, you should check the company's revenue growth and profit margins. Revenu
 
 Dividend yield is an important thing to look at when you're thinking about investing in blue chip stocks. It tells you how much money you get back from the company every year as a percentage of the stock's price. For example, if a stock costs $100 and the company pays you $5 every year, the dividend yield is 5%. A higher dividend yield can be really attractive if you want to earn some regular income from your investment. Many people like blue chip stocks because these big, stable companies often pay good dividends.
 
-Dividend yield can also give you a hint about how safe your investment might be. If a company has a high dividend yield, it might mean the stock's price has gone down, which could be a warning sign. But if the company is a well-known blue chip company, it's usually a good sign because it shows they are willing and able to share their profits with shareholders. So, when you're picking blue chip stocks, looking at the dividend yield can help you find ones that not only grow your money over time but also give you some extra cash along the way.
+Dividend yield can also give you a hint about how safe your investment might be. If a company has a high dividend yield, it might mean the stock's price has gone down, which could be a warning sign. But if the company is a well-known blue chip company, it's usually a good sign because it shows they are willing and able to share their profits with shareholders. So, when you're [picking](/wiki/asset-class-picking) blue chip stocks, looking at the dividend yield can help you find ones that not only grow your money over time but also give you some extra cash along the way.
 
 ## What is the historical performance of blue chip stocks compared to other investment options?
 
@@ -107,5 +107,5 @@ Another advanced strategy is "options trading." An expert investor can use optio
    - Coursera (www.coursera.org): Offers courses on finance, investing, and specialized topics such as algorithmic trading and financial markets.
    - Khan Academy (www.khanacademy.org): Provides free educational materials on investing basics and detailed explanations of market concepts.
 
-These resources provide a deeper understanding of stock market dynamics, blue chip stocks, and the mechanisms of algorithmic trading, catering to both novice investors and seasoned financial professionals seeking to enhance their investment strategies.
+These resources provide a deeper understanding of stock market dynamics, blue chip stocks, and the mechanisms of [algorithmic trading](/wiki/algorithmic-trading), catering to both novice investors and seasoned financial professionals seeking to enhance their investment strategies.
 

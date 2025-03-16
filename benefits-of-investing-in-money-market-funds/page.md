@@ -34,7 +34,7 @@ Another benefit is that money market funds keep your money easy to get to. If yo
 
 ## How safe are money market funds compared to other investment options?
 
-Money market funds are very safe compared to other investments like stocks or long-term bonds. They invest in things like government bonds and certificates of deposit, which are low risk. This means they are less likely to lose money. The goal of money market funds is to keep your money safe while still earning a little bit of interest. Because they are so safe, they are a good choice if you want to keep your money secure and don't want to take big risks.
+Money market funds are very safe compared to other investments like stocks or long-term bonds. They invest in things like government bonds and certificates of deposit, which are low risk. This means they are less likely to lose money. The goal of money market funds is to keep your money safe while still [earning](/wiki/earning-announcement) a little bit of interest. Because they are so safe, they are a good choice if you want to keep your money secure and don't want to take big risks.
 
 However, money market funds are not completely risk-free. There is a small chance that the value could drop below $1 per share, though this is rare. Compared to other investments, money market funds are much safer. Stocks can go up and down a lot in value, and you could lose a lot of money. Long-term bonds can also be risky because their value can change with interest rates. So, while money market funds are not the safest investment out there, they are much safer than many other options.
 
@@ -88,5 +88,5 @@ Another strategy is to use money market funds to balance risk in their portfolio
 
 "Advances in Financial Machine Learning" by Marcos Lopez de Prado – This book explores the intersection of financial trading and machine learning. Lopez de Prado introduces methods to apply machine learning techniques effectively within trading strategies, providing both theoretical insights and practical applications.
 
-For a comprehensive understanding of these topics, explore resources such as Investopedia, which offers articles and tutorials on both money market funds and algorithmic trading. Additionally, a multitude of [books](/wiki/algo-trading-books) and online courses delve into these areas, providing both foundational knowledge and advanced strategies essential for modern investing.
+For a comprehensive understanding of these topics, explore resources such as Investopedia, which offers articles and tutorials on both money market funds and [algorithmic trading](/wiki/algorithmic-trading). Additionally, a multitude of [books](/wiki/algo-trading-books) and online courses delve into these areas, providing both foundational knowledge and advanced strategies essential for modern investing.
 

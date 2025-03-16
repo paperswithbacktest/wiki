@@ -44,7 +44,7 @@ Another way the Bamboo Network helps is by sharing knowledge and skills. People 
 
 One big reason the Bamboo Network works well is because of the strong family and community ties among Chinese people. They trust each other a lot because they share the same culture and language. This trust makes it easier for them to work together and help each other in business. For example, if someone needs money to start a business, they can ask family or friends in the network, and they know they will get help. This trust and support make their businesses stronger and more successful.
 
-Another important factor is the value they put on hard work and saving money. Many Chinese people believe in working hard and not spending too much. This helps them to save money and use it to grow their businesses. They also share these values with each other, so everyone in the network works hard and tries to save. This way of thinking helps them to keep their businesses going strong, even when times are tough.
+Another important [factor](/wiki/factor-investing) is the value they put on hard work and saving money. Many Chinese people believe in working hard and not spending too much. This helps them to save money and use it to grow their businesses. They also share these values with each other, so everyone in the network works hard and tries to save. This way of thinking helps them to keep their businesses going strong, even when times are tough.
 
 ## How does the Bamboo Network impact global trade?
 

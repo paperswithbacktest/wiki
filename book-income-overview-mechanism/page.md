@@ -84,9 +84,9 @@ Overall, optimizing book income for multinational corporations involves a lot of
 
 ## References & Further Reading
 
-Bergstra, J., et al. 'Algorithms for Hyper-Parameter Optimization.' Advances in Neural Information Processing Systems 24. This paper offers insights into optimizing trading algorithms through hyper-parameter adjustment, which is crucial for enhancing algorithmic trading frameworks.
+Bergstra, J., et al. 'Algorithms for Hyper-Parameter Optimization.' Advances in Neural Information Processing Systems 24. This paper offers insights into optimizing trading algorithms through hyper-parameter adjustment, which is crucial for enhancing [algorithmic trading](/wiki/algorithmic-trading) frameworks.
 
-Lopez de Prado, M. 'Advances in Financial Machine Learning.' This book is a comprehensive guide to implementing machine learning techniques within financial settings. It details advanced methods that can be pivotal in developing effective algorithmic trading strategies.
+Lopez de Prado, M. 'Advances in Financial Machine Learning.' This book is a comprehensive guide to implementing [machine learning](/wiki/machine-learning) techniques within financial settings. It details advanced methods that can be pivotal in developing effective algorithmic trading strategies.
 
 Aronson, D. 'Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals.' Aronson provides a rigorous approach to technical analysis by integrating scientific methods and statistical inference, which can be instrumental in refining trading signals within algorithmic systems.
 

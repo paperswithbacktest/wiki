@@ -50,7 +50,7 @@ For bigger companies, operating expenses can be much higher because they have mo
 
 ## What factors influence the operating expenses in the oil and gas industry?
 
-Operating expenses in the oil and gas industry are influenced by many things. The location where a company works is one big factor. If a company is drilling in a hard-to-reach place, like deep under the ocean or in a remote area, it will cost more to get the oil and gas out. The type of work the company does also matters. Upstream companies, which explore and extract oil and gas, have different costs than midstream companies, which move and store the resources, or downstream companies, which refine and sell products.
+Operating expenses in the oil and gas industry are influenced by many things. The location where a company works is one big [factor](/wiki/factor-investing). If a company is drilling in a hard-to-reach place, like deep under the ocean or in a remote area, it will cost more to get the oil and gas out. The type of work the company does also matters. Upstream companies, which explore and extract oil and gas, have different costs than midstream companies, which move and store the resources, or downstream companies, which refine and sell products.
 
 The size of the company and how much it produces also affect operating expenses. Bigger companies usually spend more money because they have more operations and more workers. But they can also use their size to buy things cheaper and use better technology to lower their costs. Small companies have to be careful with their money because they don't have as much to spend. They might not be able to afford the same technology or deals that big companies can.
 

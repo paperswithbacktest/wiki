@@ -30,7 +30,7 @@ Another good thing about greenfield investments is that they can help a company 
 
 ## Can greenfield investments help in job creation and economic growth?
 
-Greenfield investments can help create jobs and grow the economy. When a company builds a new factory or office in a new place, they need to hire people to work there. This means more jobs for the local people. Also, when these new workers start earning money, they spend it in their community, which helps other local businesses grow too.
+Greenfield investments can help create jobs and grow the economy. When a company builds a new factory or office in a new place, they need to hire people to work there. This means more jobs for the local people. Also, when these new workers start [earning](/wiki/earning-announcement) money, they spend it in their community, which helps other local businesses grow too.
 
 These investments can also bring new technology and skills to an area. When a company sets up a new business, they often bring in new ways of doing things that can make the local economy stronger. Over time, this can lead to more businesses wanting to come to the area, creating even more jobs and helping the economy grow even more.
 
@@ -88,7 +88,7 @@ Another important part of evaluating greenfield investments is looking at how th
 
 Caves, R. E. (1996). *Multinational Enterprise and Economic Analysis*. Cambridge University Press. This seminal work explores the economic dynamics of multinational enterprises (MNEs), providing a comprehensive framework for understanding their strategies and operations. It highlights the economic rationale behind greenfield investments and other types of foreign direct investments (FDI), aiding in the decision-making process of international businesses.
 
-Lopez de Prado, M. (2018). *Advances in Financial Machine Learning*. Wiley. This book is an essential resource for understanding the innovative applications of machine learning in finance, including algorithmic trading. It covers techniques that can be leveraged to evaluate investment opportunities, optimize trading strategies, and improve the predictive accuracy of financial models, making it particularly relevant for assessing the merits of greenfield investments using data-driven approaches.
+Lopez de Prado, M. (2018). *Advances in Financial Machine Learning*. Wiley. This book is an essential resource for understanding the innovative applications of [machine learning](/wiki/machine-learning) in finance, including [algorithmic trading](/wiki/algorithmic-trading). It covers techniques that can be leveraged to evaluate investment opportunities, optimize trading strategies, and improve the predictive accuracy of financial models, making it particularly relevant for assessing the merits of greenfield investments using data-driven approaches.
 
 Dunning, J. H. (1992). *Multinational Enterprises and the Global Economy*. Addison-Wesley. Dunning's comprehensive examination of the global economy offers valuable insights into the strategies of multinational corporations. It discusses various factors influencing foreign investments, such as the role of technology, market conditions, and geopolitical considerations. This book serves as a critical reference for understanding the broader context within which greenfield investments occur, as well as the impact of algorithmic trading on FDI strategy.
 

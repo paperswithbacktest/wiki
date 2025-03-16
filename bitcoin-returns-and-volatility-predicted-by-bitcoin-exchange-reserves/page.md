@@ -18,7 +18,7 @@ Bitcoin is important in the financial market for a few reasons. First, it's the 
 
 Bitcoin exchange reserves are the total amount of Bitcoin that is stored on cryptocurrency exchanges. These reserves are important because they show how much Bitcoin is available for trading on these platforms. When people want to buy or sell Bitcoin, they usually do it through an exchange. So, the amount of Bitcoin on these exchanges can affect the price and how easy it is to trade.
 
-To calculate Bitcoin exchange reserves, people look at the public records on the blockchain. Each exchange has special addresses where they keep their Bitcoin. By adding up all the Bitcoin in these addresses, you can find out the total reserves. This information is often shared by the exchanges themselves or tracked by companies that watch the cryptocurrency market. It's a way to keep an eye on how much Bitcoin is available for trading and how the market is doing.
+To calculate Bitcoin exchange reserves, people look at the public records on the blockchain. Each exchange has special addresses where they keep their Bitcoin. By adding up all the Bitcoin in these addresses, you can find out the total reserves. This information is often shared by the exchanges themselves or tracked by companies that watch the [cryptocurrency](/wiki/cryptocurrency) market. It's a way to keep an eye on how much Bitcoin is available for trading and how the market is doing.
 
 ## How do Bitcoin exchange reserves influence the price of Bitcoin?
 
@@ -40,7 +40,7 @@ To analyze Bitcoin returns, you can look at different time periods to see how th
 
 ## What is volatility in the context of Bitcoin, and why is it significant?
 
-Volatility in the context of Bitcoin means how much the price of Bitcoin goes up and down over time. It's like a roller coaster ride for the price. If Bitcoin's price changes a lot in a short time, we say it has high volatility. If the price stays pretty much the same, it has low volatility. Bitcoin is known for being very volatile, which means its price can jump around a lot.
+Volatility in the context of Bitcoin means how much the price of Bitcoin goes up and down over time. It's like a roller coaster ride for the price. If Bitcoin's price changes a lot in a short time, we say it has high [volatility](/wiki/volatility-trading-strategies). If the price stays pretty much the same, it has low volatility. Bitcoin is known for being very volatile, which means its price can jump around a lot.
 
 This volatility is significant because it affects how people think about Bitcoin as an investment. When the price moves a lot, it can be both good and bad. If you buy Bitcoin and the price goes up quickly, you can make a lot of money. But if the price drops suddenly, you can lose a lot of money too. This makes Bitcoin a risky choice for some people. Understanding volatility helps people decide if they want to invest in Bitcoin and how much risk they are willing to take.
 

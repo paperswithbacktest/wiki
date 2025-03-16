@@ -60,7 +60,7 @@ Another big part of what Barclays does is helping people have equal chances. The
 
 Barclays Bank PLC has done a lot to keep up with the way people want to do their banking now. They have made it easy for customers to use their phones or computers to check their money, pay bills, and even get loans. Barclays has an app that lets people do all their banking without going to a branch. They also use new technology to make sure their services are safe and easy to use. This helps them reach more customers and keep them happy.
 
-To make sure they are always up to date, Barclays keeps adding new features to their digital services. They listen to what customers want and try to make banking easier and faster. For example, they have added ways for people to pay others quickly using just their phone numbers. They also use things like artificial intelligence to help customers get the right services for them. By doing these things, Barclays stays ahead in the world of digital banking.
+To make sure they are always up to date, Barclays keeps adding new features to their digital services. They listen to what customers want and try to make banking easier and faster. For example, they have added ways for people to pay others quickly using just their phone numbers. They also use things like [artificial intelligence](/wiki/ai-artificial-intelligence) to help customers get the right services for them. By doing these things, Barclays stays ahead in the world of digital banking.
 
 ## What are the major regulatory challenges faced by Barclays Bank PLC?
 

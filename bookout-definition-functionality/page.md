@@ -28,7 +28,7 @@ In financial markets, bookout works in a similar way. If two people want to swap
 
 ## Can you explain the process of executing a Bookout?
 
-When someone wants to execute a bookout, they first need to find another person or company who wants to trade the same thing, like oil, gas, stocks, or bonds. They agree on the terms of the trade, like how much they are trading and what they are getting in return. Once both sides agree, they don't actually move the oil, gas, stocks, or bonds. Instead, they just change the records to show that the ownership has changed. This is done by updating the books or records that keep track of who owns what.
+When someone wants to execute a bookout, they first need to find another person or company who wants to trade the same thing, like oil, gas, stocks, or bonds. They agree on the terms of the trade, like how much they are trading and what they are getting in return. Once both sides agree, they don't actually move the oil, gas, stocks, or bonds. Instead, they just change the records to show that the ownership has changed. This is done by updating the [books](/wiki/algo-trading-books) or records that keep track of who owns what.
 
 After the records are updated, the bookout is complete. Both parties now have new ownership without having to move anything physically. This makes the trade quick and easy. In the oil and gas industry, this means the oil or gas stays in the same tank or pipeline, but the records show a new owner. In financial markets, the stocks or bonds stay where they are, but the records show that they now belong to someone else. This process saves time and money because it avoids the costs and hassle of moving things around.
 

@@ -22,7 +22,7 @@ By taking all the losses at once, the company can start fresh the next year. Thi
 
 ## Can you provide a simple example of Big Bath accounting?
 
-Imagine a company called ABC Corp. They have a new CEO who starts in a year when the company is not doing well. The new CEO decides to use Big Bath accounting. They include all the bad news and losses from the past few years in this year's financial report. This makes the current year look really bad, with big losses showing up on the books.
+Imagine a company called ABC Corp. They have a new CEO who starts in a year when the company is not doing well. The new CEO decides to use Big Bath accounting. They include all the bad news and losses from the past few years in this year's financial report. This makes the current year look really bad, with big losses showing up on the [books](/wiki/algo-trading-books).
 
 The reason the CEO does this is to make the next few years look better. If the company starts to recover a little bit, the financial reports will show improvement compared to the very bad year. This makes the new CEO look good because it seems like they turned the company around. However, this is not honest and can trick investors into thinking the company's situation is better than it really is.
 

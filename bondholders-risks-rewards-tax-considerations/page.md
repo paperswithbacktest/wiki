@@ -32,7 +32,7 @@ Another reward is that bonds are usually safer than stocks. If you buy a bond fr
 
 One main risk of holding bonds is that the company or government that issued the bond might not be able to pay you back. This is called default risk. If a company goes bankrupt, it might not have enough money to give you your interest payments or return your original investment. Government bonds are usually safer, but even some countries can struggle to pay their debts. So, it's important to check how strong the issuer is before you buy a bond.
 
-Another risk is interest rate risk. When interest rates in the economy go up, the value of the bonds you already own can go down. This happens because new bonds being issued will have higher interest rates, making your old bonds less attractive to other investors. If you need to sell your bond before it matures, you might have to sell it for less than you paid for it. This risk is more important if you might need your money back before the bond's maturity date.
+Another risk is [interest rate](/wiki/interest-rate-trading-strategies) risk. When interest rates in the economy go up, the value of the bonds you already own can go down. This happens because new bonds being issued will have higher interest rates, making your old bonds less attractive to other investors. If you need to sell your bond before it matures, you might have to sell it for less than you paid for it. This risk is more important if you might need your money back before the bond's maturity date.
 
 Inflation risk is also something to think about. Over time, the value of money can go down because of inflation. If the interest rate on your bond is lower than the inflation rate, the money you get back won't be worth as much as when you first invested it. This means your investment might not grow as much as you hoped, and you could lose buying power.
 
@@ -54,7 +54,7 @@ So, the coupon rate is like the bond's fixed interest payment, while the yield t
 
 ## How can bondholders mitigate interest rate risk?
 
-Bondholders can mitigate interest rate risk by building a bond ladder. This means buying bonds that mature at different times. Instead of putting all your money into one bond that matures in 10 years, you could buy bonds that mature in 1, 2, 3, and so on up to 10 years. This way, you get some money back every year, and you can use it to buy new bonds at the current interest rates. If rates go up, you can reinvest at higher rates. If they go down, you still have some bonds earning the old, higher rates.
+Bondholders can mitigate interest rate risk by building a bond ladder. This means buying bonds that mature at different times. Instead of putting all your money into one bond that matures in 10 years, you could buy bonds that mature in 1, 2, 3, and so on up to 10 years. This way, you get some money back every year, and you can use it to buy new bonds at the current interest rates. If rates go up, you can reinvest at higher rates. If they go down, you still have some bonds [earning](/wiki/earning-announcement) the old, higher rates.
 
 Another way to reduce interest rate risk is by investing in floating-rate bonds. These bonds have interest rates that change along with market rates. So, if interest rates go up, the interest payments on your floating-rate bonds will also go up. This means your bond's value won't drop as much as a regular bond's would. While floating-rate bonds can help protect against rising rates, they might not pay as much interest when rates are low.
 

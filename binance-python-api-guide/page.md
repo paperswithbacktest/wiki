@@ -28,9 +28,9 @@ To configure the Binance Python library, you need to set up your API keys. Open 
 
 ## How can you use the Binance API to fetch current market data?
 
-To fetch current market data using the Binance API, you first need to set up the Binance Python library and your API keys. Once you have done that, you can use the `get_symbol_ticker` function to get the latest price of a specific cryptocurrency pair. For example, if you want to check the price of Bitcoin against USDT, you would use `price = client.get_symbol_ticker(symbol='BTCUSDT')`. This will give you a dictionary with the symbol and the current price.
+To fetch current market data using the Binance API, you first need to set up the Binance Python library and your API keys. Once you have done that, you can use the `get_symbol_ticker` function to get the latest price of a specific [cryptocurrency](/wiki/cryptocurrency) pair. For example, if you want to check the price of Bitcoin against USDT, you would use `price = client.get_symbol_ticker(symbol='BTCUSDT')`. This will give you a dictionary with the symbol and the current price.
 
-After you get the price, you can print it or use it in your trading program. The API also lets you fetch other types of market data, like the order book or recent trades. To get the order book, you can use `order_book = client.get_order_book(symbol='BTCUSDT')`, which will give you information about the current buy and sell orders. For recent trades, you can use `trades = client.get_recent_trades(symbol='BTCUSDT')`. These functions help you keep track of what's happening in the market and make better trading decisions.
+After you get the price, you can print it or use it in your trading program. The API also lets you fetch other types of market data, like the [order book](/wiki/order-book-trading-strategies) or recent trades. To get the order book, you can use `order_book = client.get_order_book(symbol='BTCUSDT')`, which will give you information about the current buy and sell orders. For recent trades, you can use `trades = client.get_recent_trades(symbol='BTCUSDT')`. These functions help you keep track of what's happening in the market and make better trading decisions.
 
 ## What are the different types of orders you can place using the Binance API?
 

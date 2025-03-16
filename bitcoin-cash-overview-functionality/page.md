@@ -58,7 +58,7 @@ Bitcoin Cash is also used to send money to friends and family, especially if the
 
 ## How can someone acquire Bitcoin Cash?
 
-Someone can acquire Bitcoin Cash by buying it on a cryptocurrency exchange. These are websites where you can trade regular money, like dollars or euros, for Bitcoin Cash. You just need to sign up for an account, put some money in, and then you can buy Bitcoin Cash. It's a bit like buying something online, but instead of getting a product, you get Bitcoin Cash in your digital wallet.
+Someone can acquire Bitcoin Cash by buying it on a [cryptocurrency](/wiki/cryptocurrency) exchange. These are websites where you can trade regular money, like dollars or euros, for Bitcoin Cash. You just need to sign up for an account, put some money in, and then you can buy Bitcoin Cash. It's a bit like buying something online, but instead of getting a product, you get Bitcoin Cash in your digital wallet.
 
 Another way to get Bitcoin Cash is by trading other cryptocurrencies for it. If you already have Bitcoin or another digital currency, you can swap it for Bitcoin Cash on an exchange. Some people also get Bitcoin Cash by mining it. Mining means using special computers to solve math problems and help keep the Bitcoin Cash network running. When you mine, you can earn Bitcoin Cash as a reward.
 

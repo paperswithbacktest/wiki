@@ -80,7 +80,7 @@ However, fintech companies still face some of the same barriers as other new com
 
 ## What future trends might affect barriers to entry in the financial services industry?
 
-In the future, new technology like artificial intelligence and blockchain could change how hard it is for new companies to start in the financial services industry. AI can help new companies offer better services by making decisions faster and understanding what customers want. Blockchain can make transactions safer and easier, which might help new companies compete with big banks. But these technologies can also be expensive to use, so new companies still need to find ways to pay for them.
+In the future, new technology like [artificial intelligence](/wiki/ai-artificial-intelligence) and blockchain could change how hard it is for new companies to start in the financial services industry. AI can help new companies offer better services by making decisions faster and understanding what customers want. Blockchain can make transactions safer and easier, which might help new companies compete with big banks. But these technologies can also be expensive to use, so new companies still need to find ways to pay for them.
 
 Another thing that might change is how governments make rules for financial services. If rules become simpler and easier to follow, it could be easier for new companies to start. But if rules get even stricter, it could make it harder. Also, more people using the internet and smartphones could help new companies reach customers in new ways. This might lower some barriers to entry, but new companies will still need to work hard to build trust and offer good services to compete with big banks.
 

@@ -28,7 +28,7 @@ The main difference between Ba3 and BB- is who gives the rating. Moody's uses a 
 
 ## How do Ba3/BB- bond ratings affect bond yields?
 
-When a bond gets a Ba3 or BB- rating, it means it's riskier than bonds with higher ratings. Because of this, investors want more money to take the risk. So, bonds with Ba3 or BB- ratings usually have higher yields. The yield is like the interest rate the bond pays. If a bond is riskier, it needs to offer a higher yield to attract investors.
+When a bond gets a Ba3 or BB- rating, it means it's riskier than bonds with higher ratings. Because of this, investors want more money to take the risk. So, bonds with Ba3 or BB- ratings usually have higher yields. The yield is like the [interest rate](/wiki/interest-rate-trading-strategies) the bond pays. If a bond is riskier, it needs to offer a higher yield to attract investors.
 
 These higher yields on Ba3 or BB- bonds can be good for investors who like taking risks. They might earn more money than with safer bonds. But, there's also a bigger chance that the company won't pay back the money. So, investors need to think carefully about whether the higher yield is worth the risk of losing their money.
 

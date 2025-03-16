@@ -52,7 +52,7 @@ This script defines a simple moving average crossover strategy, integrates histo
 
 Backtesting is important for trading strategies because it lets you see how your plan would have done in the past. It's like a practice run using old market data. By doing this, you can find out if your strategy would have made money or lost money. This helps you figure out if your plan is good or if you need to change it before you start trading with real money.
 
-Also, backtesting can show you the weak spots in your strategy. You might see that your plan works well most of the time but fails during certain market conditions. Knowing this helps you make your strategy stronger. It's a way to learn from the past without risking your money in the present. Just remember, even if a strategy did well in backtesting, it's not a guarantee it will work in the future because markets can change.
+Also, [backtesting](/wiki/backtesting) can show you the weak spots in your strategy. You might see that your plan works well most of the time but fails during certain market conditions. Knowing this helps you make your strategy stronger. It's a way to learn from the past without risking your money in the present. Just remember, even if a strategy did well in backtesting, it's not a guarantee it will work in the future because markets can change.
 
 ## What are the basic steps to perform backtesting?
 
@@ -113,7 +113,7 @@ Another way to avoid overfitting is to keep your strategy simple. The more rules
 
 When you backtest a trading strategy, you look at some common numbers to see how well it did. One important number is the total return, which tells you how much money you would have made or lost overall. Another useful metric is the Sharpe Ratio, which shows how much return you got for the risk you took. A higher Sharpe Ratio means you got more return for less risk, which is good. You also want to check the maximum drawdown, which is the biggest drop in your money from the highest point to the lowest point. A smaller drawdown means your strategy is less risky.
 
-Another thing to look at is the win rate, which tells you what percent of your trades made money. But, the win rate alone isn't enough because some losing trades can be very big. So, you should also look at the average win and the average loss to understand how big your wins and losses are. The profit factor is another useful number; it's the total money made from winning trades divided by the total money lost from losing trades. A profit factor above 1 means you made more than you lost, which is good.
+Another thing to look at is the win rate, which tells you what percent of your trades made money. But, the win rate alone isn't enough because some losing trades can be very big. So, you should also look at the average win and the average loss to understand how big your wins and losses are. The profit [factor](/wiki/factor-investing) is another useful number; it's the total money made from winning trades divided by the total money lost from losing trades. A profit factor above 1 means you made more than you lost, which is good.
 
 Lastly, it's helpful to look at the consistency of your strategy. Metrics like the calmar ratio, which is the annualized return divided by the maximum drawdown, can show how steady your returns are over time. Also, consider the number of trades and the time spent in the market, as these can affect how practical your strategy is. By looking at all these numbers together, you get a full picture of how your trading strategy performed during backtesting.
 

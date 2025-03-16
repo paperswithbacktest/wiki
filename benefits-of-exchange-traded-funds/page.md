@@ -22,9 +22,9 @@ Another difference is how they are managed and their costs. ETFs are usually pas
 
 ## What are the basic types of ETFs available to investors?
 
-There are several basic types of ETFs that investors can choose from. One common type is the equity ETF, which focuses on stocks. These ETFs can track broad market indexes like the S&P 500, or they can be more specific, focusing on certain sectors like technology or healthcare, or even specific countries or regions. Another type is the fixed-income ETF, which invests in bonds. These can include government bonds, corporate bonds, or municipal bonds, and they are popular among investors looking for steady income and lower risk compared to stocks.
+There are several basic types of ETFs that investors can choose from. One common type is the equity [ETF](/wiki/etf-trading-strategies), which focuses on stocks. These ETFs can track broad market indexes like the S&P 500, or they can be more specific, focusing on certain sectors like technology or healthcare, or even specific countries or regions. Another type is the fixed-income ETF, which invests in bonds. These can include government bonds, corporate bonds, or municipal bonds, and they are popular among investors looking for steady income and lower risk compared to stocks.
 
-Commodity ETFs are another type, which invest in physical goods like gold, oil, or agricultural products. These can be a good way for investors to gain exposure to commodities without having to buy and store the physical items themselves. Lastly, there are specialty ETFs, which can cover a wide range of themes or strategies. These might include ETFs that focus on environmental, social, and governance (ESG) criteria, or those that use complex strategies like leveraged or inverse ETFs, which aim to deliver multiples of the daily performance of an index or the opposite of its performance.
+Commodity ETFs are another type, which invest in physical goods like gold, oil, or agricultural products. These can be a good way for investors to gain exposure to commodities without having to buy and store the physical items themselves. Lastly, there are specialty ETFs, which can cover a wide range of themes or strategies. These might include ETFs that focus on environmental, social, and governance ([ESG](/wiki/esg-investing)) criteria, or those that use complex strategies like leveraged or inverse ETFs, which aim to deliver multiples of the daily performance of an index or the opposite of its performance.
 
 ## What are the primary benefits of investing in ETFs for beginners?
 
@@ -60,7 +60,7 @@ Overall, ETFs can be a cost-effective way to invest because their fees are usual
 
 ## How does the liquidity of ETFs benefit investors?
 
-The liquidity of ETFs means you can buy and sell them easily and quickly during the trading day. This is a big plus for investors because it lets you get in and out of your investments when you want to, without waiting until the end of the day like with mutual funds. If you need money fast or see a good opportunity, you can act on it right away.
+The [liquidity](/wiki/liquidity-risk-premium) of ETFs means you can buy and sell them easily and quickly during the trading day. This is a big plus for investors because it lets you get in and out of your investments when you want to, without waiting until the end of the day like with mutual funds. If you need money fast or see a good opportunity, you can act on it right away.
 
 Another way liquidity helps is by keeping the price of ETFs close to their actual value. Because lots of people are buying and selling ETFs all the time, the market keeps the price in check. This means you're less likely to pay too much or get too little when you trade, which can save you money and give you more confidence in your investments.
 
@@ -76,7 +76,7 @@ A third strategy is asset allocation through ETFs. This means you spread your mo
 
 ETFs can be a great way to invest in specific sectors or themes that interest you. Let's say you think technology is going to grow a lot in the future. You can buy a tech sector ETF, which gives you a piece of many different tech companies all at once. This way, you don't have to pick just one or two tech stocks and hope they do well. Instead, you get to spread your money across the whole sector, which can be safer and still let you benefit from the growth of tech.
 
-Thematic ETFs are another cool way to invest. These ETFs focus on big trends or ideas, like clean energy or artificial intelligence. If you believe in the future of renewable energy, you can invest in a clean energy ETF. This ETF might include companies that make solar panels, wind turbines, or other green tech. By investing in a thematic ETF, you can support and profit from the trends you believe in, without having to figure out which individual companies will do the best.
+Thematic ETFs are another cool way to invest. These ETFs focus on big trends or ideas, like clean energy or [artificial intelligence](/wiki/ai-artificial-intelligence). If you believe in the future of renewable energy, you can invest in a clean energy ETF. This ETF might include companies that make solar panels, wind turbines, or other green tech. By investing in a thematic ETF, you can support and profit from the trends you believe in, without having to figure out which individual companies will do the best.
 
 ## What are the risks and considerations for expert investors when choosing ETFs?
 

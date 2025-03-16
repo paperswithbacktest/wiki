@@ -22,7 +22,7 @@ Bond swapping can also help with taxes. Sometimes, an investor can sell a bond a
 
 ## What are the basic types of bond swaps?
 
-There are a few basic types of bond swaps that people use. One type is called a rate anticipation swap. This happens when someone thinks interest rates are going to change. They might sell a bond and buy a new one to get a better interest rate. For example, if they think rates will go up, they could sell their current bond and buy one with a higher rate to earn more money.
+There are a few basic types of bond swaps that people use. One type is called a rate anticipation swap. This happens when someone thinks interest rates are going to change. They might sell a bond and buy a new one to get a better [interest rate](/wiki/interest-rate-trading-strategies). For example, if they think rates will go up, they could sell their current bond and buy one with a higher rate to earn more money.
 
 Another type is a pure yield pickup swap. This is when someone swaps bonds to get a higher yield or return on their investment. They might sell a bond with a lower yield and buy one with a higher yield. This helps them make more money from their investment.
 

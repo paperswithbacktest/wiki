@@ -30,7 +30,7 @@ Aluminum is light and doesn't rust easily, so it's perfect for making airplane p
 
 ## How do base metals contribute to the economy?
 
-Base metals are very important for the economy because they are used in so many things we need every day. They are used to make cars, buildings, and electronics. When companies use base metals to make these things, they create jobs for people who mine the metals, transport them, and turn them into useful products. This helps the economy grow because more people are working and earning money.
+Base metals are very important for the economy because they are used in so many things we need every day. They are used to make cars, buildings, and electronics. When companies use base metals to make these things, they create jobs for people who mine the metals, transport them, and turn them into useful products. This helps the economy grow because more people are working and [earning](/wiki/earning-announcement) money.
 
 Also, base metals are traded all over the world. Countries that have a lot of base metals can sell them to other countries that need them. This trade helps countries make money and can make their economies stronger. For example, if a country has a lot of copper, it can sell that copper to other countries and use the money to build schools or hospitals. So, base metals are really important for keeping the economy going and helping it grow.
 
@@ -64,7 +64,7 @@ One advanced trading strategy for base metals is called "hedging." This means yo
 
 Another strategy is called "technical analysis." This is when you look at charts and graphs of past prices to guess what will happen next. Traders use things like moving averages and trend lines to see patterns in the prices of base metals. If they see a pattern that usually means the price will go up, they might buy the metal. If they see a pattern that means the price will go down, they might sell it. Technical analysis takes a lot of practice and you need to be good at reading charts, but it can help you make better trading decisions.
 
-A third strategy is "fundamental analysis." This means you look at things like how much metal is being produced and how much people want it. You also look at news and events that might affect the prices. For example, if a big mine is going to close, you might think the price of that metal will go up because there will be less of it. If you see that a lot of new buildings are being built, you might think the price will go up because more metal will be needed. Fundamental analysis requires a lot of research, but it can help you understand what might happen to the prices of base metals in the future.
+A third strategy is "[fundamental analysis](/wiki/fundamental-analysis)." This means you look at things like how much metal is being produced and how much people want it. You also look at news and events that might affect the prices. For example, if a big mine is going to close, you might think the price of that metal will go up because there will be less of it. If you see that a lot of new buildings are being built, you might think the price will go up because more metal will be needed. Fundamental analysis requires a lot of research, but it can help you understand what might happen to the prices of base metals in the future.
 
 ## How do global economic trends affect base metal markets?
 

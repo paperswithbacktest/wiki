@@ -54,7 +54,7 @@ On the other hand, when the VIX is below its 200-day moving average, it suggests
 
 Exponential moving averages, or EMAs, help traders predict how the VIX might change in the future by focusing more on recent data. Unlike simple moving averages, EMAs give more weight to the latest VIX values. This makes them react faster to new changes in the market's fear level. If the VIX starts going up quickly, the EMA will show this change sooner than a simple moving average. Traders can use this to see if fear in the market is growing fast, which might mean the market will become more volatile soon.
 
-By using EMAs, traders can get a better sense of how the VIX might move in the short term. For example, if the VIX crosses above its EMA, it could be a sign that fear is increasing and the market might get more unpredictable. On the other hand, if the VIX goes below its EMA, it might mean that fear is going down and the market could be more stable. This helps traders make quicker decisions about whether to buy or sell, based on their predictions of future market volatility.
+By using EMAs, traders can get a better sense of how the VIX might move in the short term. For example, if the VIX crosses above its EMA, it could be a sign that fear is increasing and the market might get more unpredictable. On the other hand, if the VIX goes below its EMA, it might mean that fear is going down and the market could be more stable. This helps traders make quicker decisions about whether to buy or sell, based on their predictions of future market [volatility](/wiki/volatility-trading-strategies).
 
 ## What are the common moving average crossover strategies for trading the VIX?
 

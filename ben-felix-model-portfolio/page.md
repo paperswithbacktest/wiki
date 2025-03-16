@@ -78,7 +78,7 @@ He also uses new research and data to make sure his advice is based on the lates
 
 To make the Ben Felix Model Portfolio work even better, you can use a strategy called tax-loss harvesting. This means selling investments that have lost value to lower your taxes, then buying similar investments to keep your portfolio balanced. Another way to boost performance is by using something called asset location. This means putting different types of investments in accounts where they will be taxed the least. For example, putting bonds in a tax-deferred account like an IRA can help you keep more of your money.
 
-You can also look into using smart beta strategies. These are ways of picking investments that follow certain rules, like choosing stocks based on their size or how much they pay in dividends. By adding these types of investments to your portfolio, you might be able to get better returns than just using regular index funds. But remember, these strategies can make things a bit more complicated, so it's important to keep an eye on how they're working and make sure they fit with your overall plan for growing your money safely.
+You can also look into using smart beta strategies. These are ways of [picking](/wiki/asset-class-picking) investments that follow certain rules, like choosing stocks based on their size or how much they pay in dividends. By adding these types of investments to your portfolio, you might be able to get better returns than just using regular index funds. But remember, these strategies can make things a bit more complicated, so it's important to keep an eye on how they're working and make sure they fit with your overall plan for growing your money safely.
 
 ## References & Further Reading
 

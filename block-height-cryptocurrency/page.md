@@ -24,7 +24,7 @@ This counting helps everyone using the blockchain to know exactly where they are
 
 Block height is really important in cryptocurrencies because it helps keep the system organized and safe. Imagine the blockchain like a stack of blocks where each block has a number that shows its place in the stack. This number, the block height, tells everyone how many blocks have been added so far. It's like counting the pages in a book to know where you are. By knowing the block height, everyone can check if their money transactions are in the blockchain and see how long it might take for them to be confirmed.
 
-This also makes the cryptocurrency system trustworthy. If someone tries to change a block to cheat, they would need to change all the blocks that come after it too. That's really hard to do because everyone can see the block height and check if anything looks wrong. So, block height helps keep the blockchain secure and makes sure everyone agrees on what happened with the money. This way, people can trust the system and use it without worrying about someone messing with their transactions.
+This also makes the [cryptocurrency](/wiki/cryptocurrency) system trustworthy. If someone tries to change a block to cheat, they would need to change all the blocks that come after it too. That's really hard to do because everyone can see the block height and check if anything looks wrong. So, block height helps keep the blockchain secure and makes sure everyone agrees on what happened with the money. This way, people can trust the system and use it without worrying about someone messing with their transactions.
 
 ## How does block height relate to transaction confirmations?
 

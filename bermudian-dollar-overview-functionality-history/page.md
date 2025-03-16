@@ -72,7 +72,7 @@ Because Bermuda's economy depends a lot on tourists and businesses from other co
 
 The Bermudian Dollar's value stays the same as the US Dollar because it is pegged to it. This means that no matter what happens in the world, one Bermudian Dollar is always worth one US Dollar. The Bermuda Monetary Authority makes sure this happens by controlling how much money is made and by watching the economy closely. They do this because Bermuda's economy depends a lot on tourists and big businesses from other countries. If the value of the money changed a lot, it could make it hard for these people to come and spend their money in Bermuda.
 
-Because of this peg, the main economic factor that affects the Bermudian Dollar is the value of the US Dollar. If the US Dollar goes up or down, the Bermudian Dollar goes up or down with it. But since Bermuda uses both US Dollars and Bermudian Dollars, this doesn't cause big problems. The stability of the Bermudian Dollar helps keep Bermuda's economy strong and makes it easier for people to come and spend money on the island.
+Because of this peg, the main economic [factor](/wiki/factor-investing) that affects the Bermudian Dollar is the value of the US Dollar. If the US Dollar goes up or down, the Bermudian Dollar goes up or down with it. But since Bermuda uses both US Dollars and Bermudian Dollars, this doesn't cause big problems. The stability of the Bermudian Dollar helps keep Bermuda's economy strong and makes it easier for people to come and spend money on the island.
 
 ## How does the Bermudian Dollar compare to other Caribbean currencies?
 

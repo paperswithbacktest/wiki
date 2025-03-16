@@ -24,7 +24,7 @@ When we combine the predictions from all these models, the errors and quirks fro
 
 ## What is the difference between bagging and boosting?
 
-Bagging and boosting are both ways to make machine learning models better, but they do it in different ways. Bagging works by making lots of copies of your data, but each copy is a bit different. You train a model on each copy, and then you take all those models and combine their answers. This helps because if one model makes a mistake, the others might not make the same mistake, so the final answer is more reliable. It's like asking a bunch of friends for advice and then deciding what to do based on what most of them say.
+Bagging and boosting are both ways to make [machine learning](/wiki/machine-learning) models better, but they do it in different ways. Bagging works by making lots of copies of your data, but each copy is a bit different. You train a model on each copy, and then you take all those models and combine their answers. This helps because if one model makes a mistake, the others might not make the same mistake, so the final answer is more reliable. It's like asking a bunch of friends for advice and then deciding what to do based on what most of them say.
 
 Boosting, on the other hand, is like training models one after the other, and each new model tries to fix the mistakes of the last one. You start with a simple model, see where it goes wrong, and then make the next model focus more on those wrong parts. You keep doing this, making each new model better and better at fixing the errors of the previous ones. It's like learning from your mistakes over time, where each new attempt gets a little smarter because it knows what went wrong before.
 

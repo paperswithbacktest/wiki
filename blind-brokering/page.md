@@ -70,7 +70,7 @@ Another way to evaluate a blind brokering service is by looking at their track r
 
 ## What are the future trends and developments expected in blind brokering?
 
-In the future, technology will play a bigger role in blind brokering. More advanced software and tools will make it easier for brokers to keep buyer identities secret and manage deals securely. For example, blockchain technology might be used to make sure all the information stays safe and private. Also, artificial intelligence could help by finding the best buyers and making the process faster and smoother. These new technologies will help blind brokering become even more effective and trusted.
+In the future, technology will play a bigger role in blind brokering. More advanced software and tools will make it easier for brokers to keep buyer identities secret and manage deals securely. For example, blockchain technology might be used to make sure all the information stays safe and private. Also, [artificial intelligence](/wiki/ai-artificial-intelligence) could help by finding the best buyers and making the process faster and smoother. These new technologies will help blind brokering become even more effective and trusted.
 
 Another trend we might see is more people using blind brokering for different kinds of deals. Right now, it's mostly used for big business and real estate sales, but in the future, it could be used for other things too. As more people learn about the benefits of keeping deals private, they might want to use blind brokering for smaller sales or different types of assets. This could make blind brokering a common way to do business, as long as it stays fair and honest for everyone involved.
 

@@ -28,7 +28,7 @@ There are also other parts like the cooling system, which keeps the ASIC chip fr
 
 ## What cryptocurrencies can be mined using ASICs?
 
-ASICs are mainly used to mine Bitcoin, which is the most well-known cryptocurrency. Bitcoin mining is a big reason why ASICs were made in the first place. They are really good at solving the hard math problems that Bitcoin mining needs. This makes them much faster and better at mining Bitcoin than using regular computers or GPUs.
+ASICs are mainly used to mine Bitcoin, which is the most well-known [cryptocurrency](/wiki/cryptocurrency). Bitcoin mining is a big reason why ASICs were made in the first place. They are really good at solving the hard math problems that Bitcoin mining needs. This makes them much faster and better at mining Bitcoin than using regular computers or GPUs.
 
 But ASICs can also be used to mine other cryptocurrencies. Some other coins that can be mined with ASICs include Litecoin and Bitcoin Cash. These coins use similar math problems to Bitcoin, so the same ASICs that mine Bitcoin can also work on them. However, not all cryptocurrencies can be mined with ASICs. Some, like Ethereum, are designed to be mined with GPUs to keep mining more fair and spread out among more people.
 

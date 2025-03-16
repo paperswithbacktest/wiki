@@ -48,7 +48,7 @@ The borrowing base is not a fixed number; it can change over time. As the value 
 
 ## What are the typical interest rates and fees associated with asset-based loans?
 
-Interest rates and fees for asset-based loans can be higher than for traditional loans. This is because asset-based lending is seen as riskier for the lender. They might charge interest rates that are between 7% and 15%, depending on the business's financial situation and the value of the assets. Some lenders might also add a margin to the interest rate, which can make it even higher.
+Interest rates and fees for asset-based loans can be higher than for traditional loans. This is because asset-based lending is seen as riskier for the lender. They might charge interest rates that are between 7% and 15%, depending on the business's financial situation and the value of the assets. Some lenders might also add a margin to the [interest rate](/wiki/interest-rate-trading-strategies), which can make it even higher.
 
 Besides interest, there are other fees to think about. A common fee is the origination fee, which is charged when the loan is set up. This can be between 1% and 3% of the total loan amount. There might also be monthly service fees, which cover the cost of managing the loan and checking the value of the assets. These fees can add up, so businesses need to look at all the costs before deciding if an asset-based loan is right for them.
 

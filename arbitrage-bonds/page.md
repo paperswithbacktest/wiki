@@ -18,11 +18,11 @@ These bonds can be a smart way for governments to make money, but they have to f
 
 Arbitrage bonds work by letting governments or cities borrow money at a low interest rate and then use that money to invest in something that gives them a higher interest rate. For example, a city might borrow money by selling bonds at a 3% interest rate. Then, they take that money and invest it in something like Treasury bonds that pay 5%. The difference between the 3% they pay and the 5% they earn is their profit, which is called arbitrage.
 
-But there are rules they have to follow. The government has strict laws about how these bonds can be used. If the city doesn't follow these rules, they might have to pay big fines or lose special tax benefits. So, while arbitrage bonds can help cities make extra money, they need to be careful and make sure they are doing everything correctly.
+But there are rules they have to follow. The government has strict laws about how these bonds can be used. If the city doesn't follow these rules, they might have to pay big fines or lose special tax benefits. So, while [arbitrage](/wiki/arbitrage) bonds can help cities make extra money, they need to be careful and make sure they are doing everything correctly.
 
 ## What is the purpose of issuing arbitrage bonds?
 
-The main reason governments or cities issue arbitrage bonds is to make money. They do this by borrowing money at a low interest rate and then investing that money in something that gives them a higher interest rate. For example, a city might borrow money by selling bonds at a 3% interest rate, and then use that money to buy Treasury bonds that pay 5%. The difference between the 3% they pay and the 5% they earn is their profit, which is called arbitrage.
+The main reason governments or cities issue arbitrage bonds is to make money. They do this by borrowing money at a low [interest rate](/wiki/interest-rate-trading-strategies) and then investing that money in something that gives them a higher interest rate. For example, a city might borrow money by selling bonds at a 3% interest rate, and then use that money to buy Treasury bonds that pay 5%. The difference between the 3% they pay and the 5% they earn is their profit, which is called arbitrage.
 
 However, there are strict rules they have to follow when issuing these bonds. The government has laws that say how arbitrage bonds can be used, and if the city doesn't follow these rules, they might have to pay big fines or lose special tax benefits. So, while arbitrage bonds can help cities make extra money, they need to be careful and make sure they are doing everything correctly.
 

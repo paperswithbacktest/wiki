@@ -42,7 +42,7 @@ The Central Bank of Barbados has an important job. It works to keep the country'
 
 The Barbados Dollar comes in different coins that people can use. You can find coins worth 1 cent, 5 cents, 10 cents, 25 cents, and 1 dollar. These coins help people buy things that cost less money. The 1 cent coin is the smallest, and the 1 dollar coin is the biggest in value among the coins.
 
-The Barbados Dollar also has banknotes for bigger amounts of money. You can get banknotes worth 2 dollars, 5 dollars, 10 dollars, 20 dollars, 50 dollars, and 100 dollars. These banknotes are handy for buying more expensive things or when you need to carry larger amounts of money. Each banknote has different colors and pictures to help tell them apart easily.
+The Barbados Dollar also has banknotes for bigger amounts of money. You can get banknotes worth 2 dollars, 5 dollars, 10 dollars, 20 dollars, 50 dollars, and 100 dollars. These banknotes are handy for buying more expensive things or when you need to [carry](/wiki/carry-trading) larger amounts of money. Each banknote has different colors and pictures to help tell them apart easily.
 
 ## How has the value of the Barbados Dollar changed over time?
 

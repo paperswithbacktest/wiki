@@ -40,7 +40,7 @@ Investing in bond funds comes with some risks that you should know about. One bi
 
 Another risk is that the companies or governments that issued the bonds might not be able to pay back the money they borrowed. If a bond issuer goes bankrupt or has financial trouble, it might not be able to make the interest payments or return the money at the end of the bond's term. This is called credit risk, and it's more of a worry with corporate bonds than with government bonds, which are usually safer.
 
-Lastly, there's something called interest rate risk. When interest rates change, the value of the bonds in the fund can go up or down. If you need to sell your shares in the bond fund when interest rates have gone up, you might get less money back than you put in. It's important to think about how long you plan to keep your money in the bond fund because the longer you can leave it, the less you might be affected by short-term changes in interest rates.
+Lastly, there's something called [interest rate](/wiki/interest-rate-trading-strategies) risk. When interest rates change, the value of the bonds in the fund can go up or down. If you need to sell your shares in the bond fund when interest rates have gone up, you might get less money back than you put in. It's important to think about how long you plan to keep your money in the bond fund because the longer you can leave it, the less you might be affected by short-term changes in interest rates.
 
 ## How does the interest rate environment affect bond funds?
 
@@ -64,7 +64,7 @@ There are some special types of bond funds that can help you save on taxes. For 
 
 Actively managed bond funds are run by a person or a team of people who pick the bonds to buy and sell. Their goal is to do better than the overall bond market. They look at a lot of information to decide which bonds to invest in, trying to find the ones that will give the best return. Because of this, actively managed funds usually charge higher fees, since you're paying for the expertise of the managers. If they pick well, your investment might grow more than it would in a regular bond fund, but there's also a chance they might not do as well as the market.
 
-Passively managed bond funds, on the other hand, try to match the performance of a specific bond index, like the Bloomberg Barclays U.S. Aggregate Bond Index. They don't have a team of people picking bonds; instead, they buy all the bonds in the index or a sample that's meant to act the same way. This makes them easier and cheaper to run, so the fees are usually lower than for actively managed funds. The goal is not to beat the market but to do as well as the market does. This can be a good choice if you want a simple, low-cost way to invest in bonds.
+Passively managed bond funds, on the other hand, try to match the performance of a specific bond index, like the Bloomberg Barclays U.S. Aggregate Bond Index. They don't have a team of people [picking](/wiki/asset-class-picking) bonds; instead, they buy all the bonds in the index or a sample that's meant to act the same way. This makes them easier and cheaper to run, so the fees are usually lower than for actively managed funds. The goal is not to beat the market but to do as well as the market does. This can be a good choice if you want a simple, low-cost way to invest in bonds.
 
 ## How can bond funds be used in a diversified investment portfolio?
 

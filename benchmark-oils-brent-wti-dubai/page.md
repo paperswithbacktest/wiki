@@ -22,7 +22,7 @@ When people talk about oil prices in the news, they often mean the price of Bren
 
 ## What is WTI (West Texas Intermediate) crude oil?
 
-WTI, or West Texas Intermediate, is a type of crude oil that comes from the United States, mainly from Texas. It is known for being very high quality and easy to turn into things like gasoline and diesel. Because it is so good, WTI is used as a benchmark oil. This means that its price helps people decide the price of other oils around the world. When you hear about oil prices on the news, they are often talking about the price of WTI.
+WTI, or West Texas Intermediate, is a type of [crude oil](/wiki/crude-oil) that comes from the United States, mainly from Texas. It is known for being very high quality and easy to turn into things like gasoline and diesel. Because it is so good, WTI is used as a benchmark oil. This means that its price helps people decide the price of other oils around the world. When you hear about oil prices on the news, they are often talking about the price of WTI.
 
 WTI is traded a lot, especially in the United States. Its price can change every day based on how much people want it and how much is available. Many people and companies watch the price of WTI to make decisions about buying and selling oil. Because it is so important, changes in the price of WTI can affect not just the U.S. economy, but the whole world's economy too.
 
@@ -42,7 +42,7 @@ These oils are traded on special markets called futures exchanges. For example, 
 
 The prices of Brent, WTI, and Dubai crude oils are influenced by many things. One big thing is how much oil people want to buy and how much oil is available. If there's a lot of oil but not many people want to buy it, the price goes down. If there's not much oil but a lot of people want to buy it, the price goes up. Another thing that affects prices is what's happening in the world. If there's a war or a big storm in an area where oil comes from, it can make less oil available and push prices up. Also, if countries decide to produce more or less oil, that can change the price too.
 
-The value of the money people use to buy oil also plays a role. If the dollar gets weaker, oil can seem more expensive to people using other money, which can make them buy less and lower the price. On the other hand, if the dollar gets stronger, oil can seem cheaper to those people, and they might buy more, pushing the price up. Economic growth is another factor. If the world's economy is doing well, more people are using oil for things like driving cars and making things, so the demand goes up and prices can rise. If the economy is not doing well, people use less oil, and prices can fall.
+The value of the money people use to buy oil also plays a role. If the dollar gets weaker, oil can seem more expensive to people using other money, which can make them buy less and lower the price. On the other hand, if the dollar gets stronger, oil can seem cheaper to those people, and they might buy more, pushing the price up. Economic growth is another [factor](/wiki/factor-investing). If the world's economy is doing well, more people are using oil for things like driving cars and making things, so the demand goes up and prices can rise. If the economy is not doing well, people use less oil, and prices can fall.
 
 Lastly, the rules and decisions made by groups like OPEC, which is made up of many oil-producing countries, can have a big impact. If OPEC decides to produce more oil, that can make prices go down. If they decide to produce less, that can push prices up. Also, new technology and ways of getting oil, like fracking, can change how much oil is available and affect prices. All these things together make the price of oil go up and down every day.
 
@@ -108,5 +108,5 @@ For those seeking to deepen their understanding of the oil markets and the role 
 
 9. **MIT OpenCourseWare** - Offers free courses related to financial markets and algorithmic trading. Visit [MITOCW](https://ocw.mit.edu/) for access to high-quality educational materials.
 
-These references serve as a starting point for anyone interested in the pivotal function of WTI and Brent benchmarks or those who wish to explore the dynamic realm of algorithmic trading. Understanding these resources can significantly aid traders and investors in navigating the complexities of modern financial markets.
+These references serve as a starting point for anyone interested in the pivotal function of WTI and Brent benchmarks or those who wish to explore the dynamic realm of [algorithmic trading](/wiki/algorithmic-trading). Understanding these resources can significantly aid traders and investors in navigating the complexities of modern financial markets.
 

@@ -22,7 +22,7 @@ To make it easier, beginners can find many examples and tutorials online that sh
 
 ## What are the key components of a backtesting framework?
 
-A backtesting framework needs a few key parts to work well. First, it needs a way to get and use old market data. This data is important because it lets the framework see how a trading strategy would have done in the past. The framework also needs a place to write down the trading rules, like when to buy or sell. These rules tell the framework what to do with the data. Finally, the framework should be able to run the strategy over the old data and show how it did, like how much money it made or lost.
+A [backtesting](/wiki/backtesting) framework needs a few key parts to work well. First, it needs a way to get and use old market data. This data is important because it lets the framework see how a trading strategy would have done in the past. The framework also needs a place to write down the trading rules, like when to buy or sell. These rules tell the framework what to do with the data. Finally, the framework should be able to run the strategy over the old data and show how it did, like how much money it made or lost.
 
 Another important part is a way to check how good the strategy is. This means looking at things like how much risk the strategy took and how steady its results were. The framework should also let users change the strategy easily and test it again to see if it gets better. This helps traders find the best way to trade. Overall, a good backtesting framework makes it easy to test ideas and learn from them without losing real money.
 
@@ -58,7 +58,7 @@ Another advanced metric to consider is the Calmar Ratio, which looks at how much
 
 ## How can you incorporate machine learning into backtesting frameworks?
 
-You can use machine learning in backtesting by letting it help you find patterns in the old market data. Instead of just using simple rules like buying when a price goes above a certain line, you can train a machine learning model to look at lots of different things at once, like prices, trading volumes, and even news. The model learns from the past data and tries to guess what will happen next. Then, you can use these guesses to make your trading strategy. This can make your strategy smarter because it can see things that might be hard for a person to notice.
+You can use [machine learning](/wiki/machine-learning) in backtesting by letting it help you find patterns in the old market data. Instead of just using simple rules like buying when a price goes above a certain line, you can train a machine learning model to look at lots of different things at once, like prices, trading volumes, and even news. The model learns from the past data and tries to guess what will happen next. Then, you can use these guesses to make your trading strategy. This can make your strategy smarter because it can see things that might be hard for a person to notice.
 
 To put machine learning into a backtesting framework, you need to split your data into two parts: one for training the model and one for testing it. You train the model on the first part of the data, and then you use the second part to see how well it works. This is important because you want to make sure your model is good at guessing with new data, not just the data it was trained on. Once your model is trained and tested, you can use it in your backtesting framework to make trading decisions. This way, you can see if using machine learning makes your strategy better than using simple rules alone.
 
@@ -76,7 +76,7 @@ When dealing with complex strategies, it's important to break them down into sma
 
 ## What are the latest developments in backtesting methodologies and how might they impact future strategies?
 
-The latest developments in backtesting methodologies include the use of more advanced machine learning techniques and the integration of real-time data feeds. Machine learning, especially deep learning, is becoming more common in backtesting because it can find patterns in big data that simple rules might miss. This means that future trading strategies could be smarter and better at predicting market changes. Also, using real-time data feeds in backtesting helps make the tests more realistic. Instead of just using old data, you can see how your strategy would work with the latest information, which can make your strategies more ready for real trading.
+The latest developments in backtesting methodologies include the use of more advanced machine learning techniques and the integration of real-time data feeds. Machine learning, especially [deep learning](/wiki/deep-learning), is becoming more common in backtesting because it can find patterns in big data that simple rules might miss. This means that future trading strategies could be smarter and better at predicting market changes. Also, using real-time data feeds in backtesting helps make the tests more realistic. Instead of just using old data, you can see how your strategy would work with the latest information, which can make your strategies more ready for real trading.
 
 Another important development is the focus on better risk management in backtesting. New tools and methods are being made to not just look at how much money a strategy can make, but also how much risk it takes. This can help traders make safer choices and avoid big losses. As these new methods become more common, future trading strategies might be more balanced, looking at both the chance to make money and the risk of losing it. Overall, these developments could make backtesting more powerful and help traders create strategies that work better in real markets.
 
@@ -86,7 +86,7 @@ Python has become a preferred language for backtesting trading strategies due to
 
 ### PyAlgoTrade
 
-PyAlgoTrade is a simple yet powerful backtesting framework designed for algorithmic trading. It supports strategies that involve historical data and provides an easy-to-use API that simplifies the development of trading algorithms.
+PyAlgoTrade is a simple yet powerful backtesting framework designed for [algorithmic trading](/wiki/algorithmic-trading). It supports strategies that involve historical data and provides an easy-to-use API that simplifies the development of trading algorithms.
 
 **Features**:
 - **Ease of Use**: PyAlgoTrade is known for its straightforward approach, making it suitable for beginners.

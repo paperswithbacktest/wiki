@@ -78,9 +78,9 @@ These platforms also use special tools to help with bidding. For example, you ca
 
 ## What advanced techniques can traders use to optimize their best bid in high-frequency trading?
 
-In high-frequency trading, traders use special computer programs to place bids really fast. One technique they use is called "order book analysis." This means they look at all the bids and asks in the market to see what the best bid is and how it might change. They use this information to place their bid just a little bit higher than the current best bid, hoping to get the best price before anyone else can. It's like trying to be the first in line, but with computers doing it super quickly.
+In high-frequency trading, traders use special computer programs to place bids really fast. One technique they use is called "[order book](/wiki/order-book-trading-strategies) analysis." This means they look at all the bids and asks in the market to see what the best bid is and how it might change. They use this information to place their bid just a little bit higher than the current best bid, hoping to get the best price before anyone else can. It's like trying to be the first in line, but with computers doing it super quickly.
 
-Another technique is called "latency arbitrage." Traders try to be faster than everyone else by using the best internet connections and the fastest computers. They place their bid a tiny bit higher than the best bid, but they do it so fast that other traders can't react in time. This way, they can buy at a good price and then sell it for a little more, making a quick profit. It's all about being the quickest to get the best bid and make money from small price differences.
+Another technique is called "latency [arbitrage](/wiki/arbitrage)." Traders try to be faster than everyone else by using the best internet connections and the fastest computers. They place their bid a tiny bit higher than the best bid, but they do it so fast that other traders can't react in time. This way, they can buy at a good price and then sell it for a little more, making a quick profit. It's all about being the quickest to get the best bid and make money from small price differences.
 
 ## References & Further Reading
 

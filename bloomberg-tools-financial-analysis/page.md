@@ -46,7 +46,7 @@ Another important tool for portfolio analysis is 'AN', which stands for Analytic
 
 ## What advanced Bloomberg functions are useful for forex trading analysis?
 
-For forex trading analysis, one of the most useful Bloomberg functions is 'FXIP', which stands for Foreign Exchange Interbank Prices. When you type 'FXIP' followed by a currency pair like 'EURUSD', you can see real-time prices for that pair. This helps you understand the current exchange rate and how it's changing. You can also use 'FXIP' to see how much the price has moved over different time periods, which is important for deciding when to buy or sell a currency.
+For [forex](/wiki/forex-system) trading analysis, one of the most useful Bloomberg functions is 'FXIP', which stands for Foreign Exchange Interbank Prices. When you type 'FXIP' followed by a currency pair like 'EURUSD', you can see real-time prices for that pair. This helps you understand the current exchange rate and how it's changing. You can also use 'FXIP' to see how much the price has moved over different time periods, which is important for deciding when to buy or sell a currency.
 
 Another helpful function is 'FXFA', which stands for Foreign Exchange Forward Analysis. With 'FXFA', you can look at forward rates for different currency pairs. Forward rates tell you what the market thinks the exchange rate will be in the future. This is useful for planning trades that will happen later on. By comparing the current spot rate with the forward rate, you can make better decisions about trading currencies over time.
 

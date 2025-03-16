@@ -18,7 +18,7 @@ Using the Bitpay Card is simple. After you get the card, you can add money to it
 
 The Bitpay Card lets you use your cryptocurrencies like Bitcoin to buy things. You put your Bitcoin or other digital money onto the card. Then, you can use the card to shop online or in stores, just like a regular debit card. The card works with Visa, so you can use it at millions of places around the world. This makes it easy to spend your cryptocurrencies without having to change them into regular money first.
 
-To get started with the Bitpay Card, you first need to get the card and set it up. You can do this by downloading the Bitpay app on your phone. Once you have the app, you can add money to your card from your cryptocurrency wallet. After your card has money on it, you can use it to make purchases. You can also check your balance and manage your card through the app, which helps you keep track of your spending easily.
+To get started with the Bitpay Card, you first need to get the card and set it up. You can do this by downloading the Bitpay app on your phone. Once you have the app, you can add money to your card from your [cryptocurrency](/wiki/cryptocurrency) wallet. After your card has money on it, you can use it to make purchases. You can also check your balance and manage your card through the app, which helps you keep track of your spending easily.
 
 ## What cryptocurrencies can be used with the Bitpay Card?
 

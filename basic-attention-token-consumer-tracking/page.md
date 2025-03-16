@@ -42,7 +42,7 @@ Brave keeps all the tracking info on your own computer, so your privacy stays sa
 
 Users can earn BAT by using the Brave browser and choosing to see ads. When you use Brave, it shows you ads that you might like based on what websites you visit. For every ad you see and interact with, you get a small amount of BAT tokens. The more ads you look at and engage with, the more BAT you can earn. It's like getting paid to browse the internet!
 
-Brave keeps track of how you interact with these ads on your own computer, so your privacy is protected. This means advertisers don't know who you are, but they can still see if their ads are working well. By earning BAT, you can then use these tokens to support your favorite websites or content creators, or you can keep them as a form of digital currency. It's a win-win situation where you get rewarded for your attention, and advertisers get to reach people who are interested in their ads.
+Brave keeps track of how you interact with these ads on your own computer, so your privacy is protected. This means advertisers don't know who you are, but they can still see if their ads are working well. By [earning](/wiki/earning-announcement) BAT, you can then use these tokens to support your favorite websites or content creators, or you can keep them as a form of digital currency. It's a win-win situation where you get rewarded for your attention, and advertisers get to reach people who are interested in their ads.
 
 ## What are the technical mechanisms behind BAT's consumer tracking?
 

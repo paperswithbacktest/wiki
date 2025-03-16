@@ -52,7 +52,7 @@ Another benefit is that these funds are easy to manage. When you invest in a fun
 
 ## What are the risks associated with tracking the Bloomberg Aggregate Bond Index?
 
-When you invest in funds that track the Bloomberg Aggregate Bond Index, one risk you face is interest rate risk. This means if interest rates go up, the value of the bonds in the index might go down. That's because new bonds will be issued with higher interest rates, making the older bonds less attractive. If you need to sell your bonds before they mature, you might have to sell them for less than you paid. This can lead to losses.
+When you invest in funds that track the Bloomberg Aggregate Bond Index, one risk you face is [interest rate](/wiki/interest-rate-trading-strategies) risk. This means if interest rates go up, the value of the bonds in the index might go down. That's because new bonds will be issued with higher interest rates, making the older bonds less attractive. If you need to sell your bonds before they mature, you might have to sell them for less than you paid. This can lead to losses.
 
 Another risk is credit risk. This happens if the companies or governments that issued the bonds in the index can't pay back their loans. If they default, the value of those bonds will drop, which can pull down the overall performance of the index. Even though the index includes many different types of bonds, if a lot of them start to have trouble at the same time, it can affect your investment.
 

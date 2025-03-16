@@ -82,7 +82,7 @@ Another example is the collaboration between Vanguard and Ascensus. Vanguard, kn
 
 ## What future trends are expected in the development of B2B Robo-Advisors?
 
-In the future, B2B Robo-Advisors are expected to become even smarter and more personalized. They will use new technology like artificial intelligence (AI) to understand each client's needs better. This means they will be able to give advice that is just right for each business or person. They might also use more data to make better decisions about where to put money. This could help businesses grow their money even faster and more safely.
+In the future, B2B Robo-Advisors are expected to become even smarter and more personalized. They will use new technology like [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) to understand each client's needs better. This means they will be able to give advice that is just right for each business or person. They might also use more data to make better decisions about where to put money. This could help businesses grow their money even faster and more safely.
 
 Another trend is that B2B Robo-Advisors will work even better with other systems. They will be able to connect with more types of software, making it easier for businesses to use them. This could mean that businesses can manage all their money in one place, without having to switch between different programs. As technology gets better, B2B Robo-Advisors will become a bigger part of how businesses handle their finances, helping them save time and money.
 

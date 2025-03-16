@@ -28,7 +28,7 @@ The first modern auction houses started in the 17th century in England. One of t
 
 ## Who were the first auction houses and when were they established?
 
-The first modern auction houses started in the 17th century in England. One of the oldest and most famous auction houses is Sotheby's. It began in 1744 when Samuel Baker held his first auction. Sotheby's became well-known for selling books and later expanded to other items like art and antiques.
+The first modern auction houses started in the 17th century in England. One of the oldest and most famous auction houses is Sotheby's. It began in 1744 when Samuel Baker held his first auction. Sotheby's became well-known for selling [books](/wiki/algo-trading-books) and later expanded to other items like art and antiques.
 
 Another well-known auction house, Christie's, started a bit later in 1766. It was founded by James Christie. Like Sotheby's, Christie's also grew to sell a wide range of items, including art, jewelry, and more. These two auction houses helped make auctions more organized and trusted, setting the stage for the auction houses we know today.
 

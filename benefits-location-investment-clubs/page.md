@@ -40,7 +40,7 @@ Diversification is important because it can help protect the club's money. If on
 
 An investment club is a great way to learn about money and investing. When you join a club, you get to be around other people who are also interested in learning. You can ask them questions, and they can explain things in a way that's easy to understand. For example, if you don't know what a stock is or how it works, someone in the club can teach you. You can also see how the club makes decisions about where to put their money, which helps you learn how to think about investing.
 
-Being in an investment club also means you get to learn by doing. Instead of just reading about investing in books or online, you actually get to use real money to buy stocks, bonds, or other investments. This hands-on experience is really helpful because you can see what works and what doesn't. Plus, since the club meets regularly, you keep learning new things all the time. Over time, this can make you much smarter about money and give you the confidence to make your own investment choices.
+Being in an investment club also means you get to learn by doing. Instead of just reading about investing in [books](/wiki/algo-trading-books) or online, you actually get to use real money to buy stocks, bonds, or other investments. This hands-on experience is really helpful because you can see what works and what doesn't. Plus, since the club meets regularly, you keep learning new things all the time. Over time, this can make you much smarter about money and give you the confidence to make your own investment choices.
 
 ## How can investment clubs improve investment decision-making skills?
 

@@ -28,7 +28,7 @@ For example, natural gas is often measured in cubic feet. One cubic foot of natu
 
 ## What is the typical conversion factor used for natural gas to BOE?
 
-The typical conversion factor used for natural gas to BOE is based on the energy content of both fuels. One barrel of oil has about 5.8 million British Thermal Units (BTUs) of energy. Natural gas is usually measured in cubic feet, and one cubic foot of natural gas has about 1,030 BTUs. To convert natural gas to BOE, you divide the BTUs in natural gas by the BTUs in a barrel of oil.
+The typical conversion [factor](/wiki/factor-investing) used for natural gas to BOE is based on the energy content of both fuels. One barrel of oil has about 5.8 million British Thermal Units (BTUs) of energy. Natural gas is usually measured in cubic feet, and one cubic foot of natural gas has about 1,030 BTUs. To convert natural gas to BOE, you divide the BTUs in natural gas by the BTUs in a barrel of oil.
 
 This means that about 5,631 cubic feet of natural gas is equal to one BOE. This conversion factor helps people compare the energy in natural gas to the energy in a barrel of oil easily. It's useful for energy companies and governments to understand how much energy they are getting from different sources and to make better plans for energy use.
 
@@ -52,7 +52,7 @@ Critics also say that BOE can be confusing because it's based on a specific amou
 
 ## How do variations in oil quality affect the BOE conversion?
 
-Variations in oil quality can change how much energy is in a barrel of oil, which affects the BOE conversion. Not all oil is the same; some oil has more energy than other oil. For example, light crude oil usually has more energy than heavy crude oil. When we use BOE, we assume that one barrel of oil always has the same amount of energy, but this isn't always true. If the oil we are using has more or less energy than the standard, then the BOE conversion might not be accurate.
+Variations in oil quality can change how much energy is in a barrel of oil, which affects the BOE conversion. Not all oil is the same; some oil has more energy than other oil. For example, light [crude oil](/wiki/crude-oil) usually has more energy than heavy crude oil. When we use BOE, we assume that one barrel of oil always has the same amount of energy, but this isn't always true. If the oil we are using has more or less energy than the standard, then the BOE conversion might not be accurate.
 
 This means that when we convert other fuels to BOE, the results can be off if the oil we are comparing them to is different from the standard. For instance, if we are using heavy crude oil, which has less energy, then the BOE number for other fuels might be too high. This can make it hard to compare energy sources accurately. People who use BOE need to keep in mind that the quality of the oil can change how useful the BOE conversion is.
 

@@ -22,23 +22,23 @@ Algorithmic trading can be faster and more accurate because computers can look a
 
 ## What are the basic components of an algorithmic trading agent?
 
-An algorithmic trading agent is made up of a few important parts. First, there's the data feed, which gives the agent information about prices, news, and other things that can affect the market. This data is really important because it helps the agent decide when to buy or sell. Next, there's the algorithm itself, which is like a set of rules that tells the agent what to do with the information it gets. The algorithm looks at the data and decides if it's a good time to make a trade.
+An [algorithmic trading](/wiki/algorithmic-trading) agent is made up of a few important parts. First, there's the data feed, which gives the agent information about prices, news, and other things that can affect the market. This data is really important because it helps the agent decide when to buy or sell. Next, there's the algorithm itself, which is like a set of rules that tells the agent what to do with the information it gets. The algorithm looks at the data and decides if it's a good time to make a trade.
 
 Another key part is the execution system, which actually makes the trades happen. Once the algorithm decides to buy or sell, the execution system sends the order to the market. Finally, there's the risk management system, which helps keep the agent from losing too much money. It can set limits on how much the agent can trade and how much risk it can take. Together, these parts help the algorithmic trading agent work smoothly and make smart trading decisions.
 
 ## What programming languages are commonly used to develop algorithmic trading agents?
 
-People often use Python to make algorithmic trading agents because it's easy to learn and has a lot of tools that help with trading. Python can handle data well, which is important for looking at market information quickly. It also has libraries like Pandas and NumPy that help with math and data, and other tools like Zipline and Backtrader that are made just for trading.
+People often use Python to make algorithmic trading [agents](/wiki/agents) because it's easy to learn and has a lot of tools that help with trading. Python can handle data well, which is important for looking at market information quickly. It also has libraries like Pandas and NumPy that help with math and data, and other tools like Zipline and Backtrader that are made just for trading.
 
 Another language that's popular is C++, which is faster than Python and good for making quick decisions in the market. C++ is harder to learn, but it's great for handling a lot of information at once. Some people also use Java because it's good for big projects and works well on different computers.
 
-R is another choice, especially if you're good with statistics. It's used a lot for looking at data and making predictions, which can help with trading decisions. Each of these languages has its own strengths, so the best one depends on what you need your trading agent to do.
+R is another choice, especially if you're good with [statistics](/wiki/bayesian-statistics). It's used a lot for looking at data and making predictions, which can help with trading decisions. Each of these languages has its own strengths, so the best one depends on what you need your trading agent to do.
 
 ## How can one start developing their first algorithmic trading agent?
 
 To start developing your first algorithmic trading agent, you should first choose a programming language that you're comfortable with. Python is a great choice for beginners because it's easy to learn and has a lot of tools that can help you with trading. You'll need to set up your computer with the right software, like Python and libraries such as Pandas and NumPy, which help with handling data. Once you have everything set up, you can start writing your first simple trading algorithm. This could be something basic, like a moving average crossover strategy, where you buy when a short-term moving average goes above a long-term one, and sell when it goes below.
 
-After you've written your algorithm, you'll need to test it. You can do this by using historical data to see how your strategy would have worked in the past. This is called backtesting. There are tools like Zipline or Backtrader that can help you with this. Once you're happy with how your algorithm performs in backtesting, you can move on to paper trading, where you test your strategy in real-time but without using real money. This helps you see how your algorithm would work in the current market without risking any money. Once you're confident in your algorithm, you can start using it with real money, but always remember to keep an eye on it and be ready to make changes if the market changes.
+After you've written your algorithm, you'll need to test it. You can do this by using historical data to see how your strategy would have worked in the past. This is called [backtesting](/wiki/backtesting). There are tools like Zipline or Backtrader that can help you with this. Once you're happy with how your algorithm performs in backtesting, you can move on to paper trading, where you test your strategy in real-time but without using real money. This helps you see how your algorithm would work in the current market without risking any money. Once you're confident in your algorithm, you can start using it with real money, but always remember to keep an eye on it and be ready to make changes if the market changes.
 
 ## What are some common strategies implemented by algorithmic trading agents?
 
@@ -46,7 +46,7 @@ One common strategy used by algorithmic trading agents is the moving average cro
 
 Another strategy is called mean reversion. This strategy is based on the idea that prices will eventually go back to their average value. When a stock's price goes much higher than its average, the agent might sell it, expecting the price to come back down. If the price goes much lower than its average, the agent might buy it, expecting the price to go back up. This strategy tries to take advantage of the ups and downs in the market by betting that things will even out over time.
 
-A third strategy is called statistical arbitrage. This one is a bit more complicated and involves looking at the relationship between different stocks or other things you can trade. The agent tries to find pairs of stocks that usually move together but have temporarily moved apart. It buys the one that's gone down and sells the one that's gone up, expecting them to come back together. This strategy uses math and statistics to find small differences in the market and make money from them.
+A third strategy is called statistical [arbitrage](/wiki/arbitrage). This one is a bit more complicated and involves looking at the relationship between different stocks or other things you can trade. The agent tries to find pairs of stocks that usually move together but have temporarily moved apart. It buys the one that's gone down and sells the one that's gone up, expecting them to come back together. This strategy uses math and statistics to find small differences in the market and make money from them.
 
 ## How do you backtest an algorithmic trading agent?
 
@@ -62,7 +62,7 @@ Another risk is that algorithmic trading agents can make the market move in big 
 
 ## How can machine learning be integrated into algorithmic trading agents?
 
-Machine learning can help make algorithmic trading agents smarter by letting them learn from data and get better over time. Instead of just following set rules, a machine learning model can look at a lot of information like stock prices, news, and other things to find patterns. It can then use these patterns to decide when to buy or sell. For example, a machine learning model might learn that certain news stories usually make a stock's price go up or down, and use that information to make trades.
+Machine learning can help make algorithmic trading agents smarter by letting them learn from data and get better over time. Instead of just following set rules, a [machine learning](/wiki/machine-learning) model can look at a lot of information like stock prices, news, and other things to find patterns. It can then use these patterns to decide when to buy or sell. For example, a machine learning model might learn that certain news stories usually make a stock's price go up or down, and use that information to make trades.
 
 To use machine learning in an algorithmic trading agent, you first need to gather a lot of data about the market. Then, you train a machine learning model with this data to find out what makes the market move. After the model is trained, you can put it into your trading agent. The agent will then use the model to make decisions about trades. It's important to keep updating the model with new data so it can keep learning and making better decisions. This way, the trading agent can adapt to changes in the market and hopefully make more money.
 
@@ -82,7 +82,7 @@ It's also important to keep an eye on how your agent is doing in real time. You 
 
 One advanced way to make an algorithmic trading agent better at making decisions is by using machine learning. Machine learning lets the agent learn from a lot of data, like past stock prices and news, to find patterns that can help it decide when to buy or sell. For example, the agent might learn that certain news stories often make a stock's price go up or down. It can then use this information to make smarter trades. By constantly updating the machine learning model with new data, the agent can keep getting better and adapt to changes in the market.
 
-Another technique is called reinforcement learning, which is a type of machine learning where the agent learns by trying different actions and seeing what works best. The agent gets rewards for making good trades and penalties for making bad ones. Over time, it figures out the best way to trade by itself. This can help the agent make decisions that are more flexible and can handle the ups and downs of the market better. By using these advanced techniques, an algorithmic trading agent can become smarter and make more money.
+Another technique is called [reinforcement learning](/wiki/reinforcement-learning), which is a type of machine learning where the agent learns by trying different actions and seeing what works best. The agent gets rewards for making good trades and penalties for making bad ones. Over time, it figures out the best way to trade by itself. This can help the agent make decisions that are more flexible and can handle the ups and downs of the market better. By using these advanced techniques, an algorithmic trading agent can become smarter and make more money.
 
 ## References & Further Reading
 

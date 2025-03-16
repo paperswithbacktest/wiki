@@ -34,7 +34,7 @@ There are some risks for investors using Robinhood. Because Robinhood makes mone
 
 ## What security measures does Robinhood have in place to protect user data and funds?
 
-Robinhood takes security very seriously to keep your data and money safe. They use strong encryption to protect your information when you log in and make trades. This means your personal details and account activity are turned into a code that's hard for hackers to break. Robinhood also has two-factor authentication, which adds an extra step to make sure it's really you logging in. You might get a text message with a code or use an app to confirm it's you.
+Robinhood takes security very seriously to keep your data and money safe. They use strong encryption to protect your information when you log in and make trades. This means your personal details and account activity are turned into a code that's hard for hackers to break. Robinhood also has two-[factor](/wiki/factor-investing) authentication, which adds an extra step to make sure it's really you logging in. You might get a text message with a code or use an app to confirm it's you.
 
 They also keep an eye out for anything suspicious. Robinhood uses special tools to watch for any strange activity on your account, like if someone tries to log in from a new place or if there are big changes in how you trade. If they see something that doesn't look right, they'll let you know right away. Plus, because Robinhood is a member of the SIPC, if something really bad happens and Robinhood can't give you back your money, the SIPC helps protect your investments up to certain limits.
 

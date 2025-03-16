@@ -18,7 +18,7 @@ Bananacoin works on a system called blockchain, which is like a digital ledger t
 
 Bananacoin was first introduced in 2017. It was created to make learning about cryptocurrencies fun and interesting for people. The idea was to use a playful theme, like bananas, to draw people in and teach them about digital money.
 
-Since its launch, Bananacoin has been used by people around the world to buy things online and trade with each other. It runs on a system called blockchain, which keeps everything safe and clear. Even though it's fun, it's still important to be careful with any kind of cryptocurrency.
+Since its launch, Bananacoin has been used by people around the world to buy things online and trade with each other. It runs on a system called blockchain, which keeps everything safe and clear. Even though it's fun, it's still important to be careful with any kind of [cryptocurrency](/wiki/cryptocurrency).
 
 ## Who created Bananacoin?
 

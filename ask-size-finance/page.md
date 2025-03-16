@@ -28,13 +28,13 @@ This information is useful because it can help traders and investors make better
 
 ## Where can you find ask size information on financial platforms?
 
-You can find ask size information on many financial platforms, like stock market apps or websites. When you look up a stock or a contract, there's usually a section called the "order book" or "market depth" that shows the ask size. This section lists the current ask prices and the number of shares or contracts available at each price. For example, if you're using a trading app on your phone, you might see a tab labeled "Level 2" or something similar, where you can see the ask size along with other details.
+You can find ask size information on many financial platforms, like stock market apps or websites. When you look up a stock or a contract, there's usually a section called the "[order book](/wiki/order-book-trading-strategies)" or "market depth" that shows the ask size. This section lists the current ask prices and the number of shares or contracts available at each price. For example, if you're using a trading app on your phone, you might see a tab labeled "Level 2" or something similar, where you can see the ask size along with other details.
 
 Sometimes, the ask size is shown right next to the ask price on the main page of the stock's details. This makes it easy to see at a glance how many shares are available to buy. On some platforms, you might need to click on a specific button or tab to see this information more clearly. No matter where you look, the ask size is an important piece of information that helps you understand how much of a stock you can buy at the current price.
 
 ## How does ask size affect the liquidity of a stock?
 
-Ask size can affect the liquidity of a stock by showing how easy or hard it is to buy shares. If the ask size is big, it means there are a lot of shares available to buy at the current price. This makes the stock more liquid because you can buy a lot without changing the price too much. It's like having a big pile of something you want to buy, so you can take what you need without worrying.
+Ask size can affect the [liquidity](/wiki/liquidity-risk-premium) of a stock by showing how easy or hard it is to buy shares. If the ask size is big, it means there are a lot of shares available to buy at the current price. This makes the stock more liquid because you can buy a lot without changing the price too much. It's like having a big pile of something you want to buy, so you can take what you need without worrying.
 
 But if the ask size is small, it can make the stock less liquid. A small ask size means there aren't many shares available to buy at the current price. If you want to buy a lot, you might have to pay more to get more shares, which can push the price up. It's like trying to buy something when there's only a little left on the shelf; you might have to wait or pay more to get what you want.
 
@@ -86,7 +86,7 @@ Lopez de Prado, M. (2018). "Advances in Financial Machine Learning." This book p
 
 Aronson, D. (2007). "Evidence-Based Technical Analysis." Aronson's work is a critical examination of traditional technical analysis techniques. He introduces a scientific, evidence-based approach to technical analysis, encouraging traders to rigorously test their strategies using data-driven methods.
 
-Jansen, S. "Machine Learning for Algorithmic Trading." This resource offers practical guidance on utilizing machine learning algorithms in algorithmic trading. The book explores various machine learning models and frameworks, illustrating how they can optimize trading strategies and decision-making processes.
+Jansen, S. "Machine Learning for Algorithmic Trading." This resource offers practical guidance on utilizing machine learning algorithms in [algorithmic trading](/wiki/algorithmic-trading). The book explores various machine learning models and frameworks, illustrating how they can optimize trading strategies and decision-making processes.
 
 Chan, E. P. (2017). "Quantitative Trading: How to Build Your Own Algorithmic Trading Business." This book serves as a guide for those interested in starting their own algorithmic trading business. It covers essential topics such as strategy development, backtesting, execution systems, and risk management.
 

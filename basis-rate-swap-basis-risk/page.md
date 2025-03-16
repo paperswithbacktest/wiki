@@ -18,7 +18,7 @@ In a basis rate swap, the two parties agree to pay each other the difference bet
 
 A basis rate swap is different from other swaps because it involves exchanging two different floating interest rates, instead of swapping a fixed rate for a floating rate like in a plain vanilla interest rate swap. In a basis rate swap, both rates are variable and based on different benchmarks, like LIBOR and SOFR. This is useful when someone wants to change from one floating rate to another because they think it might be better or cheaper.
 
-Other types of swaps include currency swaps, where two parties exchange principal and interest payments in different currencies, and commodity swaps, where payments are based on the price of a commodity like oil or gold. Unlike a basis rate swap, these swaps don't involve exchanging different floating interest rates. Instead, they help manage risks related to currency exchange rates or commodity prices. So, basis rate swaps are specifically about managing the risk of having loans or investments tied to different interest rate benchmarks.
+Other types of swaps include currency swaps, where two parties exchange principal and interest payments in different currencies, and commodity swaps, where payments are based on the price of a commodity like oil or gold. Unlike a basis rate swap, these swaps don't involve exchanging different floating interest rates. Instead, they help manage risks related to currency exchange rates or commodity prices. So, basis rate swaps are specifically about managing the risk of having loans or investments tied to different [interest rate](/wiki/interest-rate-trading-strategies) benchmarks.
 
 ## What are the common types of indices used in basis rate swaps?
 
@@ -54,7 +54,7 @@ The actual cost of the swap is the difference between the two rates at each paym
 
 Apart from basis risk, another risk in basis rate swaps is credit risk. This is the chance that one of the parties involved in the swap might not be able to make their payments. If one company agrees to pay based on one interest rate but then can't pay, the other company could lose money. To manage this risk, financial institutions often check the creditworthiness of the other party before agreeing to the swap. They might also use things like collateral or credit support agreements to make sure they get their money even if the other party can't pay.
 
-Another risk is liquidity risk. This happens if it's hard to find someone to take the other side of the swap or if it's hard to get out of the swap before it ends. If the market for basis rate swaps isn't very active, it can be tough to find someone to swap with, or to sell the swap to someone else if you need to. This can make the swap less valuable or harder to manage. Financial institutions try to manage this risk by keeping an eye on market conditions and being ready to adjust their strategies if needed.
+Another risk is [liquidity](/wiki/liquidity-risk-premium) risk. This happens if it's hard to find someone to take the other side of the swap or if it's hard to get out of the swap before it ends. If the market for basis rate swaps isn't very active, it can be tough to find someone to swap with, or to sell the swap to someone else if you need to. This can make the swap less valuable or harder to manage. Financial institutions try to manage this risk by keeping an eye on market conditions and being ready to adjust their strategies if needed.
 
 ## How can basis risk be managed or mitigated in a basis rate swap?
 

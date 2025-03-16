@@ -76,7 +76,7 @@ Belvedere Trading also cares a lot about making sure everyone feels valued and r
 
 ## What future trends or innovations is Belvedere Trading focusing on?
 
-Belvedere Trading is always looking at new ways to use technology to make trading better. They are focusing a lot on artificial intelligence, or AI. AI can help find the best times to buy and sell stocks even faster than before. This means their clients can make more money and take fewer risks. Belvedere Trading is also working on making their computer programs even smarter. They want these programs to learn from past trades and get better over time, which will help them trade more efficiently.
+Belvedere Trading is always looking at new ways to use technology to make trading better. They are focusing a lot on [artificial intelligence](/wiki/ai-artificial-intelligence), or AI. AI can help find the best times to buy and sell stocks even faster than before. This means their clients can make more money and take fewer risks. Belvedere Trading is also working on making their computer programs even smarter. They want these programs to learn from past trades and get better over time, which will help them trade more efficiently.
 
 Another big trend Belvedere Trading is looking at is using more data to make decisions. They are finding ways to use all kinds of information, like news and social media, to understand what's happening in the markets. This can help them predict what might happen next and make smarter trades. Belvedere Trading is also thinking about how to use new technology like blockchain, which can make trading safer and more transparent. By staying on top of these trends, Belvedere Trading hopes to keep helping their clients in the best way possible.
 

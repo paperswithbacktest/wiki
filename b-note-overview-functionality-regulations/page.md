@@ -18,7 +18,7 @@ The B-Note usually has a higher interest rate than the A-Note because it's riski
 
 An A-Note and a B-Note are both loans used in big real estate deals, but they are different in some important ways. The A-Note is the main loan that gets paid back first if the borrower can't pay. It's less risky for the lender because they get their money before anyone else. Because it's safer, the A-Note usually has a lower interest rate. The borrower gets the A-Note first when they need money to buy a big building or property.
 
-The B-Note, on the other hand, is a secondary loan that comes after the A-Note. If the borrower can't pay back the loans, the B-Note lender only gets paid after the A-Note lender has been paid in full. This makes the B-Note riskier, so it usually has a higher interest rate to make up for that risk. B-Notes help borrowers get the extra money they need, but they are more of a gamble for the lender because they might not get all their money back if things go wrong with the property.
+The B-Note, on the other hand, is a secondary loan that comes after the A-Note. If the borrower can't pay back the loans, the B-Note lender only gets paid after the A-Note lender has been paid in full. This makes the B-Note riskier, so it usually has a higher [interest rate](/wiki/interest-rate-trading-strategies) to make up for that risk. B-Notes help borrowers get the extra money they need, but they are more of a gamble for the lender because they might not get all their money back if things go wrong with the property.
 
 ## What are the typical features of a B-Note?
 

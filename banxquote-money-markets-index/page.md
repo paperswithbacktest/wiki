@@ -28,7 +28,7 @@ The index does not include other types of financial instruments like stocks, bon
 
 ## Who uses the BanxQuote Money Markets Index and for what purposes?
 
-The BanxQuote Money Markets Index is used by people who want to save money and earn interest. It helps them compare different money market accounts from various banks. By looking at the index, savers can see what the average interest rate is and decide where to put their money to get the best return. This is useful for anyone who wants to make their savings grow a bit faster than in a regular savings account.
+The BanxQuote Money Markets Index is used by people who want to save money and earn interest. It helps them compare different money market accounts from various banks. By looking at the index, savers can see what the average [interest rate](/wiki/interest-rate-trading-strategies) is and decide where to put their money to get the best return. This is useful for anyone who wants to make their savings grow a bit faster than in a regular savings account.
 
 Financial advisors also use the BanxQuote Money Markets Index. They help their clients find the best places to save money. By keeping an eye on the index, advisors can give good advice about which money market accounts are offering the best rates at any given time. This helps their clients make smart choices about where to keep their savings to earn more interest.
 

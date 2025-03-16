@@ -22,7 +22,7 @@ Because the BBSW affects so many other interest rates, it has a big impact on th
 
 ## How is the BBSW used in financial transactions?
 
-The BBSW is used in financial transactions as a reference rate for setting interest rates on many different kinds of loans and financial products. When banks lend money to each other for a short time, they use the BBSW to decide what interest rate to charge. This helps make sure that the rates are fair and everyone understands what's going on. For example, if a bank wants to borrow money from another bank for three months, they might agree to pay an interest rate that's a little bit more than the BBSW for that period.
+The BBSW is used in financial transactions as a reference rate for setting interest rates on many different kinds of loans and financial products. When banks lend money to each other for a short time, they use the BBSW to decide what [interest rate](/wiki/interest-rate-trading-strategies) to charge. This helps make sure that the rates are fair and everyone understands what's going on. For example, if a bank wants to borrow money from another bank for three months, they might agree to pay an interest rate that's a little bit more than the BBSW for that period.
 
 The BBSW also affects the interest rates that people and businesses see when they take out loans or put money in savings accounts. For instance, if you're getting a home loan, the bank might set your interest rate by adding a certain percentage to the BBSW. So, if the BBSW goes up, your loan might get more expensive. On the other hand, if you have a savings account, the interest you earn might go up when the BBSW increases. This way, the BBSW helps to guide the cost of borrowing and saving for everyone in the economy.
 

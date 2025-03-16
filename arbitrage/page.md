@@ -39,7 +39,7 @@ arb_opps = find_arbitrage_opportunities(market_data)
 print(f"Arbitrage Opportunities: {arb_opps}")
 ```
 
-In this code, the `find_arbitrage_opportunities` function scans through exchange rate data to identify potential arbitrage. Such algorithms can be expanded with more complex logic and integrated with trading platforms to automate the actual execution of trades once opportunities are detected.
+In this code, the `find_arbitrage_opportunities` function scans through exchange rate data to identify potential [arbitrage](/wiki/arbitrage). Such algorithms can be expanded with more complex logic and integrated with trading platforms to automate the actual execution of trades once opportunities are detected.
 
 People often use arbitrage in financial markets, like buying a stock on one exchange where it's cheaper and selling it on another exchange where it's more expensive. It's like finding a good deal and making money from it. However, arbitrage opportunities can disappear quickly because many people are looking for them, and prices tend to even out over time.
 

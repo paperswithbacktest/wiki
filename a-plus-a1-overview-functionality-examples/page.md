@@ -23,7 +23,7 @@ These ratings are important because they help people decide if it's safe to lend
 
 An A+/A1 rating means that a borrower, like a company or a government, is seen as very good at paying back their debts. This rating is given by credit rating agencies like Standard & Poor's and Moody's. Standard & Poor's uses A+ and Moody's uses A1, but they both mean the same thing. This rating is just a little bit below the highest ratings like AAA or Aaa, which shows that the borrower is very trustworthy when it comes to paying back what they owe.
 
-Having an A+/A1 rating is important because it tells lenders and investors that the borrower is a safe choice. When a borrower has this rating, it's easier for them to borrow money. They can often get loans with lower interest rates because they are seen as less risky. This rating helps people in the financial world decide where to put their money, making it a key factor in financial decisions.
+Having an A+/A1 rating is important because it tells lenders and investors that the borrower is a safe choice. When a borrower has this rating, it's easier for them to borrow money. They can often get loans with lower interest rates because they are seen as less risky. This rating helps people in the financial world decide where to put their money, making it a key [factor](/wiki/factor-investing) in financial decisions.
 
 ## How does an A+/A1 rating compare to other credit ratings?
 

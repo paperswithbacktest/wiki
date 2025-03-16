@@ -78,7 +78,7 @@ Lastly, Black Tuesday taught us that the government needs to help people during 
 
 ## How is Black Tuesday remembered and taught in history today?
 
-Black Tuesday is remembered as a very important day in history. It happened on October 29, 1929, when the stock market crashed and started the Great Depression. People remember it because it showed how quickly things can go wrong in the economy. Schools and history books teach about Black Tuesday to help students understand what happened and why it was so important. They learn about how people lost their money and jobs, and how the government had to step in to help fix things.
+Black Tuesday is remembered as a very important day in history. It happened on October 29, 1929, when the stock market crashed and started the Great Depression. People remember it because it showed how quickly things can go wrong in the economy. Schools and history [books](/wiki/algo-trading-books) teach about Black Tuesday to help students understand what happened and why it was so important. They learn about how people lost their money and jobs, and how the government had to step in to help fix things.
 
 Today, Black Tuesday is often used as an example of what can happen if people are not careful with money. Teachers explain how people thought they could make easy money by buying and selling stocks, but then everything fell apart. Students also learn about the lessons from Black Tuesday, like the need for rules to keep the stock market safe and the importance of the government helping people during hard times. By studying Black Tuesday, people can understand more about the economy and how to avoid big problems in the future.
 

@@ -22,7 +22,7 @@ Once the bond resolution is approved, the government or company can start sellin
 
 ## What are the key components of a bond resolution?
 
-A bond resolution has several important parts that help everyone understand the plan for borrowing money. The first part is the amount of money that needs to be borrowed. This tells investors exactly how much money the government or company wants to raise. The next part is the interest rate, which is how much extra money the borrower will pay back to the investors for lending them the money. This rate can be fixed or change over time, depending on what the bond resolution says.
+A bond resolution has several important parts that help everyone understand the plan for borrowing money. The first part is the amount of money that needs to be borrowed. This tells investors exactly how much money the government or company wants to raise. The next part is the [interest rate](/wiki/interest-rate-trading-strategies), which is how much extra money the borrower will pay back to the investors for lending them the money. This rate can be fixed or change over time, depending on what the bond resolution says.
 
 Another key part is the repayment schedule, which tells when the borrowed money needs to be paid back. This can be spread out over many years, and it's important for investors to know when they will get their money back. The bond resolution also includes any special rules or conditions that the borrower must follow, like using the money for a specific project or meeting certain financial goals. These rules help make sure the borrower uses the money responsibly.
 

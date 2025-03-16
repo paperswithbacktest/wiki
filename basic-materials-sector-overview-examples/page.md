@@ -30,11 +30,11 @@ The basic materials sector also creates a lot of jobs. People work in mines, che
 
 ## What are some common products derived from the basic materials sector?
 
-Many things we use every day come from the basic materials sector. For example, metals like iron and copper are used to make cars, appliances, and electronics. Iron is important for building things like bridges and skyscrapers. Copper is used in wires that carry electricity. Without these metals, we wouldn't have many of the things that make our lives easier and more comfortable.
+Many things we use every day come from the basic materials sector. For example, metals like iron and copper are used to make cars, appliances, and electronics. Iron is important for building things like bridges and skyscrapers. Copper is used in wires that [carry](/wiki/carry-trading) electricity. Without these metals, we wouldn't have many of the things that make our lives easier and more comfortable.
 
 Chemicals from this sector are also very important. They are used to make cleaning products that keep our homes and workplaces clean. Chemicals are also used to make plastics, which are in everything from toys to bottles. Another big use of chemicals is in medicines, which help us stay healthy. Without chemicals, we wouldn't have many of the products that we rely on every day.
 
-Lastly, the forestry and paper part of the basic materials sector gives us paper and wood products. Paper is used for books, newspapers, and packaging. Wood is used to make furniture, houses, and other buildings. These products are important for our daily lives and help us live, work, and learn.
+Lastly, the forestry and paper part of the basic materials sector gives us paper and wood products. Paper is used for [books](/wiki/algo-trading-books), newspapers, and packaging. Wood is used to make furniture, houses, and other buildings. These products are important for our daily lives and help us live, work, and learn.
 
 ## How does the basic materials sector impact the environment?
 

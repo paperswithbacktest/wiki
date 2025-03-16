@@ -18,7 +18,7 @@ ETFs are popular because they offer diversification, which means you're spreadin
 
 Young investors should consider ETFs because they offer an easy way to start investing without needing a lot of money or knowledge about the stock market. ETFs let you buy a small piece of a big group of investments, like stocks or bonds, all at once. This means you can spread your money across many different things, which is safer than putting all your money in one place. Plus, ETFs usually have low fees, so more of your money can grow over time.
 
-Another reason young investors might like ETFs is that they are flexible and easy to manage. You can buy and sell them anytime during the trading day, just like stocks. This can be helpful if you need to get your money out quickly or if you want to change your investments. Also, because ETFs track indexes, you don't have to spend a lot of time picking which stocks to buy. You can just choose an ETF that fits your goals, like saving for a house or retirement, and let it do the work for you.
+Another reason young investors might like ETFs is that they are flexible and easy to manage. You can buy and sell them anytime during the trading day, just like stocks. This can be helpful if you need to get your money out quickly or if you want to change your investments. Also, because ETFs track indexes, you don't have to spend a lot of time [picking](/wiki/asset-class-picking) which stocks to buy. You can just choose an [ETF](/wiki/etf-trading-strategies) that fits your goals, like saving for a house or retirement, and let it do the work for you.
 
 ## How do ETFs help in diversifying an investment portfolio?
 
@@ -36,7 +36,7 @@ Another cost benefit of ETFs is that you can start investing with a small amount
 
 ETFs are very liquid, which means you can easily buy and sell them during the trading day. When you want to sell your ETF shares, you usually don't have to wait long to find a buyer. This is important because it means you can get your money out quickly if you need it for something else or if you want to change your investments.
 
-For young investors, this liquidity is really helpful. It means you can start and stop investing without worrying about being stuck with your money in one place. If you're saving for a goal like a new car or a house, being able to turn your investments into cash quickly can make a big difference. Plus, knowing you can easily sell your ETFs can make you feel more confident about investing, even if you're just starting out.
+For young investors, this [liquidity](/wiki/liquidity-risk-premium) is really helpful. It means you can start and stop investing without worrying about being stuck with your money in one place. If you're saving for a goal like a new car or a house, being able to turn your investments into cash quickly can make a big difference. Plus, knowing you can easily sell your ETFs can make you feel more confident about investing, even if you're just starting out.
 
 ## Can ETFs help young investors manage risk?
 

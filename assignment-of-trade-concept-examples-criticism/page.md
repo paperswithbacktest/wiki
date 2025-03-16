@@ -78,7 +78,7 @@ As a result, the whole market for mortgage-backed securities got shaken up. The 
 
 In the future, assignment of trade could become even more important because of new technology. Trading platforms are getting better and faster, which makes it easier for people to assign trades. This means more people might start using assignment of trade to manage their risks and make money. Also, new rules might be made to make sure that assignment of trade is done fairly and safely. These rules could help stop big problems like the ones we saw during the financial crisis.
 
-Another trend we might see is more use of artificial intelligence (AI) in assignment of trade. AI can help traders figure out the best times to assign trades and find the right people to assign them to. This could make the whole process smoother and more efficient. But, there might also be new challenges. As more trades are assigned quickly with AI, it could be harder to keep track of all the risks in the market. So, while technology can make things easier, it's important to keep an eye on how it's affecting the market overall.
+Another trend we might see is more use of [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) in assignment of trade. AI can help traders figure out the best times to assign trades and find the right people to assign them to. This could make the whole process smoother and more efficient. But, there might also be new challenges. As more trades are assigned quickly with AI, it could be harder to keep track of all the risks in the market. So, while technology can make things easier, it's important to keep an eye on how it's affecting the market overall.
 
 ## References & Further Reading
 

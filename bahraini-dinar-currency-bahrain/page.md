@@ -52,7 +52,7 @@ Compared to other currencies, the Bahraini Dinar is stronger than many, includin
 
 ## What historical factors have influenced the value of the Bahraini Dinar?
 
-The value of the Bahraini Dinar has been influenced by several historical factors. One important factor is Bahrain's economy, which has been strong because of oil and gas. Bahrain started using oil in the 1930s, and this made the country richer. When Bahrain introduced the Dinar in 1965, the money was already strong because of the oil wealth. The government used the money from oil to make the economy even better, which helped keep the Dinar's value high.
+The value of the Bahraini Dinar has been influenced by several historical factors. One important [factor](/wiki/factor-investing) is Bahrain's economy, which has been strong because of oil and gas. Bahrain started using oil in the 1930s, and this made the country richer. When Bahrain introduced the Dinar in 1965, the money was already strong because of the oil wealth. The government used the money from oil to make the economy even better, which helped keep the Dinar's value high.
 
 Another factor is how Bahrain's government and the Central Bank of Bahrain manage the Dinar. They use a system called a "pegged exchange rate," which means the Dinar's value is tied to the US Dollar. This helps keep the Dinar stable because when the US Dollar goes up or down, the Dinar moves with it. The Central Bank also works hard to control how much money is in Bahrain, which stops the Dinar from losing value quickly. These efforts have helped the Bahraini Dinar stay one of the strongest currencies in the world.
 

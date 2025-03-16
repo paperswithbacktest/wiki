@@ -24,7 +24,7 @@ Because of bear traps, traders might start to second-guess themselves. They migh
 
 One common sign of a bear trap is when the price of a stock drops a lot in a short time, but the reasons for the drop don't seem strong enough. For example, if the price falls because of a small piece of bad news that doesn't really change how the company works, it might be a bear trap. Traders who see this might think the price will keep falling, but if the company is still doing well overall, the price could bounce back quickly.
 
-Another sign is when the trading volume, or the number of stocks being bought and sold, doesn't go up much during the price drop. Usually, when a stock's price falls a lot, more people start trading it. If the volume stays low, it could mean that not many people believe the price will keep going down, and the drop might just be a temporary thing.
+Another sign is when the trading [volume](/wiki/volume-trading-strategy), or the number of stocks being bought and sold, doesn't go up much during the price drop. Usually, when a stock's price falls a lot, more people start trading it. If the volume stays low, it could mean that not many people believe the price will keep going down, and the drop might just be a temporary thing.
 
 Lastly, if the price starts to go up again soon after dropping, and it goes up quickly, this can also be a sign of a bear trap. Traders who sold their stocks thinking the price would keep falling might rush to buy them back, pushing the price up even more. This quick recovery can catch those traders off guard and lead to losses if they aren't careful.
 

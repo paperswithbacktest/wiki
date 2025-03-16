@@ -24,7 +24,7 @@ When the price starts to go up, the people who sold their shares too soon realiz
 
 To spot a Bear Trap, you need to watch for certain signs in the market. One important sign is when the price of a stock drops to a level where it usually stops falling and starts to go up again. This is called a support level. If the price gets close to this level and then suddenly starts to go up, it might be a Bear Trap. Another sign is when you see a lot of people suddenly buying the stock after it has been falling. This can push the price up quickly and catch sellers by surprise.
 
-Another thing to look for is the trading volume. If the price is falling but the number of shares being traded is low, it might mean that not many people believe the price will keep going down. When the price starts to go up again and the trading volume gets higher, it could be a sign of a Bear Trap. Also, pay attention to any good news or positive reports about the company. If the price goes up after some good news comes out, it could be a sign that the market was wrong about the stock falling and a Bear Trap is forming.
+Another thing to look for is the trading [volume](/wiki/volume-trading-strategy). If the price is falling but the number of shares being traded is low, it might mean that not many people believe the price will keep going down. When the price starts to go up again and the trading volume gets higher, it could be a sign of a Bear Trap. Also, pay attention to any good news or positive reports about the company. If the price goes up after some good news comes out, it could be a sign that the market was wrong about the stock falling and a Bear Trap is forming.
 
 ## Can you explain the psychology behind a Bear Trap?
 
@@ -48,7 +48,7 @@ It's also helpful to pay attention to the number of shares being traded, which i
 
 When trading a Bear Trap, the common entry point is when the stock price starts to fall but gets close to a support level. A support level is a price where the stock usually stops falling and starts to go up again. If you see the price getting close to this level and then suddenly going up, that's a good time to buy the stock. You might also look for a lot of people suddenly buying the stock after it has been falling, which can push the price up quickly. This is another sign that it might be a good time to enter the trade.
 
-The common exit point for trading a Bear Trap is when the price goes up after you buy it. You want to sell the stock to make a profit before the price starts to fall again. A good time to exit is when the price reaches a resistance level, which is a price where the stock usually stops going up and starts to fall again. You might also decide to sell if the price goes up by a certain amount that you are happy with, or if you see signs that the price might start to go down again. It's important to have a plan for when to sell so you don't miss out on your profit.
+The common [exit](/wiki/exit-strategy) point for trading a Bear Trap is when the price goes up after you buy it. You want to sell the stock to make a profit before the price starts to fall again. A good time to exit is when the price reaches a resistance level, which is a price where the stock usually stops going up and starts to fall again. You might also decide to sell if the price goes up by a certain amount that you are happy with, or if you see signs that the price might start to go down again. It's important to have a plan for when to sell so you don't miss out on your profit.
 
 ## How does volume play a role in confirming a Bear Trap?
 

@@ -18,7 +18,7 @@ These agencies help investors make smarter choices. They study the financial hea
 
 Bond rating agencies have a few main jobs. One big job is to rate bonds. They look at the financial health of the people or companies that issue the bonds. They check things like how much money the issuer makes, how much debt they have, and if they have paid back loans before. Based on this, they give each bond a grade, called a rating. A high rating means the bond is safe and likely to be paid back. A low rating means it's riskier and might not be paid back.
 
-Another job of bond rating agencies is to help investors make better choices. When investors want to buy bonds, they want to know if it's a good idea. The ratings from the agencies help them understand the risks. If a bond has a high rating, investors feel more confident about buying it. If it has a low rating, they might decide not to buy it or to ask for a higher interest rate. This way, bond rating agencies play a big role in the bond market by giving important information to investors.
+Another job of bond rating agencies is to help investors make better choices. When investors want to buy bonds, they want to know if it's a good idea. The ratings from the agencies help them understand the risks. If a bond has a high rating, investors feel more confident about buying it. If it has a low rating, they might decide not to buy it or to ask for a higher [interest rate](/wiki/interest-rate-trading-strategies). This way, bond rating agencies play a big role in the bond market by giving important information to investors.
 
 ## Who are the major bond rating agencies?
 
@@ -78,7 +78,7 @@ To help with this, regulators have made new rules to make bond rating agencies b
 
 ## How might future technological advancements affect the operations and accuracy of bond rating agencies?
 
-Future technology could change how bond rating agencies work and how accurate they are. New tools like artificial intelligence and big data could help these agencies look at a lot more information faster. They could use AI to find patterns and risks that humans might miss. This could make their ratings more accurate and help them update ratings quicker when things change. Also, technology might let more people rate bonds, not just a few big agencies. This could make the market more fair and competitive.
+Future technology could change how bond rating agencies work and how accurate they are. New tools like [artificial intelligence](/wiki/ai-artificial-intelligence) and big data could help these agencies look at a lot more information faster. They could use AI to find patterns and risks that humans might miss. This could make their ratings more accurate and help them update ratings quicker when things change. Also, technology might let more people rate bonds, not just a few big agencies. This could make the market more fair and competitive.
 
 But there are also worries about using new technology. If bond rating agencies start using AI and big data, they need to make sure these tools are fair and not biased. They also need to be clear about how they use technology so people can trust their ratings. If they don't do this right, it could make things worse instead of better. So, while technology could help a lot, it's important for bond rating agencies to use it carefully and responsibly.
 

@@ -58,7 +58,7 @@ Another way blockchain improves efficiency is by cutting out the middleman. Norm
 
 Smart contracts are like digital agreements that work on the blockchain. They are special because they can do things automatically when certain rules are met. For example, if you're trading something and you both agree on the price, the smart contract can make sure the trade happens without anyone else needing to check it. This makes trading faster and easier because you don't have to wait for someone to say it's okay.
 
-In blockchain trading, smart contracts are really helpful. They can make sure that trades are fair and that everyone follows the rules. If you're buying something with cryptocurrency, the smart contract can hold the money until you get what you paid for. Once you get it, the money is automatically sent to the seller. This way, both buyers and sellers can trust that the trade will happen the way it's supposed to, without needing a middleman to make sure everything goes right.
+In blockchain trading, smart contracts are really helpful. They can make sure that trades are fair and that everyone follows the rules. If you're buying something with [cryptocurrency](/wiki/cryptocurrency), the smart contract can hold the money until you get what you paid for. Once you get it, the money is automatically sent to the seller. This way, both buyers and sellers can trust that the trade will happen the way it's supposed to, without needing a middleman to make sure everything goes right.
 
 ## Can you explain the concept of decentralized exchanges (DEXs) in blockchain trading?
 
