@@ -1,5 +1,5 @@
 ---
-title: "broker execution"
+title: "Broker Execution"
 description: "Explore the intricacies of broker execution in algo trading highlighting strategies and technologies that enhance precision, efficiency, and market impact management."
 ---
 
