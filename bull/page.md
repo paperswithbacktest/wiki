@@ -46,7 +46,7 @@ During a bull market, one good strategy is to buy and hold stocks. This means yo
 
 Another strategy is to diversify your investments. This means you don't put all your money into one stock or one type of investment. Instead, you spread it out across different stocks, industries, and maybe even other things like bonds or real estate. This helps you take advantage of the bull market while also reducing the risk if one of your investments doesn't do as well as you hoped.
 
-You can also consider using a growth investing approach. This means you focus on buying stocks of companies that are growing fast and have the potential to keep growing. These companies might not pay dividends, but their stock prices can go up a lot in a bull market. By picking the right growth stocks, you can make a lot of money as the market keeps going up.
+You can also consider using a growth investing approach. This means you focus on buying stocks of companies that are growing fast and have the potential to keep growing. These companies might not pay dividends, but their stock prices can go up a lot in a bull market. By [picking](/wiki/asset-class-picking) the right [growth stocks](/wiki/growth-stocks), you can make a lot of money as the market keeps going up.
 
 ## What are the risks associated with investing in a bull market?
 
