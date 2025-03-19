@@ -1,6 +1,5 @@
 ---
-title: "![
-](image.png)"
+title: "Buy and Hold"
 description: "Explore the synergy of Buy and Hold strategies with algorithmic trading allowing for efficient, emotion-free investing, and potential long-term gains."
 ---
 
