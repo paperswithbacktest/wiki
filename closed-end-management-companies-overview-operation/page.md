@@ -3,139 +3,84 @@ title: "Closed-End Management Companies: Overview and Operation"
 description: "Discover the unique benefits and operational mechanisms of closed-end management companies and explore how algorithmic trading impacts fund strategies today."
 ---
 
-Investing in modern financial markets offers a plethora of opportunities for both individual and institutional investors. Among these opportunities, investment funds, particularly closed-end funds, provide distinct benefits and potential risks that differentiate them from other investment vehicles. Closed-end funds are managed differently than their open-end counterparts, as they issue a fixed number of shares through an initial public offering (IPO) and are then traded on stock exchanges, allowing investors to buy and sell shares at market prices. This fixed capital structure permits the adoption of unique investment strategies, often income-focused, that can align with the specific objectives of investors.
-
-The landscape of investing in these funds has been significantly transformed by the role of management companies and the advent of algorithmic trading. Management companies, which oversee and direct the operations of closed-end funds, are governed by stringent regulations under the Investment Company Act of 1940. Their responsibilities encompass ensuring operational efficiencies and adhering to the defined investment objectives of the fund, providing a stable framework upon which investors can rely.
 
 ![Image](images/1.jpeg)
 
-In recent years, the rise of algorithmic trading has introduced new dynamics into fund management, offering enhanced precision and efficiency. Algorithmic trading automates the trading process through sophisticated computer algorithms, reducing the need for human intervention and increasing transaction speed. This technological advancement allows for the implementation of advanced trading strategies, which were previously challenging to execute. However, it also brings new risks that require careful oversight.
-
-By understanding the intricacies of closed-end funds, the role of management companies, and the impact of algorithmic trading, investors can equip themselves with the knowledge necessary to make informed decisions. These elements are crucial in forming investment strategies that align with an individual's or institution's financial goals, ultimately contributing to a more strategic approach in navigating the complexities of financial markets.
-
 ## Table of Contents
 
-## Understanding Closed-End Funds
+## What is a closed-end management company?
 
-Closed-end funds are specialized investment vehicles that offer investors a unique form of participation in the financial markets. These funds are characterized by issuing a fixed number of shares through an Initial Public Offering (IPO). Once the shares are issued, they trade on stock exchanges, providing investors with the ability to buy and sell shares similar to regular stocks. This trading occurs at market prices, which can fluctuate based on supply and demand dynamics, investor sentiment, and underlying asset value perceptions.
+A closed-end management company is a type of investment company that raises a fixed amount of capital through an initial public offering (IPO). Once the shares are sold, the company does not issue new shares or redeem existing ones. Instead, the shares are traded on a stock exchange, much like any other publicly traded company. This means that the price of the shares can fluctuate based on supply and demand, and it may not always reflect the net asset value of the company's underlying investments.
 
-One of the primary advantages of closed-end funds is their structure, which facilitates pooled fund investing. This allows the participation of multiple investors who contribute capital to a unified pool, which is then managed by professional fund managers. The pooled funds are invested according to the fund’s specific investment objectives, such as growth, income, or a balanced approach, enabling investors to benefit from diversified asset exposure and professional management that might be challenging to achieve independently.
+These companies typically invest the capital they raise in a diversified portfolio of securities, such as stocks, bonds, or other assets. Because they have a fixed pool of capital, closed-end management companies can take a long-term approach to their investments without worrying about frequent inflows and outflows of money. This can be beneficial for investors looking for exposure to a specific strategy or asset class, as the company's management can focus on maximizing returns over time rather than managing daily liquidity.
 
-Closed-end funds also provide the potential for income-focused strategies, as they often invest in income-generating assets like bonds, dividend-paying stocks, or real estate. These strategies can be appealing to income-seeking investors looking for regular cash flow.
+## How does a closed-end management company differ from an open-end management company?
 
-A distinctive feature that sets closed-end funds apart from open-end funds is their capital structure. Unlike open-end funds, which continuously offer new redeemable shares and must manage inflows and outflows of capital regularly, closed-end funds do not allow for investor share redemptions. This fixed share model brings certain advantages, such as stability in the investment base, allowing fund managers to focus on long-term investment strategies without the pressure of meeting redemption requests. However, it also introduces price [volatility](/wiki/volatility-trading-strategies), as the share price can trade at a premium or discount to the fund's Net Asset Value (NAV) based on market conditions and investor expectations.
+A closed-end management company and an open-end management company are different in how they handle their shares and money. A closed-end company raises money by selling a fixed number of shares through an initial public offering. After that, it doesn't sell new shares or buy back old ones. Instead, the shares trade on a stock exchange, and their price can go up or down based on what people are willing to pay for them. This means the share price might not match the value of the company's investments.
 
-The closed-end fund market offers distinctive opportunities and challenges. Understanding these intricacies helps investors make informed decisions regarding their contribution to these funds, ensuring alignment with their broader financial goals and strategies.
+On the other hand, an open-end management company, often called a mutual fund, keeps selling and buying back its shares directly from investors. This means it can grow or shrink based on how much money people put in or take out. The price of the shares is based on the value of the company's investments, calculated at the end of each day. This makes it easier for investors to get in and out of the fund, but it can also mean the company has to manage its money more actively to handle these changes.
 
-## Role of Management Companies in Closed-End Funds
+## What are the primary functions of a closed-end management company?
 
-Management companies are essential entities responsible for the oversight and direction of closed-end funds. As governed by the Investment Company Act of 1940, these companies adhere to a stringent regulatory framework designed to safeguard investor interests and ensure efficient fund management. This legislation was pivotal in establishing a legal structure that mandates transparent operations, thus providing a stable investment environment.
+A closed-end management company's main job is to take the money it raises from selling shares and invest it in different things like stocks, bonds, or other assets. Once it has the money, it doesn't sell more shares or buy back the ones it sold. This lets the company keep the money it has and use it to try to make more money over time. The company's managers decide what to invest in, hoping to make good returns for the people who bought the shares.
 
-The operational approach of management companies in closed-end funds emphasizes maximizing efficiencies and crafting strategies that align with specified investment objectives. The structure of closed-end funds, which involves issuing a fixed number of shares, lends itself to a stable pool of assets. This stability is often leveraged by fund managers for long-term investment strategies, as they do not face regular redemptions that could deplete the fund's capital.
+The shares of a closed-end management company trade on a stock exchange, just like other companies. This means the price of the shares can go up or down based on what people are willing to pay for them. It might not always match the actual value of the company's investments. Because the company has a fixed amount of money to work with, it can focus on long-term goals without worrying about people constantly putting money in or taking it out. This can be good for investors who want to invest in something specific and are okay with not being able to easily sell their shares whenever they want.
 
-Management companies implement a variety of strategies to meet investment goals. This includes strategic asset allocation, risk management, and cost control measures to enhance the fund's performance. Given that closed-end funds are not obliged to redeem shares at the investor's request, they afford managers greater flexibility in deploying capital without the pressure of maintaining high [liquidity](/wiki/liquidity-risk-premium) levels.
+## How are closed-end management companies structured?
 
-A distinctive feature of closed-end funds under the purview of management companies is their ability to employ leverage. Using borrowed capital potentially enhances returns, albeit with increased risk. The risk management practices of management companies, therefore, become crucial to mitigate potential downsides while striving for higher returns.
+A closed-end management company is set up by selling a set number of shares to the public through an initial public offering (IPO). Once these shares are sold, the company does not sell any more shares or buy back the ones it sold. Instead, these shares are traded on a stock exchange, just like other company shares. This means the price of the shares can go up or down based on what people want to pay for them, and it might not always match the actual value of the company's investments.
 
-The significance of management companies also extends to their role in determining the optimal mix of asset classes within the fund portfolio. By maintaining a focus on strategic asset allocation, these companies ensure that the fund's portfolio composition aligns with its long-term investment objectives while balancing risk and return effectively.
+The company takes the money it raised from selling the shares and invests it in different things like stocks, bonds, or other assets. Because the company has a fixed amount of money to work with, it can focus on long-term goals without worrying about people constantly putting money in or taking it out. This can be good for investors who want to invest in something specific and are okay with not being able to easily sell their shares whenever they want.
 
-In summary, management companies are pivotal in the effective governance of closed-end funds, ensuring not only compliance with regulatory standards but also operational excellence in achieving defined financial goals. Through maintaining a fixed asset pool, they enable more stable long-term strategies while navigating the complex landscape of investment opportunities and market conditions.
+## What are the typical investment strategies employed by closed-end management companies?
 
-## Benefits and Risks of Closed-End Funds
+Closed-end management companies often use different ways to invest the money they get from selling shares. One common way is to focus on a specific type of investment, like stocks from certain countries or industries, or bonds from certain places. This can be good for investors who want to put their money into something specific. Another way is to use borrowed money, or leverage, to try to make more money. This can be riskier but might lead to bigger returns if things go well.
 
-Closed-end funds offer several benefits and risks that investors should carefully consider before investing. These funds are known for distributing regular income derived from income-generating investments, such as bonds, dividend-paying stocks, and other fixed-income securities. This feature makes them particularly appealing to income-focused investors seeking regular cash flows to complement their income streams.
+Another strategy is to invest in assets that might not be easy for regular investors to buy, like real estate or private companies. This can give investors a chance to own a piece of something they might not be able to buy on their own. Some closed-end companies also try to make money by buying other companies' shares at a lower price than they think they're worth, hoping the price will go up later. This is called value investing. By using these different strategies, closed-end management companies try to make the most of the money they have and give good returns to their shareholders.
 
-One of the key advantages of closed-end funds is their ability to use leverage to potentially enhance returns. Leverage involves borrowing capital to invest in more assets than the fund's equity would typically allow. By leveraging their portfolios, closed-end funds can magnify their investment gains, which can be especially beneficial during favorable market conditions. However, the use of leverage also raises the inherent risk level of the investment. During periods of market volatility or downturns, the losses incurred by a leveraged fund can also be magnified, resulting in significant financial setbacks for investors.
+## How do closed-end management companies raise capital?
 
-Another notable characteristic of closed-end funds is their exposure to price volatility. Unlike open-end funds, which are bought and sold at their net asset value (NAV), closed-end fund shares trade on the stock exchange at market prices. As a result, the shares can trade at a discount or premium relative to their NAV. This discrepancy arises due to market demand and supply dynamics, investor sentiment, and economic conditions. Price volatility can pose risks to investors as the market price of closed-end fund shares may not accurately reflect the true value of the fund's underlying assets, leading to potential gains or losses.
+Closed-end management companies raise money by selling a fixed number of shares to the public. This happens through something called an initial public offering, or IPO. Once the shares are sold, the company doesn't sell any more shares or buy back the ones it sold. This means the company has a set amount of money to work with, which it can then invest in different things like stocks, bonds, or other assets.
 
-Despite this volatility, trading at a discount offers strategic buying opportunities for investors. When a closed-end fund's market price is lower than its NAV, it indicates that the market might be undervaluing the fund's assets. Savvy investors can capitalize on these discounts by purchasing shares at a reduced price, potentially realizing gains if the market price subsequently adjusts to reflect the NAV. However, investors must exercise caution, as there might be underlying reasons for a fund's discounted pricing, such as poor management performance or unfavorable asset quality, that could affect future returns.
+Because the shares are traded on a stock exchange after the IPO, the price of the shares can go up or down based on what people want to pay for them. This price might not always match the actual value of the company's investments. This way of raising money lets the company focus on long-term goals without worrying about people constantly putting money in or taking it out. It's good for investors who want to invest in something specific and are okay with not being able to easily sell their shares whenever they want.
 
-In summary, closed-end funds provide unique advantages for income-focused investors through regular income distribution and potential returns from leverage. Nonetheless, the risks associated with leverage, price volatility, and trading discounts or premiums demand careful consideration and due diligence by investors to ensure alignment with their overall investment objectives and risk tolerance.
+## What are the advantages of investing in a closed-end management company?
 
-## Algorithmic Trading in Fund Management
+One big advantage of investing in a closed-end management company is that it lets you put your money into specific things that you might not be able to invest in on your own. These companies often focus on certain types of investments, like stocks from a particular country or industry, or bonds from a specific place. This can be really helpful if you want to spread your money around and not just keep it all in one type of investment. Also, because these companies don't have to worry about people constantly putting money in or taking it out, they can focus on long-term goals. This means they can take their time and try to make the best decisions to grow your money over time.
 
-Algorithmic trading, often referred to as algo trading, involves using computer algorithms to automate trading processes, thereby offering enhanced precision and operational efficiency. At its core, algo trading analyzes a multitude of market variables and executes orders based on predetermined criteria. This approach minimizes human intervention, thereby reducing biases and errors associated with manual trading. Moreover, algo trading significantly enhances transaction speed, enabling fund managers to capitalize on market opportunities that may be available only for a brief period. The reduction in trading costs due to automation is another significant advantage, allowing more cost-effective fund management operations.
+Another advantage is that closed-end management companies can use borrowed money, or leverage, to try to make more money. This can be a bit riskier, but if things go well, it might lead to bigger returns for you. Also, the shares of these companies are traded on a stock exchange, which means you can buy and sell them just like any other company's shares. Sometimes, you might be able to buy the shares for less than the actual value of the company's investments, which can be a good deal. Overall, investing in a closed-end management company can give you a chance to grow your money in ways that might be harder to do on your own.
 
-In both closed-end and open-end funds, [algorithmic trading](/wiki/algorithmic-trading) facilitates the implementation of sophisticated trading strategies that were previously difficult to execute manually. These strategies might involve complex statistical models, quantitative analysis, and high-frequency trading, which require the rapid computation and execution capabilities that algorithms provide. For instance, a typical algo strategy might involve [arbitrage](/wiki/arbitrage), [trend following](/wiki/trend-following), or mean reversion, each of which demands swift decision-making and action in response to market fluctuations.
+## What are the risks associated with closed-end management companies?
 
-However, algorithmic trading introduces new challenges and risks. The dependence on technology means that any software glitches, incorrect algorithms, or unforeseen market conditions can lead to significant financial losses. To mitigate these risks, sophisticated oversight mechanisms are needed to ensure that algorithms function correctly and align with the fund's investment strategies. Error-checking routines, performance monitoring, and adaptive learning algorithms are central to maintaining the reliability and effectiveness of algo trading systems.
+One big risk of investing in closed-end management companies is that the price of their shares can go up and down a lot. Because these shares trade on a stock exchange, what people are willing to pay for them can be different from what the company's investments are actually worth. This means you might buy the shares for more than they're worth or sell them for less. It can be hard to predict how the price will change, which makes it a bit riskier.
 
-Developers might use programming languages like Python for implementing these trading algorithms due to its robust libraries and ease of use. A simple [backtesting](/wiki/backtesting) implementation in Python for a moving average crossover strategy—where buy and sell signals are generated based on short-term and long-term moving averages—can be summarized as follows:
+Another risk is that these companies sometimes use borrowed money, or leverage, to try to make more money. While this can lead to bigger returns if things go well, it can also mean bigger losses if things don't go as planned. If the investments don't do well, the company might have a hard time paying back the money it borrowed, which could hurt the value of your shares.
 
-```python
-import pandas as pd
-import numpy as np
+Lastly, because closed-end management companies don't sell new shares or buy back old ones after their initial public offering, it can be harder to get your money out if you need it quickly. The shares might not be as easy to sell as other types of investments, and you might have to wait for the right buyer to come along. This can be a problem if you need your money back in a hurry.
 
-# Define moving average strategy
-def moving_average_strategy(data, short_window=40, long_window=100):
-    signals = pd.DataFrame(index=data.index)
-    signals['signal'] = 0.0
+## How does the pricing of shares in a closed-end management company work?
 
-    # Create short and long simple moving averages
-    signals['short_mavg'] = data['close'].rolling(window=short_window, min_periods=1, center=False).mean()
-    signals['long_mavg'] = data['close'].rolling(window=long_window, min_periods=1, center=False).mean()
+The price of shares in a closed-end management company can go up and down based on what people want to pay for them. These shares are traded on a stock exchange, just like other companies' shares. This means the price might not always match the actual value of the company's investments. Sometimes, you can buy the shares for less than what the company's investments are worth, which is called trading at a discount. Other times, you might have to pay more than the investments are worth, which is called trading at a premium.
 
-    # Create buy/sell signals
-    signals['signal'][short_window:] = np.where(signals['short_mavg'][short_window:] > signals['long_mavg'][short_window:], 1.0, 0.0)   
+Because the price can change a lot, it's important to keep an eye on it. If a lot of people want to buy the shares, the price might go up. But if not many people are interested, the price could go down. This can make investing in closed-end management companies a bit riskier because you might not be able to predict how the price will change. It's different from open-end companies, where the price is based on the value of the investments at the end of each day, making it easier to know what you're paying for.
 
-    # Generate trading orders
-    signals['positions'] = signals['signal'].diff()
+## What role do leverage and derivatives play in the operations of closed-end management companies?
 
-    return signals
+Closed-end management companies often use borrowed money, or leverage, to try to make more money for their investors. This means they take out loans to buy more investments than they could with just the money they raised from selling shares. Using leverage can be a bit like a double-edged sword. If the investments do well, the returns can be bigger because they're using more money to invest. But if the investments don't do well, the losses can be bigger too, because the company still has to pay back the borrowed money. This makes investing in these companies riskier, but it can also lead to higher rewards if things go well.
 
-# Example of usage with historical data
-# data would typically be a DataFrame with 'close' prices
-# signals = moving_average_strategy(data)
-```
+Derivatives are another tool that closed-end management companies might use. These are financial contracts that get their value from something else, like stocks, bonds, or commodities. Companies use derivatives to try to protect themselves from big changes in the market, or to make bets on how the market will move. For example, they might use options or futures to hedge against falling prices, or to try to make money if prices go up. Using derivatives can be complicated and risky, but it can also help the company manage its investments better and potentially make more money for investors.
 
-Ultimately, while algorithmic trading optimizes trading actions and enhances the strategic potential within funds, careful calibration and regulation are essential to ensuring that the benefits outweigh the potential pitfalls.
+## How are closed-end management companies regulated?
 
-## Comparative Analysis: Closed-End vs. Open-End Funds
+Closed-end management companies are watched over by different groups to make sure they follow the rules. In the United States, the main group that keeps an eye on them is the Securities and Exchange Commission (SEC). The SEC makes sure these companies give honest information to people who might want to invest in them. They have to follow rules about how they sell their shares, how they tell people about their investments, and how they manage the money they get from investors. This helps keep things fair and safe for everyone.
 
-Open-end funds and closed-end funds are two prevalent types of investment vehicles within financial markets, each with distinct characteristics that cater to different investment strategies and risk profiles. Understanding the differences between these funds is crucial for investors looking to tailor their portfolios to specific financial objectives.
+Besides the SEC, closed-end management companies also have to follow rules from the stock exchanges where their shares are traded. These rules might be about how the company reports its financial information or how it treats its shareholders. If the company doesn't follow these rules, it could get in trouble or even be kicked off the exchange. All these rules are there to make sure that closed-end management companies work in a way that's good for investors and the overall market.
 
-Open-end funds, commonly known as mutual funds, allow investors to purchase or redeem shares directly from the fund at any time. The price at which these transactions occur is based on the fund's net asset value (NAV), which is calculated at the end of each trading day by dividing the total value of the fund's assets minus its liabilities by the number of outstanding shares. This structure offers high liquidity, enabling investors to easily enter or [exit](/wiki/exit-strategy) their positions, which is particularly appealing for those who prioritize flexibility and accessibility in their investments.
+## What are some notable examples of successful closed-end management companies and their performance?
 
-In contrast, closed-end funds operate differently by issuing a fixed number of shares during an initial public offering (IPO). Once these shares are sold, they trade on secondary markets, like stock exchanges, where their price is determined by market forces rather than the NAV. As a result, the market price of closed-end fund shares may vary, trading at a premium or discount to their NAV based on investor demand, market conditions, and sentiment. This variability can introduce unique opportunities for investors, such as purchasing shares at a significant discount, potentially increasing their return on investment if the market price later aligns more closely with the NAV.
+One well-known closed-end management company is the Eaton Vance Tax-Managed Global Diversified Equity Income Fund (EXG). This company focuses on investing in a mix of stocks from around the world to give its investors a good return and some tax benefits. Over the years, EXG has done a good job of growing its investments and paying out regular dividends to its shareholders. People like it because it gives them a way to invest in a lot of different stocks without having to pick them themselves, and the tax benefits can help them keep more of their earnings.
 
-The liquidity of closed-end funds tends to be lower than that of open-end funds, as buying and selling depend on the availability of shares and prevailing market conditions. This characteristic can be advantageous for investors seeking to capitalize on longer-term strategies without the pressure of daily redemptions affecting the fund's stability.
-
-Valuation also plays a pivotal role when comparing these two types of funds. Open-end funds provide a more predictable investment experience with prices anchored to NAV, allowing investors to focus on the performance of the underlying assets. However, the potential for closed-end funds to trade at discounts or premiums offers a broader range of strategic choices for discerning investors.
-
-Share availability further differentiates these funds. Open-end funds continuously issue and redeem shares, offering a virtually unlimited number of shares. Closed-end funds, however, have a fixed pool of shares, potentially limiting investor access but concurrently creating scarcity that may influence share prices.
-
-Given these distinctions, investors must carefully evaluate their personal financial goals, market conditions, and appetite for risk when choosing between open-end and closed-end funds. Consideration of factors such as liquidity needs, investment horizon, and preference for market-driven price fluctuations versus NAV-backed stability will guide investors in making informed decisions aligned with their strategic objectives.
-
-## Conclusion
-
-Both closed-end and open-end funds present distinct investment opportunities and challenges for investors, necessitating careful consideration of each type's characteristics and the prevailing market environment.
-
-Closed-end funds offer investors the potential to capitalize on income strategies as well as market price deviations. These funds distribute regular income generated from their portfolio, which can be appealing to those prioritizing steady cash flows. The opportunity to purchase shares at a discount to their net asset value (NAV) presents a strategic advantage for investors seeking to maximize their returns through market inefficiencies.
-
-Algorithmic trading, with its enhanced speed and precision, is reshaping investment management by utilizing computer-optimized strategies. This automated trading approach minimizes human error and reduces transaction costs, proving instrumental in managing large volumes of data and market information efficiently. However, while these algorithmic techniques introduce new layers of opportunity, they also require rigorous oversight to mitigate risks associated with system errors or unforeseen market behaviors.
-
-Ultimately, investors should thoroughly assess their financial objectives, current market conditions, and risk tolerance when deciding between closed-end and open-end funds. Personal financial goals, including income needs and liquidity preferences, should guide these decisions. A comprehensive understanding of the variance in NAV, market price, and income potential between these fund types will aid investors in achieving their desired asset allocation and long-term financial success.
-
-## FAQs
-
-### FAQs
-
-**What are the main differences between closed-end and open-end funds?**
-
-Closed-end and open-end funds differ primarily in their structure and trading mechanisms. Closed-end funds issue a fixed number of shares through an IPO, which are then traded on stock exchanges at market prices. This means their shares can trade at a premium or discount relative to their Net Asset Value (NAV). Conversely, open-end funds continuously issue new shares or redeem existing ones at the fund's current NAV, offering greater liquidity. The fixed number of shares in closed-end funds can lead to price volatility, while open-end funds offer price stability but are subject to the movements of their underlying assets.
-
-**How does algorithmic trading impact fund management and strategies?**
-
-Algorithmic trading uses computer algorithms to automate trading processes, optimizing speed, efficiency, and precision. For fund management, this technology enables the implementation of complex trading strategies that were previously too costly or intricate. Algorithms can reduce human error and transaction costs, allowing for better market timing and execution. However, they introduce risks such as technical glitches and require continuous monitoring to avoid potential mishaps that could affect fund performance.
-
-**Are closed-end funds riskier due to trading discounts and premiums?**
-
-Closed-end funds can present higher risks due to their potential to trade at a discount or premium to their NAV. This disparity arises because their market price is determined by supply and demand dynamics on stock exchanges. Price volatility is a notable risk, as shifts in market sentiment can quickly alter a fund's premium or discount, impacting the value of an investor's holdings. While this offers opportunities for strategic buying, it also exposes investors to the possibility of capital loss if market prices decline.
-
-**Can both open-end and closed-end funds coexist in a diversified investment portfolio?**
-
-Yes, both open-end and closed-end funds can coexist in a diversified portfolio, complementing each other to balance risk and return. Closed-end funds may provide opportunities for income generation and capital growth through their unique trading dynamics, while open-end funds offer liquidity and ease of access to various markets. By combining both, investors can tailor their portfolios to achieve broader diversification, aligning with their specific financial goals and risk tolerance levels. Each fund type's characteristics can counterbalance the other's limitations, providing a more robust investment strategy.
+Another example is the BlackRock Science and Technology Trust (BST). This company invests in technology and science companies, which can be a bit riskier but also have the potential for big returns. BST has been successful in [picking](/wiki/asset-class-picking) good tech companies to invest in, and its share price has gone up over time. Investors are drawn to BST because it lets them get into the tech industry, which can be hard to do on their own, and the company's managers have a good track record of choosing companies that do well.
 
 ## References & Further Reading
 

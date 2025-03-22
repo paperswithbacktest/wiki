@@ -36,7 +36,7 @@ A horizontal channel is when the price stays about the same over time. On the ch
 
 ## What indicators can be used to confirm the validity of a trading channel?
 
-To confirm if a trading channel is valid, you can use a few simple indicators. One useful indicator is the moving average. If the price stays between two moving averages that are parallel to each other, it can show that the channel is strong. Another good indicator is the volume. If the volume goes up when the price hits the support or resistance lines, it can mean that many traders agree with the channel and it's more likely to be valid.
+To confirm if a trading channel is valid, you can use a few simple indicators. One useful indicator is the moving average. If the price stays between two moving averages that are parallel to each other, it can show that the channel is strong. Another good indicator is the [volume](/wiki/volume-trading-strategy). If the volume goes up when the price hits the support or resistance lines, it can mean that many traders agree with the channel and it's more likely to be valid.
 
 Another helpful indicator is the Relative Strength Index (RSI). If the RSI stays within a certain range while the price is in the channel, it can confirm that the channel is working well. Also, watching for trend lines can be useful. If the price keeps touching the trend lines that form the channel without breaking them too often, it shows that the channel is still valid. By using these indicators, you can feel more confident about trading within the channel.
 
@@ -44,7 +44,7 @@ Another helpful indicator is the Relative Strength Index (RSI). If the RSI stays
 
 When trading within a channel, you want to buy when the price hits the bottom line, called the support. This is because the price often bounces back up from this line. So, if you see the price near the support, it might be a good time to buy. You can set a target to sell when the price reaches the top line, called the resistance. This way, you aim to make a profit as the price moves from the bottom to the top of the channel. Always look at the chart to make sure the price is still moving within the channel before you make a trade.
 
-On the other hand, you want to sell when the price hits the top line, or the resistance. This is because the price often starts to drop from this line. So, if you see the price near the resistance, it might be a good time to sell. You can set a target to buy again when the price goes back to the support line. This way, you aim to make a profit as the price moves from the top to the bottom of the channel. Remember, these entry and exit points work best when the price stays within the channel, so always keep an eye on the chart to make sure the channel is still valid.
+On the other hand, you want to sell when the price hits the top line, or the resistance. This is because the price often starts to drop from this line. So, if you see the price near the resistance, it might be a good time to sell. You can set a target to buy again when the price goes back to the support line. This way, you aim to make a profit as the price moves from the top to the bottom of the channel. Remember, these entry and [exit](/wiki/exit-strategy) points work best when the price stays within the channel, so always keep an eye on the chart to make sure the channel is still valid.
 
 ## What are common mistakes beginners make when using channeling techniques?
 
