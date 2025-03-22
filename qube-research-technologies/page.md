@@ -84,7 +84,7 @@ Another thing Qube is working on is making their data analysis even better. They
 
 Qube Research & Technologies (QRT) has demonstrated remarkable financial growth, reaching an impressive US$20 billion in assets under management (AUM) by 2024. This growth trajectory is indicative of the firm's adeptness in employing quantitative investment strategies that have consistently delivered substantial returns.
 
-QRT's fund performance has been particularly noteworthy, with the firm achieving returns exceeding 20% in consecutive years—a testament to the efficacy of their algorithmic trading models and data-driven investment approaches. These returns highlight the firm's capability to navigate volatile market conditions effectively and capitalize on emerging opportunities across different asset classes.
+QRT's fund performance has been particularly noteworthy, with the firm achieving returns exceeding 20% in consecutive years—a testament to the efficacy of their [algorithmic trading](/wiki/algorithmic-trading) models and data-driven investment approaches. These returns highlight the firm's capability to navigate volatile market conditions effectively and capitalize on emerging opportunities across different asset classes.
 
 One strategic approach that has contributed to QRT's financial success is their practice of shorting major corporations and banks. Engaging in short positions allows the firm to profit from declining stock prices, thus diversifying their investment strategy and enhancing potential returns. This strategy reflects QRT's adeptness at leveraging market anomalies and inefficiencies to optimize their investment outcomes.
 
