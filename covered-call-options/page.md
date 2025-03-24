@@ -3,156 +3,82 @@ title: "Covered Call Options"
 description: "Enhance your investment strategy by integrating covered call options with algorithmic trading. This article explores how combining these techniques can generate additional income, manage risk, and maximize profitability in various market conditions. Learn about the mechanics, advantages, and challenges of both covered calls and algo trading to make informed decisions and implement best practices effectively."
 ---
 
-Options trading is an essential component of modern financial markets, offering investors a vast array of strategies to optimize portfolio performance. One of these strategies is the covered call, which involves holding a long position in a stock while simultaneously writing (selling) call options on the same asset. This approach allows investors to generate additional income through premiums collected from the options sold, while still maintaining the underlying stock position. Covered calls are particularly favored in flat or mildly bullish markets, where the likelihood of the underlying stock being called away (i.e., reaching the strike price of the sold calls) is lower, allowing the investor to pocket the premium without selling the stock.
 
-Algorithmic trading, or algo trading, refers to the use of computer algorithms to automate and optimize trading decisions. This technology has significantly transformed modern finance by enhancing the speed, precision, and efficiency of trading operations. Algorithms can process vast amounts of data in real-time, execute trades with minimal delay, and remove the emotional biases that often affect human traders. As a result, algo trading has become a dominant force in financial markets, with estimates suggesting that it accounts for the majority of trading volume in global exchanges.
-
-![Image](images/1.png)
-
-The purpose of this article is to explore how the integration of covered calls with algorithmic trading can potentially enhance investment strategies. By employing algorithms to automate the covered call process, investors can efficiently manage their positions, respond swiftly to market changes, and maximize profitability while mitigating risks. This article will examine the mechanics of both covered calls and algo trading, highlight the potential benefits and challenges of their integration, and provide insights on best practices for implementation in various market conditions.
+![Image](images/1.jpeg)
 
 ## Table of Contents
 
-## Understanding Covered Calls
+## What is a covered call option?
 
-Covered calls are a widely used options trading strategy that combines holding a long position in an asset with writing (selling) call options on the same asset. This approach allows investors to generate additional income from the premiums received by selling call options while maintaining ownership of the underlying asset.
+A covered call option is a strategy used in stock trading where an investor owns shares of a stock and then sells call options on those same shares. The call option gives the buyer the right, but not the obligation, to buy the stock at a specific price, known as the strike price, before the option expires. By selling the call option, the investor earns a premium, which is money paid by the buyer of the option. This strategy is called "covered" because the investor already owns the stock that could be sold if the option is exercised.
 
-### Basics of a Covered Call Strategy
+The main reason investors use covered calls is to generate extra income from their stock holdings. The premium received from selling the call option adds to the investor's returns. However, there's a trade-off: if the stock price rises above the strike price, the investor might have to sell the stock at the lower strike price, missing out on potential gains. On the other hand, if the stock price stays below the strike price, the option will likely expire worthless, and the investor keeps the premium and the stock. This strategy can be a good way to earn some extra income, but it also limits the upside potential of the stock.
 
-A covered call involves two main components:
-1. **Holding a Long Position**: An investor owns shares of a stock or another asset, and this holding is referred to as being "long" the asset.
-2. **Writing Call Options**: The investor sells call options on the asset they own. These options give the buyer the right, but not the obligation, to purchase the asset at a specified strike price within a predetermined time frame.
+## How does a covered call work?
 
-The primary objective of this strategy is to generate income through the collection of option premiums. By selling call options, investors receive immediate income, which can offset potential declines in the underlying asset’s value or enhance returns in stagnant or moderately rising markets.
+A covered call is a strategy where you own a stock and then sell a call option on that stock. A call option is like a contract that gives someone else the right to buy your stock at a certain price, called the strike price, before a certain date. When you sell this call option, you get money called a premium. This premium is yours to keep no matter what happens next.
 
-### When and Why Investors Use Covered Calls
+If the stock price stays below the strike price by the time the option expires, the person who bought the option probably won't use it. The option will expire worthless, and you get to keep both your stock and the premium you received. But if the stock price goes above the strike price, the buyer might decide to use the option and buy your stock at the lower strike price. You have to sell your stock at that price, but you still get to keep the premium. This can limit how much money you make if the stock goes up a lot, but it also gives you extra income from the premium.
 
-Investors typically use covered calls for several reasons:
+## What are the benefits of using covered calls?
 
-- **Income Generation**: By writing calls, investors can create an additional income stream from their holdings.
-- **Limited Upside Participation**: This strategy is favorable when investors have a neutral to moderately bullish view on the underlying asset. The call premium provides some profit if the asset appreciates slightly or remains flat.
-- **Downside Protection**: Although the premium collected offers limited protection against market declines, it can partially offset losses from a decrease in the asset’s value.
-- **Portfolio Management**: Covered calls can be employed as a tactical component within broader portfolio strategies, helping to manage risk and adjust exposure to equity markets.
+Using covered calls can give you extra money from your stocks. When you sell a call option, you get a premium right away. This is like getting paid to wait and see what happens with your stock. If the stock price doesn't go up much, you keep the premium and your stock. It's like getting a little bonus on top of your stock investment.
 
-### Advantages and Disadvantages of Covered Calls in Different Market Conditions
+Another good thing about covered calls is that they can help you feel more secure about your stocks. If the stock price goes down a bit, the premium you got can help make up for some of the loss. It's like having a small safety net. But remember, if the stock price goes way up, you might have to sell it at a lower price than it's worth. So, covered calls can help you earn more and feel safer, but they also mean you might miss out on big gains.
 
-**Advantages:**
+## What are the risks associated with covered calls?
 
-- **Income Enhancement**: The premiums received from selling call options add to the investor’s income, potentially increasing overall returns.
-- **Reduced Volatility**: By integrating covered calls into a portfolio, an investor can often reduce the portfolio’s overall volatility.
-- **Flexibility**: Covered calls offer various customizable parameters, such as strike prices and expiration dates, letting investors tailor their strategies to specific market views and risk preferences.
+One big risk with covered calls is that you might miss out on big gains. If the stock price goes way up, you have to sell it at the strike price, which could be lower than what it's worth. So, you could make less money than if you had just kept the stock. This is called capping your upside potential. You get the premium, but you might wish you hadn't sold the call if the stock goes up a lot.
 
-**Disadvantages:**
+Another risk is that you could lose money if the stock price drops a lot. The premium you get from selling the call option might not be enough to cover the loss if the stock falls. While the premium can act like a cushion, it's not a guarantee against losses. So, even though covered calls can give you extra income, they don't protect you completely from the stock market going down.
 
-- **Limited Upside Potential**: If the underlying asset experiences a significant increase in price, gains are capped at the option's strike price. Above this price, profits are limited.
-- **Opportunity Cost**: By selling call options, investors may miss out on substantial upside if the asset appreciates considerably.
-- **Complexity in Tax and Management**: Writing covered calls can introduce additional tax considerations and may require active management, particularly as option expiration dates approach.
+## How do you set up a covered call?
 
-In summary, covered calls can be an effective tool for investors to enhance income and manage risk, although they require careful planning and consideration of market conditions. The strategy is most effective in stable or moderately bullish markets, where the potential for high asset appreciation is limited.
+To set up a covered call, you first need to own the stock you want to use for the strategy. Let's say you own 100 shares of a company. Next, you go to your brokerage account and look for the options trading section. There, you'll find the call options for your stock. You choose a call option with a strike price and expiration date that you like. Then, you sell that call option. When you do this, you get paid a premium right away. This is the money the buyer of the option pays you.
 
-## The Mechanics of Algo Trading
+Once you've sold the call option, you wait until the expiration date. If the stock price stays below the strike price by the time the option expires, the option will likely expire worthless, and you keep both your stock and the premium. But if the stock price goes above the strike price, the buyer of the option might decide to use it and buy your stock at the lower strike price. In that case, you have to sell your stock at the strike price, but you still get to keep the premium you received when you sold the option.
 
-Algorithmic trading, often referred to as algo trading, represents the use of complex algorithms to automate trading decisions in financial markets. By leveraging mathematical models and advanced computing techniques, [algorithmic trading](/wiki/algorithmic-trading) has transformed the way market strategies are implemented. This approach to trading integrates vast amounts of market data to evaluate and execute trades with enhanced precision and speed, significantly reducing the time taken from decision-making to execution.
+## What are the key factors to consider before writing a covered call?
 
-One of the primary advantages of algorithmic trading is its ability to operate at speeds unattainable by human traders, thanks to high-frequency trading systems. Algorithms can process information and respond to market conditions in mere milliseconds, exploiting small price differentials for profit. This speed is coupled with precision, allowing trades to be executed at the exact moment and price desired, minimizing slippage and maximizing efficiency.
+Before you write a covered call, you need to think about how much you want to make from the premium and how much risk you're okay with. The premium is the money you get right away for selling the call option. If you want a bigger premium, you might pick a call option with a shorter time until it expires or one with a strike price closer to the current stock price. But, a bigger premium often means more risk. If the stock price goes up a lot, you might have to sell your stock at a lower price than it's worth. So, you need to decide how much you're willing to risk missing out on bigger gains for the extra money from the premium.
 
-Another significant benefit of algorithmic trading is its ability to eliminate emotional biases from the trading process. Human traders often grapple with emotions such as fear and greed, which can result in poor decision-making and inconsistent trading outcomes. Algorithms strictly adhere to predefined trading rules, enabling consistent application of strategies irrespective of market conditions.
+You also need to think about what you want to do with your stock. If you're okay with selling your stock at the strike price, then writing a covered call can be a good way to earn extra money. But if you really want to keep your stock and think it might go up a lot, you might not want to write a covered call. You should also look at how the stock has been doing and what's happening in the market. All these things can help you decide if writing a covered call is a good idea for you.
 
-However, deploying algorithmic trading strategies presents several challenges. One of the prominent challenges is the requirement for robust technological infrastructure. High-frequency and algo trading demand state-of-the-art hardware and data feeds, along with sophisticated software capable of handling large volumes of market data in real-time.
+## How does the choice of strike price and expiration date affect a covered call strategy?
 
-Moreover, developing effective algorithms necessitates a deep understanding of financial markets and programming skills. Traders must build and refine algorithms capable of adapting to dynamic market conditions, necessitating ongoing maintenance and optimization. The complexity of these tasks can deter less experienced traders.
+The strike price you pick for your covered call can really change how much money you make and how much risk you take. If you choose a strike price that's close to what the stock is worth right now, you'll get a bigger premium. That's good because it's like getting more money upfront. But it's also riskier. If the stock price goes up even a little bit, you might have to sell it at the strike price, which could be less than what it's worth. If you pick a strike price that's higher than the current stock price, you'll get a smaller premium, but it's less risky because the stock has more room to go up before you have to sell it.
 
-Additionally, algorithmic trading can lead to unintended market consequences such as flash crashes, where automated trading exacerbates rapid price movements due to the high speed and [volume](/wiki/volume-trading-strategy) of trades. This phenomenon underscores the importance of implementing fail-safes and circuit breakers within trading systems to manage [volatility](/wiki/volatility-trading-strategies).
+The expiration date also matters a lot. If you choose a call option that expires soon, you'll get a bigger premium because the buyer has less time to wait for the stock to go up. But this is riskier because the stock doesn't have much time to move. If you pick a call option with a longer time until it expires, you'll get a smaller premium, but it's less risky because the stock has more time to go up or stay the same. So, when you're setting up a covered call, you need to think about how much money you want upfront and how much risk you're okay with, and then pick your strike price and expiration date based on that.
 
-Lastly, the competitive nature of algorithmic trading means that strategies can quickly become obsolete as they are rapidly identified and arbitraged away by other market participants. Continuous innovation and adaptation are crucial for maintaining an edge in algorithmic trading.
+## What is the impact of dividends on a covered call?
 
-In conclusion, while algorithmic trading offers substantial benefits in speed, precision, and removing emotional bias, it also presents notable challenges that require sophisticated infrastructure, expert knowledge, and proactive risk management to navigate effectively.
+When you own a stock that pays dividends and you've written a covered call on it, the dividends can affect your strategy. If the stock pays a dividend, you still get to keep that dividend as long as you own the stock. But, dividends can make the stock more attractive to people who bought the call option. If the dividend is big enough, it might make the stock price go down right before the dividend is paid out. This is because the stock price often drops by the amount of the dividend on the ex-dividend date. If the stock price drops below the strike price because of the dividend, the person who bought the call option might not want to use it.
 
-## Integrating Covered Calls with Algo Trading
+On the other hand, if the stock price stays above the strike price even after the dividend, the person who bought the call option might still want to use it. If they do, you have to sell your stock at the strike price, but you still get to keep the dividend and the premium from selling the call option. So, dividends can add a little more money to your covered call strategy, but they can also make things a bit trickier because they can affect the stock price and the decisions of the person who bought the call option.
 
-Algorithmic trading has introduced a new dimension to the management of covered call strategies by incorporating automation, precision, and adaptability. The integration of automated systems in managing covered calls allows traders to optimize their approach by leveraging sophisticated algorithms to analyze market data, execute trades, and manage risk more effectively.
+## How can covered calls be used as part of an income-generating strategy?
 
-### Potential of Automated Systems to Manage Covered Call Strategies
+Covered calls can help you make more money from your stocks. When you own a stock and sell a call option on it, you get paid a premium right away. This premium is like extra income on top of any dividends you might get from the stock. If the stock price doesn't go up much by the time the option expires, you keep the premium and your stock. This means you've made some extra money without selling your stock. It's like getting paid to wait and see what happens with your stock.
 
-Automated systems can manage the intricate aspects of covered call strategies, such as monitoring stock prices and market indicators, by executing pre-defined rules for writing and managing call options. This automation helps in maintaining discipline and consistency, which are crucial for the successful application of covered call strategies. Additionally, these systems can continuously scan the market for opportunities to enter or [exit](/wiki/exit-strategy) positions based on real-time data, thereby enhancing responsiveness to market conditions.
+But you need to be careful because covered calls also have risks. If the stock price goes up a lot, you might have to sell your stock at the strike price, which could be lower than what it's worth. This means you could miss out on bigger gains. Still, if you're okay with that risk and you're looking for a way to earn some extra income from your stocks, covered calls can be a good strategy. You just need to pick the right strike price and expiration date to balance the extra income you get with the risk of missing out on bigger gains.
 
-### How Algorithmic Trading Can Enhance Profitability
+## What are the tax implications of trading covered calls?
 
-Algorithmic trading enhances the profitability of covered calls by optimizing the timing of option writing and the selection of option strike prices. Algorithms can efficiently calculate the optimal premium to collect by selling call options while simultaneously analyzing volatility patterns and historical data. This process helps in identifying the most favorable conditions to maximize returns and minimize risks. 
+When you trade covered calls, you need to think about taxes. The money you get from selling the call option, called the premium, is usually seen as regular income by the tax people. This means you'll pay taxes on it at your normal income tax rate. If you have to sell your stock because someone uses the call option, you might also have to pay capital gains tax on the profit you made from the stock. The tax rate for this depends on how long you owned the stock. If you owned it for less than a year, it's a short-term capital gain, and you pay your regular income tax rate on it. If you owned it for more than a year, it's a long-term capital gain, and you pay a lower tax rate.
 
-Moreover, algorithms can dynamically adjust strategies based on real-time market fluctuations, enabling traders to capitalize on short-term price movements that are often difficult to exploit manually. For example, an algorithm might be programmed to write call options when implied volatility is high, allowing for higher premiums, and to close these positions as volatility declines, locking in profits.
+If the call option expires and you keep your stock, the premium you got is still taxed as regular income. But if you sell your stock later, you'll pay capital gains tax on any profit you make from selling the stock. It's a good idea to keep good records of when you bought the stock, when you sold the call option, and when you sold the stock if you had to. This helps you figure out your taxes correctly. Talking to a tax advisor can also help you understand all the tax rules and make sure you're doing everything right.
 
-### Example Scenarios Illustrating the Use of Algorithms
+## How do market conditions influence the effectiveness of a covered call strategy?
 
-One practical scenario involves using an algorithm to implement a rolling covered call strategy. In this scenario, the algorithm continuously assesses the market conditions and rolls over call options to a new strike price or expiration date as conditions warrant. This ensures that the portfolio remains optimized without requiring constant manual intervention.
+Market conditions can really affect how well a covered call strategy works. When the market is going up slowly or staying the same, covered calls can be a good way to make extra money. You get the premium from selling the call option, and if the stock price doesn't go up much, you keep your stock and the premium. This is great because you're making money without having to sell your stock. But if the market is going up a lot, covered calls might not be as good. If the stock price goes way up, you might have to sell it at the strike price, which could be lower than what it's worth. So, you could miss out on bigger gains.
 
-Another example is the use of [machine learning](/wiki/machine-learning) algorithms to predict stock price movements and adjust covered call positions accordingly. By analyzing historical price data and market indicators, machine learning models can forecast price trends with a certain degree of accuracy, allowing the system to preemptively adjust positions to maximize potential gains or minimize losses.
+In a market that's going down or is really unpredictable, covered calls can be trickier. The premium you get can help cushion some of the losses if the stock price drops, but it might not be enough if the stock falls a lot. Also, if the market is very volatile, it's harder to pick the right strike price and expiration date. If you pick a strike price that's too low or an expiration date that's too soon, you might have to sell your stock at a bad time. So, you need to think carefully about the market conditions and how they might affect your stock before you decide to use a covered call strategy.
 
-Finally, algorithms are adept at managing multiple covered call positions across various stocks. For instance, a portfolio management algorithm can simultaneously evaluate the performance and volatility of different stocks, determining the most advantageous time to write additional covered calls or to close existing positions, thereby maximizing portfolio diversification benefits.
+## What advanced techniques can be used to optimize returns from covered calls?
 
-In summary, the integration of algorithmic trading with covered call strategies provides traders with an enhanced toolkit for managing risk, optimizing returns, and automating complex trading activities. By utilizing the power of automated systems, traders can more effectively navigate the complexities of options markets and achieve greater efficiency in implementing covered call strategies.
+One way to make more money from covered calls is by rolling the options. This means if the stock price goes up a lot and it looks like the person who bought your call option will use it, you can buy back that call option before it expires. Then, you sell a new call option with a higher strike price or a later expiration date. This can help you keep your stock longer and maybe get a bigger premium. But it costs money to buy back the old option and sell a new one, so you need to make sure it's worth it.
 
-## Challenges and Risks
-
-Integrating covered calls into algorithmic trading systems presents unique challenges and risks that investors must carefully consider. One key issue is the complexity of programming algorithms that can effectively manage these options strategies. Covered calls involve holding a long position in a stock while simultaneously writing (selling) a call option on the same stock. This requires algorithms to dynamically assess option premiums, stock prices, and market conditions—a non-trivial task given the nuances of options pricing and trading.
-
-The risk/reward profile of covered calls when implemented through algorithmic systems differs from traditional methods. Covered calls generally offer limited upside potential in exchange for [earning](/wiki/earning-announcement) option premiums, making them a conservative strategy in traditional settings. However, when automated, these strategies may magnify risks due to the speed and frequency at which trades can be executed. Algorithms may execute without human intervention, meaning that quick market changes could lead to substantial losses if the system is not robustly designed to handle high volatility.
-
-Tax implications and transaction costs further complicate the use of covered calls within algorithmic trading. Each transaction—buying the stock, writing the call option, and potentially closing out positions—can trigger tax events, affecting the net profitability of the strategy. Algorithms must, therefore, account for after-tax returns when assessing trade opportunities. Additionally, frequent trading can lead to significant transaction costs, eroding the incremental gains typically achieved through covered call strategies. These costs must be meticulously incorporated into the algorithm to avoid skewing performance expectations.
-
-When combining covered calls with algorithmic trading, it is crucial to implement a comprehensive risk management approach. This involves [backtesting](/wiki/backtesting) strategies under varying market conditions to validate the algorithm's performance and ensure it aligns with the intended risk profile. Robust algorithms will account for all elements—from the Greeks in options pricing to broader market indicators—thus anticipating potential pitfalls and optimizing profits while reducing discretionary trading errors.
-
-## Best Practices for Covered Call Algo Trading
-
-Optimizing algorithmic strategies for covered call implementation requires a blend of quantitative analysis, market understanding, and technological precision. Here are several best practices that should be considered:
-
-### Optimizing Algorithmic Strategies
-
-1. **Rule-Based Systems**: Utilize rule-based trading systems to define specific conditions under which covered calls should be executed. These rules may include criteria such as implied volatility thresholds, option Greeks (Delta, Gamma, Theta, etc.), and stock price trends. Automated systems can promptly evaluate these rules, ensuring timely execution.
-
-2. **Machine Learning Models**: Implement machine learning algorithms to predict optimal strike prices and expiration dates based on historical data. These models can dynamically adjust parameters as new data becomes available, increasing the likelihood of favorable outcomes.
-
-3. **Real-Time Market Data Integration**: Continuously feed your algorithm with real-time market data. High-frequency data assists in adjusting positions swiftly in response to rapidly changing market conditions, thereby enhancing the strategy's effectiveness.
-
-### Adapting to Changing Market Conditions
-
-1. **Volatility Analysis**: Integrate a volatility forecasting model that adjusts the frequency and aggressiveness of covered call writing based on predicted volatility levels. During periods of high volatility, the strategy might become more conservative to mitigate risk.
-
-2. **Economic Indicators**: Algorithms should incorporate macroeconomic indicators to anticipate broader market shifts. For example, interest rate changes can impact option pricing; hence, this information should guide algorithmic decision-making.
-
-3. **Scenario Planning**: Backtest the strategy against a myriad of market scenarios to identify potential weaknesses. This testing should simulate stresses such as sudden price crashes, bull market rallies, and periods of low liquidity.
-
-### Risk Management Techniques
-
-1. **Position Sizing**: Calculate optimal position sizes using equations like the Kelly Criterion or Value at Risk (VaR) to prevent over-allocation and mitigate potential losses.
-
-2. **Stop-Loss Orders**: Implement dynamic stop-loss orders that adapt to market volatility, thereby protecting the portfolio from significant drawdowns.
-
-3. **Protective Puts**: Consider using protective puts alongside covered calls to hedge against adverse stock movements. This practice can serve as insurance and reduce downside risk.
-
-4. **Portfolio Diversification**: Ensure diversified exposure across different sectors and industries to minimize the impact of sector-specific downturns.
-
-### Backtesting for Sustained Success
-
-1. **Historical Data Analysis**: Run extensive backtests over a broad time horizon and across varying market conditions to validate the robustness of the strategy. Utilize rolling windows to ensure the algorithm remains effective through different market cycles.
-
-2. **Walk-Forward Optimization**: Employ walk-forward optimization to periodically recalibrate the algorithm. This practice involves using a portion of historical data to optimize strategy parameters and then testing these parameters on unseen data to gauge real-world applicability.
-
-3. **Continuous Monitoring and Refinement**: Establish a monitoring system to regularly review performance metrics and refine the algorithm based on observed performance discrepancies.
-
-Implementing these best practices can enhance the effectiveness and resilience of covered call strategies within algorithmic frameworks. By focusing on optimization, adaptability, and rigorous risk management, traders can increase the potential for stable returns while navigating complex market environments.
-
-## Conclusion
-
-The integration of covered calls and algorithmic trading highlights a significant advancement in investment strategies. Covered calls offer investors the ability to earn additional income on long stock positions by writing call options, while algorithmic trading brings speed, precision, and reduced emotional bias to the execution of these strategies. The fusion of these two methodologies allows for more dynamic and responsive investment strategies, optimizing returns, and managing risk more effectively.
-
-Algorithmic systems automate the process of identifying optimal conditions for writing covered calls, such as detecting favorable market volatility or selecting strike prices that align with a trader's risk tolerance and financial goals. This automation reduces the manual workload on traders and mitigates the risk of overlooking profitable opportunities due to human error or emotional decision-making.
-
-Despite the promising synergies, integrating covered calls with algorithmic trading is not without its challenges. The potential risks include the complexities of developing and maintaining robust algorithms, the need to adapt to changing market conditions, and the impact of transaction costs and tax implications on overall profitability. These considerations require a disciplined approach to risk management and thorough backtesting to ensure sustained success.
-
-Looking forward, the evolution of covered calls within algorithmic trading signals a shift towards more sophisticated trading strategies that leverage technology and data analytics. The future likely holds increased integration of [artificial intelligence](/wiki/ai-artificial-intelligence) and machine learning techniques to further enhance decision-making processes and predictive capabilities.
-
-For traders and investors, exploring covered calls through algorithmic trading offers a gateway to more efficient and controlled investment strategies. It is important to approach these strategies with a balanced perspective, weighing the potential rewards against inherent risks, and continuously refining methodologies based on empirical data and market analysis. Employing a strategic and informed approach will likely yield the most benefits in this evolving landscape.
+Another technique is to use a strategy called the "collar." With a collar, you buy a put option to protect your stock if the price goes down a lot. You pay for this put option with the premium you get from selling the call option. This way, you can make some extra money from the call option and still have some protection if the stock price falls. It's like having a safety net while you try to make more money. But remember, the put option also costs money, so it might cut into the extra money you make from the covered call.
 
 ## References & Further Reading
 
