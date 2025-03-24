@@ -3,152 +3,84 @@ title: "Comparison of Layer 1 and Layer 2 Blockchain Scaling Solutions"
 description: "Explore the differences between Layer 1 and Layer 2 blockchain solutions to understand how they address scalability challenges and enhance algo trading efficiency."
 ---
 
-In blockchain technology, scalability is an essential factor that influences the capability of networks to manage heightened transaction volumes. As the demand for blockchain-based solutions intensifies, so too does the necessity for mechanisms that can process a growing number of transactions with speed and precision. Two key strategies that have become forefront approaches to these challenges are known as Layer 1 and Layer 2 scaling solutions. Layer 1 solutions involve modifications to the actual blockchain protocol, such as adjustments to block size and updates to consensus mechanisms, which aim to improve the fundamental processing capabilities of the network. Layer 2 solutions, on the other hand, typically involve off-chain methods such as rollups and side chains, designed to work atop the existing blockchain infrastructure for enhanced scalability.
-
-Additionally, the intersection of these scaling technologies with algorithmic trading—commonly referred to as algo trading—offers intriguing possibilities. In traditional financial markets, algo trading has been a transformative force, enabling trades to be executed at optimal conditions without human intervention. As blockchain technology advances in scalability, its potential integration with algo trading presents exciting opportunities for optimizing trading operations. This integration could lead to more efficient, transparent, and decentralized platforms for trading financial assets, potentially reducing latency in transaction execution and enhancing overall market performance.
 
 ![Image](images/1.png)
 
 ## Table of Contents
 
-## Layer 1 and Layer 2: An Overview
+## What is a Layer 1 blockchain scaling solution?
 
-Layer 1 and Layer 2 solutions are critical components in enhancing the scalability of blockchain networks, ensuring they can handle a growing number of transactions effectively. 
+A Layer 1 blockchain scaling solution refers to improvements made directly to the main blockchain, or "Layer 1," to increase its capacity and efficiency. This can involve changes to the core protocol, like increasing the block size or reducing the block time, to allow more transactions to be processed faster. The goal is to handle more users and transactions without compromising the security and decentralization of the network.
 
-Layer 1 solutions involve modifications directly to the underlying blockchain protocol. These include increasing block size, updating consensus mechanisms, and implementing sharding. Increasing the block size allows more transactions to be processed within each block, thus improving throughput. A significant example is Bitcoin Cash, which increased Bitcoin's original block size to handle more transactions per second. Updating consensus mechanisms, such as transitioning from Proof of Work (PoW) to Proof of Stake (PoS), aims to reduce the computational demands and energy consumption associated with validating transactions on the blockchain. Sharding is another Layer 1 approach where the blockchain database is partitioned into smaller, more manageable pieces, or "shards", allowing for parallel transaction processing and thereby significantly increasing the network's capacity.
+These solutions are important because they tackle scaling issues at the base level of the blockchain. By enhancing the fundamental structure, Layer 1 solutions can lead to significant improvements in speed and cost-effectiveness. Examples of Layer 1 scaling include Bitcoin's Lightning Network and Ethereum's transition to Ethereum 2.0, which aims to use sharding to process transactions in parallel, greatly increasing throughput.
 
-Layer 2 solutions, on the other hand, operate above the base blockchain protocol and do not require alterations to the underlying blockchain. These solutions handle transactions off-chain or add an additional overlay network to increase scalability. Rollups are a prominent kind of Layer 2 solution where multiple transactions are bundled into a single batch and executed off-chain. Once processed, the final result is recorded on the main blockchain, enabling greater efficiency without compromising security. Side chains are independent blockchain networks that run parallel to the main chain, allowing for the management and settlement of transactions separately. State channels allow participants to conduct a series of transactions off-chain, and only the final state is recorded on-chain, minimizing on-chain operations and reducing transaction delays and costs.
+## What is a Layer 2 blockchain scaling solution?
 
-Understanding the dynamics between Layer 1 and Layer 2 is crucial as they directly affect a blockchain’s ability to accommodate increased user activity and transaction volume. These solutions are pivotal for enhancing transaction throughput, supporting the broader adoption and use of blockchain technology across various domains.
+A Layer 2 blockchain scaling solution is like adding an extra layer on top of the main blockchain to handle more transactions faster and cheaper. Instead of making changes to the main blockchain itself, Layer 2 solutions use the main blockchain's security but process transactions off the main chain. This helps the main blockchain, or Layer 1, to not get too crowded and slow down.
 
-## Importance of Scaling in Blockchain
+Common examples of Layer 2 solutions include the Lightning Network for Bitcoin and Optimistic Rollups and ZK-Rollups for Ethereum. These solutions let users do many transactions quickly off the main chain and then settle them back on the main chain in one go. This way, the main blockchain stays secure and decentralized, while still allowing more people to use it without waiting too long or paying too much.
 
-Scalability remains a fundamental aspect of blockchain technology, ensuring these networks can uphold their functionality and efficiency as user adoption and transaction [volume](/wiki/volume-trading-strategy) surge. One of the primary concerns with blockchain scalability is the occurrence of bottlenecks. As the number of transactions escalates, networks lacking adequate scalability measures may experience significant slowdowns, resulting in increased transaction processing times and elevated costs for users. This challenge is prominently observed in popular blockchain networks like Ethereum during periods of high demand.
+## How do Layer 1 and Layer 2 solutions differ in their approach to scaling?
 
-Layer 1 and Layer 2 scaling solutions present effective methods to mitigate such bottlenecks and enhance the overall throughput of blockchain networks. Layer 1 solutions involve modifications at the foundational protocol level, such as altering block sizes or transitioning to more efficient consensus mechanisms like Proof of Stake. These changes aim to boost the number of transactions the network can handle directly on the blockchain's primary architecture.
+Layer 1 solutions focus on making the main blockchain itself better at handling more transactions. They do this by changing things like how big each block can be or how fast new blocks are made. For example, if the blocks are bigger, they can hold more transactions. Or if new blocks come faster, transactions don't have to wait as long. The goal is to make the main blockchain faster and able to handle more users without losing its security or the way it's run by many people.
 
-Conversely, Layer 2 solutions function by introducing additional protocols above the existing blockchain infrastructure. These solutions, such as off-chain transactions and side chains, alleviate the main chain's load while maintaining a secure connection to it. By doing so, Layer 2 solutions significantly enhance transaction processing capabilities and reduce latency, creating a more seamless user experience.
+On the other hand, Layer 2 solutions work by taking some of the work off the main blockchain. They let people do lots of transactions quickly on a separate layer and then settle them all at once back on the main blockchain. This way, the main blockchain doesn't get too busy, and transactions can be faster and cheaper. For example, with the Lightning Network for Bitcoin, you can do many small payments off the main chain and only go back to it when you're done. This helps keep the main blockchain secure and decentralized while still letting more people use it easily.
 
-Effectively managing transaction traffic using these scaling methods is crucial for maintaining a network's viability and attractiveness to users and developers. As blockchain technologies continue to gain traction across various industries, ensuring they can scale efficiently is paramount to their long-term success and widespread adoption.
+## What are some common examples of Layer 1 scaling solutions?
 
-## Layer 1 vs. Layer 2: Key Differences
+Layer 1 scaling solutions are ways to make the main blockchain itself better at handling more transactions. One common example is increasing the block size. This means each block on the blockchain can hold more transactions, so more can be processed at once. Another example is reducing the block time, which is how long it takes to make a new block. If blocks are made faster, transactions don't have to wait as long to be included in the blockchain. These changes help the blockchain handle more users and transactions without getting slow or expensive.
 
-Layer 1 and Layer 2 scaling solutions address the need for increased transaction throughput in blockchain networks, yet they achieve this through fundamentally different approaches. Layer 1 acts as the fundamental architecture of the blockchain, consisting of primary protocol adjustments directly implemented at the core level. These modifications may include changes to the consensus mechanisms, such as the transition from Proof of Work (PoW) to Proof of Stake (PoS), which aims to mitigate computational requirements and enhance energy efficiency. Another Layer 1 strategy involves increasing the block size, allowing the network to process more transactions simultaneously, as demonstrated by Bitcoin Cash's fork from Bitcoin. Additionally, sharding is a prominent Layer 1 solution that divides the blockchain into smaller, more manageable parts, enabling concurrent transaction processing across multiple partitions.
+Another example of a Layer 1 scaling solution is implementing sharding. Sharding is like splitting the blockchain into smaller parts, or "shards," that can process transactions at the same time. This way, the blockchain can handle a lot more transactions because different parts are working on them together. Ethereum's move to Ethereum 2.0 is trying to use sharding to make the network much faster. By making these kinds of changes to the main blockchain, Layer 1 solutions aim to make the whole system more efficient and able to grow.
 
-Layer 2, contrastingly, is implemented atop the existing Layer 1 infrastructure to facilitate more flexible and efficient transaction processing. It introduces protocols that optimize transaction speeds and lower costs without altering the underlying blockchain structure. For example, Polygon, a Layer 2 solution for Ethereum, enhances the scalability of the network by providing a framework for constructing a network of interconnected blockchains. Similarly, the Lightning Network functions as a Layer 2 protocol for Bitcoin, enabling off-chain transactions that significantly increase throughput and reduce latency, while ultimately settling these transactions on the main blockchain.
+## What are some common examples of Layer 2 scaling solutions?
 
-The key difference between these layers lies in their approach: Layer 1 alters the blockchain's base protocol, while Layer 2 augments the blockchain's capabilities by adding supplementary protocols. This distinction elucidates the complementary nature of Layer 1 and Layer 2 solutions, as they work in concert to enhance the blockchain's overall performance, security, and scalability.
+Layer 2 scaling solutions help make transactions faster and cheaper by taking some of the work off the main blockchain. One common example is the Lightning Network for Bitcoin. It lets people do many small transactions off the main blockchain and only go back to it when they need to settle up. This way, the main blockchain doesn't get too busy, and people can send and receive payments quickly and for less money.
 
-## Types of Layer 1 Solutions
+Another example of a Layer 2 solution is Optimistic Rollups, which is used with Ethereum. Optimistic Rollups let you do a bunch of transactions off the main blockchain and then put them all back on at once. They're called "optimistic" because they assume everything is okay unless someone says it's not. This makes things faster and cheaper because you're not using the main blockchain for every little thing.
 
-Layer 1 solutions focus on improving the core blockchain architecture to enhance transaction throughput and efficiency. One of the primary methods involves increasing the block size, which directly affects the number of transactions a network can process within each block. For example, Bitcoin Cash implemented an increased block size compared to Bitcoin, enabling more transactions to be processed simultaneously, thus mitigating congestion and reducing transaction fees.
+ZK-Rollups are also used with Ethereum and are another Layer 2 solution. They use something called zero-knowledge proofs to make transactions off the main blockchain and then settle them back on. This keeps things private and secure while still making transactions faster and cheaper. Both Optimistic Rollups and ZK-Rollups help the main blockchain handle more users without getting slow or expensive.
 
-Another critical Layer 1 solution is updating consensus mechanisms. Traditional blockchains like Bitcoin use Proof of Work (PoW), which is resource-intensive and can become a bottleneck as the network scales. Transitioning to alternatives such as Proof of Stake (PoS) reduces computational demands and energy consumption, while also potentially increasing transaction speeds. In a PoS system, validators are chosen based on the number of coins they hold and are willing to "stake" as collateral, which encourages active participation and secures the network without the need for extensive computational power.
+## How do Layer 1 solutions impact the security of a blockchain?
 
-Sharding is another approach to improving Layer 1 scalability. It involves partitioning the blockchain database into smaller, more manageable pieces called shards. Each shard can process its transactions and smart contracts independently, allowing multiple transactions to be processed concurrently across the network. Mathematically, if a blockchain is divided into $n$ shards, each with the capability to handle $t$ transactions per second, the network could theoretically process $n \times t$ transactions per second, significantly boosting overall throughput.
+Layer 1 solutions can affect the security of a blockchain in different ways. When you make changes to the main blockchain, like making blocks bigger or making them come faster, it can change how secure the network is. For example, if blocks are bigger, it might be harder for everyone to agree on what happened because there's more data to check. This could make the blockchain a bit less secure if not everyone can keep up with the bigger blocks.
 
-These Level 1 enhancements are vital for ensuring that blockchains can handle increased demands while maintaining efficiency and keeping transaction costs low.
+On the other hand, some Layer 1 solutions, like sharding, try to keep the security high while making the blockchain faster. Sharding splits the blockchain into smaller parts that work together, but it's tricky to make sure all these parts stay secure. If done right, sharding can help the blockchain handle more transactions without making it less safe. But if there are mistakes, it could open up new ways for bad actors to cause trouble. So, it's important to think carefully about how to balance making the blockchain faster with keeping it secure.
 
-## Types of Layer 2 Solutions
+## How do Layer 2 solutions impact the security of a blockchain?
 
-Layer 2 solutions offer substantial enhancements to the scalability of blockchain networks by processing transactions off the main chain, thereby reducing congestion and increasing throughput. These solutions are crucial as they facilitate network expansion without necessitating alterations to the underlying blockchain architecture.
+Layer 2 solutions can impact the security of a blockchain in different ways. They work by moving some transactions off the main blockchain, which can make things faster and cheaper. But because these transactions happen away from the main blockchain, there's a chance that something could go wrong. For example, if someone tries to cheat on the Layer 2 part, it might be harder to stop them right away because it's not happening on the main blockchain where everyone can see and agree on what's happening.
 
-### Rollups
+However, Layer 2 solutions like the Lightning Network and Rollups have ways to keep things secure. They use the main blockchain's security as a backup. If something fishy happens on the Layer 2 part, it can be checked and fixed by going back to the main blockchain. This means that while there might be some new risks, the main blockchain's strong security is still there to help keep everything safe. So, it's all about finding a good balance between speed and security.
 
-Rollups consolidate multiple transactions off-chain into a single batch before submitting them to the main chain. This strategy significantly decreases on-chain load and transaction fees. There are mainly two types of rollups: Optimistic Rollups and Zero-Knowledge (ZK) Rollups.
+## What are the trade-offs between scalability and decentralization in Layer 1 solutions?
 
-- **Optimistic Rollups** assume transactions are valid by default and only initiate verification if fraud is suspected. This approach relies on a challenge period during which anyone can contest transactions by providing evidence of fraud.
-- **Zero-Knowledge Rollups** use cryptographic proofs to verify validity before committing data to the main chain. ZK-Rollups offer greater security since they mathematically ensure the correctness of transactions without external inputs.
+When trying to make a blockchain bigger and faster with Layer 1 solutions, there's a big trade-off between how scalable it can be and how decentralized it stays. If you make blocks bigger or make them come faster, the blockchain can handle more transactions. But this can make it harder for everyone to agree on what's happening because there's more data to check. If only a few people can keep up with the bigger or faster blocks, then the blockchain might become less decentralized. It starts to depend more on those few people, which goes against the idea of everyone having a say.
 
-### Side Chains
+On the other hand, keeping a blockchain very decentralized means making sure lots of people can run it and check what's going on. But if you do that, the blockchain might not be able to grow as fast or handle as many transactions. It's a bit like trying to keep a party small so everyone can join in the fun, but then you can't invite as many people. So, when working on Layer 1 solutions, it's important to think about how to make the blockchain bigger without losing the special thing that makes it decentralized.
 
-Side chains operate as independent blockchains running in parallel to the main chain, facilitating increased transaction processing capability. These chains use their unique consensus mechanisms, offering flexibility in transaction types and throughput.
+## What are the trade-offs between scalability and decentralization in Layer 2 solutions?
 
-The integration with the main blockchain is typically maintained through a two-way peg system, ensuring assets can be transferred between chains securely. This transfer involves:
+Layer 2 solutions help make blockchains bigger and faster by taking some work off the main blockchain. But this can sometimes make things a bit less decentralized. When transactions happen off the main blockchain, they might depend more on the people or groups running the Layer 2 part. If only a few people control the Layer 2 part, it could become more like a few big banks running things instead of everyone having a say. So, while Layer 2 solutions can make transactions faster and cheaper, they might also make the system a bit less open and shared.
 
-1. Locking funds on the main chain.
-2. Issuing equivalent tokens on the side chain.
-3. Reversing the process for redemption on the main chain.
+On the other hand, Layer 2 solutions try to keep the main blockchain's strong security and decentralization as a backup. They use the main blockchain to check and fix any problems that come up on the Layer 2 part. This way, even if the Layer 2 part is run by fewer people, the main blockchain is still there to make sure everything stays fair and secure. So, the trade-off is about finding a good balance between making things faster and keeping the system open to everyone.
 
-### State Channels
+## How do the costs of transactions compare between Layer 1 and Layer 2 solutions?
 
-State channels allow participants to conduct transactions off-chain, which are recorded on the blockchain only once, thus minimizing on-chain activity and improving speed. The basic workflow involves:
+When you use Layer 1 solutions, which make changes right to the main blockchain, the cost of transactions can be higher. This is because every transaction has to be checked and added to the main blockchain by lots of people. The more people checking, the more it costs, especially if the blockchain is busy. For example, if you want to send Bitcoin on the main blockchain, you might have to pay a bigger fee to get your transaction done quickly.
 
-1. **Opening**: Initiating the channel with an on-chain transaction to lock funds.
-2. **Transacting**: Conducting multiple transactions off-chain, agreed upon by both parties, and updating local states.
-3. **Closing**: Settling the final state on the blockchain, reflecting the net outcomes of all off-chain transactions.
+Layer 2 solutions, on the other hand, can make transactions a lot cheaper. They let you do many transactions off the main blockchain and only go back to it when you need to settle up. This means you're not paying the main blockchain's high fees for every little thing. For example, if you use the Lightning Network to send Bitcoin, your fees can be much smaller because you're not using the main blockchain as much. So, Layer 2 solutions help make sending and receiving money faster and cheaper.
 
-Python code illustrating a simple state channel concept might involve maintaining and updating off-chain balances:
+## What are the future prospects for the development of Layer 1 scaling technologies?
 
-```python
-class StateChannel:
-    def __init__(self, initial_balance):
-        self.balance = initial_balance
+The future of Layer 1 scaling technologies looks bright as more and more people are working on making blockchains faster and able to handle more users. One big idea is sharding, which is like splitting the blockchain into smaller parts that can work at the same time. This could make the blockchain much faster without losing its security. Another idea is making blocks bigger or making them come faster, which would let the blockchain handle more transactions. But it's important to do this carefully so the blockchain stays open and shared by everyone.
 
-    def transact(self, amount):
-        if 0 <= amount <= self.balance:
-            self.balance -= amount
-            return True
-        return False
+There are also new ideas like using different ways to agree on what's happening on the blockchain, which could make things even faster and more secure. For example, some blockchains are trying out new ways to check transactions that don't need as much power or time. This could help make the blockchain bigger and better for more people to use. As more people and companies work on these ideas, we might see big changes that make blockchains easier and cheaper to use, while still keeping them safe and open for everyone.
 
-    def close_channel(self):
-        # The net balance to settle on-chain
-        return self.balance
-```
+## What are the future prospects for the development of Layer 2 scaling technologies?
 
-### Conclusion
+The future of Layer 2 scaling technologies looks really promising. More and more people are working on making these solutions better so that blockchains can handle lots of transactions quickly and cheaply. For example, things like the Lightning Network for Bitcoin and Rollups for Ethereum are getting better all the time. People are finding new ways to make these Layer 2 solutions work even faster and keep them safe. This means that soon, we might be able to do even more things with blockchains without waiting long or paying too much.
 
-Layer 2 solutions like rollups, side chains, and state channels are pivotal in circumventing the scalability limitations of Layer 1. They offer practical methods to enhance processing efficiency and facilitate broader adoption of blockchain technologies without compromising the security and decentralization ethos of the network.
-
-## Integration with Algorithmic Trading
-
-Algorithmic trading utilizes complex algorithms to execute trades with high precision, speed, and often without human intervention. These algorithms are designed to take advantage of market conditions, conducting trades at optimal times based on predefined criteria. As blockchain technology scales efficiently, it presents a robust, decentralized platform ideal for conducting [algorithmic trading](/wiki/algorithmic-trading) of financial assets with enhanced security and transparency.
-
-The integration of algorithmic trading with blockchain scaling solutions like Layer 1 and Layer 2 technologies can significantly enhance trading efficiency. By processing transactions off-chain using Layer 2 solutions such as rollups or side chains, it is possible to reduce network congestion and latency. This significantly lowers the time it takes to verify and settle trades, which is critical for algorithmic trading strategies that demand swift execution.
-
-Moreover, the decentralization inherent in blockchain systems ensures that trades are not reliant on a single point of failure, further securing trading operations. The immutability and transparency of blockchain transactions provide an additional layer of confidence for traders, as all activities are verifiable on the blockchain, thus reducing the risks associated with traditional centralized exchanges.
-
-Consider a scenario where an algorithm evaluates market conditions and determines to execute a trade. On a scaled blockchain, the execution involves multiple transactions being processed in parallel, enabled by the scalability solutions implemented. The pseudo-code below illustrates a simplified process of automated trade execution leveraging blockchain scaling:
-
-```python
-def execute_trade(market_conditions, trading_algo):
-    # Check if market conditions meet algorithm criteria
-    if trading_algo.evaluate_conditions(market_conditions):
-        # Prepare transaction data
-        transaction = trading_algo.create_transaction()
-
-        # Use Layer 2 solution to process transaction off-chain
-        side_chain.process_transaction(transaction)
-
-        # Confirm transaction on the main blockchain
-        main_chain.settle_transaction(transaction)
-
-# Sample usage
-market_conditions = get_current_market_conditions()
-trading_algo = load_trading_algorithm()
-
-execute_trade(market_conditions, trading_algo)
-```
-
-The aforementioned integration not only optimizes execution time but also potentially reduces transaction costs by minimizing on-chain operations. This synergy between algorithmic trading and blockchain technology has the potential to reshape financial markets, offering a level of efficiency and transparency that traditional systems struggle to achieve.
-
-## Risks of Layer Scaling
-
-Layer scaling solutions are instrumental in enhancing the throughput and efficiency of blockchain networks, yet they inherently bring certain risks that could affect the system's security and integrity. One primary risk associated with these solutions is the potential for blockchain forks. Forks occur when updates or changes to the blockchain protocol lead to disagreements within the community or among the nodes. Such splits can create multiple divergent paths from a single blockchain, which might confuse users and developers. This confusion can lead to uncertainty in transaction validation and a split in asset valuation across different versions of the blockchain. A notable example of this occurred with Bitcoin and Bitcoin Cash, where disagreements over block size led to a hard fork, creating two separate cryptocurrencies.
-
-Another significant risk arises from off-chain transactions, a prevalent feature in Layer 2 scaling solutions. Off-chain transactions, by their nature, are processed outside the main blockchain to enhance speed and reduce congestion. However, this detachment poses verification challenges since these transactions may not enjoy the same level of security and transparency as on-chain transactions. The decentralized verification process is crucial for maintaining the trustworthiness of blockchain operations. Off-chain processing could permit unscrupulous actors to manipulate transaction records before they are settled on the main chain, thereby undermining trust.
-
-Moreover, introducing additional off-chain elements can increase the complexity of the system, potentially leading to vulnerabilities or inefficiencies. These could be exploited by bad actors or simply result in operational inefficiencies, limiting the perceived advantages of scaling solutions. For instance, the interaction of smart contracts and off-chain solutions needs to be meticulously verified to avoid any code vulnerabilities, which might otherwise be exploited.
-
-In summary, while Layer 1 and Layer 2 scaling solutions are critical for accommodating the growing demand on blockchain networks, they introduce potential risks such as forks and challenges associated with off-chain transaction verification. These factors require careful planning and robust security measures to mitigate the risks while reaping the benefits of scalability.
-
-## Conclusion
-
-Layer 1 and Layer 2 scaling solutions play a pivotal role in advancing blockchain technology. By enhancing transaction throughput, they address one of the critical challenges faced by blockchain networks, facilitating the processing of a higher volume of transactions efficiently. This advancement is crucial for maintaining the usability and attractiveness of blockchain platforms as they gain more adopters and more diverse applications.
-
-The implementation of effective scaling strategies is not solely about improving transaction speeds. These solutions also pave the way for integrating advanced trading strategies such as algorithmic trading. Blockchain's inherently transparent and decentralized nature combined with the efficiency boosted by scaling solutions, provides an optimal environment for executing complex algorithms at high speed and reduced latency. This opens new possibilities for financial markets and further strengthens the symbiotic relationship between emerging blockchain technology and sophisticated trading methodologies.
-
-As blockchain ecosystems progress, the continuous development and application of scaling solutions are imperative. They not only ensure that these networks remain robust and scalable but also unlock new potential for innovation across various sectors. Adapting to these advancements will be instrumental for developers and enterprises looking to harness the full potential of blockchain technology in the years to come.
+As more people use blockchains, the need for good Layer 2 solutions will keep growing. Companies and developers are trying out new ideas to make these solutions even better. They're working on making them easier to use and more secure. This could help make blockchains more popular because people will be able to do more things with them without worrying about high costs or slow speeds. So, the future of Layer 2 scaling technologies is all about making blockchains bigger and better for everyone to use.
 
 ## References & Further Reading
 
