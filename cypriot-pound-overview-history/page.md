@@ -3,136 +3,82 @@ title: "Cypriot Pound: Overview and History"
 description: "Explore the history of the Cypriot Pound and its economic impact on Cyprus, alongside the evolving role of algorithmic trading in leveraging historical currency trends."
 ---
 
-The Cypriot Pound (CYP), once the official currency of Cyprus, holds a pivotal place in the economic history of the island. This article aims to explore the evolution of the Cypriot Pound from its inception to its eventual replacement by the Euro, an event that signaled a significant shift in the economic landscape of Cyprus. In addition, the article examines the growing relevance of algorithmic trading in the context of historical currencies, highlighting the potential integration of past economic trends into modern financial strategies.
-
-Understanding the history of a currency like the Cypriot Pound is essential in today's financial landscape, where algorithmic trading is becoming increasingly prevalent. Algorithmic trading, which uses computer programs to execute trades at speeds and frequencies that a human trader cannot match, often relies on historical data to optimize trading strategies. By incorporating historical currency data, such as trends and fluctuations observed with the Cypriot Pound, algorithmic models can potentially forecast future market behaviors more accurately.
 
 ![Image](images/1.jpeg)
 
-The article will focus on three main themes: firstly, tracing the history of the Cypriot Pound from its introduction in 1878, through its role as a symbol of cultural identity, to the economic implications it entailed. Secondly, examining Cyprus's economic evolution, particularly how the Cypriot Pound was integral to its journey towards modernization. Lastly, we will connect these aspects to contemporary trading practices by discussing the utilization of historical currency data in algorithmic trading.
-
-During its years of circulation, the Cypriot Pound served not just as a monetary unit but also as a cornerstone of Cyprus's economy, influencing everything from local trade to international economic policies. It played a crucial role in sectors like tourism and shipping, which contributed significantly to the country's economic growth.
-
-This article aims to provide an in-depth analysis of the Cypriot Pound's history, highlighting its cultural significance and economic impact, while also exploring how these insights can be leveraged today through the lens of algorithmic trading. By doing so, it seeks to offer readers a comprehensive understanding of the ways in which historical financial data can inform and enrich modern trading strategies.
-
 ## Table of Contents
 
-## The Historical Journey of the Cypriot Pound
+## What is the Cypriot Pound?
 
-The Cypriot Pound, also known as the Cyprus Pound (CYP), has a rich history dating back to its introduction by British colonial authorities in 1878. It was during this period that Cyprus was annexed by the British Empire, setting the stage for a currency system that would be heavily influenced by British economic policies. Originally, the Cypriot financial system utilized the British Pound Sterling, but soon a localized currency was introduced to better serve the island’s economy.
+The Cypriot Pound was the currency used in Cyprus before they switched to the Euro. It was used from 1960 until 2007. The symbol for the Cypriot Pound was £C, and it was divided into 100 cents. People in Cyprus used this money for buying things and paying for services until the country joined the European Union and adopted the Euro.
 
-By 1925, the Cypriot Pound was officially established as the currency of Cyprus. This development came after a series of monetary reforms aimed at stabilizing the local economy and providing a distinct currency identity separate from British Sterling, although it remained pegged to the British currency until 1972. During this period, the Cypriot Pound consisted of subdivisions like shillings and piastres, which were familiar to the local populace and helped ease the cultural transition.
+When Cyprus became independent from the United Kingdom in 1960, they started using the Cypriot Pound. It was tied to the British Pound at first, but later it was allowed to float freely based on the market. In 2008, Cyprus officially switched to the Euro, and the Cypriot Pound was no longer used. Now, the Euro is the money used in Cyprus, and the Cypriot Pound is just a part of history.
 
-The post-independence era marked a significant evolution for the Cypriot Pound. Cyprus gained independence from British rule in 1960, and with this newfound autonomy, the Central Bank of Cyprus was established in 1963. The central bank took over the responsibilities of issuing and managing the national currency, which played a crucial role in the economic development of the newly sovereign state. Currency designs began to reflect elements of Cypriot culture and identity, showcasing historical artifacts, architectural landmarks, and natural beauty that resonated with the citizens.
+## When was the Cypriot Pound first introduced?
 
-The year 1983 brought about a significant socio-political shift with the division of Cyprus into the Greek Cypriot south and the Turkish Cypriot north. While the Turkish Republic of Northern Cyprus (recognized only by Turkey) adopted the Turkish Lira, the Cypriot Pound remained the currency in the Republic of Cyprus. This division underscored the currency's role not only in economic transactions but also in the socio-political fabric of the island, serving as a symbol of national unity for the Greek Cypriots amid the geopolitical tensions.
+The Cypriot Pound was first introduced in 1960. This was when Cyprus became an independent country from the United Kingdom. Before that, Cyprus used the British Pound. When Cyprus got its independence, they wanted their own money, so they created the Cypriot Pound.
 
-Throughout its history, the Cypriot Pound was more than just a medium of exchange; it was a cultural artifact that reflected the island’s heritage and its people’s identity. The designs and motifs on the banknotes and coins served as a continuous reminder of Cyprus's rich and diverse history, even as the currency faced various transformations and ultimately transitioned to the Euro in 2008.
+The Cypriot Pound was used for buying things and paying for services in Cyprus. It was divided into 100 cents and had the symbol £C. At first, it was linked to the British Pound, but later it was allowed to change value based on the market. The Cypriot Pound was used until 2007, when Cyprus decided to switch to the Euro.
 
-## Economic and Cultural Impact of the CYP
+## What was the currency that the Cypriot Pound replaced?
 
-The Cypriot Pound (CYP) played a crucial role in Cyprus’s economic landscape throughout the late 20th century. Its influence was particularly notable in key economic sectors such as tourism and shipping. The burgeoning tourism industry, bolstered by Cyprus’s scenic landscapes and favorable climate, attracted a significant influx of foreign currency, which the CYP helped stabilize. Meanwhile, the maritime industry, rooted in ancient trade routes, relied on the stability of the Cypriot Pound to facilitate international trade and investment. Together, these sectors catalyzed economic growth, transforming Cyprus into a pivotal economic hub in the Mediterranean.
+The Cypriot Pound replaced the British Pound in Cyprus. Before 1960, Cyprus was under British control, so they used the British Pound for money. When Cyprus became independent in 1960, they decided to have their own money, which was called the Cypriot Pound.
 
-Beyond its economic functions, the CYP was a potent symbol of national pride and identity for Cypriots. After gaining independence in 1960, Cyprus sought to assert its cultural and political autonomy. The Cypriot Pound, adorned with national icons and imagery, became an emblem of this newfound independence, reflecting the island’s rich cultural heritage and aspirations.
+The Cypriot Pound was used in Cyprus until 2007. It was divided into 100 cents and had the symbol £C. People in Cyprus used it to buy things and pay for services. In 2008, Cyprus switched to the Euro, and the Cypriot Pound was no longer used.
 
-However, the currency was not without its challenges and complexities. Between 1960 and 2008, the Cypriot Pound underwent multiple adjustments, particularly concerning its exchange rate policies. Initially pegged to the British Pound, Cyprus moved to link the CYP to the United States Dollar, reflecting strategic economic alignments and international monetary trends. Such peg adjustments aimed to provide economic stability and ease foreign trade but also required careful monetary management to maintain balance between inflation control and export competitiveness.
+## How was the Cypriot Pound subdivided?
 
-The transition to the Euro in 2008 marked the end of the Cypriot Pound, as Cyprus joined the Eurozone, aligning its financial system more closely with European economies. This move aimed to foster greater economic stability and integration, providing advantages such as reduced transaction costs and enhanced investment flows due to the Euro’s widespread acceptance. However, it also presented challenges, including the loss of independent monetary policy and concerns among Cypriots about cultural and economic identity.
+The Cypriot Pound was divided into smaller parts called cents. There were 100 cents in one Cypriot Pound. This made it easier for people to use the money for buying things that cost less than a whole pound.
 
-Overall, while the Cypriot Pound was a lynchpin in Cyprus’s economic and cultural history, its replacement with the Euro reflected broader economic imperatives and aspirations for integration into the European economy.
+When people in Cyprus used the Cypriot Pound, they could use coins and banknotes. The coins were worth different amounts of cents, and the banknotes were worth different amounts of pounds. This way, they could pay exactly what they needed to, whether it was a small amount or a large one.
 
-## The Transition to the Euro
+## What were the common denominations of the Cypriot Pound?
 
-Cyprus's decision to adopt the Euro as its official currency was a significant economic milestone, linked closely with the nation's accession to the European Union (EU) in 2004. The switch to the Euro on January 1, 2008, marked the culmination of Cyprus's integration into the broader European economic framework and brought both advantages and challenges to the island nation.
+The Cypriot Pound had different coins and banknotes that people used every day. The coins were made of metal and came in values like 1 cent, 2 cents, 5 cents, 10 cents, 20 cents, and 50 cents. These smaller coins helped people pay for things that cost less than a whole pound. For example, if something cost 25 cents, you could use a 20-cent coin and a 5-cent coin to pay exactly.
 
-Upon joining the EU, Cyprus committed to fulfilling the Maastricht criteria to adopt the Euro. These criteria included maintaining low inflation rates, stable exchange rates, sound public finances, and low long-term interest rates — designed to ensure that participating countries operate within a stable economic environment. Cyprus's successful adherence to these requirements led to its acceptance into the Eurozone in 2008, replacing the Cypriot Pound (CYP) after more than half a century of monetary independence.
+The banknotes were made of paper and came in bigger values like 1 pound, 5 pounds, 10 pounds, 20 pounds, and 50 pounds. These were used for bigger purchases or when people needed to carry more money. For instance, if you were buying something that cost 15 pounds, you could use a 10-pound note and a 5-pound note. This way, people in Cyprus could easily use the Cypriot Pound for all their money needs until they switched to the Euro.
 
-The conversion to the Euro facilitated significant economic advantages for Cyprus. It eliminated currency exchange risks with major European trading partners and bolstered foreign investment by providing a more stable and predictable financial environment. As a result, transaction costs were reduced, and competitiveness in international markets improved. The reduction of interest rates aligned with the European Central Bank (ECB) standards also spurred domestic borrowing, increasing investment in infrastructure and stimulating economic growth.
+## What historical events significantly impacted the value of the Cypriot Pound?
 
-However, the transition was not without its challenges. One major concern was price convergence and inflation. Many Cypriots perceived that the adoption of the Euro led to an increase in the cost of living, as prices for goods and services appeared to round up to a higher value when converted from the Cypriot Pound. This perception was common among Eurozone countries during the initial stages of currency adoption and needed careful management and public explanation by national authorities.
+The value of the Cypriot Pound was affected by several big events in history. One important event was when Cyprus became independent from the United Kingdom in 1960. Before that, Cyprus used the British Pound, but after independence, they started using their own money, the Cypriot Pound. At first, the Cypriot Pound was tied to the British Pound, which meant its value was connected to the British Pound. This helped keep the Cypriot Pound stable right after independence.
 
-Opinions among the Cypriot population about the currency conversion were mixed. While businesses generally welcomed the efficiencies and trade facilitation benefits provided by the Euro, some individuals worried about the erosion of local economic autonomy and cultural identity. For many Cypriots, the Cypriot Pound had not only been a unit of currency but also a symbol of national sovereignty and identity. This emotional connection contributed to a sense of loss that accompanied the transition, despite the economic rationalizations presented.
+Later on, another big event that changed the value of the Cypriot Pound was when it started to float freely in the market in the 1970s. This meant that the Cypriot Pound's value could go up or down based on what people thought it was worth. This change made the Cypriot Pound's value more flexible but also more unpredictable. Finally, when Cyprus decided to join the European Union and switch to the Euro in 2008, the Cypriot Pound was no longer used. This was a big change because it meant the end of the Cypriot Pound and the start of using the Euro in Cyprus.
 
-From a macroeconomic perspective, the increased economic integration with the Eurozone was expected to stabilize Cyprus's financial situation and align it with stronger European economies. Yet some critics argue that the rigid structure of the Eurozone's monetary policy could limit Cyprus's ability to respond independently to localized economic crises.
+## When and why did Cyprus decide to join the European Exchange Rate Mechanism?
 
-In summary, Cyprus's transition to the Euro in 2008 represented a balance between economic pragmatism and national sentiment. While it provided clear economic benefits and helped integrate Cyprus more fully into Europe, it also posed challenges that required careful negotiation of public perception and economic management. The experience highlights the intricate dynamics involved in adopting a new currency, particularly one as politically and economically significant as the Euro.
+Cyprus decided to join the European Exchange Rate Mechanism (ERM II) in 2005. The main reason they wanted to join was to get ready to use the Euro. The ERM II is like a waiting room for countries that want to switch their money to the Euro. By joining, Cyprus could make sure their money, the Cypriot Pound, stayed stable compared to the Euro. This was important because it helped businesses and people know what their money was worth and plan better.
 
-## Algorithmic Trading and Historical Currencies
+Joining the ERM II was a big step for Cyprus to become part of the European Union's money system. It showed that Cyprus was serious about using the Euro and following the rules of the European Union. After joining the ERM II, Cyprus worked hard to meet all the requirements. Finally, in 2008, Cyprus officially switched from the Cypriot Pound to the Euro. This made it easier for Cyprus to trade with other countries in the European Union and helped their economy grow.
 
-Algorithmic trading, a modern approach relying on algorithms and computational power, revolutionizes how traders interact with financial markets. Its use extends beyond contemporary assets to include historical currencies like the Cypriot Pound. Analyzing historical currency data offers unique insights, facilitating the development of sophisticated trading strategies. Here's how historical currency data can be utilized in [algorithmic trading](/wiki/algorithmic-trading):
+## What was the exchange rate of the Cypriot Pound to the Euro before its adoption?
 
-1. **Data Utilization in Trading Strategies**: Historical currency data acts as a rich resource for predicting financial market trends. Traders use algorithms to analyze past pricing data, volatility patterns, and macroeconomic indicators associated with historical currencies. This analysis helps in identifying patterns and forecasting future movements of comparable assets. For instance, the Cypriot Pound's exchange rate fluctuations, economic ties, and geopolitical events provide data points that inform risk assessment and portfolio management.
+Before Cyprus switched to the Euro in 2008, the exchange rate between the Cypriot Pound and the Euro was set at 0.585274 Cypriot Pounds for 1 Euro. This rate was fixed when Cyprus joined the European Exchange Rate Mechanism (ERM II) in 2005. The fixed rate helped make sure that the value of the Cypriot Pound stayed stable compared to the Euro as Cyprus prepared to change its currency.
 
-2. **Examples of Trading Strategies**:
-   - **Mean Reversion Strategy**: This strategy assumes that currency prices revert to their historical mean over time. Analyzing historical prices of the Cypriot Pound could allow traders to set thresholds for buy/sell signals, hypothesizing that the current exchange rate will revert to its historical average.
-   - **Momentum Strategy**: By examining the sustained price trends in historical currencies like the Cypriot Pound, traders can implement momentum strategies, which involve buying assets that are trending upwards and selling those trending downwards.
-   - **Pair Trading**: This involves identifying and trading two historically correlated currencies or currency pairs. Historical data of the Cypriot Pound and its correlation with other currencies could guide the selection of such pairs for trading, based on past deviations being corrected over time.
+This fixed exchange rate was important because it helped businesses and people in Cyprus know exactly how much their money was worth in Euros. It made planning and trading easier. When Cyprus officially adopted the Euro on January 1, 2008, this rate was used to convert all Cypriot Pound amounts into Euros, ensuring a smooth transition to the new currency.
 
-3. **Integration of Historical Economic Shifts**: Understanding the economic shifts associated with the Cypriot Pound heightens a trader's perspective on modern financial systems. Historical events, such as Cyprus’s economic policies and political changes, can be encoded into algorithms as variables that affect market dynamics. For instance, data from the periods of monetary policy changes or geopolitical tensions can be used to simulate scenarios that might affect contemporary markets.
+## When did Cyprus adopt the Euro, and what was the process of transition from the Cypriot Pound?
 
-Python's robust libraries like `pandas` and `numpy` facilitate the manipulation of such historical data, aiding the creation of efficient trading algorithms. Here’s a simple Python example illustrating mean reversion using historical pricing data:
+Cyprus adopted the Euro on January 1, 2008. This was a big change because it meant switching from their old money, the Cypriot Pound, to the new money used by many countries in Europe. The decision to switch was made to help Cyprus be more connected with other countries in the European Union and to make trading easier. The exchange rate was set at 0.585274 Cypriot Pounds for 1 Euro. This rate was fixed when Cyprus joined the European Exchange Rate Mechanism (ERM II) in 2005 to make sure the value of the Cypriot Pound stayed stable compared to the Euro before the switch.
 
-```python
-import pandas as pd
+The transition process started with planning and preparation. Cyprus worked hard to meet all the rules set by the European Union for using the Euro. Banks and businesses got ready by changing their systems to use Euros instead of Cypriot Pounds. On the day of the switch, all prices, bank accounts, and debts were changed from Cypriot Pounds to Euros using the fixed exchange rate. This made the transition smooth for everyone in Cyprus. After January 1, 2008, the Cypriot Pound was no longer used, and the Euro became the official money of Cyprus.
 
-def mean_reversion_strategy(data, window_size, threshold):
-    data['moving_average'] = data['price'].rolling(window=window_size).mean()
-    data['diff'] = data['price'] - data['moving_average']
+## How did the adoption of the Euro affect the Cypriot economy?
 
-    # Buy/sell signals
-    data['signals'] = 0
-    data.loc[data['diff'] > threshold, 'signals'] = -1  # Sell signal
-    data.loc[data['diff'] < -threshold, 'signals'] = 1  # Buy signal
+When Cyprus switched to using the Euro in 2008, it helped the country's economy in some ways. It made it easier for Cyprus to trade with other countries that also use the Euro. This was good for businesses because they didn't have to worry about changing their money into different currencies. It also made prices more stable because the Euro is used by many countries, which can help keep inflation under control. Overall, using the Euro helped Cyprus feel more connected to the European Union and made it easier to do business with other countries in Europe.
 
-    return data
+However, there were also some challenges. The switch to the Euro meant that Cyprus could not control its own money anymore. This made it harder for Cyprus to make quick changes to help its economy if there were problems. For example, during the financial crisis in 2012-2013, Cyprus faced big economic problems and could not use its own money to help fix them. So, while the Euro brought some benefits, it also meant that Cyprus had less control over its economy and had to rely on the European Union's decisions.
 
-# Example usage
-historic_data = pd.read_csv('cypriot_pound_data.csv')  # Historical pricing data of Cypriot Pound
-window = 20  # Moving average window size
-threshold = 0.05  # Difference threshold for signals
-strategy_result = mean_reversion_strategy(historic_data, window, threshold)
-```
+## What are some collectible or notable Cypriot Pound banknotes and coins?
 
-The adaptation of these strategies to the historical currencies not only enhances the understanding of past financial climates but also provides a strategic edge in handling similar contemporary financial landscapes. Integrating historical data, like that of the Cypriot Pound, into algorithmic trading models, enriches the predictors of market behavior, offering a comprehensive toolkit for modern traders.
+Some of the most collectible Cypriot Pound banknotes are the ones with historical figures or important symbols on them. For example, the 1982 series of banknotes had pictures of famous Cypriots like Archbishop Makarios III on the 10-pound note. These notes are popular with collectors because they show important people from Cyprus's history. Another notable series is the 1997 issue, which had designs representing Cypriot culture and nature, like the Kyrenia ship on the 20-pound note. These notes are also sought after because they are some of the last ones before Cyprus switched to the Euro.
 
-## Conclusion
+As for coins, the 1991 series is very interesting to collectors because it had a lot of different designs. These coins showed things like the Cyprus mouflon, a type of wild sheep, on the 20-cent coin, and the Kyrenia Castle on the 50-cent coin. These designs helped show off Cyprus's unique animals and historical sites. Another collectible set is the 2004 commemorative coins that celebrated Cyprus joining the European Union. These coins are special because they marked an important moment in Cyprus's history and are not as common as regular coins.
 
-The Cypriot Pound, though no longer in active use, represents a pivotal chapter in Cyprus's economic and cultural narrative. Originating under British colonial rule and becoming the official currency in 1925, it symbolized not only the island's monetary policy but also a piece of its identity until 2008. The pound facilitated the growth of critical sectors such as tourism and shipping and reflected the island’s cultural and political changes, especially noticeable during the nation's separation in 1983. The transition to the Euro marked the end of the CYP, injecting Cyprus's economy into a broader European framework while showcasing both the challenges of adaptation and the promise of integration.
+## What are the current values of discontinued Cypriot Pound notes and coins in the collector's market?
 
-Historical currency analysis remains important to modern finance, particularly in the development of trading strategies like algorithmic trading. The study of former currencies, such as the Cypriot Pound, provides datasets that can be crucial for enhancing predictive trading models. Historical data allows traders and analysts to backtest strategies under various economic scenarios and currency dynamics. For instance, using Python libraries such as `pandas` and `numpy`, one can effectively analyze and simulate the performance of historical exchange rates. Through these methods, understanding the impact of economic, political, and social changes on a currency becomes accessible.
+The value of discontinued Cypriot Pound notes and coins in the collector's market can vary a lot. It depends on how rare the note or coin is, how good its condition is, and how much people want it. For example, a 1982 10-pound note with Archbishop Makarios III on it might be worth more than a regular note from the same year because it shows an important person. If the note is in really good condition, without any tears or marks, it could be worth even more. On average, these notes might sell for around 20 to 50 Euros each, but some special ones could go for much higher prices, sometimes over 100 Euros.
 
-Further exploration into historical currencies enriches our comprehension of current financial systems. It offers insights into the forces that shape monetary policies, influence economic stability, and affect currency effectiveness. Historical knowledge acts as a bridge, connecting past financial landscapes to contemporary strategies, thereby contributing to more nuanced and informed financial decision-making processes. As we further our grasp on historical currencies, we uncover patterns and insights pivotal not only to academic understanding but also to practical advancements in financial markets.
-
-## References
-
-1. **Central Bank of Cyprus Publications**:   
-Various publications by the Central Bank of Cyprus provide comprehensive historical records and analysis of the Cypriot Pound, its management, and transition to the Euro. These documents are crucial for understanding the monetary policies and economic decisions impacting Cyprus during the currency's tenure.
-
-2. **"A History of Cyprus" by George Hill**:  
-This multi-[volume](/wiki/volume-trading-strategy) work offers an in-depth historical exploration of Cyprus, including its economic aspects. It provides context on the introduction of the Cypriot Pound and its use under British colonial rule and post-independence.
-
-3. **Academic Journals on Cyprus's Economic History**:  
-Numerous academic articles discuss the economic development of Cyprus. For instance, the economic impacts of changes in Cyprus's currency regime and its integration into the European Union monetary system are well-documented in journals like the "Journal of Economic History".
-
-4. **"The Euro and Economic Stability in Cyprus" by Michael Sarris**:  
-Michael Sarris discusses the economic implications of Cyprus transitioning from the Cypriot Pound to the Euro. His work assesses the financial and political factors influencing this significant change in Cyprus's monetary policy.
-
-5. **Algorithmic Trading Literature**:  
-For insights into algorithmic trading, "Algorithmic Trading: Winning Strategies and Their Rationale" by Ernest P. Chan is a widely respected resource. It explores how historical currency data can inform modern trading algorithms, providing perspectives valuable to those interested in the intersection of historical economic data and contemporary trading.
-
-6. **Financial Times and Reuters Archive**:  
-These archives offer a chronological account of news reports and expert analyses concerning Cyprus's currency matters, including the economic effects of the Cypriot Pound and its eventual replacement by the Euro.
-
-7. **Cyprus Statistical Service**:  
-The Cyprus Statistical Service provides historical economic data, offering vital statistical insights into Cyprus's economy during the era of the Cypriot Pound. This data is instrumental for researchers and practitioners developing algorithmic models based on historical trends and shifts.
-
-8. **Historical Currency Records**:  
-Several resources detail the design, issuance, and circulation history of the Cypriot Pound banknotes and coins. These records are available through institutions like numismatic societies and digital archives, which preserve the numismatic heritage of Cyprus.
-
-9. **"Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies" by Barry Johnson**:  
-A crucial resource for understanding algorithmic trading, especially in the context of implementing strategies based on historical financial data such as that associated with the Cypriot Pound.
-
-These references constitute a foundational base for understanding the multifaceted history of the Cypriot Pound, its economic significance, and the possibilities of its data for algorithmic trading. They offer avenues for extended study and a deeper appreciation of Cyprus's monetary history and modern financial strategies.
+Coins can also be valuable to collectors, especially if they are from special sets or have unique designs. The 1991 series with designs like the Cyprus mouflon or Kyrenia Castle can be worth a few Euros each, maybe around 2 to 10 Euros depending on their condition. The 2004 commemorative coins for Cyprus joining the European Union are also popular. These might be worth a bit more, often selling for 5 to 20 Euros each. Just like with notes, the rarer and better condition the coin is in, the more valuable it will be to collectors.
 
 ## References & Further Reading
 

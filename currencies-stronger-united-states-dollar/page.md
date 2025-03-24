@@ -3,146 +3,84 @@ title: "Currencies Stronger Than the United States Dollar"
 description: "Explore the currencies stronger than the U.S. dollar, uncovering economic and geopolitical factors driving their strength while examining algorithmic trading impacts."
 ---
 
-Currency strength is a critical facet that shapes the dynamics of global markets, influencing the economic fortitude and international standing of nations. A strong currency generally indicates a robust economy with healthier trade balances, attracting foreign investment. In the landscape of currencies, the U.S. dollar stands as a preeminent benchmark symbolizing reliability and strength. It is used as the world's primary reserve currency and is instrumental in the majority of international transactions, including those involving the International Monetary Fund (IMF) and global oil markets.
-
-Exchange rates, representing the value of one currency in terms of another, are pivotal in international trade and finance. They determine the cost of goods and services across borders, impacting import-export balances and the flow of capital. Fluctuating exchange rates can affect economic predictions and profitability, making their accurate assessment crucial for businesses and governments alike.
 
 ![Image](images/1.jpeg)
 
-Advanced technologies like algorithmic trading have become indispensable in modern currency exchanges. Algorithmic trading harnesses the power of computer algorithms to execute trades based on pre-defined criteria, enabling rapid and efficient processing of vast amounts of data. This technological innovation facilitates better risk management and optimizes trading outcomes by minimizing human error and emotional bias.
-
-This article aims to explore the currencies that possess greater strength than the U.S. dollar, examining the economic and geopolitical factors that contribute to their value superiority. Additionally, it will address the transformative role of algorithmic trading in altering traditional currency trading paradigms. The discussions will span the definition and implications of currency strength, factors influencing it, an analysis of superior currencies, and insights into algorithmic trading's impact on currency exchange. Furthermore, potential challenges and future trends within these spheres will be critically assessed to provide a comprehensive understanding of this evolving financial landscape.
-
 ## Table of Contents
 
-## Understanding Currency Strength
+## What is a currency and how is its strength measured?
 
-Currency strength refers to the value of a nation's currency in comparison to other currencies and is a critical indicator of economic health. A strong currency implies that the currency can be exchanged for a relatively high amount of foreign currency, enhancing the purchasing power of domestic consumers and businesses engaging in international trade. It represents not just the nominal exchange rate but also the intrinsic economic capabilities of a country, affecting its competitiveness on a global scale.
+A currency is a type of money that is used in a specific country or group of countries. It can be in the form of coins, paper notes, or even digital money. Each country usually has its own currency, like the US dollar in the United States or the Euro in many European countries. People use currency to buy things, pay for services, and save money.
 
-Several factors influence currency strength. Primarily, interest rates play a critical role. Higher interest rates offer lenders a better return relative to other economies, attracting foreign capital and causing the currency to appreciate. Economic stability is equally pivotal; economies that demonstrate consistent growth, low inflation, and political stability tend to have stronger currencies. Additionally, trade balances can impact currency strength. A trade surplus, where exports exceed imports, can create demand for a nation's currency and strengthen it, whereas a trade deficit may exert downward pressure.
+The strength of a currency is measured by comparing it to other currencies. This comparison is called the exchange rate. If one US dollar can buy more of another currency, like the Japanese yen, then the US dollar is considered strong compared to the yen. A strong currency means that goods and services from that country might be more expensive for people from other countries. On the other hand, a weak currency can make a country's exports cheaper and more attractive to foreign buyers. Factors like a country's economy, interest rates, and political stability can affect how strong or weak its currency is.
 
-The effects of a strong currency manifest prominently in a country's balance of trade. A robust currency makes imports cheaper, benefiting consumers and businesses needing foreign goods and services. However, it can make exports more expensive and less competitive in global markets, potentially leading to a trade imbalance. Such dynamics necessitate careful economic management to maintain favorable growth and stability.
+## Which currencies are generally considered stronger than the US dollar?
 
-Globally, several currencies are commonly perceived as strong. The Swiss Franc (CHF), for example, is noted for its stability and security, often considered a safe haven by investors. The Kuwaiti Dinar (KWD) frequently emerges as the highest-valued currency unit against the U.S. dollar, largely due to the country's substantial oil wealth and prudent fiscal management. Other currencies, such as the Bahraini Dinar (BHD) and Omani Rial (OMR), also maintain high valuations, supported by strong financial sectors and economic policies.
+Some currencies are often seen as stronger than the US dollar. One of these is the Swiss Franc. Switzerland is known for its strong economy and stable government, which makes its currency valuable. Another strong currency is the Euro, used by many countries in Europe. The Euro can be stronger than the US dollar because the European economy is very big and important in the world.
 
-Understanding these dynamics is essential for policymakers, investors, and businesses as currency strength affects everything from domestic consumption to international market strategies.
+Another currency that can be stronger than the US dollar is the British Pound. The UK has a strong economy and a long history of being an important trading nation, which helps make its currency strong. However, the strength of these currencies can change over time. Things like economic news, political events, and global trade can all affect how strong a currency is compared to the US dollar.
 
-## Currencies Stronger than the U.S. Dollar
+## What factors contribute to a currency being stronger than the US dollar?
 
-Purchasing Power Parity (PPP) is a fundamental economic concept that serves as a tool for comparing the relative strength of currencies based on their ability to purchase a common basket of goods. By using PPP, economists and financial analysts can assess if a currency is overvalued or undervalued compared to another, particularly using the U.S. dollar as a base reference. In its simplest form, the PPP theory posits that in the absence of transaction costs and other barriers, identical goods should have the same price across different countries when expressed in a common currency. 
+A currency can be stronger than the US dollar because of a country's strong economy. When a country's economy is doing well, people trust its money more. This trust makes the currency more valuable. For example, if a country has a lot of successful businesses and low unemployment, its currency might be seen as strong. Also, if a country has good trade relationships with other countries, this can make its currency stronger. People want to buy things from that country, so they need its currency, which increases its value.
 
-Several currencies currently exhibit greater strength compared to the U.S. dollar based on exchange rate data. Notably, the Kuwaiti Dinar (KWD) and the Bahraini Dinar (BHD) are recognized for their high value. As of recent data, the Kuwaiti Dinar stands as the strongest currency in the world relative to the U.S. dollar. For example, 1 KWD has been equivalent to approximately 3.30 USD. Similarly, the Bahraini Dinar is another currency that surpasses the U.S. dollar, with exchange rates often nearly 1 BHD to 2.65 USD.
+Another important factor is the country's political stability. If people think a country's government is stable and makes good decisions, they will trust its currency more. This trust can make the currency stronger than the US dollar. Interest rates also play a role. If a country's interest rates are high, people might want to invest their money there. This demand for the currency can make it stronger. All these things together can make a currency stronger than the US dollar, but they can change over time.
 
-Economic factors largely explain the robustness of these currencies. The Kuwaiti economy benefits from substantial oil reserves and an associated sovereign wealth fund that helps stabilize its currency. High oil prices contribute to favorable balance of trade conditions, reinforcing the Dinar's value. The Bahraini economy, while smaller, benefits from oil as a key economic driver and maintains a pegged exchange rate regime that stabilizes the BHD against the USD.
+## How does the exchange rate between these currencies and the US dollar fluctuate?
 
-Geopolitical stability also plays a crucial role in maintaining strong currency values. Both Kuwait and Bahrain have relatively stable political climates and government policies that support economic growth, further underpinning the strength of their currencies. Additionally, foreign exchange reserves and fiscal policies implemented by these governments contribute to maintaining the currencies' high values.
+The exchange rate between currencies like the Swiss Franc, the Euro, and the British Pound and the US dollar changes all the time. This happens because many different things can affect how much one currency is worth compared to another. For example, if the economy of the United States is doing really well, the US dollar might become stronger compared to other currencies. On the other hand, if the US economy is not doing so well, the dollar might get weaker. Also, big news events like elections or economic reports can make the exchange rate go up or down quickly.
 
-When comparing these currencies to the U.S. dollar, the historical exchange rate trends highlight periods of stability and fluctuations influenced by global economic conditions, oil prices, and domestic economic policies. While the U.S. dollar is considered a dominant global currency, its valuation is also subject to domestic economic performance, including inflation rates, interest rates, and the overall economic outlook.
+Another reason exchange rates change is because of what people think might happen in the future. If people think that a country's economy will do better in the future, they might start buying its currency now, which makes it stronger. For example, if people think the Eurozone's economy will improve, they might buy more Euros, making the Euro stronger against the US dollar. Interest rates also play a big role. If a country raises its interest rates, people might want to invest their money there, which can make its currency stronger compared to the US dollar. All these factors together cause the exchange rates to go up and down every day.
 
-In terms of historical context, the strength of the U.S. dollar has seen various phases against these currencies, affected by macroeconomic factors such as investment flows, trade balances, and geopolitical tensions. Understanding these fundamentals allows for a comprehensive view of why certain currencies maintain higher values than the U.S. dollar and how this impacts international trade and financial markets.
+## What are the economic implications for countries whose currencies are stronger than the US dollar?
 
-## The Role of Algorithmic Trading in Currency Exchange
+When a country's currency is stronger than the US dollar, it can make things more expensive for people from other countries who want to buy things from that country. For example, if the Swiss Franc is strong, a watch made in Switzerland might cost more for someone in the US. This can make it harder for the country to sell things to other countries because their products become more expensive. On the other hand, it can be good for people in that country because they can buy things from other countries more cheaply. If the Swiss Franc is strong, Swiss people can buy more with their money when they travel to the US or buy things from there.
 
-Algorithmic trading, often referred to as "algo trading," represents the use of complex algorithms to automate trading decisions in financial markets, including foreign exchange (Forex) markets. At its core, [algorithmic trading](/wiki/algorithmic-trading) involves the use of pre-programmed trading instructions that account for various factors such as timing, price, and order quantity. This method leverages mathematical models and computational algorithms to execute trades faster and more efficiently than human traders.
+A strong currency can also affect the country's economy in other ways. For example, if the currency is too strong, it might make it hard for the country to sell things to other countries, which can lead to fewer jobs in industries that rely on exports. But a strong currency can also make the country look good to investors. If people think the country's economy is strong and stable, they might want to invest their money there. This can bring more money into the country and help its economy grow. So, having a currency stronger than the US dollar can have both good and bad effects on a country's economy.
 
-**Algorithms and Data Analysis**
+## How do central banks influence the strength of their currencies relative to the US dollar?
 
-Trading algorithms are designed to process vast amounts of market data to identify patterns and trading opportunities. These algorithms utilize a variety of data inputs including historical price data, real-time market information, economic indicators, and even news sentiment. Through advanced computational techniques, such as [machine learning](/wiki/machine-learning), algorithms can identify correlations and predict potential market movements. The ability of algorithms to analyze extensive datasets at high speed allows traders to make informed trading decisions rapidly, often within fractions of a second.
+Central banks can influence how strong their currency is compared to the US dollar by changing interest rates. If a central bank raises interest rates, it can make its currency stronger. This happens because higher interest rates can attract more investors who want to earn more on their money. When more people want to buy the currency, its value goes up compared to the US dollar. On the other hand, if the central bank lowers interest rates, it might make the currency weaker because investors might move their money to places with higher interest rates.
 
-For example, a simple moving average crossover strategy might be implemented as follows in Python:
+Central banks can also use other tools to affect their currency's strength. They can buy or sell their own currency in the foreign exchange market. If a central bank wants to make its currency weaker, it can sell a lot of it. This makes more of the currency available, which can lower its value compared to the US dollar. If the central bank wants to make its currency stronger, it can buy it back, which reduces the amount available and can increase its value. These actions help central banks manage their currency's strength and keep their economy stable.
 
-```python
-import pandas as pd
+## What historical events have led to certain currencies becoming stronger than the US dollar?
 
-# Load market data
-data = pd.read_csv('market_data.csv')
-short_window = 40
-long_window = 100
+Over the years, different events have made some currencies stronger than the US dollar. One big event was the introduction of the Euro in 1999. Before the Euro, many European countries had their own currencies. When they started using the Euro, it became a very important currency because it was used by so many countries. The Euro became strong because the European economy was big and important. Also, the European Central Bank worked to keep the Euro stable, which made people trust it more.
 
-# Calculate moving averages
-data['Short_Mavg'] = data['Close'].rolling(window=short_window, min_periods=1).mean()
-data['Long_Mavg'] = data['Close'].rolling(window=long_window, min_periods=1).mean()
+Another event that affected currency strength was the global financial crisis in 2008. During this time, many people lost trust in the US economy because of problems with banks and housing. This made the US dollar weaker compared to other currencies. The Swiss Franc, for example, became much stronger during this time. Switzerland's economy was seen as very stable, and people wanted to keep their money safe there. So, they bought a lot of Swiss Francs, which made it stronger than the US dollar.
 
-# Generate trading signals
-data['Signal'] = 0
-data['Signal'][short_window:] = np.where(data['Short_Mavg'][short_window:] > data['Long_Mavg'][short_window:], 1, 0)
-data['Position'] = data['Signal'].diff()
+In more recent years, political events like Brexit have also influenced currency strength. When the UK voted to leave the European Union in 2016, it caused a lot of uncertainty about the British economy. This uncertainty made the British Pound weaker compared to the US dollar for a while. However, the Pound has since regained some strength as the UK has worked to stabilize its economy and trade relationships. These events show how big changes in the world can affect how strong or weak a currency is compared to the US dollar.
 
-# Output the resultant trading positions
-print(data[['Date', 'Position']].dropna())
-```
+## How do global trade dynamics affect the strength of currencies relative to the US dollar?
 
-**Benefits of Algorithmic Trading**
+Global trade dynamics can make a currency stronger or weaker compared to the US dollar. When a country exports a lot of things to other countries, it means that people from other countries need to buy its currency to pay for those things. If a country like Germany exports a lot of cars, people from other countries need Euros to buy them. This demand for Euros can make the Euro stronger compared to the US dollar. On the other hand, if a country imports more than it exports, it might need to buy a lot of other currencies, which can make its own currency weaker.
 
-The main advantage of algorithmic trading is its ability to manage exchange rate risks and optimize currency trades. By using algorithms, traders can execute trades at the best possible prices with reduced transaction costs. The automation reduces the likelihood of human error and bias, thereby increasing trading efficiency and reliability. Additionally, algo trading can manage multiple markets and portfolios simultaneously, allowing for a more diversified trading strategy.
+Another way global trade affects currency strength is through trade agreements and economic policies. For example, if countries agree to lower tariffs on each other's goods, it can increase trade between them. This can make the currencies of the countries involved stronger because more trade means more demand for their currencies. Also, if a country has a trade surplus, meaning it exports more than it imports, its currency can become stronger. But if a country has a trade deficit, meaning it imports more than it exports, its currency might become weaker compared to the US dollar.
 
-Algorithmic trading is particularly effective in managing exchange rate risks because it can automatically adjust trading conditions based on market [volatility](/wiki/volatility-trading-strategies), thus protecting against potential losses. Furthermore, the strategies can be backtested on historical data to validate their performance and optimize parameters for future trades.
+## What are the investment opportunities and risks associated with currencies stronger than the US dollar?
 
-**Successful Implementations**
+Investing in currencies that are stronger than the US dollar can offer some good opportunities. If you think a currency like the Swiss Franc or the Euro will keep getting stronger, you might want to buy it. If it does get stronger, you can sell it later for more US dollars than you paid. This can make you money. Also, if you want to invest in a country with a strong currency, it might be a good sign that the country's economy is doing well. This can make you feel more confident about your investment.
 
-There are numerous examples of successful implementation of algorithmic trading in the Forex markets. One notable instance is the use by high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) firms, which rely extensively on algorithmic trading strategies to capitalize on small price discrepancies. HFT firms typically engage in large numbers of trades with very short holding periods, and their success is largely due to the efficiency and speed provided by advanced algorithms.
+But there are also risks when you invest in stronger currencies. If the currency gets weaker instead of stronger, you could lose money. For example, if you buy Euros and then the Euro gets weaker compared to the US dollar, you will get fewer dollars back when you sell your Euros. Also, things like political changes or big economic news can make a currency go up or down a lot very quickly. This can be risky if you are not ready for it. So, while there are opportunities, you need to be careful and think about the risks too.
 
-Another example is the application of algorithmic trading in currency hedging by multinational corporations. These companies use sophisticated algorithms to manage their foreign exchange exposures, helping to stabilize costs and revenues affected by fluctuating exchange rates.
+## How do geopolitical factors impact the relative strength of currencies against the US dollar?
 
-To summarize, algorithmic trading provides a powerful tool for navigating the complexities of currency exchange. By leveraging data-driven insights and automation, traders can enhance their decision-making processes, mitigate risk, and improve trading outcomes in highly dynamic markets like Forex.
+Geopolitical factors can make a big difference in how strong a currency is compared to the US dollar. If a country is having problems with other countries or facing political instability, people might lose trust in its currency. For example, if there is a war or a big political change, people might think the country's economy will do badly. This can make its currency weaker compared to the US dollar. Also, if countries put trade restrictions or sanctions on each other, it can affect their currencies. If a country can't trade as much because of these restrictions, its currency might get weaker.
 
-## Challenges and Considerations in Currency Exchange and Algo Trading
+On the other hand, good geopolitical relations can make a currency stronger. If countries work well together and have strong trade agreements, it can make their currencies more valuable. For example, if two countries sign a big trade deal, it can make their currencies stronger because more trade means more demand for their money. Also, if a country is seen as a safe place to invest because it has good relationships with other countries, people might want to buy its currency. This can make it stronger compared to the US dollar.
 
-Algorithmic trading, which involves using computer algorithms to execute and manage trading decisions rapidly, has become increasingly dominant in the currency exchange market. However, this technological advancement presents several challenges and considerations that traders and financial institutions must navigate.
+## What advanced economic indicators should be monitored to predict changes in currency strength against the US dollar?
 
-One primary concern is the inherent risk of market volatility associated with algorithmic trading. As algorithms are designed to execute trades based on pre-set criteria, they can potentially exacerbate market swings, especially during periods of low [liquidity](/wiki/liquidity-risk-premium) or unexpected news events. This amplification of volatility can lead to flash crashes—a sudden and severe drop in market prices followed by a swift recovery—posing significant risks to traders relying on automated systems[^1^].
+To predict changes in a currency's strength against the US dollar, it's important to keep an eye on several key economic indicators. One important indicator is the Gross Domestic Product (GDP) growth rate. If a country's GDP is growing faster than the US, its currency might get stronger. Another useful indicator is the inflation rate. If a country's inflation is lower than in the US, its currency might become stronger because its money can buy more. Interest rates are also crucial. If a country raises its interest rates compared to the US, investors might move their money there, making its currency stronger.
 
-Regulatory considerations are also vital when engaging in algorithmic trading. Financial authorities around the world have implemented stringent regulations to mitigate systemic risks associated with high-frequency trading and ensure a stable financial system. Compliance with these rules is critical, as non-compliance can result in substantial fines and sanctions. Regulations often focus on transparency, requiring traders to maintain detailed logs of trading activities and risk controls to prevent market manipulation[^2^].
+Other indicators to watch include the balance of trade and employment data. A country with a trade surplus, meaning it exports more than it imports, might see its currency strengthen. On the other hand, a trade deficit can weaken a currency. Employment data, like the unemployment rate, can also affect currency strength. If a country's unemployment rate is going down, it might mean the economy is doing well, which can make its currency stronger. Keeping an eye on these indicators can help predict how a currency might move against the US dollar.
 
-The global currency market is inherently complex, with fluctuating exchange rates influenced by myriad factors, including economic data releases, geopolitical events, and changes in monetary policy. Managing these fluctuations is challenging, as algorithms must be continuously refined to reflect up-to-date market conditions. Accurate prediction of rate movements requires sophisticated models that can process large volumes of real-time data and [factor](/wiki/factor-investing) in a wide array of variables.
+## How do sophisticated financial instruments like derivatives affect the strength of currencies relative to the US dollar?
 
-Furthermore, the reliability and transparency of automated trading systems are crucial for maintaining trust in algorithmic trading. System malfunctions or errors in algorithm design can lead to significant financial losses. Hence, rigorous testing and validation of algorithms before deployment are essential to ensure their robustness. Additionally, providing transparency in how these algorithms operate aids in building confidence among traders and investors[^3^].
+Sophisticated financial instruments like derivatives can have a big impact on how strong a currency is compared to the US dollar. Derivatives are financial contracts whose value depends on something else, like the exchange rate between two currencies. When people use derivatives to bet on whether a currency will get stronger or weaker, it can affect its value. For example, if a lot of people use derivatives to bet that the Euro will get stronger against the US dollar, this can increase demand for Euros and make it stronger. On the other hand, if many people bet that the Euro will get weaker, it can put downward pressure on its value.
 
-In conclusion, while algorithmic trading offers efficiency and speed in currency exchange, it requires careful consideration of associated risks, regulatory compliance, fluctuating currency dynamics, and the reliability of trading systems. Maintaining a balance between leveraging technological advancements and adhering to regulatory and ethical standards is imperative for the sustainable development of the [forex](/wiki/forex-system) market.
-
-[^1^]: European Central Bank, "Algorithmic Trading and Market Dynamics"
-[^2^]: Financial Conduct Authority, "High Frequency Trading and Regulatory Challenges"
-[^3^]: Markets Committee, BIS, "Monitoring of Fast-Paced Automated Trading"
-
-## Future Trends and Implications
-
-Emerging trends in the global currency market suggest a shift towards increased reliance on technological advancements to streamline and augment currency exchange strategies. As [artificial intelligence](/wiki/ai-artificial-intelligence) and machine learning continue to evolve, they are playing pivotal roles in enhancing the efficiency and accuracy of currency trading. These technologies enable market participants to analyze historical data and real-time information, offering insights that were previously impossible to acquire manually. Moreover, blockchain technology is introducing new levels of transparency and security in currency transactions, potentially reshaping the landscape for both institutional and retail investors.
-
-Algorithmic trading is another crucial aspect that stands at the forefront of future developments influencing currency strength. Algorithms, crafted with complex mathematical models, can process massive datasets within milliseconds, enabling traders to capitalize on minute changes in currency values. For example, consider a Python script utilizing historical forex data to predict currency trends.
-
-```python
-import pandas as pd
-from sklearn.ensemble import RandomForestRegressor
-
-# Load historical currency data
-data = pd.read_csv('forex_data.csv')
-X = data[['feature1', 'feature2', 'feature3']]
-y = data['exchange_rate']
-
-# Initialize and train the model
-model = RandomForestRegressor()
-model.fit(X, y)
-
-# Predict future currency strength
-predictions = model.predict(X[-30:])
-print(predictions)
-```
-
-Such technological advancements facilitate sophisticated strategies, such as high-frequency trading, which can significantly impact currency strength by influencing supply and demand dynamics through rapid transactions. 
-
-The implications of these trends are profound for businesses and individual investors worldwide. Companies engaging in international trade can leverage these technologies to mitigate risks associated with currency fluctuations, leading to more stable financial outcomes. Similarly, individual investors stand to benefit from more accessible and equitable trading platforms driven by automated systems that offer competitive exchange rates and lower transaction costs.
-
-Furthermore, as currency markets continue to integrate these technologies, regulatory frameworks will likely evolve to address challenges such as market manipulation and ethical considerations in automated trading systems. Businesses and investors must stay informed about these regulatory changes to ensure compliance and capitalize on emerging opportunities.
-
-Overall, the convergence of technological advancements in currency exchange is set to fundamentally alter how market participants approach trading, with widespread implications for economic stability and growth.
-
-## Conclusion
-
-Throughout this article, we have explored the dynamics of currency strength, illustrated through the lens of global finance, and highlighted the influence of algorithmic trading in transforming currency exchange strategies. Recognizing strong currencies like the Kuwaiti Dinar and their impact on international trade underscores the critical role they play in global financial stability and economic strategies.
-
-A strong currency often signals a robust economy, aiding in favorable import-export balances and influencing world economic hierarchies. Meanwhile, algorithmic trading has emerged as a transformative force within currency markets. By leveraging sophisticated algorithms capable of analyzing vast datasets, traders can make informed, rapid, and efficient decisions. This technological advancement mitigates risks associated with exchange rate volatility and enhances trading accuracy, positioning algorithmic strategies as indispensable tools in modern finance.
-
-As global currency markets continue to evolve, staying informed is paramount. Emerging trends, driven by technological advancements and geopolitical shifts, will further shape forex strategies, presenting new opportunities and challenges. Encouraging active engagement with these ongoing changes equips businesses and investors to navigate and potentially capitalize on future market developments. Thus, knowledge remains the cornerstone in adapting to the dynamic and intricate world of forex trading.
+These instruments can also create a lot of movement in currency values. Because derivatives can be used to make big bets with relatively little money, they can lead to quick changes in currency strength. If there is a sudden event that makes people change their bets, like a big economic report or a political change, it can cause the currency to go up or down a lot very quickly. This can make it harder to predict how strong a currency will be compared to the US dollar, but it also means that people who understand derivatives well can use them to make money from these changes.
 
 ## References & Further Reading
 
