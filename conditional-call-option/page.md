@@ -3,159 +3,84 @@ title: "Conditional Call Option"
 description: "Explore the benefits of conditional call options in algo trading for enhanced risk management and precision. Learn how these strategies optimize trading outcomes."
 ---
 
-Financial derivatives are essential instruments in modern financial markets, providing a versatile array of tools for risk management, speculation, and income generation. Among these instruments, conditional call options stand out for their unique provisions within the bonds market. These options offer substantial benefits to bondholders by incorporating clauses that protect against early redemption risks, thereby maintaining investment security in volatile interest rate environments.
 
-The integration of conditional call options with advanced trading strategies and algorithmic trading (algo trading) amplifies their effectiveness, allowing investors to navigate complex market conditions with enhanced precision. Algorithmic trading, through its automated systems and sophisticated algorithms, facilitates swift and accurate trading decisions, reducing human error and optimizing transaction execution. By employing these systems in the context of option trading, investors can exploit market inefficiencies and devise strategies that are robust to changes in market dynamics.
-
-![Image](images/1.jpeg)
-
-This article examines the multifaceted nature of financial derivatives, emphasizing the significance of conditional call options and their interplay with option trading and algorithmic strategies. By understanding these financial instruments and strategies, sophisticated investors can unlock new potential for optimized trading outcomes, achieving better risk-adjusted returns. The insights provided aim to equip investors with the knowledge to leverage these tools effectively, adapting to the evolving landscape of financial markets.
+![Image](images/1.webp)
 
 ## Table of Contents
 
-## Understanding Financial Derivatives
+## What is a conditional call option?
 
-Derivatives are financial instruments that derive their value from an underlying asset, which can include stocks, bonds, commodities, currencies, interest rates, or market indexes. These sophisticated contracts play a versatile role in financial markets, fulfilling a range of purposes such as hedging, speculation, and price discovery.
+A conditional call option is a type of financial agreement where the buyer gets the right, but not the obligation, to buy an asset at a set price, but only if certain conditions are met. These conditions can be things like the stock price reaching a certain level or an event happening. It's like a regular call option, but with an extra rule that must be satisfied before it can be used.
 
-Common derivatives include futures, options, and swaps. Futures contracts obligate the buyer to purchase, or the seller to sell, an asset at a predetermined future date and price. Options, on the other hand, provide the holder the right, but not the obligation, to buy or sell an underlying asset at a specified strike price before the contract expires. Swaps are agreements between two parties to exchange sequences of cash flows for a set period, often used to hedge against fluctuations in interest rates or commodity prices.
+This kind of option can be useful for investors who want to make a bet on an asset but only if specific things happen first. For example, someone might buy a conditional call option on a company's stock that activates only if the company wins a big contract. This way, the investor can potentially profit from the stock's rise without having to buy it right away, and only if the condition is met.
 
-Derivatives enable investors to hedge against adverse price movements in an asset, effectively acting as insurance. For instance, a farmer might use futures contracts to lock in the sale price of their crops, protecting against the risk of a price drop. They also serve as a vehicle for leveraging, allowing investors to control large positions with a fraction of the necessary capital investment. This characteristic can amplify both potential gains and potential losses, necessitating careful management.
+## How does a conditional call option differ from a standard call option?
 
-Price discovery is another vital function, as derivatives markets reflect and forecast future price expectations. They also provide access to otherwise unavailable assets or markets, which can be particularly useful for global investors seeking to diversify portfolios across borders.
+A conditional call option and a standard call option both give the buyer the right to buy an asset at a set price, but they work a bit differently. With a standard call option, you can buy the asset anytime before the option expires, as long as you pay the set price. It's like having a ticket that lets you buy something whenever you want, as long as you use it before it expires.
 
-The inherent high leverage associated with derivatives makes them potent financial instruments. For example, through options, an investor can control a significant amount of the underlying asset with a relatively small premium. This leverage can increase both the potential for profit and the risk of loss, requiring prudent analysis and risk management strategies.
+A conditional call option adds an extra rule. You can only use it to buy the asset if a specific condition happens. For example, the option might only work if the stock price hits a certain number or if a company announces good news. So, it's like a ticket that you can only use if something special happens first. This makes it more specific and can be useful if you want to bet on something happening before you buy.
 
-To mitigate risks due to leverage and market [volatility](/wiki/volatility-trading-strategies), investors rely on thorough analysis. Mathematical models, such as the Black-Scholes model for option pricing, and computational methods play critical roles in this process. These models help in understanding how different variables affect derivative pricing and enable traders to make informed decisions.
+## What are the common conditions attached to a conditional call option?
 
-Risk management techniques, including stress testing and scenario analysis, are essential in exploring how different market conditions could impact a derivative portfolio. These tools are crucial for safeguarding against potential downsides and ensuring that the underlying assumptions remain valid under various market scenarios.
+Common conditions attached to a conditional call option usually involve specific events or price levels that need to happen before the option can be used. For example, a condition might be that a stock price must reach or go above a certain level, like $50 per share. Another common condition could be a company announcing a big event, like winning a major contract or getting approval for a new product. These conditions make the option more focused and can help investors make bets on specific outcomes.
 
-Overall, financial derivatives are integral to modern finance, offering both opportunities and challenges. A deep understanding of their mechanisms and careful risk management can unlock their potential while managing the associated risks effectively.
+Sometimes, the conditions can be based on broader market events, like an index hitting a certain point or an economic report coming out with certain numbers. For instance, an option might only activate if the S&P 500 goes above 4,000 points. These types of conditions can be useful for investors who want to take advantage of big market moves or economic trends. Overall, the conditions attached to a conditional call option help tailor the investment to specific situations, making it a strategic tool for certain kinds of investors.
 
-## Conditional Call Options: An Overview
+## Can you explain the mechanics of exercising a conditional call option?
 
-A conditional call option is a specific provision attached to callable bonds designed to protect bondholders from the potential adverse effects of early call actions by bond issuers. This provision requires issuers to provide a replacement bond of comparable maturity and yield if they choose to call the original bond. The replacement bond is typically non-callable, ensuring bondholders a continued investment opportunity without the immediate threat of reinvestment risk.
+Exercising a conditional call option means using it to buy the asset it's tied to, but only if the special rule or condition is met. Let's say you have a conditional call option on a company's stock, and the condition is that the stock price must hit $100. If the stock price actually reaches $100, then you can use your option to buy the stock at the price set in the option, like $90. But if the stock never gets to $100, your option won't work, and you can't use it to buy the stock.
 
-Conditional call options are particularly advantageous for bonds classified as high-yield or junk bonds. These bonds generally have a higher probability of being called early due to prevailing [interest rate](/wiki/interest-rate-trading-strategies) fluctuations or improved credit ratings, which can lead to decreased yields over time. By including a conditional call option, bondholders are afforded a layer of protection, keeping their investments relatively secure despite adverse changes in market conditions.
+When the condition is met, you can exercise the option by telling your broker you want to use it. You'll pay the set price from the option to buy the stock. It's like having a key that only works if a door is open. If the door (the condition) opens, you can use the key (the option) to go through and buy the stock. If the door stays closed, the key doesn't work, and you can't buy the stock with the option.
 
-Additionally, bondholders are safeguarded against potential losses that might arise if market conditions, like shifting interest rates, prompt issuers to call bonds sooner than anticipated. For instance, if interest rates decrease significantly, issuers are more likely to call bonds to refinance at lower rates, leaving bondholders to reinvest at lower yields. Conditional call options mitigate this risk by ensuring that bondholders can maintain an investment with terms similar to the original, thus providing stability and continuity.
+## What are the potential benefits of using a conditional call option for investors?
 
-These provisions are especially significant in volatile interest rate environments. They offer investors a measure of security against market unpredictability and other downside risks associated with bond investments. By assuring a continued investment in either the original or a comparable instrument, conditional call options effectively enhance the attractiveness of callable bonds to cautious investors looking to minimize exposure to fluctuating market conditions.
+Conditional call options can be really helpful for investors who want to be more specific about when they buy something. They let you make a bet on a stock or an asset, but only if something special happens first. This can be good if you think a company's stock will go up because of good news, like winning a big contract. If the news happens, you can buy the stock at a lower price than it's trading at now. But if the news doesn't happen, you don't have to buy the stock, so you don't lose money on a bad bet.
 
-## Option Trading and Its Strategies
+These options can also help you manage risk better. Because you only have to buy if the condition is met, you can avoid buying at the wrong time. For example, if you think a stock will go up after a report comes out, you can set the condition to be that the report has to show good numbers. If the report is bad, you don't have to buy, and you save your money. This way, conditional call options give you a chance to make money if things go your way, but they also protect you if they don't.
 
-Options trading is a versatile approach in financial markets that offers participants the flexibility to manage risk and capitalize on market movements. Options are derivative instruments, providing the holder the right, though not the obligation, to either purchase (in the case of call options) or sell an asset (put options) at a specified price, known as the strike price, before a certain expiration date.
+## What risks should investors be aware of when dealing with conditional call options?
 
-### Types of Options
+When using conditional call options, investors need to be careful about a few risks. One big risk is that the condition might never happen. If the stock doesn't reach the price you set or the event you're waiting for doesn't occur, your option won't be worth anything. You'll lose the money you paid for the option, and you won't get to buy the stock at the lower price you wanted.
 
-1. **Call Options**: These provide the holder with the right to purchase the underlying asset at the strike price. Traders buy call options when they anticipate an upward movement in the asset price.
+Another risk is that even if the condition is met, the stock might not go up as much as you hoped. If the stock only goes up a little bit after the condition happens, you might not make as much money as you expected. Plus, there's always the chance that something unexpected happens in the market, which can affect the stock price and make your option less valuable. So, it's important to think about these risks before deciding to use a conditional call option.
 
-2. **Put Options**: These confer the right to sell the underlying asset at the strike price. Acquisition of put options typically suggests an expectation of the asset's depreciation.
+## How do conditional call options affect the pricing of the underlying asset?
 
-### Trading Strategies
+Conditional call options can affect the price of the underlying asset in a few ways. When investors buy these options, they're betting on the asset reaching a certain price or event happening. This can create more demand for the asset, pushing its price up a bit. For example, if many people buy conditional call options on a stock because they think it will go up if the company wins a big contract, that demand can make the stock's price go up even before the contract is won.
 
-Options traders utilize a variety of strategies to mitigate risk and enhance potential returns:
+On the other hand, if the condition for the option doesn't happen, it can make the asset's price go down. When the condition isn't met, the options become worthless, and investors might sell the asset they were hoping to buy with the option. This can increase the supply of the asset in the market, which can lower its price. So, conditional call options can add a bit of extra movement to the asset's price, depending on whether the condition is met or not.
 
-- **Straddles**: This strategy involves buying both a call and a put option at the same strike price and expiration date, enabling traders to profit from significant price movement in either direction.
+## What are some real-world examples of conditional call options in financial markets?
 
-- **Strangles**: Similar to straddles, strangles involve purchasing a call and a put but at different strike prices, generally with the same expiration date, aiming to benefit from volatility.
+A real-world example of a conditional call option could be an investor buying an option on a pharmaceutical company's stock. The condition might be that the option can only be exercised if the company gets approval for a new drug from the FDA. If the drug gets approved, the stock price usually goes up, so the investor can buy the stock at a lower price set in the option and then sell it for a profit. But if the drug doesn't get approved, the option won't work, and the investor won't have to buy the stock.
 
-- **Spreads**: This technique includes buying and selling options of the same class (calls or puts) on the same underlying asset with different strike prices or expiration dates. Spreads, such as bull spreads and bear spreads, are designed to limit potential losses while capping gains.
+Another example is in the energy sector, where an investor might buy a conditional call option on an oil company's stock. The condition could be that the option is only valid if oil prices go above a certain level, like $80 per barrel. If oil prices do go up, the investor can use the option to buy the stock at a lower price and then sell it when the stock price goes up with the oil prices. If oil prices stay below $80, the option won't be usable, and the investor won't have to buy the stock.
 
-- **Collars**: This strategy is employed to limit the range of potential returns. A collar involves holding the underlying asset, buying a protective put, and selling a call option, effectively capping both potential gains and losses.
+## How do regulatory frameworks impact the use of conditional call options?
 
-### Factors Influencing Options Trading
+Regulatory frameworks can make a big difference in how conditional call options are used. Different countries have different rules about what kinds of options can be traded and who can trade them. For example, some places might say that only certain investors, like big institutions, can use these options. This means that smaller investors might not be able to use them at all. Also, the rules can affect how these options are made and sold, making sure they're clear and fair for everyone.
 
-Options trading demands a thorough comprehension of several crucial factors:
+Regulators also keep an eye on how these options are used to make sure they don't cause problems in the market. They might set limits on how many options can be bought or sold to stop the market from getting too wild. If there are too many conditional call options on one stock, it could make the stock's price go up and down a lot, which could be bad for the market. So, the rules help keep things stable and protect investors from getting into risky situations.
 
-- **Implied Volatility (IV)**: This is a measure of the market's forecast of a likely movement in an asset's price. Higher implied volatility suggests greater expected fluctuations, impacting the premium of options.
+## What advanced strategies can be employed using conditional call options?
 
-- **Time Decay**: Options are time-sensitive instruments, and their value diminishes as they approach expiration. This decay accelerates as the expiration date nears, a concept quantified as theta in options Greeks.
+One advanced strategy with conditional call options is called a "straddle." This is when an investor buys a conditional call option and a conditional put option on the same stock at the same time. The conditions for both options might be tied to a big event, like a company's earnings report. If the stock price goes up a lot after the event, the call option can be used to buy the stock at a lower price and then sell it for a profit. If the stock price goes down a lot, the put option can be used to sell the stock at a higher price than it's trading at now. This way, the investor can make money no matter which way the stock moves, as long as the move is big enough.
 
-- **Underlying Asset's Price Movements**: The price of the underlying asset significantly affects options value. Delta measures this sensitivity, indicating how much the option's price is expected to move for a $1 change in the asset's price.
+Another strategy is called "hedging." Investors might use conditional call options to protect other investments they have. For example, if you own a stock but you're worried about a big event that could make the stock price drop, you can buy a conditional put option with a condition tied to that event. If the event happens and the stock price goes down, you can use the put option to sell the stock at a higher price and limit your losses. This way, the conditional call option acts like insurance for your other investments, helping you manage risk better.
 
-### Risk Management
+A third strategy is using conditional call options for "speculation." If you think a stock will go up because of a specific event, like a company winning a big contract, you can buy a conditional call option with that event as the condition. If the event happens, you can use the option to buy the stock at a lower price and then sell it for a profit. This lets you bet on the stock going up without having to buy it right away, which can be a smart way to take advantage of specific situations without spending too much money upfront.
 
-Effective options trading necessitates sophisticated risk management to safeguard against substantial market shifts. Traders must monitor the Greeks (Delta, Gamma, Theta, Vega, and Rho) to understand risk exposure and adjust strategies accordingly. Dynamic hedging techniques can be utilized to manage risk, while position sizing and stop-loss orders serve as additional risk mitigation tools.
+## How can conditional call options be used in portfolio management and hedging?
 
-By employing these strategies and management techniques, traders can navigate the complexities of options markets and strive to achieve their financial objectives.
+Conditional call options can be a smart tool for managing a portfolio. They let investors make bets on certain things happening, like a stock going up if a company wins a big contract. If the condition happens, the investor can buy the stock at a lower price than it's trading at now and then sell it for a profit. This can help grow the portfolio without having to buy the stock right away. It's like having a ticket that only works if something special happens, which can be a good way to add to the portfolio without spending too much money upfront.
 
-## Algorithmic Trading: The Edge in Modern Markets
+They're also useful for hedging, which is like getting insurance for other investments. If you own a stock but you're worried about something bad happening that could make the stock price drop, you can buy a conditional put option with a condition tied to that event. If the event happens and the stock price goes down, you can use the put option to sell the stock at a higher price than it's trading at now. This can help limit your losses and protect your portfolio from big drops. So, conditional call options can help you manage risk better and keep your investments safer.
 
-Algorithmic trading, often referred to as algo trading, employs automated systems that execute trades based on preprogrammed criteria, offering significant advantages in terms of speed and precision while minimizing human error. This method leverages sophisticated mathematical models and computational algorithms to analyze extensive datasets rapidly. By doing so, traders can devise and implement intricate trading strategies that respond swiftly and dynamically to market conditions, thereby enhancing both performance and risk management.
+## What are the latest trends and innovations in the use of conditional call options?
 
-In the domain of options trading, where complexities abound due to the need to manage multiple variables—and often, multiple option legs—algo trading proves exceptionally beneficial. The capacity to automate the execution of complex multi-leg strategies, such as iron condors and butterfly spreads, allows traders to react to market fluctuations instantaneously, which is critical for exploiting opportunities in volatile markets.
+One of the latest trends in using conditional call options is the rise of digital platforms that make it easier for people to buy and sell them. These platforms use technology to help investors set up options with very specific conditions, like a stock hitting a certain price or a company announcing good news. This makes it easier for more people to use conditional call options, not just big investors. Also, these platforms often have tools that help investors understand how their options might do, which can make it less risky to use them.
 
-A vital component of [algorithmic trading](/wiki/algorithmic-trading) is [backtesting](/wiki/backtesting). Through this process, traders test their algorithms against historical market data to ascertain their effectiveness and profitability under a variety of market scenarios. This retrospection is crucial for refining trading strategies, ensuring they are well-suited to current and future market environments.
-
-The principal advantages of algorithmic trading include speed, efficiency, and the ability to seize short-lived market opportunities. Automated systems can execute orders in milliseconds, significantly faster than manual trading. This speed is not just about executing trades quickly; it's also about analyzing and reacting to real-time market data in a way that capitalizes on transient pricing anomalies or [arbitrage](/wiki/arbitrage) opportunities.
-
-For those interested in developing their own trading algorithms, Python has emerged as a popular language due to its robust libraries and frameworks such as NumPy, pandas, and scikit-learn, which facilitate data analysis, modeling, and implementation. Here is a simple example of a backtesting loop in Python, which checks a basic moving average crossover strategy:
-
-```python
-import pandas as pd
-
-# Load historical data into a DataFrame
-data = pd.read_csv('historical_data.csv')
-
-# Calculate moving averages
-data['Short_MA'] = data['Close'].rolling(window=10).mean()
-data['Long_MA'] = data['Close'].rolling(window=50).mean()
-
-# Define buy and sell signals
-data['Signal'] = 0
-data.loc[data['Short_MA'] > data['Long_MA'], 'Signal'] = 1  # Buy signal
-data.loc[data['Short_MA'] < data['Long_MA'], 'Signal'] = -1 # Sell signal
-
-# Backtest
-data['Position'] = data['Signal'].shift()
-data['Returns'] = data['Close'].pct_change()
-data['Strategy_Returns'] = data['Returns'] * data['Position']
-
-# Calculate cumulative returns
-cumulative_return = (data['Strategy_Returns'] + 1).cumprod()
-
-print(f"Cumulative Return: {cumulative_return[-1]}")
-```
-
-The ability to develop and implement such strategies underscores the transformative impact of algorithmic trading on modern financial markets. By effectively integrating data analysis with agile execution capabilities, algorithmic trading equips investors with powerful tools to navigate and optimize within today's fast-paced trading environments.
-
-## Integrating Derivatives, Options, and Algo Trading
-
-The integration of financial derivatives, options, and algorithmic trading represents a transformative approach to achieving precision and optimized outcomes in trading. By combining these elements, investors can harness advanced strategies and technological efficiencies that reduce human error and enhance decision-making processes.
-
-Automated systems are particularly adept at managing complex option strategies, such as condors, butterflies, and spreads. These strategies involve multiple leg trades that require precise timing and execution to capitalize on market opportunities. Automation ensures that these complex strategies are executed seamlessly, without the delays or errors that can occur with manual trading interventions.
-
-Conditional call options, a specific type of financial derivative, offer bondholders fixed yield protection by mitigating reinvestment risks associated with early bond redemption. When integrated into automated trading systems, these options can further optimize yields. By automating the exercise of conditional call options, traders can ensure that yield protection features are leveraged at optimal times, thus preserving the intended financial outcomes despite market volatility.
-
-Combining derivatives, options, and algorithmic trading also enhances risk management and allows for dynamic hedging. Automated trading systems can rapidly adjust to leverage changes in market conditions, enabling prompt capture of arbitrage opportunities that are often short-lived. This ability to respond in real-time is crucial in volatile markets, providing traders with a strategic advantage.
-
-Moreover, the intersection of these financial tools grants investors greater confidence and strategic flexibility when navigating complex market scenarios. By integrating conditional call options with sophisticated option strategies and algorithmic trading, investors can deploy a comprehensive suite of tools designed to maximize returns while managing risks effectively. This holistic approach to trading not only enhances profitability but also ensures resilience in diverse and ever-changing market environments.
-
-## Challenges and Risks
-
-Integration of derivatives, options, and algorithmic trading provides a cutting-edge approach to financial markets but is accompanied by significant challenges and risks. One primary concern is the possibility of system malfunctions and erroneous outputs from trading algorithms. Automated systems depend heavily on technology for their efficiency and speed, making them vulnerable to software bugs, hardware failures, and connectivity issues. Such technical faults can lead to substantial financial losses, especially in high-frequency or high-stakes trading environments.
-
-Market shifts represent another potential risk, as they can render algorithmic assumptions invalid, resulting in financial setbacks if the algorithms aren't rigorously tested. For example, sudden economic events or geopolitical developments can cause market volatility that challenges the assumptions embedded in trading models. Algorithms that rely on historical data might fail to adapt to these market transformations. To mitigate this risk, robust models must be developed through extensive backtesting and ongoing refinement.
-
-The regulatory environment governing derivative and algorithmic trading is critical for ensuring transparency and mitigating systemic risks. Regulatory frameworks continuously evolve, demanding that traders and financial institutions remain informed and compliant with the latest rules and regulations. Compliance not only safeguards investments but also minimizes legal liabilities. Regulatory bodies, such as the Securities and Exchange Commission (SEC) in the United States, provide guidelines and enforce standards to maintain market integrity.
-
-Ongoing risk management requires traders to maintain updated systems capable of adapting to both regulatory changes and market dynamics. Continual updates and technological improvements are necessary to ensure that trading systems remain robust and reliable. As part of risk management, traders should conduct comprehensive backtesting and stress-testing on their systems. Backtesting uses historical data to simulate how a trading strategy might perform, while stress-testing evaluates how algorithms respond to extreme market conditions.
-
-By acknowledging these risks and implementing rigorous management protocols, traders can better navigate the complexities of modern financial markets. However, a proactive approach to risk management and compliance is crucial for leveraging the full potential of derivatives and algorithmic trading strategies responsibly.
-
-## Conclusion: The Future of Finance with Derivatives and Algo Trading
-
-The future of finance is intricately linked to the advancements in derivatives and the rise of trading technologies like algorithmic trading. This interplay between complex financial instruments and sophisticated computing methods promises to reshape market opportunities and strategies.
-
-As financial markets evolve, the union of intricate financial products with cutting-edge algorithms and data analytics is unlocking new avenues for investors. Complex derivatives, such as conditional call options, when synergized with algorithmic trading, offer unprecedented precision, speed, and adaptability in executing trades. This combination allows investors to respond more dynamically to market trends and volatility, enabling higher returns on investments through enhanced market insights and execution strategies.
-
-Investors who embrace these technologies are well-positioned to capitalize on emerging opportunities. By leveraging algorithmic trading, they can benefit from improved decision-making processes and refined risk management strategies. This technological edge results in more accurate market predictions, optimized portfolio allocations, and increased trading efficiency. The ability to process large volumes of data in real-time and execute trades with minimal latency significantly enhances market position.
-
-Continual learning and adaptation are essential as the financial and regulatory landscapes progress. As algorithmic models and financial products evolve, staying informed and responsive to changes is crucial. The rapid pace of technological innovations necessitates an ongoing commitment to education and adaptation, ensuring that strategies remain effective and compliant with regulatory standards.
-
-Integrating traditional financial doctrines with modern trading technology provides a solid foundation for future financial endeavors. This integration not only supports traditional investment strategies but also introduces novel approaches that can harness the full potential of emerging technologies. Through this synergy, investors can achieve a balance between tried-and-tested financial principles and innovative technologies, paving the way for sustainable growth and success in the finance sector.
-
-Overall, the convergence of derivatives and algorithmic trading represents a transformative phase in finance. As these elements continue to develop, they promise to not only enhance trading capabilities but also redefine the very fabric of financial markets, offering substantial opportunities for those ready to adapt and thrive in this new era.
+Another innovation is how conditional call options are being used with other financial tools, like ETFs and cryptocurrencies. Investors are starting to use these options to bet on the prices of whole groups of stocks or digital currencies. For example, someone might buy a conditional call option on a tech ETF, with the condition that the ETF goes up if a new tech law gets passed. This can help investors make money from big trends in the market. Plus, with cryptocurrencies being so new and unpredictable, conditional call options can be a way to bet on them without buying them right away, which can be less risky.
 
 ## References & Further Reading
 

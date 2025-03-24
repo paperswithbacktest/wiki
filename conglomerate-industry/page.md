@@ -3,158 +3,88 @@ title: "Conglomerate Industry"
 description: "Explore how business conglomerates leverage algorithmic trading to maintain a competitive edge achieving growth through advanced strategies and cross-industry synergies."
 ---
 
-Business conglomerates are large corporations that own a group of diverse subsidiaries, often spanning various industries and markets. These conglomerates are structured to achieve diversification, reduce investment risk, and harness cross-industry synergies. Subsidiaries within a conglomerate may operate independently, allowing each unit to leverage its specialized expertise while contributing to the conglomerate's overarching strategy. This business model has historically been employed to capitalize on economies of scale, optimize resource allocation, and maintain a steady flow of income across economic cycles.
-
-Algorithmic trading, a profound transformation in the financial industry, involves the use of computer algorithms to execute trading strategies at high speeds and volumes. This method leverages mathematical models and complex algorithms to make decisions based on market data, often in fractions of a second. Algorithmic trading has substantially impacted financial markets by increasing trading efficiency, lowering transaction costs, and enhancing liquidity. The proliferation of such trading mechanisms has underscored the critical importance of technology in modern finance, presenting both opportunities and challenges for stakeholders across the industry.
 
 ![Image](images/1.png)
 
-This article aims to explore the intersection between business conglomerates and algorithmic trading, examining how conglomerates utilize these advanced trading strategies to optimize their operations and maintain competitive advantages. By investigating the adoption and integration of algorithmic trading practices within conglomerates, the article seeks to highlight potential synergies that can drive growth, innovation, and resilience in rapidly evolving markets.
-
 ## Table of Contents
 
-## Understanding Business Conglomerates
+## What is a conglomerate industry?
 
-A business conglomerate is a multi-industry company that operates across diverse sectors through a collection of distinct and semi-autonomous subsidiaries. These subsidiaries span a variety of industries and may offer unrelated goods and services. The primary characteristic of a conglomerate is diversification, aimed at reducing risks and depending on a vast portfolio for overall business stability.
+A conglomerate industry is a big company that owns many different kinds of businesses. These businesses can be in totally different fields, like making cars, running hotels, and selling food. The main company, called the conglomerate, controls all these smaller businesses. This way, the conglomerate can make money from many different areas instead of just one.
 
-Historically, conglomerates rose to prominence during the post-World War II era, particularly in the 1960s and 1970s. During this period, many corporations sought to mitigate sector-specific risks by acquiring companies across different industries, effectively diversifying their business structures. The decline in the popularity of conglomerates started in the late 1980s when many found that owning a diverse set of unconnected businesses was less profitable than anticipated. This led to a wave of de-conglomeration with firms selling off non-core divisions to concentrate on their primary industries [1].
+Conglomerates often grow by buying other companies. This can help them spread out their risks. If one part of their business is not doing well, another part might be doing great. This can make the whole company stronger and more stable. Sometimes, conglomerates can use their size and resources to help their different businesses work better together.
 
-Several major conglomerates have left a notable mark on the global economy. An example is General Electric (GE), which operates in sectors ranging from healthcare to aviation and energy. Berkshire Hathaway, overseen by Warren Buffett, is another well-known conglomerate, with interests spanning insurance, utilities, railroads, and more. Tata Group from India covers industries such as steel, automobiles, and technology, demonstrating the extensive spectrum conglomerates can encompass [2].
+## How does a conglomerate differ from other types of business structures?
 
-In the current market, conglomerates face both opportunities and challenges. The ongoing global economic landscape presents opportunities for growth through technological advancements and entry into emerging markets. However, they also face significant challenges, such as increased regulatory scrutiny, market competition, and the demand for sustainable business practices. The pressure to maintain efficiencies across diverse sectors while remaining agile in responding to market changes poses a continual challenge.
+A conglomerate is different from other business structures because it owns many different kinds of businesses that are not related to each other. For example, a conglomerate might own a car company, a hotel chain, and a food company all at the same time. In contrast, other business structures like a single company focus on just one type of product or service. A single company might only make cars or run hotels, but not both. Another type of business structure is a holding company, which owns other companies but usually in the same industry. A holding company might own several car companies but would not typically own a hotel chain as well.
 
-Despite these challenges, the trend towards digital transformation offers conglomerates a chance to enhance operational efficiency and innovate product offerings. In navigating these complexities, conglomerates continue to adapt by refining their business models and strategically repositioning themselves in response to economic shifts [3].
+Conglomerates also differ because they aim to spread out their risks by being involved in many different industries. If one part of their business, like the car company, is not doing well, they can still make money from their hotel chain or food company. This makes conglomerates more stable than a single company that relies on just one type of business. Other business structures like partnerships or sole proprietorships focus on one specific area and do not have the same level of risk diversification. Conglomerates can also use their size and resources to help their different businesses work together better, something that smaller, more focused business structures cannot do as easily.
 
----
+## Can you provide examples of well-known conglomerates?
 
-[1] Chandler, A. D. (1990). "Scale and Scope: The Dynamics of Industrial Capitalism". Belknap Press.
+One well-known conglomerate is Berkshire Hathaway. It owns many different kinds of businesses. For example, it owns GEICO, which is an insurance company, and Dairy Queen, which sells ice cream and fast food. It also owns BNSF Railway, which moves goods by train. Berkshire Hathaway makes money from all these different businesses, which helps it stay strong even if one part is not doing well.
 
-[2] Khanna, T., & Palepu, K. G. (2000). "The Future of Business Groups in Emerging Markets: Long-run Evidence From Chile." Academy of Management Journal.
+Another famous conglomerate is Samsung. Samsung is known for making phones and TVs, but it also owns many other businesses. It has a construction company, a shipbuilding company, and even a life insurance company. By owning all these different businesses, Samsung can make money in many ways and spread out its risks.
 
-[3] PWC Report. (2021). "Global Economic Outlook and Strategies for Conglomerates."
+A third example is Tata Group from India. Tata Group owns businesses like Tata Motors, which makes cars, and Tata Steel, which makes steel. But it also owns hotels like the Taj Hotels and even a tea company called Tata Tea. By having such a wide range of businesses, Tata Group can keep making money even if one part of its business faces problems.
 
-## Algorithmic Trading: An Overview
+## What are the advantages of forming a conglomerate?
 
-Algorithmic trading refers to the use of computer algorithms to automate the trading process, executing orders based on pre-set rules without human intervention. Its basic principles involve leveraging mathematical models and algorithms to make decisions at speeds and frequencies that are impossible for human traders. The objective is to optimize trade execution, reduce transactional costs, and enhance market [liquidity](/wiki/liquidity-risk-premium).
+One big advantage of forming a conglomerate is that it can spread out its risks. When a company owns many different kinds of businesses, it doesn't rely on just one thing to make money. If the car business is not doing well, the conglomerate can still make money from its hotel business or its food business. This makes the whole company more stable and less likely to fail if one part has problems.
 
-**Types of Algorithmic Trading Strategies**
+Another advantage is that conglomerates can use their size and resources to help their different businesses work better together. For example, a big conglomerate might be able to buy things cheaper because it buys in large amounts. It can also share ideas and technology between its different businesses, which can make them all more successful. This kind of teamwork can help the whole conglomerate grow and make more money.
 
-Algorithmic trading encompasses a variety of strategies, each designed to meet specific market goals. Key strategies include:
+## What are the potential disadvantages or challenges faced by conglomerates?
 
-1. **High-Frequency Trading (HFT)**: This strategy involves executing a large number of orders at extremely fast speeds to capitalize on small price discrepancies. It relies heavily on powerful computers and high-speed data networks to gain a competitive edge.
+One challenge for conglomerates is that they can be hard to manage. When a company owns many different kinds of businesses, it can be tough to keep track of everything. Each business might need different skills and knowledge to run well. The people at the top of the conglomerate have to understand a lot of different things, which can be really hard. If they make mistakes, it could hurt the whole company.
 
-2. **Market Making**: Here, the algorithm places buy and sell orders simultaneously to profit from the spread between the bid and ask prices. This strategy relies on providing liquidity to the markets and earning the difference between transaction prices.
+Another problem is that it can be hard for conglomerates to focus. When a company tries to do too many things at once, it might not do any of them very well. For example, if a conglomerate is trying to make cars, run hotels, and sell food all at the same time, it might not be able to give enough attention to any one thing. This can make it hard for the conglomerate to stay competitive in all the different areas it is involved in.
 
-3. **Statistical Arbitrage**: This involves taking advantage of price inefficiencies between related securities, typically employing complex mathematical models to determine pricing relationships and anomalies.
+Lastly, conglomerates can sometimes be seen as too big and powerful. This can make people and governments worried. They might think that the conglomerate has too much control over the market and could use its power in unfair ways. This can lead to more rules and regulations that the conglomerate has to follow, which can make it harder for them to do business.
 
-4. **Trend Following**: In this strategy, algorithms track market trends and make trades based on the direction of price movements, often using technical indicators like moving averages.
+## How do conglomerates typically grow or expand their business?
 
-5. **Mean Reversion**: This strategy is based on the hypothesis that prices and returns eventually move back towards the mean or average. Algorithms look for stocks that have deviate from their typical pattern and bet on a return to average levels.
+Conglomerates usually grow by buying other companies. They look for businesses that are doing well and that they think will fit well with what they already own. When they buy a new company, it can help them make more money and spread out their risks. For example, if a conglomerate that owns a car company buys a hotel chain, it can now make money from both cars and hotels. This way, if the car business has a tough time, the hotel business might still do well, helping the whole conglomerate stay strong.
 
-**Major Players and Platforms**
+Another way conglomerates grow is by starting new businesses from scratch. They use their money and resources to create new companies in different areas. This can be riskier than buying an existing business, but it can also be very rewarding if the new business does well. Conglomerates can use their size and experience to help these new businesses grow quickly. For example, a conglomerate might use its knowledge in technology to start a new electronics company, using its resources to help the new business succeed.
 
-The ecosystem of [algorithmic trading](/wiki/algorithmic-trading) includes various key players and platforms, ranging from established financial institutions to specialized trading firms. Some of the major players include:
+Sometimes, conglomerates also grow by expanding the businesses they already own. They might open new locations or start selling new products. For instance, a conglomerate that owns a food company might decide to start selling its products in new countries or add new types of food to its lineup. This can help the conglomerate make more money without having to buy or start a whole new business. By using these different ways to grow, conglomerates can keep getting bigger and stronger.
 
-- **Investment Banks**: Institutions like Goldman Sachs and JPMorgan use algorithmic trading for proprietary trading and to serve their clients.
+## What role does diversification play in the strategy of conglomerates?
 
-- **Hedge Funds**: Quantitative hedge funds such as Renaissance Technologies and Two Sigma leverage algorithms for competitive trading strategies.
+Diversification is a big part of what conglomerates do. It means they own many different kinds of businesses, not just one type. This helps them spread out their risks. If one business, like their car company, is not doing well, they can still make money from their other businesses, like their hotel chain or food company. This makes the whole conglomerate more stable and less likely to fail if something goes wrong in one part of their business.
 
-- **Trading Platforms**: Platforms like Interactive Brokers and MetaTrader offer services tailored for algorithmic trading, providing the necessary infrastructure and tools for traders to deploy their strategies.
+Conglomerates use diversification to grow and stay strong. They can buy other companies that are doing well in different areas, which helps them make more money and spread out their risks even more. They might also start new businesses from scratch, using their money and knowledge to make these new businesses successful. By having many different businesses, conglomerates can keep making money even if one part of their business faces problems.
 
-**Current Trends and Technological Advances**
+## How do conglomerates manage and coordinate their diverse business units?
 
-Algorithmic trading is continuously evolving, with several trends and technological advances shaping its future:
+Conglomerates manage their diverse business units by setting up a central team that keeps an eye on everything. This team makes sure that each business is doing well and working towards the goals of the whole conglomerate. They might have meetings with the leaders of each business to talk about what's going on and what needs to be done. Sometimes, the central team will help move money or resources from one business to another to help them all do better. This way, the conglomerate can make sure all its parts are working together smoothly.
 
-- **Artificial Intelligence and Machine Learning**: AI and machine learning algorithms are increasingly being integrated into trading strategies to predict market movements and improve decision-making. These technologies can analyze vast amounts of data and uncover patterns that traditional methods might miss.
+Coordinating all these different businesses can be hard because they are often in different fields. To make it easier, conglomerates might group similar businesses together. For example, all the food companies might be in one group, and all the car companies in another. Each group can have its own leader who reports to the central team. This helps the conglomerate stay organized and focus on what each business needs. By doing this, conglomerates can use their size and resources to help all their businesses work better together and grow stronger.
 
-- **Big Data Analytics**: With financial markets generating enormous amounts of data, big data analytics enables traders to process information efficiently and gain market insights swiftly.
+## What impact do conglomerates have on the economy and market competition?
 
-- **Cloud Computing**: The availability of cloud-based resources facilitates the computational power needed for high-frequency trading and complex algorithms, offering scalable solutions for traders.
+Conglomerates can have a big effect on the economy. Because they own many different kinds of businesses, they can create a lot of jobs and help the economy grow. When a conglomerate buys a new company or starts a new business, it often needs more workers. This can be good for people looking for jobs and for the areas where the businesses are located. Also, conglomerates can invest a lot of money in their businesses, which can lead to new technology and better products. This can make the economy stronger and help it grow.
 
-- **Blockchain and Cryptocurrencies**: The advent of blockchain technology has introduced new opportunities and challenges. Algorithmic trading in cryptocurrency markets is on the rise, with unique strategies emerging for digital assets.
+But conglomerates can also make the market less competitive. When a conglomerate owns many businesses in different areas, it can be hard for smaller companies to compete. The conglomerate might be able to buy things cheaper because it buys in large amounts, and it can use its size to get better deals. This can make it hard for smaller companies to keep up. Sometimes, people and governments worry that conglomerates are too big and powerful. They might think that the conglomerate can use its power in unfair ways, which can lead to more rules and regulations to keep things fair.
 
-In summary, algorithmic trading is a sophisticated mechanism that combines technology with finance to execute trades at unprecedented efficiencies and speeds. Its growth is driven by continuous technological advancements, making it a critical component of modern financial markets.
+## How do financial analysts evaluate the performance of conglomerates?
 
-## Impact of Algorithmic Trading on Conglomerates
+Financial analysts look at many things to see how well a conglomerate is doing. They check the conglomerate's overall profits and see if it is making more money than before. They also look at how each business inside the conglomerate is doing. This helps them understand which parts are doing well and which parts might need help. Analysts also look at how much money the conglomerate is spending and if it is using its money wisely. They might compare the conglomerate to other big companies to see if it is doing better or worse.
 
-Conglomerates, with their multitude of subsidiaries operating across various sectors, are increasingly adopting algorithmic trading to enhance their business operations. This adoption enables these large, diverse entities to optimize financial decisions and gain a competitive edge in the market. 
+Another thing analysts do is look at the conglomerate's plans for the future. They want to know if the conglomerate is growing by buying new businesses or starting new ones. They also check if the conglomerate is spreading out its risks well by being in many different kinds of businesses. If a conglomerate is too focused on one area and it is not doing well, that could be a problem. By looking at all these things, analysts can get a good idea of how healthy the conglomerate is and if it is likely to keep doing well in the future.
 
-**Adoption of Algorithmic Trading by Conglomerates**
+## What are some notable case studies of successful and failed conglomerates?
 
-Conglomerates employ algorithmic trading to manage their vast financial portfolios more efficiently. This trading method uses pre-programmed instructions to account for variables such as timing, price, and [volume](/wiki/volume-trading-strategy). By integrating algorithmic trading, conglomerates can execute complex trading strategies at speeds and frequencies that exceed typical human capabilities. For instance, General Electric and Berkshire Hathaway, both massive conglomerates, have incorporated algorithmic trading systems to manage their investment portfolios, promoting financial agility. 
+A successful conglomerate is Berkshire Hathaway. It started as a small textile company but grew into a giant by buying many different kinds of businesses. It owns companies like GEICO for insurance, Dairy Queen for fast food, and BNSF Railway for moving goods. Berkshire Hathaway is known for making smart choices about which businesses to buy. It also has a leader named Warren Buffett who is very good at picking winners. Because of this, Berkshire Hathaway has been able to keep growing and making money, even when some parts of its business are not doing well.
 
-**Benefits and Challenges**
+A failed conglomerate is the former ITT Corporation. In the 1960s and 1970s, ITT grew very fast by buying many different businesses, from hotels to car parts. But it got too big and hard to manage. The different businesses did not work well together, and ITT could not keep track of everything. By the 1980s, ITT had to start selling off parts of its business. It eventually broke up into smaller companies. This shows that even though conglomerates can grow quickly, they need to be careful not to get too big and lose control.
 
-The benefits of algorithmic trading for conglomerates are substantial. It reduces transaction costs and improves transaction execution speed and accuracy. Additionally, it allows conglomerates to exploit market inefficiencies and maintain liquidity in their operations. Despite these advantages, challenges persist. Conglomerates must navigate significant upfront costs for developing or purchasing algorithmic systems, coupled with the ongoing need to ensure system compliance with evolving market regulations. The risk of technical failures, which could lead to substantial financial loss, also represents a critical concern.
+## What future trends might influence the structure and strategy of conglomerates?
 
-**Case Studies of Successful Utilization**
+In the future, technology will play a big role in how conglomerates work. More and more, conglomerates will use things like big data and artificial intelligence to make better decisions about which businesses to buy and how to run them. They might use these tools to see which parts of their business are doing well and which need help. Also, technology can help conglomerates work together better across different countries and industries. This could make them even stronger and more able to grow.
 
-One prominent example is Siemens AG, which effectively uses algorithmic trading to manage its financial subsidiaries. The conglomerate's adoption of this technology has decreased operational costs and improved investment returns. Similarly, SoftBank Group has utilized algorithmic trading to bolster its investment strategies, particularly in managing the Vision Fund. By leveraging algorithmic systems, these conglomerates have realized efficiencies that sharpen their competitive edge and drive growth.
-
-**Role of Generative AI**
-
-Generative AI plays an increasingly pivotal role in advancing algorithmic trading methodologies for conglomerates. By analyzing vast datasets, generative AI models can identify patterns and develop strategies that optimize trading decisions. These models can adapt to market changes quicker than traditional systems, allowing for more robust risk management and strategic forecasting. For conglomerates, integrating generative AI into algorithmic trading operations offers an opportunity to enhance decision-making processes and improve financial outcomes. 
-
-In conclusion, while the integration of algorithmic trading presents challenges, it offers significant potential for improving operational efficiencies and financial performance for conglomerates. As they continue to embrace these technologies and address the associated challenges, the impact on their business operations is expected to grow, fostering a more dynamic and adaptive financial landscape.
-
-## Market Analysis and Trends
-
-Algorithmic trading has experienced significant growth in recent years, with the global market size in 2022 estimated to be valued in the tens of billions of dollars. As technology continues to advance, the algorithmic trading market is forecasted to expand at a substantial compound annual growth rate (CAGR) over the next decade, driven mainly by the increasing demand for faster and efficient trading systems.
-
-### Regional Insights and Trends
-
-#### North America
-North America is currently the largest market for algorithmic trading, with a significant portion of trading volume executed using algorithms. The region benefits from advanced trading infrastructure, a high number of financial institutions, and innovative technology companies spearheading research and development in trading algorithms. Key financial centers such as New York and Chicago are critical hubs for this market, providing access to deep liquidity pools and cutting-edge trading platforms.
-
-#### Europe
-Europe remains a significant player in the algorithmic trading market, largely due to its well-regulated and mature financial markets. Countries like the United Kingdom, Germany, and France are notable contributors, leveraging a strong regulatory framework and robust technological infrastructure. The region is witnessing a transition toward more sophisticated trading systems, with an emphasis on transparency and risk management due to the rigorous oversight by institutions such as the European Securities and Markets Authority (ESMA).
-
-#### Asia Pacific
-The Asia Pacific region is emerging as a fast-growing market for algorithmic trading, driven by the rapid development of financial markets in countries like China, Japan, and India. The increasing adoption of modern trading technologies, combined with favorable economic reforms, is propelling market growth. China's emphasis on financial technology, Japan's advancements in AI, and India's robust software development sector contribute significantly to the region's expansion in algorithmic trading.
-
-### Factors Driving Market Growth and Barriers to Entry
-
-The algorithmic trading market's growth is propelled by several factors, including technological advancements in AI and [machine learning](/wiki/machine-learning), the growing need for cost-effective and efficient trading solutions, and increasing demand for reduced transaction costs. The rise of big data analytics provides institutional traders with insights to develop sophisticated trading strategies, facilitating informed decision-making.
-
-However, barriers to entry exist, such as the high initial setup costs for the necessary infrastructure and the complex regulatory requirements to ensure market stability and security. Moreover, the competitive nature of the market necessitates continuous innovation, presenting a challenge for new entrants to stay relevant and effective.
-
-### Expected Future Developments and Opportunities for Conglomerates
-
-Looking ahead, the integration of cutting-edge technologies such as quantum computing, blockchain, and advanced AI algorithms presents enormous opportunities for conglomerates engaged in algorithmic trading. These developments are poised to enhance transaction speed, accuracy, and security, offering a competitive edge in increasingly complex global markets.
-
-The use of generative AI could further transform algorithmic trading by providing enhanced data modeling capabilities, enabling conglomerates to simulate various market scenarios more accurately. This technological evolution is expected to not only optimize trading strategies but also improve risk management practices, positioning conglomerates to better navigate market [volatility](/wiki/volatility-trading-strategies).
-
-In summary, while the algorithmic trading market faces challenges, its growth prospects remain robust, with continual technological innovations providing new avenues for expansion and improvements in trading efficiencies.
-
-## Conclusion
-
-The relationship between conglomerates and algorithmic trading is increasingly intertwined, driven by advancements in technology and data processing capabilities. Conglomerates, by their nature, manage a diverse portfolio of businesses across various industries, and algorithmic trading provides a robust mechanism to optimize their financial operations. The automation of trading through algorithms allows these multifaceted organizations to achieve higher efficiency, reduced costs, and diminished human error in their trading activities. Furthermore, algorithmic trading provides conglomerates with enhanced risk management tools, enabling more dynamic responses to market fluctuations.
-
-Looking ahead, the evolving landscape of technology, particularly the rise of [artificial intelligence](/wiki/ai-artificial-intelligence) and machine learning, promises further enhancements in algorithmic trading. These technologies can offer more sophisticated analytical capabilities, improve predictive models, and facilitate better decision-making processes. This progression suggests that conglomerates equipped with advanced algorithmic trading systems can achieve more strategic financial maneuvers and competitive advantages in the marketplace.
-
-For businesses, particularly large-scale conglomerates, integrating algorithmic trading is not merely an option but a strategic necessity. The use of algorithmic trading enables conglomerates to harness large volumes of data to make informed, timely decisions that can substantially impact their bottom line. By incorporating this technology into their financial strategies, conglomerates position themselves for greater agility, precision, and scalability in their trading operations. As the technological landscape continues to evolve, those who adapt and leverage these tools stand to benefit significantly in terms of market positioning and operational efficiency.
-
-## References
-
-1. Smith, J. (2021). "The Evolution of Business Conglomerates: A Comprehensive Overview". Journal of Business History, 32(4), 567-589. [DOI: 10.1016/j.jbh.2021.04.002]
-
-2. Brown, L., & Johnson, K. (2023). "Algorithmic Trading and Its Implications in Modern Finance". Trading Global Review, 45(2), 112-136. [DOI: 10.1080/09603107.2022.2073521]
-
-3. Global Market Insights Inc. (2022). "Algorithmic Trading Market Size By Component, By Deployment Model, By Organization Size, Industry Analysis Report". Retrieved from: [https://www.gminsights.com/industry-analysis/algorithmic-trading-market](https://www.gminsights.com/industry-analysis/algorithmic-trading-market)
-
-4. Williams, R., & Thompson, A. (2022). "Conglomerates and Their Role in the Global Economy". Business Economics Weekly, 29(5), 183-198. [DOI: 10.1080/07350015.2022.1865678]
-
-5. Patel, S., & Nguyen, T. (2022). "AI and Machine Learning in Algorithmic Trading". Journal of Financial Technology, 12(1), 45-67. [DOI: 10.1145/3456893.3456921]
-
-6. International Data Corporation (IDC). (2023). "Worldwide Algorithmic Trading Forecast, 2023-2027: Regional Analysis and Growth Perspectives". Retrieved from: [https://www.idc.com/getdoc.jsp?containerId=prUS49177523](https://www.idc.com/getdoc.jsp?containerId=prUS49177523)
-
-7. Singh, P. (2021). "Market Analysis: Current Trends in Conglomerates and Algorithmic Trading". Financial Markets Quarterly, 18(3), 99-124. [DOI: 10.1093/fmq/fmq011]
-
-8. Economic Co-operation and Development (OECD). (2022). "Innovation and Digital Transformation in the Financial Sector". Available online: [https://www.oecd.org/digital/digital-economy/outlook/initiative](https://www.oecd.org/digital/digital-economy/outlook/initiative)
-
-9. FinTech Futures. (2022). "Top 10 Algorithmic Trading Companies - 2022". Retrieved from: [https://www.fintechfutures.com/top-10-algorithmic-trading-companies-2022/](https://www.fintechfutures.com/top-10-algorithmic-trading-companies-2022/)
-
-10. Bloomberg Intelligence. (2023). "The Future of Trading: Trends and Innovations to Watch". Retrieved from: [https://www.bloomberg.com/professional/blog/the-future-of-trading-trends-and-innovations/](https://www.bloomberg.com/professional/blog/the-future-of-trading-trends-and-innovations/)
+Another trend is that conglomerates might focus more on being green and helping the environment. People and governments are starting to care more about this, so conglomerates might buy or start businesses that are good for the planet. This could mean more investment in things like renewable energy or eco-friendly products. By doing this, conglomerates can not only make money but also make people happy and avoid new rules that might come in the future.
 
 ## References & Further Reading
 
