@@ -3,179 +3,84 @@ title: "Deferred Equity: Overview and Applications"
 description: "Explore the strategic blend of deferred equity and algorithmic trading to enhance portfolio performance offering flexibility and precision in investment strategies."
 ---
 
-Investment strategies are fundamental to effective financial planning, providing a framework for balancing risk and reward in an investor's portfolio. This balancing act has become increasingly sophisticated with the advent of innovative instruments and technological advancements in the financial sector. Among these, deferred equity and algorithmic trading have emerged as prominent tools for investors seeking to enhance their portfolio performance.
-
-Deferred equity, an innovative financial instrument, allows investors to convert securities into shares of a company at a future date, usually at a predetermined price. This flexibility provides investors with the opportunity to benefit from potential capital appreciation while also offering traditional forms of income such as dividends or interest. It represents a strategic option for those aiming to capitalize on future growth prospects of a company without immediately purchasing shares.
 
 ![Image](images/1.png)
 
-Concurrently, algorithmic trading has revolutionized how trades are executed, employing complex algorithms to automate trades and optimize timing to exploit market inefficiencies. This technological approach minimizes human error and harnesses the speed of computation to make swift trading decisions, pivotal in today's fast-paced financial markets.
-
-Together, these innovative strategies hold the potential to significantly contribute to a diversified investment portfolio. They offer a blend of flexibility and precision, allowing investors to tailor their approach according to their unique financial goals and risk appetites. By understanding and effectively implementing these strategies, investors can enhance their potential for achieving sustainable growth and robust financial returns. In this article, we will explore how deferred equity and algorithmic trading can be leveraged to build a more resilient and dynamic investment portfolio.
-
 ## Table of Contents
 
-## Understanding Deferred Equity
+## What is deferred equity?
 
-Deferred equity refers to a class of investment mechanisms that allow investors to hold securities with the option to convert them into company shares at a future date, usually at a predetermined price. This mechanism offers investors potential benefits similar to holding equity, with delayed equity participation in a company. 
+Deferred equity is a type of payment where instead of getting money right away, you get shares in a company later on. It's like a promise that you will own part of the company in the future. This is often used by startups or small businesses that don't have a lot of cash to pay their employees or partners upfront. By offering deferred equity, these companies can attract talented people who are willing to wait for their rewards.
 
-One common type of deferred equity is convertible bonds. Convertible bonds are debt securities that can be converted into a specific number of shares of the issuing company’s stock. They combine the features of both bonds and stocks, offering fixed income in the form of interest payments while providing the option to convert to equity—one of the pivotal characteristics that makes them attractive to investors looking for a balance between risk and potential return. The conversion feature is defined by terms such as the conversion ratio and conversion price, which determine how many shares an investor receives and at what price the conversion occurs. For instance, if a convertible bond with a face value of $1,000 has a conversion ratio of 20, it implies that the bondholder can convert the bond into 20 shares of stock, translating to an effective conversion price of $50 per share.
+When someone agrees to deferred equity, they are betting on the company's future success. If the company does well, the value of the shares they receive will go up, and they could make a lot of money. But if the company doesn't do well, the shares might not be worth much. This makes deferred equity a bit risky, but it can also be very rewarding if the company grows and becomes successful.
 
-Integrating deferred equity into financial planning offers several strategic advantages, particularly the potential for capital appreciation and diversification of the investment portfolio. Convertible bonds, for example, may offer upside potential if the company's stock price rises, coupled with downside protection through regular interest payments. They provide investors with exposure to equity markets while still maintaining a fixed income cushion, appealing to those who prefer a balanced risk-reward profile.
+## How does deferred equity differ from traditional equity?
 
-Despite these advantages, deferred equity comes with its own set of risks. Price [volatility](/wiki/volatility-trading-strategies) is a significant concern, as fluctuations in the company’s stock price can affect the potential gains upon conversion. The timing of conversion can also introduce uncertainty, as market conditions at the conversion date can significantly influence financial outcomes. Furthermore, the hybrid nature of convertibles, blending debt and equity characteristics, might complicate portfolio management and investment analysis.
+Deferred equity and traditional equity both give you a piece of a company, but they work differently. With traditional equity, you get your shares right away. You own part of the company from the start and can usually sell your shares whenever you want, as long as the company allows it. This means you have immediate ownership and can benefit from any increase in the company's value right away.
 
-In conclusion, understanding the intricacies of deferred equity is essential for investors aiming to integrate these tools into their financial strategies effectively. Recognizing the balance of potential rewards against inherent risks enables both novice and experienced investors to make informed decisions in line with their investment objectives.
+Deferred equity, on the other hand, means you don't get your shares immediately. Instead, you get them at a later time, based on an agreement with the company. This can be after a certain period or when certain goals are met. It's like a promise that you'll own part of the company in the future. This is often used by companies that don't have enough money to give out shares right away, so they use deferred equity to attract people who are willing to wait for their reward.
 
-## Benefits and Risks of Deferred Equity
+## What are the common reasons for using deferred equity?
 
-Deferred equity presents a compelling opportunity for investors seeking to augment their long-term portfolios. This investment tool, characterized by the potential to convert securities into company shares at a predetermined date and price, offers multiple avenues for capital appreciation. Investors are drawn to deferred equity not only for its growth prospects but also for the possibility of [earning](/wiki/earning-announcement) regular income through dividends or interest, making it an appealing candidate for those with a long-term investment horizon.
+Companies often use deferred equity when they don't have a lot of cash. Startups and small businesses might not be able to pay their employees or partners with money right away. So, they offer shares of the company later on instead. This helps them attract talented people who believe in the company's future and are willing to wait for their reward.
 
-The primary allure of deferred equity lies in its capacity to offer significant returns over an extended period. As the underlying securities appreciate in value, the conversion to equity can lead to enhanced capital gains. Additionally, investors often receive dividends during the holding period, which can supplement the overall income derived from the investment. The dual advantage of capital growth and income generation positions deferred equity as a strategic component of a diversified investment portfolio.
+Deferred equity can also help keep people motivated. When employees or partners know they will get shares in the future, they might work harder to make the company successful. This is because the more successful the company becomes, the more valuable their future shares will be. It's a way to align everyone's goals and make sure everyone is working towards the same thing: the company's growth and success.
 
-However, investors must also consider the inherent risks associated with deferred equity. Price volatility is a significant concern, as the value of the underlying securities may fluctuate considerably before the conversion date. This volatility can introduce uncertainty into the expected financial outcomes, particularly if market conditions shift unfavorably. Furthermore, the timing of the conversion is often predetermined, which can limit flexibility and control over the investment decision-making process. Investors may find themselves compelled to convert at a less opportune moment, potentially affecting the anticipated financial gains.
+## Who typically benefits from deferred equity arrangements?
 
-To effectively integrate deferred equity into an investment strategy, investors must thoroughly assess these elements. An understanding of how market volatility could impact the underlying asset prices, coupled with an analysis of the timing and conditions of conversion, is crucial. This assessment will aid investors in determining the suitability of deferred equity for their specific financial goals and risk tolerance levels. Additionally, maintaining a diversified portfolio that mitigates individual asset risk can further enhance the strategic value of deferred equity investments. Proper evaluation and strategic alignment can enable investors to harness the full potential of deferred equity while safeguarding against its risks.
+Deferred equity can be really good for startups and small businesses. These companies often don't have a lot of money to pay their employees or partners right away. By offering shares later on, they can attract talented people who believe in the company's future. This helps the company grow without spending a lot of cash upfront. It's like a promise that if the company does well, everyone will share in the success.
 
-## Algorithmic Trading Explained
+Employees and partners can also benefit from deferred equity. They get to own part of the company in the future, which can be very rewarding if the company becomes successful. It motivates them to work hard because the more the company grows, the more valuable their shares will be. However, it's a bit risky because they have to wait and hope that the company does well. If it doesn't, the shares might not be worth much.
 
-Algorithmic trading involves using computerized algorithms to execute trades at optimal times to exploit market inefficiencies. These strategies are built upon advanced mathematical models and computer programs designed to analyze market conditions, forecast price movements, and open or close trades based on predefined criteria. This automated process allows for faster and more accurate execution compared to traditional manual trading.
+## What are the key components of a deferred equity agreement?
 
-At the core of [algorithmic trading](/wiki/algorithmic-trading) are various strategies tailored to exploit different market conditions. One popular strategy is **statistical [arbitrage](/wiki/arbitrage)**, which takes advantage of short-term pricing anomalies between correlated assets. By executing simultaneous buy and sell orders in related securities, traders can profit from the convergence of prices to their historical relationship. For instance, suppose two stocks generally move in tandem, and a temporary divergence occurs. In that case, an algorithm can automatically purchase the undervalued stock and short the overvalued one, betting on the return to their typical correlation.
+A deferred equity agreement is like a promise between a company and someone who works for it or helps it grow. The main parts of this agreement include when the person will get their shares and how many shares they will get. The agreement might say that the shares will be given after a certain amount of time, like one or two years, or when the company reaches certain goals, like making a certain amount of money or launching a new product.
 
-Another common approach is **market-making**, which involves continuously providing buy and sell quotes in a particular security and attempting to profit from the bid-ask spread. By maintaining a presence in the market, market makers facilitate [liquidity](/wiki/liquidity-risk-premium) and can accumulate modest gains on each transaction captured within the spread, provided that risk is managed appropriately.
+Another important part is what happens if the person leaves the company before they get their shares. The agreement needs to be clear about whether they still get the shares or if they lose them. It's also important to talk about what the shares are worth and how that might change over time. This helps everyone understand what they might gain from the company's success.
 
-A crucial component of successful algorithmic trading is the availability of robust and reliable data, as algorithms rely heavily on vast datasets to analyze historical trends, test hypotheses, and validate models. Advanced data analytics and [machine learning](/wiki/machine-learning) techniques are often employed to discern patterns and make informed predictions on future price movements. This necessitates access to historical price data, [order book](/wiki/order-book-trading-strategies) information, and other relevant metrics to build robust predictive models.
+These agreements can be good for both the company and the person getting the shares. The company can save money now and use it to grow, while the person can look forward to owning part of the company in the future. But it's important that everyone understands the agreement and feels good about it, because it's a promise that depends on the company doing well.
 
-Furthermore, **[backtesting](/wiki/backtesting)** forms the backbone of algorithmic strategy development, allowing traders to test how their strategies would have performed in the past using historical data. It involves running the algorithm through past market conditions to evaluate its effectiveness and tweak parameters for improved performance. The success of a backtested strategy often hinges on the quality of the data used, as well as the consideration of any biases that might affect the outcome, such as overfitting or survivorship bias.
+## How is deferred equity valued and accounted for?
 
-Here is a simple example of a basic algorithmic trading strategy using Python:
+Deferred equity is valued based on what the company might be worth in the future. Since it's a promise of shares later on, the value depends on how well the company does. If the company grows and becomes successful, the value of the deferred equity goes up. But if the company doesn't do well, the value might be low or even zero. Companies often use financial models to guess what the shares might be worth when they are given out, but it's not an exact science because the future is uncertain.
 
-```python
-import pandas as pd
-import numpy as np
+When it comes to accounting for deferred equity, companies treat it as a type of expense called stock-based compensation. This means they need to record the value of the deferred equity as an expense on their financial statements over the time it takes for the shares to be given out. This helps show how much the company is spending to attract and keep talented people. The exact value recorded can change over time as the company's performance changes, which can make accounting for deferred equity a bit tricky.
 
-# Import historical data
-data = pd.read_csv('historical_prices.csv', parse_dates=True, index_col='Date')
+## What are the tax implications of deferred equity?
 
-# Calculate moving averages
-data['Short_MA'] = data['Close'].rolling(window=20).mean()
-data['Long_MA'] = data['Close'].rolling(window=50).mean()
+When you get deferred equity, it means you will get shares in a company later on. This can affect your taxes in different ways. When you finally get the shares, it's usually considered income, and you have to pay taxes on the value of the shares at that time. The tax you pay depends on how much the shares are worth when you get them. If the company does well and the shares are worth a lot, you might have to pay more in taxes.
 
-# Implement buy/sell signals
-data['Signal'] = np.where(data['Short_MA'] > data['Long_MA'], 1, 0)
-data['Position'] = data['Signal'].diff()
+There's another tax to think about when you sell the shares you got from deferred equity. If you sell them for more than what they were worth when you got them, you have to pay capital gains tax on the profit. The tax rate for this can be different depending on how long you held the shares before selling them. If you held them for a year or less, it's a short-term capital gain, and you pay regular income tax on it. If you held them for more than a year, it's a long-term capital gain, and the tax rate is usually lower.
 
-# Print the strategy outcome
-print(data[['Close', 'Short_MA', 'Long_MA', 'Position']].head())
-```
+## Can deferred equity be used in startup companies, and if so, how?
 
-This script calculates short and long moving averages over a hypothetical dataset and generates buy/sell signals based on their crossover points, a basic strategy known as moving average crossover.
+Deferred equity is very popular in startup companies because they often don't have a lot of money to pay their employees or partners right away. Instead of giving cash, startups can offer shares of the company later on. This helps them attract talented people who believe in the company's future and are willing to wait for their reward. By using deferred equity, startups can save money now and use it to grow their business, while also giving people a chance to own part of the company if it becomes successful.
 
-In summary, algorithmic trading leverages advanced technological and mathematical tools to enhance decision-making processes in trading. By employing sophisticated strategies such as [statistical arbitrage](/wiki/statistical-arbitrage) and market-making, and ensuring thorough data analysis and backtesting, traders can better navigate the intricacies of financial markets, potentially leading to improved performance and efficiency.
+When a startup uses deferred equity, they make an agreement with the person who will get the shares. The agreement says when the person will get their shares and how many shares they will get. It might be after a certain amount of time or when the company reaches certain goals, like making a certain amount of money or launching a new product. This kind of agreement can motivate everyone to work hard because the more successful the company becomes, the more valuable their future shares will be.
 
-## Investment Strategies Utilizing Algorithmic Trading
+## What are the potential risks associated with deferred equity?
 
-The implementation of algorithmic trading can enhance investment strategies by ensuring quick execution and minimizing human errors. By leveraging advanced computational algorithms, investors can automate trading processes, allowing for precise and timely market actions that would otherwise be challenging to achieve manually.
+Deferred equity can be risky for both the company and the person who gets the shares. For the person, the biggest risk is that the company might not do well. If the company fails or doesn't grow as expected, the shares they get later might not be worth much. This means they could work hard for a long time and end up with little or no reward. Also, if the person leaves the company before they get their shares, they might lose them altogether, depending on the agreement.
 
-Strategically, investors can use algorithmic trading in conjunction with other financial tools like deferred equity to create a balanced portfolio. For instance, algorithmic trading can optimize the buying and selling points of deferred equity investments, ensuring that conversions are done at optimal price levels. This integration allows investors to manage risk more effectively while aiming for consistent returns.
+For the company, deferred equity can be tricky to manage. They have to keep track of when and how many shares they promised to give out, which can be complicated. If the company does really well, the value of the shares they give out can be very high, which means they might end up giving away a big part of the company. This can dilute the ownership of the original founders and investors. Plus, if the company doesn't have enough money to grow, using deferred equity might not be enough to attract the talent they need.
 
-Algorithmic trading strategies can include various approaches such as [momentum](/wiki/momentum) trading, mean reversion, and arbitrage. Each strategy uses algorithms to analyze historical data and forecast future trends, allowing investors to capitalize on short-term market inefficiencies. Such strategic implementations can lead to enhanced portfolio performance by adapting swiftly to market dynamics.
+## How does deferred equity impact company valuation and investor relations?
 
-One example of successful algorithmic trading integration is seen in the quantitative [hedge fund](/wiki/hedge-fund-trading-strategies) industry, where firms like Renaissance Technologies employ complex algorithms to manage investment portfolios. Their approach often involves extensive data analysis coupled with machine learning techniques to identify profitable trading opportunities. These case studies illustrate the potential for significant returns when algorithmic trading is effectively integrated into financial planning.
+Deferred equity can change how much a company is worth. When a company promises to give out shares later, it's like saying they will give away part of the company in the future. If the company does well and the shares become valuable, this can make the company worth less because they are giving away more of it. Investors might see this as a risk because it could mean less money for them if the company is sold or goes public. But if the company uses deferred equity to attract talented people who help it grow, it could also make the company more valuable in the long run.
 
-Python code can be used to develop algorithmic trading models, utilizing libraries like `pandas` for data handling and `numpy` for numerical operations. The following is a simple example of momentum-based trading:
+Deferred equity can also affect how investors feel about the company. Some investors might like it because it shows the company is trying to save money and use it to grow. They might think it's smart to attract talented people without spending cash right away. But other investors might worry that the company is giving away too much of itself. They might be concerned about how much control they will have over the company in the future. It's important for the company to talk clearly with its investors about why they are using deferred equity and how it will help the company grow.
 
-```python
-import pandas as pd
-import numpy as np
+## What legal considerations must be taken into account with deferred equity?
 
-# Assume 'data' is a DataFrame with columns 'Date' and 'Close'
-def calculate_momentum(data, window=14):
-    data['Momentum'] = data['Close'].diff(periods=window)
-    return data
+When a company uses deferred equity, they need to make sure they follow the law. They have to write a clear agreement that says when the person will get their shares and how many shares they will get. This agreement should also talk about what happens if the person leaves the company before they get their shares. It's important to follow rules about giving out shares, like making sure everyone who gets shares knows what they are getting and when. If the company doesn't follow these rules, they could get in trouble with the law.
 
-# Example usage
-df = calculate_momentum(data)
-# Add trading signals
-df['Buy_Signal'] = np.where(df['Momentum'] > 0, 1, 0)
-df['Sell_Signal'] = np.where(df['Momentum'] < 0, -1, 0)
+Another thing to think about is taxes. The company and the person getting the shares need to understand how deferred equity will affect their taxes. When the person finally gets the shares, they might have to pay taxes on them. The company needs to make sure they are doing everything right when it comes to taxes, so they don't get in trouble. It's a good idea for the company to talk to a lawyer and a tax expert to make sure they are following all the rules and doing things the right way.
 
-# Execute trades based on signals
-def execute_trades(df):
-    positions = 0
-    for index, row in df.iterrows():
-        if row['Buy_Signal'] == 1 and positions == 0:
-            positions += 1
-            print(f"Buy on {row['Date']} at price {row['Close']}")
-        elif row['Sell_Signal'] == -1 and positions > 0:
-            positions -= 1
-            print(f"Sell on {row['Date']} at price {row['Close']}")
+## How can deferred equity be structured to maximize benefits for both the company and the recipients?
 
-execute_trades(df)
-```
+Deferred equity can be structured to benefit both the company and the recipients by setting clear goals and timelines. For the company, it's important to make sure the agreement says when the shares will be given out, like after a certain amount of time or when the company reaches certain goals. This helps the company keep control over when and how much of the company they are giving away. They can also use vesting schedules, which means the shares are given out slowly over time. This can keep people motivated to stay with the company and work hard because they know they will get more shares if they stick around.
 
-Incorporating algorithmic trading with deferred equity investments allows for seamless execution and enhances the overall efficiency of portfolio management. Such a combination provides flexibility in responding to market events and optimizing returns while maintaining a balanced asset allocation tailored to an investor's financial objectives. Through strategic integration, algorithmic trading can serve as a vital component in modern investment strategies, offering both adaptability and potential for enhanced financial performance.
-
-## Integration of Deferred Equity and Algorithmic Trading in Financial Planning
-
-Creating a cohesive financial plan that incorporates both deferred equity and algorithmic trading involves a careful assessment of personal financial goals, risk tolerance, and long-term wealth objectives. Each investment strategy offers unique benefits and challenges, and understanding how to effectively integrate them is crucial for optimizing portfolio performance.
-
-Deferred equity, such as convertible bonds, provides the option to convert debt securities into shares at a future date, often at a predetermined price. This feature can be strategically employed to achieve capital appreciation while maintaining an income through dividends or interest. On the other hand, algorithmic trading leverages advanced mathematical models and algorithms to execute trades based on predefined criteria, often capturing short-term market inefficiencies.
-
-### Aligning with Personal Financial Goals
-
-To align these strategies with personal financial goals, investors must first define their objectives, whether they are income generation, capital preservation, or growth. Deferred equity can be particularly beneficial for those with a long-term outlook, looking to balance risk and return over time. Meanwhile, algorithmic trading might appeal to investors focused on short-term gains and market timing.
-
-### Assessing Risk Tolerance
-
-Risk tolerance plays a crucial role in determining the extent to which each strategy should be employed. Investors with higher risk tolerance might allocate more capital to algorithmic trading strategies, which, while capable of offering rapid gains, also present heightened volatility. Conversely, those with lower risk tolerance may prefer the stability and potential for income offered by deferred equity, mitigating risk through a more conservative approach.
-
-### Long-term Wealth Objectives
-
-Integrating these strategies can support long-term wealth accumulation. Combining the consistent returns from deferred equity with the agility of algorithmic trading can offer a balanced approach to meet wealth objectives. For example, investors might use the steady performance of deferred equity to establish a stable financial foundation, while simultaneously employing algorithmic trading to capitalize on market opportunities and enhance overall returns.
-
-### Practical Tips for Investors
-
-1. **Diversification**: Investors should ensure their portfolios are diversified, blending deferred equity and algorithmic trading with other asset classes to reduce unsystematic risk.
-
-2. **Continuous Monitoring**: Regularly monitoring the performance of both deferred equity and algorithmic strategies is essential. This involves analyzing market trends, economic indicators, and the performance of underlying assets.
-
-3. **Backtesting Algorithms**: For algorithmic trading, rigorous backtesting of strategies against historical data is vital to assess potential profitability and mitigate risks.
-
-4. **Rebalancing Portfolios**: Periodic rebalancing ensures that the portfolio remains aligned with personal financial goals and risk tolerance. This might involve adjusting the proportions of deferred equity and algorithmic trading as market conditions change.
-
-5. **Risk Management Tools**: Implementing advanced risk management tools can help in managing the uncertainties and potential losses associated with both strategies.
-
-By thoughtfully integrating deferred equity and algorithmic trading, investors can create a robust financial plan that aligns with their individual goals, leveraging the strengths of each strategy to enhance their overall investment approach.
-
-## Conclusion
-
-Harnessing advanced investment strategies like deferred equity and algorithmic trading can significantly redefine modern financial planning. These strategies offer both flexibility and diversification, essential elements in building robust portfolios capable of withstanding various market conditions. By incorporating deferred equity, investors can benefit from potential capital appreciation at a future date while maintaining current income through dividends or interest. This approach acts as a strategic tool that offers long-term growth prospects while managing present-day cash flow needs.
-
-Algorithmic trading, on the other hand, empowers investors with the ability to make quick, data-driven decisions, optimizing trade execution and minimizing human errors. By leveraging sophisticated algorithms, investors can capitalize on market inefficiencies and execute trades at the most opportune moments. This technological advancement not only enhances the precision of trading but also allows for a more dynamic interaction with the market, adapting swiftly to changing conditions.
-
-The combination of these investment tools allows for a more comprehensive approach to financial planning, aligning with both short-term and long-term financial goals. They collectively enhance a portfolio’s potential for returns while managing associated risks effectively. This synergy between traditional and modern investment strategies illustrates the evolution of financial planning into a more adaptable and responsive process.
-
-However, the importance of continuous learning and adaptation to evolving markets cannot be understated. Investors must remain informed of the latest developments in financial strategies and market trends to sustain effective investment management. The dynamic nature of financial markets requires an ongoing commitment to education and strategic adjustment to maintain and enhance portfolio performance over time.
-
-In conclusion, deferred equity and algorithmic trading represent powerful tools within the investor’s arsenal, offering unique benefits that contribute to a diversified and resilient portfolio. The potential for enhanced returns combined with strategic risk management makes these approaches invaluable to both new and seasoned investors alike, emphasizing the need for adaptive strategies in an ever-evolving market landscape.
-
-## References
-
-1. Investopedia. "Deferred Equity." Available at: [https://www.investopedia.com/terms/d/deferred-equity.asp](https://www.investopedia.com/terms/d/deferred-equity.asp). This resource provides a comprehensive overview of deferred equity, defining its use and distinguishing its types, such as convertible bonds.
-
-2. Investopedia. "Convertible Bond." Available at: [https://www.investopedia.com/terms/c/convertiblebond.asp](https://www.investopedia.com/terms/c/convertiblebond.asp). Details on convertible bonds that form a part of deferred equity, including their functioning and benefits for investors.
-
-3. Quantified Strategies. "Understanding Algorithmic Trading." Available at: [https://www.quantifiedstrategies.com/algorithmic-trading/](https://www.quantifiedstrategies.com/algorithmic-trading/). An introductory guide to algorithmic trading, discussing its various types and their impact on modern trading practices.
-
-4. Quantified Strategies. "Backtesting Trading Strategies." Available at: [https://www.quantifiedstrategies.com/backtesting/](https://www.quantifiedstrategies.com/backtesting/). Highlights the significance of backtesting in developing robust algorithmic trading strategies.
-
-5. Investopedia. "Algorithmic Trading." Available at: [https://www.investopedia.com/terms/a/algorithmictrading.asp](https://www.investopedia.com/terms/a/algorithmictrading.asp). Provides an in-depth explanation of algorithmic trading, covering essential concepts and the role of data in strategy execution.
-
-6. Financial Times. "Algorithmic and High-Frequency Trading." Access requires subscription: [https://www.ft.com/](https://www.ft.com/). Offers insights into the intersection of algorithmic and high-frequency trading, examining market impact and efficiency.
-
-These sources offer readers an opportunity to further explore the key concepts presented in the article, providing both basic definitions and advanced discussions on the topics of deferred equity and algorithmic trading.
+For the recipients, the agreement should be fair and clear so they know what they are getting and when. The company can offer a bigger number of shares to make up for the fact that the recipients have to wait to get them. This can make the reward more attractive and worth waiting for. The agreement should also say what happens if the person leaves the company before they get their shares. If the terms are fair, it can make people feel more comfortable with the risk of waiting for their shares. By making the agreement clear and fair, both the company and the recipients can feel good about the deferred equity and work together to make the company successful.
 
 ## References & Further Reading
 
