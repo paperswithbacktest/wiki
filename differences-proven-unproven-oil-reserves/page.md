@@ -92,5 +92,5 @@ Geman, H. in "Commodities and Commodity Derivatives: Modelling and Pricing for A
 
 The U.S. Energy Information Administration (EIA) Reports are pivotal resources for current [statistics](/wiki/bayesian-statistics) on U.S. and international energy production and consumption. These reports offer timely and relevant data that inform policy decisions and trading strategies within energy markets.
 
-Aldridge, I. in "High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems" provides a comprehensive view of the advanced trading techniques revolutionizing financial markets. Her guide is invaluable for grasping the technical aspects and risks associated with algorithmic trading in energy markets.
+Aldridge, I. in "High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems" provides a comprehensive view of the advanced trading techniques revolutionizing financial markets. Her guide is invaluable for grasping the technical aspects and risks associated with [algorithmic trading](/wiki/algorithmic-trading) in energy markets.
 

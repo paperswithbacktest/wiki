@@ -58,7 +58,7 @@ There are different types of orders used in dark pools. One common type is the "
 
 ## What role do dark pools play in high-frequency trading?
 
-Dark pools can be important for high-frequency trading (HFT). HFT is when computers trade stocks very quickly, trying to make small profits many times a day. Dark pools let these high-frequency traders find big orders that are hidden from the public. This can help them make trades without other people knowing right away, which can give them an advantage. They can use this information to trade faster and make more money.
+Dark pools can be important for high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)). HFT is when computers trade stocks very quickly, trying to make small profits many times a day. Dark pools let these high-frequency traders find big orders that are hidden from the public. This can help them make trades without other people knowing right away, which can give them an advantage. They can use this information to trade faster and make more money.
 
 But using dark pools for HFT can also cause problems. Because high-frequency traders can see some of the hidden orders in dark pools, they might be able to guess what big investors are doing. This can make the market less fair for everyone else. Also, if too many high-frequency traders use dark pools, it can make the market more confusing and harder to understand. So, while dark pools can help high-frequency traders, they can also make the market less clear and fair for other people.
 

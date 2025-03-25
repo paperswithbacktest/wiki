@@ -74,7 +74,7 @@ Another strategy is to focus on investments that are taxed at a lower rate. For 
 
 When you sell something for less than you paid for it, you have a capital loss. You can use these losses to help reduce the taxes you owe on your capital gains. If you made a profit on one investment but lost money on another, you can subtract the loss from the gain. This can lower the amount of money you have to pay taxes on. For example, if you made a $1,000 profit on one stock but lost $500 on another, you can subtract that $500 loss from your $1,000 gain, so you only pay taxes on $500.
 
-If your capital losses are more than your capital gains, you can use the extra loss to lower your regular income. You can do this up to a certain amount each year, which is usually $3,000. If you still have more losses after that, you can carry them over to future years. This means you can keep using those losses to lower your taxes in the future until you use them all up. It's a good way to make the best out of a bad situation and save some money on taxes.
+If your capital losses are more than your capital gains, you can use the extra loss to lower your regular income. You can do this up to a certain amount each year, which is usually $3,000. If you still have more losses after that, you can [carry](/wiki/carry-trading) them over to future years. This means you can keep using those losses to lower your taxes in the future until you use them all up. It's a good way to make the best out of a bad situation and save some money on taxes.
 
 ## What advanced investment strategies can optimize the balance between capital gains and investment income?
 

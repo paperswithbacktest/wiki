@@ -66,7 +66,7 @@ Merrill Guided Investing's mobile app is also easy to use, but it looks a bit mo
 
 M1 Finance does not share detailed performance history for its pies, which are the investment plans you make. This means you can't see how well other people's pies have done over time. But, you can look at how the stocks and funds in your own pie are doing. M1 Finance gives you tools to see how your investments are growing, but you have to figure out how good your pie is by yourself. If you pick the right stocks and funds, your pie can do well, but it's up to you to make those choices.
 
-Merrill Guided Investing does share some performance history, but it's not super detailed. They show you how their different investment plans have done over time, so you can see if they've been good at making money for people. This can help you decide if you want to use their service. Merrill Guided Investing tries to make your money grow by picking the right mix of stocks and bonds for you. They change your plan as needed to keep it working well, which can help your investments do better over time.
+Merrill Guided Investing does share some performance history, but it's not super detailed. They show you how their different investment plans have done over time, so you can see if they've been good at making money for people. This can help you decide if you want to use their service. Merrill Guided Investing tries to make your money grow by [picking](/wiki/asset-class-picking) the right mix of stocks and bonds for you. They change your plan as needed to keep it working well, which can help your investments do better over time.
 
 ## What advanced investment tools does M1 Finance offer compared to Merrill Guided Investing?
 

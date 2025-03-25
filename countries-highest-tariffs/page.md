@@ -48,7 +48,7 @@ In other places like India, tariffs have also changed a lot. After India became 
 
 ## What are the economic impacts of high tariffs on domestic industries?
 
-High tariffs can help domestic industries by making imported goods more expensive. When foreign products cost more, people might choose to buy things made in their own country instead. This can help local businesses sell more and create more jobs. For example, if a country has high tariffs on imported cars, local car makers might sell more cars because they are cheaper than the imported ones. This can help the local economy grow because more people are working and earning money.
+High tariffs can help domestic industries by making imported goods more expensive. When foreign products cost more, people might choose to buy things made in their own country instead. This can help local businesses sell more and create more jobs. For example, if a country has high tariffs on imported cars, local car makers might sell more cars because they are cheaper than the imported ones. This can help the local economy grow because more people are working and [earning](/wiki/earning-announcement) money.
 
 But high tariffs can also have some downsides for domestic industries. If other countries get upset about the high tariffs, they might put their own tariffs on goods from the country that started it. This can make it harder for local businesses to sell their products abroad. Also, high tariffs can make things more expensive for people who live in the country. If the cost of imported goods goes up, people might have to pay more for things they need. This can hurt the economy if people have less money to spend on other things.
 

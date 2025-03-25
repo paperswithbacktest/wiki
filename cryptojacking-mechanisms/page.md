@@ -54,7 +54,7 @@ Your device might also get hot or the fans might run more than usual. When the b
 
 ## What are the differences between cryptojacking and other types of malware?
 
-Cryptojacking is different from other types of malware because it uses your computer's power to make digital money called cryptocurrency. Other malware, like viruses or ransomware, might steal your information, lock your files, or mess up your computer in other ways. Cryptojacking works quietly in the background, trying not to get noticed, while other malware might show you scary messages or make big changes to your computer.
+Cryptojacking is different from other types of malware because it uses your computer's power to make digital money called [cryptocurrency](/wiki/cryptocurrency). Other malware, like viruses or ransomware, might steal your information, lock your files, or mess up your computer in other ways. Cryptojacking works quietly in the background, trying not to get noticed, while other malware might show you scary messages or make big changes to your computer.
 
 Another difference is that cryptojacking doesn't usually aim to harm your device or steal your personal information directly. Its main goal is to use your device's power to solve math problems and make money for the bad people who put it there. On the other hand, other types of malware often have more harmful goals, like stealing your passwords, spying on you, or demanding money to unlock your files. While cryptojacking can slow down your device and use more electricity, it's less likely to cause direct damage or steal your data compared to other malware.
 
@@ -78,7 +78,7 @@ Over time, as more people learned about cryptojacking and started using better s
 
 ## What future trends might we expect in the field of cryptojacking and cybersecurity?
 
-In the future, we might see more clever ways that bad people try to use our computers to make digital money without us knowing. As more people use the internet and new types of digital money come out, the tricks to do cryptojacking might get harder to spot. Bad people could use new technology like artificial intelligence to make their attacks even sneakier. They might also find new ways to hide their bad software so it's harder for our security programs to find it.
+In the future, we might see more clever ways that bad people try to use our computers to make digital money without us knowing. As more people use the internet and new types of digital money come out, the tricks to do cryptojacking might get harder to spot. Bad people could use new technology like [artificial intelligence](/wiki/ai-artificial-intelligence) to make their attacks even sneakier. They might also find new ways to hide their bad software so it's harder for our security programs to find it.
 
 On the other hand, the people who make security software will keep working to stay one step ahead. They'll make better tools to find and stop cryptojacking faster. We might see new types of security that watch our devices more closely and can tell when something strange is happening. It will be important for everyone to keep learning about these new dangers and use the latest security tools to stay safe. By staying careful and keeping our devices updated, we can help stop bad people from using our computers to make money.
 

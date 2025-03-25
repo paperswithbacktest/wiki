@@ -58,7 +58,7 @@ Fidelity Go started in 2016, so it has a shorter history than Betterment. Like B
 
 ## What are the security measures in place at Betterment and Fidelity Go?
 
-Betterment takes security very seriously. They use strong encryption to keep your information safe when you use their website or app. They also have two-factor authentication, which means you need more than just a password to log in. This helps keep your account secure. Betterment also follows strict rules to protect your data and they are watched by groups like the Securities and Exchange Commission to make sure they are doing everything right.
+Betterment takes security very seriously. They use strong encryption to keep your information safe when you use their website or app. They also have two-[factor](/wiki/factor-investing) authentication, which means you need more than just a password to log in. This helps keep your account secure. Betterment also follows strict rules to protect your data and they are watched by groups like the Securities and Exchange Commission to make sure they are doing everything right.
 
 Fidelity Go also has strong security measures. They use encryption to protect your information and they have two-factor authentication too. This makes it harder for someone else to get into your account. Fidelity is a big company and they follow a lot of rules to keep your money and information safe. They are also watched by the same groups as Betterment to make sure they are keeping everything secure.
 

@@ -36,7 +36,7 @@ Coinbase also has a wide selection of cryptocurrencies. You can trade popular on
 
 ## How do the security measures of Gemini and Coinbase compare?
 
-Gemini takes security very seriously. They use something called cold storage to keep most of your cryptocurrencies safe offline, where hackers can't reach them. They also have two-factor authentication, which means you need two ways to prove it's really you when you log in. Gemini follows strict rules and gets checked regularly to make sure everything is safe. They also have insurance to protect your money if something goes wrong.
+Gemini takes security very seriously. They use something called cold storage to keep most of your cryptocurrencies safe offline, where hackers can't reach them. They also have two-[factor](/wiki/factor-investing) authentication, which means you need two ways to prove it's really you when you log in. Gemini follows strict rules and gets checked regularly to make sure everything is safe. They also have insurance to protect your money if something goes wrong.
 
 Coinbase also focuses a lot on keeping your money safe. Like Gemini, they use cold storage to protect your cryptocurrencies. They have two-factor authentication too, so you need more than just a password to get into your account. Coinbase follows the rules and gets checked to make sure they're doing things right. They also have insurance to cover your money in case of any problems. Both Gemini and Coinbase work hard to keep your cryptocurrencies secure, but they do it in slightly different ways.
 
@@ -54,13 +54,13 @@ Coinbase also provides customer support, mainly through email and a help center.
 
 ## What are the staking and earning opportunities on Gemini compared to Coinbase?
 
-Gemini offers a way for you to earn money through something called Gemini Earn. With Gemini Earn, you can lend your cryptocurrencies to Gemini, and they will pay you interest on your loan. This is a way to make some extra money without having to sell your cryptocurrencies. The interest rates can change and depend on which cryptocurrency you lend. Gemini also lets you stake certain cryptocurrencies like Ethereum and Tezos, which means you can help keep the blockchain running and get rewards for doing so.
+Gemini offers a way for you to earn money through something called Gemini Earn. With Gemini Earn, you can lend your cryptocurrencies to Gemini, and they will pay you interest on your loan. This is a way to make some extra money without having to sell your cryptocurrencies. The interest rates can change and depend on which [cryptocurrency](/wiki/cryptocurrency) you lend. Gemini also lets you stake certain cryptocurrencies like Ethereum and Tezos, which means you can help keep the blockchain running and get rewards for doing so.
 
 Coinbase also has ways for you to earn money. They have a feature called Coinbase Earn, where you can learn about new cryptocurrencies and get some for free by watching videos and taking quizzes. This is a fun way to learn and earn at the same time. Coinbase also offers staking, where you can stake cryptocurrencies like Ethereum, Tezos, and others to help the blockchain and earn rewards. The rewards and interest rates on Coinbase can change, so it's good to check their website to see what's available.
 
 ## How do the trading volumes and liquidity on Gemini and Coinbase compare?
 
-Coinbase usually has higher trading volumes and better liquidity than Gemini. This means that more people are buying and selling on Coinbase, so it's easier to trade there. When you want to buy or sell a cryptocurrency, you'll find it quicker and easier on Coinbase because there are more people trading. This is good because it means you can get a better price for your trades. Coinbase is one of the biggest cryptocurrency platforms, so it makes sense that it has more activity.
+Coinbase usually has higher trading volumes and better [liquidity](/wiki/liquidity-risk-premium) than Gemini. This means that more people are buying and selling on Coinbase, so it's easier to trade there. When you want to buy or sell a cryptocurrency, you'll find it quicker and easier on Coinbase because there are more people trading. This is good because it means you can get a better price for your trades. Coinbase is one of the biggest cryptocurrency platforms, so it makes sense that it has more activity.
 
 Gemini, on the other hand, has lower trading volumes and less liquidity compared to Coinbase. This means fewer people are trading on Gemini, so it might take a bit longer to buy or sell your cryptocurrencies. The prices might not be as good as on Coinbase because there are fewer people trading. But Gemini is still a trusted platform, and it's good for people who want a more professional and straightforward trading experience.
 

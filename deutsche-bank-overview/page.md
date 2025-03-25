@@ -76,7 +76,7 @@ Another way Deutsche Bank plans to grow is by being more careful with their mone
 
 ## How does Deutsche Bank contribute to sustainable finance and ESG goals?
 
-Deutsche Bank is working hard to help the world become more sustainable and reach environmental, social, and governance (ESG) goals. They do this by offering special loans and investments that help projects which are good for the environment, like renewable energy or energy-saving buildings. They also have rules to make sure they only work with companies that follow good ESG practices. This way, they encourage businesses to be more responsible and help the planet.
+Deutsche Bank is working hard to help the world become more sustainable and reach environmental, social, and governance ([ESG](/wiki/esg-investing)) goals. They do this by offering special loans and investments that help projects which are good for the environment, like renewable energy or energy-saving buildings. They also have rules to make sure they only work with companies that follow good ESG practices. This way, they encourage businesses to be more responsible and help the planet.
 
 Besides that, Deutsche Bank helps their customers understand how to invest in a way that is good for the world. They give advice and create special funds that focus on sustainable investments. By doing this, they want to make sure that money is used to help the environment and society, not hurt them. They believe that by focusing on sustainability, they can make a positive difference and help build a better future for everyone.
 

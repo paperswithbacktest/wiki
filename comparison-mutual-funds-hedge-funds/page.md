@@ -40,7 +40,7 @@ Hedge funds, on the other hand, have much higher minimum investment requirements
 
 ## How do the fee structures of mutual funds compare to those of hedge funds?
 
-Mutual funds usually charge two main types of fees: an expense ratio and sometimes a sales load. The expense ratio is a small percentage of your investment that goes to pay for managing the fund and other costs. It might be around 0.5% to 1.5% a year. A sales load is a one-time fee you pay when you buy or sell shares of the fund, but not all mutual funds have this. These fees are lower than hedge fund fees because mutual funds are designed for everyday investors and aim to keep costs down.
+Mutual funds usually charge two main types of fees: an expense ratio and sometimes a sales load. The expense ratio is a small percentage of your investment that goes to pay for managing the fund and other costs. It might be around 0.5% to 1.5% a year. A sales load is a one-time fee you pay when you buy or sell shares of the fund, but not all mutual funds have this. These fees are lower than [hedge fund](/wiki/hedge-fund-trading-strategies) fees because mutual funds are designed for everyday investors and aim to keep costs down.
 
 Hedge funds, on the other hand, charge much higher fees. They often use a "two and twenty" fee structure. This means they charge a 2% management fee on the total amount of money in the fund every year, and they also take 20% of any profits the fund makes. These fees are higher because hedge funds use riskier strategies and need skilled managers. The high fees are part of why hedge funds are usually only for rich people who can afford them.
 
@@ -52,7 +52,7 @@ Hedge funds, on the other hand, have less strict rules to follow. They are also 
 
 ## How do the liquidity and redemption policies differ between mutual funds and hedge funds?
 
-Mutual funds are pretty easy to get your money out of. You can usually sell your shares any time you want during the trading day. This means if you need your money back, you can get it pretty quickly, often within a few days. Mutual funds are set up to be easy for regular people to use, so they make it simple to buy and sell shares. This is called high liquidity because you can turn your investment into cash without much trouble.
+Mutual funds are pretty easy to get your money out of. You can usually sell your shares any time you want during the trading day. This means if you need your money back, you can get it pretty quickly, often within a few days. Mutual funds are set up to be easy for regular people to use, so they make it simple to buy and sell shares. This is called high [liquidity](/wiki/liquidity-risk-premium) because you can turn your investment into cash without much trouble.
 
 Hedge funds work differently. They don't let you take your money out whenever you want. Instead, you might have to wait for certain times of the year, called redemption periods, to get your money back. This can be every three months, every six months, or even once a year. If you try to pull your money out at the wrong time, you might have to pay a big fee. This is because hedge funds use riskier strategies and need to keep their money invested for longer periods to try to make more money. So, they have lower liquidity, meaning it's harder and can take longer to get your cash back.
 

@@ -50,7 +50,7 @@ Another risk is that cross margining can be complicated. It's not as simple as k
 
 Cross margining can help make markets more liquid and efficient. When traders use cross margining, they can use their money more efficiently because they don't need as much margin. This means they can trade more with the same amount of money. More trading can lead to more buyers and sellers in the market, which makes it easier for people to buy and sell things quickly. This increased activity can make the market more liquid, meaning there's more action and it's easier to trade.
 
-However, there are also risks that can affect market efficiency. If traders using cross margining face big losses and need to close their positions quickly, it can cause sudden changes in the market. This can make the market less stable and might scare other traders away. So, while cross margining can help with liquidity and efficiency, it's important for traders to manage their risks carefully to keep the market stable and efficient.
+However, there are also risks that can affect market efficiency. If traders using cross margining face big losses and need to close their positions quickly, it can cause sudden changes in the market. This can make the market less stable and might scare other traders away. So, while cross margining can help with [liquidity](/wiki/liquidity-risk-premium) and efficiency, it's important for traders to manage their risks carefully to keep the market stable and efficient.
 
 ## Can you explain the regulatory framework surrounding cross margining?
 
@@ -62,7 +62,7 @@ Cross margining can be tricky, so regulators also make sure that the exchanges h
 
 One real-world example of cross margining happens at the Chicago Mercantile Exchange (CME). Traders there can have positions in different futures, like stock index futures and commodity futures. If a trader has a position in S&P 500 futures and another in gold futures, the CME looks at how these might balance each other out. If the stock market goes down, S&P futures might lose value, but if gold prices go up at the same time, the gold futures could gain value. By considering these trades together, the CME can set a lower margin requirement for the trader, saving them money.
 
-Another example is at the Options Clearing Corporation (OCC), where traders can use cross margining for options and futures. A trader might have options on stocks and futures on interest rates. If the stock options lose value, the interest rate futures might gain value, balancing out the risk. The OCC calculates the total risk across all these positions and sets the margin accordingly. This helps traders manage their money better and take advantage of more trading opportunities without needing as much cash upfront.
+Another example is at the Options Clearing Corporation (OCC), where traders can use cross margining for options and futures. A trader might have options on stocks and futures on interest rates. If the stock options lose value, the [interest rate](/wiki/interest-rate-trading-strategies) futures might gain value, balancing out the risk. The OCC calculates the total risk across all these positions and sets the margin accordingly. This helps traders manage their money better and take advantage of more trading opportunities without needing as much cash upfront.
 
 ## How do clearinghouses manage the complexities of cross margining?
 

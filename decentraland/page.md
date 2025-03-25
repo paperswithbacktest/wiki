@@ -24,7 +24,7 @@ The world of Decentraland runs on a computer program called the blockchain. This
 
 In Decentraland, you can explore a big virtual world where people from all over the world come to play and build things. You can walk around and visit different places, like shops, games, and art galleries. If you own a piece of land, you can build your own creations on it, like a house or a fun game for others to enjoy. You can also meet other people and chat with them, making new friends from different parts of the world.
 
-Another fun thing you can do in Decentraland is to buy and sell things using special money called cryptocurrency. If you build something cool, other people might want to buy it from you, and you can earn more cryptocurrency. You can also go to events like concerts or parties that happen in the virtual world. There's always something new to see and do, making Decentraland a fun and exciting place to spend time.
+Another fun thing you can do in Decentraland is to buy and sell things using special money called [cryptocurrency](/wiki/cryptocurrency). If you build something cool, other people might want to buy it from you, and you can earn more cryptocurrency. You can also go to events like concerts or parties that happen in the virtual world. There's always something new to see and do, making Decentraland a fun and exciting place to spend time.
 
 ## How do you get started with Decentraland?
 

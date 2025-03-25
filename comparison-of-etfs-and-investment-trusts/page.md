@@ -24,7 +24,7 @@ The main difference between Investment Trusts and ETFs is how they are structure
 
 Starting to invest in ETFs is easy for beginners. First, you need to open a brokerage account. This is like a bank account, but it's used to buy and sell investments. Many brokers let you start with a small amount of money, so you don't need a lot to begin. Once your account is set up, you can search for ETFs that interest you. There are lots of ETFs to choose from, but if you're new, you might want to start with ones that track broad market indexes, like the S&P 500. These ETFs give you a piece of many different companies, which can help spread out your risk.
 
-After picking an ETF, you can place an order to buy it through your brokerage account. You can usually buy ETFs in whole shares or even fractions of shares, depending on your broker. Once you own the ETF, you can hold onto it for as long as you want. Over time, the value of the ETF will go up or down based on the performance of the assets it holds. Remember, investing in ETFs is a long-term game, so it's important to stay patient and not worry too much about short-term ups and downs.
+After [picking](/wiki/asset-class-picking) an [ETF](/wiki/etf-trading-strategies), you can place an order to buy it through your brokerage account. You can usually buy ETFs in whole shares or even fractions of shares, depending on your broker. Once you own the ETF, you can hold onto it for as long as you want. Over time, the value of the ETF will go up or down based on the performance of the assets it holds. Remember, investing in ETFs is a long-term game, so it's important to stay patient and not worry too much about short-term ups and downs.
 
 ## What are the key differences in structure between ETFs and Investment Trusts?
 
@@ -46,7 +46,7 @@ Investment Trusts, on the other hand, can have different tax implications. Becau
 
 ## How does liquidity vary between ETFs and Investment Trusts?
 
-ETFs usually have better liquidity than Investment Trusts. This means it's easier and quicker to buy and sell ETFs. They trade on stock exchanges just like regular stocks, and there are lots of people and big institutions buying and selling them all the time. This makes it easy to get in and out of your investment without waiting. Plus, because ETFs are designed to track indexes, there's always someone willing to buy or sell them at the right price.
+ETFs usually have better [liquidity](/wiki/liquidity-risk-premium) than Investment Trusts. This means it's easier and quicker to buy and sell ETFs. They trade on stock exchanges just like regular stocks, and there are lots of people and big institutions buying and selling them all the time. This makes it easy to get in and out of your investment without waiting. Plus, because ETFs are designed to track indexes, there's always someone willing to buy or sell them at the right price.
 
 Investment Trusts can be less liquid. This means it might take longer to buy or sell them, and sometimes you might not get the price you want. They also trade on stock exchanges, but they might not have as many people trading them as ETFs. The price of an Investment Trust can be different from the value of its assets, which can make it harder to know what price to buy or sell at. So, if you need to get your money out quickly, ETFs might be a better choice.
 

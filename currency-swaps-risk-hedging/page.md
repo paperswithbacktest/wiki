@@ -22,7 +22,7 @@ During the swap, they also agree to pay each other interest on the money they sw
 
 ## What are the main types of currency swaps?
 
-There are two main types of currency swaps: fixed-for-fixed and fixed-for-floating. In a fixed-for-fixed swap, both parties agree to pay each other a fixed interest rate on the swapped currency. This means the interest rate stays the same throughout the swap. It's like agreeing to pay a steady amount of interest no matter what happens in the market. This type of swap is good for companies that want to know exactly how much they'll pay or receive.
+There are two main types of currency swaps: fixed-for-fixed and fixed-for-floating. In a fixed-for-fixed swap, both parties agree to pay each other a fixed [interest rate](/wiki/interest-rate-trading-strategies) on the swapped currency. This means the interest rate stays the same throughout the swap. It's like agreeing to pay a steady amount of interest no matter what happens in the market. This type of swap is good for companies that want to know exactly how much they'll pay or receive.
 
 The other type is a fixed-for-floating swap. Here, one party pays a fixed interest rate, and the other pays a floating rate, which can change over time based on market conditions. This means one side has a steady interest payment, while the other side's payment can go up or down. This type of swap is useful when one party wants to take advantage of potential changes in interest rates while the other wants stability. Both types help companies manage their money and reduce risks from changing currency values.
 

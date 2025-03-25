@@ -48,7 +48,7 @@ Real Estate Mutual Funds work a bit differently when it comes to taxes. The divi
 
 ## How does liquidity compare between REITs and Real Estate Mutual Funds?
 
-Both REITs and Real Estate Mutual Funds are pretty easy to buy and sell because they are traded on stock exchanges. This means you can turn your investment into cash quickly if you need to. They both offer good liquidity compared to owning real estate directly, where it can take a long time to sell a property.
+Both REITs and Real Estate Mutual Funds are pretty easy to buy and sell because they are traded on stock exchanges. This means you can turn your investment into cash quickly if you need to. They both offer good [liquidity](/wiki/liquidity-risk-premium) compared to owning real estate directly, where it can take a long time to sell a property.
 
 The main difference in liquidity between REITs and Real Estate Mutual Funds is how fast you can get your money. REITs are usually very liquid because they are popular and lots of people trade them. This means you can often sell your shares quickly without affecting the price too much. Real Estate Mutual Funds can also be liquid, but sometimes they might not trade as much as REITs. This could mean it takes a bit longer to sell your shares, or you might not get the price you want if you need to sell quickly.
 
@@ -62,7 +62,7 @@ Real Estate Mutual Funds can have different minimums depending on the fund and t
 
 REITs and Real Estate Mutual Funds both let you invest in real estate, but they come with different risks. REITs focus on owning and managing specific types of properties, like malls or apartments. This means their risk depends a lot on how well those properties do. If the tenants stop paying rent or if the property values go down, the REIT might struggle. Also, because REITs have to pay out most of their income as dividends, they might need to borrow money to grow, which adds more risk if interest rates go up or if they can't pay back the loans.
 
-Real Estate Mutual Funds spread their money across different kinds of real estate, like buildings, land, and real estate stocks. This can make them less risky because if one type of investment does badly, the others might do well and balance things out. But, these funds can still go up and down with the real estate market. Plus, the fund managers make all the decisions about what to buy and sell, so if they make bad choices, it could hurt the fund's value. So, while Real Estate Mutual Funds might be a bit safer because they're more diversified, they still carry their own set of risks.
+Real Estate Mutual Funds spread their money across different kinds of real estate, like buildings, land, and real estate stocks. This can make them less risky because if one type of investment does badly, the others might do well and balance things out. But, these funds can still go up and down with the real estate market. Plus, the fund managers make all the decisions about what to buy and sell, so if they make bad choices, it could hurt the fund's value. So, while Real Estate Mutual Funds might be a bit safer because they're more diversified, they still [carry](/wiki/carry-trading) their own set of risks.
 
 ## What are the diversification benefits of investing in REITs compared to Real Estate Mutual Funds?
 

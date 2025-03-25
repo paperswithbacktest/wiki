@@ -30,7 +30,7 @@ Another benefit is that the interest payments on bonds can be tax-deductible. Th
 
 When a company issues corporate bonds, it takes on the risk of not being able to pay back the money it borrowed. If the company runs into financial trouble, it might not have enough money to make the interest payments or to pay back the bond when it matures. This can lead to a default, which is bad for the company's reputation and can make it hard to borrow money in the future. Investors might also demand higher interest rates from the company because they see it as riskier, which makes borrowing more expensive.
 
-Another risk is that interest rates might go up after the company issues its bonds. If this happens, the company could be stuck paying a higher interest rate than what's available in the market. This can make the company's debt more expensive than it planned. Also, if the company's credit rating goes down, the value of its bonds might drop, making it harder and more costly to issue new bonds or refinance existing ones.
+Another risk is that interest rates might go up after the company issues its bonds. If this happens, the company could be stuck paying a higher [interest rate](/wiki/interest-rate-trading-strategies) than what's available in the market. This can make the company's debt more expensive than it planned. Also, if the company's credit rating goes down, the value of its bonds might drop, making it harder and more costly to issue new bonds or refinance existing ones.
 
 ## How does the process of issuing a corporate bond work?
 

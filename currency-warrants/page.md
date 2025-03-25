@@ -24,7 +24,7 @@ Another difference is how these instruments are traded. Currency options are oft
 
 There are two main types of currency warrants that investors can choose from: call warrants and put warrants. A call warrant gives you the right to buy a specific amount of a currency at a set price before the warrant expires. If you think the value of that currency is going to go up, you might buy a call warrant because it could make you money if you're right. On the other hand, a put warrant gives you the right to sell a specific amount of a currency at a set price before it expires. If you think the value of a currency is going to go down, you might buy a put warrant to make a profit from that drop in value.
 
-Both types of warrants can be useful for investors who want to bet on changes in currency values without directly trading in the forex market. Call warrants are good for when you're feeling optimistic about a currency's future value, while put warrants are better when you're feeling pessimistic. Remember, though, that using warrants involves risk. If the currency doesn't move the way you expected, you could lose the money you spent on the warrant.
+Both types of warrants can be useful for investors who want to bet on changes in currency values without directly trading in the [forex](/wiki/forex-system) market. Call warrants are good for when you're feeling optimistic about a currency's future value, while put warrants are better when you're feeling pessimistic. Remember, though, that using warrants involves risk. If the currency doesn't move the way you expected, you could lose the money you spent on the warrant.
 
 ## How can one buy or sell a currency warrant?
 

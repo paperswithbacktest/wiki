@@ -56,7 +56,7 @@ In stock markets, which are a part of capital markets, the government also has s
 
 ## How does the liquidity of capital markets compare to that of stock markets?
 
-Liquidity means how easy it is to buy or sell something without affecting its price too much. In capital markets, which include stocks, bonds, and other financial products, liquidity can vary a lot. Stocks are usually very liquid because they are traded a lot every day in stock markets. But bonds and other financial products might not be traded as often, so they can be less liquid. This means it might take longer to sell them, and the price might change more when you do.
+Liquidity means how easy it is to buy or sell something without affecting its price too much. In capital markets, which include stocks, bonds, and other financial products, [liquidity](/wiki/liquidity-risk-premium) can vary a lot. Stocks are usually very liquid because they are traded a lot every day in stock markets. But bonds and other financial products might not be traded as often, so they can be less liquid. This means it might take longer to sell them, and the price might change more when you do.
 
 In stock markets, liquidity is generally high because so many people and big funds are buying and selling stocks all the time. This makes it easy for you to buy or sell stocks quickly without the price changing much. The high liquidity in stock markets is one reason why many people choose to invest in stocks. They know they can get their money out fast if they need to. So, while capital markets as a whole can have parts that are less liquid, stock markets are usually very liquid.
 

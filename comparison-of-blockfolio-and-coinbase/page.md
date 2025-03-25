@@ -18,7 +18,7 @@ Coinbase is another popular platform, but it's more than just a tracking app. Co
 
 Blockfolio is mainly used for keeping an eye on your cryptocurrency investments. It's like a digital notebook where you can list all the different types of crypto you own. You can see how much they're worth and how their prices are changing over time. Blockfolio also sends you news and updates about your cryptocurrencies, so you stay informed about what's happening in the crypto world. It's great for people who want to manage their crypto in one place but don't need to buy or sell it directly through the app.
 
-Coinbase, on the other hand, is a platform where you can actually buy, sell, and store your cryptocurrencies. It's like a bank and a marketplace rolled into one. You can use Coinbase to trade your regular money for Bitcoin, Ethereum, or other cryptocurrencies, and then trade them back if you want. Coinbase also has a wallet where you can keep your crypto safe. It's designed for people who want to actively trade and manage their cryptocurrency investments, not just track them.
+Coinbase, on the other hand, is a platform where you can actually buy, sell, and store your cryptocurrencies. It's like a bank and a marketplace rolled into one. You can use Coinbase to trade your regular money for Bitcoin, Ethereum, or other cryptocurrencies, and then trade them back if you want. Coinbase also has a wallet where you can keep your crypto safe. It's designed for people who want to actively trade and manage their [cryptocurrency](/wiki/cryptocurrency) investments, not just track them.
 
 ## Can you explain the user interface of Blockfolio compared to Coinbase?
 
@@ -34,7 +34,7 @@ Coinbase charges fees for buying, selling, and trading cryptocurrencies. When yo
 
 ## How do the security features of Blockfolio and Coinbase compare?
 
-Blockfolio has some good security features to keep your information safe. You can use two-factor authentication (2FA), which means you need a code from your phone to log in. This makes it harder for someone else to get into your account. Blockfolio also lets you set up a PIN code to add an extra layer of protection. However, since Blockfolio doesn't hold your cryptocurrencies directly (it just tracks them), the main security risk is someone getting into your account to see your portfolio details.
+Blockfolio has some good security features to keep your information safe. You can use two-[factor](/wiki/factor-investing) authentication (2FA), which means you need a code from your phone to log in. This makes it harder for someone else to get into your account. Blockfolio also lets you set up a PIN code to add an extra layer of protection. However, since Blockfolio doesn't hold your cryptocurrencies directly (it just tracks them), the main security risk is someone getting into your account to see your portfolio details.
 
 Coinbase takes security very seriously because it's a place where people keep their money. They use two-factor authentication too, and they also keep most of the cryptocurrencies in "cold storage," which means they're not connected to the internet and are harder for hackers to reach. Coinbase also has insurance to protect your money if something goes wrong. They monitor your account for anything unusual and will freeze it if they think something fishy is happening. So, Coinbase has more security features because it's dealing with actual money, not just tracking it like Blockfolio.
 

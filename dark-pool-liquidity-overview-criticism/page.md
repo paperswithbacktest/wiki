@@ -40,7 +40,7 @@ Another advantage of dark pools is that they can help big investors save on trad
 
 ## What are the common criticisms of dark pool liquidity?
 
-One common criticism of dark pool liquidity is that it makes the market less fair for regular investors. When big investors trade in dark pools, their orders are hidden from the public. This means that other people don't get to see all the trading activity happening in the market. It can be hard for regular investors to understand what's really going on with stock prices if some trades are happening in secret. This lack of transparency can make the market less fair because big investors have access to information that others don't.
+One common criticism of dark pool [liquidity](/wiki/liquidity-risk-premium) is that it makes the market less fair for regular investors. When big investors trade in dark pools, their orders are hidden from the public. This means that other people don't get to see all the trading activity happening in the market. It can be hard for regular investors to understand what's really going on with stock prices if some trades are happening in secret. This lack of transparency can make the market less fair because big investors have access to information that others don't.
 
 Another criticism is that dark pools can hurt the price discovery process. Price discovery is how the market figures out what a stock is worth based on all the buying and selling happening. When a lot of trading happens in dark pools, it's not included in this process. This can make it harder for the market to set the right price for stocks because not all the information is available. Some people worry that this can lead to prices that are not as accurate as they should be, which can be bad for everyone in the market.
 
@@ -64,7 +64,7 @@ Other countries have their own rules too. For example, in Europe, the Markets in
 
 ## How do dark pools compare to traditional exchanges in terms of trading volume and liquidity?
 
-Dark pools usually have less trading volume than traditional exchanges. Traditional exchanges like the New York Stock Exchange or NASDAQ have a lot of people buying and selling stocks all the time, so they have a lot of trading volume. Dark pools, on the other hand, are used by big investors to trade large amounts of stocks without showing their orders to the public. Because of this, the total amount of trading in dark pools is smaller compared to the big public exchanges.
+Dark pools usually have less trading [volume](/wiki/volume-trading-strategy) than traditional exchanges. Traditional exchanges like the New York Stock Exchange or NASDAQ have a lot of people buying and selling stocks all the time, so they have a lot of trading volume. Dark pools, on the other hand, are used by big investors to trade large amounts of stocks without showing their orders to the public. Because of this, the total amount of trading in dark pools is smaller compared to the big public exchanges.
 
 When it comes to liquidity, dark pools can offer a different kind of liquidity. Liquidity means how easy it is to buy or sell something without affecting its price too much. Traditional exchanges have a lot of liquidity because there are always people trading there. Dark pools provide liquidity for big investors who want to trade large amounts without moving the market price. But this liquidity is hidden from the public, so it doesn't help with the overall market liquidity that everyone can see and use.
 

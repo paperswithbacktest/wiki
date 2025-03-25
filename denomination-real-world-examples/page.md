@@ -36,7 +36,7 @@ The smallest denomination in the Eurozone is the 1 cent coin. It is worth very l
 
 Different countries use different types of money and have their own special denominations. For example, the United States uses the US dollar, and their smallest coin is the penny, worth 1 cent. In the Eurozone, they use the euro, and their smallest coin is the 1 cent coin. In Japan, they use the yen, and their smallest coin is the 1 yen coin. Each country decides what denominations to use based on what works best for them.
 
-The largest denominations also vary a lot from one country to another. In the United States, the biggest bill you usually see is the $100 bill. In the Eurozone, the biggest bill is the 500 euro note, but it's not used as much anymore. In Japan, the biggest bill is the 10,000 yen note. These big bills are used for big purchases or when people need to carry a lot of money. The choice of denominations reflects the economic needs and habits of each country.
+The largest denominations also vary a lot from one country to another. In the United States, the biggest bill you usually see is the $100 bill. In the Eurozone, the biggest bill is the 500 euro note, but it's not used as much anymore. In Japan, the biggest bill is the 10,000 yen note. These big bills are used for big purchases or when people need to [carry](/wiki/carry-trading) a lot of money. The choice of denominations reflects the economic needs and habits of each country.
 
 ## What historical factors have influenced the choice of denominations in a country?
 

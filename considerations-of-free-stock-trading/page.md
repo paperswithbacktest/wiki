@@ -34,7 +34,7 @@ Another thing to think about is that some brokerages might make money in other w
 
 ## How do free stock trading platforms make money?
 
-Free stock trading platforms make money in different ways, even though they don't charge you to buy or sell stocks. One way they make money is by earning interest on the money you keep in your account. When you put money into your account and don't invest it right away, the platform can use that money to make loans or invest it themselves, and they earn interest on it.
+Free stock trading platforms make money in different ways, even though they don't charge you to buy or sell stocks. One way they make money is by [earning](/wiki/earning-announcement) interest on the money you keep in your account. When you put money into your account and don't invest it right away, the platform can use that money to make loans or invest it themselves, and they earn interest on it.
 
 Another way free stock trading platforms make money is by selling your trading information to other companies. When you trade, the platform can see what you're buying and selling, and they can share that information with other businesses that might want to know about your trading habits. This helps those businesses make better decisions, and the platform gets paid for sharing the information. Also, some platforms might offer other services or products that you can pay for, like premium research tools or account management services, which adds to their income.
 
@@ -76,7 +76,7 @@ Regulations also help to stop bad things from happening in the market, like frau
 
 ## What future trends might influence the development of free stock trading?
 
-In the future, technology will probably change free stock trading a lot. More and more people might use their phones to trade, so apps will get even better and easier to use. There could also be new tools that use artificial intelligence to help people make better trading decisions. These tools might look at a lot of information really fast and tell you when it's a good time to buy or sell a stock. This could make trading easier for everyone, even people who are just starting out.
+In the future, technology will probably change free stock trading a lot. More and more people might use their phones to trade, so apps will get even better and easier to use. There could also be new tools that use [artificial intelligence](/wiki/ai-artificial-intelligence) to help people make better trading decisions. These tools might look at a lot of information really fast and tell you when it's a good time to buy or sell a stock. This could make trading easier for everyone, even people who are just starting out.
 
 Another big trend could be more rules and laws about free stock trading. As more people start trading, governments might want to make sure it's safe and fair for everyone. They might make new rules to stop bad things from happening, like people cheating or losing money because they don't understand what they're doing. This could mean that free stock trading platforms have to be more careful about how they work and what they tell their customers. It's all about making sure that everyone can trade without worrying too much.
 

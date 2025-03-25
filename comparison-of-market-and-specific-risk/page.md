@@ -42,7 +42,7 @@ Another example of specific risk is when a company loses its CEO suddenly. If th
 
 An investor can measure market risk by using something called beta. Beta is a number that shows how much a stock or a portfolio moves compared to the whole market. If a stock has a beta of 1, it means it moves the same way as the market. If the beta is more than 1, like 1.5, the stock will go up or down more than the market. If the beta is less than 1, like 0.5, the stock will move less than the market. This helps investors see how sensitive their investments are to market changes.
 
-Another way to measure market risk is by looking at the volatility of the market. Volatility means how much the prices of investments go up and down. You can use something called the standard deviation to measure this. A higher standard deviation means the market is moving a lot, which means more risk. By looking at the standard deviation of the market or a specific investment, investors can get a sense of how much risk they are taking on. Both beta and standard deviation give investors tools to understand and manage market risk.
+Another way to measure market risk is by looking at the [volatility](/wiki/volatility-trading-strategies) of the market. Volatility means how much the prices of investments go up and down. You can use something called the standard deviation to measure this. A higher standard deviation means the market is moving a lot, which means more risk. By looking at the standard deviation of the market or a specific investment, investors can get a sense of how much risk they are taking on. Both beta and standard deviation give investors tools to understand and manage market risk.
 
 ## How can an investor measure specific risk?
 

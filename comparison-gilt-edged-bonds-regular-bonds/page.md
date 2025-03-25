@@ -18,7 +18,7 @@ These bonds pay interest to the people who buy them, usually twice a year. The i
 
 Regular bonds are like loans that people or companies can buy from a government or a company. When you buy a bond, you are giving money to the issuer, and in return, they promise to pay you back the money you lent them, plus some extra money as interest, over a certain period of time. This interest is usually paid to you every year or every six months until the bond reaches its end date, which is called the maturity date. At the maturity date, the issuer gives you back the original amount of money you lent them.
 
-Bonds can be issued by governments, like the U.S. Treasury bonds, or by companies, known as corporate bonds. Government bonds are generally seen as safer because governments are less likely to run out of money compared to companies. However, corporate bonds might offer higher interest rates to attract investors because they can be riskier. The interest rate, or the coupon rate, depends on how much the issuer thinks they need to pay to get people to buy their bonds, and it can be affected by things like how well the economy is doing or how much risk people think there is.
+Bonds can be issued by governments, like the U.S. Treasury bonds, or by companies, known as corporate bonds. Government bonds are generally seen as safer because governments are less likely to run out of money compared to companies. However, corporate bonds might offer higher interest rates to attract investors because they can be riskier. The [interest rate](/wiki/interest-rate-trading-strategies), or the coupon rate, depends on how much the issuer thinks they need to pay to get people to buy their bonds, and it can be affected by things like how well the economy is doing or how much risk people think there is.
 
 ## How do the issuers of gilt-edged bonds differ from those of regular bonds?
 
@@ -58,7 +58,7 @@ Regular bonds, on the other hand, usually don't have the same tax benefits. The 
 
 ## How does liquidity in the market for gilt-edged bonds compare to that for regular bonds?
 
-Gilt-edged bonds usually have good liquidity in the market. This means it's pretty easy to buy or sell them without causing a big change in their price. Since they are issued by the UK government, lots of people want to buy them because they are safe. There are also many buyers and sellers in the market, which helps keep things moving smoothly. If you need to sell your gilt-edged bonds quickly, you can usually do it without much trouble.
+Gilt-edged bonds usually have good [liquidity](/wiki/liquidity-risk-premium) in the market. This means it's pretty easy to buy or sell them without causing a big change in their price. Since they are issued by the UK government, lots of people want to buy them because they are safe. There are also many buyers and sellers in the market, which helps keep things moving smoothly. If you need to sell your gilt-edged bonds quickly, you can usually do it without much trouble.
 
 Regular bonds can have different levels of liquidity depending on who issued them. If they are government bonds from a big country like the U.S., they might be very liquid, similar to gilt-edged bonds. But if they are corporate bonds, especially from smaller or less well-known companies, they might not be as easy to buy or sell. Fewer people might want to trade these bonds, so if you need to sell them quickly, you might have to accept a lower price or wait longer to find a buyer.
 
@@ -66,7 +66,7 @@ Regular bonds can have different levels of liquidity depending on who issued the
 
 Gilt-edged bonds can be a good choice for a diversified investment portfolio because they are very safe. They are issued by the UK government, so there's a very low chance they won't pay you back. This makes them a good way to balance out riskier investments in your portfolio. If you have some money in stocks or corporate bonds that might go up and down a lot, gilt-edged bonds can help keep things more stable. Plus, since you don't have to pay tax on the interest from gilt-edged bonds if you live in the UK, they can be a smart way to earn some money without losing much to taxes.
 
-Regular bonds, like those from other governments or companies, can also help diversify your portfolio but in different ways. They might offer higher interest rates, especially if they are from companies, but they come with more risk. If a company has trouble paying its bills, you could lose money on its bonds. So, regular bonds can add both more potential reward and more risk to your portfolio. By mixing gilt-edged bonds with regular bonds, you can find a balance that fits your comfort with risk and your goals for earning money.
+Regular bonds, like those from other governments or companies, can also help diversify your portfolio but in different ways. They might offer higher interest rates, especially if they are from companies, but they come with more risk. If a company has trouble paying its bills, you could lose money on its bonds. So, regular bonds can add both more potential reward and more risk to your portfolio. By mixing gilt-edged bonds with regular bonds, you can find a balance that fits your comfort with risk and your goals for [earning](/wiki/earning-announcement) money.
 
 ## How have historical yields of gilt-edged bonds compared to those of regular bonds?
 

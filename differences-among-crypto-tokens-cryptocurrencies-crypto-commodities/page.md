@@ -28,7 +28,7 @@ People use crypto commodities for investing and trading. They can buy and sell t
 
 ## How do crypto tokens differ from cryptocurrencies?
 
-Crypto tokens and cryptocurrencies are both types of digital assets that exist on a blockchain, but they have some key differences. A cryptocurrency is like digital money that you can use to buy things online. It's not controlled by banks or governments, and it's mainly used for making payments or as an investment. Bitcoin and Ethereum are examples of cryptocurrencies.
+Crypto tokens and cryptocurrencies are both types of digital assets that exist on a blockchain, but they have some key differences. A [cryptocurrency](/wiki/cryptocurrency) is like digital money that you can use to buy things online. It's not controlled by banks or governments, and it's mainly used for making payments or as an investment. Bitcoin and Ethereum are examples of cryptocurrencies.
 
 On the other hand, a crypto token often represents something more specific, like a share in a company or the right to use a certain service on the blockchain. Tokens are usually created through an Initial Coin Offering (ICO), where new tokens are sold to raise money for a project. While you can use some tokens for buying things, they are often used for other purposes, like rewarding people for participating in the blockchain's activities or giving them access to special features.
 

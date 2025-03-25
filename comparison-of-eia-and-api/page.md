@@ -34,7 +34,7 @@ The EIA also collects data on energy prices. This includes the prices people pay
 
 ## What types of data does API typically report?
 
-The API mainly reports data about how much oil is stored in the United States. Every week, they release a report that tells people how much crude oil, gasoline, and other oil products are being held in storage. This information is important for people who buy and sell oil because it helps them understand if there is a lot of oil available or if supplies are low.
+The API mainly reports data about how much oil is stored in the United States. Every week, they release a report that tells people how much [crude oil](/wiki/crude-oil), gasoline, and other oil products are being held in storage. This information is important for people who buy and sell oil because it helps them understand if there is a lot of oil available or if supplies are low.
 
 The API's data comes from the companies that are part of the API. These companies tell the API how much oil they have in their storage tanks, and the API puts all this information together in their weekly report. While the API's data is not as detailed as what the EIA reports, it comes out faster, which makes it very useful for people who need to make quick decisions about buying and selling oil.
 
@@ -76,7 +76,7 @@ The API also makes changes to their data if they need to. If they find out that 
 
 ## What advanced analytical tools can be used with EIA and API data for expert analysis?
 
-For expert analysis, EIA data can be used with many advanced tools. People often use software like Microsoft Excel or Python to look at the data closely. They can make charts and graphs to see patterns and trends over time. Some experts use special programs like R or SAS to do more complicated math and statistics. These tools help them predict what might happen with energy prices and supplies in the future. The EIA also has its own tools on their website, like the EIA's data browser, which lets people look at and play with the data in different ways.
+For expert analysis, EIA data can be used with many advanced tools. People often use software like Microsoft Excel or Python to look at the data closely. They can make charts and graphs to see patterns and trends over time. Some experts use special programs like R or SAS to do more complicated math and [statistics](/wiki/bayesian-statistics). These tools help them predict what might happen with energy prices and supplies in the future. The EIA also has its own tools on their website, like the EIA's data browser, which lets people look at and play with the data in different ways.
 
 API data is also used with these advanced tools, but because it comes out quickly, it's often used for fast analysis. Traders and investors might use real-time data platforms like Bloomberg Terminal or Reuters Eikon to see the latest API numbers as soon as they come out. These platforms help them make quick decisions about buying and selling oil. Some people also use programming languages like Python to build their own models and algorithms that can react to the API data right away. This helps them stay ahead in the fast-moving oil market.
 

@@ -54,7 +54,7 @@ To make same-day delivery work, companies often set up special areas in cities w
 
 ## What role do drones and autonomous vehicles play in modern delivery practices?
 
-Drones and autonomous vehicles are changing how things get delivered. Drones are small flying machines that can carry packages to people's homes quickly. They are good for delivering small items in places where it's hard for trucks to go, like islands or busy city centers. Drones can fly over traffic and get to places faster than cars. But, they can only carry light things and need good weather to fly. Also, rules about where drones can fly can make it hard to use them everywhere.
+Drones and autonomous vehicles are changing how things get delivered. Drones are small flying machines that can [carry](/wiki/carry-trading) packages to people's homes quickly. They are good for delivering small items in places where it's hard for trucks to go, like islands or busy city centers. Drones can fly over traffic and get to places faster than cars. But, they can only carry light things and need good weather to fly. Also, rules about where drones can fly can make it hard to use them everywhere.
 
 Autonomous vehicles, like self-driving trucks and vans, are also being used more for deliveries. These vehicles can drive themselves, which means they don't need a person to be in them all the time. This can save companies money and make deliveries faster because the vehicles can work all day and night. They use special maps and sensors to find their way and avoid accidents. But, making sure these vehicles are safe and can handle all kinds of roads is a big challenge. Both drones and autonomous vehicles are making delivery faster and more efficient, but there are still some hurdles to overcome.
 

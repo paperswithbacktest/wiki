@@ -22,13 +22,13 @@ People like balanced funds because they do the hard work of choosing the right m
 
 ## How do blend funds and balanced funds differ in terms of asset allocation?
 
-Blend funds and balanced funds are different in how they choose to spread out their investments. A blend fund focuses on stocks, mixing growth stocks and value stocks together. Growth stocks are from companies that might grow fast, while value stocks are from companies that seem like a good deal. Blend funds don't usually include bonds or other types of investments. They just try to balance the risk and reward within the stock part of the market.
+Blend funds and balanced funds are different in how they choose to spread out their investments. A blend fund focuses on stocks, mixing [growth stocks](/wiki/growth-stocks) and value stocks together. Growth stocks are from companies that might grow fast, while value stocks are from companies that seem like a good deal. Blend funds don't usually include bonds or other types of investments. They just try to balance the risk and reward within the stock part of the market.
 
 On the other hand, balanced funds mix different types of investments, not just stocks. They usually have both stocks and bonds in them. The stocks can be a mix of growth and value, but the big difference is that balanced funds also have bonds, which are safer and give steady income. This mix helps balanced funds to be less risky than blend funds because bonds can protect the fund if the stock market goes down. So, while blend funds focus on balancing within stocks, balanced funds aim to balance between stocks and other investments like bonds.
 
 ## What are the primary investment objectives of blend funds?
 
-The main goal of blend funds is to give investors a mix of growth and value stocks. This means they want to help your money grow by picking companies that are expected to do well in the future, while also choosing companies that are a good deal right now. By doing this, blend funds try to balance the risk and reward of investing in stocks. They aim to give you the chance to make money from companies that are growing fast, but also protect you a bit by investing in companies that are cheaper but still good.
+The main goal of blend funds is to give investors a mix of growth and value stocks. This means they want to help your money grow by [picking](/wiki/asset-class-picking) companies that are expected to do well in the future, while also choosing companies that are a good deal right now. By doing this, blend funds try to balance the risk and reward of investing in stocks. They aim to give you the chance to make money from companies that are growing fast, but also protect you a bit by investing in companies that are cheaper but still good.
 
 Blend funds are all about finding a middle ground. They don't want to take too much risk by only investing in fast-growing companies, but they also don't want to miss out on the potential big gains from those companies. By mixing growth and value stocks, blend funds try to smooth out the ups and downs of the stock market. This can make them a good choice for people who want to invest in stocks but are not sure if they want to focus only on growth or only on value.
 
@@ -40,7 +40,7 @@ Balanced funds want to make sure your money is not too risky but still has a cha
 
 ## Can you explain the risk profile associated with blend funds?
 
-Blend funds have a risk profile that sits somewhere in the middle when it comes to stock investments. Since they mix growth and value stocks, they try to balance the risk that comes with investing in stocks. Growth stocks can be riskier because they might go up a lot but can also drop if the company doesn't do as well as expected. Value stocks are usually seen as less risky because they are cheaper and might be a safer bet, but they still carry some risk because their prices can change too.
+Blend funds have a risk profile that sits somewhere in the middle when it comes to stock investments. Since they mix growth and value stocks, they try to balance the risk that comes with investing in stocks. Growth stocks can be riskier because they might go up a lot but can also drop if the company doesn't do as well as expected. Value stocks are usually seen as less risky because they are cheaper and might be a safer bet, but they still [carry](/wiki/carry-trading) some risk because their prices can change too.
 
 Because blend funds have both types of stocks, they aim to lower the overall risk compared to just investing in growth stocks. However, they are still mostly made up of stocks, which means they can go up and down more than funds that have bonds or other safer investments. So, while blend funds are less risky than pure growth funds, they are still more risky than funds that mix in bonds or other types of investments. This makes them a good choice for people who want to invest in stocks but don't want to take on too much risk.
 

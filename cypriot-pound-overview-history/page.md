@@ -36,7 +36,7 @@ When people in Cyprus used the Cypriot Pound, they could use coins and banknotes
 
 The Cypriot Pound had different coins and banknotes that people used every day. The coins were made of metal and came in values like 1 cent, 2 cents, 5 cents, 10 cents, 20 cents, and 50 cents. These smaller coins helped people pay for things that cost less than a whole pound. For example, if something cost 25 cents, you could use a 20-cent coin and a 5-cent coin to pay exactly.
 
-The banknotes were made of paper and came in bigger values like 1 pound, 5 pounds, 10 pounds, 20 pounds, and 50 pounds. These were used for bigger purchases or when people needed to carry more money. For instance, if you were buying something that cost 15 pounds, you could use a 10-pound note and a 5-pound note. This way, people in Cyprus could easily use the Cypriot Pound for all their money needs until they switched to the Euro.
+The banknotes were made of paper and came in bigger values like 1 pound, 5 pounds, 10 pounds, 20 pounds, and 50 pounds. These were used for bigger purchases or when people needed to [carry](/wiki/carry-trading) more money. For instance, if you were buying something that cost 15 pounds, you could use a 10-pound note and a 5-pound note. This way, people in Cyprus could easily use the Cypriot Pound for all their money needs until they switched to the Euro.
 
 ## What historical events significantly impacted the value of the Cypriot Pound?
 

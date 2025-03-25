@@ -18,7 +18,7 @@ It can be exciting but also risky. You need to know a lot about the market and b
 
 Swing trading is when people buy and sell stocks or other financial things over a few days or weeks. They try to make money from bigger changes in prices than day traders do. Swing traders look for patterns in the market and hold onto their investments for a bit longer, hoping the price will go up before they sell.
 
-It's less fast-paced than day trading, so it can be less stressful. But it still needs a lot of research and understanding of the market. Swing traders use charts and other tools to decide when to buy and sell. It's important to be patient and have a good plan because the market can be unpredictable.
+It's less fast-paced than [day trading](/wiki/day-trading-spy), so it can be less stressful. But it still needs a lot of research and understanding of the market. Swing traders use charts and other tools to decide when to buy and sell. It's important to be patient and have a good plan because the market can be unpredictable.
 
 ## How do the time frames for holding trades differ between day trading and swing trading?
 
@@ -28,7 +28,7 @@ Swing trading, on the other hand, involves holding trades for a few days or week
 
 ## What are the typical assets traded in day trading versus swing trading?
 
-Day traders usually trade assets that can be bought and sold quickly and have a lot of activity during the day. These often include stocks, especially those that are popular and have high trading volumes. They also trade things like forex (currency pairs) and futures contracts. Day traders need assets that move a lot in price so they can make money from small changes.
+Day traders usually trade assets that can be bought and sold quickly and have a lot of activity during the day. These often include stocks, especially those that are popular and have high trading volumes. They also trade things like [forex](/wiki/forex-system) (currency pairs) and futures contracts. Day traders need assets that move a lot in price so they can make money from small changes.
 
 Swing traders also trade stocks, but they might focus on different ones than day traders. They often look at stocks that have good potential for bigger price moves over a few days or weeks. Besides stocks, swing traders might trade forex, futures, and sometimes options. They choose assets that have clear patterns and trends they can follow over a longer time.
 
@@ -58,7 +58,7 @@ Swing trading might not give you quick profits like day trading, but it can stil
 
 ## How do market volatility and economic news impact day trading and swing trading differently?
 
-Market volatility and economic news can make day trading very exciting but also very risky. Day traders need to watch the market all the time, so when prices move a lot because of news or big changes, they have to make quick decisions. If they guess right, they can make money fast. But if they guess wrong, they can lose money just as fast. Economic news like interest rate changes or big company announcements can make the market go up and down a lot in one day, which is good for day traders if they can handle the stress and make the right moves.
+Market [volatility](/wiki/volatility-trading-strategies) and economic news can make day trading very exciting but also very risky. Day traders need to watch the market all the time, so when prices move a lot because of news or big changes, they have to make quick decisions. If they guess right, they can make money fast. But if they guess wrong, they can lose money just as fast. Economic news like [interest rate](/wiki/interest-rate-trading-strategies) changes or big company announcements can make the market go up and down a lot in one day, which is good for day traders if they can handle the stress and make the right moves.
 
 Swing trading is affected by market volatility and economic news too, but in a different way. Because swing traders hold their trades for days or weeks, they don't need to react as quickly to sudden changes. They can take their time to see how the market settles after big news. If the market keeps moving in the direction they expected because of the news, they can make good profits. But if the market goes the other way, they might have to wait longer or even lose money. So, while swing traders don't face the same fast-paced risks as day traders, they still need to be careful and patient when big news comes out.
 
@@ -76,9 +76,9 @@ Swing trading usually has lower costs and fees because swing traders don't trade
 
 ## What advanced strategies can be used to optimize performance in day trading and swing trading?
 
-For day trading, one advanced strategy is called scalping. This means making lots of small trades in a day to make a little bit of money from each one. Day traders using this strategy need to be very quick and use special tools to see what the market is doing. Another strategy is using something called momentum trading. This means finding stocks that are moving a lot and trying to make money from that movement. Day traders need to be good at reading the market and knowing when to get in and out of trades fast. They also use something called stop-loss orders to limit their losses if the market goes against them.
+For day trading, one advanced strategy is called [scalping](/wiki/gamma-scalping). This means making lots of small trades in a day to make a little bit of money from each one. Day traders using this strategy need to be very quick and use special tools to see what the market is doing. Another strategy is using something called [momentum](/wiki/momentum) trading. This means finding stocks that are moving a lot and trying to make money from that movement. Day traders need to be good at reading the market and knowing when to get in and out of trades fast. They also use something called stop-loss orders to limit their losses if the market goes against them.
 
-For swing trading, one advanced strategy is using technical analysis. This means looking at charts and patterns to predict where the price might go next. Swing traders might use things like moving averages and trend lines to help them make decisions. Another strategy is called breakout trading, where swing traders look for stocks that are about to break out of a certain price range. They try to buy before the price goes up and sell when it reaches a new high. Swing traders also use stop-loss orders to protect their money, but they set them a bit wider than day traders because they hold their trades longer. Both strategies need a lot of practice and understanding of the market to work well.
+For swing trading, one advanced strategy is using technical analysis. This means looking at charts and patterns to predict where the price might go next. Swing traders might use things like moving averages and trend lines to help them make decisions. Another strategy is called [breakout](/wiki/breakout-trading) trading, where swing traders look for stocks that are about to break out of a certain price range. They try to buy before the price goes up and sell when it reaches a new high. Swing traders also use stop-loss orders to protect their money, but they set them a bit wider than day traders because they hold their trades longer. Both strategies need a lot of practice and understanding of the market to work well.
 
 ## References & Further Reading
 

@@ -48,7 +48,7 @@ Another way to evaluate intrinsic value is by using valuation methods like the p
 
 Before adopting a contrarian strategy, an investor should think about how they handle fear and doubt. Going against the crowd can be scary because everyone else might think you're wrong. When the market is going down and everyone is selling, it's hard not to feel worried. If you're the kind of person who gets easily scared by what other people are doing, contrarian investing might be too stressful for you. You need to be able to stick to your own beliefs even when it feels like the whole world is against you.
 
-Another important psychological factor is patience. Contrarian investing often means waiting a long time for your investments to pay off. If the market stays down longer than you expected, you need to be able to keep calm and not sell just because you're getting impatient. It's easy to feel frustrated when your investments aren't making money right away, but if you can stay patient and believe in your choices, you might see big rewards in the end. So, before you start, make sure you're ready to wait it out and not give up too soon.
+Another important psychological [factor](/wiki/factor-investing) is patience. Contrarian investing often means waiting a long time for your investments to pay off. If the market stays down longer than you expected, you need to be able to keep calm and not sell just because you're getting impatient. It's easy to feel frustrated when your investments aren't making money right away, but if you can stay patient and believe in your choices, you might see big rewards in the end. So, before you start, make sure you're ready to wait it out and not give up too soon.
 
 ## How can diversification be used effectively in contrarian investing?
 

@@ -28,7 +28,7 @@ Credit rating agencies like Moody's, Standard & Poor's, and Fitch use all this i
 
 ## What are the main types of credit ratings?
 
-There are two main types of credit ratings: personal credit ratings and corporate credit ratings. Personal credit ratings are scores given to individuals. They show how well someone manages their money, like if they pay their bills on time and how much debt they have. These ratings help banks decide if they should lend money to a person and at what interest rate. A high personal credit rating means a person is seen as reliable and less risky, so they can borrow money more easily and at lower interest rates.
+There are two main types of credit ratings: personal credit ratings and corporate credit ratings. Personal credit ratings are scores given to individuals. They show how well someone manages their money, like if they pay their bills on time and how much debt they have. These ratings help banks decide if they should lend money to a person and at what [interest rate](/wiki/interest-rate-trading-strategies). A high personal credit rating means a person is seen as reliable and less risky, so they can borrow money more easily and at lower interest rates.
 
 Corporate credit ratings are given to businesses and companies. They show how likely a company is to pay back its debts. These ratings are important for investors who want to buy the company's bonds or lend them money. A high corporate credit rating means the company is financially healthy and less risky, so investors feel more confident about their investment. If a company has a low rating, it might have to pay higher interest rates to borrow money, or investors might be less willing to lend to them.
 

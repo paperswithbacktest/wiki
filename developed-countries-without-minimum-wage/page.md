@@ -52,7 +52,7 @@ On the other hand, not having a minimum wage can also make some workers worried 
 
 ## How do social welfare systems in these countries support workers in the absence of a minimum wage?
 
-In Sweden and Denmark, the social welfare systems help a lot to support workers even if there is no minimum wage. These countries have strong social safety nets that give people money if they lose their job or if they can't work because they are sick. This means that even if someone is not earning a lot from their job, they can still get help from the government to make sure they have enough to live on. This support helps take away some of the worry that workers might have about not having a minimum wage.
+In Sweden and Denmark, the social welfare systems help a lot to support workers even if there is no minimum wage. These countries have strong social safety nets that give people money if they lose their job or if they can't work because they are sick. This means that even if someone is not [earning](/wiki/earning-announcement) a lot from their job, they can still get help from the government to make sure they have enough to live on. This support helps take away some of the worry that workers might have about not having a minimum wage.
 
 Also, the social welfare systems in Sweden and Denmark help make sure that everyone can have a good life, no matter how much they earn. They offer things like free healthcare, education, and help with housing costs. This means that workers don't have to worry as much about big expenses, even if their wages are not high. By having these strong social supports, Sweden and Denmark can make sure that their workers are taken care of, even without a minimum wage law.
 

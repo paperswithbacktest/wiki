@@ -36,7 +36,7 @@ Another place to get short interest data is through the stock exchange where the
 
 Short interest is calculated by adding up all the shares of a stock that investors have sold short but haven't bought back yet. This count is done by the stock exchanges, like the NYSE or NASDAQ, usually twice a month. They look at all the short positions that are open at that time and add them up to get the total short interest for each stock. This number tells you how many people are betting that the stock's price will go down.
 
-Once the short interest is calculated, the exchanges report it to the public. This information is shared on their websites and can also be found on financial websites like Yahoo Finance or Finviz. The report includes the total number of shares shorted and sometimes a short interest ratio, which is the number of days it would take for all the short positions to be covered based on the stock's average daily trading volume. This helps investors understand how much pessimism there is about a stock and can influence their decisions on whether to buy or sell.
+Once the short interest is calculated, the exchanges report it to the public. This information is shared on their websites and can also be found on financial websites like Yahoo Finance or Finviz. The report includes the total number of shares shorted and sometimes a short interest ratio, which is the number of days it would take for all the short positions to be covered based on the stock's average daily trading [volume](/wiki/volume-trading-strategy). This helps investors understand how much pessimism there is about a stock and can influence their decisions on whether to buy or sell.
 
 ## What does a high short interest ratio indicate about a stock?
 

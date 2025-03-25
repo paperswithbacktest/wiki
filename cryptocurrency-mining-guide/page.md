@@ -28,7 +28,7 @@ For other cryptocurrencies like Ethereum, which used to use Proof of Work but ar
 
 ## What software should beginners use for cryptocurrency mining?
 
-For beginners starting with cryptocurrency mining, a good software to use is CGMiner. It is free and works on many different types of computers, including those with GPUs and ASICs. CGMiner is easy to set up and has a command-line interface, which might look a bit tricky at first but is not too hard to learn. It also lets you connect to different mining pools, which are groups of miners working together to solve problems and share rewards.
+For beginners starting with [cryptocurrency](/wiki/cryptocurrency) mining, a good software to use is CGMiner. It is free and works on many different types of computers, including those with GPUs and ASICs. CGMiner is easy to set up and has a command-line interface, which might look a bit tricky at first but is not too hard to learn. It also lets you connect to different mining pools, which are groups of miners working together to solve problems and share rewards.
 
 Another good choice for beginners is EasyMiner. As the name says, it is made to be easy to use. It has a simple graphical interface, so you don't need to type in commands. EasyMiner works with many cryptocurrencies and can use both GPUs and CPUs for mining. It also supports mining pools and has features that help you keep track of how well your mining is going.
 

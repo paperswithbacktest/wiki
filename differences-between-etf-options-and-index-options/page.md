@@ -22,11 +22,11 @@ These options can be useful if you want to make a guess about the whole market w
 
 ## How do ETF options differ from index options in terms of underlying assets?
 
-ETF options and index options both let you bet on the future price of a group of stocks, but they have different underlying assets. An ETF option is based on an exchange-traded fund, which is like a basket of stocks or other assets that you can buy and sell on a stock exchange, just like a single stock. So, when you buy an ETF option, you're betting on the future price of that specific ETF.
+[ETF](/wiki/etf-trading-strategies) options and index options both let you bet on the future price of a group of stocks, but they have different underlying assets. An ETF option is based on an exchange-traded fund, which is like a basket of stocks or other assets that you can buy and sell on a stock exchange, just like a single stock. So, when you buy an ETF option, you're betting on the future price of that specific ETF.
 
 On the other hand, an index option is based on an index, which is a way to measure how a bunch of stocks are doing overall. An index doesn't actually hold the stocks; it just tracks their performance. So, when you buy an index option, you're betting on the future movement of the index itself, not on any specific ETF or group of stocks that you can trade directly.
 
-In simple terms, ETF options are tied to a tradable product (the ETF), while index options are tied to a theoretical measure (the index). This means that ETF options can be influenced by factors like the ETF's trading volume and liquidity, while index options are more directly tied to the performance of the stocks in the index.
+In simple terms, ETF options are tied to a tradable product (the ETF), while index options are tied to a theoretical measure (the index). This means that ETF options can be influenced by factors like the ETF's trading [volume](/wiki/volume-trading-strategy) and [liquidity](/wiki/liquidity-risk-premium), while index options are more directly tied to the performance of the stocks in the index.
 
 ## What are the key differences in liquidity between ETF options and index options?
 
@@ -54,7 +54,7 @@ In both cases, you can also use losses from trading options to offset gains, whi
 
 ## How do the pricing mechanisms for ETF options compare to those of index options?
 
-The pricing of ETF options and index options is influenced by similar factors, like the price of the underlying asset, time until expiration, and expected volatility. But there are some differences. ETF options are priced based on the market price of the ETF itself, which you can buy and sell like a stock. Because ETFs are traded on an exchange, their prices can be affected by supply and demand, trading volume, and liquidity. This means ETF option prices can be more directly tied to the real-time trading activity of the ETF.
+The pricing of ETF options and index options is influenced by similar factors, like the price of the underlying asset, time until expiration, and expected [volatility](/wiki/volatility-trading-strategies). But there are some differences. ETF options are priced based on the market price of the ETF itself, which you can buy and sell like a stock. Because ETFs are traded on an exchange, their prices can be affected by supply and demand, trading volume, and liquidity. This means ETF option prices can be more directly tied to the real-time trading activity of the ETF.
 
 On the other hand, index options are priced based on the value of the index, which is a theoretical measure of a group of stocks. Since you can't buy or sell the index itself, the pricing of index options is more about predictions of where the index will go in the future. Index options often use a model like the Black-Scholes model to estimate their value, taking into account the current index level, expected dividends, interest rates, and other factors. Because index options are settled in cash, their pricing can be less affected by immediate trading activity and more by broader market expectations.
 

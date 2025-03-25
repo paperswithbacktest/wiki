@@ -22,7 +22,7 @@ Sell-side analysts are different from buy-side analysts. While buy-side analysts
 
 ## What are the primary roles of buy-side analysts?
 
-Buy-side analysts work for companies that buy investments, like mutual funds or pension funds. Their main job is to find good investments for their company. They do a lot of research on different companies to see which ones are worth buying. They look at financial reports, market trends, and other data to make smart choices. Their goal is to help their company make money by picking the best investments.
+Buy-side analysts work for companies that buy investments, like mutual funds or pension funds. Their main job is to find good investments for their company. They do a lot of research on different companies to see which ones are worth buying. They look at financial reports, market trends, and other data to make smart choices. Their goal is to help their company make money by [picking](/wiki/asset-class-picking) the best investments.
 
 Buy-side analysts keep their research private. They don't share it with the public like sell-side analysts do. Instead, they use their findings to help their own company decide where to put their money. This means they focus only on what's best for their company, not on giving advice to everyone. Their work is very important because it helps their company grow and make more money.
 

@@ -22,7 +22,7 @@ The way mutual funds work is pretty straightforward. You can buy shares of the f
 
 ## What are the main differences between robo-advisors and mutual funds?
 
-Robo-advisors and mutual funds are both investment options, but they work in different ways. Robo-advisors are online platforms that use computer algorithms to manage your investments for you. You tell them about your goals and how much risk you're okay with, and they pick a mix of investments like stocks and bonds. They keep an eye on your portfolio and make changes to keep it on track. Robo-advisors are good for people who want an easy way to invest without picking each investment themselves.
+Robo-advisors and mutual funds are both investment options, but they work in different ways. Robo-advisors are online platforms that use computer algorithms to manage your investments for you. You tell them about your goals and how much risk you're okay with, and they pick a mix of investments like stocks and bonds. They keep an eye on your portfolio and make changes to keep it on track. Robo-advisors are good for people who want an easy way to invest without [picking](/wiki/asset-class-picking) each investment themselves.
 
 Mutual funds, on the other hand, are pools of money from many investors that are used to buy a variety of assets. A professional money manager runs the fund and decides what to buy and sell. When you invest in a mutual fund, you're buying a small piece of the whole fund. The price of the mutual fund shares goes up or down based on the value of all the investments in the fund. Mutual funds are good for people who want a diverse set of investments managed by a professional.
 
@@ -80,7 +80,7 @@ Mutual funds use technology too, but they might not be as high-tech as robo-advi
 
 ## What future trends and developments might impact the choice between robo-advisors and mutual funds?
 
-In the future, technology might make robo-advisors even better. They could use artificial intelligence to make smarter choices about your money. This means they could be even better at picking the right investments for you and keeping your money safe. Also, more people might start using robo-advisors because they're easy to use and often cheaper than mutual funds. If robo-advisors get more advanced and keep their fees low, more people might choose them over mutual funds.
+In the future, technology might make robo-advisors even better. They could use [artificial intelligence](/wiki/ai-artificial-intelligence) to make smarter choices about your money. This means they could be even better at picking the right investments for you and keeping your money safe. Also, more people might start using robo-advisors because they're easy to use and often cheaper than mutual funds. If robo-advisors get more advanced and keep their fees low, more people might choose them over mutual funds.
 
 On the other hand, mutual funds might also change. They could use more technology to help manage your money better. Some mutual funds might start to act more like robo-advisors, offering easier ways to invest and lower fees. But mutual funds will still have people making decisions, which some investors might like more than a computer. So, the choice between robo-advisors and mutual funds might depend on how much you want a person to help with your investments and how much you trust technology to do it for you.
 

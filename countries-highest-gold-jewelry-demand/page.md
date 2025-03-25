@@ -50,7 +50,7 @@ In other parts of the world, like Europe and the United States, the demand for g
 
 Economic factors play a big role in how much gold jewelry people buy. When the economy is doing well, people have more money to spend on things they want, like gold jewelry. They feel confident about their jobs and money, so they are more likely to buy expensive items. But when the economy is not doing well, people might be worried about losing their jobs or not having enough money. This makes them spend less on things like gold jewelry and save their money for things they need more.
 
-The price of gold itself is another important economic factor. If the price of gold goes up a lot, people might think twice before buying gold jewelry because it becomes more expensive. On the other hand, if the price of gold goes down, more people might buy gold jewelry because it feels like a good deal. Also, changes in the value of money, like inflation, can affect how much gold jewelry people buy. If prices for everything are going up, people might see gold as a safe way to keep their money's value, so they might buy more gold jewelry.
+The price of gold itself is another important economic [factor](/wiki/factor-investing). If the price of gold goes up a lot, people might think twice before buying gold jewelry because it becomes more expensive. On the other hand, if the price of gold goes down, more people might buy gold jewelry because it feels like a good deal. Also, changes in the value of money, like inflation, can affect how much gold jewelry people buy. If prices for everything are going up, people might see gold as a safe way to keep their money's value, so they might buy more gold jewelry.
 
 ## How do government regulations impact the gold jewelry market?
 

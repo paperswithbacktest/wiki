@@ -26,7 +26,7 @@ A death put is commonly found in certain types of bonds, especially municipal bo
 
 Life insurance policies can also include a death put feature. In this case, if the policyholder dies, the beneficiaries can choose to sell the policy back to the insurance company instead of keeping it active. This can be helpful because it gives the family immediate access to funds, which can be important during a difficult time. The death put in life insurance works similarly to bonds, providing a way for the family to get money without managing the investment further.
 
-In some cases, you might also find a death put in other investment vehicles like certain types of annuities or structured notes. These financial products might offer a death put to give investors peace of mind, knowing their family can easily access funds if they pass away. The key idea is to provide liquidity and ease of management for the beneficiaries, making these investments more appealing to people who want to protect their loved ones financially.
+In some cases, you might also find a death put in other investment vehicles like certain types of annuities or structured notes. These financial products might offer a death put to give investors peace of mind, knowing their family can easily access funds if they pass away. The key idea is to provide [liquidity](/wiki/liquidity-risk-premium) and ease of management for the beneficiaries, making these investments more appealing to people who want to protect their loved ones financially.
 
 ## What are the basic eligibility criteria for a death put?
 
@@ -48,7 +48,7 @@ Also, a death put can help the issuer manage their money better. If someone dies
 
 ## What are the potential disadvantages of a death put for investors?
 
-A death put might seem like a good thing for investors, but it can have some downsides. One problem is that bonds with a death put might have a lower interest rate. This is because the issuer knows they might have to pay back the money early if the bondholder dies. So, they offer a lower rate to make up for that risk. This means investors might not earn as much money over time compared to bonds without a death put.
+A death put might seem like a good thing for investors, but it can have some downsides. One problem is that bonds with a death put might have a lower [interest rate](/wiki/interest-rate-trading-strategies). This is because the issuer knows they might have to pay back the money early if the bondholder dies. So, they offer a lower rate to make up for that risk. This means investors might not earn as much money over time compared to bonds without a death put.
 
 Another disadvantage is that the family might not get as much money as they could if they kept the bond until it matured. If the bond's value goes up over time, selling it back early means missing out on that extra money. Also, using the death put can mean the family doesn't get any future interest payments that the bond would have paid out. So, while a death put can help get money quickly, it might not be the best choice if the family can wait and possibly get more money later.
 

@@ -66,7 +66,7 @@ Farmers and others in the agriculture industry use these estimates to make impor
 
 The accuracy of USDA crop year forecasts can be affected by many things. Weather is a big one. If it is too hot, too cold, too wet, or too dry, it can hurt the crops and change how much is harvested. Pests and diseases can also cause problems. If bugs or sicknesses attack the crops, they might not grow as well as expected. These things can make the USDA's guesses different from what actually happens.
 
-Another factor is how well farmers report their information. If farmers do not give accurate details about their crops, the USDA's estimates might be off. Changes in farming practices or new technology can also affect the forecasts. If farmers start using new ways to grow crops, it might be hard for the USDA to predict how much will be produced. Even though the USDA tries to use the best information and tools, these factors can make their crop year forecasts less accurate.
+Another [factor](/wiki/factor-investing) is how well farmers report their information. If farmers do not give accurate details about their crops, the USDA's estimates might be off. Changes in farming practices or new technology can also affect the forecasts. If farmers start using new ways to grow crops, it might be hard for the USDA to predict how much will be produced. Even though the USDA tries to use the best information and tools, these factors can make their crop year forecasts less accurate.
 
 ## How do USDA crop year estimates impact agricultural markets?
 

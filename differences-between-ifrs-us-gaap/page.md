@@ -72,7 +72,7 @@ U.S. GAAP, on the other hand, only lets companies show intangible assets at what
 
 ## How do impairment rules for assets differ between IFRS and U.S. GAAP?
 
-IFRS and U.S. GAAP have different rules for checking if an asset has lost value, which is called impairment. Under IFRS, companies have to check if an asset might be impaired whenever there's a sign that its value has gone down. They look at the asset's recoverable amount, which is the higher of what they could sell it for or what they could get from using it. If this amount is less than what's on the books, they have to write down the asset's value. IFRS also lets companies reverse an impairment loss later if the asset's value goes back up, except for goodwill.
+IFRS and U.S. GAAP have different rules for checking if an asset has lost value, which is called impairment. Under IFRS, companies have to check if an asset might be impaired whenever there's a sign that its value has gone down. They look at the asset's recoverable amount, which is the higher of what they could sell it for or what they could get from using it. If this amount is less than what's on the [books](/wiki/algo-trading-books), they have to write down the asset's value. IFRS also lets companies reverse an impairment loss later if the asset's value goes back up, except for goodwill.
 
 U.S. GAAP has a different way of doing things. Companies using U.S. GAAP have to check for impairment at least once a year for some assets, like goodwill, and whenever there's a sign that an asset's value has gone down for others. They look at whether they can get back the value of the asset through using it or selling it. If they can't, they have to write down the asset's value. But unlike IFRS, U.S. GAAP doesn't let companies reverse an impairment loss later, even if the asset's value goes back up. This means that once an asset is written down under U.S. GAAP, its value stays lower on the books.
 
@@ -90,7 +90,7 @@ U.S. GAAP also uses fair value to measure the worth of things, and it defines it
 
 ## References & Further Reading
 
-Lambert, B., & Leuz, C. (2006). International Differences in Accounting Standards and Profitability Measurements. *Management Science.* This study explores how differing accounting standards across countries can lead to variations in reported profitability. It provides insights into how U.S. GAAP and IFRS affect financial statements, which is crucial for understanding their implications on algorithmic trading.
+Lambert, B., & Leuz, C. (2006). International Differences in Accounting Standards and Profitability Measurements. *Management Science.* This study explores how differing accounting standards across countries can lead to variations in reported profitability. It provides insights into how U.S. GAAP and IFRS affect financial statements, which is crucial for understanding their implications on [algorithmic trading](/wiki/algorithmic-trading).
 
 Park, C., & Park, J. (2002). The Stock-Bond Correlation and Its Implications on the Cost of Capital. *Financial Review.* This article discusses the relationship between stock and bond markets and its influence on the cost of capital. Understanding these correlations is essential for algorithmic trading, which often relies on such relationships for developing trading strategies.
 

@@ -30,7 +30,7 @@ Another big benefit is that deposit brokers can often find better deals than you
 
 A deposit broker can help you with different kinds of savings accounts. They can find you the best regular savings accounts where you can save money and earn interest. They also know about money market accounts, which usually offer higher interest rates but might need you to keep more money in the account. 
 
-They can also help you with certificates of deposit, or CDs. CDs are special accounts where you agree to keep your money in the bank for a certain time, like six months or a year, and in return, you get a higher interest rate. A deposit broker can find the CDs with the best rates and terms that fit what you need.
+They can also help you with certificates of deposit, or CDs. CDs are special accounts where you agree to keep your money in the bank for a certain time, like six months or a year, and in return, you get a higher [interest rate](/wiki/interest-rate-trading-strategies). A deposit broker can find the CDs with the best rates and terms that fit what you need.
 
 ## How do deposit brokers earn their income?
 

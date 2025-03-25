@@ -18,7 +18,7 @@ iShares is a brand of ETFs managed by BlackRock, one of the world's largest inve
 
 ## How do SPDR, Vanguard, and iShares differ in terms of their origins and parent companies?
 
-SPDR ETFs come from State Street Global Advisors, a big company that started them in 1993. They were the first ETFs to track the S&P 500, which is a very popular stock market index. State Street is known for being one of the oldest and largest ETF providers, and they focus a lot on helping investors get easy access to different parts of the market.
+SPDR ETFs come from State Street Global Advisors, a big company that started them in 1993. They were the first ETFs to track the S&P 500, which is a very popular stock market index. State Street is known for being one of the oldest and largest [ETF](/wiki/etf-trading-strategies) providers, and they focus a lot on helping investors get easy access to different parts of the market.
 
 Vanguard ETFs are managed by The Vanguard Group, which was started by John Bogle in 1975. Vanguard is famous for its low-cost index funds and ETFs. They believe in keeping fees low so that investors can keep more of their money. Vanguard's focus on low costs and long-term investing has made them a favorite among many investors who want to grow their money over time without spending a lot on fees.
 
@@ -56,7 +56,7 @@ iShares ETFs, managed by BlackRock, offer one of the widest ranges of asset clas
 
 ## What are the liquidity differences among SPDR, Vanguard, and iShares ETFs?
 
-When we talk about liquidity, we mean how easy it is to buy and sell an ETF without affecting its price much. SPDR ETFs, especially the SPDR S&P 500 ETF Trust (SPY), are very liquid. This is because SPY is one of the oldest and most traded ETFs out there. Lots of people buy and sell it every day, which means you can usually get in and out of your investment quickly and at a price close to the market value.
+When we talk about [liquidity](/wiki/liquidity-risk-premium), we mean how easy it is to buy and sell an ETF without affecting its price much. SPDR ETFs, especially the SPDR S&P 500 ETF Trust (SPY), are very liquid. This is because SPY is one of the oldest and most traded ETFs out there. Lots of people buy and sell it every day, which means you can usually get in and out of your investment quickly and at a price close to the market value.
 
 Vanguard and iShares ETFs are also pretty liquid, but they might not be as easy to trade as SPY. For example, the Vanguard S&P 500 ETF (VOO) and the iShares Core S&P 500 ETF (IVV) have good liquidity, but they don't trade as much as SPY. This means you might have a bit more trouble buying or selling them quickly, especially if you're dealing with a large amount of money. However, they're still very popular and usually easy to trade for most investors.
 
@@ -74,7 +74,7 @@ iShares ETFs usually have low tracking errors too, but they might be a bit highe
 
 ## How do SPDR, Vanguard, and iShares approach ESG (Environmental, Social, and Governance) investing?
 
-SPDR, Vanguard, and iShares all offer ETFs that focus on ESG (Environmental, Social, and Governance) investing, but they each do it a bit differently. SPDR has a range of ESG ETFs that cover different areas like climate change and social responsibility. They work with companies like Bloomberg to make sure their ETFs follow good ESG standards. SPDR's approach is to give investors lots of choices so they can pick the ESG focus that matters most to them.
+SPDR, Vanguard, and iShares all offer ETFs that focus on [ESG](/wiki/esg-investing) (Environmental, Social, and Governance) investing, but they each do it a bit differently. SPDR has a range of ESG ETFs that cover different areas like climate change and social responsibility. They work with companies like Bloomberg to make sure their ETFs follow good ESG standards. SPDR's approach is to give investors lots of choices so they can pick the ESG focus that matters most to them.
 
 Vanguard also has ESG ETFs, but they keep things simple and focus on keeping costs low, just like with their other ETFs. They look at how companies perform on ESG issues and choose the ones that do well. Vanguard's ESG ETFs are popular with investors who want to invest responsibly without paying a lot in fees. They make sure their ESG ETFs still follow their main goal of giving investors good value for their money.
 

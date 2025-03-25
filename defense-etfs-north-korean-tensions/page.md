@@ -18,7 +18,7 @@ ETFs work by tracking an index, like the S&P 500, a commodity, bonds, or a baske
 
 A Defense ETF is a type of exchange-traded fund that focuses on companies in the defense industry. This means it invests in businesses that make things like weapons, military vehicles, and other equipment used by the military. The goal of a Defense ETF is to give investors a way to put their money into the defense sector without having to pick individual companies themselves.
 
-These ETFs work by holding a collection of stocks from defense companies. When you buy shares of a Defense ETF, you're buying a small part of all those companies at once. This can be a good way to spread out your investment risk because if one company doesn't do well, the others might help balance it out. Plus, it's easier than trying to choose which defense companies to invest in on your own.
+These ETFs work by holding a collection of stocks from defense companies. When you buy shares of a Defense [ETF](/wiki/etf-trading-strategies), you're buying a small part of all those companies at once. This can be a good way to spread out your investment risk because if one company doesn't do well, the others might help balance it out. Plus, it's easier than trying to choose which defense companies to invest in on your own.
 
 ## Why might North Korean tensions affect Defense ETFs?
 

@@ -64,9 +64,9 @@ E*TRADE Core Portfolios provides customer support through phone, email, and live
 
 ## How do the performance histories of M1 Finance and E*TRADE Core Portfolios stack up against each other?
 
-M1 Finance doesn't give out a single performance history because people can make their own portfolios. Everyone's portfolio is different, so their performance is different too. But, M1 Finance does show you how each stock and ETF in your portfolio is doing. You can see charts and graphs that tell you if your investments are going up or down. This helps you know if your own choices are working well.
+M1 Finance doesn't give out a single performance history because people can make their own portfolios. Everyone's portfolio is different, so their performance is different too. But, M1 Finance does show you how each stock and [ETF](/wiki/etf-trading-strategies) in your portfolio is doing. You can see charts and graphs that tell you if your investments are going up or down. This helps you know if your own choices are working well.
 
-E*TRADE Core Portfolios has a more clear performance history because they make the portfolios for you. They use ETFs, and they show you how these portfolios have done over time. You can see how much money you might have made or lost in the past. This can help you decide if their way of picking investments is good for you. But remember, past results don't mean the same will happen in the future.
+E*TRADE Core Portfolios has a more clear performance history because they make the portfolios for you. They use ETFs, and they show you how these portfolios have done over time. You can see how much money you might have made or lost in the past. This can help you decide if their way of [picking](/wiki/asset-class-picking) investments is good for you. But remember, past results don't mean the same will happen in the future.
 
 ## What are the advanced investment tools available on M1 Finance and E*TRADE Core Portfolios?
 

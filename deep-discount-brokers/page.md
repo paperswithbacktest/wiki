@@ -44,7 +44,7 @@ Another issue is that deep discount brokers might not offer all the tools and re
 
 Deep discount brokers make money by charging small fees for each trade you make. When you buy or sell stocks, bonds, or other investments through their platform, they take a little bit of money as a fee. These fees are usually very low, which is why people use deep discount brokers to save money. The more trades people make, the more money the broker earns from these fees.
 
-Because deep discount brokers don't offer a lot of extra services like advice or investment management, they can keep their costs low and still make money. They focus on providing a simple platform for trading and rely on the volume of trades to generate income. This business model allows them to offer low fees and attract customers who want to manage their own investments.
+Because deep discount brokers don't offer a lot of extra services like advice or investment management, they can keep their costs low and still make money. They focus on providing a simple platform for trading and rely on the [volume](/wiki/volume-trading-strategy) of trades to generate income. This business model allows them to offer low fees and attract customers who want to manage their own investments.
 
 ## What should a beginner look for when choosing a deep discount broker?
 
@@ -78,7 +78,7 @@ Another way deep discount brokers help expert traders is by giving them control 
 
 ## What future trends are expected in the deep discount brokerage industry?
 
-In the future, deep discount brokers are likely to become even more popular because more people are learning how to invest on their own. Technology will keep getting better, making it easier for people to trade stocks and other investments from their phones or computers. This means deep discount brokers can offer even lower fees and more tools to help people make smart choices. They might also use things like artificial intelligence to give quick, simple advice without charging extra money.
+In the future, deep discount brokers are likely to become even more popular because more people are learning how to invest on their own. Technology will keep getting better, making it easier for people to trade stocks and other investments from their phones or computers. This means deep discount brokers can offer even lower fees and more tools to help people make smart choices. They might also use things like [artificial intelligence](/wiki/ai-artificial-intelligence) to give quick, simple advice without charging extra money.
 
 Another trend we might see is deep discount brokers trying to offer a bit more help to their customers. While they won't turn into full-service brokers, they might add more educational resources or basic advice to attract people who are just starting to invest. This could make them a good choice for beginners who want to save money but also need a little guidance. Overall, the deep discount brokerage industry will focus on keeping costs low while using technology to improve the experience for everyone.
 

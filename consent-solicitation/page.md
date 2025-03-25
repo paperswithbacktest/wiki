@@ -48,7 +48,7 @@ The law also says that the company has to be honest in the document. It can't le
 
 Consent solicitation can have a big impact on bondholders and shareholders. When a company wants to make a big change, like changing its rules or merging with another company, it asks its shareholders for permission. If the shareholders agree, the company can go ahead with the change. This can affect the value of the shares or bonds they own. For example, if the change is good for the company, it might make the shares or bonds worth more. But if the change is bad, it could make them worth less.
 
-Bondholders can also be affected by consent solicitation. Sometimes, a company might want to change the terms of its bonds, like the interest rate or when the bonds need to be paid back. If bondholders agree to these changes, it can change how much money they get from the bonds. If the changes are good for the bondholders, they might get more money. But if the changes are bad, they might get less money or have to wait longer to get paid.
+Bondholders can also be affected by consent solicitation. Sometimes, a company might want to change the terms of its bonds, like the [interest rate](/wiki/interest-rate-trading-strategies) or when the bonds need to be paid back. If bondholders agree to these changes, it can change how much money they get from the bonds. If the changes are good for the bondholders, they might get more money. But if the changes are bad, they might get less money or have to wait longer to get paid.
 
 ## What are the potential risks associated with consent solicitation?
 

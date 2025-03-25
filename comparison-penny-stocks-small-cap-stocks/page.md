@@ -48,7 +48,7 @@ Another risk with penny stocks is that some people might try to trick you into b
 
 Small cap stocks come with risks because they are from smaller companies that might not have as much money or as many resources as bigger companies. These companies might be trying new things and growing fast, but they can also run into problems. If something goes wrong, like they don't make enough money or they have trouble with their new ideas, their stock prices can go down a lot. This means you could lose money if you invest in them.
 
-Another risk with small cap stocks is that they can be harder to sell quickly than stocks from bigger companies. Fewer people might want to buy them, so it can take longer to find someone to take them off your hands. This is called lower liquidity. If you need to sell your small cap stocks in a hurry, you might have to sell them for less money than you wanted. So, investing in small cap stocks can be exciting because of the chance to make good profits, but it's important to understand these risks and be ready for them.
+Another risk with small cap stocks is that they can be harder to sell quickly than stocks from bigger companies. Fewer people might want to buy them, so it can take longer to find someone to take them off your hands. This is called lower [liquidity](/wiki/liquidity-risk-premium). If you need to sell your small cap stocks in a hurry, you might have to sell them for less money than you wanted. So, investing in small cap stocks can be exciting because of the chance to make good profits, but it's important to understand these risks and be ready for them.
 
 ## How do the potential returns of penny stocks compare to small cap stocks?
 

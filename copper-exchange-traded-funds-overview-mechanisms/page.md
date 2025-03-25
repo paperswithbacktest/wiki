@@ -18,7 +18,7 @@ Copper ETFs can be a good choice for someone who believes the price of copper wi
 
 A copper ETF works by letting people invest in copper without having to buy the actual metal. Instead of buying copper bars or coins, you buy shares of the ETF. The ETF then uses the money from selling shares to invest in things related to copper. This could be shares in companies that mine copper, or it could be contracts that promise to buy or sell copper in the future. When you buy shares of the ETF, you're betting that the price of copper will go up. If it does, the value of your shares in the ETF should also go up.
 
-The ETF is managed by professionals who decide how to invest the money. They might choose to invest in a mix of mining companies and futures contracts to spread out the risk. The value of the ETF goes up and down based on what's happening in the copper market. If copper becomes more expensive, the ETF's value usually goes up. But if the price of copper drops, the value of the ETF can go down too. This makes copper ETFs a way to invest in copper without dealing with the hassle of storing and selling physical copper.
+The [ETF](/wiki/etf-trading-strategies) is managed by professionals who decide how to invest the money. They might choose to invest in a mix of mining companies and futures contracts to spread out the risk. The value of the ETF goes up and down based on what's happening in the copper market. If copper becomes more expensive, the ETF's value usually goes up. But if the price of copper drops, the value of the ETF can go down too. This makes copper ETFs a way to invest in copper without dealing with the hassle of storing and selling physical copper.
 
 ## What are the benefits of investing in a copper ETF?
 

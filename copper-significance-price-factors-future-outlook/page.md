@@ -18,7 +18,7 @@ Copper is also important for our health. Our bodies need a small amount of coppe
 
 Copper is used a lot in everyday life, especially in things that need electricity. It's inside the wires that bring power to our homes and the cords of our electronic devices like phones and computers. Copper is great at moving electricity, so it helps keep our gadgets working well. You can also find copper in big machines like cars and airplanes, where it helps with the electrical systems.
 
-Copper is also used in our homes and buildings. It's often used in pipes that carry water because it doesn't rust easily and lasts a long time. You might see copper in your kitchen sink or bathroom. Sometimes, copper is used on roofs or in decorations because it looks nice and can last for many years.
+Copper is also used in our homes and buildings. It's often used in pipes that [carry](/wiki/carry-trading) water because it doesn't rust easily and lasts a long time. You might see copper in your kitchen sink or bathroom. Sometimes, copper is used on roofs or in decorations because it looks nice and can last for many years.
 
 Besides being used in technology and building, copper is important for our health. We need a little bit of copper in our diet to stay healthy. It's in foods like nuts, seeds, and some vegetables. Copper helps our bodies make energy and keeps our blood, nerves, and immune system working well. So, even though we might not see it, copper is helping us every day.
 

@@ -40,7 +40,7 @@ On the other hand, large-cap companies usually offer more steady but smaller ret
 
 ## How does the liquidity of small-cap stocks compare to large-cap stocks?
 
-Small-cap stocks usually have less liquidity than large-cap stocks. This means it can be harder to buy or sell small-cap stocks quickly. Because fewer people trade these stocks, it might take longer to find someone to buy or sell them to. This can be a problem if you need to get your money out of the stock fast. Also, when you do trade small-cap stocks, the price can change a lot because there are fewer trades happening.
+Small-cap stocks usually have less [liquidity](/wiki/liquidity-risk-premium) than large-cap stocks. This means it can be harder to buy or sell small-cap stocks quickly. Because fewer people trade these stocks, it might take longer to find someone to buy or sell them to. This can be a problem if you need to get your money out of the stock fast. Also, when you do trade small-cap stocks, the price can change a lot because there are fewer trades happening.
 
 Large-cap stocks, on the other hand, have more liquidity. This means it's easier to buy or sell them quickly. Because more people trade these stocks, you can usually find someone to trade with right away. This makes it easier to get your money out of the stock if you need to. Also, because there are so many trades, the price doesn't change as much when you buy or sell.
 
@@ -62,7 +62,7 @@ When comparing the investment risk of small-cap and large-cap companies, one key
 
 Another important metric is the price-to-earnings (P/E) ratio, which shows how much investors are willing to pay for a company's earnings. Small-cap companies often have higher P/E ratios because investors are betting on their future growth, which can make them riskier. If the growth doesn't happen, the stock price can fall sharply. Large-cap companies usually have lower P/E ratios because they are more established and their earnings are more predictable. This makes them less risky because investors know what to expect. 
 
-Lastly, consider the volatility of earnings. Small-cap companies can have more ups and downs in their earnings because they are smaller and more affected by changes in the economy. This makes them riskier because their future earnings are harder to predict. Large-cap companies, on the other hand, usually have more stable earnings because they are bigger and can handle economic changes better. This makes them less risky because their future earnings are easier to predict.
+Lastly, consider the [volatility](/wiki/volatility-trading-strategies) of earnings. Small-cap companies can have more ups and downs in their earnings because they are smaller and more affected by changes in the economy. This makes them riskier because their future earnings are harder to predict. Large-cap companies, on the other hand, usually have more stable earnings because they are bigger and can handle economic changes better. This makes them less risky because their future earnings are easier to predict.
 
 ## How does the regulatory environment impact the risk profile of small-cap versus large-cap companies?
 

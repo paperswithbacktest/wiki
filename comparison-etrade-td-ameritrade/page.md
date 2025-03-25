@@ -74,7 +74,7 @@ TD Ameritrade also offers strong research and analysis tools, with their "Thinko
 
 E*TRADE has some advanced trading features that experienced investors like. They have a platform called Power E*TRADE that lets you trade quickly and has a lot of tools to help you make decisions. You can use things like customizable charts, advanced options trading, and risk analysis tools. This helps you see how your investments might do and make trades based on that. E*TRADE also lets you set up alerts so you know when to buy or sell, and you can use different order types to control when and how your trades happen.
 
-TD Ameritrade's advanced trading features are found in their Thinkorswim platform, which is very popular among experienced traders. Thinkorswim has a lot of tools that let you do detailed analysis and make trades fast. You can use advanced charting, options trading strategies, and backtesting to see how your ideas might have worked in the past. They also have features like paper trading, where you can practice trading without using real money. This helps you try out new strategies before you use them for real.
+TD Ameritrade's advanced trading features are found in their Thinkorswim platform, which is very popular among experienced traders. Thinkorswim has a lot of tools that let you do detailed analysis and make trades fast. You can use advanced charting, options trading strategies, and [backtesting](/wiki/backtesting) to see how your ideas might have worked in the past. They also have features like paper trading, where you can practice trading without using real money. This helps you try out new strategies before you use them for real.
 
 ## How do the retirement planning services and options differ between E*TRADE and TD Ameritrade?
 

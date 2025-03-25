@@ -34,7 +34,7 @@ Another risk is that your stocks could lose value. Even though you get some extr
 
 ## How do you select the right stocks for a covered call strategy?
 
-When you're picking stocks for a covered call strategy, it's important to choose stocks that you think won't go up a lot in price. You want stocks that might stay the same or maybe go down a little. This is because if the stock price goes way up, you might have to sell your stock at a lower price than it's worth, and you'll miss out on the extra money you could have made. So, look for stocks that are stable or that you think won't have big jumps in price.
+When you're [picking](/wiki/asset-class-picking) stocks for a covered call strategy, it's important to choose stocks that you think won't go up a lot in price. You want stocks that might stay the same or maybe go down a little. This is because if the stock price goes way up, you might have to sell your stock at a lower price than it's worth, and you'll miss out on the extra money you could have made. So, look for stocks that are stable or that you think won't have big jumps in price.
 
 Another thing to think about is how much the stock might go down. Even though you get some extra money from selling the call option, if the stock price drops a lot, you could still lose money. So, you want to pick stocks that you think are pretty safe and won't lose a lot of value. It's also a good idea to pick stocks that you wouldn't mind holding onto for a while, just in case the call option doesn't get used and you keep your shares.
 

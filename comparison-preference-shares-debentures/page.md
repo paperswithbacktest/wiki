@@ -18,7 +18,7 @@ Another feature of preference shares is that they often do not come with voting 
 
 Debentures are a type of long-term loan that companies use to raise money. They are like IOUs that companies issue to investors. When you buy a debenture, you are lending money to the company, and in return, the company promises to pay you interest regularly and return your money after a certain period.
 
-Debentures are different from shares because they do not give you ownership in the company. Instead, they are a form of debt. This means that if the company goes bankrupt, debenture holders are paid back before shareholders. Companies often use debentures to finance big projects or expansions because they can borrow large amounts of money at a fixed interest rate.
+Debentures are different from shares because they do not give you ownership in the company. Instead, they are a form of debt. This means that if the company goes bankrupt, debenture holders are paid back before shareholders. Companies often use debentures to finance big projects or expansions because they can borrow large amounts of money at a fixed [interest rate](/wiki/interest-rate-trading-strategies).
 
 ## How do preference shares differ from common shares?
 
@@ -78,7 +78,7 @@ Debentures have different risks. They are a type of loan, so the interest paymen
 
 ## How can a company strategically use preference shares and debentures for capital raising?
 
-A company can use preference shares to raise money without adding more debt to its books. When a company issues preference shares, it sells them to investors who get a fixed dividend before common shareholders. This can be a good way to get money without having to pay it back like a loan. It also doesn't dilute the voting power of existing common shareholders because preference shares usually don't come with voting rights. However, the company needs to be careful because if it has to pay out a lot in dividends, it might not have enough money left for other important things.
+A company can use preference shares to raise money without adding more debt to its [books](/wiki/algo-trading-books). When a company issues preference shares, it sells them to investors who get a fixed dividend before common shareholders. This can be a good way to get money without having to pay it back like a loan. It also doesn't dilute the voting power of existing common shareholders because preference shares usually don't come with voting rights. However, the company needs to be careful because if it has to pay out a lot in dividends, it might not have enough money left for other important things.
 
 Debentures can be another smart way for a company to raise capital. When a company issues debentures, it's borrowing money from investors and promising to pay them interest regularly and return their money at a set time. This can be good because the interest payments are tax-deductible, which can help the company save money. But, it adds debt to the company's financial structure, which can be risky if the company struggles to make the interest payments. The company needs to think about how much debt it can handle and make sure it can keep up with the payments before deciding to use debentures.
 

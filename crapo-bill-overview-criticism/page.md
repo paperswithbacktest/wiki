@@ -42,7 +42,7 @@ Another change the Crapo Bill makes is to help people get loans more easily. It 
 
 The Crapo Bill mainly affects the banking industry. It changes some rules that banks have to follow, especially for smaller and medium-sized banks. These banks don't have to follow as many strict rules anymore, which makes it easier for them to lend money to people and businesses. This can help the banking industry grow because banks can do more business without as many restrictions.
 
-The bill also affects the housing and real estate industries. By making it easier for banks to lend money, more people can get loans to buy homes. This can help the housing market grow because more people can afford to buy houses. The real estate industry can also benefit because more people buying homes can lead to more business for real estate agents and companies.
+The bill also affects the housing and real estate industries. By making it easier for banks to lend money, more people can get loans to buy homes. This can help the housing market grow because more people can afford to buy houses. The real estate industry can also benefit because more people buying homes can lead to more business for real estate [agents](/wiki/agents) and companies.
 
 Lastly, the Crapo Bill can impact the small business sector. With easier access to loans, small businesses can get the money they need to start or grow their companies. This can help the economy because small businesses create jobs and provide goods and services to communities. By helping small businesses, the Crapo Bill can make a big difference in the overall economy.
 

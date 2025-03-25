@@ -74,7 +74,7 @@ Another way technology helps is by making it easier to recycle and use less wast
 
 ## What are the future trends in corporate sustainability?
 
-In the future, more companies will use technology to be sustainable. They will use things like artificial intelligence and big data to find ways to save energy and reduce waste. For example, AI can help plan the best routes for delivery trucks to use less gas. Also, more companies will use renewable energy like solar and wind power. This will help them be kinder to the environment and save money on energy bills. Technology will also help companies talk to their customers and workers about sustainability, making everyone feel part of the effort.
+In the future, more companies will use technology to be sustainable. They will use things like [artificial intelligence](/wiki/ai-artificial-intelligence) and big data to find ways to save energy and reduce waste. For example, AI can help plan the best routes for delivery trucks to use less gas. Also, more companies will use renewable energy like solar and wind power. This will help them be kinder to the environment and save money on energy bills. Technology will also help companies talk to their customers and workers about sustainability, making everyone feel part of the effort.
 
 Another trend will be a bigger focus on social issues. Companies will try harder to treat their workers well and help the community. They might pay their workers more fairly and make sure they work in safe places. Companies will also support local projects and help people in the areas where they work. This will help build a good reputation and make people trust the company more. In the end, companies that care about both the environment and people will do better over time.
 

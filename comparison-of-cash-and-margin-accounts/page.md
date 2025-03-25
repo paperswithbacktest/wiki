@@ -52,7 +52,7 @@ Another risk is that using a margin account can make you feel like you have more
 
 ## How does interest work in a margin account?
 
-When you use a margin account, you're borrowing money from your broker to buy investments. This borrowed money comes with a cost, which is called interest. The interest rate is set by the broker and can change over time. You'll start paying interest as soon as you borrow the money, and it's usually charged on a monthly basis. The interest adds to the amount you owe, so you need to make sure your investments are making enough money to cover the interest and still make a profit.
+When you use a margin account, you're borrowing money from your broker to buy investments. This borrowed money comes with a cost, which is called interest. The [interest rate](/wiki/interest-rate-trading-strategies) is set by the broker and can change over time. You'll start paying interest as soon as you borrow the money, and it's usually charged on a monthly basis. The interest adds to the amount you owe, so you need to make sure your investments are making enough money to cover the interest and still make a profit.
 
 The amount of interest you pay depends on how much you borrow and how long you keep the borrowed money. If you borrow a lot of money and take a long time to pay it back, you'll end up paying more interest. It's important to keep an eye on the interest because it can eat into your profits. If your investments don't do well, the interest can make your losses even bigger. So, it's a good idea to think carefully about how much you borrow and how long you plan to use the margin account.
 

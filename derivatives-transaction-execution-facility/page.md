@@ -76,7 +76,7 @@ After the clearinghouse checks everything, the trade moves to the settlement sys
 
 ## What are the future trends and developments expected in DTEFs?
 
-In the future, DTEFs are expected to use more technology to make trading easier and safer. One big trend is the use of blockchain and other new technologies to make trading more secure and transparent. Blockchain can help keep better records of trades and make it easier to check that everything is done right. Also, more trading might happen automatically with the help of computers and artificial intelligence. This can make trading faster and help traders make better decisions by using data to see patterns in the market.
+In the future, DTEFs are expected to use more technology to make trading easier and safer. One big trend is the use of blockchain and other new technologies to make trading more secure and transparent. Blockchain can help keep better records of trades and make it easier to check that everything is done right. Also, more trading might happen automatically with the help of computers and [artificial intelligence](/wiki/ai-artificial-intelligence). This can make trading faster and help traders make better decisions by using data to see patterns in the market.
 
 Another trend is that DTEFs might start offering more types of derivatives for people to trade. This could include new kinds of financial products that are designed to meet the needs of different traders. As more people learn about derivatives and how to use them, DTEFs could become more popular with smaller traders and not just big institutions. This growth could lead to more competition between DTEFs, which might make them offer better services and lower fees to attract more users.
 

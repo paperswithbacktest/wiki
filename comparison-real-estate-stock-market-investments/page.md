@@ -42,7 +42,7 @@ When you invest in real estate, it can be hard to get your money back quickly. S
 
 On the other hand, stocks are much easier to turn into cash. You can sell your stocks any time the stock market is open, which is usually during regular business hours. It only takes a few clicks on your computer or phone, and the money is usually in your account within a few days. This makes stocks a lot more liquid than real estate. If you need money quickly, selling stocks is a much faster way to get it.
 
-So, the main difference in liquidity between real estate and stocks is how quickly you can get your money back. Real estate is slow and can take a long time to sell, while stocks can be sold almost instantly. This makes a big difference if you ever need to use your investment money for something else.
+So, the main difference in [liquidity](/wiki/liquidity-risk-premium) between real estate and stocks is how quickly you can get your money back. Real estate is slow and can take a long time to sell, while stocks can be sold almost instantly. This makes a big difference if you ever need to use your investment money for something else.
 
 ## How do taxes affect returns on real estate and stock market investments?
 

@@ -18,7 +18,7 @@ These businesses might use the data to send targeted ads, make decisions about o
 
 Alternative data is information that companies use to learn more about their business or the market, but it's not the usual stuff like financial reports. Instead, it can come from places like social media posts, satellite images, or even data from smartphones. Companies use this kind of data to find out things they wouldn't know otherwise, like how many people are visiting a store or what people are saying about a new product online.
 
-Using alternative data can give businesses an edge because it helps them see trends or changes before others do. For example, a company might look at weather data to guess how much ice cream they'll sell, or they might use location data to see where people are going on weekends. But there are also worries about privacy and how this data is collected and used. People might not know that their information is being tracked and sold, so it's important for companies to be careful and follow rules about using this data.
+Using [alternative data](/wiki/best-alternative-data) can give businesses an edge because it helps them see trends or changes before others do. For example, a company might look at weather data to guess how much ice cream they'll sell, or they might use location data to see where people are going on weekends. But there are also worries about privacy and how this data is collected and used. People might not know that their information is being tracked and sold, so it's important for companies to be careful and follow rules about using this data.
 
 ## How do data brokers use alternative data?
 
@@ -72,7 +72,7 @@ Another way to make sure alternative data is good is by comparing it with other 
 
 ## What advanced analytical techniques are used to process and interpret alternative data?
 
-Companies use advanced analytical techniques to make sense of alternative data. One common technique is machine learning, which is a kind of computer program that can learn from data and make predictions. For example, machine learning can look at social media posts to guess what people might buy next. Another technique is natural language processing, which helps computers understand and analyze what people are saying in text or speech. This can be useful for understanding customer reviews or comments on social media.
+Companies use advanced analytical techniques to make sense of alternative data. One common technique is [machine learning](/wiki/machine-learning), which is a kind of computer program that can learn from data and make predictions. For example, machine learning can look at social media posts to guess what people might buy next. Another technique is natural language processing, which helps computers understand and analyze what people are saying in text or speech. This can be useful for understanding customer reviews or comments on social media.
 
 Another important technique is data visualization, which turns complex data into easy-to-understand pictures and charts. This helps people see patterns and trends quickly. Companies also use predictive analytics, which uses data to make guesses about what will happen in the future. For example, predictive analytics can use location data to predict how busy a store will be. By using these techniques, companies can get the most out of alternative data and make better decisions.
 

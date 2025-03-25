@@ -78,7 +78,7 @@ These differences can also change how easy it is for investors to buy and sell D
 
 ## What advanced strategies can investors use with Depositary Receipts?
 
-Investors can use Depositary Receipts (DRs) to try out advanced strategies like hedging and arbitrage. Hedging is when you use DRs to protect your investments from big changes in the market. For example, if you own shares in a U.S. company and you're worried about the U.S. market going down, you could buy DRs in a company from a different country. If the U.S. market does go down, the value of your DRs might go up, which can help balance out your losses. This way, you can try to keep your overall investment safer.
+Investors can use Depositary Receipts (DRs) to try out advanced strategies like hedging and [arbitrage](/wiki/arbitrage). Hedging is when you use DRs to protect your investments from big changes in the market. For example, if you own shares in a U.S. company and you're worried about the U.S. market going down, you could buy DRs in a company from a different country. If the U.S. market does go down, the value of your DRs might go up, which can help balance out your losses. This way, you can try to keep your overall investment safer.
 
 Another strategy is arbitrage, which is when you buy and sell the same thing in different places to make a profit. With DRs, you could buy shares of a company in its home country and then sell DRs that represent those shares in another country. If the price of the DRs is higher than the price of the shares, you could make money from the difference. This strategy needs a lot of attention to details and quick action, but it can be a smart way to earn extra money if you know what you're doing.
 

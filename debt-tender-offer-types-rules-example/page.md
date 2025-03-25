@@ -66,7 +66,7 @@ Sometimes, bondholders might want to wait and see if the company will pay more f
 
 When bondholders decide to take part in a debt tender offer, they need to think about how it might affect their taxes. If they give back their bonds and get cash, they might have to pay taxes on any profit they make. This profit is called a capital gain. If the bond was bought for less than the price the company offers in the tender offer, the difference is the capital gain. Depending on how long the bondholder owned the bond, the gain could be taxed as a short-term or long-term capital gain. Short-term gains are usually taxed at a higher rate than long-term gains.
 
-If bondholders swap their old bonds for new ones in an exchange offer, the tax situation can be different. Sometimes, this kind of swap can be seen as a tax-free exchange, which means they won't have to pay taxes right away. But if the new bonds have different terms, like a different interest rate, there might be some tax to pay on the difference in value. It's a good idea for bondholders to talk to a tax advisor to understand how a debt tender offer could affect their taxes.
+If bondholders swap their old bonds for new ones in an exchange offer, the tax situation can be different. Sometimes, this kind of swap can be seen as a tax-free exchange, which means they won't have to pay taxes right away. But if the new bonds have different terms, like a different [interest rate](/wiki/interest-rate-trading-strategies), there might be some tax to pay on the difference in value. It's a good idea for bondholders to talk to a tax advisor to understand how a debt tender offer could affect their taxes.
 
 ## Can you provide a real-world example of a successful debt tender offer?
 

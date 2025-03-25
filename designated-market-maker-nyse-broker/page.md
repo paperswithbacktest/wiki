@@ -34,7 +34,7 @@ A broker, on the other hand, is like a helper for people who want to buy or sell
 
 ## What are the qualifications required to become a DMM at the NYSE?
 
-To become a Designated Market Maker (DMM) at the New York Stock Exchange (NYSE), you need to have a lot of experience and knowledge about how the stock market works. You usually need to have worked in the financial industry for many years, often in roles like trading or market making. You also need to understand the rules of the NYSE really well and be good at making quick decisions under pressure. The NYSE looks for people who can keep the market fair and orderly, so they want someone who is trustworthy and experienced.
+To become a Designated Market Maker (DMM) at the New York Stock Exchange (NYSE), you need to have a lot of experience and knowledge about how the stock market works. You usually need to have worked in the financial industry for many years, often in roles like trading or [market making](/wiki/market-making). You also need to understand the rules of the NYSE really well and be good at making quick decisions under pressure. The NYSE looks for people who can keep the market fair and orderly, so they want someone who is trustworthy and experienced.
 
 Besides experience, becoming a DMM also requires passing certain tests and getting the right licenses. You need to have a Series 7 license, which lets you trade stocks, and a Series 24 license, which shows you can supervise others in a brokerage. Sometimes, you might need other licenses too, depending on what you will be trading. The NYSE also has its own training program that you have to complete before you can start working as a DMM. This program helps you learn all the specific things you need to know to do the job well.
 
@@ -42,7 +42,7 @@ Besides experience, becoming a DMM also requires passing certain tests and getti
 
 A Designated Market Maker (DMM) helps keep the stock market stable by making sure there are always people who want to buy and sell stocks. If there aren't enough buyers or sellers, the DMM steps in and uses their own shares to trade. This keeps the price of the stock from going up or down too fast, which can be bad for people trading. By doing this, the DMM helps make the market calmer and more predictable.
 
-DMMs also add to the market's liquidity, which means it's easier for people to buy and sell stocks. When someone wants to trade, the DMM is there to make sure the trade can happen quickly. They do this by always being ready to buy or sell shares from their own inventory. This makes it easier for everyone to trade because there's always someone to trade with. Overall, DMMs play a big role in making sure the stock market runs smoothly and fairly.
+DMMs also add to the market's [liquidity](/wiki/liquidity-risk-premium), which means it's easier for people to buy and sell stocks. When someone wants to trade, the DMM is there to make sure the trade can happen quickly. They do this by always being ready to buy or sell shares from their own inventory. This makes it easier for everyone to trade because there's always someone to trade with. Overall, DMMs play a big role in making sure the stock market runs smoothly and fairly.
 
 ## What are the technological tools used by DMMs to manage their responsibilities?
 
@@ -58,7 +58,7 @@ As time went on and technology got better, the role of the specialist changed. I
 
 ## How do DMMs interact with algorithmic trading and high-frequency trading?
 
-DMMs at the NYSE work alongside algorithmic trading and high-frequency trading to keep the market stable. Algorithmic trading uses computer programs to make trades based on set rules, while high-frequency trading does this very quickly, often in milliseconds. DMMs use their own technology to watch what these fast traders are doing. If the market starts to move too much because of these trades, DMMs can step in and use their own shares to buy or sell. This helps to keep the price of the stock from changing too wildly and keeps the market calm.
+DMMs at the NYSE work alongside [algorithmic trading](/wiki/algorithmic-trading) and high-frequency trading to keep the market stable. Algorithmic trading uses computer programs to make trades based on set rules, while high-frequency trading does this very quickly, often in milliseconds. DMMs use their own technology to watch what these fast traders are doing. If the market starts to move too much because of these trades, DMMs can step in and use their own shares to buy or sell. This helps to keep the price of the stock from changing too wildly and keeps the market calm.
 
 Even though algorithmic and high-frequency trading can happen very quickly, DMMs are still important. They help make sure there is always someone to trade with, which adds to the market's liquidity. This means it's easier for everyone to buy and sell stocks. DMMs also help set the opening price each day, taking into account all the orders that came in overnight, including those from algorithmic and high-frequency traders. By doing this, DMMs make sure the market starts the day in a fair and orderly way, even with all the fast trading going on.
 

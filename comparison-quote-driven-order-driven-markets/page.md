@@ -24,7 +24,7 @@ This type of market is common in stock exchanges, where traders can see all the 
 
 In a quote-driven market, dealers or market makers set the prices for buying and selling securities. They provide two prices: a bid price, which is what they'll pay to buy the security, and an ask price, which is what they'll sell it for. Investors trade directly with these dealers, who make money from the difference between the bid and ask prices, known as the spread. This system ensures there's always someone ready to buy or sell, which can make trading smoother but also gives dealers a lot of control over prices.
 
-In an order-driven market, buyers and sellers come together directly without dealers. They place their buy and sell orders into a central system called an order book. This book shows all the current orders, and the system matches buyers with sellers based on the highest price someone is willing to pay and the lowest price someone is willing to accept. This setup can be more transparent because everyone sees the orders, and it might lead to fairer prices. However, it can be less liquid because there's no guaranteed buyer or seller at all times.
+In an order-driven market, buyers and sellers come together directly without dealers. They place their buy and sell orders into a central system called an [order book](/wiki/order-book-trading-strategies). This book shows all the current orders, and the system matches buyers with sellers based on the highest price someone is willing to pay and the lowest price someone is willing to accept. This setup can be more transparent because everyone sees the orders, and it might lead to fairer prices. However, it can be less liquid because there's no guaranteed buyer or seller at all times.
 
 ## What are the primary roles of market makers in quote-driven markets?
 
@@ -52,7 +52,7 @@ Another benefit is that investors can set their own prices for buying and sellin
 
 ## How do liquidity and transaction costs compare between quote-driven and order-driven markets?
 
-In quote-driven markets, liquidity is generally better because market makers are always there to buy or sell. This means traders can always find someone to trade with, which makes it easier and quicker to buy or sell securities. But this can also mean higher transaction costs for traders. Market makers make money from the difference between the bid and ask prices, called the spread. So, when traders buy or sell, they have to pay this spread, which can add up and make trading more expensive.
+In quote-driven markets, [liquidity](/wiki/liquidity-risk-premium) is generally better because market makers are always there to buy or sell. This means traders can always find someone to trade with, which makes it easier and quicker to buy or sell securities. But this can also mean higher transaction costs for traders. Market makers make money from the difference between the bid and ask prices, called the spread. So, when traders buy or sell, they have to pay this spread, which can add up and make trading more expensive.
 
 In order-driven markets, liquidity can be less reliable because there's no one always ready to trade. If there aren't enough buyers and sellers, it might be harder to find someone to trade with, and it might take longer to make a trade. But transaction costs can be lower in these markets. Since traders deal directly with each other, they don't have to pay the spread to a market maker. This can make trading cheaper, especially if there are lots of orders in the order book and prices are close together.
 

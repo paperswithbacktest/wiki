@@ -20,7 +20,7 @@ To start developing a trading brain, a beginner should first focus on learning t
 
 Next, a beginner should work on managing their emotions. Trading can be stressful, and it's easy to feel scared or excited, which can lead to bad decisions. To build a strong trading brain, beginners should practice staying calm and sticking to their trading plan, even when things get tough. One way to do this is by keeping a trading journal where they write down their thoughts and feelings before and after each trade. This helps them see patterns in their emotions and learn how to control them better over time.
 
-Finally, continuous learning and adaptation are key. A beginner should always be looking to improve their knowledge and skills. This can be done by reading books, taking courses, or joining trading communities where they can learn from more experienced traders. It's also important to review past trades regularly to see what worked and what didn't, and to adjust strategies accordingly. By consistently learning and adapting, a beginner can develop a strong trading brain that will serve them well in the long run.
+Finally, continuous learning and adaptation are key. A beginner should always be looking to improve their knowledge and skills. This can be done by reading [books](/wiki/algo-trading-books), taking courses, or joining trading communities where they can learn from more experienced traders. It's also important to review past trades regularly to see what worked and what didn't, and to adjust strategies accordingly. By consistently learning and adapting, a beginner can develop a strong trading brain that will serve them well in the long run.
 
 ## What are the key psychological traits of successful traders?
 

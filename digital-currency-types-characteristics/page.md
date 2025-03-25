@@ -32,7 +32,7 @@ The third type of digital currency includes e-wallets and mobile payment systems
 
 ## What is a cryptocurrency and how does it work?
 
-A cryptocurrency is a type of digital currency that uses special technology called blockchain to keep track of who owns what. It's different from regular money because it doesn't have physical coins or bills. Instead, it's all stored on computers and smartphones. People use cryptocurrencies like Bitcoin or Ethereum to buy things online, invest, or trade them like stocks. They are not controlled by any government or bank, which makes them very private but also riskier.
+A [cryptocurrency](/wiki/cryptocurrency) is a type of digital currency that uses special technology called blockchain to keep track of who owns what. It's different from regular money because it doesn't have physical coins or bills. Instead, it's all stored on computers and smartphones. People use cryptocurrencies like Bitcoin or Ethereum to buy things online, invest, or trade them like stocks. They are not controlled by any government or bank, which makes them very private but also riskier.
 
 Cryptocurrencies work by using blockchain, which is like a digital record book that everyone can see but no one can change. When someone sends cryptocurrency to another person, the transaction is recorded on the blockchain. This makes it very hard to fake or steal. To use cryptocurrencies, people need a digital wallet, which is like a special app on their phone or computer. They can send and receive money using this wallet. The value of cryptocurrencies can change a lot, so people need to be careful when using them.
 

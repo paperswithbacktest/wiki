@@ -28,7 +28,7 @@ Since the announcement, the Central Bank has been working hard to develop the Di
 
 ## What are the primary objectives of introducing the Digital Ruble?
 
-The main goal of the Digital Ruble is to make money easier and faster to use. The Central Bank of Russia wants to help people buy things and pay bills more easily, especially since more people are using smartphones and the internet. By having a digital version of the Ruble, people won't need to carry cash or wait for bank transfers. This can make shopping online or in stores quicker and simpler.
+The main goal of the Digital Ruble is to make money easier and faster to use. The Central Bank of Russia wants to help people buy things and pay bills more easily, especially since more people are using smartphones and the internet. By having a digital version of the Ruble, people won't need to [carry](/wiki/carry-trading) cash or wait for bank transfers. This can make shopping online or in stores quicker and simpler.
 
 Another important aim is to make the Russian economy stronger. When money moves quickly and easily, it can help businesses grow and create more jobs. The Digital Ruble will be safe and reliable because it's backed by the Central Bank. This means people can trust it and use it without worrying about losing their money. By making money transactions smoother, the Digital Ruble can help the whole country's economy do better.
 

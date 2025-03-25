@@ -38,7 +38,7 @@ After figuring out the big economic trends, top-down investors then pick out whi
 
 Bottom-up investing starts by looking at individual companies first. Investors check out things like how much money a company is making, who is running the company, and how it is doing compared to other companies in the same industry. They look for companies that seem strong and have good potential. They do a lot of research to understand each company well. If they find a company that they think is doing well or could do well in the future, they might decide to invest in it.
 
-After picking out the companies, bottom-up investors might then think about the bigger picture of the economy. But this is not their main focus. They believe that a good company can still do well even if the economy is not doing great. So, they pay more attention to the details of the company itself rather than what's happening in the whole economy. This way, they hope to find strong companies that can give them good returns on their investments.
+After [picking](/wiki/asset-class-picking) out the companies, bottom-up investors might then think about the bigger picture of the economy. But this is not their main focus. They believe that a good company can still do well even if the economy is not doing great. So, they pay more attention to the details of the company itself rather than what's happening in the whole economy. This way, they hope to find strong companies that can give them good returns on their investments.
 
 ## What types of investors typically use top-down investing?
 
@@ -68,7 +68,7 @@ Another example is the investment in Apple by investors like Carl Icahn in the e
 
 A top-down approach can be really helpful in different market conditions because it helps investors see the big picture. When the economy is growing, top-down investors can spot which industries will do well. For example, if the economy is getting better, they might invest in companies that make things people want to buy, like cars or electronics. This way, they can take advantage of the good times and make money. On the other hand, if the economy is not doing well, top-down investors can see which industries might struggle and avoid them. This helps them protect their money during tough times.
 
-Another advantage of the top-down approach is that it can help investors understand how big changes, like new laws or interest rate changes, will affect different industries. For example, if the government decides to spend a lot of money on building roads and bridges, top-down investors might invest in construction companies because they know these companies will get more work. By looking at the big picture first, top-down investors can make smart choices about where to put their money, no matter what the market is doing.
+Another advantage of the top-down approach is that it can help investors understand how big changes, like new laws or [interest rate](/wiki/interest-rate-trading-strategies) changes, will affect different industries. For example, if the government decides to spend a lot of money on building roads and bridges, top-down investors might invest in construction companies because they know these companies will get more work. By looking at the big picture first, top-down investors can make smart choices about where to put their money, no matter what the market is doing.
 
 ## What are the potential advantages of using a bottom-up approach in different market conditions?
 

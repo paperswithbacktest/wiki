@@ -62,7 +62,7 @@ Once the Crown Corporation is set up, it gets money from the government to start
 
 Crown Corporations help make public policy by providing important services that the government thinks are needed. For example, Canada Post delivers mail to everyone, which helps keep people connected. The government decides what services are important, and Crown Corporations make sure those services are available to everyone. This way, Crown Corporations help the government achieve its goals, like making sure everyone can get mail or watch public TV.
 
-Crown Corporations also follow rules set by the government. These rules can change how they work and what they do. For example, the government might tell a Crown Corporation to focus on helping certain groups of people or to use less money. By following these rules, Crown Corporations help the government carry out its plans and policies. This means they play a big role in making sure the government's ideas become real actions that help people.
+Crown Corporations also follow rules set by the government. These rules can change how they work and what they do. For example, the government might tell a Crown Corporation to focus on helping certain groups of people or to use less money. By following these rules, Crown Corporations help the government [carry](/wiki/carry-trading) out its plans and policies. This means they play a big role in making sure the government's ideas become real actions that help people.
 
 ## What are the accountability mechanisms for Crown Corporations?
 

@@ -46,7 +46,7 @@ This monthly update helps people see how prices are changing over time. It's imp
 
 ## What are the main factors that influence changes in the CPI-W?
 
-Changes in the CPI-W are influenced by a few main things. One big factor is the cost of goods and services. If the price of things like food, gas, or rent goes up, the CPI-W will usually go up too. Another important factor is how people spend their money. If people start buying more of something that's getting more expensive, like cars, it can push the CPI-W up. On the other hand, if people buy less of something that's getting cheaper, it might not affect the CPI-W as much.
+Changes in the CPI-W are influenced by a few main things. One big [factor](/wiki/factor-investing) is the cost of goods and services. If the price of things like food, gas, or rent goes up, the CPI-W will usually go up too. Another important factor is how people spend their money. If people start buying more of something that's getting more expensive, like cars, it can push the CPI-W up. On the other hand, if people buy less of something that's getting cheaper, it might not affect the CPI-W as much.
 
 Seasonal changes can also play a role. For example, the price of heating oil might go up in the winter, which can affect the CPI-W. Government policies, like taxes or subsidies, can also change prices and influence the CPI-W. For instance, if the government decides to put a new tax on cigarettes, their price might go up, which could affect the CPI-W. All these factors together help explain why the CPI-W might go up or down from month to month.
 

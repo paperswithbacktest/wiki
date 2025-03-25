@@ -40,7 +40,7 @@ However, many people did not think the evidence was good enough. They said the s
 
 ## How has the cryptocurrency community responded to Craig Wright's claim of being Satoshi Nakamoto?
 
-The cryptocurrency community has not fully accepted Craig Wright's claim of being Satoshi Nakamoto. Many people in the Bitcoin world think his evidence is not strong enough. They say the secret codes and messages he showed could have been made up or stolen. Some experts checked his proof and said it was not convincing. Even people who worked with Wright were not sure he was Satoshi. This has led to a lot of doubt and debate in the community.
+The [cryptocurrency](/wiki/cryptocurrency) community has not fully accepted Craig Wright's claim of being Satoshi Nakamoto. Many people in the Bitcoin world think his evidence is not strong enough. They say the secret codes and messages he showed could have been made up or stolen. Some experts checked his proof and said it was not convincing. Even people who worked with Wright were not sure he was Satoshi. This has led to a lot of doubt and debate in the community.
 
 Despite the doubts, some people still think Wright might be Satoshi. They believe his knowledge of Bitcoin's early days and the technology behind it shows he could be the creator. However, the majority of the cryptocurrency community remains skeptical. They say Wright needs to show more clear and convincing proof to be believed. Until then, the debate about his claim continues, with many still questioning his true involvement in Bitcoin's creation.
 

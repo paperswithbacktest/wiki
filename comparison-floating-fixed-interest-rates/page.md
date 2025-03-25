@@ -22,7 +22,7 @@ For example, if you take out a loan with a fixed rate of 5%, you will pay 5% int
 
 ## How do floating interest rates work?
 
-Floating interest rates work by changing based on a special number called a benchmark rate. This benchmark rate can be things like the prime rate or the federal funds rate. When you get a loan with a floating rate, your interest rate is set to be a certain amount more or less than the benchmark rate. For example, if your loan has a floating rate of the prime rate plus 2%, and the prime rate is 3%, your interest rate would be 5%.
+Floating interest rates work by changing based on a special number called a benchmark rate. This benchmark rate can be things like the prime rate or the federal funds rate. When you get a loan with a floating rate, your [interest rate](/wiki/interest-rate-trading-strategies) is set to be a certain amount more or less than the benchmark rate. For example, if your loan has a floating rate of the prime rate plus 2%, and the prime rate is 3%, your interest rate would be 5%.
 
 If the benchmark rate changes, your interest rate changes too. So, if the prime rate goes up to 3.5%, your interest rate would go up to 5.5%. This means your loan payments could go up or down depending on what happens to the benchmark rate. Floating rates can be good if the benchmark rate goes down because it makes your payments cheaper. But they can also be risky because if the benchmark rate goes up, your payments could get more expensive.
 

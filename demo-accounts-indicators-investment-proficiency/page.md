@@ -18,7 +18,7 @@ Using a demo account helps you get familiar with how the stock market works and 
 
 To set up a demo account for trading, you first need to choose a brokerage or trading platform that offers demo accounts. Many popular platforms like eToro, Plus500, and TD Ameritrade have demo accounts available. Once you've picked a platform, go to their website and look for an option to sign up for a demo or practice account. You'll usually need to provide some basic information like your name and email address. After signing up, you'll be given a set amount of virtual money to start trading with.
 
-Once your demo account is set up, you can start exploring the platform and practicing trading. You can buy and sell stocks, forex, or other financial instruments using the virtual money. This is a great way to get used to how the platform works and to try out different trading strategies without any risk. Remember, the goal is to learn and practice, so take your time and don't rush into making decisions. When you feel confident and ready, you can then move on to trading with real money.
+Once your demo account is set up, you can start exploring the platform and practicing trading. You can buy and sell stocks, [forex](/wiki/forex-system), or other financial instruments using the virtual money. This is a great way to get used to how the platform works and to try out different trading strategies without any risk. Remember, the goal is to learn and practice, so take your time and don't rush into making decisions. When you feel confident and ready, you can then move on to trading with real money.
 
 ## What are the main differences between demo accounts and real trading accounts?
 
@@ -52,7 +52,7 @@ It's also important to think about how you feel when using a demo account. In a 
 
 ## Are there specific strategies that work better in demo accounts than in real accounts?
 
-Some strategies might work better in demo accounts because you're using pretend money. In a demo account, you might feel more comfortable taking big risks because you're not worried about losing real money. For example, you might try day trading a lot or investing in very risky stocks. These strategies can seem to work well in a demo account because you can see big gains without any real risk. But in a real account, these same strategies could lead to big losses because it's your real money on the line.
+Some strategies might work better in demo accounts because you're using pretend money. In a demo account, you might feel more comfortable taking big risks because you're not worried about losing real money. For example, you might try [day trading](/wiki/day-trading-spy) a lot or investing in very risky stocks. These strategies can seem to work well in a demo account because you can see big gains without any real risk. But in a real account, these same strategies could lead to big losses because it's your real money on the line.
 
 In real accounts, people often feel more nervous and might stick to safer strategies. They might choose to invest in more stable stocks or use a long-term approach instead of trying to make quick profits. The emotions you feel when using real money can make you more cautious and less likely to take big risks. So, while some risky strategies might look good in a demo account, they might not work as well or be as safe in a real account where your money is at stake.
 

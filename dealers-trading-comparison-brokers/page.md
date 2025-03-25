@@ -22,7 +22,7 @@ On the other hand, a broker acts as a middleman. They don't buy or sell things t
 
 ## What are the primary functions of dealers in the trading market?
 
-Dealers play a crucial role in the trading market by providing liquidity. This means they always have stocks, bonds, or other financial products ready to buy or sell. When someone wants to trade, dealers are there to make sure the trade can happen quickly and easily. This helps keep the market running smoothly because there is always someone to trade with, no matter if the market is going up or down.
+Dealers play a crucial role in the trading market by providing [liquidity](/wiki/liquidity-risk-premium). This means they always have stocks, bonds, or other financial products ready to buy or sell. When someone wants to trade, dealers are there to make sure the trade can happen quickly and easily. This helps keep the market running smoothly because there is always someone to trade with, no matter if the market is going up or down.
 
 Another important function of dealers is to set prices. They do this by deciding how much they will buy or sell a financial product for. The difference between these prices, called the spread, is how dealers make their money. By setting these prices, dealers help create a clear and organized market where everyone knows what things are worth. This makes trading easier and more predictable for everyone involved.
 
@@ -66,7 +66,7 @@ Dealers also help with price discovery. This means they help figure out how much
 
 ## What advanced trading strategies can dealers employ that brokers cannot?
 
-Dealers can use a strategy called market making to make money. Market making means they always have stocks or bonds ready to buy or sell. This helps keep the market running smoothly because there's always someone to trade with. Dealers can adjust their buying and selling prices quickly based on what's happening in the market. This is something brokers can't do because they don't buy or sell things themselves. By changing their prices, dealers can make more money when the market is moving a lot.
+Dealers can use a strategy called [market making](/wiki/market-making) to make money. Market making means they always have stocks or bonds ready to buy or sell. This helps keep the market running smoothly because there's always someone to trade with. Dealers can adjust their buying and selling prices quickly based on what's happening in the market. This is something brokers can't do because they don't buy or sell things themselves. By changing their prices, dealers can make more money when the market is moving a lot.
 
 Another strategy dealers can use is called proprietary trading. This means they use their own money to buy and sell financial products, hoping to make a profit. Dealers can take advantage of short-term price changes in the market to make money. Brokers can't do this because they are supposed to help their clients trade, not trade for themselves. Proprietary trading can be risky, but it can also be very profitable if dealers make good decisions.
 
@@ -78,7 +78,7 @@ For brokers, technology has changed things too, but in different ways. Brokers u
 
 ## What are the future trends for dealers and brokers in the trading industry?
 
-In the future, dealers will probably use more and more technology to do their jobs. They might use things like artificial intelligence and machine learning to help them set prices and make trades. This could make their job faster and more accurate. Dealers might also start using new kinds of financial products, like cryptocurrencies, to buy and sell. This could help them reach more people and make more money. But, they will need to be careful because these new products can be risky.
+In the future, dealers will probably use more and more technology to do their jobs. They might use things like [artificial intelligence](/wiki/ai-artificial-intelligence) and [machine learning](/wiki/machine-learning) to help them set prices and make trades. This could make their job faster and more accurate. Dealers might also start using new kinds of financial products, like cryptocurrencies, to buy and sell. This could help them reach more people and make more money. But, they will need to be careful because these new products can be risky.
 
 Brokers will also see changes because of technology. They might use new apps and websites to help their clients trade from anywhere. This could make it easier for brokers to help more people and do their job from any place. Brokers might also start giving advice on new kinds of investments, like sustainable or green investments. This could help their clients make money and do good for the world at the same time. But, brokers will need to keep learning about new rules and technologies to stay good at their job.
 

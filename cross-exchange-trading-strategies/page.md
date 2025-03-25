@@ -18,7 +18,7 @@ To do cross-exchange trading, you need to have accounts on multiple exchanges an
 
 Someone might engage in cross-exchange trading because they want to make money from the differences in prices of cryptocurrencies on different exchanges. If Bitcoin is cheaper on one exchange and more expensive on another, a trader can buy it on the cheaper exchange and sell it on the more expensive one. This way, they can earn a profit from the price difference, which is called arbitrage.
 
-Cross-exchange trading can be appealing because it offers a way to potentially make money without having to predict the overall direction of the cryptocurrency market. Instead, traders focus on the price gaps between exchanges. However, it requires quick action and careful management because the prices can change rapidly, and there are fees for trading and transferring cryptocurrencies between exchanges. Despite these challenges, many traders find it a worthwhile strategy to explore.
+Cross-exchange trading can be appealing because it offers a way to potentially make money without having to predict the overall direction of the [cryptocurrency](/wiki/cryptocurrency) market. Instead, traders focus on the price gaps between exchanges. However, it requires quick action and careful management because the prices can change rapidly, and there are fees for trading and transferring cryptocurrencies between exchanges. Despite these challenges, many traders find it a worthwhile strategy to explore.
 
 ## What are the basic risks involved in cross-exchange trading?
 
@@ -30,7 +30,7 @@ Lastly, there's the risk of technical issues. Sometimes, exchanges can have prob
 
 ## How does one identify arbitrage opportunities in cross-exchange trading?
 
-To find arbitrage opportunities in cross-exchange trading, you need to keep an eye on the prices of the same cryptocurrency on different exchanges. You're looking for times when the price on one exchange is lower than on another. For example, if Bitcoin is $30,000 on Exchange A and $30,500 on Exchange B, you might be able to buy it on Exchange A and sell it on Exchange B to make a profit. You can use websites or tools that show prices across multiple exchanges to help you spot these differences quickly.
+To find [arbitrage](/wiki/arbitrage) opportunities in cross-exchange trading, you need to keep an eye on the prices of the same cryptocurrency on different exchanges. You're looking for times when the price on one exchange is lower than on another. For example, if Bitcoin is $30,000 on Exchange A and $30,500 on Exchange B, you might be able to buy it on Exchange A and sell it on Exchange B to make a profit. You can use websites or tools that show prices across multiple exchanges to help you spot these differences quickly.
 
 Once you find a price difference, you have to act fast because prices can change quickly. It's also important to think about the fees you'll have to pay for buying, selling, and moving the cryptocurrency between exchanges. These fees can eat into your profit, so the price difference needs to be big enough to cover them. Sometimes, using special software or bots can help you find and take advantage of these opportunities faster and more efficiently.
 
@@ -56,7 +56,7 @@ Another strategy for beginners is to start with small amounts of money. This way
 
 ## How does liquidity affect cross-exchange trading strategies?
 
-Liquidity is really important for cross-exchange trading. It means how easy it is to buy or sell a cryptocurrency on an exchange without the price changing a lot. If an exchange has high liquidity, you can quickly buy and sell without moving the price much. This is good for cross-exchange trading because you want to take advantage of price differences without making the price change on you. If an exchange has low liquidity, it can be harder to trade because your trades might move the price, making it harder to make a profit.
+Liquidity is really important for cross-exchange trading. It means how easy it is to buy or sell a cryptocurrency on an exchange without the price changing a lot. If an exchange has high [liquidity](/wiki/liquidity-risk-premium), you can quickly buy and sell without moving the price much. This is good for cross-exchange trading because you want to take advantage of price differences without making the price change on you. If an exchange has low liquidity, it can be harder to trade because your trades might move the price, making it harder to make a profit.
 
 When you're planning your cross-exchange trading strategy, you need to think about the liquidity of the exchanges you're using. If one exchange has low liquidity, the price might change a lot when you try to buy or sell, which could make your arbitrage opportunity go away. So, it's a good idea to use exchanges with high liquidity for both buying and selling. This way, you can be more sure that the price won't change too much while you're making your trades, helping you make a profit from the price differences between exchanges.
 

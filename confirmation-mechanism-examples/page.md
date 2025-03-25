@@ -76,7 +76,7 @@ Today, psychologists know a lot more about confirmation bias. They've found that
 
 ## What advanced techniques or technologies are being developed to counteract confirmation bias in complex decision-making systems?
 
-To help fight confirmation bias in complex decision-making systems, scientists and engineers are working on new techniques and technologies. One approach is using artificial intelligence (AI) and machine learning. These systems can look at a lot of data very quickly and find patterns that people might miss. They can also be set up to look for information that goes against what people already believe. This helps to make sure all the facts are considered, not just the ones that fit with what someone thinks.
+To help fight confirmation bias in complex decision-making systems, scientists and engineers are working on new techniques and technologies. One approach is using [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and [machine learning](/wiki/machine-learning). These systems can look at a lot of data very quickly and find patterns that people might miss. They can also be set up to look for information that goes against what people already believe. This helps to make sure all the facts are considered, not just the ones that fit with what someone thinks.
 
 Another technique is using decision support systems. These are computer programs that help people make choices by showing them all the information they need. They can be designed to show different points of view and make sure that people don't just see what they want to see. By using these systems, people can make better decisions because they are looking at all the facts, not just the ones that agree with them.
 

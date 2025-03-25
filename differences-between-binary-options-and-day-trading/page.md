@@ -18,7 +18,7 @@ These options are popular because they are simple and can offer quick returns. H
 
 Day trading is when people buy and sell things like stocks or currencies within the same day. They do this to try to make quick profits from small changes in price. Day traders watch the market closely all day and make many trades. They need to be good at understanding charts and numbers, and they often use computers to help them decide when to buy or sell.
 
-It's a risky way to make money because the prices can go up or down very quickly. Day traders can lose a lot of money if they make the wrong choices. That's why it's important for them to learn a lot about trading and to be careful. Some people make a living from day trading, but it's hard work and not everyone is successful at it.
+It's a risky way to make money because the prices can go up or down very quickly. Day traders can lose a lot of money if they make the wrong choices. That's why it's important for them to learn a lot about trading and to be careful. Some people make a living from [day trading](/wiki/day-trading-spy), but it's hard work and not everyone is successful at it.
 
 ## How do binary options work?
 

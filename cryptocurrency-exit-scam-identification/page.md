@@ -24,7 +24,7 @@ Lastly, be careful if you see the project's value going up and down a lot withou
 
 ## What are common tactics used by scammers in cryptocurrency exit schemes?
 
-Scammers in cryptocurrency exit schemes often use fake promises to trick people. They say their project will make a lot of money fast, which sounds exciting but is usually not true. They might show fake charts or success stories to make their project look good. They also use social media a lot to make their project seem popular and trustworthy. They might even pay people to say good things about their project online.
+Scammers in [cryptocurrency](/wiki/cryptocurrency) [exit](/wiki/exit-strategy) schemes often use fake promises to trick people. They say their project will make a lot of money fast, which sounds exciting but is usually not true. They might show fake charts or success stories to make their project look good. They also use social media a lot to make their project seem popular and trustworthy. They might even pay people to say good things about their project online.
 
 Another common trick is to make it hard to get your money back. Scammers might say you need to wait a long time before you can take your money out, or they might make the process so complicated that people give up. They might also suddenly change the rules or the way the project works, which can confuse investors and make it easier for the scammers to steal the money. If the project's leaders start to disappear or stop talking to people, it's a big warning sign that an exit scam might be happening.
 
@@ -66,7 +66,7 @@ Another important part of doing your homework is to look at the project's financ
 
 ## How can machine learning and AI be used to predict and identify exit scams?
 
-Machine learning and AI can help predict and identify exit scams by looking at a lot of data and finding patterns that might be hard for people to see. These technologies can be trained to recognize signs of an exit scam, like sudden changes in how money is moved around or if the people running the project start to disappear. By analyzing past data from known scams, machine learning models can learn what to look for and then use that knowledge to watch new projects. If the model sees something that looks like an exit scam, it can warn people before they invest their money.
+Machine learning and AI can help predict and identify exit scams by looking at a lot of data and finding patterns that might be hard for people to see. These technologies can be trained to recognize signs of an exit scam, like sudden changes in how money is moved around or if the people running the project start to disappear. By analyzing past data from known scams, [machine learning](/wiki/machine-learning) models can learn what to look for and then use that knowledge to watch new projects. If the model sees something that looks like an exit scam, it can warn people before they invest their money.
 
 AI can also be used to keep an eye on social media and online forums where people talk about cryptocurrency projects. By reading what people are saying, AI can pick up on warning signs like a lot of negative comments or if the project's team stops responding to questions. This can help catch an exit scam early, before it's too late. By using machine learning and AI, investors can get help in spotting the red flags of an exit scam and make smarter choices about where to put their money.
 

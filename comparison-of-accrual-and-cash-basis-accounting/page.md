@@ -74,7 +74,7 @@ On the other hand, if you use accrual accounting, you report income and expenses
 
 Using accrual accounting can be tricky because it's more complicated than cash accounting. You have to keep track of money you haven't gotten yet, which is called accounts receivable, and money you owe, which is called accounts payable. This means you need a good system to manage all these numbers and make sure they're right. It can take more time and might need special software or even an accountant to help you keep everything in order.
 
-Another challenge is that it can be hard to understand at first. You're not just looking at the money in your bank account; you're trying to match up the money you've earned with the costs of earning it, even if you haven't been paid yet. This can make your financial statements look different from what you see in your bank account, which can be confusing. But once you get the hang of it, accrual accounting can give you a much better idea of how your business is really doing.
+Another challenge is that it can be hard to understand at first. You're not just looking at the money in your bank account; you're trying to match up the money you've earned with the costs of [earning](/wiki/earning-announcement) it, even if you haven't been paid yet. This can make your financial statements look different from what you see in your bank account, which can be confusing. But once you get the hang of it, accrual accounting can give you a much better idea of how your business is really doing.
 
 ## How can businesses transition from cash basis to accrual basis accounting?
 

@@ -34,7 +34,7 @@ Another important thing about blockchain is that it helps keep people's informat
 
 ## What are some common examples of decentralized markets?
 
-One common example of a decentralized market is cryptocurrency exchanges like Bitcoin and Ethereum. These markets allow people to trade digital money directly with each other, without needing a bank or a big company to help. All the trades are recorded on a blockchain, which keeps everything fair and secure. People like using these markets because they can be faster and cheaper than traditional banks, and they can keep their money more private.
+One common example of a decentralized market is [cryptocurrency](/wiki/cryptocurrency) exchanges like Bitcoin and Ethereum. These markets allow people to trade digital money directly with each other, without needing a bank or a big company to help. All the trades are recorded on a blockchain, which keeps everything fair and secure. People like using these markets because they can be faster and cheaper than traditional banks, and they can keep their money more private.
 
 Another example is decentralized finance, or DeFi, platforms. These platforms let people do things like borrow money, lend money, or trade without going through a traditional bank. Everything happens on a blockchain, so people can trust that their money is safe and that no one can change the rules without everyone agreeing. DeFi is popular because it gives people more control over their money and lets them do things that might be hard or expensive with a regular bank.
 

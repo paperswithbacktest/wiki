@@ -22,7 +22,7 @@ Some people think the DAME Tax is a good idea because it might reduce the harm t
 
 ## Who is affected by the DAME Tax?
 
-The DAME Tax directly affects cryptocurrency miners in the United States. These are the people and companies that use a lot of electricity to mine digital currencies like Bitcoin. If the tax becomes law, miners will have to pay an extra 30% on their electricity costs. This could make it more expensive for them to keep mining in the U.S.
+The DAME Tax directly affects [cryptocurrency](/wiki/cryptocurrency) miners in the United States. These are the people and companies that use a lot of electricity to mine digital currencies like Bitcoin. If the tax becomes law, miners will have to pay an extra 30% on their electricity costs. This could make it more expensive for them to keep mining in the U.S.
 
 The tax could also indirectly affect other people and businesses. If miners move to other countries because of the higher costs, it might hurt the American economy. Jobs related to mining could be lost, and the areas where miners operate might see less economic activity. On the other hand, if the tax helps reduce the energy used for mining, it could be good for the environment, which benefits everyone.
 

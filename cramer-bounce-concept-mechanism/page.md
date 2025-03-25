@@ -24,7 +24,7 @@ The Cramer Bounce happens because when Jim Cramer says good things about a stock
 
 The Cramer Bounce happens when Jim Cramer talks about a stock on his TV show, "Mad Money." He says good things about the stock, and a lot of people who watch his show want to buy it. They think that if Jim Cramer likes the stock, it must be a good choice. So, they rush to buy the stock, and this makes the price go up quickly. It's like a lot of people jumping on a bandwagon all at once.
 
-But, the price increase doesn't usually last very long. It's called a "bounce" because it's a quick jump up, but then the price falls back down. This happens because the excitement from Jim Cramer's words doesn't change the real value of the company. The stock price goes back to normal when people realize that they bought it just because of what they heard on TV, not because the company is doing better. So, the Cramer Bounce is a short-lived event driven by the influence of Jim Cramer's recommendations.
+But, the price increase doesn't usually last very long. It's called a "bounce" because it's a quick jump up, but then the price falls back down. This happens because the excitement from Jim Cramer's words doesn't change the real value of the company. The stock price goes back to normal when people realize that they bought it just because of what they heard on TV, not because the company is doing better. So, the Cramer Bounce is a short-lived [event driven](/wiki/event-driven-strategies) by the influence of Jim Cramer's recommendations.
 
 ## Can you provide examples of stocks that have experienced the Cramer Bounce?
 

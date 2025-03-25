@@ -58,7 +58,7 @@ On the other hand, when the CMT rate goes down, mortgage rates usually follow. L
 
 ## What role does the Constant Maturity Treasury rate play in financial derivatives?
 
-The Constant Maturity Treasury rate is important for financial derivatives because it helps set the price of these products. Financial derivatives like interest rate swaps and options often use the CMT rate as a reference point. For example, in an interest rate swap, one party might agree to pay a fixed rate while the other pays a floating rate that's based on the CMT rate. This means that if the CMT rate goes up, the floating rate will go up too, and the party paying the floating rate will have to pay more.
+The Constant Maturity Treasury rate is important for financial derivatives because it helps set the price of these products. Financial derivatives like [interest rate](/wiki/interest-rate-trading-strategies) swaps and options often use the CMT rate as a reference point. For example, in an interest rate swap, one party might agree to pay a fixed rate while the other pays a floating rate that's based on the CMT rate. This means that if the CMT rate goes up, the floating rate will go up too, and the party paying the floating rate will have to pay more.
 
 In options and other derivatives, the CMT rate can help figure out how much the option is worth. Traders look at the CMT rate to guess where interest rates might go in the future, which can change the price of the option. If the CMT rate is expected to rise, the price of an option that benefits from higher interest rates might go up. So, the CMT rate is a key piece of information that helps people in the financial markets make decisions about buying and selling derivatives.
 

@@ -78,7 +78,7 @@ Another way CEP helps is by spotting problems before they get big. For example, 
 
 ## What are the future trends and developments expected in the field of CEP?
 
-In the future, CEP is expected to become even smarter and faster. One big trend is the use of artificial intelligence and machine learning with CEP. These technologies can help CEP systems learn from past events and get better at finding important patterns. Imagine a CEP system that not only looks for patterns you tell it to find but also learns to spot new ones on its own. This could make businesses react even quicker to changes and make smarter decisions based on what's happening right now.
+In the future, CEP is expected to become even smarter and faster. One big trend is the use of [artificial intelligence](/wiki/ai-artificial-intelligence) and [machine learning](/wiki/machine-learning) with CEP. These technologies can help CEP systems learn from past events and get better at finding important patterns. Imagine a CEP system that not only looks for patterns you tell it to find but also learns to spot new ones on its own. This could make businesses react even quicker to changes and make smarter decisions based on what's happening right now.
 
 Another trend is the growth of the Internet of Things (IoT). More and more devices, like smart home gadgets and industrial sensors, are connected and sending data all the time. CEP systems will need to handle this huge amount of data and find useful information from it. As IoT grows, CEP will become more important for things like smart cities and factories, helping them run better and more efficiently. By working with IoT, CEP can help businesses understand and react to what's happening in real time, making everything work smoother.
 

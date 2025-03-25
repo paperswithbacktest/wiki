@@ -18,7 +18,7 @@ SPY, on the other hand, is an exchange-traded fund (ETF) that also tracks the S&
 
 The expense ratio for VFIAX, the Vanguard 500 Index Fund Admiral Shares, is currently 0.04%. This means for every $10,000 you invest, you pay $4 each year to cover the fund's operating costs. A lower expense ratio like this can help your investment grow more over time because you keep more of your returns instead of paying them as fees.
 
-SPY, the SPDR S&P 500 ETF Trust, has an expense ratio of 0.095%. For the same $10,000 investment, you would pay $9.50 annually. Although this is still considered low, it's more than double the expense ratio of VFIAX. Over many years, this difference can add up, potentially reducing your overall returns compared to an investment with a lower expense ratio like VFIAX.
+SPY, the SPDR S&P 500 [ETF](/wiki/etf-trading-strategies) Trust, has an expense ratio of 0.095%. For the same $10,000 investment, you would pay $9.50 annually. Although this is still considered low, it's more than double the expense ratio of VFIAX. Over many years, this difference can add up, potentially reducing your overall returns compared to an investment with a lower expense ratio like VFIAX.
 
 ## How do the investment minimums for VFIAX compare to those for SPY?
 

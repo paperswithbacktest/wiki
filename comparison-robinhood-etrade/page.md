@@ -46,7 +46,7 @@ E*TRADE, on the other hand, provides a lot more educational content. They have a
 
 ## What are the margin trading options and rates at Robinhood and E*TRADE in 2024?
 
-In 2024, Robinhood offers margin trading, which lets you borrow money to buy more stocks. If you have a Robinhood Gold account, you can use margin trading. The interest rate for borrowing money on Robinhood can change, but it's usually around 8% to 12% a year, depending on how much you borrow. Robinhood makes it easy to start using margin, but remember that using borrowed money can be risky because you might lose more than you put in.
+In 2024, Robinhood offers margin trading, which lets you borrow money to buy more stocks. If you have a Robinhood Gold account, you can use margin trading. The [interest rate](/wiki/interest-rate-trading-strategies) for borrowing money on Robinhood can change, but it's usually around 8% to 12% a year, depending on how much you borrow. Robinhood makes it easy to start using margin, but remember that using borrowed money can be risky because you might lose more than you put in.
 
 E*TRADE also offers margin trading for its customers. Like Robinhood, the interest rates at E*TRADE can change and depend on how much you borrow. In 2024, their rates start at about 12.2% a year for smaller amounts and can go down to around 9.5% if you borrow a lot. E*TRADE gives you more tools to help you manage your margin account, but it's still important to be careful because trading on margin can lead to big losses if the market goes against you.
 

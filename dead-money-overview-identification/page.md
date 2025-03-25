@@ -24,7 +24,7 @@ On the other hand, having some dead money isn't always bad. It's good to have so
 
 Dead money is often found in regular savings accounts that don't earn much interest. For example, if you have $1,000 in a savings account that only gives you 0.01% interest per year, you're not making much money from it. That money could be considered dead because it's not growing or helping you reach your financial goals. Many people keep money in these accounts because they want it to be safe and easy to get to, but it's not the best place if you want your money to grow.
 
-Another common example of dead money is cash that you keep at home or in a safe. While having some cash on hand can be useful for emergencies, if you have a lot of it just sitting there, it's not earning any interest or returns. Over time, inflation can even make that money worth less. It's important to think about whether keeping cash at home is the best use of your money, or if you should put it into something that can help it grow.
+Another common example of dead money is cash that you keep at home or in a safe. While having some cash on hand can be useful for emergencies, if you have a lot of it just sitting there, it's not [earning](/wiki/earning-announcement) any interest or returns. Over time, inflation can even make that money worth less. It's important to think about whether keeping cash at home is the best use of your money, or if you should put it into something that can help it grow.
 
 ## How can someone identify dead money in their investments?
 
@@ -52,7 +52,7 @@ On the other hand, having some dead money isn't always bad for a company. It's g
 
 ## Can dead money be turned into productive assets? If so, how?
 
-Yes, dead money can be turned into productive assets. If you have money sitting in a regular savings account that doesn't earn much interest, you can move it into investments that can grow over time. For example, you might put your money into stocks, bonds, or even a high-yield savings account that offers a better interest rate. By doing this, you're making your money work harder for you and turning it into something that can help you reach your financial goals.
+Yes, dead money can be turned into productive assets. If you have money sitting in a regular savings account that doesn't earn much interest, you can move it into investments that can grow over time. For example, you might put your money into stocks, bonds, or even a high-yield savings account that offers a better [interest rate](/wiki/interest-rate-trading-strategies). By doing this, you're making your money work harder for you and turning it into something that can help you reach your financial goals.
 
 It's important to think about what kind of investments make sense for you. If you're not sure where to start, you might want to talk to a financial advisor who can help you figure out the best places to put your money. They can help you understand the risks and rewards of different investments and find a plan that fits your needs. By turning dead money into productive assets, you can make sure your money is helping you build a stronger financial future.
 

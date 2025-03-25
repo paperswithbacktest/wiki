@@ -60,7 +60,7 @@ Overall, the mix of education, business support, infrastructure, and tax policie
 
 ## How does income inequality impact the average income statistics in these countries?
 
-Income inequality can make average income statistics a bit tricky. In countries with high average incomes, like the United States or Singapore, a few people might earn a lot more money than everyone else. When you calculate the average income, these very high earners can make the average look higher than what most people actually earn. For example, if a few billionaires live in a country, their huge incomes can pull the average up a lot, even if most people are earning much less.
+Income inequality can make average income [statistics](/wiki/bayesian-statistics) a bit tricky. In countries with high average incomes, like the United States or Singapore, a few people might earn a lot more money than everyone else. When you calculate the average income, these very high earners can make the average look higher than what most people actually earn. For example, if a few billionaires live in a country, their huge incomes can pull the average up a lot, even if most people are [earning](/wiki/earning-announcement) much less.
 
 This can be a problem because the average income might not show the real picture of how well off people are. If you only look at the average, you might think everyone in the country is doing well, but that's not always true. In places with a lot of income inequality, many people might still struggle to make ends meet, even though the average income looks high. That's why it's important to also look at other measures, like the median income, which shows what a typical person earns and gives a better idea of how most people are doing.
 

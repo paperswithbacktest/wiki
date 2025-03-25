@@ -40,7 +40,7 @@ There have been some changes in which countries produce the most silver. For exa
 
 ## What factors influence a country's silver production?
 
-Many things can affect how much silver a country makes. One big factor is how many silver mines a country has. If a country has a lot of mines, it can produce more silver. Another important thing is the technology used in mining. Better technology can help miners find and take out silver more easily and quickly. The price of silver also matters. If silver is expensive, miners might work harder to find more of it because they can make more money. If the price is low, they might slow down because it's not worth the effort.
+Many things can affect how much silver a country makes. One big [factor](/wiki/factor-investing) is how many silver mines a country has. If a country has a lot of mines, it can produce more silver. Another important thing is the technology used in mining. Better technology can help miners find and take out silver more easily and quickly. The price of silver also matters. If silver is expensive, miners might work harder to find more of it because they can make more money. If the price is low, they might slow down because it's not worth the effort.
 
 Other factors include government rules and the cost of mining. Some countries have strict rules about mining, which can make it harder and more expensive to produce silver. The cost of mining can also change how much silver a country makes. If it costs a lot to dig up silver, miners might not want to do it unless the price of silver is high enough to cover their costs. All these things together decide how much silver a country can produce each year.
 

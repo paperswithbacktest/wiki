@@ -30,7 +30,7 @@ Another benefit is that corporate bonds can help you spread out your investment 
 
 One big risk of buying corporate bonds is that the company might not be able to pay you back. If the company goes bankrupt, bondholders might lose their money. This is more likely to happen with companies that are not doing well financially. To help you understand this risk, credit rating agencies give bonds ratings. A high rating means the company is likely to pay back the bond, but a low rating means there's a bigger chance they might not be able to pay. So, it's important to check the rating before you buy a bond.
 
-Another risk is that the value of your bond can go down if interest rates go up. When interest rates rise, new bonds are issued with higher interest rates, making your old bond less attractive to other investors. If you need to sell your bond before it matures, you might have to sell it for less than you paid for it. This is called interest rate risk. It's something to think about if you might need your money back before the bond's maturity date.
+Another risk is that the value of your bond can go down if interest rates go up. When interest rates rise, new bonds are issued with higher interest rates, making your old bond less attractive to other investors. If you need to sell your bond before it matures, you might have to sell it for less than you paid for it. This is called [interest rate](/wiki/interest-rate-trading-strategies) risk. It's something to think about if you might need your money back before the bond's maturity date.
 
 ## How can someone start buying corporate bonds?
 

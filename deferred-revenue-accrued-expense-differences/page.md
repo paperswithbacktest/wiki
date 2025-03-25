@@ -66,7 +66,7 @@ For accrued expenses, both GAAP and IFRS agree that companies should record cost
 
 ## What are the tax implications of deferred revenue and accrued expenses?
 
-Deferred revenue can affect a company's taxes because it's money the company gets before it provides goods or services. For tax purposes, this money isn't counted as income right away. Instead, the company can only claim it as income as it earns it over time. This means the company might pay less tax in the year it gets the money and more tax in later years as it turns the deferred revenue into income. It's like spreading out the tax payments over the time the company is actually earning the money.
+Deferred revenue can affect a company's taxes because it's money the company gets before it provides goods or services. For tax purposes, this money isn't counted as income right away. Instead, the company can only claim it as income as it earns it over time. This means the company might pay less tax in the year it gets the money and more tax in later years as it turns the deferred revenue into income. It's like spreading out the tax payments over the time the company is actually [earning](/wiki/earning-announcement) the money.
 
 Accrued expenses can also impact taxes. These are costs the company owes but hasn't paid yet. For tax purposes, companies can usually deduct these expenses in the year they happen, even if they haven't paid the bill yet. This can help lower the company's taxable income for that year, meaning they might pay less in taxes. It's important for the company to keep good records of these expenses so they can claim the right deductions and follow tax rules correctly.
 

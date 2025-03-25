@@ -28,7 +28,7 @@ What makes Cannabis ETFs different from other ETFs is their specific focus on th
 
 ## How do custodians handle the assets of Cannabis ETFs?
 
-Custodians handle the assets of Cannabis ETFs the same way they handle other types of investments. They keep the stocks and other securities safe and make sure they are recorded correctly. When someone wants to buy or sell shares of a Cannabis ETF, the custodian helps make sure the trade happens smoothly. They also keep track of any dividends or other payments that the ETF might receive and make sure these go to the right people.
+Custodians handle the assets of Cannabis ETFs the same way they handle other types of investments. They keep the stocks and other securities safe and make sure they are recorded correctly. When someone wants to buy or sell shares of a Cannabis [ETF](/wiki/etf-trading-strategies), the custodian helps make sure the trade happens smoothly. They also keep track of any dividends or other payments that the ETF might receive and make sure these go to the right people.
 
 Because the cannabis industry can be a bit tricky with different laws in different places, custodians have to be extra careful. They need to make sure that all the companies in the ETF are following the rules where they operate. This can be a bit more work than usual, but custodians are used to dealing with different kinds of investments and they know how to handle it.
 

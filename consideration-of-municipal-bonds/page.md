@@ -56,7 +56,7 @@ Lastly, there's also the risk that the tax benefits of municipal bonds might cha
 
 ## How do interest rates affect the value of municipal bonds?
 
-When interest rates go up, the value of municipal bonds can go down. This happens because new bonds that are issued will have higher interest rates, making them more attractive to investors. If you want to sell your old bond with a lower interest rate, you might have to sell it for less money because other people would rather buy the new bonds that pay more.
+When interest rates go up, the value of municipal bonds can go down. This happens because new bonds that are issued will have higher interest rates, making them more attractive to investors. If you want to sell your old bond with a lower [interest rate](/wiki/interest-rate-trading-strategies), you might have to sell it for less money because other people would rather buy the new bonds that pay more.
 
 On the other hand, when interest rates go down, the value of your municipal bond can go up. This is because your bond now pays a higher interest rate than the new bonds being issued. People would be willing to pay more for your bond because it gives them a better return on their money. So, if you need to sell your bond before it matures, you might be able to sell it for more than you paid for it.
 
@@ -70,7 +70,7 @@ Another reason municipal bonds are good for diversification is because they ofte
 
 You can invest in municipal bonds by buying them directly from the city or town that's selling them. Sometimes, you can find these bonds through a broker or a financial advisor who helps you pick the right ones. You can also buy them through an online platform that specializes in bonds. When you buy a bond, you're lending money to the city, and they promise to pay you back with interest over time. It's a good idea to look at the bond's credit rating and understand how much interest you'll earn before you buy.
 
-Another way to invest in municipal bonds is by buying a municipal bond fund. This is like a big basket of different municipal bonds put together by a professional. When you buy into the fund, you're getting a piece of all those bonds at once. This can be easier than picking out individual bonds, and it helps spread out your risk. Just remember that while bond funds can be convenient, they might have fees that you need to think about. It's always smart to do your homework and maybe talk to a financial advisor to make sure you're making the best choice for your savings.
+Another way to invest in municipal bonds is by buying a municipal bond fund. This is like a big basket of different municipal bonds put together by a professional. When you buy into the fund, you're getting a piece of all those bonds at once. This can be easier than [picking](/wiki/asset-class-picking) out individual bonds, and it helps spread out your risk. Just remember that while bond funds can be convenient, they might have fees that you need to think about. It's always smart to do your homework and maybe talk to a financial advisor to make sure you're making the best choice for your savings.
 
 ## What are some strategies for trading municipal bonds?
 

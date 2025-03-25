@@ -28,7 +28,7 @@ On the other hand, with Free on Board, the seller has more responsibility. They 
 
 ## What are the costs associated with Ex Works?
 
-When using Ex Works, the buyer has to pay for a lot of things. They need to cover the cost of picking up the goods from the seller's place. This includes any transport costs to get the goods from the seller to the port or wherever they need to go next. The buyer also has to pay for loading the goods onto the vehicle, and any export fees or customs duties that come up when the goods leave the seller's country.
+When using Ex Works, the buyer has to pay for a lot of things. They need to cover the cost of [picking](/wiki/asset-class-picking) up the goods from the seller's place. This includes any transport costs to get the goods from the seller to the port or wherever they need to go next. The buyer also has to pay for loading the goods onto the vehicle, and any export fees or customs duties that come up when the goods leave the seller's country.
 
 The buyer is also responsible for the cost of shipping the goods to their final destination. This means paying for the ship or plane that carries the goods, and any insurance to protect the goods during the journey. If anything goes wrong, like the goods getting damaged or lost, the buyer has to deal with those costs too. So, with Ex Works, the buyer ends up paying for almost everything after the goods are ready at the seller's location.
 

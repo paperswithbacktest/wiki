@@ -18,7 +18,7 @@ REITs work by pooling money from many investors to purchase a variety of propert
 
 ETFs, or Exchange-Traded Funds, are a type of investment fund that you can buy and sell on a stock exchange, just like individual stocks. They are designed to track the performance of a specific index, like the S&P 500, a commodity, bonds, or a basket of assets. This means when you buy shares of an ETF, you're essentially buying a small piece of everything that's in the index or basket it tracks.
 
-ETFs work by pooling money from many investors to buy a collection of assets. The value of the ETF goes up or down based on how the assets it holds perform. Because ETFs are traded on an exchange, you can buy or sell them throughout the trading day at market prices. This makes them more flexible than mutual funds, which are only priced at the end of the trading day. ETFs are popular because they offer diversification, lower costs, and the ability to easily trade them.
+ETFs work by pooling money from many investors to buy a collection of assets. The value of the [ETF](/wiki/etf-trading-strategies) goes up or down based on how the assets it holds perform. Because ETFs are traded on an exchange, you can buy or sell them throughout the trading day at market prices. This makes them more flexible than mutual funds, which are only priced at the end of the trading day. ETFs are popular because they offer diversification, lower costs, and the ability to easily trade them.
 
 ## How do REITs and ETFs differ in terms of investment structure?
 
@@ -44,7 +44,7 @@ ETFs have different tax implications. When you get dividends from an ETF, they m
 
 ## How does the liquidity of REITs compare to that of ETFs?
 
-ETFs are usually more liquid than REITs. This means it's easier and quicker to buy and sell ETFs. They trade on stock exchanges all day, so you can sell them whenever you want during trading hours. This makes ETFs a good choice if you might need to get your money out fast. The high liquidity of ETFs comes from the fact that many people are buying and selling them all the time.
+ETFs are usually more liquid than REITs. This means it's easier and quicker to buy and sell ETFs. They trade on stock exchanges all day, so you can sell them whenever you want during trading hours. This makes ETFs a good choice if you might need to get your money out fast. The high [liquidity](/wiki/liquidity-risk-premium) of ETFs comes from the fact that many people are buying and selling them all the time.
 
 REITs, on the other hand, can be less liquid. They also trade on stock exchanges, but they might not have as many buyers and sellers as ETFs. This means it can take longer to sell your REIT shares, and you might not get the price you want right away. If you're thinking about investing in REITs, you should know that it might take a bit more time to turn your investment into cash compared to ETFs.
 

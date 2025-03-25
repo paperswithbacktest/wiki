@@ -20,13 +20,13 @@ To start with country picking, beginners should first focus on holding the pick 
 
 Next, you should learn to use your other fingers to pluck the higher strings. Start by using your middle and ring fingers to play simple melodies or harmonies while you keep playing bass notes with the pick. This might feel tricky at first, but with practice, you'll get better at coordinating your pick and fingers. Begin with slow, simple songs and gradually increase the speed as you become more comfortable.
 
-Finally, practice switching between bass notes and melody notes smoothly. This is called 'alternating bass,' where you play a bass note with the pick, then a melody note with your fingers, and repeat. Start with easy patterns and songs that use this technique. As you practice, you'll develop the muscle memory needed to make country picking sound smooth and natural.
+Finally, practice switching between bass notes and melody notes smoothly. This is called 'alternating bass,' where you play a bass note with the pick, then a melody note with your fingers, and repeat. Start with easy patterns and songs that use this technique. As you practice, you'll develop the muscle memory needed to make country [picking](/wiki/asset-class-picking) sound smooth and natural.
 
 ## Which instruments are commonly used for country picking?
 
 Country picking is most often done on the guitar. This is because the guitar is very important in country music. It has six strings that can be played with a pick and fingers at the same time. This makes it easy to do the special picking style that country music needs. Many country songs use the guitar to play both the main tune and the bass notes, making the music sound full and rich.
 
-Sometimes, other instruments can be used for country picking too. The banjo is another instrument that can do this style well. It has a bright sound that fits with country music. Like the guitar, the banjo can play both melody and bass notes at the same time. This makes it a good choice for country picking, even though it is not used as often as the guitar.
+Sometimes, other instruments can be used for [country picking](/wiki/country-picking) too. The banjo is another instrument that can do this style well. It has a bright sound that fits with country music. Like the guitar, the banjo can play both melody and bass notes at the same time. This makes it a good choice for country picking, even though it is not used as often as the guitar.
 
 ## How can one develop the right hand technique for effective country picking?
 

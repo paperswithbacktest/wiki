@@ -24,7 +24,7 @@ Another currency that can be stronger than the US dollar is the British Pound. T
 
 A currency can be stronger than the US dollar because of a country's strong economy. When a country's economy is doing well, people trust its money more. This trust makes the currency more valuable. For example, if a country has a lot of successful businesses and low unemployment, its currency might be seen as strong. Also, if a country has good trade relationships with other countries, this can make its currency stronger. People want to buy things from that country, so they need its currency, which increases its value.
 
-Another important factor is the country's political stability. If people think a country's government is stable and makes good decisions, they will trust its currency more. This trust can make the currency stronger than the US dollar. Interest rates also play a role. If a country's interest rates are high, people might want to invest their money there. This demand for the currency can make it stronger. All these things together can make a currency stronger than the US dollar, but they can change over time.
+Another important [factor](/wiki/factor-investing) is the country's political stability. If people think a country's government is stable and makes good decisions, they will trust its currency more. This trust can make the currency stronger than the US dollar. Interest rates also play a role. If a country's interest rates are high, people might want to invest their money there. This demand for the currency can make it stronger. All these things together can make a currency stronger than the US dollar, but they can change over time.
 
 ## How does the exchange rate between these currencies and the US dollar fluctuate?
 

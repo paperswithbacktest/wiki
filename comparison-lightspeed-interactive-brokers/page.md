@@ -18,7 +18,7 @@ Interactive Brokers is also a trading platform, but it offers a wider range of f
 
 Lightspeed has different account minimums depending on which trading platform you choose. For their main platform, you need at least $10,000 to open an account. If you want to use their more advanced platform called Lightspeed Trader, the minimum goes up to $25,000. This is because Lightspeed is designed for active traders who trade a lot, so they set higher minimums to make sure their clients are serious about trading.
 
-Interactive Brokers, on the other hand, has a much lower account minimum. You can open an account with them for just $0 if you sign up for their IBKR Lite plan. This plan is good for people who don't trade very often. If you want to use their more advanced plan called IBKR Pro, you still only need $0 to start, but you will pay more in fees when you trade. This makes Interactive Brokers a good choice for both new traders and those who want to trade more often without a big upfront cost.
+[Interactive Brokers](/wiki/interactive-brokers-api), on the other hand, has a much lower account minimum. You can open an account with them for just $0 if you sign up for their IBKR Lite plan. This plan is good for people who don't trade very often. If you want to use their more advanced plan called IBKR Pro, you still only need $0 to start, but you will pay more in fees when you trade. This makes Interactive Brokers a good choice for both new traders and those who want to trade more often without a big upfront cost.
 
 ## What are the fee structures for trading with Lightspeed versus Interactive Brokers?
 
@@ -36,7 +36,7 @@ Interactive Brokers' trading platform, called Trader Workstation (TWS), is very 
 
 Lightspeed lets you trade stocks and options. It's good for people who want to buy and sell these types of investments quickly. Lightspeed focuses on these two types of securities because they are popular with active traders who trade a lot.
 
-Interactive Brokers offers a lot more types of securities to trade. You can trade stocks, options, futures, forex, and even bonds. This makes Interactive Brokers a good choice for people who want to invest in many different things and in different countries. It's like a big store where you can find almost anything you want to trade.
+Interactive Brokers offers a lot more types of securities to trade. You can trade stocks, options, futures, [forex](/wiki/forex-system), and even bonds. This makes Interactive Brokers a good choice for people who want to invest in many different things and in different countries. It's like a big store where you can find almost anything you want to trade.
 
 ## How do the margin rates compare between Lightspeed and Interactive Brokers?
 
@@ -60,7 +60,7 @@ Interactive Brokers has a lot of research and analysis tools too, and they are v
 
 Lightspeed has some cool advanced trading features that help people who trade a lot. One big feature is their direct market access, which means you can send your trade orders straight to the stock exchange without going through a middle person. This can make your trades happen faster. Lightspeed also has a tool called Level II quotes, which shows you a lot of information about what people are buying and selling. This can help you decide when to make your trades. Another neat feature is their hot keys, which let you do things on the platform really quickly by just pressing a few buttons. These features are good for people who need to make fast decisions and trade a lot.
 
-Interactive Brokers also has some advanced trading features that can help both new and experienced traders. They have something called algorithmic trading, which lets you use computer programs to make trades for you based on rules you set. This can be helpful if you want to trade without watching the market all the time. Interactive Brokers also offers options trading strategies, which can help you make money in different ways by buying and selling options. They have a tool called the Risk Navigator, which helps you see how risky your trades are and manage them better. These features make Interactive Brokers a good choice for people who want to use more advanced ways to trade.
+Interactive Brokers also has some advanced trading features that can help both new and experienced traders. They have something called [algorithmic trading](/wiki/algorithmic-trading), which lets you use computer programs to make trades for you based on rules you set. This can be helpful if you want to trade without watching the market all the time. Interactive Brokers also offers options trading strategies, which can help you make money in different ways by buying and selling options. They have a tool called the Risk Navigator, which helps you see how risky your trades are and manage them better. These features make Interactive Brokers a good choice for people who want to use more advanced ways to trade.
 
 ## How do the mobile trading apps of Lightspeed and Interactive Brokers stack up against each other?
 

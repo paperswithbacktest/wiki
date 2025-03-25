@@ -30,7 +30,7 @@ Also, the delivery month can affect the price because of things like storage cos
 
 Different types of futures contracts have different common delivery months, depending on what they are for. For example, agricultural futures like corn, wheat, and soybeans often have delivery months that match the times when farmers harvest their crops. So, you might see common delivery months like March, May, July, September, and December for these kinds of futures.
 
-For energy futures like crude oil and natural gas, the delivery months are usually every month of the year. This is because people need energy all the time, not just at certain times like with crops. So, you can find futures contracts for crude oil or natural gas with delivery months like January, February, March, and so on, all the way through December.
+For energy futures like [crude oil](/wiki/crude-oil) and natural gas, the delivery months are usually every month of the year. This is because people need energy all the time, not just at certain times like with crops. So, you can find futures contracts for crude oil or natural gas with delivery months like January, February, March, and so on, all the way through December.
 
 Financial futures, like those for stock indexes or interest rates, also tend to have delivery months every month of the year. This is because financial markets are always active, and people want to be able to trade these contracts whenever they need to. So, common delivery months for financial futures include all twelve months of the year.
 

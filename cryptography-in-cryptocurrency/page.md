@@ -18,7 +18,7 @@ In cryptocurrencies, cryptography is very important because it helps to keep the
 
 Cryptography helps keep cryptocurrency transactions safe by using special codes called keys. There are two types of keys: public keys and private keys. When you want to send cryptocurrency, you use the recipient's public key to encrypt the transaction. This means that only the person with the matching private key can unlock and use the cryptocurrency. This makes sure that only the right person gets the money and no one else can steal it.
 
-Another important way cryptography helps is through something called digital signatures. When you send cryptocurrency, you sign the transaction with your private key. This signature proves that you are the one who sent the cryptocurrency and that the transaction hasn't been changed by anyone else. This makes the whole system trustworthy because everyone can check that the transactions are real and haven't been tampered with. So, cryptography not only keeps your money safe but also makes sure that the records of who owns what are accurate and secure.
+Another important way cryptography helps is through something called digital signatures. When you send [cryptocurrency](/wiki/cryptocurrency), you sign the transaction with your private key. This signature proves that you are the one who sent the cryptocurrency and that the transaction hasn't been changed by anyone else. This makes the whole system trustworthy because everyone can check that the transactions are real and haven't been tampered with. So, cryptography not only keeps your money safe but also makes sure that the records of who owns what are accurate and secure.
 
 ## What are the basic cryptographic techniques used in cryptocurrencies?
 

@@ -80,7 +80,7 @@ Policymakers can also use the index to help them make decisions about things lik
 
 To make the Composite Index of Leading Indicators more accurate, economists use some special math tricks. One of these is called time series analysis. This helps them see patterns in the data over time. They look at how the different parts of the index have changed in the past and use that to guess what might happen next. Another method is called regression analysis. This helps them understand how much each part of the index affects the whole thing. By figuring out which parts are the most important, they can make the index better at predicting the future.
 
-Another way to improve the index is by using something called machine learning. This is a type of computer program that can learn from data and get better over time. Economists can use machine learning to find new patterns and relationships in the data that they might not see otherwise. This can make the index even more accurate. All these methods help make the index a better tool for guessing what will happen to the economy, so businesses and governments can make smarter plans.
+Another way to improve the index is by using something called [machine learning](/wiki/machine-learning). This is a type of computer program that can learn from data and get better over time. Economists can use machine learning to find new patterns and relationships in the data that they might not see otherwise. This can make the index even more accurate. All these methods help make the index a better tool for guessing what will happen to the economy, so businesses and governments can make smarter plans.
 
 ## References & Further Reading
 

@@ -22,7 +22,7 @@ Deferred months are important because they help traders plan and manage their in
 
 ## Why might someone choose to use a deferred month?
 
-Someone might choose to use a deferred month in futures trading to plan ahead and manage risks. By picking a deferred month, a trader can lock in a price for something they want to buy or sell in the future. For example, if a farmer knows they will have corn ready to sell in September, they can use a September deferred month to sell their corn at a price they agree on now. This helps them avoid the risk of prices dropping before they sell.
+Someone might choose to use a deferred month in futures trading to plan ahead and manage risks. By [picking](/wiki/asset-class-picking) a deferred month, a trader can lock in a price for something they want to buy or sell in the future. For example, if a farmer knows they will have corn ready to sell in September, they can use a September deferred month to sell their corn at a price they agree on now. This helps them avoid the risk of prices dropping before they sell.
 
 Using a deferred month also helps traders take advantage of price changes they expect to happen. If a trader thinks the price of oil will be higher in June, they can buy an oil futures contract with a June deferred month. This way, they can buy oil at today's price and sell it later at a higher price in June. By choosing the right deferred month, traders can make smarter decisions and possibly earn more money.
 

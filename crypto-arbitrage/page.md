@@ -18,7 +18,7 @@ It's important to know that crypto arbitrage can be risky. There are costs like 
 
 Crypto arbitrage is like buying something cheap in one place and selling it for more money in another place, but with cryptocurrencies. Imagine you see that Bitcoin is cheaper on Exchange A than on Exchange B. You can buy Bitcoin on Exchange A and then quickly sell it on Exchange B for a higher price. The difference between the buying and selling price is your profit. To do this, you need to keep an eye on different exchanges and be ready to move fast because the price differences don't last long.
 
-There are some things to watch out for when doing crypto arbitrage. You have to pay fees for buying and selling, and it takes time to move your cryptocurrency from one exchange to another. These costs and delays can make your profit smaller or even turn your profit into a loss if you're not careful. But if you're quick and smart about it, crypto arbitrage can be a fun way to make money in the world of cryptocurrencies.
+There are some things to watch out for when doing crypto [arbitrage](/wiki/arbitrage). You have to pay fees for buying and selling, and it takes time to move your [cryptocurrency](/wiki/cryptocurrency) from one exchange to another. These costs and delays can make your profit smaller or even turn your profit into a loss if you're not careful. But if you're quick and smart about it, crypto arbitrage can be a fun way to make money in the world of cryptocurrencies.
 
 ## What are the different types of crypto arbitrage?
 
@@ -26,7 +26,7 @@ There are a few different types of crypto arbitrage, and they all involve buying
 
 Another type is called temporal arbitrage. This is when you take advantage of the price difference of the same cryptocurrency at different times. For example, if you notice that the price of a cryptocurrency goes up and down a lot during the day, you can buy it when it's low and sell it when it's high. This type of arbitrage needs good timing and a bit of luck.
 
-The last type is called statistical arbitrage. This is a bit more complicated. It involves using math and computer programs to find patterns in how different cryptocurrencies move in price compared to each other. Traders use these patterns to make trades that they hope will make them money. This type of arbitrage needs a lot of data and some fancy tools to work well.
+The last type is called [statistical arbitrage](/wiki/statistical-arbitrage). This is a bit more complicated. It involves using math and computer programs to find patterns in how different cryptocurrencies move in price compared to each other. Traders use these patterns to make trades that they hope will make them money. This type of arbitrage needs a lot of data and some fancy tools to work well.
 
 ## What are the benefits of crypto arbitrage?
 

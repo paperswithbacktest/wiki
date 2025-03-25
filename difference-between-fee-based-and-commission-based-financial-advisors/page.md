@@ -46,7 +46,7 @@ This mix of fees and commissions can make things confusing. You might wonder if 
 
 ## How might the advice from fee-based and commission-based advisors differ?
 
-The advice from fee-based advisors and commission-based advisors can be different because of how they get paid. Fee-based advisors charge you a fee for their advice, which could be a percentage of your money, a flat fee, or an hourly rate. Because they get paid this way, they might focus more on giving you the best advice for your situation. They might look at all your options and suggest the ones that help you the most, without worrying about earning money from selling you something.
+The advice from fee-based advisors and commission-based advisors can be different because of how they get paid. Fee-based advisors charge you a fee for their advice, which could be a percentage of your money, a flat fee, or an hourly rate. Because they get paid this way, they might focus more on giving you the best advice for your situation. They might look at all your options and suggest the ones that help you the most, without worrying about [earning](/wiki/earning-announcement) money from selling you something.
 
 On the other hand, commission-based advisors earn money by selling you financial products. They get a commission when you buy something like insurance or an investment. This means they might suggest products that pay them more, even if those aren't the best for you. Their advice could be influenced by how much money they can make from selling, so you might need to think about whether their recommendations are really in your best interest.
 

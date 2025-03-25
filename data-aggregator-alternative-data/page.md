@@ -18,7 +18,7 @@ Data aggregators help businesses make better decisions by giving them a lot of i
 
 Alternative data is information that comes from unusual places, not the usual sources like financial reports or government statistics. It can include things like satellite pictures, social media posts, or data from credit card transactions. Companies use alternative data to learn more about what's happening in the world and to make better decisions. For example, a company might look at satellite images to see how busy a shopping center is, which can help them understand how well stores are doing.
 
-Using alternative data can give companies an advantage because it helps them see things that other people might miss. For instance, by looking at social media, a company can find out what people are saying about their products or what new trends are starting. But, there are also challenges with alternative data. It can be hard to collect and make sense of, and there are concerns about privacy and making sure the data is used in the right way. Companies need to be careful and responsible when they use alternative data.
+Using [alternative data](/wiki/best-alternative-data) can give companies an advantage because it helps them see things that other people might miss. For instance, by looking at social media, a company can find out what people are saying about their products or what new trends are starting. But, there are also challenges with alternative data. It can be hard to collect and make sense of, and there are concerns about privacy and making sure the data is used in the right way. Companies need to be careful and responsible when they use alternative data.
 
 ## How does a data aggregator use alternative data?
 
@@ -54,7 +54,7 @@ Lastly, there can be problems with the quality of the data. Not all alternative 
 
 ## What technologies are typically used to process and analyze alternative data?
 
-To process and analyze alternative data, companies often use big data technologies like Hadoop and Apache Spark. These tools help manage and process large amounts of data quickly. They can handle the messy and unstructured nature of alternative data, like social media posts or satellite images. Machine learning and artificial intelligence are also important. They help find patterns and make sense of the data. For example, machine learning can look at social media to see what people think about a product.
+To process and analyze alternative data, companies often use big data technologies like Hadoop and Apache Spark. These tools help manage and process large amounts of data quickly. They can handle the messy and unstructured nature of alternative data, like social media posts or satellite images. Machine learning and [artificial intelligence](/wiki/ai-artificial-intelligence) are also important. They help find patterns and make sense of the data. For example, [machine learning](/wiki/machine-learning) can look at social media to see what people think about a product.
 
 Another key technology is natural language processing (NLP). This is used to understand and analyze text data, like comments on social media or reviews. NLP helps turn words into useful information. Data visualization tools, like Tableau or Power BI, are also used. They help show the data in a way that's easy to understand, like charts and graphs. This makes it easier for companies to see what the data means and make decisions based on it.
 

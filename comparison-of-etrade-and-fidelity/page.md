@@ -22,7 +22,7 @@ Fidelity, on the other hand, also offers a wide range of account types but with 
 
 ## What are the fee structures for trading stocks on E*TRADE versus Fidelity?
 
-E*TRADE charges $0 for online U.S. stock, ETF, and options trades. This means you can buy and sell stocks without paying a commission fee. However, if you trade options, there is a $0.65 fee per contract. If you need help from a broker to make a trade, E*TRADE charges a $25 fee for that service. Also, if you want to trade stocks on a foreign market, there will be additional fees.
+E*TRADE charges $0 for online U.S. stock, [ETF](/wiki/etf-trading-strategies), and options trades. This means you can buy and sell stocks without paying a commission fee. However, if you trade options, there is a $0.65 fee per contract. If you need help from a broker to make a trade, E*TRADE charges a $25 fee for that service. Also, if you want to trade stocks on a foreign market, there will be additional fees.
 
 Fidelity also charges $0 for online U.S. stock, ETF, and options trades, just like E*TRADE. For options trades, Fidelity charges $0.65 per contract, which is the same as E*TRADE. If you need a broker-assisted trade, Fidelity will charge you $32.50, which is more than E*TRADE's fee. Like E*TRADE, trading on foreign markets with Fidelity will come with extra fees.
 
@@ -76,7 +76,7 @@ Fidelity also offers margin accounts with rates that change based on the amount 
 
 ## How do E*TRADE and Fidelity perform in terms of security measures and account protection?
 
-E*TRADE takes security very seriously to keep your money and information safe. They use things like two-factor authentication, which means you need more than just a password to log in. This makes it harder for someone else to get into your account. E*TRADE also has strong encryption to protect your data when you're using their website or app. They watch for any strange activity on your account and will let you know if they see anything that doesn't look right. Plus, your money is protected by the SIPC, which can help you get your money back if E*TRADE ever has big problems.
+E*TRADE takes security very seriously to keep your money and information safe. They use things like two-[factor](/wiki/factor-investing) authentication, which means you need more than just a password to log in. This makes it harder for someone else to get into your account. E*TRADE also has strong encryption to protect your data when you're using their website or app. They watch for any strange activity on your account and will let you know if they see anything that doesn't look right. Plus, your money is protected by the SIPC, which can help you get your money back if E*TRADE ever has big problems.
 
 Fidelity also works hard to keep your account secure. They use two-factor authentication too, so you need a password and another way to prove it's really you. They use encryption to keep your information safe while you're using their services. Fidelity keeps an eye out for any unusual activity and will alert you if they spot something fishy. Just like E*TRADE, your money at Fidelity is protected by the SIPC, which means you're covered if something goes wrong with the company. Both E*TRADE and Fidelity are committed to keeping your investments safe and secure.
 

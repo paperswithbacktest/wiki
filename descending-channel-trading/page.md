@@ -52,7 +52,7 @@ Exit points are just as important. If you bought at the bottom line, you might w
 
 ## How does volume play a role in confirming a descending channel?
 
-Volume can help confirm if a descending channel is strong and likely to keep going. When the price hits the top line of the channel and starts to fall again, you want to see high volume. High volume at the top means lots of people are selling, which makes the downward trend stronger. If the volume is low when the price touches the top, it might mean the channel is weak and could break soon.
+Volume can help confirm if a descending channel is strong and likely to keep going. When the price hits the top line of the channel and starts to fall again, you want to see high [volume](/wiki/volume-trading-strategy). High volume at the top means lots of people are selling, which makes the downward trend stronger. If the volume is low when the price touches the top, it might mean the channel is weak and could break soon.
 
 On the other hand, when the price bounces off the bottom line and starts to go up a bit, you want to see lower volume. Low volume at the bottom means fewer people are buying, so the upward bounce is not strong. This shows that the overall downward trend is still in control. By watching the volume at these key points, traders can feel more sure about the descending channel and make better trading choices.
 
@@ -78,7 +78,7 @@ Another thing to think about is the hope that the price will go back up. Sometim
 
 Advanced traders can use descending channels along with other analysis techniques to make better trading decisions. They might combine the descending channel with technical indicators like the Moving Average Convergence Divergence (MACD) or the Relative Strength Index (RSI). For example, if the MACD shows a bearish crossover while the price is within a descending channel, it can confirm that the downward trend is strong. This gives traders more confidence to sell when the price hits the top line of the channel. Also, if the RSI is below 30 when the price touches the bottom line, it might suggest that the price is due for a small bounce, making it a good time to buy.
 
-Another technique advanced traders might use is combining descending channels with chart patterns and volume analysis. For instance, they might look for a head and shoulders pattern forming within the descending channel, which could signal a stronger bearish trend. Volume is also key. High volume when the price hits the top line and low volume when it reaches the bottom line can confirm the strength of the channel. By using these additional techniques, traders can get a clearer picture of the market and make more informed decisions about when to enter or exit trades within a descending channel.
+Another technique advanced traders might use is combining descending channels with chart patterns and volume analysis. For instance, they might look for a head and shoulders pattern forming within the descending channel, which could signal a stronger bearish trend. Volume is also key. High volume when the price hits the top line and low volume when it reaches the bottom line can confirm the strength of the channel. By using these additional techniques, traders can get a clearer picture of the market and make more informed decisions about when to enter or [exit](/wiki/exit-strategy) trades within a descending channel.
 
 ## References & Further Reading
 

@@ -78,7 +78,7 @@ Bonds can also be callable, and it works in a similar way. The issuer of the bon
 
 When interest rates go up, the prices of both preferred stocks and bonds usually go down. This happens because new bonds and preferred stocks that are issued will have higher interest rates, making the older ones with lower rates less attractive. So, if you want to sell your existing bonds or preferred stocks, you might have to lower the price to make them more appealing to buyers. But, the effect can be a bit different for preferred stocks and bonds.
 
-For bonds, the price drop can be more noticeable because their value is more tied to interest rates. Bonds have a fixed interest payment, called the coupon, so when rates go up, the value of that fixed payment goes down compared to new bonds. Preferred stocks also have a fixed dividend, but they are a bit like stocks too, so their prices can be influenced by how well the company is doing, not just interest rates. So, while both go down when rates rise, bonds might feel the impact more strongly because they are more sensitive to interest rate changes.
+For bonds, the price drop can be more noticeable because their value is more tied to interest rates. Bonds have a fixed interest payment, called the coupon, so when rates go up, the value of that fixed payment goes down compared to new bonds. Preferred stocks also have a fixed dividend, but they are a bit like stocks too, so their prices can be influenced by how well the company is doing, not just interest rates. So, while both go down when rates rise, bonds might feel the impact more strongly because they are more sensitive to [interest rate](/wiki/interest-rate-trading-strategies) changes.
 
 ## References & Further Reading
 

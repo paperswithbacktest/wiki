@@ -18,7 +18,7 @@ ETNs are traded on major stock exchanges, just like stocks, making them easy to 
 
 Exchange Traded Funds (ETFs) are a type of investment that works like a mix of stocks and mutual funds. They are collections of many different investments, like stocks, bonds, or commodities, all bundled together into one fund. You can buy and sell shares of an ETF on a stock exchange, just like you would with a regular stock. This makes it easy to invest in a wide range of assets without having to buy each one separately.
 
-ETFs are popular because they offer a lot of variety and can help spread out your risk. Instead of putting all your money into one company's stock, you can invest in an ETF that holds many different stocks. This means if one stock does badly, it won't hurt your whole investment as much. Also, ETFs usually have lower fees than mutual funds, which can save you money over time.
+ETFs are popular because they offer a lot of variety and can help spread out your risk. Instead of putting all your money into one company's stock, you can invest in an [ETF](/wiki/etf-trading-strategies) that holds many different stocks. This means if one stock does badly, it won't hurt your whole investment as much. Also, ETFs usually have lower fees than mutual funds, which can save you money over time.
 
 ## How do ETNs and ETFs differ in their structure?
 
@@ -36,7 +36,7 @@ Exchange Traded Funds (ETFs) are usually chosen by investors who want to diversi
 
 ETNs come with a special kind of risk because they are debt securities issued by banks. If you buy an ETN, you're relying on the bank to pay you back based on how well the tracked index does. If the bank runs into financial trouble, it might not be able to pay you what you're owed, even if the index did well. This means your investment could be worth less, or even nothing, if the bank fails. Also, ETNs don't pay dividends like some ETFs do, so you miss out on that extra income.
 
-ETFs, on the other hand, are usually safer because they actually own the assets they track. When you invest in an ETF, you own a piece of all the stocks, bonds, or other assets the fund holds. This means your investment's value depends only on how those assets perform, not on the financial health of any issuing company. However, ETFs still carry market risk, meaning if the assets they hold go down in value, so does your investment. But overall, ETFs tend to be less risky than ETNs because they aren't tied to the creditworthiness of a bank.
+ETFs, on the other hand, are usually safer because they actually own the assets they track. When you invest in an ETF, you own a piece of all the stocks, bonds, or other assets the fund holds. This means your investment's value depends only on how those assets perform, not on the financial health of any issuing company. However, ETFs still [carry](/wiki/carry-trading) market risk, meaning if the assets they hold go down in value, so does your investment. But overall, ETFs tend to be less risky than ETNs because they aren't tied to the creditworthiness of a bank.
 
 ## What are the tax implications of investing in ETNs versus ETFs?
 
@@ -46,7 +46,7 @@ On the other hand, Exchange Traded Funds (ETFs) have a more straightforward tax 
 
 ## How does liquidity differ between ETNs and ETFs?
 
-Liquidity is how easy it is to buy or sell something without affecting its price too much. For ETFs, liquidity is usually pretty good because they are very popular and lots of people trade them every day. ETFs have what's called "market makers" who help make sure there are always buyers and sellers, so you can usually buy or sell an ETF quickly without big price changes. This makes ETFs a good choice if you want to be able to get in and out of your investment easily.
+Liquidity is how easy it is to buy or sell something without affecting its price too much. For ETFs, [liquidity](/wiki/liquidity-risk-premium) is usually pretty good because they are very popular and lots of people trade them every day. ETFs have what's called "market makers" who help make sure there are always buyers and sellers, so you can usually buy or sell an ETF quickly without big price changes. This makes ETFs a good choice if you want to be able to get in and out of your investment easily.
 
 ETNs can be a bit different. They might not be as liquid as ETFs because fewer people trade them. This means if you want to sell your ETN, you might have to wait longer to find a buyer, and the price might not be as good as you hoped. The liquidity of an ETN depends a lot on how popular it is and how much the issuing bank promotes it. So, if you're thinking about buying an ETN, it's a good idea to check how easy it is to trade before you invest.
 

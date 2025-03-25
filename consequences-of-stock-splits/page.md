@@ -42,7 +42,7 @@ Over time, a stock split might influence the company's market capitalization. If
 
 A stock split can make a stock more liquid. Liquidity means how easy it is to buy or sell shares without affecting the price too much. When a company does a stock split, the price of each share goes down. This can make the stock more attractive to more people, especially smaller investors. More people might want to buy and sell the stock, which means more trading. When more people are trading, it's easier to find someone to buy or sell shares with, so the stock becomes more liquid.
 
-Over time, this increased liquidity can be good for the company. If more people are trading the stock, it can help keep the price stable. When a stock is more liquid, it's less likely to have big price swings because there are more buyers and sellers in the market. This can make investors feel more confident about the stock, which might attract even more investors. So, while a stock split doesn't change the total value of the company right away, it can lead to more trading and better liquidity in the long run.
+Over time, this increased [liquidity](/wiki/liquidity-risk-premium) can be good for the company. If more people are trading the stock, it can help keep the price stable. When a stock is more liquid, it's less likely to have big price swings because there are more buyers and sellers in the market. This can make investors feel more confident about the stock, which might attract even more investors. So, while a stock split doesn't change the total value of the company right away, it can lead to more trading and better liquidity in the long run.
 
 ## What are the psychological effects of a stock split on investors?
 
@@ -54,7 +54,7 @@ The lower price after a stock split can also make investors feel like they can b
 
 A stock split can make a stock more volatile right after it happens. When a company does a stock split, the price of each share goes down. This can make the stock more attractive to more people, especially smaller investors. More people might want to buy and sell the stock, which means more trading. When there's more trading, the price can go up and down more quickly, making the stock more volatile.
 
-Over time, though, a stock split might make the stock less volatile. If more people are trading the stock because of the lower price, it can become more liquid. When a stock is more liquid, it's easier to buy and sell shares without big changes in the price. This can help keep the price more stable and reduce the big ups and downs in the stock's price. So, while a stock split might make the stock more volatile right after it happens, it could lead to less volatility in the long run.
+Over time, though, a stock split might make the stock less volatile. If more people are trading the stock because of the lower price, it can become more liquid. When a stock is more liquid, it's easier to buy and sell shares without big changes in the price. This can help keep the price more stable and reduce the big ups and downs in the stock's price. So, while a stock split might make the stock more volatile right after it happens, it could lead to less [volatility](/wiki/volatility-trading-strategies) in the long run.
 
 ## What are the tax implications of a stock split for investors?
 

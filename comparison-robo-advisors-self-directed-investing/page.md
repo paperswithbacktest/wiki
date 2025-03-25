@@ -72,7 +72,7 @@ Self-directed investing platforms often have a lot more educational resources. T
 
 Robo-advisors have a pretty good track record for steady growth. They usually do well because they spread your money across a lot of different investments to keep things safe. Studies show that robo-advisors often beat the average investor who doesn't have a plan. But, they might not make as much money as someone who knows a lot about investing and picks the right stocks at the right time.
 
-With self-directed investing, your performance can be all over the place. If you're good at picking investments, you might make a lot more money than with a robo-advisor. But, if you make bad choices, you could lose money too. It's hard to say how self-directed investing will do because it depends so much on what you do. Overall, self-directed investing can be riskier but also has the potential for higher rewards if you know what you're doing.
+With self-directed investing, your performance can be all over the place. If you're good at [picking](/wiki/asset-class-picking) investments, you might make a lot more money than with a robo-advisor. But, if you make bad choices, you could lose money too. It's hard to say how self-directed investing will do because it depends so much on what you do. Overall, self-directed investing can be riskier but also has the potential for higher rewards if you know what you're doing.
 
 ## What advanced features are available for expert investors in robo-advisors versus self-directed investing platforms?
 

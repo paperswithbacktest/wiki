@@ -30,7 +30,7 @@ On the other hand, Treasury notes and bonds have longer maturity periods. Treasu
 
 The interest rates for U.S. Treasury securities can change and depend on different things like how long the security lasts and what's happening with the economy. Treasury bills, or T-bills, don't pay interest like you might think. Instead, you buy them for less than what they're worth and get the full amount back when they're done. So, if you buy a $1,000 T-bill for $950, the difference, $50, is like your interest. The rate can be different for each auction, but T-bills usually have the lowest rates because they're short-term.
 
-Treasury notes and bonds work a bit differently. They pay interest every six months until they reach their end date. The interest rate for notes and bonds can be higher than T-bills because they last longer. Notes last from 2 to 10 years, and bonds last from 20 to 30 years. The longer they last, the higher the interest rate usually is. But even though the rates are higher than T-bills, they're still pretty low compared to other kinds of investments because they're seen as very safe.
+Treasury notes and bonds work a bit differently. They pay interest every six months until they reach their end date. The [interest rate](/wiki/interest-rate-trading-strategies) for notes and bonds can be higher than T-bills because they last longer. Notes last from 2 to 10 years, and bonds last from 20 to 30 years. The longer they last, the higher the interest rate usually is. But even though the rates are higher than T-bills, they're still pretty low compared to other kinds of investments because they're seen as very safe.
 
 ## How can someone purchase U.S. bonds, bills, and notes?
 

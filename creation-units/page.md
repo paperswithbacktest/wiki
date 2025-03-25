@@ -18,7 +18,7 @@ The process of redeeming an ETF works in reverse. An authorized participant can 
 
 Creation units are important for exchange-traded funds (ETFs) because they help make and take away ETF shares. An ETF is like a basket that holds different investments, like stocks or bonds. When someone wants to start an ETF, they use creation units. A big investor, called an authorized participant, gathers all the things that should go into the ETF's basket. They then trade this basket for a big bunch of ETF shares, which is called a creation unit. This big bunch usually has between 25,000 and 100,000 shares.
 
-When someone wants to get rid of ETF shares, they can give back a creation unit to the people who made the ETF. In return, they get the basket of investments back. This back-and-forth process helps keep the price of the ETF close to what the basket of investments is really worth. It makes sure that the ETF stays fair and easy to trade for everyone who wants to buy or sell it.
+When someone wants to get rid of [ETF](/wiki/etf-trading-strategies) shares, they can give back a creation unit to the people who made the ETF. In return, they get the basket of investments back. This back-and-forth process helps keep the price of the ETF close to what the basket of investments is really worth. It makes sure that the ETF stays fair and easy to trade for everyone who wants to buy or sell it.
 
 ## What is the typical size of a creation unit?
 
@@ -78,7 +78,7 @@ APs play an important role in making sure the ETF's price stays close to the val
 
 ## What advanced strategies can be employed by institutional investors using creation units?
 
-Institutional investors, like big banks or investment firms, can use creation units to do some smart things with ETFs. One strategy they might use is called arbitrage. If they see that the ETF's price is different from the value of the things it holds, they can make money from this difference. For example, if the ETF's price is too low compared to its investments, they can buy the ETF, create more shares by trading in a basket of the investments, and then sell the new shares at a higher price. This helps them make a profit and also brings the ETF's price back to where it should be.
+Institutional investors, like big banks or investment firms, can use creation units to do some smart things with ETFs. One strategy they might use is called [arbitrage](/wiki/arbitrage). If they see that the ETF's price is different from the value of the things it holds, they can make money from this difference. For example, if the ETF's price is too low compared to its investments, they can buy the ETF, create more shares by trading in a basket of the investments, and then sell the new shares at a higher price. This helps them make a profit and also brings the ETF's price back to where it should be.
 
 Another strategy they might use is called hedging. This is when they want to protect their investments from going down in value. They can use creation units to make or get rid of ETF shares that match their other investments. For example, if they have a lot of stocks and they think the stock market might go down, they can create ETF shares that hold those stocks. Then, if the stock market does go down, the value of their ETF shares will go down too, but they can use these shares to balance out the losses from their other stocks. This way, they can keep their overall investment safer.
 

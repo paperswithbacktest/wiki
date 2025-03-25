@@ -18,7 +18,7 @@ Airdrops can be a good way for people to try out new cryptocurrencies without sp
 
 Companies conduct cryptocurrency airdrops mainly to spread the word about their new cryptocurrency project. By giving away free tokens, they hope to get more people interested and talking about their project. This can help them build a community of supporters and users, which is important for the success of any new cryptocurrency. It's like handing out free samples at a store to get people to try a new product and tell their friends about it.
 
-Airdrops also help companies increase the number of people who hold their tokens. When more people own a cryptocurrency, it can make the token seem more valuable and important. This can lead to more trading and higher demand for the token on cryptocurrency exchanges. Plus, airdrops can be a way for companies to reward their early supporters and keep them engaged with the project.
+Airdrops also help companies increase the number of people who hold their tokens. When more people own a [cryptocurrency](/wiki/cryptocurrency), it can make the token seem more valuable and important. This can lead to more trading and higher demand for the token on cryptocurrency exchanges. Plus, airdrops can be a way for companies to reward their early supporters and keep them engaged with the project.
 
 ## How can someone participate in a cryptocurrency airdrop?
 

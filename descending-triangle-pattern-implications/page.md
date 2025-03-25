@@ -34,7 +34,7 @@ The second part is the bottom line of the triangle, which stays flat. This line 
 
 ## How does the volume play a role in confirming a descending triangle pattern?
 
-Volume plays an important part in making sure a descending triangle pattern is real. When you see the price making lower highs and hitting the same low point over and over, you should also watch the volume. If the volume is going down as the pattern forms, it means that fewer people are trading, and the pattern is more likely to be a true sign of what's going to happen next. This lower volume shows that the market is getting ready for a big move.
+Volume plays an important part in making sure a descending triangle pattern is real. When you see the price making lower highs and hitting the same low point over and over, you should also watch the [volume](/wiki/volume-trading-strategy). If the volume is going down as the pattern forms, it means that fewer people are trading, and the pattern is more likely to be a true sign of what's going to happen next. This lower volume shows that the market is getting ready for a big move.
 
 When the price finally breaks through the bottom flat line of the triangle, you want to see the volume go up. A big jump in volume when the price breaks out tells you that a lot of people are now selling, and it makes the bearish signal stronger. If the volume doesn't go up much when the price breaks out, the signal might not be as strong, and you should be careful about making big moves based on it.
 
@@ -54,7 +54,7 @@ Sometimes, the descending triangle pattern can fail. If the price suddenly goes 
 
 One common mistake traders make with descending triangles is jumping into a trade too early. They see the triangle forming and think it's a sure thing, so they start selling or shorting the asset before the price actually breaks out of the bottom of the triangle. This can be risky because the pattern might not finish the way they expect, and they could lose money if the price goes up instead of down.
 
-Another mistake is ignoring the volume when the breakout happens. If the price breaks out with low volume, it might not be a strong signal, and the price might not keep going down like the trader hopes. Traders need to wait for a big jump in volume to confirm that the breakout is real and that many people are selling. If they don't pay attention to volume, they might make decisions based on a weak signal and end up losing money.
+Another mistake is ignoring the volume when the [breakout](/wiki/breakout-trading) happens. If the price breaks out with low volume, it might not be a strong signal, and the price might not keep going down like the trader hopes. Traders need to wait for a big jump in volume to confirm that the breakout is real and that many people are selling. If they don't pay attention to volume, they might make decisions based on a weak signal and end up losing money.
 
 Lastly, some traders don't set a clear target price or stop-loss when trading descending triangles. They might not measure the height of the triangle to figure out where the price could go after the breakout, or they might not set a stop-loss to limit their losses if the trade goes against them. This can lead to bigger losses if the price doesn't reach the expected target or if the pattern fails and the price goes up instead.
 

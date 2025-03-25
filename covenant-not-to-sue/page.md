@@ -78,7 +78,7 @@ Once you have all the details, make sure the covenant is signed and dated by eve
 
 In a famous case between Microsoft and Sun Microsystems in the early 2000s, a covenant not to sue helped settle a big disagreement. Microsoft and Sun were fighting over how Microsoft used Sun's technology in its software. They finally agreed that Microsoft would pay Sun a lot of money, and in return, Sun promised not to sue Microsoft about this problem. This covenant not to sue helped both companies avoid a long court battle and move on with their businesses.
 
-Another example is the settlement between Google and the Authors Guild in 2012. The Authors Guild had sued Google for scanning and showing parts of books online without permission. They settled the case with Google agreeing to pay money to a fund for authors, and the Authors Guild promising not to sue Google about this issue again. This covenant not to sue allowed Google to keep its book scanning project going without worrying about more lawsuits from the Authors Guild.
+Another example is the settlement between Google and the Authors Guild in 2012. The Authors Guild had sued Google for scanning and showing parts of [books](/wiki/algo-trading-books) online without permission. They settled the case with Google agreeing to pay money to a fund for authors, and the Authors Guild promising not to sue Google about this issue again. This covenant not to sue allowed Google to keep its book scanning project going without worrying about more lawsuits from the Authors Guild.
 
 ## References & Further Reading
 

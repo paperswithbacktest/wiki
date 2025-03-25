@@ -22,7 +22,7 @@ This difference is important when the company is doing its bank reconciliation. 
 
 ## Can you explain the process of recording a deposit in transit?
 
-When a company sends money to the bank, it records this money as cash in its books right away. This means the company adds the amount of the deposit to its cash account in the balance sheet. The company does this because it knows the money is on its way to the bank, even if the bank hasn't added it to the account yet.
+When a company sends money to the bank, it records this money as cash in its [books](/wiki/algo-trading-books) right away. This means the company adds the amount of the deposit to its cash account in the balance sheet. The company does this because it knows the money is on its way to the bank, even if the bank hasn't added it to the account yet.
 
 But, when the company looks at its bank statement, the deposit might not be there yet. This is because the bank takes some time to process the deposit. So, there's a difference between what the company's books show and what the bank's records show. This difference is called a deposit in transit. When the company does its bank reconciliation, it needs to remember to include this deposit in transit to make sure its cash balance is correct. Once the bank finally processes the deposit, the bank statement will match the company's books, and everything will be up to date.
 

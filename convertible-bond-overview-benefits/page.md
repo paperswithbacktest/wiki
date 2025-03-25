@@ -24,7 +24,7 @@ The main difference is this choice to convert. Traditional bonds don't give you 
 
 A convertible bond has a few main parts that are important to know about. First, there's the conversion ratio, which tells you how many shares of stock you can get for each bond. This is like a recipe that says how much stock you get when you trade in your bond. Then, there's the conversion price, which is the price per share when you convert. It's calculated by dividing the bond's face value by the conversion ratio. These two things are key because they decide how much stock you can get and at what price.
 
-Another important part is the interest rate, or coupon rate, which is how much money you get paid regularly for owning the bond. This is just like the interest you get from a regular bond. Also, there's a maturity date, which is when the bond will be paid back if you don't convert it into stock. Lastly, there might be a call feature, which lets the company buy back the bond before it matures. This can be good for the company but might not be so good for you if you were planning to convert the bond later.
+Another important part is the [interest rate](/wiki/interest-rate-trading-strategies), or coupon rate, which is how much money you get paid regularly for owning the bond. This is just like the interest you get from a regular bond. Also, there's a maturity date, which is when the bond will be paid back if you don't convert it into stock. Lastly, there might be a call feature, which lets the company buy back the bond before it matures. This can be good for the company but might not be so good for you if you were planning to convert the bond later.
 
 ## How does the conversion feature of a convertible bond work?
 
@@ -72,7 +72,7 @@ The tax situation can get a bit tricky if the bond is called back early by the c
 
 Convertible bonds can be a smart tool for people who know a lot about investing. They can use these bonds to make their money work harder in different ways. One way is by using a strategy called "hedging." This means they buy convertible bonds and also buy or sell other investments to protect themselves from losing money if the stock market goes down. For example, they might buy a convertible bond and then sell short the same company's stock. If the stock price goes down, the bond's value might not drop as much because of the interest it pays, and they can make money from the short sale.
 
-Another way to use convertible bonds in advanced strategies is through "arbitrage." This is when investors look for price differences between the convertible bond and the company's stock. If they think the bond is a better deal than the stock, they might buy the bond and then convert it into stock later to make a profit. They can also use options and other financial tools to make their strategy even more complex. This can be risky, but it can also lead to big rewards if everything goes according to plan.
+Another way to use convertible bonds in advanced strategies is through "[arbitrage](/wiki/arbitrage)." This is when investors look for price differences between the convertible bond and the company's stock. If they think the bond is a better deal than the stock, they might buy the bond and then convert it into stock later to make a profit. They can also use options and other financial tools to make their strategy even more complex. This can be risky, but it can also lead to big rewards if everything goes according to plan.
 
 ## What are some real-world examples of successful convertible bond investments?
 

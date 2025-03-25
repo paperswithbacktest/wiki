@@ -18,7 +18,7 @@ Equity funds are managed by professionals who choose which stocks to buy and sel
 
 An income fund is a type of investment fund that aims to provide regular income to its investors. This income usually comes from dividends paid by the stocks or interest from bonds that the fund holds. People often choose income funds if they want a steady stream of money, like retirees who need income to live on.
 
-These funds can invest in a mix of assets, such as stocks that pay high dividends, bonds, or even real estate investment trusts (REITs). The goal is to balance the income they provide with the risk they carry. While income funds can be less risky than some other types of funds, their value can still go up and down, so it's important to understand the risks before investing.
+These funds can invest in a mix of assets, such as stocks that pay high dividends, bonds, or even real estate investment trusts (REITs). The goal is to balance the income they provide with the risk they [carry](/wiki/carry-trading). While income funds can be less risky than some other types of funds, their value can still go up and down, so it's important to understand the risks before investing.
 
 ## How do equity funds generate returns?
 

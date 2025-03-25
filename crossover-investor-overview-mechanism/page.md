@@ -76,9 +76,9 @@ Once the company goes public, crossover investors keep managing their portfolios
 
 ## What future trends might impact the strategy of crossover investors?
 
-In the future, more companies might stay private for longer before going public. This means crossover investors will have a bigger role in helping these companies grow. They will need to be good at picking companies that can do well over many years. They will also need to give good advice and support to help these companies become successful. As companies take longer to go public, crossover investors will need to be patient and keep supporting their investments for a long time.
+In the future, more companies might stay private for longer before going public. This means crossover investors will have a bigger role in helping these companies grow. They will need to be good at [picking](/wiki/asset-class-picking) companies that can do well over many years. They will also need to give good advice and support to help these companies become successful. As companies take longer to go public, crossover investors will need to be patient and keep supporting their investments for a long time.
 
-Another trend that might impact crossover investors is the rise of new technologies. As new tech like artificial intelligence and blockchain becomes more important, crossover investors will need to understand these technologies well. They will need to find companies that are using these new technologies in smart ways. This means they will need to keep learning and staying up to date with the latest tech trends. By doing this, they can pick the best companies to invest in and help them grow into successful public companies.
+Another trend that might impact crossover investors is the rise of new technologies. As new tech like [artificial intelligence](/wiki/ai-artificial-intelligence) and blockchain becomes more important, crossover investors will need to understand these technologies well. They will need to find companies that are using these new technologies in smart ways. This means they will need to keep learning and staying up to date with the latest tech trends. By doing this, they can pick the best companies to invest in and help them grow into successful public companies.
 
 ## References & Further Reading
 

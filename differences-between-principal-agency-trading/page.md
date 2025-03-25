@@ -66,7 +66,7 @@ For agency trading, the rules are different because firms are just helping clien
 
 Principal trading can help make the market more liquid. When a firm trades with its own money, it can buy and sell a lot of stocks quickly. This means there are more stocks available for people to buy and sell. When there are more stocks to trade, it's easier for people to find someone to buy from or sell to. This can help keep the market moving smoothly and make it easier for people to trade.
 
-But principal trading can also make the market less liquid if the firm decides to hold onto a lot of stocks. If a firm buys a big amount of a stock and then doesn't sell it, there are fewer stocks for other people to buy. This can make it harder for people to find stocks to trade. So, while principal trading can help the market when firms are actively buying and selling, it can hurt liquidity if they hold onto stocks for a long time.
+But principal trading can also make the market less liquid if the firm decides to hold onto a lot of stocks. If a firm buys a big amount of a stock and then doesn't sell it, there are fewer stocks for other people to buy. This can make it harder for people to find stocks to trade. So, while principal trading can help the market when firms are actively buying and selling, it can hurt [liquidity](/wiki/liquidity-risk-premium) if they hold onto stocks for a long time.
 
 ## How do firms decide whether to engage in principal or agency trading?
 
@@ -76,7 +76,7 @@ On the other hand, agency trading is safer for the firm because they don't use t
 
 ## What are the advanced strategies used in principal trading compared to agency trading?
 
-In principal trading, firms use their own money to buy and sell stocks, so they can use advanced strategies to try to make more money. One strategy is called market making, where the firm buys and sells stocks quickly to make small profits on each trade. They do this a lot, so even small profits can add up to a big amount. Another strategy is called proprietary trading, where the firm uses special computer programs to find patterns in the market and make trades based on those patterns. These programs can trade very fast and make decisions based on a lot of data, which can help the firm make money if they guess right about the market.
+In principal trading, firms use their own money to buy and sell stocks, so they can use advanced strategies to try to make more money. One strategy is called [market making](/wiki/market-making), where the firm buys and sells stocks quickly to make small profits on each trade. They do this a lot, so even small profits can add up to a big amount. Another strategy is called proprietary trading, where the firm uses special computer programs to find patterns in the market and make trades based on those patterns. These programs can trade very fast and make decisions based on a lot of data, which can help the firm make money if they guess right about the market.
 
 In agency trading, firms don't use their own money, so they can't use these advanced strategies to make profits for themselves. Instead, their job is to help clients buy and sell stocks and find the best prices for them. The firm might use technology to find the best deals for clients, but they don't make money from the price difference of the stocks. They only earn the fee they charge for their service. This means they focus on serving their clients well and making sure the trades happen smoothly, without taking on the risk of trying to make big profits from the market.
 

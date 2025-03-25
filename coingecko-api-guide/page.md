@@ -113,7 +113,7 @@ Through these features, CoinGecko API significantly aids developers and traders 
 
 Algorithmic trading relies on the efficient processing of vast amounts of data in real-time to execute trades that are both timely and profitable. One of the key advantages of using API data in [algorithmic trading](/wiki/algorithmic-trading) is the ability to access and manipulate market data rapidly and programmatically. CoinGecko, a leading provider of cryptocurrency market data, offers a comprehensive API that is particularly useful for traders looking to enhance their strategies with reliable and real-time information.
 
-The CoinGecko API provides numerous benefits that can significantly improve trading strategies. Firstly, its real-time data capabilities allow traders to monitor market conditions closely and make data-driven decisions swiftly. This immediacy is crucial in the cryptocurrency market, where high [volatility](/wiki/volatility-trading-strategies) can present both opportunities and risks within short periods. The API provides access to live prices, trading volume, market cap, and more, enabling traders to build algorithms that react to market movements as they happen.
+The CoinGecko API provides numerous benefits that can significantly improve trading strategies. Firstly, its real-time data capabilities allow traders to monitor market conditions closely and make data-driven decisions swiftly. This immediacy is crucial in the cryptocurrency market, where high [volatility](/wiki/volatility-trading-strategies) can present both opportunities and risks within short periods. The API provides access to live prices, trading [volume](/wiki/volume-trading-strategy), market cap, and more, enabling traders to build algorithms that react to market movements as they happen.
 
 Another significant advantage of the CoinGecko API is its reliability and comprehensiveness. CoinGecko aggregates data from a wide range of exchanges and provides consistent updates, making it a dependable source of information for traders. This reliability is essential for maintaining the integrity of trading algorithms, which require a stable data feed to function effectively. The API's wide coverage includes data from thousands of cryptocurrencies, allowing traders to diversify their portfolios and devise strategies for a range of different assets.
 
@@ -158,7 +158,7 @@ To successfully integrate the CoinGecko API into an algorithmic trading system, 
    Once data is fetched, parse the JSON response into a usable format. In Python, this can be achieved using `response.json()`. Ensure your system can handle data appropriately, whether streaming real-time prices or bulk historical data.
 
 5. **Integrating with Trading Logic:**
-   With structured data, integrate it into your trading algorithms. This integration could involve using current prices to trigger buy/sell signals or processing historical data for backtesting strategies.
+   With structured data, integrate it into your trading algorithms. This integration could involve using current prices to trigger buy/sell signals or processing historical data for [backtesting](/wiki/backtesting) strategies.
 
 ## References & Further Reading
 

@@ -54,7 +54,7 @@ To become a masternode, you need to have a certain amount of Dash and keep your 
 
 Dash is faster than Bitcoin when it comes to sending money. With Dash, you can use something called InstantSend, which makes your money reach the other person in just a few seconds. This is great if you need to pay for something quickly, like buying groceries or sending money to a friend who needs it right away. Bitcoin, on the other hand, can take a lot longer. Regular Bitcoin transactions usually take about 10 minutes to an hour to be confirmed, and sometimes even longer during busy times.
 
-The reason Dash is faster is because it uses a special system to make sure the money can't be spent twice. This system lets Dash skip the long waiting times that Bitcoin needs to check if a transaction is safe. So, if you need to send money quickly, Dash is a better choice. But if you don't mind waiting a bit longer and want to use a well-known cryptocurrency, Bitcoin might still work for you.
+The reason Dash is faster is because it uses a special system to make sure the money can't be spent twice. This system lets Dash skip the long waiting times that Bitcoin needs to check if a transaction is safe. So, if you need to send money quickly, Dash is a better choice. But if you don't mind waiting a bit longer and want to use a well-known [cryptocurrency](/wiki/cryptocurrency), Bitcoin might still work for you.
 
 ## What are the key differences in the mining processes of Dash and Bitcoin?
 

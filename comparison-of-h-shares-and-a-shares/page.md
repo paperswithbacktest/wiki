@@ -66,7 +66,7 @@ A-Shares, on the other hand, are listed in mainland China and are usually more e
 
 ## How does the liquidity of H-Shares compare to A-Shares?
 
-H-Shares usually have better liquidity than A-Shares. This means it's easier to buy and sell H-Shares because they are listed on the Hong Kong Stock Exchange, which is open to investors from all over the world. More people can trade H-Shares, so there are usually more buyers and sellers, making it easier to find someone to trade with quickly.
+H-Shares usually have better [liquidity](/wiki/liquidity-risk-premium) than A-Shares. This means it's easier to buy and sell H-Shares because they are listed on the Hong Kong Stock Exchange, which is open to investors from all over the world. More people can trade H-Shares, so there are usually more buyers and sellers, making it easier to find someone to trade with quickly.
 
 A-Shares, on the other hand, are listed on the Shanghai and Shenzhen stock exchanges in mainland China. These shares are mostly bought and sold by people living in China, so there are fewer international investors. This can make A-Shares less liquid because there might not be as many people looking to buy or sell at any given time. Programs like Stock Connect have helped a bit, but A-Shares still tend to be less liquid than H-Shares.
 
@@ -80,7 +80,7 @@ Even though these programs have made things easier, there are still some challen
 
 Macroeconomic factors play a big role in the performance gap between H-Shares and A-Shares. These factors include things like interest rates, inflation, and the overall health of the Chinese economy. For example, if the Chinese economy is doing well, A-Shares might do better because they are more directly tied to the economy in mainland China. On the other hand, if there are worries about China's economy, investors might prefer H-Shares because they are listed in Hong Kong and might be seen as less risky.
 
-Another important factor is the exchange rate between the Chinese yuan and the Hong Kong dollar. If the yuan gets stronger, A-Shares might become more attractive to investors because their value goes up. But if the yuan weakens, H-Shares might be a better choice because they are traded in Hong Kong dollars, which might be more stable. Also, government policies in China can affect A-Shares more directly, while H-Shares might be less influenced by these policies because they are listed in a different market.
+Another important [factor](/wiki/factor-investing) is the exchange rate between the Chinese yuan and the Hong Kong dollar. If the yuan gets stronger, A-Shares might become more attractive to investors because their value goes up. But if the yuan weakens, H-Shares might be a better choice because they are traded in Hong Kong dollars, which might be more stable. Also, government policies in China can affect A-Shares more directly, while H-Shares might be less influenced by these policies because they are listed in a different market.
 
 ## References & Further Reading
 

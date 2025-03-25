@@ -22,7 +22,7 @@ These services are usually cheaper than hiring a human financial advisor because
 
 ## How do the costs of ETFs compare to those of Robo-Advisors?
 
-ETFs usually have low costs compared to other types of investments. They have what's called an expense ratio, which is a small percentage of your investment that goes toward the costs of running the ETF. This fee can be as low as 0.03% for some ETFs, but it can go up to 1% or more for others. You might also pay a small fee when you buy or sell an ETF, called a trading commission, but many brokers offer ETFs with no trading fees.
+ETFs usually have low costs compared to other types of investments. They have what's called an expense ratio, which is a small percentage of your investment that goes toward the costs of running the [ETF](/wiki/etf-trading-strategies). This fee can be as low as 0.03% for some ETFs, but it can go up to 1% or more for others. You might also pay a small fee when you buy or sell an ETF, called a trading commission, but many brokers offer ETFs with no trading fees.
 
 Robo-advisors also have costs, but they work a bit differently. They charge a management fee, which is a percentage of the money you have invested with them. This fee is usually between 0.25% and 0.50% per year, though some might charge more or less. This fee covers the cost of the robo-advisor's services, like choosing and managing your investments. So, while ETFs might have lower direct costs, robo-advisors provide a full service for a bit more money.
 

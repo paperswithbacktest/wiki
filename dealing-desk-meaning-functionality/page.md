@@ -46,7 +46,7 @@ Another disadvantage is that using a dealing desk can be more expensive. The ban
 
 ## How does a dealing desk affect the spread in forex trading?
 
-In forex trading, the spread is the difference between the price at which you can buy a currency and the price at which you can sell it. When you use a dealing desk, the dealers can influence this spread. They might make the spread wider, which means you have to pay more to buy a currency or get less when you sell it. This is because the dealing desk wants to make a profit from the trades they help with. So, using a dealing desk can make your trading more expensive because of the wider spread.
+In [forex](/wiki/forex-system) trading, the spread is the difference between the price at which you can buy a currency and the price at which you can sell it. When you use a dealing desk, the dealers can influence this spread. They might make the spread wider, which means you have to pay more to buy a currency or get less when you sell it. This is because the dealing desk wants to make a profit from the trades they help with. So, using a dealing desk can make your trading more expensive because of the wider spread.
 
 However, dealing desks can also help keep the spread stable. If there aren't enough buyers or sellers, the spread can get very wide. But the dealers at the dealing desk can step in and trade themselves to keep the spread smaller. This makes it easier for you to trade because the cost of buying and selling stays more predictable. So, while dealing desks can make the spread wider to earn more money, they can also help keep it in check when the market is not very active.
 
@@ -70,7 +70,7 @@ Regulations also tell dealing desks what they can and can't do. They might have 
 
 ## What advanced technologies are used in modern dealing desks?
 
-Modern dealing desks use a lot of advanced technology to help them do their job better. One big technology they use is called algorithmic trading. This means they use computers to make trades very quickly, following special rules that the dealers set up. These rules can look at lots of information, like prices and news, to decide when to buy or sell. Another important technology is electronic trading platforms. These platforms let dealers connect to lots of different markets all over the world. This makes it easier for them to find someone to trade with, no matter where they are.
+Modern dealing desks use a lot of advanced technology to help them do their job better. One big technology they use is called [algorithmic trading](/wiki/algorithmic-trading). This means they use computers to make trades very quickly, following special rules that the dealers set up. These rules can look at lots of information, like prices and news, to decide when to buy or sell. Another important technology is electronic trading platforms. These platforms let dealers connect to lots of different markets all over the world. This makes it easier for them to find someone to trade with, no matter where they are.
 
 Also, dealing desks use something called high-frequency trading. This is when computers make lots and lots of trades in just a few seconds. It helps the dealing desk make small profits on each trade, and it can help keep the market moving smoothly. Another technology they use is data analytics. This means they use computers to look at lots of information and find patterns that can help them make better trading decisions. All these technologies help dealing desks work faster and smarter, making sure trades happen quickly and at good prices.
 

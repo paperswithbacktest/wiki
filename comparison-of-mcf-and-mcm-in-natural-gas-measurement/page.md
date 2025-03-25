@@ -24,7 +24,7 @@ Using MCM helps to simplify large numbers when talking about natural gas. For ex
 
 MCF stands for "thousand cubic feet." It is a way to measure how much natural gas there is. One MCF is the same as 1,000 cubic feet of gas. People in the gas business use MCF because it makes big numbers easier to talk about. For example, if someone says they used 3 MCF of gas, it means they used 3,000 cubic feet.
 
-MCM stands for "thousand cubic meters." It is another way to measure the volume of natural gas, but it uses the metric system. One MCM equals 1,000 cubic meters of gas. This unit is helpful in places that use the metric system. It makes it simple to understand and work with gas amounts. For instance, if a report says a company used 4 MCM of gas, it means they used 4,000 cubic meters.
+MCM stands for "thousand cubic meters." It is another way to measure the [volume](/wiki/volume-trading-strategy) of natural gas, but it uses the metric system. One MCM equals 1,000 cubic meters of gas. This unit is helpful in places that use the metric system. It makes it simple to understand and work with gas amounts. For instance, if a report says a company used 4 MCM of gas, it means they used 4,000 cubic meters.
 
 ## What is the conversion factor between MCF and MCM?
 
@@ -58,7 +58,7 @@ In the natural gas market, MCF and MCM are important for setting prices between 
 
 ## What are the common measurement errors associated with MCF and MCM?
 
-When people measure natural gas using MCF and MCM, they can sometimes make mistakes. One common error is not reading the gas meters correctly. Gas meters measure how much gas is used, and if someone reads the numbers wrong, the MCF or MCM numbers will be off. Another mistake can happen when converting between MCF and MCM. If the wrong conversion factor is used, like using 35 instead of 35.315, the numbers will not be right. These errors can lead to bills that are too high or too low, causing problems for both the gas company and the customers.
+When people measure natural gas using MCF and MCM, they can sometimes make mistakes. One common error is not reading the gas meters correctly. Gas meters measure how much gas is used, and if someone reads the numbers wrong, the MCF or MCM numbers will be off. Another mistake can happen when converting between MCF and MCM. If the wrong conversion [factor](/wiki/factor-investing) is used, like using 35 instead of 35.315, the numbers will not be right. These errors can lead to bills that are too high or too low, causing problems for both the gas company and the customers.
 
 Another type of error comes from equipment issues. Sometimes, the gas meters or other tools used to measure gas can break or not work properly. If a meter is not working right, it might show more or less gas than is actually being used. This can make the MCF or MCM numbers wrong. Also, if the gas is not measured at the right temperature and pressure, the numbers can be off. Natural gas changes volume with temperature and pressure, so if these are not taken into account, the MCF or MCM measurements will be incorrect. Keeping equipment in good shape and using the right conditions for measuring can help avoid these errors.
 

@@ -18,7 +18,7 @@ ETFs are popular because they offer a way to diversify your investments without 
 
 A synthetic ETF is a type of exchange-traded fund that uses financial instruments like derivatives to mimic the performance of an index or asset, instead of actually holding the assets themselves. Think of it like this: instead of buying all the stocks in an index, a synthetic ETF might use contracts that track the index's performance. This can be useful for getting exposure to markets that are hard to invest in directly, like certain foreign markets or commodities.
 
-While synthetic ETFs can offer benefits like lower costs and easier access to certain investments, they also come with more risks. Because they use derivatives, they can be more complex and might not always track the index perfectly. This means there's a chance the ETF won't perform exactly as expected. So, it's important for investors to understand these risks before deciding to invest in synthetic ETFs.
+While synthetic ETFs can offer benefits like lower costs and easier access to certain investments, they also come with more risks. Because they use derivatives, they can be more complex and might not always track the index perfectly. This means there's a chance the [ETF](/wiki/etf-trading-strategies) won't perform exactly as expected. So, it's important for investors to understand these risks before deciding to invest in synthetic ETFs.
 
 ## What is a physical ETF?
 
@@ -58,7 +58,7 @@ Also, synthetic ETFs can be more complicated than physical ETFs. They use comple
 
 Physical ETFs own the actual assets they track, like stocks or bonds. This can be good because you know exactly what you're investing in. But there are still risks. One big risk is market risk. This means if the market goes down, the value of the ETF goes down too. It's like if you own a bunch of stocks and they all drop in value at the same time. If the whole market has a bad day, your ETF will feel it too.
 
-Another risk is liquidity risk. This happens if it's hard to buy or sell the ETF quickly. Imagine you want to sell your ETF but not many people want to buy it right then. You might have to sell it for less than you wanted. Also, if the ETF holds a lot of one type of asset, it can be riskier. If that asset does badly, the whole ETF can be affected. So even though physical ETFs are simpler and usually safer than synthetic ETFs, they still come with their own set of risks that investors need to think about.
+Another risk is [liquidity](/wiki/liquidity-risk-premium) risk. This happens if it's hard to buy or sell the ETF quickly. Imagine you want to sell your ETF but not many people want to buy it right then. You might have to sell it for less than you wanted. Also, if the ETF holds a lot of one type of asset, it can be riskier. If that asset does badly, the whole ETF can be affected. So even though physical ETFs are simpler and usually safer than synthetic ETFs, they still come with their own set of risks that investors need to think about.
 
 ## How do the costs of synthetic ETFs compare to physical ETFs?
 

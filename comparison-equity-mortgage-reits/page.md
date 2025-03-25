@@ -22,7 +22,7 @@ Equity REITs are popular because they let people invest in real estate without h
 
 ## What is a Mortgage REIT?
 
-A Mortgage REIT is a type of Real Estate Investment Trust that focuses on loans instead of owning buildings. They make money by buying or starting mortgages and then earning interest from those loans. For example, they might buy home loans or give out loans to real estate developers.
+A Mortgage REIT is a type of Real Estate Investment Trust that focuses on loans instead of owning buildings. They make money by buying or starting mortgages and then [earning](/wiki/earning-announcement) interest from those loans. For example, they might buy home loans or give out loans to real estate developers.
 
 Unlike Equity REITs, Mortgage REITs don't own physical properties. Instead, they deal with the money side of real estate. They can be riskier because their income depends on interest rates and how well people pay back their loans. But they can also offer high returns, which can be attractive to some investors.
 
@@ -62,7 +62,7 @@ Another big risk is what happens in the housing market. If home prices drop a lo
 
 Interest rate changes can have a big impact on Equity REITs. When interest rates go up, it can be harder for Equity REITs to borrow money to buy new properties or fix up the ones they already own. This is because borrowing costs more when interest rates are high. Also, when interest rates go up, other investments like bonds might look more attractive to people because they can earn more interest. This might make people sell their shares in Equity REITs to buy bonds instead, which can cause the price of the REIT's shares to go down. So, higher interest rates can make it harder for Equity REITs to grow and can hurt their share prices.
 
-Mortgage REITs are affected by interest rate changes in a different way. They make money from the difference between the interest they earn on the loans they own and the interest they pay to borrow money to buy those loans. This is called the net interest margin. When interest rates go up, the cost of borrowing money for Mortgage REITs can go up faster than the interest they earn on their loans. This can squeeze their profits and make it harder for them to pay good dividends to investors. So, Mortgage REITs can be more sensitive to interest rate changes because their business depends a lot on borrowing and lending money.
+Mortgage REITs are affected by [interest rate](/wiki/interest-rate-trading-strategies) changes in a different way. They make money from the difference between the interest they earn on the loans they own and the interest they pay to borrow money to buy those loans. This is called the net interest margin. When interest rates go up, the cost of borrowing money for Mortgage REITs can go up faster than the interest they earn on their loans. This can squeeze their profits and make it harder for them to pay good dividends to investors. So, Mortgage REITs can be more sensitive to interest rate changes because their business depends a lot on borrowing and lending money.
 
 ## What are the tax implications of investing in Equity versus Mortgage REITs?
 

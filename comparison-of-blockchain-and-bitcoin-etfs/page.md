@@ -24,7 +24,7 @@ People store their Bitcoin in something called a digital wallet, which is like a
 
 ETFs, or Exchange-Traded Funds, are like baskets that hold a bunch of different investments, like stocks, bonds, or commodities. They are traded on stock exchanges, just like regular stocks, which means you can buy and sell them throughout the day. This makes it easy for people to invest in a variety of assets without having to buy each one separately.
 
-ETFs are popular because they offer a simple way to diversify your investments. Instead of picking individual stocks, you can buy one ETF that holds many different stocks or other assets. This can help spread out the risk, so if one investment doesn't do well, the others might make up for it. Plus, ETFs often have lower fees than other types of funds, which can save you money over time.
+ETFs are popular because they offer a simple way to diversify your investments. Instead of [picking](/wiki/asset-class-picking) individual stocks, you can buy one [ETF](/wiki/etf-trading-strategies) that holds many different stocks or other assets. This can help spread out the risk, so if one investment doesn't do well, the others might make up for it. Plus, ETFs often have lower fees than other types of funds, which can save you money over time.
 
 ## How do Blockchain ETFs work?
 
@@ -34,7 +34,7 @@ These ETFs work by tracking an index or a set of rules that decide which blockch
 
 ## How do Bitcoin ETFs work?
 
-Bitcoin ETFs are a type of investment fund that you can buy and sell on stock exchanges, just like regular stocks. They let you invest in Bitcoin without actually owning the cryptocurrency directly. Instead, the ETF holds Bitcoin or Bitcoin futures contracts, which are agreements to buy or sell Bitcoin at a future date. When you buy shares of a Bitcoin ETF, you're betting that the price of Bitcoin will go up, and if it does, the value of your ETF shares will also go up.
+Bitcoin ETFs are a type of investment fund that you can buy and sell on stock exchanges, just like regular stocks. They let you invest in Bitcoin without actually owning the [cryptocurrency](/wiki/cryptocurrency) directly. Instead, the ETF holds Bitcoin or Bitcoin futures contracts, which are agreements to buy or sell Bitcoin at a future date. When you buy shares of a Bitcoin ETF, you're betting that the price of Bitcoin will go up, and if it does, the value of your ETF shares will also go up.
 
 The way a Bitcoin ETF works is by tracking the price of Bitcoin. The fund manager buys Bitcoin or Bitcoin futures and then divides this into shares that people can buy. If the price of Bitcoin goes up, the value of the ETF goes up too, and if the price goes down, the ETF value goes down. This makes it easier for people who want to invest in Bitcoin but don't want to deal with the complexities of buying and storing the cryptocurrency themselves.
 

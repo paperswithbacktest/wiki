@@ -18,7 +18,7 @@ Using a cryptocurrency exchange, you can convert your regular money, like dollar
 
 Cryptocurrency exchanges work like a big online market where people trade digital money. When you want to buy a cryptocurrency, you go to an exchange, sign up for an account, and put in your regular money, like dollars. Then, you can look at the prices and decide which cryptocurrency you want to buy. You place an order, and if someone else on the exchange wants to sell at that price, the trade happens. It's like trading cards with friends, but it all happens on a computer.
 
-Once you've bought a cryptocurrency, you can keep it in your account on the exchange or move it to a special digital wallet that you control. If you want to sell your cryptocurrency, you do the opposite. You put in an order to sell at a certain price, and if someone wants to buy at that price, the trade goes through. The exchange takes a small fee for making these trades happen. It's important to choose a good exchange because they can be different in how safe they are and how much they charge.
+Once you've bought a [cryptocurrency](/wiki/cryptocurrency), you can keep it in your account on the exchange or move it to a special digital wallet that you control. If you want to sell your cryptocurrency, you do the opposite. You put in an order to sell at a certain price, and if someone wants to buy at that price, the trade goes through. The exchange takes a small fee for making these trades happen. It's important to choose a good exchange because they can be different in how safe they are and how much they charge.
 
 ## What are the different types of cryptocurrency exchanges?
 
@@ -28,7 +28,7 @@ Decentralized exchanges, on the other hand, don't have a company in charge. They
 
 ## What are the key features to look for in a cryptocurrency exchange?
 
-When looking for a cryptocurrency exchange, it's important to consider the security features. A good exchange should have strong security measures like two-factor authentication, which adds an extra layer of protection to your account. They should also keep most of the money in cold storage, which means it's kept offline and is safer from hackers. It's also a good idea to check if the exchange has been audited or if it has insurance to protect your funds in case something goes wrong.
+When looking for a cryptocurrency exchange, it's important to consider the security features. A good exchange should have strong security measures like two-[factor](/wiki/factor-investing) authentication, which adds an extra layer of protection to your account. They should also keep most of the money in cold storage, which means it's kept offline and is safer from hackers. It's also a good idea to check if the exchange has been audited or if it has insurance to protect your funds in case something goes wrong.
 
 Another key feature is the fees the exchange charges. Some exchanges have high fees for buying, selling, or moving your money around, while others have low fees. It's important to understand all the fees so you can choose an exchange that won't cost you too much. Also, think about how easy the exchange is to use. A good exchange should have a simple and clear website or app so you can easily buy and sell cryptocurrencies without getting confused.
 
@@ -54,9 +54,9 @@ The user experience also includes how fast the exchange works and how easy it is
 
 ## What role does liquidity play in selecting a cryptocurrency exchange?
 
-Liquidity is a big deal when you're picking a cryptocurrency exchange. It means how easy it is to buy or sell a cryptocurrency without the price changing a lot. If an exchange has high liquidity, you can trade your cryptocurrencies quickly and at a good price. This is important because if you want to buy or sell a lot of a cryptocurrency, you don't want the price to go up or down too much just because of your trade. High liquidity means there are a lot of people buying and selling on the exchange, so your trade won't affect the price as much.
+Liquidity is a big deal when you're [picking](/wiki/asset-class-picking) a cryptocurrency exchange. It means how easy it is to buy or sell a cryptocurrency without the price changing a lot. If an exchange has high [liquidity](/wiki/liquidity-risk-premium), you can trade your cryptocurrencies quickly and at a good price. This is important because if you want to buy or sell a lot of a cryptocurrency, you don't want the price to go up or down too much just because of your trade. High liquidity means there are a lot of people buying and selling on the exchange, so your trade won't affect the price as much.
 
-Choosing an exchange with good liquidity can also save you money. If an exchange doesn't have enough people trading, you might have to pay more to buy or get less when you sell. This is because there might not be enough buyers or sellers at the price you want. So, it's a good idea to check how much trading is happening on an exchange before you start using it. You can look at the trading volume, which shows how much of a cryptocurrency has been bought and sold recently. A higher trading volume usually means better liquidity.
+Choosing an exchange with good liquidity can also save you money. If an exchange doesn't have enough people trading, you might have to pay more to buy or get less when you sell. This is because there might not be enough buyers or sellers at the price you want. So, it's a good idea to check how much trading is happening on an exchange before you start using it. You can look at the trading [volume](/wiki/volume-trading-strategy), which shows how much of a cryptocurrency has been bought and sold recently. A higher trading volume usually means better liquidity.
 
 ## How do regulatory compliance and legal considerations affect the choice of an exchange?
 

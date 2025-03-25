@@ -18,7 +18,7 @@ This approach helps both the companies and the regulators. For companies, it mea
 
 A regulatory sandbox can be really helpful for cryptocurrencies. It lets companies that work with cryptocurrencies test their new ideas in a safe way. They can try out new ways to use cryptocurrencies, like making payments or trading, without worrying about breaking the rules right away. This helps them see if their ideas will work in the real world and make changes if they need to.
 
-For regulators, a sandbox gives them a chance to learn about cryptocurrencies. They can watch how these new technologies work and figure out the best ways to make rules that keep people safe but also let innovation happen. By using a sandbox, regulators can make sure that new cryptocurrency products are good for customers and don't cause problems in the market.
+For regulators, a sandbox gives them a chance to learn about cryptocurrencies. They can watch how these new technologies work and figure out the best ways to make rules that keep people safe but also let innovation happen. By using a sandbox, regulators can make sure that new [cryptocurrency](/wiki/cryptocurrency) products are good for customers and don't cause problems in the market.
 
 Overall, a regulatory sandbox helps both cryptocurrency companies and regulators. It makes it easier for new ideas to be tested and improved, and it helps regulators make smart rules that support new technology while keeping everything safe and fair.
 

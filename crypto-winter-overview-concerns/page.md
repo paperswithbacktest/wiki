@@ -42,7 +42,7 @@ Sometimes, though, if a lot of people and businesses have put a lot of money int
 
 To survive a crypto winter, investors should start by not panicking. When prices drop a lot, it's easy to feel scared and want to sell everything. But if you believe in cryptocurrencies for the long term, it's better to hold on to them. Selling when prices are low can make you lose more money. Instead, try to stay calm and remember that crypto winters are normal and the market can go back up.
 
-Another good strategy is to spread out your investments. Don't put all your money into just one cryptocurrency. If you have different kinds of investments, like stocks or bonds, it can help protect you if the crypto market goes down. Also, if you can, keep some money in savings that you can use if you need it during a crypto winter. This way, you won't have to sell your cryptocurrencies at a bad time.
+Another good strategy is to spread out your investments. Don't put all your money into just one [cryptocurrency](/wiki/cryptocurrency). If you have different kinds of investments, like stocks or bonds, it can help protect you if the crypto market goes down. Also, if you can, keep some money in savings that you can use if you need it during a crypto winter. This way, you won't have to sell your cryptocurrencies at a bad time.
 
 Lastly, keep learning about the crypto market. Understanding what's happening can help you make better choices. Sometimes, a crypto winter can be a good time to buy more cryptocurrencies at lower prices. If you have extra money and believe in the future of cryptocurrencies, buying more during a dip can pay off when the market goes back up. But always be careful and don't invest more than you can afford to lose.
 

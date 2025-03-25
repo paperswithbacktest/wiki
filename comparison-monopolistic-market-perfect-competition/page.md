@@ -46,7 +46,7 @@ In perfect competition, firms have almost no pricing power. There are many selle
 
 ## How do profit levels compare between monopolistic markets and perfect competition in the long run?
 
-In a monopolistic market, the single company can make a lot of profit in the long run. Since they are the only ones selling the product or service, they can set high prices and keep making money. There's no competition to push prices down, so the company can keep earning big profits as long as people want to buy what they're selling. This can lead to the company making more money than they would if they had to compete with other businesses.
+In a monopolistic market, the single company can make a lot of profit in the long run. Since they are the only ones selling the product or service, they can set high prices and keep making money. There's no competition to push prices down, so the company can keep [earning](/wiki/earning-announcement) big profits as long as people want to buy what they're selling. This can lead to the company making more money than they would if they had to compete with other businesses.
 
 In perfect competition, profit levels are usually low in the long run. Because there are many sellers offering the same thing, they all have to keep their prices low to stay in business. If one company tries to make more profit by raising prices, they'll lose customers to other sellers. Over time, new companies can easily enter the market, which keeps pushing prices down until they just cover the costs of making the product. This means that in the long run, companies in perfect competition usually only make enough profit to keep going, but not much more.
 

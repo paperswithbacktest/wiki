@@ -58,7 +58,7 @@ This way, big investors can trade large amounts of stocks without affecting the 
 
 ## How do dark pools affect the overall liquidity of the financial markets?
 
-Dark pools can affect the overall liquidity of the financial markets in a few ways. Liquidity means how easy it is to buy or sell something without changing its price too much. When big investors use dark pools to trade, they can do it without showing their orders to everyone else. This means they can trade large amounts of stocks without causing big price swings on public exchanges. This can help keep the market stable and make it easier for big trades to happen without scaring other investors.
+Dark pools can affect the overall [liquidity](/wiki/liquidity-risk-premium) of the financial markets in a few ways. Liquidity means how easy it is to buy or sell something without changing its price too much. When big investors use dark pools to trade, they can do it without showing their orders to everyone else. This means they can trade large amounts of stocks without causing big price swings on public exchanges. This can help keep the market stable and make it easier for big trades to happen without scaring other investors.
 
 But dark pools can also take some liquidity away from public exchanges. If a lot of trading happens in dark pools, there might be fewer orders on public exchanges. This can make it harder for other people to trade because there are fewer buyers and sellers to match with. So, while dark pools can help big investors trade without affecting prices too much, they might also make the public market less liquid. This can be a problem if too much trading moves to dark pools and not enough stays on public exchanges.
 

@@ -38,7 +38,7 @@ Investing in convertible securities isn't without risks. One big risk is that if
 
 Another risk is that convertible securities can be complicated. They come with special rules about when and how you can convert them into stock. If you don't understand these rules, you might make a bad choice about whether to convert or not. Also, if the company's stock price goes way up, the company might decide to buy back the convertible securities before you get a chance to convert them. This can limit how much money you can make.
 
-Lastly, there's interest rate risk. If interest rates go up, the value of your convertible bond might go down because new bonds will pay higher interest. This can be a problem if you need to sell your bond before it matures. So, while convertible securities can be a good mix of safety and potential profit, they also come with their own set of risks that you need to think about carefully.
+Lastly, there's [interest rate](/wiki/interest-rate-trading-strategies) risk. If interest rates go up, the value of your convertible bond might go down because new bonds will pay higher interest. This can be a problem if you need to sell your bond before it matures. So, while convertible securities can be a good mix of safety and potential profit, they also come with their own set of risks that you need to think about carefully.
 
 ## How do you value convertible securities?
 
@@ -72,7 +72,7 @@ But if the market is not doing so well, convertible securities can be riskier. I
 
 ## What are some advanced strategies for trading convertible securities?
 
-One advanced strategy for trading convertible securities is called "convertible arbitrage." This is when you buy the convertible security and at the same time, you sell short the stock of the same company. The idea is to make money from the difference between the price of the convertible security and the stock. If the stock price goes up, the convertible security goes up too, but you lose money on the short sale of the stock. If the stock price goes down, the convertible security might not go down as much because it still pays interest or dividends, and you make money on the short sale. It's a bit like a balancing act, trying to profit from small differences in prices.
+One advanced strategy for trading convertible securities is called "convertible [arbitrage](/wiki/arbitrage)." This is when you buy the convertible security and at the same time, you sell short the stock of the same company. The idea is to make money from the difference between the price of the convertible security and the stock. If the stock price goes up, the convertible security goes up too, but you lose money on the short sale of the stock. If the stock price goes down, the convertible security might not go down as much because it still pays interest or dividends, and you make money on the short sale. It's a bit like a balancing act, trying to profit from small differences in prices.
 
 Another strategy is "hedging with convertibles." This means you use convertible securities to protect other investments you have. For example, if you own a lot of a company's stock and you're worried the stock price might go down, you can buy its convertible bonds or preferred stocks. If the stock price does drop, the convertible security still gives you regular payments, which can help cushion the loss. And if the stock price goes up, you can convert the security into more stock and make a profit. It's like having a safety net that also gives you a chance to win big.
 

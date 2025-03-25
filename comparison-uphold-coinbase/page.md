@@ -24,7 +24,7 @@ Coinbase also has a user-friendly interface, but it focuses more on cryptocurren
 
 Uphold has different fees depending on what you're doing. When you trade between different types of money, like dollars to Bitcoin, Uphold charges a fee that can be up to 1%. If you want to move your money out of Uphold, there are also fees for that. For example, sending money to a bank account might cost you a small percentage or a flat fee. It's good to check the exact fees on Uphold's website because they can change.
 
-Coinbase also has fees, but they can be a bit more complicated. When you buy or sell cryptocurrencies, Coinbase charges a fee that can be around 0.5% to 4.5%, depending on how you pay and how much you're trading. If you use a credit card, the fees might be higher. There are also fees for moving your cryptocurrencies out of Coinbase, which can vary depending on which cryptocurrency you're using. Like Uphold, it's a good idea to look at Coinbase's fee page to see the latest rates.
+Coinbase also has fees, but they can be a bit more complicated. When you buy or sell cryptocurrencies, Coinbase charges a fee that can be around 0.5% to 4.5%, depending on how you pay and how much you're trading. If you use a credit card, the fees might be higher. There are also fees for moving your cryptocurrencies out of Coinbase, which can vary depending on which [cryptocurrency](/wiki/cryptocurrency) you're using. Like Uphold, it's a good idea to look at Coinbase's fee page to see the latest rates.
 
 ## Which cryptocurrencies can be traded on Uphold and Coinbase?
 
@@ -34,7 +34,7 @@ Coinbase also offers a good selection of cryptocurrencies. You can trade big nam
 
 ## How do the security measures of Uphold and Coinbase compare?
 
-Uphold takes security seriously. They use strong encryption to keep your money safe when you're using their platform. They also keep most of the cryptocurrencies in cold storage, which means they're not connected to the internet and are harder for hackers to get to. Uphold also has something called two-factor authentication, which adds an extra step to make sure it's really you logging in. They watch for strange activity and will freeze your account if they see anything fishy to protect your money.
+Uphold takes security seriously. They use strong encryption to keep your money safe when you're using their platform. They also keep most of the cryptocurrencies in cold storage, which means they're not connected to the internet and are harder for hackers to get to. Uphold also has something called two-[factor](/wiki/factor-investing) authentication, which adds an extra step to make sure it's really you logging in. They watch for strange activity and will freeze your account if they see anything fishy to protect your money.
 
 Coinbase also focuses a lot on security. Like Uphold, they use encryption and keep most of the cryptocurrencies in cold storage. They have two-factor authentication too, which makes your account more secure. Coinbase also has insurance to cover losses if something goes wrong. They keep an eye on your account for any unusual activity and will lock it down if they think there's a problem. Both platforms are good at keeping your money safe, but Coinbase has that extra insurance which might make some people feel more secure.
 

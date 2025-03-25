@@ -42,7 +42,7 @@ Other examples of blue chip companies include Johnson & Johnson, which makes hea
 
 Market capitalization, or market cap, is very important when defining a blue chip company. It tells us how big a company is by showing the total value of all its shares. Blue chip companies have a large market cap, which means they are big and well-known. This large size shows that many people believe in the company and are willing to invest in it. When a company has a big market cap, it is often seen as more stable and less risky than smaller companies.
 
-Having a large market cap is one of the reasons why blue chip companies are trusted by investors. It shows that the company has a strong position in its industry and can handle tough economic times better than smaller companies. This stability is what makes blue chip companies a safe choice for people who want to invest their money without taking big risks. So, market capitalization is a key factor in identifying and understanding blue chip companies.
+Having a large market cap is one of the reasons why blue chip companies are trusted by investors. It shows that the company has a strong position in its industry and can handle tough economic times better than smaller companies. This stability is what makes blue chip companies a safe choice for people who want to invest their money without taking big risks. So, market capitalization is a key [factor](/wiki/factor-investing) in identifying and understanding blue chip companies.
 
 ## What role does stability and reliability play in the classification of a company as blue chip?
 

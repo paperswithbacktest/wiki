@@ -52,7 +52,7 @@ On the other hand, the Nasdaq is home to many larger companies with bigger marke
 
 ## How do the trading volumes on NYSE American and Nasdaq compare?
 
-The trading volume on the Nasdaq is usually much higher than on the NYSE American. Trading volume means how many shares are bought and sold every day. Because the Nasdaq has a lot of big and popular companies, like Apple and Microsoft, a lot of people want to buy and sell their stocks. This means that on an average day, you might see billions of shares traded on the Nasdaq. 
+The trading [volume](/wiki/volume-trading-strategy) on the Nasdaq is usually much higher than on the NYSE American. Trading volume means how many shares are bought and sold every day. Because the Nasdaq has a lot of big and popular companies, like Apple and Microsoft, a lot of people want to buy and sell their stocks. This means that on an average day, you might see billions of shares traded on the Nasdaq. 
 
 On the other hand, the NYSE American has lower trading volumes. This is because it mostly lists smaller companies that are still growing or are in specific industries like mining or energy. These companies don't get as much attention from investors, so fewer shares are traded each day. On the NYSE American, the trading volume might be in the millions of shares, which is a lot less than the billions you see on the Nasdaq.
 

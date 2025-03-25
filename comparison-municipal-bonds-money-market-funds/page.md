@@ -22,7 +22,7 @@ These funds are managed by professionals who try to keep the value of each share
 
 ## How do municipal bonds generate returns for investors?
 
-Municipal bonds generate returns for investors by paying them interest over time. When you buy a municipal bond, you are lending money to a city or town. In return, they promise to pay you back the money you lent them, plus extra money as interest. This interest is usually paid out to you twice a year until the bond reaches its end date, which can be anywhere from a few years to several decades. The amount of interest you get depends on the bond's interest rate, which is set when the bond is first sold.
+Municipal bonds generate returns for investors by paying them interest over time. When you buy a municipal bond, you are lending money to a city or town. In return, they promise to pay you back the money you lent them, plus extra money as interest. This interest is usually paid out to you twice a year until the bond reaches its end date, which can be anywhere from a few years to several decades. The amount of interest you get depends on the bond's [interest rate](/wiki/interest-rate-trading-strategies), which is set when the bond is first sold.
 
 The other way municipal bonds can generate returns is through the bond's value. Sometimes, you can sell your bond to someone else before it reaches its end date. If interest rates have gone down since you bought the bond, the value of your bond might go up because it pays a higher interest rate than new bonds. You can then sell it for more than you paid for it, making a profit. However, if interest rates have gone up, the value of your bond might go down, and you might have to sell it for less than you paid. So, while the interest payments are a steady source of returns, the bond's value can also affect your overall return.
 
@@ -30,7 +30,7 @@ The other way municipal bonds can generate returns is through the bond's value. 
 
 Money market funds generate returns for investors by investing in safe, short-term securities like government bonds, certificates of deposit, and commercial paper. These securities pay interest, and the money market fund collects this interest and then shares it with the investors. The interest rate you get from a money market fund is usually higher than what you would get from a regular savings account, but it's still pretty low compared to other types of investments.
 
-The goal of a money market fund is to keep your money safe while still earning a little bit of interest. The fund managers work hard to make sure the value of each share stays at $1, which makes it less risky than other investments like stocks or bonds. However, because the returns are low, money market funds are best for people who want to keep their money safe and easy to get to, rather than for people who want to make their money grow a lot.
+The goal of a money market fund is to keep your money safe while still [earning](/wiki/earning-announcement) a little bit of interest. The fund managers work hard to make sure the value of each share stays at $1, which makes it less risky than other investments like stocks or bonds. However, because the returns are low, money market funds are best for people who want to keep their money safe and easy to get to, rather than for people who want to make their money grow a lot.
 
 ## What are the tax benefits associated with municipal bonds?
 
@@ -52,7 +52,7 @@ Money market funds, on the other hand, are designed to be very safe. They invest
 
 ## How does the liquidity of municipal bonds compare to that of money market funds?
 
-Municipal bonds and money market funds have different levels of liquidity. Liquidity means how easy it is to get your money back when you want it. With municipal bonds, you usually have to wait until the bond reaches its end date to get all your money back. If you need your money before then, you can try to sell the bond to someone else. But selling a bond before it matures can be hard, and you might not get as much money as you hoped. So, municipal bonds are not very liquid.
+Municipal bonds and money market funds have different levels of [liquidity](/wiki/liquidity-risk-premium). Liquidity means how easy it is to get your money back when you want it. With municipal bonds, you usually have to wait until the bond reaches its end date to get all your money back. If you need your money before then, you can try to sell the bond to someone else. But selling a bond before it matures can be hard, and you might not get as much money as you hoped. So, municipal bonds are not very liquid.
 
 Money market funds are much more liquid. When you put money into a money market fund, you can usually get it back quickly, often in just a day or two. This is because money market funds invest in short-term securities that are easy to sell. So, if you need your money, you can take it out of the fund without much trouble. This makes money market funds a good choice if you want to keep your money safe and easy to get to.
 

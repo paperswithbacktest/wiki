@@ -78,7 +78,7 @@ For example, when stocks are sold during an IPO, the DTC's system needs to tell 
 
 ## What future developments or enhancements are expected for the DTC's IPO Tracking System?
 
-In the future, the DTC's IPO Tracking System might get better by adding new features that make it easier to use. One idea is to use more technology, like artificial intelligence, to help catch mistakes and make sure all the information is correct. This could make the IPO process faster and more reliable. Another possible change is to make the system easier to use on mobile devices, so people can keep track of things even when they're not at their desk. This would be really helpful for busy professionals who need to stay updated on the go.
+In the future, the DTC's IPO Tracking System might get better by adding new features that make it easier to use. One idea is to use more technology, like [artificial intelligence](/wiki/ai-artificial-intelligence), to help catch mistakes and make sure all the information is correct. This could make the IPO process faster and more reliable. Another possible change is to make the system easier to use on mobile devices, so people can keep track of things even when they're not at their desk. This would be really helpful for busy professionals who need to stay updated on the go.
 
 Also, the DTC might work on making the system work even better with other financial systems. This means the IPO Tracking System could share information more quickly and smoothly with trading platforms and money management systems. By doing this, the DTC can help make the whole IPO process more efficient and trustworthy. These improvements would make it easier for companies to go public and for investors to buy stocks during an IPO.
 

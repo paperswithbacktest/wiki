@@ -60,7 +60,7 @@ Another big part of regulation in continuous trading is making sure that the tec
 
 ## How does liquidity impact continuous trading?
 
-Liquidity is really important in continuous trading. It means how easy it is to buy or sell a stock without changing its price too much. When there's a lot of liquidity, it's easier for investors to trade because there are more buyers and sellers. This means you can quickly buy or sell a stock at a fair price. In a continuous trading environment, good liquidity helps keep the market active and makes it easier for everyone to trade whenever they want.
+Liquidity is really important in continuous trading. It means how easy it is to buy or sell a stock without changing its price too much. When there's a lot of [liquidity](/wiki/liquidity-risk-premium), it's easier for investors to trade because there are more buyers and sellers. This means you can quickly buy or sell a stock at a fair price. In a continuous trading environment, good liquidity helps keep the market active and makes it easier for everyone to trade whenever they want.
 
 On the other hand, if there's not much liquidity, it can be harder to trade. You might have to wait longer to find someone to trade with, and the price of the stock might change a lot when you finally make a trade. This can be frustrating and risky for investors. In continuous trading, having enough liquidity is key to making sure the market works well and that people can trade smoothly all day long.
 
@@ -78,7 +78,7 @@ For example, if there's a big economic report from another country, traders in a
 
 ## What future trends might affect the development of continuous trading?
 
-In the future, technology will play a big role in how continuous trading develops. As computers get faster and smarter, trading platforms will become even better at handling lots of trades quickly. This could mean that trading happens even faster and more smoothly. Also, new technologies like artificial intelligence might help traders make better decisions by analyzing lots of data and spotting trends. This could make the market more efficient and help people trade more effectively.
+In the future, technology will play a big role in how continuous trading develops. As computers get faster and smarter, trading platforms will become even better at handling lots of trades quickly. This could mean that trading happens even faster and more smoothly. Also, new technologies like [artificial intelligence](/wiki/ai-artificial-intelligence) might help traders make better decisions by analyzing lots of data and spotting trends. This could make the market more efficient and help people trade more effectively.
 
 Another trend that might affect continuous trading is the growth of global markets. As more countries join the world economy, there will be more opportunities to trade stocks from different places. This could make the market busier and more exciting, with more chances to make money. But it also means traders will need to keep up with news and events from all over the world, which can be challenging. Overall, these trends could make continuous trading even more important and dynamic in the future.
 

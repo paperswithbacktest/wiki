@@ -65,7 +65,7 @@ For ADRs, the tax situation is a bit simpler because you're dealing mostly with 
 
 ## How do the liquidity levels of GDRs compare to those of ADRs?
 
-The liquidity of GDRs can vary a lot because they are traded on many different stock exchanges around the world. If a GDR is popular and traded a lot on one exchange, it might be easy to buy and sell it there. But if it's not traded as much on another exchange, it could be harder to find someone to trade with. This means that the ease of buying and selling GDRs can depend on which exchange you're using and how popular the GDR is in that market.
+The [liquidity](/wiki/liquidity-risk-premium) of GDRs can vary a lot because they are traded on many different stock exchanges around the world. If a GDR is popular and traded a lot on one exchange, it might be easy to buy and sell it there. But if it's not traded as much on another exchange, it could be harder to find someone to trade with. This means that the ease of buying and selling GDRs can depend on which exchange you're using and how popular the GDR is in that market.
 
 ADRs, on the other hand, are only traded on U.S. stock exchanges, so their liquidity is more straightforward. If an ADR is listed on a major U.S. exchange like the NYSE or NASDAQ, it's usually easier to buy and sell because there are a lot of investors in the U.S. market. This can make ADRs more liquid compared to GDRs, especially if the GDR is not as popular on the exchanges where it's traded.
 

@@ -85,7 +85,7 @@ Another way to use the Coinbase API with other services is to connect it to a no
 
 Integrating the Coinbase API into trading strategies requires a strategic approach and technical expertise to harness its full potential. The first step involves a clear understanding of your trading objectives and how the API's functionalities align with these goals. By knowing what you aim to achieve—be it maximizing profits, minimizing losses, or simply maintaining a balanced portfolio—you can tailor your strategy accordingly.
 
-One popular method of utilizing the Coinbase API is the creation of trading bots. These bots can operate based on various market signals and conditions, including technical indicators, market trends, or opportunities for arbitrage. For instance, a simple moving average (SMA) crossover strategy could be implemented using Python to automate trades:
+One popular method of utilizing the Coinbase API is the creation of trading bots. These bots can operate based on various market signals and conditions, including technical indicators, market trends, or opportunities for [arbitrage](/wiki/arbitrage). For instance, a simple moving average (SMA) crossover strategy could be implemented using Python to automate trades:
 
 ```python
 import pandas as pd
@@ -115,7 +115,7 @@ signals['signal'][short_window:] = \
 signals['positions'] = signals['signal'].diff()
 ```
 
-Backtesting forms an essential component of algorithmic trading strategies with the Coinbase API. By rigorously testing trading algorithms against historical data, traders can assess the viability and potential profitability of their strategies before live deployment. This process helps in fine-tuning the strategy parameters and understanding potential pitfalls.
+Backtesting forms an essential component of [algorithmic trading](/wiki/algorithmic-trading) strategies with the Coinbase API. By rigorously testing trading algorithms against historical data, traders can assess the viability and potential profitability of their strategies before live deployment. This process helps in fine-tuning the strategy parameters and understanding potential pitfalls.
 
 Integration of the Coinbase API also demands attention to security and compliance with relevant trading regulations. APIs, by their nature, involve data exchange between systems, making them susceptible to security vulnerabilities. Therefore, implementing robust security measures, such as encryption and secure key storage, is necessary to safeguard sensitive information. Moreover, aligning with compliance requirements not only protects against regulatory breaches but also ensures the reliable functioning of the trading system.
 

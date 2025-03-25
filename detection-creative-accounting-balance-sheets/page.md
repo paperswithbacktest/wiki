@@ -68,7 +68,7 @@ Besides legal problems, creative accounting is also not right ethically. It's wr
 
 Advanced data analytics tools help a lot in spotting creative accounting. These tools can look at huge amounts of data quickly and find patterns that might show a company is using tricks with their numbers. For example, they can compare a company's financial reports over time or with other companies in the same industry. If something looks off, like profits that are always smooth or numbers that seem too good to be true, the tools can flag it for a closer look. This helps auditors and analysts find signs of creative accounting faster and easier than if they were just looking at the numbers by hand.
 
-These tools also use fancy math and machine learning to spot things that might not be easy to see. They can check if a company's financial ratios are weird or if their cash flow doesn't match their reported profits. By doing this, they can help make sure a company's financial reports are honest and clear. Using advanced data analytics tools makes it harder for companies to hide creative accounting tricks, which is good for everyone who needs to trust those financial reports.
+These tools also use fancy math and [machine learning](/wiki/machine-learning) to spot things that might not be easy to see. They can check if a company's financial ratios are weird or if their cash flow doesn't match their reported profits. By doing this, they can help make sure a company's financial reports are honest and clear. Using advanced data analytics tools makes it harder for companies to hide creative accounting tricks, which is good for everyone who needs to trust those financial reports.
 
 ## What are the challenges faced by auditors in detecting creative accounting?
 
@@ -84,7 +84,7 @@ These models also use advanced math to understand how different parts of a compa
 
 ## References & Further Reading
 
-Rosenbaum, P., & Pearl, J. (2010). *Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies*. This book offers an in-depth analysis of algorithmic trading, providing insights into how direct market access (DMA) is changing the landscape of trading. It serves as a valuable resource for understanding the technical and operational aspects of executing trades electronically, which is fundamental for those looking to integrate algorithmic trading with financial analysis.
+Rosenbaum, P., & Pearl, J. (2010). *Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies*. This book offers an in-depth analysis of [algorithmic trading](/wiki/algorithmic-trading), providing insights into how direct market access (DMA) is changing the landscape of trading. It serves as a valuable resource for understanding the technical and operational aspects of executing trades electronically, which is fundamental for those looking to integrate algorithmic trading with financial analysis.
 
 Penman, S. (2012). *Financial Statement Analysis and Security Valuation*. Penman’s work is a comprehensive resource that emphasizes the interpretation of financial statements to evaluate the true value of companies. This book aids investors in performing nuanced balance sheet analyses, contributing to more informed decision-making processes, crucial for assessing financial health in algorithmic trading strategies.
 

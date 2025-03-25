@@ -22,7 +22,7 @@ Another difference is how the loans are paid back. With a construction loan note
 
 ## What are the key components of a construction loan note?
 
-A construction loan note has several important parts. One key part is the draw schedule, which shows how the money will be given out during the building process. The lender will check the work at each stage and release money for the next part of the project. Another important part is the interest rate, which can be fixed or change over time. This rate affects how much the builder has to pay back. The loan also includes terms about how long the construction should take and what happens if it goes over that time.
+A construction loan note has several important parts. One key part is the draw schedule, which shows how the money will be given out during the building process. The lender will check the work at each stage and release money for the next part of the project. Another important part is the [interest rate](/wiki/interest-rate-trading-strategies), which can be fixed or change over time. This rate affects how much the builder has to pay back. The loan also includes terms about how long the construction should take and what happens if it goes over that time.
 
 Another key component is the conversion clause, which explains how the construction loan will turn into a permanent loan once the building is finished. This is important because it shows the builder how the loan will change after construction. The loan also includes a budget that shows how the money will be used for different parts of the project. This helps keep the project on track and within the planned costs. Together, these parts make up the construction loan note and help manage the building process from start to finish.
 

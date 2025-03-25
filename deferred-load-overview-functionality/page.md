@@ -18,7 +18,7 @@ This method helps because it reduces the amount of data that needs to be loaded 
 
 Deferred loading is important in web development because it helps make websites faster and more enjoyable for users. When a website uses deferred loading, it only loads the parts of the page that you need right away. This means that if you're visiting a site with a lot of images or videos, you won't have to wait for all of them to load before you can start using the page. Instead, the site will load the content you can see first, making it feel quicker and more responsive.
 
-This approach is especially helpful for people with slower internet connections. If a website tries to load everything at once, it can take a long time, and users might get frustrated and leave. By using deferred loading, the website can show the most important parts first, keeping users engaged while the rest of the content loads in the background. This not only improves the user experience but can also help the website perform better in search engine rankings, as speed is an important factor in how websites are ranked.
+This approach is especially helpful for people with slower internet connections. If a website tries to load everything at once, it can take a long time, and users might get frustrated and leave. By using deferred loading, the website can show the most important parts first, keeping users engaged while the rest of the content loads in the background. This not only improves the user experience but can also help the website perform better in search engine rankings, as speed is an important [factor](/wiki/factor-investing) in how websites are ranked.
 
 ## How does deferred loading improve website performance?
 

@@ -34,7 +34,7 @@ Mutual funds are generally considered less risky than individual stocks. This is
 
 Individual stocks can be riskier because you're betting on just one company. If that company does well, you can make a lot of money. But if it does poorly, you could lose a lot too. It's like putting all your eggs in one basket. Picking the right stocks takes a lot of research and can be hard, so it's riskier than letting a mutual fund manager pick a mix of investments for you.
 
-In the end, mutual funds offer a safer way to invest because they spread the risk, while individual stocks can offer bigger rewards but also come with bigger risks. It all depends on how much risk you're willing to take and how much time you want to spend picking investments.
+In the end, mutual funds offer a safer way to invest because they spread the risk, while individual stocks can offer bigger rewards but also come with bigger risks. It all depends on how much risk you're willing to take and how much time you want to spend [picking](/wiki/asset-class-picking) investments.
 
 ## What are the potential returns from investing in mutual funds versus individual stocks?
 

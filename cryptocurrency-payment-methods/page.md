@@ -18,7 +18,7 @@ When you use cryptocurrency to pay for something, you send the money from your d
 
 The most popular cryptocurrency for payments is Bitcoin. It's been around since 2009 and many online shops and services accept it. When you pay with Bitcoin, the payment is quick and you don't need to share your personal information like you do with credit cards. This makes it good for buying things online, especially if you want to keep your identity private.
 
-Another popular one is Ethereum. It's not just a cryptocurrency, but also a platform where you can create and run special programs called smart contracts. These can be used for all sorts of things, like buying and selling digital art or managing agreements. Some shops and services accept Ethereum as payment, and it's growing in popularity because of its extra features.
+Another popular one is Ethereum. It's not just a [cryptocurrency](/wiki/cryptocurrency), but also a platform where you can create and run special programs called smart contracts. These can be used for all sorts of things, like buying and selling digital art or managing agreements. Some shops and services accept Ethereum as payment, and it's growing in popularity because of its extra features.
 
 Litecoin is also used for payments. It's similar to Bitcoin but it processes transactions faster and with lower fees. This makes it a good choice for everyday purchases. While it's not as widely accepted as Bitcoin or Ethereum, it's still used by many online sellers and is a good option for those looking for quick and cheap payments.
 

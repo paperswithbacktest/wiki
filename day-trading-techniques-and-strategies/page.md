@@ -18,7 +18,7 @@ Day trading is different from other trading styles like swing trading and long-t
 
 To start day trading, you need a few basic things. First, you need enough money. Many brokers require a minimum amount of money to open a trading account, often around $25,000 if you want to be considered a pattern day trader in the U.S. You also need a computer or a smartphone with a good internet connection to access trading platforms and stay updated on market news.
 
-Second, you need to choose a reliable broker. A broker is a company that lets you buy and sell financial products. Make sure to pick one that has low fees and good tools for day trading. You also need to learn about the markets you want to trade in. This means understanding how stocks, currencies, or other financial products work and keeping up with news that can affect their prices.
+Second, you need to choose a reliable broker. A broker is a company that lets you buy and sell financial products. Make sure to pick one that has low fees and good tools for [day trading](/wiki/day-trading-spy). You also need to learn about the markets you want to trade in. This means understanding how stocks, currencies, or other financial products work and keeping up with news that can affect their prices.
 
 Lastly, you need to have a trading plan and the right mindset. A trading plan helps you decide when to buy and sell, and how much money you are willing to risk. Day trading can be stressful and risky, so it's important to stay calm and stick to your plan. It's also a good idea to practice with a demo account before using real money, to get a feel for how trading works.
 
@@ -26,7 +26,7 @@ Lastly, you need to have a trading plan and the right mindset. A trading plan he
 
 One common day trading strategy for beginners is the "Breakout" strategy. This means watching a stock's price to see if it moves above or below a certain level, called a resistance or support level. When the price breaks out of this range, it often keeps moving in that direction. A beginner can buy when the price breaks above resistance and sell when it breaks below support. It's important to set stop-loss orders to limit losses if the price moves against the trade.
 
-Another strategy is "Momentum Trading." This involves looking for stocks that are moving quickly in one direction. If a stock's price is going up fast, a beginner might buy it, hoping to sell it later at a higher price. The key is to get in and out of the trade quickly to take advantage of the momentum. Again, using stop-loss orders helps to manage risk if the price suddenly changes direction.
+Another strategy is "Momentum Trading." This involves looking for stocks that are moving quickly in one direction. If a stock's price is going up fast, a beginner might buy it, hoping to sell it later at a higher price. The key is to get in and out of the trade quickly to take advantage of the [momentum](/wiki/momentum). Again, using stop-loss orders helps to manage risk if the price suddenly changes direction.
 
 Lastly, "Scalping" is a strategy where beginners aim to make small profits from tiny price changes. Traders might buy and sell the same stock many times in a day, making a little money each time. This requires quick decisions and close attention to the market. Like the other strategies, using stop-loss orders is crucial to protect against big losses.
 
@@ -34,7 +34,7 @@ Lastly, "Scalping" is a strategy where beginners aim to make small profits from 
 
 The best times of day to trade are usually when the markets are most active. For stocks, this is often right after the market opens at 9:30 AM Eastern Time and just before it closes at 4:00 PM Eastern Time. During these times, more people are buying and selling, which can lead to bigger price moves. It's good to pay attention to the first hour of trading because that's when a lot of news and reactions to news happen, making prices move a lot.
 
-For forex trading, the best times are when multiple major markets are open at the same time. This happens during the overlap of the London and New York sessions, from about 8:00 AM to 12:00 PM Eastern Time. During this period, there's a lot of trading happening, which can create good opportunities for making money. It's also a good idea to watch out for times when important economic reports are released, as these can cause big price changes.
+For [forex](/wiki/forex-system) trading, the best times are when multiple major markets are open at the same time. This happens during the overlap of the London and New York sessions, from about 8:00 AM to 12:00 PM Eastern Time. During this period, there's a lot of trading happening, which can create good opportunities for making money. It's also a good idea to watch out for times when important economic reports are released, as these can cause big price changes.
 
 In general, the key is to trade when there's a lot of activity. This is when you're more likely to see the price movements you need to make money. But remember, trading during busy times can also be riskier, so always use stop-loss orders to protect your money.
 
@@ -42,7 +42,7 @@ In general, the key is to trade when there's a lot of activity. This is when you
 
 In day trading, some common technical indicators help traders make decisions. One popular indicator is the Moving Average, which shows the average price of a stock over a certain time period. Traders use short-term and long-term moving averages to spot trends. If a short-term moving average crosses above a long-term one, it might be a good time to buy. If it crosses below, it might be a good time to sell. Another useful indicator is the Relative Strength Index (RSI), which measures how fast prices are moving up or down. If the RSI is over 70, the stock might be overbought and due for a price drop. If it's under 30, the stock might be oversold and ready for a price increase.
 
-Another key indicator is the Bollinger Bands, which show the highest and lowest prices a stock has reached recently. The bands get wider when prices are moving a lot and narrower when they're not moving much. Traders look for the price to touch the upper band as a sign to sell and the lower band as a sign to buy. The Volume indicator is also important because it shows how many shares are being traded. High volume can mean a strong trend, while low volume might mean the trend is weak. By using these indicators together, day traders can make better guesses about when to buy and sell.
+Another key indicator is the Bollinger Bands, which show the highest and lowest prices a stock has reached recently. The bands get wider when prices are moving a lot and narrower when they're not moving much. Traders look for the price to touch the upper band as a sign to sell and the lower band as a sign to buy. The Volume indicator is also important because it shows how many shares are being traded. High [volume](/wiki/volume-trading-strategy) can mean a strong trend, while low volume might mean the trend is weak. By using these indicators together, day traders can make better guesses about when to buy and sell.
 
 ## How does one manage risk effectively in day trading?
 
@@ -68,7 +68,7 @@ The big risk with leverage is that it can make your losses much bigger. If the s
 
 Day traders need to be aware of their emotions, like fear and greed. Fear can make them sell their stocks too soon, even if the price might go up later. Greed can make them hold onto stocks too long, hoping for even bigger profits, which can lead to big losses if the price suddenly drops. It's important for day traders to stick to their trading plan and not let these emotions control their decisions. One way to do this is by setting clear rules for when to buy and sell and sticking to them, no matter what their emotions are telling them.
 
-Another psychological factor is the need for discipline. Day trading can be exciting, but it's also a lot of work. Traders need to be disciplined enough to spend time learning about the market, watching their trades, and sticking to their plan. It's easy to get lazy or distracted, but that can lead to bad decisions and losses. Having a routine and setting goals can help traders stay disciplined and focused on their trading.
+Another psychological [factor](/wiki/factor-investing) is the need for discipline. Day trading can be exciting, but it's also a lot of work. Traders need to be disciplined enough to spend time learning about the market, watching their trades, and sticking to their plan. It's easy to get lazy or distracted, but that can lead to bad decisions and losses. Having a routine and setting goals can help traders stay disciplined and focused on their trading.
 
 ## How do market trends and news affect day trading decisions?
 

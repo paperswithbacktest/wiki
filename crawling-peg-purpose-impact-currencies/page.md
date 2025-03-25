@@ -40,7 +40,7 @@ Another advantage is that a crawling peg can help control inflation. If a countr
 
 ## What are the potential disadvantages or risks associated with a crawling peg?
 
-One risk of using a crawling peg is that it can be hard to predict how the economy will change. If the central bank doesn't adjust the money's value just right, it might still cause problems. For example, if they change it too slowly, the money might get too strong or too weak, which can mess up prices and make it hard for businesses to plan. It's like trying to keep a boat steady in changing waves; if you don't move the steering wheel at the right time, you might end up going off course.
+One risk of using a crawling peg is that it can be hard to predict how the economy will change. If the central bank doesn't adjust the money's value just right, it might still cause problems. For example, if they change it too slowly, the money might get too strong or too weak, which can mess up prices and make it hard for businesses to plan. It's like trying to keep a boat steady in changing waves; if you don't move the steering wheel at the right time, you might end up going off [course](/wiki/best-algorithmic-trading-courses).
 
 Another disadvantage is that a crawling peg can make people and businesses less confident. If they see the money's value always changing, even if it's slow, they might not trust it as much. This can lead to less investment in the country because people might think the money isn't stable. It's like if you're playing a game where the rules keep changing a little bit; you might not want to play as much because you're not sure what will happen next.
 

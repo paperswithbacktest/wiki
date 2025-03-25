@@ -72,7 +72,7 @@ Another example is Johnson & Johnson, a big name in the healthcare industry. The
 
 Defensive stocks should be a key part of a diversified investment portfolio because they help keep your money safe during bad economic times. These stocks come from companies that sell things people always need, like food, medicine, and electricity. By having some defensive stocks in your portfolio, you can protect your money when the economy is struggling. This is because these companies keep making money even when times are tough, so their stock prices don't drop as much as other stocks might.
 
-You can balance your portfolio by mixing defensive stocks with other types of investments. For example, you might also invest in growth stocks, which can make a lot of money when the economy is doing well, or in bonds, which are another safe investment. By having a mix of different investments, you can take advantage of good economic times while still having some protection during the bad times. This way, your portfolio can be more stable and better able to handle whatever the economy throws at it.
+You can balance your portfolio by mixing defensive stocks with other types of investments. For example, you might also invest in [growth stocks](/wiki/growth-stocks), which can make a lot of money when the economy is doing well, or in bonds, which are another safe investment. By having a mix of different investments, you can take advantage of good economic times while still having some protection during the bad times. This way, your portfolio can be more stable and better able to handle whatever the economy throws at it.
 
 ## What are some advanced strategies for investing in defensive stocks?
 

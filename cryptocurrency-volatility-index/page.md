@@ -18,7 +18,7 @@ There are many different kinds of cryptocurrencies, but the most famous one is B
 
 Volatility in financial markets means how much and how quickly the prices of things like stocks, bonds, or cryptocurrencies go up and down. If something is very volatile, its price can change a lot in a short time. This can be exciting but also risky because you might lose money if the price goes down suddenly.
 
-For example, if you own a stock and its price jumps around a lot every day, that stock is volatile. People often watch volatility to decide if they want to buy or sell something. High volatility can mean more chances to make money, but it also means more chances to lose money. So, it's important to understand volatility when you're thinking about investing.
+For example, if you own a stock and its price jumps around a lot every day, that stock is volatile. People often watch [volatility](/wiki/volatility-trading-strategies) to decide if they want to buy or sell something. High volatility can mean more chances to make money, but it also means more chances to lose money. So, it's important to understand volatility when you're thinking about investing.
 
 ## How is the Cryptocurrency Volatility Index defined?
 
@@ -28,9 +28,9 @@ This index is important for people who invest in cryptocurrencies because it hel
 
 ## What factors contribute to the volatility of cryptocurrencies?
 
-One big reason why cryptocurrencies can be so up and down is because they are still new and not as many people use them as regular money. Since there aren't as many people buying and selling them, even small changes can make their prices jump around a lot. Also, because cryptocurrencies are not controlled by banks or governments, they can be affected by what people think and say about them. If a famous person says something good or bad about a cryptocurrency, its price can change a lot very quickly.
+One big reason why cryptocurrencies can be so up and down is because they are still new and not as many people use them as regular money. Since there aren't as many people buying and selling them, even small changes can make their prices jump around a lot. Also, because cryptocurrencies are not controlled by banks or governments, they can be affected by what people think and say about them. If a famous person says something good or bad about a [cryptocurrency](/wiki/cryptocurrency), its price can change a lot very quickly.
 
-Another factor is that cryptocurrencies are traded all over the world, all the time. This means they can be affected by news and events happening anywhere, at any time. For example, if a country decides to make new rules about cryptocurrencies, it can cause their prices to go up or down. Plus, since cryptocurrencies are digital, they can be affected by things like hacking or technical problems, which can also make their prices more volatile.
+Another [factor](/wiki/factor-investing) is that cryptocurrencies are traded all over the world, all the time. This means they can be affected by news and events happening anywhere, at any time. For example, if a country decides to make new rules about cryptocurrencies, it can cause their prices to go up or down. Plus, since cryptocurrencies are digital, they can be affected by things like hacking or technical problems, which can also make their prices more volatile.
 
 ## How is the Cryptocurrency Volatility Index calculated?
 

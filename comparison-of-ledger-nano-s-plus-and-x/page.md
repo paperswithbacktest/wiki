@@ -18,7 +18,7 @@ In terms of price, the Ledger Nano X is more expensive than the Ledger Nano S Pl
 
 ## How do the physical designs of Ledger Nano S Plus and Ledger Nano X compare?
 
-The Ledger Nano S Plus and Ledger Nano X have different physical designs, but they are both small and easy to carry. The Ledger Nano S Plus is a bit smaller and thinner than the Ledger Nano X. It has a small screen and two buttons on the front, which you use to navigate and confirm actions. The design is simple and looks a lot like the original Ledger Nano S, but it's a bit longer and has a bigger screen.
+The Ledger Nano S Plus and Ledger Nano X have different physical designs, but they are both small and easy to [carry](/wiki/carry-trading). The Ledger Nano S Plus is a bit smaller and thinner than the Ledger Nano X. It has a small screen and two buttons on the front, which you use to navigate and confirm actions. The design is simple and looks a lot like the original Ledger Nano S, but it's a bit longer and has a bigger screen.
 
 The Ledger Nano X, on the other hand, is a bit bigger and thicker. It also has a small screen and two buttons on the front, but the screen is slightly larger than the one on the Ledger Nano S Plus. The Ledger Nano X has a more modern look with a rounded shape and a different button layout. Both devices are made to be durable and secure, but the Ledger Nano X feels a bit more premium because of its larger size and design.
 

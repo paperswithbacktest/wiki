@@ -42,7 +42,7 @@ Central banks, like the Federal Reserve in the United States, can change interes
 
 ## What is the difference between secured and unsecured credit?
 
-Secured credit is when a borrower gives something valuable, like a house or a car, to the lender as a promise. This thing is called collateral. If the borrower can't pay back the loan, the lender can take the collateral. Because the lender has this safety net, they might give the borrower a lower interest rate. Secured credit is often used for big loans, like mortgages for buying a house or auto loans for buying a car.
+Secured credit is when a borrower gives something valuable, like a house or a car, to the lender as a promise. This thing is called collateral. If the borrower can't pay back the loan, the lender can take the collateral. Because the lender has this safety net, they might give the borrower a lower [interest rate](/wiki/interest-rate-trading-strategies). Secured credit is often used for big loans, like mortgages for buying a house or auto loans for buying a car.
 
 Unsecured credit is when the borrower doesn't give any collateral. The lender gives the money based only on the borrower's promise to pay it back. Because it's riskier for the lender, they might charge a higher interest rate. Credit cards and personal loans are common examples of unsecured credit. If the borrower can't pay back an unsecured loan, the lender can't take anything specific, but they can try to get the money through other ways, like going to court.
 

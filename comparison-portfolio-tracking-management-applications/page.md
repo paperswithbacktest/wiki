@@ -22,7 +22,7 @@ When looking for a good portfolio tracking app, you should first focus on how ea
 
 Another important feature is the ability to get detailed reports and analysis. The app should show you how your investments are doing over time, including graphs and charts that make it easy to understand. It should also let you compare your investments to different market benchmarks so you can see if you are doing better or worse than the market. Some apps even give you advice on what to buy or sell based on your goals and how much risk you are willing to take.
 
-Lastly, consider the app's security and support features. It's important that the app keeps your information safe with strong security measures like encryption and two-factor authentication. You should also be able to reach customer support easily if you have any questions or problems. A good app will have a help center with lots of information and quick ways to get in touch with support staff.
+Lastly, consider the app's security and support features. It's important that the app keeps your information safe with strong security measures like encryption and two-[factor](/wiki/factor-investing) authentication. You should also be able to reach customer support easily if you have any questions or problems. A good app will have a help center with lots of information and quick ways to get in touch with support staff.
 
 ## How do different portfolio management apps handle data import and export?
 
@@ -84,7 +84,7 @@ These apps also provide reports that can help with planning and decision-making.
 
 Portfolio management apps help people who have investments in different countries and currencies. Many apps let you track your investments no matter where they are. They show you how much your investments are worth in different currencies, which can be really helpful if you have money in places like the US, Europe, or Asia. Some apps, like Personal Capital, let you see your portfolio in your home currency, so you can easily understand how much your international investments are worth to you.
 
-These apps also help you manage the risks that come with investing in different countries. They can show you how changes in currency values might affect your investments. For example, if the US dollar gets stronger, your investments in Europe might be worth less in dollars. Apps like E*TRADE and Interactive Brokers are good at this, giving you tools to see how currency changes could impact your portfolio. This helps you make better decisions about where to put your money around the world.
+These apps also help you manage the risks that come with investing in different countries. They can show you how changes in currency values might affect your investments. For example, if the US dollar gets stronger, your investments in Europe might be worth less in dollars. Apps like E*TRADE and [Interactive Brokers](/wiki/interactive-brokers-api) are good at this, giving you tools to see how currency changes could impact your portfolio. This helps you make better decisions about where to put your money around the world.
 
 ## What are the community and expert reviews saying about the reliability and performance of these apps?
 

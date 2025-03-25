@@ -40,7 +40,7 @@ Capital goods, on the other hand, are things that businesses buy to help them ma
 
 ## What role do consumer goods play in the economy?
 
-Consumer goods are very important for the economy. When people buy things like food, clothes, and toys, they help businesses make money. This money helps businesses grow and hire more people. When more people have jobs, they can buy more things, which keeps the economy going. So, consumer goods help keep the cycle of spending and earning strong.
+Consumer goods are very important for the economy. When people buy things like food, clothes, and toys, they help businesses make money. This money helps businesses grow and hire more people. When more people have jobs, they can buy more things, which keeps the economy going. So, consumer goods help keep the cycle of spending and [earning](/wiki/earning-announcement) strong.
 
 Consumer goods also help measure how well the economy is doing. If people are buying a lot of things, it usually means they feel good about their money and the future. This is called consumer confidence. When consumer confidence is high, it can make the whole economy grow. But if people stop buying things, it might mean they are worried about their money, and this can slow down the economy. So, watching what people buy helps us understand the health of the economy.
 

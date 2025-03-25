@@ -22,7 +22,7 @@ Another big difference is how you use them. With traditional currency, you can u
 
 ## What was the first cryptocurrency and when was it created?
 
-The first cryptocurrency was Bitcoin. It was created in 2009 by someone using the name Satoshi Nakamoto. No one knows for sure who Satoshi Nakamoto really is, but they made a big change in the world of money.
+The first [cryptocurrency](/wiki/cryptocurrency) was Bitcoin. It was created in 2009 by someone using the name Satoshi Nakamoto. No one knows for sure who Satoshi Nakamoto really is, but they made a big change in the world of money.
 
 Bitcoin was made to be a new kind of money that people could use without banks or governments controlling it. It uses a special technology called blockchain to keep track of all the money moving around. This was a new idea and it started the whole world of cryptocurrencies.
 
@@ -54,7 +54,7 @@ Another way to get cryptocurrencies is by mining them. Mining is like solving pu
 
 ## What are the risks associated with investing in cryptocurrencies?
 
-Investing in cryptocurrencies can be risky because their value can go up and down a lot. One day, a cryptocurrency might be worth a lot of money, and the next day, it might be worth much less. This is called volatility, and it can make investing in cryptocurrencies very unpredictable. If you buy a cryptocurrency and its value goes down, you could lose money. This is different from traditional investments like stocks or savings accounts, which usually don't change in value as quickly.
+Investing in cryptocurrencies can be risky because their value can go up and down a lot. One day, a cryptocurrency might be worth a lot of money, and the next day, it might be worth much less. This is called [volatility](/wiki/volatility-trading-strategies), and it can make investing in cryptocurrencies very unpredictable. If you buy a cryptocurrency and its value goes down, you could lose money. This is different from traditional investments like stocks or savings accounts, which usually don't change in value as quickly.
 
 Another risk is that cryptocurrencies are not controlled by banks or governments. This means there's no one to help if something goes wrong. If you lose your digital wallet or if someone steals your cryptocurrencies, it can be hard to get them back. Also, some people use cryptocurrencies for illegal activities, which can make them less safe to use. It's important to be careful and do a lot of research before investing in cryptocurrencies because of these risks.
 

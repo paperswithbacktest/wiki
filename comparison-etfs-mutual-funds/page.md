@@ -30,7 +30,7 @@ Lastly, ETFs and mutual funds also differ in terms of minimum investment require
 
 ## How do the costs of ETFs compare to mutual funds?
 
-ETFs generally have lower costs than mutual funds. The main reason is that ETFs usually track an index, like the S&P 500, and don't need a lot of active management. This means they have lower expense ratios, which are the annual fees you pay to own the fund. For example, an ETF might have an expense ratio of 0.05% to 0.20%, while a mutual fund's expense ratio can be 0.50% to 1.50% or more. Lower costs can make a big difference over time because they eat into your returns less.
+ETFs generally have lower costs than mutual funds. The main reason is that ETFs usually track an index, like the S&P 500, and don't need a lot of active management. This means they have lower expense ratios, which are the annual fees you pay to own the fund. For example, an [ETF](/wiki/etf-trading-strategies) might have an expense ratio of 0.05% to 0.20%, while a mutual fund's expense ratio can be 0.50% to 1.50% or more. Lower costs can make a big difference over time because they eat into your returns less.
 
 Mutual funds often have higher costs because they are actively managed by professionals who try to pick the best investments to beat the market. This active management requires more work and research, which is why mutual funds charge higher fees. Besides the expense ratio, mutual funds can also have other costs like sales loads or redemption fees, which are less common with ETFs. So, if you're looking to keep your investment costs down, ETFs might be a better choice.
 

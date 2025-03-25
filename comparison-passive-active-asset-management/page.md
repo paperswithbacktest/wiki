@@ -18,7 +18,7 @@ People like passive asset management because it's easy and usually cheaper than 
 
 Active asset management is when someone, usually a professional, tries to beat the market by picking specific stocks or other investments. They think they can do better than just following an index like the S&P 500. They look at a lot of information about companies, the economy, and other things to decide what to buy and sell. This means they trade more often, trying to get the best returns they can.
 
-This kind of management can be more expensive because you're paying for someone's time and expertise. Also, it can be riskier because if the person picking the investments makes bad choices, you might not do as well as the market. But if they make good choices, you could end up with higher returns than if you just followed an index. It's a bit like betting on a skilled player in a game, hoping they'll win big.
+This kind of management can be more expensive because you're paying for someone's time and expertise. Also, it can be riskier because if the person [picking](/wiki/asset-class-picking) the investments makes bad choices, you might not do as well as the market. But if they make good choices, you could end up with higher returns than if you just followed an index. It's a bit like betting on a skilled player in a game, hoping they'll win big.
 
 ## How do passive and active asset management strategies differ?
 
@@ -72,7 +72,7 @@ For active management, the same market indexes are often used as benchmarks, but
 
 ## How can an investor decide which strategy, passive or active, is better suited for their portfolio?
 
-Choosing between passive and active management for your portfolio depends on what you want from your investments and how much risk you're okay with. If you want a simple, low-cost way to invest and grow your money over time, passive management might be the best choice for you. Passive funds try to match the performance of a market index, like the S&P 500, which means they don't need to pay a lot for managers to pick stocks. This keeps costs down and makes it easier to predict how your investments will do over the long term. If you're happy with earning the same returns as the market, passive management can be a good fit.
+Choosing between passive and active management for your portfolio depends on what you want from your investments and how much risk you're okay with. If you want a simple, low-cost way to invest and grow your money over time, passive management might be the best choice for you. Passive funds try to match the performance of a market index, like the S&P 500, which means they don't need to pay a lot for managers to pick stocks. This keeps costs down and makes it easier to predict how your investments will do over the long term. If you're happy with [earning](/wiki/earning-announcement) the same returns as the market, passive management can be a good fit.
 
 On the other hand, if you think you can beat the market and are willing to take more risk, active management might be better for you. Active managers try to pick the best stocks to do better than the market. This can lead to higher returns if they make good choices, but it's also riskier because they might not always pick the right stocks. Active management can be more expensive because you're paying for the manager's time and expertise. So, if you believe in the skill of a particular manager and are okay with the extra costs and risks, active management could be the way to go.
 

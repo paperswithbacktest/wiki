@@ -80,7 +80,7 @@ FDI is also affected by what's happening in the world economy, but in a differen
 
 Investors can optimize returns from FPI by diversifying their investments across different countries and types of financial products. By spreading their money around, they can reduce the risk of losing a lot if one market goes down. They can also use tools like stop-loss orders to limit their losses if prices start to fall. Another strategy is to keep an eye on global economic news and trends, so they can move their money into markets that are doing well. This way, they can take advantage of short-term opportunities and make more money.
 
-For FDI, investors can focus on industries that are growing fast in the host country. By picking sectors like technology or renewable energy, they can be part of the country's growth and make good profits. They can also form partnerships with local businesses to learn more about the market and reduce risks. Another smart move is to reinvest the profits back into the business to make it grow even more. This long-term approach can lead to bigger returns over time as the business becomes more successful.
+For FDI, investors can focus on industries that are growing fast in the host country. By [picking](/wiki/asset-class-picking) sectors like technology or renewable energy, they can be part of the country's growth and make good profits. They can also form partnerships with local businesses to learn more about the market and reduce risks. Another smart move is to reinvest the profits back into the business to make it grow even more. This long-term approach can lead to bigger returns over time as the business becomes more successful.
 
 ## References & Further Reading
 

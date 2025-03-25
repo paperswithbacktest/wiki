@@ -18,7 +18,7 @@ This teamwork makes it more likely for miners to earn rewards more often, even i
 
 A mining pool works by bringing together a group of miners who share their computer power to solve the math problems needed to mine new cryptocurrency. Instead of trying to solve these problems alone, which can be really hard and take a long time, miners in a pool work together. Each miner in the pool uses their computer to try and solve part of the problem. When someone in the pool solves it, the whole pool gets a reward, which is then split among all the miners based on how much work each one did.
 
-The pool is managed by a pool operator who keeps track of everyone's work and makes sure the rewards are shared fairly. The operator also takes a small fee for running the pool. This teamwork makes it easier for miners to earn rewards more often, even if the amount they get each time is smaller. It's especially helpful for people who don't have a lot of powerful computers because it gives them a better chance to earn cryptocurrency.
+The pool is managed by a pool operator who keeps track of everyone's work and makes sure the rewards are shared fairly. The operator also takes a small fee for running the pool. This teamwork makes it easier for miners to earn rewards more often, even if the amount they get each time is smaller. It's especially helpful for people who don't have a lot of powerful computers because it gives them a better chance to earn [cryptocurrency](/wiki/cryptocurrency).
 
 ## What are the benefits of joining a mining pool?
 
@@ -50,7 +50,7 @@ Lastly, there's the "Full Pay Per Share" (FPPS) system, which is like PPS but al
 
 Mining pool fees are what you pay to the pool operator for running the pool and sharing out the rewards. These fees can make a big difference in how much money you keep from mining. If the fee is high, you'll get less of the reward for yourself. For example, if a pool charges a 2% fee and you earn 100 coins from mining, you'll have to give 2 coins to the pool operator, leaving you with 98 coins.
 
-Different pools have different fees, so it's important to pick one that fits your needs. A pool with a low fee might seem good at first, but if it doesn't find blocks often, you might end up earning less overall. On the other hand, a pool with a higher fee might find blocks more often, so even after paying the fee, you could end up with more coins in your pocket. It's all about finding the right balance between the fee you pay and how often you get rewards.
+Different pools have different fees, so it's important to pick one that fits your needs. A pool with a low fee might seem good at first, but if it doesn't find blocks often, you might end up [earning](/wiki/earning-announcement) less overall. On the other hand, a pool with a higher fee might find blocks more often, so even after paying the fee, you could end up with more coins in your pocket. It's all about finding the right balance between the fee you pay and how often you get rewards.
 
 ## What is pool hopping and how does it impact mining pools?
 

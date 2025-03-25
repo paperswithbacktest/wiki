@@ -54,7 +54,7 @@ A remote contingent liability is one where it's very unlikely that the company w
 
 ## How do companies assess the likelihood of a contingent liability occurring?
 
-Companies assess the likelihood of a contingent liability happening by looking at a lot of different things. They might talk to their lawyers to get their opinion on how a lawsuit might turn out. They also look at past experiences with similar situations to see how things went before. Sometimes, they use special tools or methods to guess the chances of something happening, like using statistics or making predictions based on what they know.
+Companies assess the likelihood of a contingent liability happening by looking at a lot of different things. They might talk to their lawyers to get their opinion on how a lawsuit might turn out. They also look at past experiences with similar situations to see how things went before. Sometimes, they use special tools or methods to guess the chances of something happening, like using [statistics](/wiki/bayesian-statistics) or making predictions based on what they know.
 
 After gathering all this information, companies decide if the liability is probable, reasonably possible, or remote. If it's probable, it means they think it's very likely they'll have to pay. If it's reasonably possible, it's not as sure, but there's still a chance. If it's remote, they think it's very unlikely. This helps them decide whether to write it down on their financial statements or just mention it in the notes.
 

@@ -22,7 +22,7 @@ In terms of gender, both men and women invest in penny stocks, but men tend to b
 
 ## What is the educational background of the average penny stock trader?
 
-The average penny stock trader usually has a high school education or some college experience. They might not have a degree in finance or business, but they are interested in learning about the stock market. Many of them learn about investing through online resources, books, or by talking to other traders.
+The average penny stock trader usually has a high school education or some college experience. They might not have a degree in finance or business, but they are interested in learning about the stock market. Many of them learn about investing through online resources, [books](/wiki/algo-trading-books), or by talking to other traders.
 
 Some penny stock traders do have college degrees, but these degrees can be in any field, not just related to finance. What's more important for them is their willingness to take risks and their desire to make money quickly. They often spend time researching and trying to find the best penny stocks to invest in, even if they don't have a formal education in investing.
 
@@ -36,7 +36,7 @@ In smaller towns or rural areas, fewer people might trade penny stocks. This is 
 
 Penny stock traders often want to make a lot of money quickly. They know penny stocks can go up a lot in a short time, so they hope to buy them cheap and sell them for more. This kind of fast money is exciting for them, and they are okay with taking big risks to try and win big.
 
-Another goal for many penny stock traders is to learn more about the stock market. They might not have a lot of money to start with, so penny stocks let them play the market without spending too much. As they trade, they learn how stocks work and get better at picking the right ones. This experience can help them become better investors in the future, even if they move on to other types of investments.
+Another goal for many penny stock traders is to learn more about the stock market. They might not have a lot of money to start with, so penny stocks let them play the market without spending too much. As they trade, they learn how stocks work and get better at [picking](/wiki/asset-class-picking) the right ones. This experience can help them become better investors in the future, even if they move on to other types of investments.
 
 ## How do beginners typically start trading penny stocks?
 

@@ -18,7 +18,7 @@ Overall, the CIFT project is about pushing the boundaries of what is possible wi
 
 ## What are the main objectives of the CIFT project?
 
-The main objectives of the CIFT project are to improve how we make predictions and forecasts using advanced computer techniques. The project wants to use methods like machine learning and artificial intelligence to make forecasts more accurate and reliable. This can help in areas like weather forecasting, financial predictions, and health care planning. By using these technologies, the project aims to help people make better decisions based on the forecasts.
+The main objectives of the CIFT project are to improve how we make predictions and forecasts using advanced computer techniques. The project wants to use methods like [machine learning](/wiki/machine-learning) and [artificial intelligence](/wiki/ai-artificial-intelligence) to make forecasts more accurate and reliable. This can help in areas like weather forecasting, financial predictions, and health care planning. By using these technologies, the project aims to help people make better decisions based on the forecasts.
 
 Another key objective is to develop new tools and methods that can handle large amounts of data more effectively. As more data becomes available, it becomes harder to process and analyze it quickly. The CIFT project works on creating algorithms and software that can sift through this data to find patterns and trends that might not be obvious at first. This can lead to more accurate forecasts and better insights into complex systems.
 
@@ -30,7 +30,7 @@ The key stakeholders of the CIFT project include researchers and scientists who 
 
 Another important group of stakeholders are the industries and organizations that use the forecasting technologies developed by the CIFT project. This includes weather services, financial institutions, and health care providers. These groups rely on the project's work to make better decisions and plans. For example, a weather service can use CIFT's tools to predict storms more accurately, helping to keep people safe. Similarly, a hospital might use these tools to plan for patient care more effectively.
 
-Lastly, the general public also benefits from the CIFT project. Better forecasts mean that people can make more informed decisions in their daily lives. Whether it's knowing when to carry an umbrella or making smart financial choices, the improvements in forecasting technology from the CIFT project can help everyone. This makes the public an indirect but important stakeholder in the project's success.
+Lastly, the general public also benefits from the CIFT project. Better forecasts mean that people can make more informed decisions in their daily lives. Whether it's knowing when to [carry](/wiki/carry-trading) an umbrella or making smart financial choices, the improvements in forecasting technology from the CIFT project can help everyone. This makes the public an indirect but important stakeholder in the project's success.
 
 ## How does computational intelligence contribute to forecasting in the CIFT project?
 

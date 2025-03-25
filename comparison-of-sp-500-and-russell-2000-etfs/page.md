@@ -28,7 +28,7 @@ People use the Russell 2000 to see how small companies in the U.S. are doing. If
 
 ## How do S&P 500 ETFs and Russell 2000 ETFs differ in terms of market capitalization?
 
-S&P 500 ETFs focus on the 500 largest companies in the United States. These companies have big market capitalizations, which means they are worth a lot of money. When you invest in an S&P 500 ETF, you're putting your money into these big, well-known companies. This can be a good choice if you want to invest in stable, established businesses.
+S&P 500 ETFs focus on the 500 largest companies in the United States. These companies have big market capitalizations, which means they are worth a lot of money. When you invest in an S&P 500 [ETF](/wiki/etf-trading-strategies), you're putting your money into these big, well-known companies. This can be a good choice if you want to invest in stable, established businesses.
 
 On the other hand, Russell 2000 ETFs focus on smaller companies. The Russell 2000 includes the 2000 smallest companies from the Russell 3000 index. These companies have smaller market capitalizations, which means they are worth less money than the ones in the S&P 500. Investing in a Russell 2000 ETF can be a good way to bet on the growth of smaller, newer companies that might have more room to grow.
 
@@ -72,7 +72,7 @@ Russell 2000 ETFs, on the other hand, have lower dividend yields. This is becaus
 
 Some popular S&P 500 ETFs include the SPDR S&P 500 ETF Trust (SPY) and the Vanguard S&P 500 ETF (VOO). SPY is one of the oldest and most traded ETFs, making it very liquid. It has an expense ratio of about 0.09%, which is low but a bit higher than some other options. VOO, on the other hand, has an even lower expense ratio of about 0.03%, making it a great choice if you want to keep your costs down. Both of these ETFs aim to match the performance of the S&P 500, so you get a piece of the 500 biggest companies in the U.S.
 
-For Russell 2000 ETFs, the iShares Russell 2000 ETF (IWM) and the Vanguard Russell 2000 ETF (VTWO) are well-known. IWM is very popular and has a lot of trading volume, but its expense ratio is around 0.19%, which is a bit higher. VTWO has a lower expense ratio of about 0.10%, so it's a good choice if you want to save on fees. Both of these ETFs focus on smaller companies, giving you a chance to invest in parts of the economy that might grow a lot but are also riskier.
+For Russell 2000 ETFs, the iShares Russell 2000 ETF (IWM) and the Vanguard Russell 2000 ETF (VTWO) are well-known. IWM is very popular and has a lot of trading [volume](/wiki/volume-trading-strategy), but its expense ratio is around 0.19%, which is a bit higher. VTWO has a lower expense ratio of about 0.10%, so it's a good choice if you want to save on fees. Both of these ETFs focus on smaller companies, giving you a chance to invest in parts of the economy that might grow a lot but are also riskier.
 
 ## How might macroeconomic factors influence the performance of S&P 500 ETFs differently from Russell 2000 ETFs?
 

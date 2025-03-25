@@ -40,7 +40,7 @@ The SEC also works with the exchanges, like the New York Stock Exchange and Nasd
 
 ## What are the different Consolidated Tape systems (e.g., CTA, UTP)?
 
-The Consolidated Tape is split into different systems to handle the information from different stock exchanges. The first system is called the Consolidated Tape Association (CTA). It shows the prices of stocks that are listed on the New York Stock Exchange and other exchanges, except for Nasdaq. The CTA is split into two parts: Tape A for the New York Stock Exchange stocks and Tape B for other exchanges.
+The Consolidated Tape is split into different systems to handle the information from different stock exchanges. The first system is called the Consolidated Tape Association ([CTA](/wiki/cta-strategy)). It shows the prices of stocks that are listed on the New York Stock Exchange and other exchanges, except for Nasdaq. The CTA is split into two parts: Tape A for the New York Stock Exchange stocks and Tape B for other exchanges.
 
 The second system is the Unlisted Trading Privileges (UTP) Plan, also known as Tape C. This system shows the prices of stocks that are listed on the Nasdaq. Both the CTA and UTP systems work together to make sure that everyone can see the best prices from all the different places where stocks are traded. This helps keep the market fair and open for everyone.
 

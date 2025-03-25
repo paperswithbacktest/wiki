@@ -18,7 +18,7 @@ Direct quotes help traders and investors understand how much of their own curren
 
 A direct quote in currency trading tells you how much of your own country's money you need to buy one unit of another country's money. For example, if you live in the USA, a direct quote might tell you that 1 Euro costs $1.20. This type of quote is easy to understand because it shows the price in terms of what you are used to, your own currency.
 
-An indirect quote, on the other hand, tells you how much of another country's money you get for one unit of your own country's money. Using the same example, an indirect quote would tell you that $1 gets you 0.83 Euros. This can be a bit more confusing because it requires you to think about the value in terms of the foreign currency. Both types of quotes are used in the forex market, but direct quotes are often preferred because they are more straightforward.
+An indirect quote, on the other hand, tells you how much of another country's money you get for one unit of your own country's money. Using the same example, an indirect quote would tell you that $1 gets you 0.83 Euros. This can be a bit more confusing because it requires you to think about the value in terms of the foreign currency. Both types of quotes are used in the [forex](/wiki/forex-system) market, but direct quotes are often preferred because they are more straightforward.
 
 ## Can you provide an example of a direct quote in currency trading?
 
@@ -70,7 +70,7 @@ These changes in direct quotes can also start trends in the market. If the Euro 
 
 ## What strategies can traders employ based on direct quote movements?
 
-Traders can use direct quote movements to decide when to buy or sell currencies. If they see that the Euro is getting stronger against the US dollar, they might buy Euros, hoping to sell them later for more dollars. This is called trend following. They watch the quotes carefully and try to jump on a trend early, so they can make money as the trend continues. For example, if the direct quote for EUR/USD goes from 1.20 to 1.25, traders might think the Euro will keep going up and buy more Euros.
+Traders can use direct quote movements to decide when to buy or sell currencies. If they see that the Euro is getting stronger against the US dollar, they might buy Euros, hoping to sell them later for more dollars. This is called [trend following](/wiki/trend-following). They watch the quotes carefully and try to jump on a trend early, so they can make money as the trend continues. For example, if the direct quote for EUR/USD goes from 1.20 to 1.25, traders might think the Euro will keep going up and buy more Euros.
 
 Another strategy is called range trading. If the direct quotes for a currency pair keep moving between two numbers, like EUR/USD going between 1.18 and 1.22, traders might buy Euros when the quote is low and sell them when it's high. They think the price will keep bouncing between these numbers, so they can make money by buying low and selling high. By watching how direct quotes move, traders can choose the right time to trade and try to make more money.
 

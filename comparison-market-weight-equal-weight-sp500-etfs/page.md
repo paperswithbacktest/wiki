@@ -18,7 +18,7 @@ This type of ETF is popular among investors who want a simple and diversified wa
 
 An equal weight S&P 500 ETF is a type of exchange-traded fund that invests in all the companies in the S&P 500 index, but it gives each company the same amount of money. This means that big companies and small companies get the same share of the ETF's money, unlike a market weight ETF where bigger companies get more money.
 
-This type of ETF can be good for investors who want to spread their money evenly across all the companies in the S&P 500. It might give a chance for smaller companies to have a bigger impact on the ETF's performance. But, it can also be riskier because it doesn't follow the market's natural balance, where bigger companies often have a bigger say in how the market moves.
+This type of [ETF](/wiki/etf-trading-strategies) can be good for investors who want to spread their money evenly across all the companies in the S&P 500. It might give a chance for smaller companies to have a bigger impact on the ETF's performance. But, it can also be riskier because it doesn't follow the market's natural balance, where bigger companies often have a bigger say in how the market moves.
 
 ## How do market weight and equal weight S&P 500 ETFs differ in their construction?
 
@@ -28,7 +28,7 @@ On the other hand, an equal weight S&P 500 ETF gives the same amount of money to
 
 ## What are the advantages of investing in a market weight S&P 500 ETF?
 
-Investing in a market weight S&P 500 ETF is a good choice for people who want to invest in the overall U.S. stock market without picking individual stocks. This type of ETF follows the S&P 500 index, which means it gives more money to bigger companies and less to smaller ones. This makes it a safe and easy way to invest because it matches the way the market naturally works. By investing in a market weight S&P 500 ETF, you get a piece of the biggest and most important companies in the U.S., which can help your money grow over time.
+Investing in a market weight S&P 500 ETF is a good choice for people who want to invest in the overall U.S. stock market without [picking](/wiki/asset-class-picking) individual stocks. This type of ETF follows the S&P 500 index, which means it gives more money to bigger companies and less to smaller ones. This makes it a safe and easy way to invest because it matches the way the market naturally works. By investing in a market weight S&P 500 ETF, you get a piece of the biggest and most important companies in the U.S., which can help your money grow over time.
 
 Another advantage is that market weight S&P 500 ETFs are very popular and easy to buy and sell. Because they follow the well-known S&P 500 index, many people trust them and they are easy to understand. This means you can buy and sell them quickly, and they usually have low costs. This makes them a good choice for both new investors and those who have been investing for a long time.
 

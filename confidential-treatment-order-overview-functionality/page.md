@@ -18,7 +18,7 @@ Companies usually ask for a CTO when they are filing documents like merger agree
 
 A company might ask for a Confidential Treatment Order (CTO) because it wants to keep some important information secret. This information could be about special recipes, new inventions, or secret plans that help the company stay ahead of others. If this information got out, it could hurt the company's business. For example, if a company is working on a new product and someone else finds out about it before it's ready, they might copy the idea or start selling a similar product first.
 
-Another reason a company might request a CTO is to protect sensitive financial details. Sometimes, when a company is making big deals or mergers, it has to share a lot of information with the public. But if some of this information, like how much money the company is spending or earning, became public too soon, it could affect the company's stock price or give competitors an advantage. By getting a CTO, the company can keep these details private and avoid any problems that might come from sharing them too early.
+Another reason a company might request a CTO is to protect sensitive financial details. Sometimes, when a company is making big deals or mergers, it has to share a lot of information with the public. But if some of this information, like how much money the company is spending or [earning](/wiki/earning-announcement), became public too soon, it could affect the company's stock price or give competitors an advantage. By getting a CTO, the company can keep these details private and avoid any problems that might come from sharing them too early.
 
 ## What types of information are typically covered by a CTO?
 

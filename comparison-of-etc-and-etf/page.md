@@ -44,7 +44,7 @@ ETFs can also hold commodities, like gold, silver, or oil. These are physical go
 
 ETCs, or Electronic Toll Collection systems, don't have fees in the same way ETFs do. When you use an ETC, you usually pay a one-time fee for the transponder, and then you pay the tolls as you go. There might be a small monthly or annual fee for maintaining your account, but these fees are generally low and straightforward. The main cost is the toll itself, which varies depending on the road and the distance you travel.
 
-ETFs, on the other hand, come with fees that are more like investment costs. The main fee is called the expense ratio, which is a percentage of your investment that goes to cover the costs of managing the ETF. This fee is taken out of the fund's assets, so it affects the overall return on your investment. ETFs might also have other costs, like trading fees when you buy or sell shares, and sometimes there are fees if you want to withdraw your money quickly. Overall, ETFs usually have lower fees than other types of funds, but it's important to check the specific fees for any ETF you're thinking about investing in.
+ETFs, on the other hand, come with fees that are more like investment costs. The main fee is called the expense ratio, which is a percentage of your investment that goes to cover the costs of managing the [ETF](/wiki/etf-trading-strategies). This fee is taken out of the fund's assets, so it affects the overall return on your investment. ETFs might also have other costs, like trading fees when you buy or sell shares, and sometimes there are fees if you want to withdraw your money quickly. Overall, ETFs usually have lower fees than other types of funds, but it's important to check the specific fees for any ETF you're thinking about investing in.
 
 ## What are the tax implications of investing in ETCs versus ETFs?
 
@@ -54,7 +54,7 @@ ETFs, on the other hand, can have tax implications because they are investment v
 
 ## How does liquidity vary between ETCs and ETFs?
 
-ETCs, or Electronic Toll Collection systems, don't have anything to do with liquidity because they are not investments. They are just a way to pay tolls on roads without stopping. You buy a transponder and use it to pay tolls, but you can't sell the transponder or the toll payments to someone else. So, the idea of liquidity, which means how easily you can turn something into cash, doesn't apply to ETCs.
+ETCs, or Electronic Toll Collection systems, don't have anything to do with [liquidity](/wiki/liquidity-risk-premium) because they are not investments. They are just a way to pay tolls on roads without stopping. You buy a transponder and use it to pay tolls, but you can't sell the transponder or the toll payments to someone else. So, the idea of liquidity, which means how easily you can turn something into cash, doesn't apply to ETCs.
 
 ETFs, or Exchange-Traded Funds, are very different because they are investments that you can buy and sell on a stock exchange. Liquidity for ETFs means how easily you can buy or sell shares without affecting the price too much. ETFs usually have good liquidity because they trade on stock exchanges where there are lots of buyers and sellers. This means you can usually buy or sell ETF shares quickly and at a fair price, which is important if you need to get your money out of the investment fast.
 

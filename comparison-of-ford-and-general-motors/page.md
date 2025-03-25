@@ -24,7 +24,7 @@ General Motors, or GM, was founded in 1908. They make different kinds of vehicle
 
 Ford has some very popular car models. One of the most well-known is the Ford F-150. It's a truck that many people in the United States buy because it's strong and reliable. Another popular model is the Ford Mustang. It's a sporty car that people like because it's fast and fun to drive. Ford also makes the Ford Escape, which is a smaller car that many families choose because it's easy to drive and has lots of space inside.
 
-General Motors, or GM, has several popular car models too. One of the most popular is the Chevrolet Silverado. It's a truck that many people like because it can carry heavy things and is good for work. Another popular model is the Chevrolet Malibu, which is a car that many people buy because it's comfortable and good on gas. GM also makes the Cadillac Escalade, which is a big SUV that people like because it's fancy and has lots of features.
+General Motors, or GM, has several popular car models too. One of the most popular is the Chevrolet Silverado. It's a truck that many people like because it can [carry](/wiki/carry-trading) heavy things and is good for work. Another popular model is the Chevrolet Malibu, which is a car that many people buy because it's comfortable and good on gas. GM also makes the Cadillac Escalade, which is a big SUV that people like because it's fancy and has lots of features.
 
 ## How do the sales figures of Ford and General Motors compare?
 

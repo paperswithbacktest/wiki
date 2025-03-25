@@ -18,7 +18,7 @@ Whales can make the price go up or down a lot. If a whale buys a lot of a crypto
 
 Crypto whales usually start by buying a lot of cryptocurrency when it's cheap. They might use their own money or borrow money to buy more. They look for cryptocurrencies that they think will become popular and go up in value. Sometimes, they get in early on new projects or invest in many different cryptocurrencies to spread out their risk.
 
-Once they have a lot of cryptocurrency, whales might use special strategies to get even more. They could trade a lot and use their big amount of crypto to move the market in their favor. For example, if they think a cryptocurrency will go up, they might buy a lot of it to make the price go up, then sell it for a profit. They might also get special deals or early access to new cryptocurrencies because they have a lot of money and influence in the crypto world.
+Once they have a lot of [cryptocurrency](/wiki/cryptocurrency), whales might use special strategies to get even more. They could trade a lot and use their big amount of crypto to move the market in their favor. For example, if they think a cryptocurrency will go up, they might buy a lot of it to make the price go up, then sell it for a profit. They might also get special deals or early access to new cryptocurrencies because they have a lot of money and influence in the crypto world.
 
 ## What impact can crypto whales have on cryptocurrency prices?
 
@@ -50,7 +50,7 @@ Some whales also use "wash trading." They trade the same cryptocurrency back and
 
 Retail investors can keep an eye on whale movements by using special websites and tools that track big transactions on the blockchain. These tools show when someone moves a lot of cryptocurrency from one place to another. If you see a big move, it might mean a whale is getting ready to buy or sell. You can also look at social media and news to see if people are talking about big moves by whales. Sometimes, whales will share what they're doing or others will notice and talk about it.
 
-Another way to spot whale activity is by watching the price and trading volume of a cryptocurrency. If the price suddenly goes up or down a lot and there's a lot of trading happening, it could be because a whale is buying or selling. You can also use charts and graphs to see patterns. If you see a pattern where the price goes up and then falls quickly, it might be a sign of a "pump and dump" by a whale. By paying attention to these signs, retail investors can try to guess what whales might do next and make better decisions about their own investments.
+Another way to spot whale activity is by watching the price and trading [volume](/wiki/volume-trading-strategy) of a cryptocurrency. If the price suddenly goes up or down a lot and there's a lot of trading happening, it could be because a whale is buying or selling. You can also use charts and graphs to see patterns. If you see a pattern where the price goes up and then falls quickly, it might be a sign of a "pump and dump" by a whale. By paying attention to these signs, retail investors can try to guess what whales might do next and make better decisions about their own investments.
 
 ## What are the regulatory concerns surrounding crypto whales?
 

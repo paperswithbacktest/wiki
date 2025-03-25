@@ -34,7 +34,7 @@ One key trend in the consumer goods industry is the rise of online shopping. Mor
 
 Another trend is a focus on sustainability. People are becoming more aware of how their buying choices affect the environment. They are looking for products that are eco-friendly and made in ways that don't harm the planet. Companies are responding by using more sustainable materials, reducing waste, and being more open about their practices. This trend is pushing the industry to be more responsible and think about the long-term effects of their products.
 
-A third trend is the use of technology in consumer goods. Companies are using things like artificial intelligence and data analysis to learn more about what people want. This helps them make better products and target their marketing more effectively. For example, smart home devices and wearable tech are becoming more popular, showing how technology is changing what people buy and how they use it.
+A third trend is the use of technology in consumer goods. Companies are using things like [artificial intelligence](/wiki/ai-artificial-intelligence) and data analysis to learn more about what people want. This helps them make better products and target their marketing more effectively. For example, smart home devices and wearable tech are becoming more popular, showing how technology is changing what people buy and how they use it.
 
 ## Who are the major players in the consumer goods sector?
 

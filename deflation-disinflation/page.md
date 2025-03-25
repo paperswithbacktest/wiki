@@ -98,7 +98,7 @@ Disinflation, when prices go up more slowly, also affects what central banks do.
    This comprehensive guide examines the applications of [machine learning](/wiki/machine-learning) in trading strategies, providing an understanding of algorithmic tools used during economic fluctuations.
 
 4. **Fama, Eugene F. “Efficient Capital Markets: A Review of Theory and Empirical Work.” The Journal of Finance, vol. 25, no. 2, 1970, pp. 383–417.**  
-   Fama's work on efficient market hypothesis remains fundamental for understanding the market dynamics that algorithmic trading strategies seek to exploit.
+   Fama's work on efficient market hypothesis remains fundamental for understanding the market dynamics that [algorithmic trading](/wiki/algorithmic-trading) strategies seek to exploit.
 
 5. **Goodfriend, Marvin. “Interest Rate Policy and the Inflation Scare Problem: 1979-92.” Economic Quarterly, Federal Reserve Bank of Richmond, Spring 1993.**  
    This article analyzes how interest rates and monetary policies have historically impacted inflation and deflation trends, relevant for understanding central bank interventions.

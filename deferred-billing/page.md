@@ -24,7 +24,7 @@ The terms of deferred billing can vary. Sometimes, you might have to pay the ful
 
 Deferred billing can be really helpful for customers. It lets you take home what you need right away, even if you don't have all the money at that moment. This can be a big relief if you're waiting for a paycheck or need something urgently. For example, if you're a small business owner and you need a new computer to keep your business running, deferred billing lets you get the computer now and pay for it later.
 
-Another benefit is that it can help you manage your money better. Instead of having to pay a big amount all at once, you can spread out the payments over time. This can make it easier to fit the cost into your budget. Plus, if you're using the product or service to make money, like a machine for your business, you can start earning before you start paying. This can make the payments feel less like a burden and more like a smart financial move.
+Another benefit is that it can help you manage your money better. Instead of having to pay a big amount all at once, you can spread out the payments over time. This can make it easier to fit the cost into your budget. Plus, if you're using the product or service to make money, like a machine for your business, you can start [earning](/wiki/earning-announcement) before you start paying. This can make the payments feel less like a burden and more like a smart financial move.
 
 ## What are the potential risks or drawbacks of deferred billing for businesses?
 

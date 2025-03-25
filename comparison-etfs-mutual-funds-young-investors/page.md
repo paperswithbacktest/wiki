@@ -36,7 +36,7 @@ Another cost to think about is trading fees. ETFs are bought and sold like stock
 
 ## What are the tax implications of investing in ETFs versus mutual funds?
 
-ETFs are usually more tax-friendly than mutual funds. When you invest in an ETF, it can move assets around without causing as many taxable events. This is because of how ETFs are set up. They can use a process called "in-kind" transfers to swap assets without selling them, which means you might not have to pay taxes on gains until you sell your ETF shares. So, if you're worried about taxes, ETFs can be a better choice because they can help you keep more of your money.
+ETFs are usually more tax-friendly than mutual funds. When you invest in an [ETF](/wiki/etf-trading-strategies), it can move assets around without causing as many taxable events. This is because of how ETFs are set up. They can use a process called "in-kind" transfers to swap assets without selling them, which means you might not have to pay taxes on gains until you sell your ETF shares. So, if you're worried about taxes, ETFs can be a better choice because they can help you keep more of your money.
 
 Mutual funds, on the other hand, might make you pay taxes even if you didn't sell your shares. This is because they're often actively managed, which means the manager is buying and selling things a lot. When they sell something for a profit, that can lead to capital gains taxes that get passed on to you, the investor. These taxes can eat into your returns, making mutual funds less tax-efficient than ETFs. So, if you want to keep your tax bill low, ETFs might be a smarter pick.
 

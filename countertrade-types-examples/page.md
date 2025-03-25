@@ -18,7 +18,7 @@ This type of trade can be good because it helps countries that don't have a lot 
 
 The main types of countertrade include barter, counterpurchase, and offset. Barter is the simplest form where two parties directly swap goods or services without any money involved. For example, one country might exchange wheat for another country's oil. It's like trading apples for oranges at a school lunch table, but on a bigger scale.
 
-Counterpurchase is a bit more complicated. In this type, one party agrees to buy goods from another, but the payment is made by selling other goods back to the first party. It's like buying a toy and paying for it by selling your old books to the toy store. This type of countertrade often involves a third party to help manage the transactions.
+Counterpurchase is a bit more complicated. In this type, one party agrees to buy goods from another, but the payment is made by selling other goods back to the first party. It's like buying a toy and paying for it by selling your old [books](/wiki/algo-trading-books) to the toy store. This type of countertrade often involves a third party to help manage the transactions.
 
 Offset is another type where a company selling a product to a country agrees to buy goods or services from that country as part of the deal. This is common in big industries like aerospace or defense. For example, if a country buys airplanes from a company, the company might agree to buy parts or services from companies in that country. This helps the buying country's economy grow.
 

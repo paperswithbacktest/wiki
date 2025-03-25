@@ -18,7 +18,7 @@ When you invest in a mutual fund, you buy shares of the fund. The price of these
 
 ETFs, or Exchange-Traded Funds, are another way to invest in a group of assets like stocks, bonds, or commodities. They are similar to mutual funds but with a key difference: ETFs can be bought and sold on a stock exchange, just like individual stocks. This means you can trade them throughout the day at the current market price, which can change from moment to moment.
 
-When you buy an ETF, you are buying a small piece of everything the ETF holds. The value of the ETF goes up or down based on the value of its holdings. ETFs often track an index, like the S&P 500, which means they aim to match the performance of that index. This can be a good way to diversify your investments and get exposure to a broad market without having to pick individual stocks yourself.
+When you buy an [ETF](/wiki/etf-trading-strategies), you are buying a small piece of everything the ETF holds. The value of the ETF goes up or down based on the value of its holdings. ETFs often track an index, like the S&P 500, which means they aim to match the performance of that index. This can be a good way to diversify your investments and get exposure to a broad market without having to pick individual stocks yourself.
 
 ## What are the main differences between mutual funds and ETFs?
 

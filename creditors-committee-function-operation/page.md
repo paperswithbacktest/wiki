@@ -72,7 +72,7 @@ Another challenge is that the committee has to keep an eye on the company to mak
 
 A creditors' committee makes sure things are clear and honest by keeping a close watch on the company that owes money. They talk to the company's leaders and ask a lot of questions about what's going on. This helps them find out if the company is telling the truth and doing things the right way. The committee also looks at all the information the company gives them to make sure it's correct. If they think something is wrong, they can go to court and ask for help.
 
-The committee also hires experts like lawyers and accountants to help them understand the company's situation better. These experts can check the company's books and make sure everything adds up. The committee uses the money from the company's assets to pay for these experts. This way, they can make sure the creditors' rights are protected and that the company is doing what it's supposed to do. By working together and being careful, the committee helps keep things open and fair for everyone involved.
+The committee also hires experts like lawyers and accountants to help them understand the company's situation better. These experts can check the company's [books](/wiki/algo-trading-books) and make sure everything adds up. The committee uses the money from the company's assets to pay for these experts. This way, they can make sure the creditors' rights are protected and that the company is doing what it's supposed to do. By working together and being careful, the committee helps keep things open and fair for everyone involved.
 
 ## What advanced strategies can a creditors' committee employ to maximize recovery for creditors?
 

@@ -66,7 +66,7 @@ DIY investing platforms also offer educational resources, but they might not be 
 
 The potential for investment returns can be similar whether you use a full-service brokerage or do DIY investing. Both ways let you buy the same kinds of investments, like stocks, bonds, and funds. What really matters is how well you pick your investments and how the market does. If you make good choices and the market goes up, you can make money no matter which method you use.
 
-The difference comes in how much help you get and how much you pay in fees. Full-service brokerages have experts who can help you pick good investments, which might lead to better returns if you follow their advice. But you pay more in fees for this help, which can eat into your returns. With DIY investing, you save money on fees because you're doing everything yourself. If you're good at picking investments, you might keep more of your returns. But if you make bad choices without expert help, your returns could be lower.
+The difference comes in how much help you get and how much you pay in fees. Full-service brokerages have experts who can help you pick good investments, which might lead to better returns if you follow their advice. But you pay more in fees for this help, which can eat into your returns. With DIY investing, you save money on fees because you're doing everything yourself. If you're good at [picking](/wiki/asset-class-picking) investments, you might keep more of your returns. But if you make bad choices without expert help, your returns could be lower.
 
 ## What are the tax implications of choosing between a full-service brokerage and DIY investing?
 

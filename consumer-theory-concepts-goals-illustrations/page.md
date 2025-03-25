@@ -46,7 +46,7 @@ These curves help economists understand how people make trade-offs. If you're on
 
 ## What is the goal of maximizing utility within a budget constraint?
 
-The goal of maximizing utility within a budget constraint is to make the best use of your money to feel as happy as possible. Imagine you have $20 to spend on snacks. You want to buy the snacks that will make you the happiest within that $20. This means picking the right mix of snacks so that you don't spend more than you have, but you still get the most enjoyment out of what you buy.
+The goal of maximizing utility within a budget constraint is to make the best use of your money to feel as happy as possible. Imagine you have $20 to spend on snacks. You want to buy the snacks that will make you the happiest within that $20. This means [picking](/wiki/asset-class-picking) the right mix of snacks so that you don't spend more than you have, but you still get the most enjoyment out of what you buy.
 
 To do this, you need to think about what you like and how much each snack costs. If you really love chocolate and it's cheaper than chips, you might buy more chocolate to get more happiness from your money. By carefully choosing what to buy, you can make sure that every dollar you spend helps you feel as good as possible. This is what economists mean by maximizing utility within a budget constraint.
 

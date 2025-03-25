@@ -70,7 +70,7 @@ This change has big effects on the world's money systems. More countries might s
 
 ## How does the digital Yuan (e-CNY) fit into the Renminbi system?
 
-The digital Yuan, also called e-CNY, is a new way to use the Renminbi. It's like having Yuan in a digital form, similar to how you can have money in a bank account that you can use with a card or your phone. The People's Bank of China created the digital Yuan to make it easier for people to pay for things without needing to carry cash. It works just like regular Yuan, but you can use it online or with your phone to pay for things quickly and easily.
+The digital Yuan, also called e-CNY, is a new way to use the Renminbi. It's like having Yuan in a digital form, similar to how you can have money in a bank account that you can use with a card or your phone. The People's Bank of China created the digital Yuan to make it easier for people to pay for things without needing to [carry](/wiki/carry-trading) cash. It works just like regular Yuan, but you can use it online or with your phone to pay for things quickly and easily.
 
 The digital Yuan is part of the same money system as the regular Yuan and Renminbi. This means that 1 digital Yuan is worth the same as 1 regular Yuan. You can change your regular Yuan into digital Yuan and back again. The People's Bank of China controls the digital Yuan just like they do with the regular Yuan, making sure there is enough of it and that it keeps its value. This new way of using money is becoming more popular in China and could change how people around the world think about and use money.
 

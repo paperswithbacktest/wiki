@@ -64,7 +64,7 @@ On the other hand, if the Demand Index is low, it means not many people want the
 
 ## What advanced techniques can be used to analyze the Demand Index?
 
-One advanced way to analyze the Demand Index is by using data analytics and machine learning. These tools can look at lots of data from the past and find patterns that are hard for people to see. For example, they can predict how the Demand Index might change in the future based on things like the time of year, what's happening in the news, or even what people are saying on social media. By using these predictions, businesses can be ready for changes in demand and make better plans for what to make and when to sell it.
+One advanced way to analyze the Demand Index is by using data analytics and [machine learning](/wiki/machine-learning). These tools can look at lots of data from the past and find patterns that are hard for people to see. For example, they can predict how the Demand Index might change in the future based on things like the time of year, what's happening in the news, or even what people are saying on social media. By using these predictions, businesses can be ready for changes in demand and make better plans for what to make and when to sell it.
 
 Another technique is to use something called econometric models. These are like math formulas that help understand how different things affect the Demand Index. They can show how changes in prices, income levels, or even the weather might change how much people want to buy. By using these models, businesses can see how different choices might affect the Demand Index and choose the best way to go. This helps them make smart decisions about pricing, production, and marketing to match what people want.
 

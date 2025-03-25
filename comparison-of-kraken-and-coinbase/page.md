@@ -34,7 +34,7 @@ Coinbase also supports many cryptocurrencies, but they might not have as many as
 
 ## How do Kraken and Coinbase handle security and insurance?
 
-Kraken takes security very seriously. They use strong security measures like two-factor authentication to keep your account safe. This means you need more than just a password to log in. Kraken also keeps most of the digital money in special secure storage that's not connected to the internet, which makes it harder for hackers to get to it. They also have insurance to protect your digital money if something goes wrong. This way, if there's a problem, your money is still safe.
+Kraken takes security very seriously. They use strong security measures like two-[factor](/wiki/factor-investing) authentication to keep your account safe. This means you need more than just a password to log in. Kraken also keeps most of the digital money in special secure storage that's not connected to the internet, which makes it harder for hackers to get to it. They also have insurance to protect your digital money if something goes wrong. This way, if there's a problem, your money is still safe.
 
 Coinbase also focuses a lot on security. They use two-factor authentication too, so you need a password and another way to prove it's really you. Coinbase keeps most of your digital money in offline storage, just like Kraken, to make sure it's safe from hackers. They also have insurance to cover your digital money in case something bad happens. This means your money is protected even if there's a security issue.
 
@@ -70,7 +70,7 @@ Another cool thing Kraken offers is more detailed charts and tools for looking a
 
 ## How do Kraken and Coinbase compare in terms of liquidity and trading volume?
 
-Kraken usually has a lot of people trading on it, which means it has good liquidity. Liquidity means how easy it is to buy or sell something without the price changing a lot. Because Kraken has a lot of different digital money you can trade, and a lot of people using it, you can usually buy or sell quickly without waiting too long. This is good if you want to make trades fast. Kraken's trading volume, which is how much digital money is being traded, is also pretty high, especially for popular digital money like Bitcoin and Ethereum.
+Kraken usually has a lot of people trading on it, which means it has good [liquidity](/wiki/liquidity-risk-premium). Liquidity means how easy it is to buy or sell something without the price changing a lot. Because Kraken has a lot of different digital money you can trade, and a lot of people using it, you can usually buy or sell quickly without waiting too long. This is good if you want to make trades fast. Kraken's trading [volume](/wiki/volume-trading-strategy), which is how much digital money is being traded, is also pretty high, especially for popular digital money like Bitcoin and Ethereum.
 
 Coinbase also has good liquidity, but it might not be as high as Kraken's for some digital money. Coinbase is very popular and a lot of people use it, so you can usually buy and sell digital money without much trouble. But because Coinbase has fewer kinds of digital money than Kraken, the liquidity might not be as good for some of the less popular ones. Coinbase's trading volume is high too, especially for big digital money like Bitcoin and Ethereum, but it might be a bit lower than Kraken's for some other digital money.
 

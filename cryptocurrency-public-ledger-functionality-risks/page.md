@@ -30,7 +30,7 @@ The cool thing about blockchain is that it's really hard to change or cheat. Onc
 
 Using a public ledger for cryptocurrencies has many benefits. One big benefit is that it makes the system transparent. Everyone can see all the transactions, so it's hard for anyone to cheat or spend the same money twice. This transparency builds trust because people know that the records are open and can be checked by anyone. It also means that the system is fair, as everyone follows the same rules and can see what's happening with the money.
 
-Another benefit is that a public ledger makes the cryptocurrency system secure. Since the ledger is kept by a network of computers, it's very hard for someone to change or mess with the records. If someone tries to cheat, the other computers in the network will notice and stop it. This security helps protect people's money and keeps the whole system working smoothly. Plus, because the ledger is public, it's easier for people to check and make sure their transactions are correct, which adds another layer of safety.
+Another benefit is that a public ledger makes the [cryptocurrency](/wiki/cryptocurrency) system secure. Since the ledger is kept by a network of computers, it's very hard for someone to change or mess with the records. If someone tries to cheat, the other computers in the network will notice and stop it. This security helps protect people's money and keeps the whole system working smoothly. Plus, because the ledger is public, it's easier for people to check and make sure their transactions are correct, which adds another layer of safety.
 
 ## How can someone access and view a cryptocurrency public ledger?
 

@@ -36,7 +36,7 @@ This calculation can be used for individuals, but it's also used to find the sav
 
 Several factors can lead to high savings rates in some countries. One big reason is culture. In places like China and Singapore, people often believe that saving money is very important. Families save money to pay for things like homes, education, and to take care of their parents when they get old. Governments in these countries might also have programs that encourage people to save. For example, Singapore has the Central Provident Fund, which helps people save for retirement.
 
-Another factor is economic stability. In countries like Switzerland and Germany, people might feel more secure about their jobs and the economy. This makes them more likely to save money for the future. These countries also have strong social safety nets, like good healthcare and retirement plans, which can help people save more. When people feel that their future is secure, they are more likely to put money aside instead of spending it right away.
+Another [factor](/wiki/factor-investing) is economic stability. In countries like Switzerland and Germany, people might feel more secure about their jobs and the economy. This makes them more likely to save money for the future. These countries also have strong social safety nets, like good healthcare and retirement plans, which can help people save more. When people feel that their future is secure, they are more likely to put money aside instead of spending it right away.
 
 ## How do cultural attitudes towards saving influence savings rates?
 

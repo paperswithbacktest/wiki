@@ -28,11 +28,11 @@ The amount of oil in stockpiles is usually reported in barrels. One barrel is ab
 
 ## What factors influence changes in crude oil stockpiles?
 
-Changes in crude oil stockpiles are influenced by a few key factors. One big factor is how much oil people are using. If more people are driving cars or if factories are working a lot, they use more oil, and the stockpiles go down. On the other hand, if people are using less oil because they're driving less or factories are closed, the stockpiles can grow because the oil isn't being used up as fast.
+Changes in [crude oil](/wiki/crude-oil) stockpiles are influenced by a few key factors. One big [factor](/wiki/factor-investing) is how much oil people are using. If more people are driving cars or if factories are working a lot, they use more oil, and the stockpiles go down. On the other hand, if people are using less oil because they're driving less or factories are closed, the stockpiles can grow because the oil isn't being used up as fast.
 
 Another factor is how much oil is being produced. If countries that make a lot of oil, like Saudi Arabia or the United States, decide to produce more, the stockpiles can grow because there's more oil coming into storage. But if they decide to produce less, maybe because they want to keep the price of oil high, the stockpiles might shrink because there's less oil coming in. Also, things like weather, wars, or new laws can change how much oil is produced and stored.
 
-Lastly, how easy it is to move oil from one place to another can also affect stockpiles. If there are problems with ships or pipelines that carry oil, the oil might not get to the storage places as quickly, and stockpiles can go down. But if transportation is working well, more oil can get to the stockpiles, and they can grow. All these things together decide whether the amount of oil in stockpiles goes up or down.
+Lastly, how easy it is to move oil from one place to another can also affect stockpiles. If there are problems with ships or pipelines that [carry](/wiki/carry-trading) oil, the oil might not get to the storage places as quickly, and stockpiles can go down. But if transportation is working well, more oil can get to the stockpiles, and they can grow. All these things together decide whether the amount of oil in stockpiles goes up or down.
 
 ## How often are crude oil stockpile data reported?
 

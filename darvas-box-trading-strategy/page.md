@@ -42,7 +42,7 @@ Once you have drawn the box, you watch to see what the stock price does next. If
 
 The entry rule for trading with the Darvas Box is simple. You look for a stock that has been going up and then starts moving sideways or down a bit. You draw a box around the highest and lowest prices during this time. If the stock's price breaks above the top of the box, that's your signal to buy the stock. It means the stock is strong and might keep going up.
 
-The exit rule is just as straightforward. If you've bought a stock and its price stays inside the box you drew, you wait and watch. But if the price falls below the bottom of the box, that's your signal to sell the stock. It's a warning that the stock might keep going down, and selling helps you avoid losing more money. By following these rules, you can use the Darvas Box to decide when to buy and sell stocks based on clear price movements.
+The [exit](/wiki/exit-strategy) rule is just as straightforward. If you've bought a stock and its price stays inside the box you drew, you wait and watch. But if the price falls below the bottom of the box, that's your signal to sell the stock. It's a warning that the stock might keep going down, and selling helps you avoid losing more money. By following these rules, you can use the Darvas Box to decide when to buy and sell stocks based on clear price movements.
 
 ## Can you explain the concept of 'raising the box' in the Darvas Box strategy?
 
@@ -52,7 +52,7 @@ Raising the box lets you see if the stock is still strong and moving up. If the 
 
 ## How does volume play a role in the Darvas Box strategy?
 
-In the Darvas Box strategy, volume is important because it shows how many people are buying or selling the stock. When the stock price breaks above the top of the box, you want to see a lot of volume. This means many people are buying the stock, which makes the breakout stronger. If the volume is low when the price breaks out, it might not be a good sign because it could mean fewer people are interested in the stock.
+In the Darvas Box strategy, [volume](/wiki/volume-trading-strategy) is important because it shows how many people are buying or selling the stock. When the stock price breaks above the top of the box, you want to see a lot of volume. This means many people are buying the stock, which makes the [breakout](/wiki/breakout-trading) stronger. If the volume is low when the price breaks out, it might not be a good sign because it could mean fewer people are interested in the stock.
 
 Volume also helps you decide when to sell. If the stock price falls below the bottom of the box and the volume is high, it's a stronger warning that the stock might keep going down. High volume means more people are selling, which can make the price drop faster. By watching the volume along with the price, you can make better choices about when to buy and sell using the Darvas Box strategy.
 
@@ -76,7 +76,7 @@ Another variation is combining the Darvas Box with other indicators like moving 
 
 ## How effective is the Darvas Box strategy compared to other trading strategies, and what are its limitations?
 
-The Darvas Box strategy can be very effective for traders who want a simple way to find stocks that are going up. It helped Nicolas Darvas make a lot of money by focusing on stocks with clear upward trends and using volume to confirm strong moves. Compared to other trading strategies like moving averages or momentum trading, the Darvas Box is easy to understand and use. It works well in markets that are going up because it catches stocks that are breaking out to new highs. But it's not the best strategy for every trader or every market condition. Some traders might find other strategies more suited to their style or the current market.
+The Darvas Box strategy can be very effective for traders who want a simple way to find stocks that are going up. It helped Nicolas Darvas make a lot of money by focusing on stocks with clear upward trends and using volume to confirm strong moves. Compared to other trading strategies like moving averages or [momentum](/wiki/momentum) trading, the Darvas Box is easy to understand and use. It works well in markets that are going up because it catches stocks that are breaking out to new highs. But it's not the best strategy for every trader or every market condition. Some traders might find other strategies more suited to their style or the current market.
 
 One big limitation of the Darvas Box strategy is that it can give false signals. Sometimes, a stock might break out of the box but then go back down quickly. This can lead to losses if traders buy the stock too soon. Also, the strategy might not work well in markets that are not moving much or going down. In these conditions, stocks might not break out of boxes often, making it hard to find good trades. Traders need to be careful and might need to use other tools or strategies along with the Darvas Box to make better decisions and manage their risks.
 

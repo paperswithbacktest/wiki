@@ -24,7 +24,7 @@ In summary, dealer banks are all about trading and helping big clients navigate 
 
 ## What services do dealer banks typically offer?
 
-Dealer banks mainly help with buying and selling financial products like stocks, bonds, and currencies. They act as a middleman between buyers and sellers, using their own money to make these trades happen smoothly. This helps keep the financial markets working well because there's always someone ready to trade. Dealer banks also provide liquidity, which means they make sure there are enough buyers and sellers in the market at any time.
+Dealer banks mainly help with buying and selling financial products like stocks, bonds, and currencies. They act as a middleman between buyers and sellers, using their own money to make these trades happen smoothly. This helps keep the financial markets working well because there's always someone ready to trade. Dealer banks also provide [liquidity](/wiki/liquidity-risk-premium), which means they make sure there are enough buyers and sellers in the market at any time.
 
 Besides trading, dealer banks give advice to their big clients, like big companies and other banks, about the best times to buy or sell. They use a lot of information and special tools to predict what might happen in the markets. This helps their clients make smart choices about their investments. Dealer banks focus on these services and don't usually offer things like savings accounts or personal loans, which are more common at regular banks.
 
@@ -50,7 +50,7 @@ Dealer banks also give advice to their big clients about the best times to buy o
 
 Market making is what dealer banks do to help keep the financial markets running smoothly. They use their own money to buy and sell things like stocks, bonds, and currencies. When a client wants to sell something, the dealer bank buys it from them. When another client wants to buy the same thing, the dealer bank sells it to them. By doing this, dealer banks make sure there's always someone to trade with, which is called providing liquidity. This is really important because it helps keep the markets stable and working well.
 
-Dealer banks also use special tools and a lot of information to guess what might happen in the markets. They give advice to their big clients about the best times to buy or sell. This helps their clients make smart choices about their investments. So, market making by dealer banks is not just about buying and selling; it's also about helping their clients navigate the financial markets better.
+Dealer banks also use special tools and a lot of information to guess what might happen in the markets. They give advice to their big clients about the best times to buy or sell. This helps their clients make smart choices about their investments. So, [market making](/wiki/market-making) by dealer banks is not just about buying and selling; it's also about helping their clients navigate the financial markets better.
 
 ## What are the risks associated with operating as a dealer bank?
 
@@ -78,7 +78,7 @@ Another big change is that technology helps dealer banks talk to their clients m
 
 ## What future trends are expected to influence the role of dealer banks in financial markets?
 
-In the future, technology will keep changing how dealer banks work. One big trend is the use of artificial intelligence (AI) and machine learning. These tools can help dealer banks look at a lot of data very quickly and make better guesses about what might happen in the markets. This can help them give better advice to their clients and manage their risks more carefully. Another trend is the rise of electronic trading platforms. These platforms make it easier and faster for dealer banks to buy and sell financial products, which can help them keep the markets working smoothly.
+In the future, technology will keep changing how dealer banks work. One big trend is the use of [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and [machine learning](/wiki/machine-learning). These tools can help dealer banks look at a lot of data very quickly and make better guesses about what might happen in the markets. This can help them give better advice to their clients and manage their risks more carefully. Another trend is the rise of electronic trading platforms. These platforms make it easier and faster for dealer banks to buy and sell financial products, which can help them keep the markets working smoothly.
 
 Another trend that might affect dealer banks is the growth of cryptocurrencies and other new kinds of financial products. Dealer banks might need to learn how to trade these new products and give advice about them to their clients. This could open up new opportunities for them but also bring new risks. Regulations might also change in the future, which could make dealer banks have to follow new rules. They will need to stay on top of these changes to keep doing their job well and help keep the financial markets safe and fair.
 

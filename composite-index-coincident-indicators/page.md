@@ -28,7 +28,7 @@ To calculate the index, the values of each indicator are first adjusted to remov
 
 ## What is the purpose of using the Composite Index of Coincident Indicators?
 
-The purpose of using the Composite Index of Coincident Indicators is to help people understand how the economy is doing right now. It combines different pieces of information like how many people have jobs, how much money people are earning, and how much factories are making. By putting all these pieces together, the index gives a clear picture of the economy's current health. This helps economists and people who make decisions for the government see if the economy is strong or if it's struggling.
+The purpose of using the Composite Index of Coincident Indicators is to help people understand how the economy is doing right now. It combines different pieces of information like how many people have jobs, how much money people are [earning](/wiki/earning-announcement), and how much factories are making. By putting all these pieces together, the index gives a clear picture of the economy's current health. This helps economists and people who make decisions for the government see if the economy is strong or if it's struggling.
 
 Using the Composite Index of Coincident Indicators is important because it gives a quick look at the economy without having to wait for slower reports. If the index shows that employment and personal income are going up, it suggests that the economy is doing well at that moment. On the other hand, if the index shows that these numbers are going down, it might mean the economy is having problems. This information can help guide decisions about things like interest rates and government spending, making sure they are based on what's happening in the economy right now.
 

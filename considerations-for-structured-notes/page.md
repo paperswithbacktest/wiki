@@ -50,7 +50,7 @@ Another risk is that structured notes can lose value if the thing they're linked
 
 Liquidity issues can really affect your investment in structured notes. When something is liquid, it means you can easily sell it and get your money back. But structured notes are often not very liquid. This means if you need your money back before the note ends, it can be hard to sell it. You might have to wait until the end of the term, which could be years. If you do find someone to buy it, they might not pay you as much as you paid for it, especially if the thing the note is tied to, like a stock, isn't doing well.
 
-This lack of liquidity can be a big problem if you need your money for something else. Let's say you have an emergency or a good investment opportunity comes up. If your money is stuck in a structured note, you might miss out. It's important to think about how long you can afford to have your money tied up before you invest in a structured note. If you might need the money sooner, a more liquid investment might be a better choice.
+This lack of [liquidity](/wiki/liquidity-risk-premium) can be a big problem if you need your money for something else. Let's say you have an emergency or a good investment opportunity comes up. If your money is stuck in a structured note, you might miss out. It's important to think about how long you can afford to have your money tied up before you invest in a structured note. If you might need the money sooner, a more liquid investment might be a better choice.
 
 ## What role does credit risk play in structured notes?
 

@@ -18,7 +18,7 @@ However, because hot wallets are connected to the internet, they are more vulner
 
 A cold wallet is a type of digital wallet used to store cryptocurrencies that is not connected to the internet. It is called a "cold" wallet because it stays offline, which makes it much safer than a hot wallet. People use cold wallets to keep their cryptocurrencies safe from hackers and online theft.
 
-Cold wallets can be physical devices, like a USB stick, or even a piece of paper with your cryptocurrency information written on it. Because they are not connected to the internet, they are harder for thieves to steal from. However, using a cold wallet can be a bit more complicated and less convenient than using a hot wallet, since you need to connect it to the internet to make transactions.
+Cold wallets can be physical devices, like a USB stick, or even a piece of paper with your [cryptocurrency](/wiki/cryptocurrency) information written on it. Because they are not connected to the internet, they are harder for thieves to steal from. However, using a cold wallet can be a bit more complicated and less convenient than using a hot wallet, since you need to connect it to the internet to make transactions.
 
 ## How do hot wallets and cold wallets differ in terms of accessibility?
 
@@ -28,7 +28,7 @@ Cold wallets are not connected to the internet, so they are not as easy to acces
 
 ## What are the security risks associated with hot wallets?
 
-Hot wallets are always connected to the internet, which makes them easy to use but also more risky. Hackers can try to break into hot wallets to steal your cryptocurrencies. They might use tricks like sending you fake emails or trying to guess your password. If you don't use strong security, like a good password and two-factor authentication, it's easier for them to get your money.
+Hot wallets are always connected to the internet, which makes them easy to use but also more risky. Hackers can try to break into hot wallets to steal your cryptocurrencies. They might use tricks like sending you fake emails or trying to guess your password. If you don't use strong security, like a good password and two-[factor](/wiki/factor-investing) authentication, it's easier for them to get your money.
 
 Another risk is that hot wallets are often managed by companies that run cryptocurrency exchanges. If these companies get hacked, all the hot wallets they manage could be at risk. This has happened before, and people have lost a lot of money. So, even if you do everything right, your hot wallet could still be in danger if the company that manages it gets hacked.
 
@@ -78,7 +78,7 @@ Cold wallets take a bit longer for transactions because you have to connect them
 
 In the future, hot wallets are expected to become even easier to use and more secure. People are working on making hot wallets safer by using new technology like biometric security, where you can use your fingerprint or face to unlock your wallet. They are also trying to make hot wallets work better with other apps and services, so you can use your cryptocurrencies more easily in everyday life. As more people start using cryptocurrencies, hot wallets will need to handle more transactions quickly and safely.
 
-Cold wallets are also expected to get better. They might become smaller and easier to carry around, like a credit card, so you can keep your cryptocurrencies safe even when you're on the go. New features like better encryption and more ways to back up your private keys are being developed to make cold wallets even safer. As cryptocurrencies become more popular, cold wallets will need to keep up with the demand for secure storage, making sure they remain the best choice for people who want to keep their money safe for a long time.
+Cold wallets are also expected to get better. They might become smaller and easier to [carry](/wiki/carry-trading) around, like a credit card, so you can keep your cryptocurrencies safe even when you're on the go. New features like better encryption and more ways to back up your private keys are being developed to make cold wallets even safer. As cryptocurrencies become more popular, cold wallets will need to keep up with the demand for secure storage, making sure they remain the best choice for people who want to keep their money safe for a long time.
 
 ## References & Further Reading
 

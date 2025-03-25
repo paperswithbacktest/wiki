@@ -24,7 +24,7 @@ Also, Dalal Street is a good way to see how the Indian economy is doing. If the 
 
 The main stock exchange on Dalal Street is the Bombay Stock Exchange (BSE). It is one of the oldest stock exchanges in Asia and started in 1875. The BSE is very important because it helps companies raise money by letting people buy and sell their shares. When people trade shares here, it helps the Indian economy grow.
 
-Another important stock exchange near Dalal Street is the National Stock Exchange (NSE). While it's not exactly on Dalal Street, it's very close and plays a big role in India's financial world. The NSE started in 1992 and is now the biggest stock exchange in India in terms of trading volume. Together, the BSE and NSE help make Dalal Street the center of finance in India.
+Another important stock exchange near Dalal Street is the National Stock Exchange (NSE). While it's not exactly on Dalal Street, it's very close and plays a big role in India's financial world. The NSE started in 1992 and is now the biggest stock exchange in India in terms of trading [volume](/wiki/volume-trading-strategy). Together, the BSE and NSE help make Dalal Street the center of finance in India.
 
 ## How does trading work on Dalal Street?
 
@@ -72,7 +72,7 @@ Another important development is that the government and SEBI are working to mak
 
 Traders on Dalal Street often use different strategies to make money from the stock market. One common strategy is called "value investing." This means looking for companies that are selling for less than they are really worth. Traders who use this strategy believe that if they buy these undervalued shares and hold onto them, the price will go up over time. Another strategy is "growth investing," where traders look for companies that are growing fast. They think that if a company is doing well and getting bigger, its share price will also go up. Both of these strategies need a lot of research to find the right companies to invest in.
 
-Another popular strategy is "day trading," where traders buy and sell shares in the same day. They try to make money from small changes in the share price during the day. This can be risky because the market can be unpredictable, but it can also be exciting for people who like fast action. Some traders also use "technical analysis," which means looking at charts and patterns to guess where the share price might go next. They don't care so much about the company itself but focus more on the numbers and trends. Each of these strategies has its own way of trying to make money, and traders often mix and match them to find what works best for them.
+Another popular strategy is "[day trading](/wiki/day-trading-spy)," where traders buy and sell shares in the same day. They try to make money from small changes in the share price during the day. This can be risky because the market can be unpredictable, but it can also be exciting for people who like fast action. Some traders also use "technical analysis," which means looking at charts and patterns to guess where the share price might go next. They don't care so much about the company itself but focus more on the numbers and trends. Each of these strategies has its own way of trying to make money, and traders often mix and match them to find what works best for them.
 
 ## How can one start investing in the markets on Dalal Street?
 

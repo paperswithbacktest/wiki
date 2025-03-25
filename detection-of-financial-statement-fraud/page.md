@@ -22,7 +22,7 @@ Also, catching financial statement fraud early can prevent bigger problems. If a
 
 ## What are the common types of financial statement fraud?
 
-One common type of financial statement fraud is called revenue recognition fraud. This happens when a company pretends to have more sales than it really does. They might record sales that haven't happened yet or make up sales completely. This makes the company look like it's earning more money than it actually is, which can fool investors and lenders.
+One common type of financial statement fraud is called revenue recognition fraud. This happens when a company pretends to have more sales than it really does. They might record sales that haven't happened yet or make up sales completely. This makes the company look like it's [earning](/wiki/earning-announcement) more money than it actually is, which can fool investors and lenders.
 
 Another type is called expense manipulation. This is when a company hides or delays reporting its costs. They might move expenses to a different time period or not report them at all. By doing this, the company can make it seem like it's making more profit than it really is. This type of fraud can also involve hiding debts or other liabilities to make the company's financial situation look better.
 
@@ -84,7 +84,7 @@ Another big challenge is that the rules and ways of checking for fraud are alway
 
 Machine learning and AI can make finding financial statement fraud easier and faster. They can look at a lot of data quickly and find patterns that might show someone is lying about the money. For example, they can use something called anomaly detection to spot unusual transactions or numbers that don't fit the usual patterns. This can help find things that might be hard to see otherwise. Machine learning can also learn from past fraud cases to get better at spotting new ones. By using these smart tools, experts can catch fraud earlier and stop it from causing big problems.
 
-Another way machine learning and AI help is by making it easier to check a lot of financial statements at once. They can compare a company's numbers to other similar companies to see if anything looks off. This can help find fraud that might be hidden in the numbers. Also, these tools can keep learning and getting better over time, so they can keep up with new ways people might try to trick the system. By using machine learning and AI, the process of finding financial statement fraud becomes more accurate and efficient, making the financial world safer for everyone.
+Another way [machine learning](/wiki/machine-learning) and AI help is by making it easier to check a lot of financial statements at once. They can compare a company's numbers to other similar companies to see if anything looks off. This can help find fraud that might be hidden in the numbers. Also, these tools can keep learning and getting better over time, so they can keep up with new ways people might try to trick the system. By using machine learning and AI, the process of finding financial statement fraud becomes more accurate and efficient, making the financial world safer for everyone.
 
 ## References & Further Reading
 

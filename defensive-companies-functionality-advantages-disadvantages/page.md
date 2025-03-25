@@ -78,7 +78,7 @@ However, macroeconomic factors can still have some impact on defensive companies
 
 ## What are some advanced strategies for investing in defensive companies?
 
-One advanced strategy for investing in defensive companies is to look for those that are also growing in new areas. Some defensive companies might start selling new products or expand into new markets. This can help them grow faster than other defensive companies that just stay the same. For example, a food company might start making healthier snacks or a drug company might start working on new treatments. By picking these companies, you can get the safety of a defensive stock with the chance for more growth.
+One advanced strategy for investing in defensive companies is to look for those that are also growing in new areas. Some defensive companies might start selling new products or expand into new markets. This can help them grow faster than other defensive companies that just stay the same. For example, a food company might start making healthier snacks or a drug company might start working on new treatments. By [picking](/wiki/asset-class-picking) these companies, you can get the safety of a defensive stock with the chance for more growth.
 
 Another strategy is to use a sector rotation approach. This means moving your money between different types of companies based on what's happening in the economy. When things look like they might get tough, you can put more money into defensive companies. But when the economy starts doing better, you can move some of that money into companies that might grow faster. This way, you can balance the safety of defensive companies with the chance to make more money when times are good.
 

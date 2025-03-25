@@ -18,7 +18,7 @@ This theory was developed by William Baumol in the 1980s. He argued that the thr
 
 The Contestable Market Theory was developed by an economist named William Baumol in the 1980s. He came up with this idea to explain how markets can still be competitive even if there are only a few big companies in them.
 
-Baumol's theory says that what really matters is how easy it is for new companies to enter a market and for existing companies to leave it. If it's easy to enter and exit, the companies already in the market will act as if they are in a very competitive environment. They'll keep their prices low and their quality high because they know new competitors could come in at any time.
+Baumol's theory says that what really matters is how easy it is for new companies to enter a market and for existing companies to leave it. If it's easy to enter and [exit](/wiki/exit-strategy), the companies already in the market will act as if they are in a very competitive environment. They'll keep their prices low and their quality high because they know new competitors could come in at any time.
 
 ## What are the key assumptions of Contestable Market Theory?
 

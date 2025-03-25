@@ -28,7 +28,7 @@ Webull's account opening process is a bit more detailed but still easy to follow
 
 ## What types of assets can you trade on eToro and Webull?
 
-On eToro, you can trade a lot of different things. You can buy and sell stocks from all over the world, like from the US, Europe, and Asia. They also let you trade cryptocurrencies, like Bitcoin and Ethereum. Besides that, eToro offers trading in commodities like gold and oil, and you can even trade forex, which means different currencies. It's a good place if you want to try different kinds of investments all in one spot.
+On eToro, you can trade a lot of different things. You can buy and sell stocks from all over the world, like from the US, Europe, and Asia. They also let you trade cryptocurrencies, like Bitcoin and Ethereum. Besides that, eToro offers trading in commodities like gold and oil, and you can even trade [forex](/wiki/forex-system), which means different currencies. It's a good place if you want to try different kinds of investments all in one spot.
 
 Webull mainly focuses on stocks and options. You can trade stocks from the US markets, including big companies and smaller ones. They also let you trade options, which are a bit more complicated but can be a good way to make money if you know what you're doing. Webull doesn't offer as many types of assets as eToro, but it's great if you want to focus on stocks and options and get a lot of detailed information about them.
 
@@ -78,7 +78,7 @@ Webull is better suited for experienced traders because it has a lot of advanced
 
 eToro is regulated by different groups around the world to make sure it's safe and follows the rules. In the United States, it's overseen by the Financial Industry Regulatory Authority (FINRA) and the Securities and Exchange Commission (SEC). In Europe, eToro is regulated by the Cyprus Securities and Exchange Commission (CySEC). They also follow rules in other places like the UK and Australia. To keep your money safe, eToro uses strong security like two-factor authentication and encryption. They also keep your money separate from their own money, which means your money is safe even if something goes wrong with eToro.
 
-Webull is mainly for people in the United States and is regulated by the same groups as eToro, like FINRA and the SEC. This means they have to follow strict rules to keep your investments safe. Webull also has strong security measures like two-factor authentication and encryption to protect your account. They keep your money in separate accounts too, so it's safe even if Webull has problems. Both platforms take security seriously, but they have to follow different rules depending on where they operate.
+Webull is mainly for people in the United States and is regulated by the same groups as eToro, like FINRA and the SEC. This means they have to follow strict rules to keep your investments safe. Webull also has strong security measures like two-[factor](/wiki/factor-investing) authentication and encryption to protect your account. They keep your money in separate accounts too, so it's safe even if Webull has problems. Both platforms take security seriously, but they have to follow different rules depending on where they operate.
 
 ## References & Further Reading
 

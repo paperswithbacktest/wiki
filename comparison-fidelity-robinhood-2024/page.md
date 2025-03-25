@@ -52,7 +52,7 @@ Robinhood's customer service is different. You can reach them through email or b
 
 ## How do the interest rates on cash balances compare between Fidelity and Robinhood?
 
-At Fidelity, you can earn interest on the cash you keep in your account. They call it the "Fidelity Cash Management Account" and the interest rate changes depending on how much money you have. For smaller amounts, the interest rate might be low, but if you have more money, you can earn a higher rate. This means if you keep a lot of cash in your Fidelity account, you might see more money coming back to you over time.
+At Fidelity, you can earn interest on the cash you keep in your account. They call it the "Fidelity Cash Management Account" and the [interest rate](/wiki/interest-rate-trading-strategies) changes depending on how much money you have. For smaller amounts, the interest rate might be low, but if you have more money, you can earn a higher rate. This means if you keep a lot of cash in your Fidelity account, you might see more money coming back to you over time.
 
 Robinhood also lets you earn interest on your cash, but they call it "Robinhood Gold." You need to sign up for this special feature to get the interest. The interest rate at Robinhood can be different from Fidelity's and might change over time. Like Fidelity, the more money you have, the more interest you can earn. But remember, you need to be a Robinhood Gold member to get this benefit.
 
@@ -70,7 +70,7 @@ Robinhood has some advanced features, but they're not as many as Fidelity's. The
 
 ## What are the security measures implemented by Fidelity and Robinhood to protect user accounts?
 
-Fidelity takes a lot of steps to keep your account safe. They use something called two-factor authentication, which means you need more than just a password to log in. They also watch your account all the time to make sure no one is trying to get in without your permission. If they see anything strange, they'll let you know right away. Fidelity also keeps your personal information safe by using encryption, which is like a secret code that keeps your data hidden from people who shouldn't see it. They follow all the rules and laws about keeping your money safe too.
+Fidelity takes a lot of steps to keep your account safe. They use something called two-[factor](/wiki/factor-investing) authentication, which means you need more than just a password to log in. They also watch your account all the time to make sure no one is trying to get in without your permission. If they see anything strange, they'll let you know right away. Fidelity also keeps your personal information safe by using encryption, which is like a secret code that keeps your data hidden from people who shouldn't see it. They follow all the rules and laws about keeping your money safe too.
 
 Robinhood also works hard to protect your account. Like Fidelity, they use two-factor authentication to make sure it's really you logging in. They keep an eye on your account for any weird activity and will send you a message if they see something they don't like. Robinhood uses encryption to keep your information safe too. They also have something called SIPC insurance, which helps protect your money if something really bad happens to the company. Both Fidelity and Robinhood take security seriously, but they might do things a little differently.
 

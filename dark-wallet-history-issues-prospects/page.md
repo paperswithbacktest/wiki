@@ -54,7 +54,7 @@ On the ethical side, using Dark Wallet can be a good thing for people who need t
 
 Dark Wallet was first introduced in 2014 by Cody Wilson and Amir Taaki. They made it to help people keep their Bitcoin transactions private. At first, Dark Wallet was a big deal because it let people mix their money with others, which made it hard for anyone to track where the money was going. This was really important for people like journalists and activists who needed to keep their money safe from strict governments.
 
-Over time, Dark Wallet faced some challenges. It got a lot of attention from the media and law enforcement because it could be used for illegal things, like hiding money from taxes or buying illegal stuff. This made some people worried about using it, even if they were doing nothing wrong. Because of these issues, Dark Wallet didn't become as popular as other Bitcoin wallets. But the ideas behind it, like mixing transactions to keep them private, have influenced other privacy-focused tools in the cryptocurrency world.
+Over time, Dark Wallet faced some challenges. It got a lot of attention from the media and law enforcement because it could be used for illegal things, like hiding money from taxes or buying illegal stuff. This made some people worried about using it, even if they were doing nothing wrong. Because of these issues, Dark Wallet didn't become as popular as other Bitcoin wallets. But the ideas behind it, like mixing transactions to keep them private, have influenced other privacy-focused tools in the [cryptocurrency](/wiki/cryptocurrency) world.
 
 ## What are the technical challenges faced by Dark Wallet?
 

@@ -26,7 +26,7 @@ The Copenhagen Stock Exchange, or Nasdaq Copenhagen, is a place where different 
 
 Besides stocks, the Copenhagen Stock Exchange also trades bonds. Bonds are like loans that people give to companies or the government. In return, the company or government promises to pay back the money with interest over time. This gives investors another way to make money and helps companies and the government raise funds they need.
 
-Another type of security you can find at the Copenhagen Stock Exchange is exchange-traded funds (ETFs). ETFs are like baskets of different investments, such as stocks and bonds, all put together. When you buy an ETF, you're buying a small piece of all the things inside it. This makes it easier for people to invest in a variety of securities without having to buy each one separately.
+Another type of security you can find at the Copenhagen Stock Exchange is exchange-traded funds (ETFs). ETFs are like baskets of different investments, such as stocks and bonds, all put together. When you buy an [ETF](/wiki/etf-trading-strategies), you're buying a small piece of all the things inside it. This makes it easier for people to invest in a variety of securities without having to buy each one separately.
 
 ## Who are the main participants in the Copenhagen Stock Exchange?
 

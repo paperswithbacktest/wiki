@@ -48,7 +48,7 @@ Understanding the tax on your current income is important because it affects how
 
 When you want to get a loan or credit, like a credit card or a car loan, the people giving you the money, like a bank, will look at your current income. They want to know if you earn enough money right now to pay back the loan or credit card bill. If your current income is high, they might think you are more likely to pay them back, so they might give you the loan or credit. But if your current income is low, they might worry that you won't be able to pay, and they might say no or give you less money than you asked for.
 
-Your current income also helps decide how much you can borrow and what interest rate you will get. If you have a good, steady current income, you might get a bigger loan and a lower interest rate because the bank thinks you are a safe bet. But if your current income is not so high or it changes a lot, the bank might give you a smaller loan or charge you a higher interest rate because they see you as riskier. So, knowing your current income is important when you are trying to get a loan or credit.
+Your current income also helps decide how much you can borrow and what [interest rate](/wiki/interest-rate-trading-strategies) you will get. If you have a good, steady current income, you might get a bigger loan and a lower interest rate because the bank thinks you are a safe bet. But if your current income is not so high or it changes a lot, the bank might give you a smaller loan or charge you a higher interest rate because they see you as riskier. So, knowing your current income is important when you are trying to get a loan or credit.
 
 ## What strategies can be used to increase current income?
 

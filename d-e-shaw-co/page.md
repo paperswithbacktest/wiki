@@ -18,7 +18,7 @@ The company has offices in many places around the world, like New York, London, 
 
 David E. Shaw founded D. E. Shaw & Co. He started the company in 1988. David E. Shaw is a smart person who used to work at a big university before he decided to start his own company.
 
-D. E. Shaw & Co is a company that uses computers and math to make money in the stock market. It is called a hedge fund. The company has grown a lot since it was started and now has offices in many different places around the world.
+D. E. Shaw & Co is a company that uses computers and math to make money in the stock market. It is called a [hedge fund](/wiki/hedge-fund-trading-strategies). The company has grown a lot since it was started and now has offices in many different places around the world.
 
 ## What are the main services offered by D. E. Shaw & Co?
 

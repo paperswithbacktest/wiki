@@ -46,7 +46,7 @@ On the other hand, with a SIP, you spread out your investment over time. This ca
 
 ## What are the costs associated with SIPs and Mutual Funds?
 
-The costs associated with SIPs and mutual funds can be similar because both involve investing in mutual funds. One common cost is the expense ratio, which is a fee charged by the fund manager for managing the fund. This fee is usually a percentage of the total amount you have invested in the fund. Another cost to consider is the entry and exit loads, which are fees you might have to pay when you buy or sell units of the fund. Not all funds have these fees, but it's good to check before you invest.
+The costs associated with SIPs and mutual funds can be similar because both involve investing in mutual funds. One common cost is the expense ratio, which is a fee charged by the fund manager for managing the fund. This fee is usually a percentage of the total amount you have invested in the fund. Another cost to consider is the entry and [exit](/wiki/exit-strategy) loads, which are fees you might have to pay when you buy or sell units of the fund. Not all funds have these fees, but it's good to check before you invest.
 
 When it comes to SIPs, the costs are the same as those for the mutual fund you're investing in. This means you'll still have to pay the expense ratio and any entry or exit loads if they apply. The good thing about SIPs is that you're spreading out your investment over time, so these costs might feel less of a burden because you're not paying them all at once. But remember, the total costs over time can add up, so it's important to look at the fees carefully before you start a SIP.
 
@@ -54,7 +54,7 @@ In summary, the costs for SIPs and mutual funds are similar and include the expe
 
 ## How does the liquidity of investments in SIPs compare to Mutual Funds?
 
-The liquidity of investments in SIPs and mutual funds is pretty similar because both are ways to invest in mutual funds. Liquidity means how easily you can turn your investment into cash. With mutual funds, if you invest a lump sum, you can usually sell your units and get your money back pretty quickly, often within a few days. This makes mutual funds quite liquid.
+The [liquidity](/wiki/liquidity-risk-premium) of investments in SIPs and mutual funds is pretty similar because both are ways to invest in mutual funds. Liquidity means how easily you can turn your investment into cash. With mutual funds, if you invest a lump sum, you can usually sell your units and get your money back pretty quickly, often within a few days. This makes mutual funds quite liquid.
 
 With SIPs, you're investing a little bit of money regularly, but the money you put in goes into the same mutual fund. So, if you need to get your money back, you can sell the units you've bought through your SIP just like you would with a lump sum investment in a mutual fund. The only difference might be that with a SIP, you might not have as much money invested at any one time if you've only been investing for a short while. But overall, the liquidity is similar because it depends on the mutual fund itself, not on whether you used a SIP or a lump sum to invest.
 
@@ -80,7 +80,7 @@ A third strategy is dollar-cost averaging, which is especially useful with SIPs.
 
 ## How do performance metrics and benchmarks differ when comparing SIPs and Mutual Funds?
 
-When you look at performance metrics and benchmarks for SIPs and mutual funds, you're really looking at the same thing because both are ways to invest in mutual funds. The performance of a mutual fund is measured by things like its return, which is how much money it makes or loses over time, and its volatility, which is how much its value goes up and down. Benchmarks are used to compare a mutual fund's performance to something else, like a stock market index. So, whether you invest through a SIP or with a lump sum, the performance metrics and benchmarks you use to judge the mutual fund are the same.
+When you look at performance metrics and benchmarks for SIPs and mutual funds, you're really looking at the same thing because both are ways to invest in mutual funds. The performance of a mutual fund is measured by things like its return, which is how much money it makes or loses over time, and its [volatility](/wiki/volatility-trading-strategies), which is how much its value goes up and down. Benchmarks are used to compare a mutual fund's performance to something else, like a stock market index. So, whether you invest through a SIP or with a lump sum, the performance metrics and benchmarks you use to judge the mutual fund are the same.
 
 The main difference comes in how you look at the performance over time. With a mutual fund, you can see how it did from the day you invested your lump sum. But with a SIP, you're investing a little bit of money regularly, so you need to look at how the fund did over the whole time you were investing. This can be more complicated because you're buying units at different prices. But the metrics and benchmarks you use are still the same; you're just applying them to a different way of investing.
 

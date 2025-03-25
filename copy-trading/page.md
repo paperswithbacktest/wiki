@@ -34,7 +34,7 @@ Another risk is that you might not fully understand why the trader is making cer
 
 ## How do you choose a trader to copy?
 
-When picking a trader to copy, it's good to look at their past results. Check how well they've done over time, not just in the last few weeks or months. A trader with a steady track record of making money is usually a safer bet than someone who has big wins but also big losses. Also, see how much risk they take. Some traders might make big profits, but they could also lose a lot if things go wrong. You want someone who balances making money with not taking too many risks.
+When [picking](/wiki/asset-class-picking) a trader to copy, it's good to look at their past results. Check how well they've done over time, not just in the last few weeks or months. A trader with a steady track record of making money is usually a safer bet than someone who has big wins but also big losses. Also, see how much risk they take. Some traders might make big profits, but they could also lose a lot if things go wrong. You want someone who balances making money with not taking too many risks.
 
 It's also smart to look at how long the trader has been around. Someone who's been trading for a few years is often more reliable than someone who just started. You can also read reviews or feedback from other people who copy them to see if they're happy with the results. And don't forget to think about what kind of trading you want to do. If you're interested in tech stocks, find a trader who focuses on those. Matching your interests with the trader's strategy can make you feel more comfortable with your choice.
 
@@ -76,7 +76,7 @@ Another way to evaluate a trader's performance is by keeping an eye on how they'
 
 ## What are advanced techniques for managing a copy trading portfolio?
 
-To manage a copy trading portfolio well, you can start by spreading your money across different traders. This way, if one trader does poorly, you won't lose all your money. Look for traders who focus on different types of investments, like stocks, forex, or cryptocurrencies. This can help balance out your risks. Also, keep an eye on how much money you're putting into each trader. If one trader is doing really well, you might want to put more money into copying them. But if another trader starts doing badly, you can take some money out and find a better one to copy.
+To manage a copy trading portfolio well, you can start by spreading your money across different traders. This way, if one trader does poorly, you won't lose all your money. Look for traders who focus on different types of investments, like stocks, [forex](/wiki/forex-system), or cryptocurrencies. This can help balance out your risks. Also, keep an eye on how much money you're putting into each trader. If one trader is doing really well, you might want to put more money into copying them. But if another trader starts doing badly, you can take some money out and find a better one to copy.
 
 Another advanced technique is to use stop-loss orders. These are like safety nets that automatically stop you from losing too much money. If a trade goes against you, a stop-loss order can close it before you lose more than you're comfortable with. Also, keep checking the performance of the traders you're copying. Most platforms let you set up alerts to tell you if something big happens, like a trader's performance changing a lot or big moves in the market. By staying involved and making smart changes, you can make your copy trading portfolio work better for you.
 

@@ -22,7 +22,7 @@ Some digital currencies, like Bitcoin, use something called blockchain to keep t
 
 ## What are the main types of digital currency?
 
-There are two main types of digital currency: cryptocurrencies and central bank digital currencies (CBDCs). Cryptocurrencies are digital money that use special computer math to keep them safe and private. They are not controlled by any government or bank. Bitcoin is a famous example of a cryptocurrency. People can use cryptocurrencies to buy things online or send money to others without needing a bank.
+There are two main types of digital currency: cryptocurrencies and central bank digital currencies (CBDCs). Cryptocurrencies are digital money that use special computer math to keep them safe and private. They are not controlled by any government or bank. Bitcoin is a famous example of a [cryptocurrency](/wiki/cryptocurrency). People can use cryptocurrencies to buy things online or send money to others without needing a bank.
 
 Central bank digital currencies, or CBDCs, are different. They are digital versions of regular money that are made and controlled by a country's central bank. For example, if the U.S. made a digital dollar, that would be a CBDC. These digital currencies work a lot like regular money but are used on computers and phones. They are usually seen as safer than cryptocurrencies because they are backed by the government.
 
@@ -36,7 +36,7 @@ Other examples of digital currencies include central bank digital currencies, or
 
 ## How is digital currency different from traditional currency?
 
-Digital currency is different from traditional currency because it only exists on computers and phones, not as physical money like coins and paper bills. Traditional currency is made by governments and banks, and you can touch it and carry it in your wallet. Digital currency, on the other hand, is stored in a digital wallet and you use the internet to send it to others. This makes it easy to use online, but it can also be risky because it's not always protected by the same rules as regular money.
+Digital currency is different from traditional currency because it only exists on computers and phones, not as physical money like coins and paper bills. Traditional currency is made by governments and banks, and you can touch it and [carry](/wiki/carry-trading) it in your wallet. Digital currency, on the other hand, is stored in a digital wallet and you use the internet to send it to others. This makes it easy to use online, but it can also be risky because it's not always protected by the same rules as regular money.
 
 Another big difference is how digital currency is controlled. Traditional money is managed by banks and governments, which keep track of who has how much money and make sure everything is safe. Some digital currencies, like Bitcoin, are not controlled by any bank or government. They use special computer math and a system called blockchain to keep track of transactions and make sure the money is safe. Other digital currencies, like central bank digital currencies (CBDCs), are made and controlled by a country's central bank, similar to traditional money but in digital form.
 
@@ -66,7 +66,7 @@ Another important technology is cryptography. This is special math that helps ke
 
 ## How can one acquire and store digital currency?
 
-To get digital currency, you can buy it with regular money. You can use special websites called cryptocurrency exchanges to do this. You sign up on the website, put in some regular money, and then use that money to buy digital currency like Bitcoin or Ethereum. Another way to get digital currency is by earning it. Some people get paid in digital currency for their work, or they can earn it by helping to keep the digital currency system running, like by solving special computer puzzles in a process called mining.
+To get digital currency, you can buy it with regular money. You can use special websites called cryptocurrency exchanges to do this. You sign up on the website, put in some regular money, and then use that money to buy digital currency like Bitcoin or Ethereum. Another way to get digital currency is by [earning](/wiki/earning-announcement) it. Some people get paid in digital currency for their work, or they can earn it by helping to keep the digital currency system running, like by solving special computer puzzles in a process called mining.
 
 Once you have digital currency, you need to store it safely. You do this by using a digital wallet. A digital wallet is like a special app on your computer or phone that keeps your digital money safe. There are different types of digital wallets. Some are kept online, which makes them easy to use but a bit riskier. Others are kept offline, like on a special device that looks like a USB stick, which is safer but a bit harder to use. No matter which type you choose, it's important to keep your digital wallet secure by using strong passwords and keeping your computer or phone safe from bad people.
 

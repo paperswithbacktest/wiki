@@ -18,7 +18,7 @@ These loans usually have a higher interest rate than normal home loans. They als
 
 A construction loan is used to build a new home or make major changes to an existing one, while a traditional mortgage is used to buy a home that's already built. With a construction loan, the money is given out in stages as the building work progresses. This means the bank will check the construction at certain points before releasing more funds. On the other hand, a traditional mortgage gives you all the money at once when you buy the home.
 
-Construction loans usually have higher interest rates and shorter repayment periods, often just one to two years. This is because they are considered riskier for the bank since the home isn't finished yet. Once the building is done, people often convert their construction loan into a traditional mortgage, which has a longer repayment period and a lower interest rate. Traditional mortgages, being more straightforward, have lower interest rates and can be paid back over many years, usually 15 to 30 years.
+Construction loans usually have higher interest rates and shorter repayment periods, often just one to two years. This is because they are considered riskier for the bank since the home isn't finished yet. Once the building is done, people often convert their construction loan into a traditional mortgage, which has a longer repayment period and a lower [interest rate](/wiki/interest-rate-trading-strategies). Traditional mortgages, being more straightforward, have lower interest rates and can be paid back over many years, usually 15 to 30 years.
 
 ## What are the typical terms and conditions of a construction loan?
 

@@ -22,7 +22,7 @@ Betterment is also great for people new to investing. It creates a diversified p
 
 ## What are the fee structures for M1 Finance and Betterment?
 
-M1 Finance has a simple fee structure. If you use their basic service, it's free. You can invest in stocks and ETFs without paying any management fees. But if you want to use their premium service, called M1 Plus, it costs $10 a month or $95 a year. M1 Plus gives you extra features like borrowing against your investments and getting a higher interest rate on your cash.
+M1 Finance has a simple fee structure. If you use their basic service, it's free. You can invest in stocks and ETFs without paying any management fees. But if you want to use their premium service, called M1 Plus, it costs $10 a month or $95 a year. M1 Plus gives you extra features like borrowing against your investments and getting a higher [interest rate](/wiki/interest-rate-trading-strategies) on your cash.
 
 Betterment also has two types of accounts with different fees. Their basic account, called Betterment Digital, charges a low fee of 0.25% per year on the money you invest. This fee is taken out of your account automatically. If you want more help and advice, you can get Betterment Premium, which costs 0.40% per year. Betterment Premium includes unlimited access to financial experts who can help you with your investments and plans.
 
@@ -54,7 +54,7 @@ Betterment provides more ways to get help. You can reach them by email, phone, o
 
 M1 Finance has a user-friendly interface that is easy to navigate, especially for beginners. When you log in, you see your pies, which are your investment portfolios, right away. You can easily add money to your pies or change them by dragging and dropping stocks and ETFs. M1 Finance also has a mobile app that works well and lets you manage your investments on the go. The interface is simple and clean, but it doesn't have as many advanced features as some other platforms. If you want to do things like tax-loss harvesting, you'll need to look elsewhere.
 
-Betterment's interface is also designed to be easy to use, but it focuses more on automation and planning. When you log in, you see your overall portfolio and how it's doing. Betterment does all the work of picking and managing your investments for you, so the interface shows you big-picture things like your goals and progress. It also has tools to help you plan for the future, like retirement calculators. The mobile app is good too, letting you check your investments anytime. Betterment's interface might feel a bit less hands-on than M1 Finance's, but it's great if you want a platform that does most of the work for you.
+Betterment's interface is also designed to be easy to use, but it focuses more on automation and planning. When you log in, you see your overall portfolio and how it's doing. Betterment does all the work of [picking](/wiki/asset-class-picking) and managing your investments for you, so the interface shows you big-picture things like your goals and progress. It also has tools to help you plan for the future, like retirement calculators. The mobile app is good too, letting you check your investments anytime. Betterment's interface might feel a bit less hands-on than M1 Finance's, but it's great if you want a platform that does most of the work for you.
 
 ## What advanced features do M1 Finance and Betterment offer for expert investors?
 
@@ -72,7 +72,7 @@ Betterment, on the other hand, gives you a more straightforward performance hist
 
 M1 Finance takes security seriously to keep your money and information safe. They use strong encryption to protect your data when you log in and do transactions. M1 Finance also follows rules set by the government to keep your money safe, like using something called SIPC coverage. This means if something bad happens to M1 Finance, your investments are protected up to $500,000. They also have a system to watch for anything strange happening in your account, so they can stop fraud before it gets too far.
 
-Betterment also has strong security measures to keep your account safe. They use encryption to protect your data and have systems in place to spot and stop fraud. Betterment follows the same government rules as M1 Finance, including SIPC coverage, to make sure your investments are safe. They also let you use two-factor authentication, which means you need more than just a password to log in. This adds an extra layer of security to make sure only you can access your account.
+Betterment also has strong security measures to keep your account safe. They use encryption to protect your data and have systems in place to spot and stop fraud. Betterment follows the same government rules as M1 Finance, including SIPC coverage, to make sure your investments are safe. They also let you use two-[factor](/wiki/factor-investing) authentication, which means you need more than just a password to log in. This adds an extra layer of security to make sure only you can access your account.
 
 ## How do M1 Finance and Betterment integrate with other financial tools and services?
 

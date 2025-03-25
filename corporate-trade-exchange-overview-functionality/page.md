@@ -76,7 +76,7 @@ Some trade exchanges also use special software to manage everything behind the s
 
 ## What are the future trends and potential developments in corporate trade exchanges?
 
-In the future, corporate trade exchanges might use more technology to make trading easier and faster. They could use things like artificial intelligence to match businesses that want to trade with each other. This would help find the best trades quickly, without businesses having to search for them. Also, trade exchanges might start using blockchain technology to keep better records of trades. Blockchain can make sure the records are safe and cannot be changed, which would make the exchange more trustworthy.
+In the future, corporate trade exchanges might use more technology to make trading easier and faster. They could use things like [artificial intelligence](/wiki/ai-artificial-intelligence) to match businesses that want to trade with each other. This would help find the best trades quickly, without businesses having to search for them. Also, trade exchanges might start using blockchain technology to keep better records of trades. Blockchain can make sure the records are safe and cannot be changed, which would make the exchange more trustworthy.
 
 Another trend could be more businesses joining trade exchanges, especially small businesses. As more companies see the benefits of saving money and using their resources better, they might want to start trading too. This could make trade exchanges bigger and more important in the economy. Plus, trade exchanges might start working with other kinds of businesses, like big companies or even governments, to help them trade too. This could make the whole system even more useful and help the economy grow.
 

@@ -24,7 +24,7 @@ For example, a famous brand name like Coca-Cola is an intangible asset. People a
 
 Goodwill is shown on a company's balance sheet when one company buys another for more money than the value of the things the bought company owns. This extra money paid is called goodwill, and it shows how much the buying company thinks the brand, customers, and other special things about the bought company are worth. You can find goodwill listed under the "Assets" part of the balance sheet, usually in a section called "Intangible Assets."
 
-Goodwill doesn't go away quickly like some other things on the balance sheet. It stays on the books unless the company thinks it's worth less now, which is called an impairment. If that happens, the company has to lower the value of goodwill on the balance sheet. But if the company thinks the goodwill is still worth what they paid, it just stays the same on the balance sheet from year to year.
+Goodwill doesn't go away quickly like some other things on the balance sheet. It stays on the [books](/wiki/algo-trading-books) unless the company thinks it's worth less now, which is called an impairment. If that happens, the company has to lower the value of goodwill on the balance sheet. But if the company thinks the goodwill is still worth what they paid, it just stays the same on the balance sheet from year to year.
 
 ## What are examples of intangible assets?
 

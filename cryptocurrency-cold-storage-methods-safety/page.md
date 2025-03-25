@@ -18,7 +18,7 @@ Cold storage is important because it adds an extra layer of security. If you hav
 
 Cold storage is important for cryptocurrency security because it keeps your digital money safe from hackers. When you store your cryptocurrencies offline, they are not connected to the internet. This means that hackers can't get to them easily. Online exchanges and hot wallets can be targets for cyber attacks, but if your money is in cold storage, it's like it's hidden away where no one can find it.
 
-Using cold storage is like putting your money in a safe at home instead of carrying it around in your wallet. If someone hacks into an online exchange, they can't steal your cryptocurrencies if they are stored offline. This extra layer of security is really important, especially if you have a lot of cryptocurrency. By keeping your digital money in cold storage, you make sure it stays safe even if something bad happens online.
+Using cold storage is like putting your money in a safe at home instead of carrying it around in your wallet. If someone hacks into an online exchange, they can't steal your cryptocurrencies if they are stored offline. This extra layer of security is really important, especially if you have a lot of [cryptocurrency](/wiki/cryptocurrency). By keeping your digital money in cold storage, you make sure it stays safe even if something bad happens online.
 
 ## What are the different types of cold storage methods?
 

@@ -54,7 +54,7 @@ On the other hand, when people are worried about their money, they tend to cut b
 
 ## What are some leading companies in the consumer discretionary sector?
 
-Some of the biggest companies in the consumer discretionary sector are Amazon, Nike, and Disney. Amazon is a huge online store where people buy all sorts of things they want, like books, electronics, and clothes. Nike makes popular shoes and sports clothes that many people like to wear. Disney runs theme parks and makes movies and TV shows that people enjoy watching.
+Some of the biggest companies in the consumer discretionary sector are Amazon, Nike, and Disney. Amazon is a huge online store where people buy all sorts of things they want, like [books](/wiki/algo-trading-books), electronics, and clothes. Nike makes popular shoes and sports clothes that many people like to wear. Disney runs theme parks and makes movies and TV shows that people enjoy watching.
 
 Other important companies in this sector include McDonald's, which is known for its fast food restaurants, and Ford, which makes cars and trucks. McDonald's is a place where people go to eat out, and when they feel good about their money, they might go there more often. Ford sells vehicles that people want but don't need, like trucks for fun or fancy cars. When the economy is doing well, more people might buy these vehicles.
 

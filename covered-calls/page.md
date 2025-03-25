@@ -60,7 +60,7 @@ So, when you're setting up a covered call, it's a good idea to look at the divid
 
 Volatility, or how much a stock's price moves up and down, can really change how a covered call strategy works. If a stock is really volatile, meaning its price jumps around a lot, you can usually get a bigger premium when you sell a call option. That's because the buyer of the option is willing to pay more for the chance that the stock price might go above the strike price. So, if you like getting bigger premiums, selling covered calls on a volatile stock can be a good idea.
 
-But there's a catch. If the stock price does jump a lot and goes way above the strike price, you might have to sell your shares at the strike price, which could be lower than what you could get on the open market. This means you could miss out on bigger gains. So, while high volatility can mean bigger premiums, it also means more risk. You have to think about whether the extra money from the premium is worth the chance of missing out on bigger profits if the stock price soars.
+But there's a catch. If the stock price does jump a lot and goes way above the strike price, you might have to sell your shares at the strike price, which could be lower than what you could get on the open market. This means you could miss out on bigger gains. So, while high [volatility](/wiki/volatility-trading-strategies) can mean bigger premiums, it also means more risk. You have to think about whether the extra money from the premium is worth the chance of missing out on bigger profits if the stock price soars.
 
 ## Can you explain the tax implications of covered calls?
 

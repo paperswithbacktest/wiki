@@ -30,7 +30,7 @@ People like them because they are rare and different from each other. Some Crypt
 
 CryptoPunks are unique because each one is a different picture. There are 10,000 of them, and no two are exactly the same. They show people with different hairstyles, clothes, and accessories. Some have hats, some have glasses, and some even have alien skin. This variety makes every CryptoPunk special and interesting.
 
-Another reason CryptoPunks are unique is that they are stored on a blockchain. This is a special computer system that keeps them safe and makes sure nobody can copy or change them. Because they are on the blockchain, people can buy and sell them using cryptocurrency, like Ethereum. This has made CryptoPunks very popular and valuable in the world of digital art.
+Another reason CryptoPunks are unique is that they are stored on a blockchain. This is a special computer system that keeps them safe and makes sure nobody can copy or change them. Because they are on the blockchain, people can buy and sell them using [cryptocurrency](/wiki/cryptocurrency), like Ethereum. This has made CryptoPunks very popular and valuable in the world of digital art.
 
 ## How can someone acquire a CryptoPunk?
 

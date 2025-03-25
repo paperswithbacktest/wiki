@@ -48,7 +48,7 @@ The income part of the distribution from MLPs can be taxed as regular income, wh
 
 REITs are generally more liquid than MLPs. This means it's easier to buy and sell shares of REITs because they are traded on big stock exchanges like the New York Stock Exchange or NASDAQ. You can buy or sell them quickly during trading hours, just like you would with regular stocks. This makes it easier for investors to get in and out of their investments in REITs without waiting a long time.
 
-On the other hand, MLPs can be less liquid. While some MLPs are also traded on major stock exchanges, they might not have as many buyers and sellers as REITs. This can make it harder to sell your MLP units quickly, especially if you want to sell a lot of them at once. The lower liquidity of MLPs can mean you might have to wait longer or accept a lower price when you want to sell.
+On the other hand, MLPs can be less liquid. While some MLPs are also traded on major stock exchanges, they might not have as many buyers and sellers as REITs. This can make it harder to sell your MLP units quickly, especially if you want to sell a lot of them at once. The lower [liquidity](/wiki/liquidity-risk-premium) of MLPs can mean you might have to wait longer or accept a lower price when you want to sell.
 
 So, if you're looking for an investment that you can easily turn into cash, REITs might be a better choice than MLPs. But if you're okay with holding onto your investment for a longer time and dealing with a bit more complexity, MLPs could still be a good option for you.
 

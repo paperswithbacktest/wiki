@@ -24,7 +24,7 @@ ETFs are traded on stock exchanges, just like individual stocks. This means you 
 
 When you buy a stock, you own a small part of one company. It's like owning a piece of a pizza. If the company does well, the value of your stock might go up, and you could make money. But if the company doesn't do well, the value of your stock might go down, and you could lose money. Owning a stock means you are directly tied to the success or failure of that one company.
 
-On the other hand, when you buy an ETF, you own a small part of many different things all at once. It's like owning a small piece of many different pizzas. An ETF holds a bunch of stocks, bonds, or other assets, so when you buy one share of an ETF, you get a little bit of everything inside it. This can help spread out your risk because if one company in the ETF doesn't do well, you still have many others that might do better.
+On the other hand, when you buy an [ETF](/wiki/etf-trading-strategies), you own a small part of many different things all at once. It's like owning a small piece of many different pizzas. An ETF holds a bunch of stocks, bonds, or other assets, so when you buy one share of an ETF, you get a little bit of everything inside it. This can help spread out your risk because if one company in the ETF doesn't do well, you still have many others that might do better.
 
 ## What are the typical costs associated with investing in stocks versus ETFs?
 
@@ -58,7 +58,7 @@ On the other hand, when you invest in individual stocks, you're betting on just 
 
 ## How do the management styles of stocks and ETFs differ?
 
-When you invest in stocks, you are usually in charge of picking which companies to buy. You have to do your own research to decide if a company is a good investment. This means looking at things like how much money the company makes, who runs it, and what people think about it. If you think a company will do well, you buy its stock. If you think it won't do well, you might sell it or not buy it at all. This kind of investing is called active management because you are actively making choices about what to buy and sell.
+When you invest in stocks, you are usually in charge of [picking](/wiki/asset-class-picking) which companies to buy. You have to do your own research to decide if a company is a good investment. This means looking at things like how much money the company makes, who runs it, and what people think about it. If you think a company will do well, you buy its stock. If you think it won't do well, you might sell it or not buy it at all. This kind of investing is called active management because you are actively making choices about what to buy and sell.
 
 ETFs are different because they are usually managed by a company that decides what goes into the ETF. Most ETFs follow a certain plan or index, like the S&P 500, which is a list of big companies. The people who manage the ETF make sure it matches this plan or index as closely as possible. This is called passive management because they are not trying to pick the best stocks; they are just trying to copy the plan or index. So, when you buy an ETF, you are buying into this plan, and you don't have to pick the individual stocks yourself.
 
@@ -66,7 +66,7 @@ ETFs are different because they are usually managed by a company that decides wh
 
 When comparing stocks and ETFs, one important performance metric to look at is the return. Return is how much money you make or lose from your investment. For stocks, you can look at the price change over time and any dividends you get. For ETFs, you look at the overall change in the value of the ETF and any dividends it pays out. It's good to compare the returns of stocks and ETFs over the same time period to see which one did better.
 
-Another metric to consider is volatility. Volatility is how much the price of an investment goes up and down. Stocks can be more volatile than ETFs because they depend on the success of just one company. If the company does well, the stock price might go up a lot. But if the company does badly, the stock price can go down a lot too. ETFs are usually less volatile because they hold many different stocks or assets. This means the ups and downs of one company don't affect the ETF as much.
+Another metric to consider is [volatility](/wiki/volatility-trading-strategies). Volatility is how much the price of an investment goes up and down. Stocks can be more volatile than ETFs because they depend on the success of just one company. If the company does well, the stock price might go up a lot. But if the company does badly, the stock price can go down a lot too. ETFs are usually less volatile because they hold many different stocks or assets. This means the ups and downs of one company don't affect the ETF as much.
 
 You should also think about the expense ratio for ETFs, which is the cost of managing the ETF. This is a small percentage of your investment that you pay each year. Stocks don't have an expense ratio, but they might have other costs like commissions when you buy or sell them. When comparing performance, you need to think about these costs because they can affect how much money you keep at the end of the day.
 

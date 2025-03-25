@@ -78,7 +78,7 @@ Another challenge DE Shaw has faced is competition. There are many other compani
 
 ## What future trends might influence DE Shaw's strategies?
 
-Future trends like artificial intelligence and machine learning will likely change how DE Shaw makes investment choices. These technologies can look at even more data and find patterns that are hard for people to see. DE Shaw might use AI to make their investment strategies even smarter. This could help them find new ways to make money and manage risk better. As AI gets better, DE Shaw will need to keep up with the latest technology to stay ahead of other companies.
+Future trends like [artificial intelligence](/wiki/ai-artificial-intelligence) and [machine learning](/wiki/machine-learning) will likely change how DE Shaw makes investment choices. These technologies can look at even more data and find patterns that are hard for people to see. DE Shaw might use AI to make their investment strategies even smarter. This could help them find new ways to make money and manage risk better. As AI gets better, DE Shaw will need to keep up with the latest technology to stay ahead of other companies.
 
 Another trend that could affect DE Shaw is the growing interest in sustainable investing. More and more people want to put their money in companies that are good for the environment and society. DE Shaw might start looking for investments that not only make money but also help the world. This could mean investing in green energy or companies that treat their workers well. By focusing on sustainable investments, DE Shaw can attract more people who care about these issues and also help make a positive impact on the world.
 

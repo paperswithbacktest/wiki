@@ -18,7 +18,7 @@ This makes CMS different from regular interest rate swaps because the floating r
 
 A Constant Maturity Swap (CMS) and a regular interest rate swap both involve an agreement between two parties to exchange interest payments. In a regular interest rate swap, one party pays a fixed interest rate, and the other pays a floating rate that usually follows a short-term rate like the 3-month LIBOR. This helps businesses and investors manage their exposure to short-term interest rate changes.
 
-On the other hand, a CMS is unique because the floating rate it uses is based on a long-term interest rate, such as the 10-year government bond rate. This means that instead of tracking short-term rate changes, a CMS follows the movements of long-term rates. This makes CMS a useful tool for those who want to hedge against or speculate on long-term interest rate movements, offering a different kind of protection or opportunity compared to regular interest rate swaps.
+On the other hand, a CMS is unique because the floating rate it uses is based on a long-term [interest rate](/wiki/interest-rate-trading-strategies), such as the 10-year government bond rate. This means that instead of tracking short-term rate changes, a CMS follows the movements of long-term rates. This makes CMS a useful tool for those who want to hedge against or speculate on long-term interest rate movements, offering a different kind of protection or opportunity compared to regular interest rate swaps.
 
 ## What are the key components of a CMS?
 

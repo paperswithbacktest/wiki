@@ -18,7 +18,7 @@ In 2024, having a Solana wallet is important because the Solana network has beco
 
 In 2024, one of the most user-friendly Solana wallets for beginners is Phantom. Phantom is designed to be easy to use, with a simple interface that makes it easy to send, receive, and manage your Solana and other tokens. It's available as a browser extension and a mobile app, so you can use it on your computer or your phone. Phantom also has built-in features that help you explore different applications on the Solana network, making it a great choice for people new to the world of cryptocurrency.
 
-Another great option for beginners is Solflare. Solflare is known for its straightforward design and easy navigation, which makes it perfect for people who are just starting out. It supports both a web-based version and a mobile app, so you can access your wallet from anywhere. Solflare also offers strong security features, like two-factor authentication, which helps keep your assets safe. Both Phantom and Solflare are excellent choices for anyone looking to dive into the Solana ecosystem without feeling overwhelmed.
+Another great option for beginners is Solflare. Solflare is known for its straightforward design and easy navigation, which makes it perfect for people who are just starting out. It supports both a web-based version and a mobile app, so you can access your wallet from anywhere. Solflare also offers strong security features, like two-[factor](/wiki/factor-investing) authentication, which helps keep your assets safe. Both Phantom and Solflare are excellent choices for anyone looking to dive into the Solana ecosystem without feeling overwhelmed.
 
 ## How do the security features of different Solana wallets compare in 2024?
 
@@ -46,7 +46,7 @@ Both Phantom and Solflare have special features that make using dApps even bette
 
 ## How do Solana wallets handle token swaps and liquidity pools in 2024?
 
-In 2024, Solana wallets like Phantom and Solflare make it easy for you to swap tokens and use liquidity pools. Swapping tokens means you can trade one type of cryptocurrency for another right from your wallet. For example, you can swap Solana (SOL) for another token like USDC. These wallets connect to decentralized exchanges (DEXs) on the Solana network, so you can choose which tokens you want to swap and see the price before you do it. It's quick and usually costs just a small fee to the network.
+In 2024, Solana wallets like Phantom and Solflare make it easy for you to swap tokens and use [liquidity](/wiki/liquidity-risk-premium) pools. Swapping tokens means you can trade one type of [cryptocurrency](/wiki/cryptocurrency) for another right from your wallet. For example, you can swap Solana (SOL) for another token like USDC. These wallets connect to decentralized exchanges (DEXs) on the Solana network, so you can choose which tokens you want to swap and see the price before you do it. It's quick and usually costs just a small fee to the network.
 
 Liquidity pools are another feature that Solana wallets handle well. A liquidity pool is like a big pot of money where people put in different tokens to help others trade them. If you want to add your tokens to a pool, you can do it right from your wallet. In return, you get a special token that represents your share of the pool, and you can earn rewards when others use the pool to swap tokens. Wallets like Phantom and Solflare make it simple to add or remove your tokens from these pools and show you how much you can earn.
 

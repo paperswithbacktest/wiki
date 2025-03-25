@@ -46,7 +46,7 @@ Another risk is that you might get overwhelmed by all the choices you have to ma
 
 ## How can one secure their assets in custody-only trading?
 
-To keep your assets safe in custody-only trading, it's important to choose a trustworthy financial institution. Look for a company that is well-known and has a good reputation for keeping customers' money safe. Make sure they are regulated by a financial authority, which means they have to follow strict rules to protect your investments. Also, use strong passwords and enable two-factor authentication on your account to make it harder for anyone to get into your account without your permission.
+To keep your assets safe in custody-only trading, it's important to choose a trustworthy financial institution. Look for a company that is well-known and has a good reputation for keeping customers' money safe. Make sure they are regulated by a financial authority, which means they have to follow strict rules to protect your investments. Also, use strong passwords and enable two-[factor](/wiki/factor-investing) authentication on your account to make it harder for anyone to get into your account without your permission.
 
 Once you've chosen a good institution, keep an eye on your account regularly. Check your statements and transactions to make sure everything looks right. If you see something strange or think something might be wrong, contact the institution right away. They can help you figure out what's going on and keep your money safe. Remember, even though you're making all the trading decisions, the institution is still responsible for holding your assets securely.
 

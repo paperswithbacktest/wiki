@@ -22,7 +22,7 @@ CEFs often invest in a variety of assets, like stocks, bonds, or even real estat
 
 ## How do ETFs and CEFs differ in terms of structure?
 
-ETFs and CEFs differ a lot in how they are set up. ETFs can create new shares whenever someone wants to buy them. This means that if more people want to invest in an ETF, the fund can just make more shares to meet the demand. On the other hand, CEFs have a set number of shares from the start. Once all the shares are sold in the initial offering, that's it—no more shares are made. So, if you want to buy into a CEF after that, you have to buy from someone else who is selling their shares.
+ETFs and CEFs differ a lot in how they are set up. ETFs can create new shares whenever someone wants to buy them. This means that if more people want to invest in an [ETF](/wiki/etf-trading-strategies), the fund can just make more shares to meet the demand. On the other hand, CEFs have a set number of shares from the start. Once all the shares are sold in the initial offering, that's it—no more shares are made. So, if you want to buy into a CEF after that, you have to buy from someone else who is selling their shares.
 
 Another big difference is how they are traded. ETFs trade on stock exchanges just like regular stocks, so you can buy and sell them anytime during the trading day. Their price usually stays pretty close to the value of the assets they hold. CEFs also trade on stock exchanges, but because they have a fixed number of shares, their price can be different from the value of their assets. Sometimes, CEFs trade at a price that's higher (a premium) or lower (a discount) than what their assets are actually worth. This can make CEFs a bit trickier to understand and invest in compared to ETFs.
 
@@ -58,7 +58,7 @@ CEFs, on the other hand, can lead to more tax headaches. Because CEFs are often 
 
 ## How do liquidity and trading volumes differ between ETFs and CEFs?
 
-ETFs usually have better liquidity and higher trading volumes than CEFs. Liquidity means how easy it is to buy or sell something without affecting its price too much. Because ETFs can create new shares whenever people want to buy them, there are always plenty of shares available. This means lots of people can buy and sell ETFs every day, which makes them very liquid. High trading volumes also mean you can usually buy or sell ETFs at the price you want without waiting too long.
+ETFs usually have better [liquidity](/wiki/liquidity-risk-premium) and higher trading volumes than CEFs. Liquidity means how easy it is to buy or sell something without affecting its price too much. Because ETFs can create new shares whenever people want to buy them, there are always plenty of shares available. This means lots of people can buy and sell ETFs every day, which makes them very liquid. High trading volumes also mean you can usually buy or sell ETFs at the price you want without waiting too long.
 
 CEFs, on the other hand, can be less liquid and have lower trading volumes. Since CEFs have a fixed number of shares, if everyone wants to buy them at the same time, there might not be enough shares to go around. This can make it harder to buy or sell CEFs quickly, and you might have to wait or accept a price that's not exactly what you wanted. Lower trading volumes can also mean that the price of CEFs can move around more when people are buying or selling them.
 
@@ -78,7 +78,7 @@ Another scenario where CEFs could be better is if an expert investor wants to us
 
 Over the long term, ETFs and CEFs have shown different performance histories. ETFs, which usually track an index like the S&P 500, tend to be more predictable. They aim to match the performance of the index they follow, so if the index does well over time, the ETF will too. Because ETFs are passively managed, they don't try to beat the market, but they can still give you steady returns. This makes them a good choice for investors who want to grow their money over the long term without taking too much risk.
 
-CEFs, on the other hand, can have more ups and downs in their performance. Since CEFs are often actively managed, they try to beat the market by picking the best stocks or assets. This can lead to bigger gains if the fund manager makes good choices, but it can also lead to bigger losses if they don't. CEFs might use borrowed money to try to make more money, which adds to the risk. Over the long term, some CEFs do better than the market, while others do worse. This makes them more suited for investors who are willing to take on more risk for the chance of higher returns.
+CEFs, on the other hand, can have more ups and downs in their performance. Since CEFs are often actively managed, they try to beat the market by [picking](/wiki/asset-class-picking) the best stocks or assets. This can lead to bigger gains if the fund manager makes good choices, but it can also lead to bigger losses if they don't. CEFs might use borrowed money to try to make more money, which adds to the risk. Over the long term, some CEFs do better than the market, while others do worse. This makes them more suited for investors who are willing to take on more risk for the chance of higher returns.
 
 ## References & Further Reading
 

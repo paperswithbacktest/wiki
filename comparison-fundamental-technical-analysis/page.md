@@ -26,7 +26,7 @@ Fundamental analysis and technical analysis are two different ways to look at st
 
 On the other hand, technical analysis focuses on the stock's price movements and trading volumes over time. It uses charts and patterns to predict where the stock price might go next. People who use technical analysis believe that all the important information about a company is already shown in its stock price, so they don't worry about the company's financial details. Instead, they look for patterns in the price to guess future movements.
 
-In short, fundamental analysis is about understanding the company's value based on its financials and the economy, while technical analysis is about predicting price changes based on past price movements. Both methods help investors make decisions, but they look at different things and can be useful for different reasons.
+In short, [fundamental analysis](/wiki/fundamental-analysis) is about understanding the company's value based on its financials and the economy, while technical analysis is about predicting price changes based on past price movements. Both methods help investors make decisions, but they look at different things and can be useful for different reasons.
 
 ## What are the key tools used in fundamental analysis?
 

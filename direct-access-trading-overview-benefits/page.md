@@ -28,7 +28,7 @@ Second, you need to understand how the stock market works and be comfortable usi
 
 ## What platforms are commonly used for Direct Access Trading?
 
-There are a few popular platforms that people use for Direct Access Trading. One of them is called Interactive Brokers. It's well-known because it gives traders a lot of tools and lets them connect to many different stock markets around the world. Another common platform is Lightspeed Trading. It's liked by many traders because it's fast and has good customer support. These platforms help traders see prices in real-time and make quick trades.
+There are a few popular platforms that people use for Direct Access Trading. One of them is called [Interactive Brokers](/wiki/interactive-brokers-api). It's well-known because it gives traders a lot of tools and lets them connect to many different stock markets around the world. Another common platform is Lightspeed Trading. It's liked by many traders because it's fast and has good customer support. These platforms help traders see prices in real-time and make quick trades.
 
 Another platform that's often used is E*TRADE Pro. It's good for people who want to trade directly but also want some help from their broker. E*TRADE Pro gives you the tools for DAT but also lets you talk to a broker if you need to. Lastly, there's Thinkorswim from TD Ameritrade. This platform is known for its powerful tools and the ability to customize it to fit how you like to trade. All these platforms make it easier for traders to get into Direct Access Trading and take control of their trades.
 
@@ -58,7 +58,7 @@ With Direct Access Trading, you also get to see more of what's happening in the 
 
 ## How does Direct Access Trading affect trade execution and order routing?
 
-Direct Access Trading lets you control how your trades happen and where they go. When you use a Direct Access Trading platform, you can choose exactly where to send your order, like to the New York Stock Exchange or NASDAQ. This is called order routing. By picking the best place to buy or sell, you can often get a better price for your stocks. It's like shopping around for the best deal, but you're doing it in seconds, not hours.
+Direct Access Trading lets you control how your trades happen and where they go. When you use a Direct Access Trading platform, you can choose exactly where to send your order, like to the New York Stock Exchange or NASDAQ. This is called order routing. By [picking](/wiki/asset-class-picking) the best place to buy or sell, you can often get a better price for your stocks. It's like shopping around for the best deal, but you're doing it in seconds, not hours.
 
 This control over order routing also makes your trades happen faster. With Direct Access Trading, you don't have to wait for a broker to make your trade. You can see the prices changing right away and make your move quickly. This speed can help you get the price you want before it changes. So, Direct Access Trading not only gives you more control over your trades but also helps you execute them faster and more efficiently.
 
@@ -72,7 +72,7 @@ Another risk is that Direct Access Trading can be stressful. Watching the market
 
 Traders can optimize their strategies using Direct Access Trading by taking advantage of the real-time data and fast trade execution. Since they can see prices changing right away, traders can spot good opportunities quickly. They can use this to buy or sell at the best possible times. The ability to route orders directly to different stock markets also helps. Traders can shop around for the best prices and save money on each trade. By using the tools that come with Direct Access Trading platforms, like charts and indicators, traders can make smarter decisions based on what's happening in the market.
 
-Another way to optimize strategies is by practicing and learning. Direct Access Trading can be tricky, so it's a good idea to use a demo account to practice before trading with real money. This helps traders get used to the fast pace and learn how to manage their trades better. They can also take classes or read books about trading to improve their skills. By combining this knowledge with the speed and control of Direct Access Trading, traders can create a plan that works well for them and helps them make more money in the stock market.
+Another way to optimize strategies is by practicing and learning. Direct Access Trading can be tricky, so it's a good idea to use a demo account to practice before trading with real money. This helps traders get used to the fast pace and learn how to manage their trades better. They can also take classes or read [books](/wiki/algo-trading-books) about trading to improve their skills. By combining this knowledge with the speed and control of Direct Access Trading, traders can create a plan that works well for them and helps them make more money in the stock market.
 
 ## What advanced tools and analytics are available in Direct Access Trading for expert traders?
 

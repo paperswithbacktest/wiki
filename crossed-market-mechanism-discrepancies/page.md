@@ -78,7 +78,7 @@ Another strategy is to wait and see how the market fixes the crossed market. Som
 
 Algorithmic trading systems are designed to trade automatically based on rules and data. When a crossed market happens, these systems can get confused because the bid price is higher than the ask price, which is not normal. Some systems might stop trading right away to avoid making mistakes. They might wait until the market fixes the prices before starting to trade again. This helps them avoid buying or selling at the wrong prices and losing money.
 
-Other algorithmic trading systems might be set up to take advantage of a crossed market. They could quickly buy stocks at the lower ask price and sell them at the higher bid price to make a profit. But this is risky because the crossed market might not last long. The market could fix the prices very quickly, so the system needs to act fast and be ready to change its plan if things don't go as expected. These systems need to be smart and flexible to handle crossed markets well.
+Other [algorithmic trading](/wiki/algorithmic-trading) systems might be set up to take advantage of a crossed market. They could quickly buy stocks at the lower ask price and sell them at the higher bid price to make a profit. But this is risky because the crossed market might not last long. The market could fix the prices very quickly, so the system needs to act fast and be ready to change its plan if things don't go as expected. These systems need to be smart and flexible to handle crossed markets well.
 
 ## References & Further Reading
 

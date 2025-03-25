@@ -54,7 +54,7 @@ Once you find a price difference, you need to do some research to understand why
 
 One common strategy in convergence trading is called pairs trading. This is when you find two things that are very similar, like two stocks from the same company or two companies in the same industry. If one is cheaper than the other, you buy the cheaper one and sell the more expensive one at the same time. You're betting that their prices will eventually come together. This can be done with stocks, bonds, or even commodities. The key is to find things that should have the same price but don't yet.
 
-Another strategy is called relative value arbitrage. This is a bit like pairs trading but focuses more on bonds or other fixed income securities. You look for bonds from the same issuer that have different prices. If you think the market has made a mistake and the prices should be the same, you buy the cheaper bond and sell the more expensive one. You're hoping that over time, the market will correct itself and the prices will converge. Both strategies need patience and a good understanding of why the prices are different in the first place.
+Another strategy is called relative value [arbitrage](/wiki/arbitrage). This is a bit like pairs trading but focuses more on bonds or other fixed income securities. You look for bonds from the same issuer that have different prices. If you think the market has made a mistake and the prices should be the same, you buy the cheaper bond and sell the more expensive one. You're hoping that over time, the market will correct itself and the prices will converge. Both strategies need patience and a good understanding of why the prices are different in the first place.
 
 ## How do regulatory environments affect convergence trading?
 
@@ -76,9 +76,9 @@ Another way to measure success is by looking at how long it took for the prices 
 
 ## What advanced techniques can be used to enhance the effectiveness of convergence trades?
 
-One advanced technique to make convergence trades work better is to use something called statistical arbitrage. This means using math and computer programs to find and take advantage of small price differences between similar things. These programs can look at lots of data really fast and find patterns that a person might miss. They can also help you decide when to buy and sell to make the most money. This can make your trades more successful because you're using data to guide your decisions.
+One advanced technique to make convergence trades work better is to use something called [statistical arbitrage](/wiki/statistical-arbitrage). This means using math and computer programs to find and take advantage of small price differences between similar things. These programs can look at lots of data really fast and find patterns that a person might miss. They can also help you decide when to buy and sell to make the most money. This can make your trades more successful because you're using data to guide your decisions.
 
-Another technique is to use machine learning. This is a type of computer program that can learn from past trades and get better over time. It can look at what worked and what didn't in the past and use that information to make smarter trades in the future. Machine learning can help you spot opportunities for convergence trades more quickly and accurately. By using these advanced techniques, you can improve your chances of making money from convergence trades.
+Another technique is to use [machine learning](/wiki/machine-learning). This is a type of computer program that can learn from past trades and get better over time. It can look at what worked and what didn't in the past and use that information to make smarter trades in the future. Machine learning can help you spot opportunities for convergence trades more quickly and accurately. By using these advanced techniques, you can improve your chances of making money from convergence trades.
 
 ## References & Further Reading
 

@@ -64,7 +64,7 @@ On the other hand, if interest rates are very low, it can also lead to a credit 
 
 Global factors can make a credit crunch happen. One big reason is when other countries have economic problems. If a big country like the United States or China has a bad economy, it can affect the whole world. Banks in other countries might get worried and start lending less money because they're scared about what's happening globally. This can lead to a credit crunch in many places, not just in the country with the problem.
 
-Another global factor is when there are big changes in the world's financial markets. For example, if there is a big drop in stock prices or if there is a crisis in the banking system of one country, it can make banks everywhere nervous. They might decide to lend less money to protect themselves from losing money. When banks around the world start lending less, it can lead to a credit crunch that affects many countries.
+Another global [factor](/wiki/factor-investing) is when there are big changes in the world's financial markets. For example, if there is a big drop in stock prices or if there is a crisis in the banking system of one country, it can make banks everywhere nervous. They might decide to lend less money to protect themselves from losing money. When banks around the world start lending less, it can lead to a credit crunch that affects many countries.
 
 ## How can regulatory changes lead to a credit crunch?
 
@@ -80,7 +80,7 @@ Another example is the credit crunch in Japan during the 1990s, known as the "Lo
 
 ## What advanced economic indicators should be monitored to predict a credit crunch?
 
-To predict a credit crunch, it's important to watch certain economic indicators. One key indicator is the level of bad loans in banks. If more and more people and businesses can't pay back their loans, banks will start to worry. They might decide to lend less money to everyone, which can lead to a credit crunch. Another important indicator is the interest rate. If interest rates go up a lot, borrowing money becomes more expensive, and fewer people and businesses will take out loans. This can slow down the economy and make a credit crunch more likely.
+To predict a credit crunch, it's important to watch certain economic indicators. One key indicator is the level of bad loans in banks. If more and more people and businesses can't pay back their loans, banks will start to worry. They might decide to lend less money to everyone, which can lead to a credit crunch. Another important indicator is the [interest rate](/wiki/interest-rate-trading-strategies). If interest rates go up a lot, borrowing money becomes more expensive, and fewer people and businesses will take out loans. This can slow down the economy and make a credit crunch more likely.
 
 Another indicator to keep an eye on is the amount of debt in the economy. If people and businesses have a lot of debt, they might struggle to pay it back, especially if the economy starts to slow down. This can make banks scared, and they might start lending less money. Also, watching consumer confidence is helpful. If people are worried about the economy and start spending less money, it can make the economy weaker. When the economy is weak, banks often decide to lend less, which can lead to a credit crunch.
 

@@ -34,7 +34,7 @@ TheStreet also has different subscription options with different prices. Their T
 
 ## How do the investment philosophies of The Motley Fool and TheStreet compare?
 
-The Motley Fool focuses on long-term investing and helping people grow their wealth over time. They believe in picking good companies and holding onto them for years, not just trying to make quick money. They often talk about the importance of patience and making smart choices based on a company's future potential. Their advice is meant to be easy to understand, even if you're new to investing. They also encourage people to learn from each other in their community.
+The Motley Fool focuses on long-term investing and helping people grow their wealth over time. They believe in [picking](/wiki/asset-class-picking) good companies and holding onto them for years, not just trying to make quick money. They often talk about the importance of patience and making smart choices based on a company's future potential. Their advice is meant to be easy to understand, even if you're new to investing. They also encourage people to learn from each other in their community.
 
 TheStreet, on the other hand, offers a mix of short-term and long-term investment advice. They cover a lot of different topics, from daily stock picks to big economic trends. TheStreet is known for its detailed analysis and tools that help investors make decisions. Their service, Real Money, run by Jim Cramer, focuses more on active trading and trying to find opportunities in the market every day. So while The Motley Fool is all about taking your time and investing for the long haul, TheStreet gives you tools to make both short-term and long-term decisions.
 
@@ -64,7 +64,7 @@ TheStreet also has a community, but it's different. They have a section where yo
 
 ## What is the track record of investment recommendations from The Motley Fool and TheStreet?
 
-The Motley Fool has a good track record with their investment recommendations. They often share how well their stock picks have done over time. For example, their Stock Advisor service has beaten the market by a lot since it started. They focus on finding good companies to hold for a long time, and this has worked well for many people who follow their advice. Of course, not every pick is a winner, but overall, their long-term approach has helped a lot of investors grow their money.
+The Motley Fool has a good track record with their investment recommendations. They often share how well their stock picks have done over time. For example, their Stock Advisor service has beaten the market by a lot since it started. They focus on finding good companies to hold for a long time, and this has worked well for many people who follow their advice. Of [course](/wiki/best-algorithmic-trading-courses), not every pick is a winner, but overall, their long-term approach has helped a lot of investors grow their money.
 
 TheStreet also has a solid track record, but it's a bit different. They give both short-term and long-term picks, so their results can vary more. Their Real Money service, run by Jim Cramer, often shares how their daily stock picks are doing. Some picks do really well, while others don't. TheStreet's approach is more about giving you lots of information and tools to make your own decisions, so their success can depend on how you use what they offer. Overall, they have helped many investors, but the results can be up and down because of the short-term focus.
 

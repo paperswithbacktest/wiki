@@ -42,7 +42,7 @@ The exact way demurrage charges are calculated can be a bit complicated, but it 
 
 Yes, sometimes demurrage fees can be negotiated or waived, but it depends on the situation and the shipping company. If the delay was caused by something out of your control, like bad weather or a strike at the port, you might be able to talk to the shipping company and ask them to waive the fees. It's a good idea to keep good records and show them why you couldn't pick up your goods on time.
 
-Even if the delay was your fault, you might still be able to negotiate a lower fee. It's worth trying to talk to the shipping company and see if they can give you a better deal. They might agree to reduce the fees if you have a good relationship with them or if you're a regular customer. Just remember, it's always better to avoid demurrage fees in the first place by picking up your goods on time.
+Even if the delay was your fault, you might still be able to negotiate a lower fee. It's worth trying to talk to the shipping company and see if they can give you a better deal. They might agree to reduce the fees if you have a good relationship with them or if you're a regular customer. Just remember, it's always better to avoid demurrage fees in the first place by [picking](/wiki/asset-class-picking) up your goods on time.
 
 ## What are the common causes of demurrage?
 

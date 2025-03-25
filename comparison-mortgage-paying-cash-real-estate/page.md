@@ -28,7 +28,7 @@ On the other hand, paying cash for real estate means you use your own money to b
 
 ## How does the interest rate on a mortgage affect the total cost of a property?
 
-The interest rate on a mortgage is like the extra cost you pay for borrowing money to buy a house. If the interest rate is high, you will pay more money over time because the extra cost added to your loan will be bigger. For example, if you borrow $200,000 at a 5% interest rate, you will end up paying more than if you borrowed the same amount at a 3% interest rate. The higher the interest rate, the more you pay each month and the more you pay overall.
+The [interest rate](/wiki/interest-rate-trading-strategies) on a mortgage is like the extra cost you pay for borrowing money to buy a house. If the interest rate is high, you will pay more money over time because the extra cost added to your loan will be bigger. For example, if you borrow $200,000 at a 5% interest rate, you will end up paying more than if you borrowed the same amount at a 3% interest rate. The higher the interest rate, the more you pay each month and the more you pay overall.
 
 Over the life of the loan, which can be 15, 20, or 30 years, a small difference in the interest rate can add up to a lot of money. For a $200,000 loan over 30 years, the difference between a 3% and a 5% interest rate could mean paying tens of thousands of dollars more in total. That's why it's important to shop around for the best interest rate when you're getting a mortgage, because it can make a big difference in how much you end up spending on your house.
 

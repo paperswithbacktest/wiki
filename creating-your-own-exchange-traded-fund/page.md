@@ -18,7 +18,7 @@ ETFs are managed by professionals who aim to track the performance of a specific
 
 Someone might want to create their own ETF because they have a specific investment idea that isn't covered by existing ETFs. They might see a gap in the market, like a new industry or a unique way of investing that they believe could be profitable. By creating their own ETF, they can offer investors a chance to buy into this idea and potentially benefit from its success.
 
-Another reason is to have more control over their investments. When you create an ETF, you decide which assets it includes and how it's managed. This can be appealing if you have strong opinions about which stocks or bonds will do well. Plus, if the ETF does well, the person who created it can earn fees from investors who buy into the fund, which can be a good source of income.
+Another reason is to have more control over their investments. When you create an [ETF](/wiki/etf-trading-strategies), you decide which assets it includes and how it's managed. This can be appealing if you have strong opinions about which stocks or bonds will do well. Plus, if the ETF does well, the person who created it can earn fees from investors who buy into the fund, which can be a good source of income.
 
 ## What are the basic steps to start creating an ETF?
 
@@ -36,7 +36,7 @@ Once the SEC approves your prospectus, you'll need to work with a stock exchange
 
 Choosing the right asset mix for your ETF starts with your investment idea. Think about what you want your ETF to do. Do you want it to follow a broad market, like the S&P 500, or focus on a specific industry, like tech or green energy? Once you have your idea, you need to decide which stocks, bonds, or other assets will help your ETF reach its goal. This is called the asset mix. You might want to include a variety of assets to spread out the risk, so if one asset doesn't do well, others might make up for it.
 
-After picking your assets, you'll need to decide how much of each asset to include in your ETF. This is called the weighting. Some ETFs use a market-cap weighting, where the biggest companies in the index get the biggest share of the ETF. Others might use equal weighting, where each asset gets the same share, or a different method that fits your ETF's goal. It's important to keep your asset mix in line with your ETF's purpose and to check it regularly to make sure it's still doing what you want it to do.
+After [picking](/wiki/asset-class-picking) your assets, you'll need to decide how much of each asset to include in your ETF. This is called the weighting. Some ETFs use a market-cap weighting, where the biggest companies in the index get the biggest share of the ETF. Others might use equal weighting, where each asset gets the same share, or a different method that fits your ETF's goal. It's important to keep your asset mix in line with your ETF's purpose and to check it regularly to make sure it's still doing what you want it to do.
 
 ## What are the costs associated with setting up and managing an ETF?
 

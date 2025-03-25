@@ -46,7 +46,7 @@ Another way country funds differ is that they can be more expensive. They often 
 
 ## What are some examples of country funds?
 
-One example of a country fund is the iShares MSCI Japan ETF. This fund focuses on investing in stocks from companies in Japan. If you think Japan's economy will do well, you can buy shares in this fund and benefit from the growth of Japanese companies without having to pick them out yourself. Another example is the iShares MSCI Brazil ETF, which invests in stocks from Brazilian companies. This fund can be a good choice if you believe Brazil's economy has a lot of potential for growth.
+One example of a country fund is the iShares MSCI Japan [ETF](/wiki/etf-trading-strategies). This fund focuses on investing in stocks from companies in Japan. If you think Japan's economy will do well, you can buy shares in this fund and benefit from the growth of Japanese companies without having to pick them out yourself. Another example is the iShares MSCI Brazil ETF, which invests in stocks from Brazilian companies. This fund can be a good choice if you believe Brazil's economy has a lot of potential for growth.
 
 Country funds like the iShares MSCI India ETF are also popular. This fund invests in stocks from companies in India, which is known for its fast-growing economy. If you want to invest in India's future, this fund can be a good option. These examples show how country funds let you focus on specific countries and their economies, which can be a good way to diversify your investments and take advantage of growth in different parts of the world.
 
@@ -54,7 +54,7 @@ Country funds like the iShares MSCI India ETF are also popular. This fund invest
 
 To evaluate the performance of a country fund, you can start by looking at its returns over time. This means checking how much the value of the fund has gone up or down in the past. You can compare these returns to a benchmark, like an index that tracks the overall market of the country the fund invests in. If the fund does better than the benchmark, it's doing well. Also, look at the fund's performance over different periods, like one year, three years, or five years, to get a good idea of how it's been doing.
 
-Another thing to consider is the risk involved. You can see how much the fund's value goes up and down by looking at its volatility. If the fund's value changes a lot, it's more risky. You can also look at how the fund performs compared to other funds that invest in the same country. This can help you see if the fund is doing a good job compared to its peers. Finally, don't forget to check the fees. Higher fees can eat into your returns, so a fund with lower fees might be a better choice if it performs just as well or better than a fund with higher fees.
+Another thing to consider is the risk involved. You can see how much the fund's value goes up and down by looking at its [volatility](/wiki/volatility-trading-strategies). If the fund's value changes a lot, it's more risky. You can also look at how the fund performs compared to other funds that invest in the same country. This can help you see if the fund is doing a good job compared to its peers. Finally, don't forget to check the fees. Higher fees can eat into your returns, so a fund with lower fees might be a better choice if it performs just as well or better than a fund with higher fees.
 
 ## What are the risks associated with country funds?
 

@@ -28,9 +28,9 @@ Another way REITs can make money is by selling properties they own for more than
 
 ## What are the main differences between investing in individual REITs and REIT ETFs?
 
-When you invest in individual REITs, you pick and choose specific real estate companies that own certain types of properties, like apartments or shopping malls. This means you can focus on the areas you think will do well, but it also means you need to do a lot of research to make sure you're picking the right ones. If one of your chosen REITs doesn't do well, it can affect your whole investment. On the other hand, you might get higher returns if you pick a winner.
+When you invest in individual REITs, you pick and choose specific real estate companies that own certain types of properties, like apartments or shopping malls. This means you can focus on the areas you think will do well, but it also means you need to do a lot of research to make sure you're [picking](/wiki/asset-class-picking) the right ones. If one of your chosen REITs doesn't do well, it can affect your whole investment. On the other hand, you might get higher returns if you pick a winner.
 
-Investing in a REIT ETF is like buying a basket of different REITs all at once. This spreads out your risk because you're not betting on just one or two companies; you're investing in a whole bunch of them. It's easier and less work because you don't have to pick and choose; the ETF does that for you. But, because it's spread out, the returns might not be as high as they could be with a single, well-performing REIT. Plus, REIT ETFs usually have lower fees than buying a bunch of individual REITs.
+Investing in a REIT [ETF](/wiki/etf-trading-strategies) is like buying a basket of different REITs all at once. This spreads out your risk because you're not betting on just one or two companies; you're investing in a whole bunch of them. It's easier and less work because you don't have to pick and choose; the ETF does that for you. But, because it's spread out, the returns might not be as high as they could be with a single, well-performing REIT. Plus, REIT ETFs usually have lower fees than buying a bunch of individual REITs.
 
 ## What are the advantages of investing in REITs?
 

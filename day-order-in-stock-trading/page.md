@@ -64,7 +64,7 @@ Remember, once the trading day is over, you can't change or cancel a day order b
 
 ## What advanced techniques can traders use with day orders to optimize their trading?
 
-Traders can use day orders to take advantage of small price movements during the day. One technique is called "scalping," where traders place many day orders to buy and sell stocks quickly, making small profits each time. They might set their day orders at prices just a little bit above or below the current price, hoping to catch small price swings. This can be a good way to make money if the market is moving a lot, but it takes a lot of focus and quick thinking.
+Traders can use day orders to take advantage of small price movements during the day. One technique is called "[scalping](/wiki/gamma-scalping)," where traders place many day orders to buy and sell stocks quickly, making small profits each time. They might set their day orders at prices just a little bit above or below the current price, hoping to catch small price swings. This can be a good way to make money if the market is moving a lot, but it takes a lot of focus and quick thinking.
 
 Another technique is using day orders to manage risk. Traders can place day orders to buy or sell stocks at certain prices to set limits on how much they might lose. For example, if a trader owns a stock and it starts to go down, they can place a day order to sell it at a lower price to limit their loss. This way, if the stock keeps going down, the day order will help them get out before losing too much money. It's all about setting up day orders to help control what happens during the trading day.
 

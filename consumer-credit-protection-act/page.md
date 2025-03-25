@@ -34,7 +34,7 @@ Other agencies also help enforce the law. The Federal Trade Commission (FTC) wor
 
 ## What are some key provisions of the Consumer Credit Protection Act?
 
-The Consumer Credit Protection Act has several important rules to help protect people who borrow money. One key part is the Truth in Lending Act. This rule says that lenders must tell borrowers the true cost of borrowing money. This includes things like the interest rate and any fees. By knowing this information, borrowers can make better choices about whether to borrow money and from whom. The law also makes sure that lenders give out clear and easy-to-understand information about credit terms.
+The Consumer Credit Protection Act has several important rules to help protect people who borrow money. One key part is the Truth in Lending Act. This rule says that lenders must tell borrowers the true cost of borrowing money. This includes things like the [interest rate](/wiki/interest-rate-trading-strategies) and any fees. By knowing this information, borrowers can make better choices about whether to borrow money and from whom. The law also makes sure that lenders give out clear and easy-to-understand information about credit terms.
 
 Another important part of the Consumer Credit Protection Act is the Fair Credit Reporting Act. This rule helps protect the privacy of people's credit information. It says that credit reporting agencies must make sure the information they have about people is correct. If there are mistakes, people can ask for them to be fixed. The law also says that credit reports can only be used for certain reasons, like when someone applies for a loan or a job. This helps keep people's personal information safe.
 

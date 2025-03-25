@@ -88,7 +88,7 @@ These global trends also affect finance. When the world economy is doing well, p
 
 ### Books
 1. **"Principles of Economics" by N. Gregory Mankiw**  
-   A fundamental text for understanding economic principles, including macroeconomic theories essential for algorithmic trading.
+   A fundamental text for understanding economic principles, including macroeconomic theories essential for [algorithmic trading](/wiki/algorithmic-trading).
 
 2. **"Algorithmic Trading: Winning Strategies and Their Rationale" by Ernie Chan**  
    Offers insights into developing and evaluating algorithmic trading strategies, combining principles of finance and data analysis.

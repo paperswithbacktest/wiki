@@ -48,7 +48,7 @@ Next, it's a good idea to do a self-check or a pre-audit. This means going throu
 
 ## What documents and records are typically reviewed during a compliance audit?
 
-During a compliance audit, auditors look at many types of documents and records. They start with financial records like bank statements, invoices, and tax returns to make sure the company is following money rules. They also check employee records, which include payroll, time sheets, and training logs to see if the company is treating workers right and following labor laws. Policies and procedures are important too, so auditors will look at the company's rule books and how these rules are being followed in the workplace.
+During a compliance audit, auditors look at many types of documents and records. They start with financial records like bank statements, invoices, and tax returns to make sure the company is following money rules. They also check employee records, which include payroll, time sheets, and training logs to see if the company is treating workers right and following labor laws. Policies and procedures are important too, so auditors will look at the company's rule [books](/wiki/algo-trading-books) and how these rules are being followed in the workplace.
 
 In addition to these, auditors might review contracts and agreements with customers, suppliers, and partners to make sure everything is legal and fair. They also look at safety records, like accident reports and safety training materials, to check if the company is keeping everyone safe. Lastly, auditors might go through emails, memos, and other communication to see if the company is following rules about data privacy and security. All these documents help auditors understand if the company is doing things the right way.
 

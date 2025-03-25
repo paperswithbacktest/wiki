@@ -18,7 +18,7 @@ These ETFs are often created through collaboration between investors and fund ma
 
 A custom basket ETF is different from a traditional ETF because it lets you pick what goes inside it. With a traditional ETF, you usually get a bunch of stocks or bonds that follow a big index, like the S&P 500. But with a custom basket ETF, you and the fund manager can choose specific stocks or themes that you care about. For example, if you're really into green energy, you can make an ETF that only has companies working on solar power or wind energy.
 
-The other big difference is that custom basket ETFs might cost more. Because you're working with a fund manager to pick and change what's in the ETF, there are extra fees. Traditional ETFs are usually cheaper because they just follow an index and don't need as much work to keep up. Even though custom basket ETFs can be pricier, some people think it's worth it because they can match the ETF to what they want to achieve with their money.
+The other big difference is that custom basket ETFs might cost more. Because you're working with a fund manager to pick and change what's in the [ETF](/wiki/etf-trading-strategies), there are extra fees. Traditional ETFs are usually cheaper because they just follow an index and don't need as much work to keep up. Even though custom basket ETFs can be pricier, some people think it's worth it because they can match the ETF to what they want to achieve with their money.
 
 ## What are the benefits of investing in a custom basket ETF?
 
@@ -60,7 +60,7 @@ Another risk is the cost. Custom basket ETFs usually have higher fees because yo
 
 Custom basket ETFs might not be as easy to buy and sell as other ETFs. This is because they are often more specialized and focused on specific themes or sectors. Since fewer people might be interested in these specific themes, there could be fewer buyers and sellers, which can make it harder to quickly turn your investment into cash if you need to. This is different from regular ETFs, which usually have more people trading them, making them more liquid and easier to buy and sell.
 
-However, the liquidity of a custom basket ETF can also depend on how big it is and how popular its theme is. If a lot of people are interested in the same theme, like green energy, then the ETF might have better liquidity. But if it's a very niche or new theme, it might be harder to find someone to trade with. So, while custom basket ETFs can offer a tailored investment approach, you need to think about how easy it will be to sell your shares if you need to.
+However, the [liquidity](/wiki/liquidity-risk-premium) of a custom basket ETF can also depend on how big it is and how popular its theme is. If a lot of people are interested in the same theme, like green energy, then the ETF might have better liquidity. But if it's a very niche or new theme, it might be harder to find someone to trade with. So, while custom basket ETFs can offer a tailored investment approach, you need to think about how easy it will be to sell your shares if you need to.
 
 ## What role do authorized participants play in the creation and redemption of custom basket ETFs?
 

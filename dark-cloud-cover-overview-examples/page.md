@@ -46,7 +46,7 @@ Using Dark Cloud Cover along with other tools can make it more reliable. For exa
 
 ## How does the volume affect the reliability of a Dark Cloud Cover pattern?
 
-Volume is an important thing to look at when you see a Dark Cloud Cover pattern. If the volume is high on the second day of the pattern, it means more people are selling, which makes the pattern a stronger sign that the price might go down. High volume shows that a lot of traders agree with the sellers, making the signal more reliable.
+Volume is an important thing to look at when you see a Dark Cloud Cover pattern. If the [volume](/wiki/volume-trading-strategy) is high on the second day of the pattern, it means more people are selling, which makes the pattern a stronger sign that the price might go down. High volume shows that a lot of traders agree with the sellers, making the signal more reliable.
 
 But if the volume is low on that second day, it might not be as strong a sign. Low volume means fewer people are selling, so the pattern might not be as trustworthy. Traders should look at the volume along with the Dark Cloud Cover to make better choices about what to do next.
 
@@ -78,7 +78,7 @@ Using Dark Cloud Cover along with other tools can help traders make smarter choi
 
 One real-world example of a Dark Cloud Cover pattern happened in the stock market with Apple Inc. (AAPL) in early 2020. After a strong upward trend, Apple's stock had a big green candle on January 29, closing at around $323. The next day, January 30, the stock opened even higher at about $327 but then fell and closed at around $309, below the midpoint of the previous day's candle. This pattern signaled that the bullish trend might be losing steam, and indeed, the stock price started to decline in the following days.
 
-Another example can be seen in the forex market with the EUR/USD pair in late 2019. On November 26, the pair had a strong bullish day, closing around 1.1000. The next trading day, November 27, the EUR/USD opened higher at about 1.1020 but then dropped to close around 1.0950, which was below the midpoint of the previous day's candle. This Dark Cloud Cover pattern suggested a potential reversal, and the pair did experience a downward movement in the subsequent sessions.
+Another example can be seen in the [forex](/wiki/forex-system) market with the EUR/USD pair in late 2019. On November 26, the pair had a strong bullish day, closing around 1.1000. The next trading day, November 27, the EUR/USD opened higher at about 1.1020 but then dropped to close around 1.0950, which was below the midpoint of the previous day's candle. This Dark Cloud Cover pattern suggested a potential reversal, and the pair did experience a downward movement in the subsequent sessions.
 
 ## References & Further Reading
 

@@ -22,13 +22,13 @@ Some mutual funds also charge other fees. For example, there might be a fee if y
 
 ## How do the fees of mutual funds impact overall returns?
 
-Fees in mutual funds can take a big bite out of your returns. Every dollar you pay in fees is a dollar that doesn't get invested and grow for you. Over time, even small fees can add up and make a big difference in how much money you end up with. For example, if you invest $10,000 in a fund with a 1% annual fee, after 20 years, those fees could eat up thousands of dollars that could have been earning more money for you.
+Fees in mutual funds can take a big bite out of your returns. Every dollar you pay in fees is a dollar that doesn't get invested and grow for you. Over time, even small fees can add up and make a big difference in how much money you end up with. For example, if you invest $10,000 in a fund with a 1% annual fee, after 20 years, those fees could eat up thousands of dollars that could have been [earning](/wiki/earning-announcement) more money for you.
 
 It's important to think about fees when you pick a mutual fund. A fund with high fees needs to perform much better than a fund with low fees just to give you the same amount of money in the end. That's why many people choose funds with lower fees, like index funds, which often have expense ratios of 0.1% or less. By keeping fees low, more of your money stays invested and working for you over the long term.
 
 ## In what scenarios might mutual funds underperform compared to other investment options?
 
-Mutual funds might underperform compared to other investment options if they have high fees. These fees can eat into your returns, leaving you with less money than if you had invested in something with lower costs, like an index fund or an ETF. If the mutual fund's expense ratio is high, it has to do much better than other investments just to make up for the fees. This can be hard to do, especially if the market is not doing well.
+Mutual funds might underperform compared to other investment options if they have high fees. These fees can eat into your returns, leaving you with less money than if you had invested in something with lower costs, like an index fund or an [ETF](/wiki/etf-trading-strategies). If the mutual fund's expense ratio is high, it has to do much better than other investments just to make up for the fees. This can be hard to do, especially if the market is not doing well.
 
 Another scenario where mutual funds might underperform is if the fund manager makes bad investment choices. Since mutual funds are actively managed, the success of the fund depends a lot on the manager's decisions. If the manager picks stocks or bonds that don't do well, the whole fund suffers. In contrast, other investments like index funds simply follow the market, so they don't rely on one person's choices.
 
@@ -56,7 +56,7 @@ Another risk is that these funds often have higher fees than other types of inve
 
 Market conditions can make mutual funds less advantageous if the market is doing really well but the mutual fund isn't keeping up. This can happen because the fund manager might be limited by the fund's goals or might not pick the stocks that are doing the best. For example, if tech stocks are booming but the mutual fund doesn't have many tech stocks, it might not do as well as the market. This can be frustrating for investors who see other investments doing better.
 
-Another way market conditions can affect mutual funds is during times of high market volatility. If the market is going up and down a lot, the fund manager might make choices that don't work out well. They might sell stocks too soon or buy at the wrong time, which can hurt the fund's performance. In these situations, simpler investments like index funds, which just follow the market, might do better because they don't rely on someone's decisions.
+Another way market conditions can affect mutual funds is during times of high market [volatility](/wiki/volatility-trading-strategies). If the market is going up and down a lot, the fund manager might make choices that don't work out well. They might sell stocks too soon or buy at the wrong time, which can hurt the fund's performance. In these situations, simpler investments like index funds, which just follow the market, might do better because they don't rely on someone's decisions.
 
 ## What are the alternatives to mutual funds and when might they be more beneficial?
 

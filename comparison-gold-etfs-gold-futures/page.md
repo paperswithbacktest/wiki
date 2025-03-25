@@ -22,7 +22,7 @@ Using gold futures can be a way to bet on where you think the price of gold is g
 
 ## How do the investment processes for Gold ETFs and Gold Futures differ?
 
-Investing in Gold ETFs is pretty straightforward. You buy shares of the ETF through a brokerage account, just like you would with stocks. The price of the ETF goes up and down with the price of gold. So, if you think gold prices will go up, you can buy shares of a Gold ETF and hopefully make money if the price of gold rises. You don't have to worry about storing physical gold, and it's easy to buy and sell the ETF shares whenever you want.
+Investing in Gold ETFs is pretty straightforward. You buy shares of the [ETF](/wiki/etf-trading-strategies) through a brokerage account, just like you would with stocks. The price of the ETF goes up and down with the price of gold. So, if you think gold prices will go up, you can buy shares of a Gold ETF and hopefully make money if the price of gold rises. You don't have to worry about storing physical gold, and it's easy to buy and sell the ETF shares whenever you want.
 
 On the other hand, investing in Gold Futures is a bit more complicated. When you buy a Gold Futures contract, you're agreeing to buy or sell gold at a set price on a specific date in the future. This means you're betting on where you think the price of gold will be at that future date. If you're right and the price goes up, you can make money. But if you're wrong and the price goes down, you could lose money. Trading futures can be risky because you might have to put up more money if the price moves against you, and it's not as easy to get in and out of these investments as it is with ETFs.
 
@@ -50,7 +50,7 @@ Gold Futures, on the other hand, are much riskier. When you buy a Gold Futures c
 
 Gold ETFs are usually pretty easy to buy and sell. They trade on stock exchanges just like stocks, so you can buy or sell them whenever the market is open. This makes Gold ETFs very liquid, meaning you can get in and out of your investment quickly. The price you get when you buy or sell a Gold ETF is usually very close to the actual value of the gold it holds, so you don't have to worry about big differences between what you want to pay and what you actually end up paying.
 
-Gold Futures can also be pretty liquid, but it can be a bit trickier. They trade on futures exchanges, and while there are usually a lot of people buying and selling futures, the liquidity can change depending on the specific contract you're looking at. Some futures contracts are more popular and easier to trade than others. Also, because futures contracts have an expiration date, you might need to roll over your contract to a new one if you want to keep your investment going, which can add a bit more complexity and affect the liquidity.
+Gold Futures can also be pretty liquid, but it can be a bit trickier. They trade on futures exchanges, and while there are usually a lot of people buying and selling futures, the [liquidity](/wiki/liquidity-risk-premium) can change depending on the specific contract you're looking at. Some futures contracts are more popular and easier to trade than others. Also, because futures contracts have an expiration date, you might need to roll over your contract to a new one if you want to keep your investment going, which can add a bit more complexity and affect the liquidity.
 
 ## How does the tax treatment vary between Gold ETFs and Gold Futures?
 

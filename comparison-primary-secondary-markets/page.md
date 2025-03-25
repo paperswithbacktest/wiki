@@ -54,7 +54,7 @@ The stock exchange also helps set the price of stocks. The price can go up or do
 
 Liquidity in the primary market is usually lower compared to the secondary market. When a company sells new stocks or bonds in the primary market, like during an IPO, there are only a few chances to buy them. Once those initial shares are sold, you can't buy more until they start trading on a stock exchange. This means if you want to sell your shares right after buying them in the primary market, it might be hard to find someone to buy them because there isn't a big, active market yet.
 
-In the secondary market, liquidity is much higher. This is where stocks and bonds are traded on stock exchanges, like the New York Stock Exchange or NASDAQ. There are lots of buyers and sellers, so it's easy to find someone to trade with. If you want to sell your stocks or bonds, you can usually do it quickly because there are so many people trading. This makes it easier for investors to get their money out if they need it or to change their investments whenever they want.
+In the secondary market, [liquidity](/wiki/liquidity-risk-premium) is much higher. This is where stocks and bonds are traded on stock exchanges, like the New York Stock Exchange or NASDAQ. There are lots of buyers and sellers, so it's easy to find someone to trade with. If you want to sell your stocks or bonds, you can usually do it quickly because there are so many people trading. This makes it easier for investors to get their money out if they need it or to change their investments whenever they want.
 
 ## What are the risks associated with investing in primary markets versus secondary markets?
 

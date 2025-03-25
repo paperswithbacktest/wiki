@@ -30,7 +30,7 @@ To find a Crypto ATM near you, you can use websites or apps that show where thes
 
 Crypto ATMs usually support a variety of cryptocurrencies, but the most common ones you'll find are Bitcoin and Ethereum. These are the big names in the world of digital money, so many ATMs will let you buy or sell them. Some machines might also work with other popular cryptocurrencies like Litecoin or Bitcoin Cash.
 
-The exact cryptocurrencies a Crypto ATM can handle depends on the company that owns the machine. Different companies might support different digital currencies, so it's a good idea to check the ATM's screen or the company's website before you go. This way, you can make sure the ATM supports the cryptocurrency you want to use.
+The exact cryptocurrencies a Crypto ATM can handle depends on the company that owns the machine. Different companies might support different digital currencies, so it's a good idea to check the ATM's screen or the company's website before you go. This way, you can make sure the ATM supports the [cryptocurrency](/wiki/cryptocurrency) you want to use.
 
 ## What are the fees associated with using a Crypto ATM?
 

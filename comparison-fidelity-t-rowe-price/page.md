@@ -34,7 +34,7 @@ T. Rowe Price also has varying minimums based on the type of investment. For mos
 
 ## How do the performance histories of Fidelity and T. Rowe Price funds compare?
 
-Fidelity and T. Rowe Price both have a long history of managing funds, and their performance can vary depending on which specific funds you look at. Over the years, Fidelity has had many funds that have done well, especially in areas like technology and growth stocks. Some of their funds have beaten the market averages, which means they've given investors good returns. But, not all their funds perform the same way, and some might do better than others depending on the type of investment and the market conditions.
+Fidelity and T. Rowe Price both have a long history of managing funds, and their performance can vary depending on which specific funds you look at. Over the years, Fidelity has had many funds that have done well, especially in areas like technology and [growth stocks](/wiki/growth-stocks). Some of their funds have beaten the market averages, which means they've given investors good returns. But, not all their funds perform the same way, and some might do better than others depending on the type of investment and the market conditions.
 
 T. Rowe Price also has a strong track record with their funds. They are known for their research and often focus on finding good companies to invest in. Many of their funds have performed well over time, especially in areas like stocks and bonds. Like Fidelity, the performance of T. Rowe Price funds can vary, and some funds might do better than others. It's important to look at the long-term performance of any fund to see how it has done over many years, not just a short time.
 
