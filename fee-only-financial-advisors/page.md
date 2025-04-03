@@ -58,7 +58,7 @@ Knowing that a fee-only advisor follows the fiduciary standard can give you peac
 
 ## Can you explain the potential conflicts of interest with fee-only versus commission-based advisors?
 
-Fee-only financial advisors don't have the same conflicts of interest as commission-based advisors. Since fee-only advisors get paid directly by their clients, they don't make money from selling products like insurance or investments. This means they can give advice that's best for you without worrying about earning a commission. Their focus is on helping you reach your financial goals, not on selling you something to make more money.
+Fee-only financial advisors don't have the same conflicts of interest as commission-based advisors. Since fee-only advisors get paid directly by their clients, they don't make money from selling products like insurance or investments. This means they can give advice that's best for you without worrying about [earning](/wiki/earning-announcement) a commission. Their focus is on helping you reach your financial goals, not on selling you something to make more money.
 
 On the other hand, commission-based advisors earn money from the products they sell to you. This can create a conflict of interest because they might be tempted to recommend products that pay them more, even if those products aren't the best for you. For example, they might push you to buy a certain investment because it gives them a big commission, not because it's the best choice for your financial situation. This can make it harder to trust their advice, as their recommendations might be influenced by what benefits them financially.
 

@@ -76,7 +76,7 @@ These different rules can make it hard for investors who want to put money into 
 
 ## What advanced analytical techniques can be used to interpret mutual fund holdings data?
 
-One way to understand mutual fund holdings better is by using something called factor analysis. This technique helps you see what kinds of things the fund is investing in, like big companies or small ones, or companies that grow fast or pay good dividends. By looking at these factors, you can tell if the fund is sticking to its plan or if it's changing its focus. This can help you decide if the fund is still a good fit for your goals.
+One way to understand mutual fund holdings better is by using something called [factor](/wiki/factor-investing) analysis. This technique helps you see what kinds of things the fund is investing in, like big companies or small ones, or companies that grow fast or pay good dividends. By looking at these factors, you can tell if the fund is sticking to its plan or if it's changing its focus. This can help you decide if the fund is still a good fit for your goals.
 
 Another useful technique is called cluster analysis. This helps you group the fund's investments into different categories based on how they are similar. For example, you might see that a lot of the fund's money is in tech companies or in companies from a certain country. This can show you if the fund is spreading its money out well or if it's putting too many eggs in one basket. Knowing this can help you understand the risks you're taking and make better choices about where to put your money.
 

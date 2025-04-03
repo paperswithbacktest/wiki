@@ -30,7 +30,7 @@ When Bastiat was born, the world was a different place. People used horses and c
 
 ## What were the main influences on Bastiat's education?
 
-Frederic Bastiat's education was influenced by his family and the books he read. When he was young, his grandfather took care of him and taught him a lot. His grandfather was a businessman, so Bastiat learned about trade and how businesses work. He also read many books on his own, which helped him learn about different ideas and ways of thinking.
+Frederic Bastiat's education was influenced by his family and the [books](/wiki/algo-trading-books) he read. When he was young, his grandfather took care of him and taught him a lot. His grandfather was a businessman, so Bastiat learned about trade and how businesses work. He also read many books on his own, which helped him learn about different ideas and ways of thinking.
 
 Later, Bastiat went to school in a town called Sorèze. There, he studied many subjects like history, literature, and science. The school was run by monks, so he also learned about religion. These experiences helped him develop his own ideas about the world and how it should work.
 

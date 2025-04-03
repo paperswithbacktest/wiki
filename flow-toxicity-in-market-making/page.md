@@ -40,7 +40,7 @@ Another thing to watch out for is if the orders they're getting are different fr
 
 ## How does flow toxicity impact liquidity provision?
 
-Flow toxicity can make it harder for market makers to provide liquidity. Liquidity is like having enough buyers and sellers so that people can easily trade a stock. When market makers get a lot of orders that make them lose money, they might not want to keep buying and selling as much. This can make it harder for people to trade because there are fewer market makers around to help them.
+Flow toxicity can make it harder for market makers to provide [liquidity](/wiki/liquidity-risk-premium). Liquidity is like having enough buyers and sellers so that people can easily trade a stock. When market makers get a lot of orders that make them lose money, they might not want to keep buying and selling as much. This can make it harder for people to trade because there are fewer market makers around to help them.
 
 To deal with flow toxicity, market makers might change their prices or try to avoid the bad orders. If they do this, it can make the market less liquid. When market makers change their prices a lot or stop taking certain orders, it can make it harder for people to buy and sell stocks quickly and at good prices. So, flow toxicity can make the market less smooth and more difficult for everyone.
 
@@ -76,7 +76,7 @@ Flow toxicity can also make the market less stable. If market makers keep gettin
 
 ## Can you discuss case studies where flow toxicity significantly impacted market making operations?
 
-One big example of flow toxicity affecting market making was during the 2010 Flash Crash. On that day, the stock market suddenly dropped a lot and then quickly went back up. A lot of market makers got hit with toxic orders that made them lose money fast. These orders were coming from high-frequency traders and big investors who were trying to sell their stocks quickly. Because market makers were getting so many bad orders, they pulled back from the market, which made it even harder for people to trade and caused the prices to go crazy. This showed how flow toxicity can mess up the whole market and make it hard for market makers to do their job.
+One big example of flow toxicity affecting [market making](/wiki/market-making) was during the 2010 Flash Crash. On that day, the stock market suddenly dropped a lot and then quickly went back up. A lot of market makers got hit with toxic orders that made them lose money fast. These orders were coming from high-frequency traders and big investors who were trying to sell their stocks quickly. Because market makers were getting so many bad orders, they pulled back from the market, which made it even harder for people to trade and caused the prices to go crazy. This showed how flow toxicity can mess up the whole market and make it hard for market makers to do their job.
 
 Another case was with the market maker Knight Capital in 2012. They had a computer problem that made them send out a lot of bad orders. These orders were toxic because they made Knight Capital lose a lot of money very quickly. Because of these toxic orders, Knight Capital almost went out of business. They had to get help from other companies to stay alive. This case showed how important it is for market makers to have good technology to spot and handle toxic orders, or they can get into big trouble.
 

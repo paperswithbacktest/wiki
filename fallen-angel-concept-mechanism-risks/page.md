@@ -80,7 +80,7 @@ Adding fallen angels to a portfolio can make it more exciting but also more unpr
 
 Investors use advanced tools to try and guess which bonds might become fallen angels. These tools look at a lot of information about a company, like how much money it's making, how much debt it has, and what's happening in the market. They use computer programs to find patterns and signs that a company might be in trouble. For example, if a company's profits are going down or its debt is going up, these tools can warn investors that the bond might be downgraded soon.
 
-Some of these tools use something called machine learning, which means they can learn from past data to make better guesses about the future. They look at old examples of fallen angels and try to find out what made them happen. This helps investors see if a bond is at risk of being downgraded. By using these advanced tools, investors can make smarter choices about which bonds to buy or sell, and they can be ready for when a bond might become a fallen angel.
+Some of these tools use something called [machine learning](/wiki/machine-learning), which means they can learn from past data to make better guesses about the future. They look at old examples of fallen angels and try to find out what made them happen. This helps investors see if a bond is at risk of being downgraded. By using these advanced tools, investors can make smarter choices about which bonds to buy or sell, and they can be ready for when a bond might become a fallen angel.
 
 ## References & Further Reading
 

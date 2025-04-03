@@ -22,7 +22,7 @@ As more and more people couldn't pay their mortgages, banks started to lose a lo
 
 ## What role did adjustable-rate mortgages play in the crisis?
 
-Adjustable-rate mortgages, or ARMs, played a big role in the subprime mortgage crisis. These loans start with a low interest rate that can go up after a few years. Many people took out ARMs because they could afford the low payments at first. But when the interest rates went up, their monthly payments got a lot higher. A lot of people couldn't afford the new payments and started to fall behind on their loans.
+Adjustable-rate mortgages, or ARMs, played a big role in the subprime mortgage crisis. These loans start with a low [interest rate](/wiki/interest-rate-trading-strategies) that can go up after a few years. Many people took out ARMs because they could afford the low payments at first. But when the interest rates went up, their monthly payments got a lot higher. A lot of people couldn't afford the new payments and started to fall behind on their loans.
 
 When people couldn't pay their higher ARM payments, it caused a lot of problems. Banks had given out too many of these risky loans, thinking that housing prices would keep going up. But when housing prices started to fall, and more people couldn't pay their loans, banks lost a lot of money. This led to a big financial crisis in 2008, affecting not just the people with the loans but the whole economy.
 

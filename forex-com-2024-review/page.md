@@ -48,7 +48,7 @@ If you use the Commission Account, you will pay a small commission for each trad
 
 In 2024, FOREX.com takes the security of user funds and data very seriously. They use strong encryption to keep your information safe when you are trading on their platform. This means that your data is protected from hackers. FOREX.com also follows strict rules and is watched by big financial organizations to make sure they keep your money safe. They keep your money in separate bank accounts, so it's not mixed with their own money. This helps make sure your funds are always safe and available to you.
 
-They also have extra security steps like two-factor authentication. This means you need more than just a password to log in, which adds another layer of protection. FOREX.com regularly checks their systems to find and fix any problems that could affect security. They also have a team that works all the time to watch for anything unusual and keep your account safe. By doing all these things, FOREX.com makes sure that your funds and data are well-protected.
+They also have extra security steps like two-[factor](/wiki/factor-investing) authentication. This means you need more than just a password to log in, which adds another layer of protection. FOREX.com regularly checks their systems to find and fix any problems that could affect security. They also have a team that works all the time to watch for anything unusual and keep your account safe. By doing all these things, FOREX.com makes sure that your funds and data are well-protected.
 
 ## What educational resources does FOREX.com offer to its users?
 

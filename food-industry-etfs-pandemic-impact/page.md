@@ -18,7 +18,7 @@ In the food industry, ETFs can be a way to invest in companies that make, sell, 
 
 Some popular Food Industry ETFs are the Invesco Dynamic Food & Beverage ETF (PBJ) and the VanEck Vectors Agribusiness ETF (MOO). The PBJ ETF focuses on companies that are involved in the production, processing, and distribution of food and beverages. This includes big names like PepsiCo, Coca-Cola, and Mondelez International. The MOO ETF, on the other hand, invests in companies that are part of the agriculture business, from farming to equipment manufacturing. Companies like Deere & Company and Archer-Daniels-Midland are part of this ETF.
 
-Another ETF to consider is the Global X AgTech & Food Innovation ETF (KROP). This ETF targets companies that are using technology to improve farming and food production. It includes companies that work on things like vertical farming, precision agriculture, and food waste reduction. Each of these ETFs offers a different way to invest in the food industry, depending on whether you're interested in traditional food and beverage companies, agriculture, or innovative food technology.
+Another [ETF](/wiki/etf-trading-strategies) to consider is the Global X AgTech & Food Innovation ETF (KROP). This ETF targets companies that are using technology to improve farming and food production. It includes companies that work on things like vertical farming, precision agriculture, and food waste reduction. Each of these ETFs offers a different way to invest in the food industry, depending on whether you're interested in traditional food and beverage companies, agriculture, or innovative food technology.
 
 ## How did the food industry perform during the early stages of the COVID-19 pandemic?
 

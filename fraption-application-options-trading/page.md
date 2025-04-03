@@ -28,7 +28,7 @@ The third part is the expiration date, which is when the fraption stops working.
 
 ## Can you explain the pricing model for fraptions?
 
-The pricing of fraptions works a lot like the pricing of regular options, but it takes into account that you're only dealing with a smaller part of an asset. The main thing that affects the price of a fraption is the premium, which is what you pay to buy the fraption. This premium is influenced by things like how much the price of the underlying asset might change (this is called volatility), how long until the fraption expires, and the difference between the current price of the asset and the strike price of the fraption.
+The pricing of fraptions works a lot like the pricing of regular options, but it takes into account that you're only dealing with a smaller part of an asset. The main thing that affects the price of a fraption is the premium, which is what you pay to buy the fraption. This premium is influenced by things like how much the price of the underlying asset might change (this is called [volatility](/wiki/volatility-trading-strategies)), how long until the fraption expires, and the difference between the current price of the asset and the strike price of the fraption.
 
 Another thing to think about is that because fraptions let you trade smaller pieces of an asset, they can be cheaper than regular options. This means more people can afford to buy them. But even though they're cheaper, the same basic ideas that affect the price of regular options still apply to fraptions. So, if the market thinks the price of the asset will move a lot, or if there's a long time until the fraption expires, the premium might be higher. And if the strike price is far away from the current price of the asset, that can also change how much the fraption costs.
 
@@ -42,7 +42,7 @@ Another good thing about fraptions is that they give you more flexibility. Becau
 
 Fraption trading, like any kind of trading, comes with risks that you need to know about. One big risk is that you might lose money. If the price of the asset doesn't move the way you thought it would, your fraption could become worthless when it expires. This means you lose the money you paid for the fraption. Another risk is that fraptions can be hard to understand, especially for people new to trading. If you don't really get how they work, you might make mistakes and lose money.
 
-Another thing to think about is that fraptions might not be as easy to trade as regular options. Because they are based on smaller pieces of assets, they might not be as popular, and this can make it harder to find someone to buy or sell your fraption when you want to. This is called lower liquidity, and it can make it harder to get out of a trade if you need to. So, while fraptions can be a good way to get into options trading without a lot of money, you need to be careful and understand the risks involved.
+Another thing to think about is that fraptions might not be as easy to trade as regular options. Because they are based on smaller pieces of assets, they might not be as popular, and this can make it harder to find someone to buy or sell your fraption when you want to. This is called lower [liquidity](/wiki/liquidity-risk-premium), and it can make it harder to get out of a trade if you need to. So, while fraptions can be a good way to get into options trading without a lot of money, you need to be careful and understand the risks involved.
 
 ## How can fraptions be used to hedge against market volatility?
 

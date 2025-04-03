@@ -38,7 +38,7 @@ Sometimes, there's also a performance fee. This fee is based on how well your in
 
 One of the main benefits of choosing a fee-based investment is that you get personalized advice. Your financial advisor works with you to understand your goals and how much risk you're comfortable with. They then create a plan that fits your needs. This can help you feel more confident about your investments because you know they're tailored just for you. Plus, since the advisor gets paid a fee no matter how your investments do, they're more likely to focus on your long-term success rather than making quick trades for their own gain.
 
-Another benefit is that fee-based investments can be more transparent. You know exactly what you're paying for, which is usually a percentage of your total investment. This makes it easier to see the costs and understand how they might affect your returns over time. Also, since the advisor isn't earning money from commissions on trades, they might trade less often. This can save you money on transaction costs and help keep your investment strategy focused on the long term.
+Another benefit is that fee-based investments can be more transparent. You know exactly what you're paying for, which is usually a percentage of your total investment. This makes it easier to see the costs and understand how they might affect your returns over time. Also, since the advisor isn't [earning](/wiki/earning-announcement) money from commissions on trades, they might trade less often. This can save you money on transaction costs and help keep your investment strategy focused on the long term.
 
 ## Can you explain the potential drawbacks of fee-based investments?
 

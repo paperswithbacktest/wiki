@@ -42,7 +42,7 @@ Another tax benefit is that the business can also claim depreciation on the asse
 
 ## How does the interest rate on a hire purchase affect the total cost?
 
-The interest rate on a hire purchase agreement can make the total cost of what you're buying go up a lot. When you use hire purchase, you're not just paying for the item itself, but also for the money you're borrowing to buy it. The interest rate is like a fee you pay for borrowing that money. If the interest rate is high, you'll end up paying more money over time than if the rate was lower. So, a higher interest rate means you'll pay more in the end than the item's original price.
+The [interest rate](/wiki/interest-rate-trading-strategies) on a hire purchase agreement can make the total cost of what you're buying go up a lot. When you use hire purchase, you're not just paying for the item itself, but also for the money you're borrowing to buy it. The interest rate is like a fee you pay for borrowing that money. If the interest rate is high, you'll end up paying more money over time than if the rate was lower. So, a higher interest rate means you'll pay more in the end than the item's original price.
 
 It's important to look at the interest rate carefully before you agree to a hire purchase. Even a small difference in the interest rate can change how much you pay overall. For example, if you're buying something that costs $1,000 and the interest rate is 10%, you might end up paying $1,100 or more by the time you finish all your payments. But if the interest rate is 5%, you might only pay $1,050. That's why it's a good idea to compare different hire purchase offers and choose the one with the lowest interest rate to save money.
 

@@ -24,7 +24,7 @@ However, fake trading can indirectly impact the market in some ways. For example
 
 Fake trading on a crypto exchange can be hard to spot because it's meant to look like real trading. One sign might be if you see a lot of trades happening but the prices are not moving much. In real trading, big trades usually make the price go up or down. If the price stays the same even with a lot of trades, it could mean those trades are fake.
 
-Another sign is if the trading volume looks too high compared to other exchanges. If one exchange shows a lot more trading than others for the same cryptocurrency, some of those trades might be fake. Also, if you see the same trades happening over and over again, like the same amount at the same time every day, that could be a sign of fake trading. Real trading usually has more variety and randomness.
+Another sign is if the trading [volume](/wiki/volume-trading-strategy) looks too high compared to other exchanges. If one exchange shows a lot more trading than others for the same [cryptocurrency](/wiki/cryptocurrency), some of those trades might be fake. Also, if you see the same trades happening over and over again, like the same amount at the same time every day, that could be a sign of fake trading. Real trading usually has more variety and randomness.
 
 ## Can you explain the difference between fake trading and wash trading?
 

@@ -62,7 +62,7 @@ The company has been successful in keeping its customers happy and adding new on
 
 FactSet uses technology a lot in its work. They have a big platform where users can find and look at financial data. This platform uses special software to make it easy for people to search for information and make charts or reports. FactSet also uses technology to collect data from places like stock exchanges and news sources. They have agreements to get this data quickly and use special tools to make sure it's accurate and up to date.
 
-Technology also helps FactSet serve its customers better. They have tools for managing investments, like picking stocks and tracking how they are doing. These tools use technology to help users see all their data in one place and make smart decisions. FactSet also uses technology to train people on how to use their platform and to answer their questions. This makes it easier for customers to get the most out of FactSet's services.
+Technology also helps FactSet serve its customers better. They have tools for managing investments, like [picking](/wiki/asset-class-picking) stocks and tracking how they are doing. These tools use technology to help users see all their data in one place and make smart decisions. FactSet also uses technology to train people on how to use their platform and to answer their questions. This makes it easier for customers to get the most out of FactSet's services.
 
 ## What are the competitive advantages of FactSet over its rivals?
 
@@ -80,7 +80,7 @@ Another risk for FactSet is technology. They rely a lot on their platform and so
 
 FactSet is planning to grow by adding new products and services. They want to make their platform even better by adding more data and new tools. This will help them keep their current customers happy and attract new ones. FactSet is also looking at new markets where they can offer their services. They think there are a lot of people in different countries who could use their tools to make smart decisions about their money. By expanding to these new places, FactSet can make more money and help more people.
 
-Another part of FactSet's growth plan is to use technology better. They want to use new tech like artificial intelligence and machine learning to make their data even more useful. These technologies can help find patterns in the data that people might not see on their own. This can make FactSet's reports and tools more helpful to their customers. FactSet also plans to keep improving their customer service. They think that by helping their customers more, they can keep them happy and loyal. This will make it easier for FactSet to grow and do well in the future.
+Another part of FactSet's growth plan is to use technology better. They want to use new tech like [artificial intelligence](/wiki/ai-artificial-intelligence) and [machine learning](/wiki/machine-learning) to make their data even more useful. These technologies can help find patterns in the data that people might not see on their own. This can make FactSet's reports and tools more helpful to their customers. FactSet also plans to keep improving their customer service. They think that by helping their customers more, they can keep them happy and loyal. This will make it easier for FactSet to grow and do well in the future.
 
 ## References & Further Reading
 

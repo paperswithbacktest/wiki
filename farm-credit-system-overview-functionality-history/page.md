@@ -74,7 +74,7 @@ The Farm Credit System looks at your ability to pay back the loan. They will che
 
 ## How are interest rates and loan terms determined within the Farm Credit System?
 
-The Farm Credit System decides on interest rates and loan terms by looking at a few things. They check the overall economy and what other banks are doing with their rates. They also look at how risky the loan is. If a farmer's business is doing well and they have a good chance of paying back the loan, the interest rate might be lower. But if the farm is struggling or the loan is riskier, the rate might be higher. The Farm Credit System wants to make sure the rates are fair and help farmers as much as possible.
+The Farm Credit System decides on interest rates and loan terms by looking at a few things. They check the overall economy and what other banks are doing with their rates. They also look at how risky the loan is. If a farmer's business is doing well and they have a good chance of paying back the loan, the [interest rate](/wiki/interest-rate-trading-strategies) might be lower. But if the farm is struggling or the loan is riskier, the rate might be higher. The Farm Credit System wants to make sure the rates are fair and help farmers as much as possible.
 
 Loan terms are also set based on what the farmer needs and can handle. The system talks with the farmer to figure out the best way to help them. This might mean setting up a loan that can be paid back over a long time if the farmer is buying land, or a shorter time if they need money for seeds or equipment. The Farm Credit System tries to be flexible and work with farmers to make sure they can keep their farms going strong.
 

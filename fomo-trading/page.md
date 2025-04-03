@@ -22,7 +22,7 @@ This kind of quick decision-making can lead to big mistakes. Beginner traders mi
 
 ## What are some common signs of FOMO in trading?
 
-When someone is feeling FOMO in trading, they might start buying things really fast. They see a stock or a cryptocurrency going up and they jump in without thinking much. They might not even check if it's a good idea to buy it. They just see others making money and they want to do the same, so they rush to buy without doing their homework.
+When someone is feeling FOMO in trading, they might start buying things really fast. They see a stock or a [cryptocurrency](/wiki/cryptocurrency) going up and they jump in without thinking much. They might not even check if it's a good idea to buy it. They just see others making money and they want to do the same, so they rush to buy without doing their homework.
 
 Another sign is when a trader keeps checking their phone or computer all the time. They're always looking at prices and news, worried they'll miss out on the next big thing. This can make them feel stressed and anxious. They might also start following every hot tip they hear, even if it doesn't make sense, just because they're scared of missing out on a good deal.
 

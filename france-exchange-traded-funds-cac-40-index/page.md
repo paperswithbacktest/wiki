@@ -22,7 +22,7 @@ The CAC 40 is calculated using the market capitalization of the companies, which
 
 ## How do France ETFs track the CAC 40 Index?
 
-France ETFs that track the CAC 40 Index do so by holding a portfolio of stocks that matches the companies in the index. These ETFs aim to replicate the performance of the CAC 40 as closely as possible. To do this, they buy shares of the 40 companies in the same proportions as they appear in the index. This way, if the CAC 40 goes up or down, the ETF should move in the same direction.
+France ETFs that track the CAC 40 Index do so by holding a portfolio of stocks that matches the companies in the index. These ETFs aim to replicate the performance of the CAC 40 as closely as possible. To do this, they buy shares of the 40 companies in the same proportions as they appear in the index. This way, if the CAC 40 goes up or down, the [ETF](/wiki/etf-trading-strategies) should move in the same direction.
 
 Sometimes, an ETF might use a method called "sampling" to track the index. This means they don't buy every single stock in the CAC 40 but instead choose a smaller selection that they think will perform similarly to the whole index. This can be a bit less accurate but can also be cheaper to manage. Either way, the goal is to give investors an easy way to invest in the French market without having to buy each of the 40 stocks themselves.
 

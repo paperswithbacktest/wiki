@@ -40,7 +40,7 @@ Together, the Board of Governors and the regional banks work to keep the U.S. ec
 
 The Federal Open Market Committee (FOMC) is a very important part of the Federal Reserve. It is made up of the seven members of the Board of Governors and five of the presidents from the 12 regional Federal Reserve Banks. The FOMC meets several times a year to decide on the country's monetary policy, which is all about controlling the amount of money in the economy.
 
-One of the main things the FOMC does is set the target for the federal funds rate, which is the interest rate banks charge each other for short-term loans. By changing this rate, the FOMC can make borrowing money cheaper or more expensive. This affects how much people spend and how businesses invest, which helps keep the economy stable and control inflation. The FOMC also decides on other policies like buying or selling government bonds, which can also change how much money is in the economy. By doing these things, the FOMC helps guide the U.S. economy to stay strong and healthy.
+One of the main things the FOMC does is set the target for the federal funds rate, which is the [interest rate](/wiki/interest-rate-trading-strategies) banks charge each other for short-term loans. By changing this rate, the FOMC can make borrowing money cheaper or more expensive. This affects how much people spend and how businesses invest, which helps keep the economy stable and control inflation. The FOMC also decides on other policies like buying or selling government bonds, which can also change how much money is in the economy. By doing these things, the FOMC helps guide the U.S. economy to stay strong and healthy.
 
 ## How does the Federal Reserve influence interest rates?
 

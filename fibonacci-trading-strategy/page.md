@@ -52,7 +52,7 @@ Another mistake is drawing the Fibonacci levels wrong. To use Fibonacci retracem
 
 ## Can Fibonacci trading strategies be applied to all financial markets?
 
-Fibonacci trading strategies can be used in many different financial markets, like stocks, forex, and commodities. The idea is the same in all these markets: traders use Fibonacci levels to guess where a price might stop moving in one direction and start moving in the other. Whether it's a stock going up and down, or the price of gold changing, traders can draw Fibonacci retracement and extension levels on their charts to help make decisions about when to buy or sell.
+Fibonacci trading strategies can be used in many different financial markets, like stocks, [forex](/wiki/forex-system), and commodities. The idea is the same in all these markets: traders use Fibonacci levels to guess where a price might stop moving in one direction and start moving in the other. Whether it's a stock going up and down, or the price of gold changing, traders can draw Fibonacci retracement and extension levels on their charts to help make decisions about when to buy or sell.
 
 However, these strategies don't work perfectly in every market all the time. Each market has its own special things to think about, like how much it moves around or what news might affect it. So, while Fibonacci tools can be helpful in many markets, traders need to use them along with other tools and information to make the best guesses about where prices might go next.
 
@@ -72,7 +72,7 @@ Fibonacci fans are another tool that uses lines to guess where a price might go 
 
 Backtesting can help make a Fibonacci trading strategy work better by letting traders see how their ideas would have worked in the past. Traders use old price data to test their Fibonacci levels and see if buying or selling at those levels would have made money. By doing this, they can find out which Fibonacci levels work best for their trading plan. They can also see if their strategy makes more money than it loses and if it works better in some markets or time periods than others. This helps them make their strategy stronger before they use real money.
 
-Using backtesting, traders can also try out different ways to use Fibonacci levels with other tools, like moving averages or the RSI. They can see which combinations work best and make their trading plan even better. Backtesting isn't perfect because past results don't always mean the same thing will happen in the future, but it's a good way to learn and improve. By testing their Fibonacci strategy carefully, traders can feel more confident when they start using it for real.
+Using [backtesting](/wiki/backtesting), traders can also try out different ways to use Fibonacci levels with other tools, like moving averages or the RSI. They can see which combinations work best and make their trading plan even better. Backtesting isn't perfect because past results don't always mean the same thing will happen in the future, but it's a good way to learn and improve. By testing their Fibonacci strategy carefully, traders can feel more confident when they start using it for real.
 
 ## What are the psychological aspects of trading that affect the use of Fibonacci strategies?
 

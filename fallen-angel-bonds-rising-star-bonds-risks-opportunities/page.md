@@ -18,7 +18,7 @@ Investors often pay close attention to fallen angel bonds because they can offer
 
 Rising Star Bonds are bonds that start off with a low credit rating, often called "junk" bonds, but then get upgraded to a higher, investment-grade rating. This happens when the company that issued the bond improves its financial health, making it less risky for investors. When a bond gets upgraded like this, it becomes a rising star.
 
-Investors like rising star bonds because they can offer good returns. When a bond is upgraded, its price usually goes up, and it might also pay a higher interest rate than other investment-grade bonds. But, there's still some risk involved because the company's financial situation could change again. So, while rising star bonds can be a great investment, it's important to keep an eye on the company's performance.
+Investors like rising star bonds because they can offer good returns. When a bond is upgraded, its price usually goes up, and it might also pay a higher [interest rate](/wiki/interest-rate-trading-strategies) than other investment-grade bonds. But, there's still some risk involved because the company's financial situation could change again. So, while rising star bonds can be a great investment, it's important to keep an eye on the company's performance.
 
 ## How do Fallen Angel Bonds differ from Rising Star Bonds?
 
@@ -42,7 +42,7 @@ The reasons for a company's financial improvement can be many. It might start ma
 
 When you invest in Fallen Angel Bonds, you take on more risk than with investment-grade bonds. These bonds used to be safe, but now they're riskier because the company that issued them is not doing as well financially. This means there's a bigger chance the company might not be able to pay back the money it owes you. If the company's financial problems get worse, the bond's value could drop a lot, and you might lose money.
 
-Another risk is that Fallen Angel Bonds can be harder to sell quickly. Since they're now junk bonds, fewer people want to buy them, so it can be tough to find someone to take them off your hands if you need to sell them fast. This is called liquidity risk. Even though Fallen Angel Bonds can offer higher interest rates to make up for these risks, it's important to think carefully about whether the extra reward is worth the extra danger.
+Another risk is that Fallen Angel Bonds can be harder to sell quickly. Since they're now junk bonds, fewer people want to buy them, so it can be tough to find someone to take them off your hands if you need to sell them fast. This is called [liquidity](/wiki/liquidity-risk-premium) risk. Even though Fallen Angel Bonds can offer higher interest rates to make up for these risks, it's important to think carefully about whether the extra reward is worth the extra danger.
 
 ## What opportunities can investors find in Rising Star Bonds?
 

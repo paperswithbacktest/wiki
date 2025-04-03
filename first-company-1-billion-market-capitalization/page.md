@@ -42,7 +42,7 @@ In 1901, U.S. Steel became the first company to be worth $1 billion on the stock
 
 U.S. Steel reached a $1 billion market capitalization in 1901 mainly because it was formed by combining many smaller steel companies into one big company. This process is called a merger. By joining together, U.S. Steel could make more steel and sell it to more people. This made the company much bigger and more valuable than any single steel company had been before.
 
-Another key factor was the high demand for steel at that time. Steel was very important for building things like railroads, buildings, and machines. Since U.S. Steel could produce a lot of steel, it became very important to the economy. People saw that U.S. Steel was a strong and growing company, so they were willing to pay more for its shares. This helped push the company's market value to $1 billion.
+Another key [factor](/wiki/factor-investing) was the high demand for steel at that time. Steel was very important for building things like railroads, buildings, and machines. Since U.S. Steel could produce a lot of steel, it became very important to the economy. People saw that U.S. Steel was a strong and growing company, so they were willing to pay more for its shares. This helped push the company's market value to $1 billion.
 
 ## How did the company's market capitalization compare to its competitors at the time?
 

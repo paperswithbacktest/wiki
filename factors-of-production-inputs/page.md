@@ -28,7 +28,7 @@ Capital is made up of things that people have created to help make other things.
 
 ## Why are factors of production important in economics?
 
-Factors of production are important in economics because they are the building blocks for making things and providing services. They include land, labor, capital, and entrepreneurship. Without these, it would be impossible to create anything, from simple goods like bread to complex services like healthcare. Each factor plays a key role: land gives us the raw materials, labor turns these materials into products, capital makes the process more efficient, and entrepreneurship brings new ideas and businesses to life.
+Factors of production are important in economics because they are the building blocks for making things and providing services. They include land, labor, capital, and entrepreneurship. Without these, it would be impossible to create anything, from simple goods like bread to complex services like healthcare. Each [factor](/wiki/factor-investing) plays a key role: land gives us the raw materials, labor turns these materials into products, capital makes the process more efficient, and entrepreneurship brings new ideas and businesses to life.
 
 Understanding these factors helps us see how an economy works and grows. When businesses use these resources well, they can produce more and better goods and services. This can lead to more jobs, higher wages, and a better standard of living for people. Economists study these factors to find ways to use them more effectively, which can help make the economy stronger and more productive. In short, factors of production are the heart of any economy, driving everything from daily production to long-term growth.
 

@@ -28,7 +28,7 @@ Another example of a fiat currency is the British pound, which people use in the
 
 ## When and why was fiat currency first introduced?
 
-Fiat currency was first introduced in the 11th century in China during the Song Dynasty. Before that, people used commodity money, like coins made of gold or silver. But the government started using paper money because it was easier to carry around and use for big purchases. They called it "flying money" because it was so light and easy to move. The government promised that this paper money could be traded for gold or silver, but over time, it became valuable on its own.
+Fiat currency was first introduced in the 11th century in China during the Song Dynasty. Before that, people used commodity money, like coins made of gold or silver. But the government started using paper money because it was easier to [carry](/wiki/carry-trading) around and use for big purchases. They called it "flying money" because it was so light and easy to move. The government promised that this paper money could be traded for gold or silver, but over time, it became valuable on its own.
 
 The reason fiat currency became popular is that it gave governments more control over their economies. With fiat money, governments could print more money when they needed to, without having to find more gold or silver. This helped them manage things like inflation and economic growth. But it also meant that the value of the money could change based on how much was printed and how much people trusted it. Today, almost every country uses fiat currency because it's easier to use and gives governments more power to help their economies.
 

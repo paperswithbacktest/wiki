@@ -80,7 +80,7 @@ Using technology also helps keep everyone in the company on the same page. Syste
 
 One advanced strategy to make a Feedback Rule Policy better is to use data analysis tools. These tools can look at a lot of feedback quickly and find patterns or common issues that might be missed by just reading feedback. For example, if many customers say the same thing about a product, the company can see this and fix it faster. Using data analysis helps make sure the company is focusing on the most important feedback and making changes that will help the most people.
 
-Another strategy is to use AI and machine learning to handle feedback. These technologies can sort feedback into different groups, like positive or negative, and even suggest what to do about it. For example, AI can read feedback and say if a customer needs a quick reply or if the feedback should be used to change a product. By using AI, the company can respond to feedback faster and make smarter choices about how to use it. This makes the Feedback Rule Policy more effective and helps keep customers happy.
+Another strategy is to use AI and [machine learning](/wiki/machine-learning) to handle feedback. These technologies can sort feedback into different groups, like positive or negative, and even suggest what to do about it. For example, AI can read feedback and say if a customer needs a quick reply or if the feedback should be used to change a product. By using AI, the company can respond to feedback faster and make smarter choices about how to use it. This makes the Feedback Rule Policy more effective and helps keep customers happy.
 
 ## References & Further Reading
 

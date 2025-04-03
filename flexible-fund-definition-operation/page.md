@@ -44,7 +44,7 @@ Besides these, Flexible Funds can also invest in other things like real estate, 
 
 The performance of a Flexible Fund is measured by looking at how much money it makes or loses over time. This is usually shown as a percentage, called the return. If the fund makes money, the return is positive. If it loses money, the return is negative. People also compare the fund's return to other funds or to a benchmark, like the stock market, to see if it's doing better or worse than expected.
 
-Another way to measure the performance of a Flexible Fund is by looking at its risk. This is often shown by something called volatility, which measures how much the fund's value goes up and down. A fund with high volatility might make a lot of money quickly, but it could also lose a lot. A fund with low volatility is more stable but might not grow as fast. Investors look at both the return and the risk to decide if the fund is a good choice for them.
+Another way to measure the performance of a Flexible Fund is by looking at its risk. This is often shown by something called [volatility](/wiki/volatility-trading-strategies), which measures how much the fund's value goes up and down. A fund with high volatility might make a lot of money quickly, but it could also lose a lot. A fund with low volatility is more stable but might not grow as fast. Investors look at both the return and the risk to decide if the fund is a good choice for them.
 
 ## What are the risks associated with investing in a Flexible Fund?
 
@@ -62,7 +62,7 @@ However, because Flexible Funds give investors the ability to move their money a
 
 When you invest in a Flexible Fund, you'll have to pay some fees and costs. One common fee is the management fee, which is what you pay the professionals who run the fund. They use this money to do research, make decisions about where to invest, and handle all the changes investors want to make. The management fee is usually a small percentage of the money you have in the fund, and it's taken out of your investment every year.
 
-Another cost you might see is the transaction fee. This is what you pay when you move your money from one type of investment to another. Because Flexible Funds let you switch your money around easily, you might do this more often than with other funds. The transaction fee can add up if you make a lot of changes. Some Flexible Funds might also charge other fees, like an entry fee when you first invest or an exit fee when you take your money out. It's important to know about all these fees so you can understand how much they might affect your investment over time.
+Another cost you might see is the transaction fee. This is what you pay when you move your money from one type of investment to another. Because Flexible Funds let you switch your money around easily, you might do this more often than with other funds. The transaction fee can add up if you make a lot of changes. Some Flexible Funds might also charge other fees, like an entry fee when you first invest or an [exit](/wiki/exit-strategy) fee when you take your money out. It's important to know about all these fees so you can understand how much they might affect your investment over time.
 
 ## How can an investor withdraw their money from a Flexible Fund?
 

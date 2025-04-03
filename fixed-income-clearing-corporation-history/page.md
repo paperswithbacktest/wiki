@@ -78,7 +78,7 @@ Another important change was the rules from the Securities and Exchange Commissi
 
 The Fixed Income Clearing Corporation (FICC) faces several challenges as the financial world keeps changing. One big challenge is dealing with new technology. As more trades happen online and with computers, FICC has to keep up with these changes to make sure everything stays safe and works well. Another challenge is keeping up with new rules from the government. These rules can be hard to follow and might need FICC to change how it does things. Also, FICC needs to handle more trades as the market grows, which means it has to find ways to do more work without making mistakes.
 
-Looking ahead, FICC is thinking about how to use new technology even more to make its services better. This could mean using things like artificial intelligence and blockchain to make trades faster and safer. FICC also wants to work more closely with other parts of the financial world to share information and make sure everyone follows the same rules. By doing these things, FICC hopes to keep the bond market stable and trustworthy, even as the financial world keeps changing.
+Looking ahead, FICC is thinking about how to use new technology even more to make its services better. This could mean using things like [artificial intelligence](/wiki/ai-artificial-intelligence) and blockchain to make trades faster and safer. FICC also wants to work more closely with other parts of the financial world to share information and make sure everyone follows the same rules. By doing these things, FICC hopes to keep the bond market stable and trustworthy, even as the financial world keeps changing.
 
 ## References & Further Reading
 

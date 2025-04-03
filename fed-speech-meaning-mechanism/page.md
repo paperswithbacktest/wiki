@@ -76,7 +76,7 @@ Sometimes, central banks also talk to each other before big decisions. They migh
 
 ## What advanced analytical tools are used to predict the effects of Fed speeches on economic indicators?
 
-People who study the economy use special computer programs to guess how Fed speeches might affect things like interest rates and stock prices. These programs look at what the Fed said in the past and how the economy reacted. They use math to find patterns and make predictions. One tool they use is called natural language processing, which helps the computer understand the words in the speeches. Another tool is machine learning, which lets the computer learn from old data to make better guesses about the future.
+People who study the economy use special computer programs to guess how Fed speeches might affect things like interest rates and stock prices. These programs look at what the Fed said in the past and how the economy reacted. They use math to find patterns and make predictions. One tool they use is called natural language processing, which helps the computer understand the words in the speeches. Another tool is [machine learning](/wiki/machine-learning), which lets the computer learn from old data to make better guesses about the future.
 
 These tools help analysts see how small changes in what the Fed says can make big changes in the economy. For example, if the Fed starts using words like "concerned" or "monitoring," the computer can tell that they might be thinking about changing interest rates soon. By using these advanced tools, people can get a better idea of what might happen next in the economy, which helps them make smarter decisions about investing and planning.
 

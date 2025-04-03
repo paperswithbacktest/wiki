@@ -52,7 +52,7 @@ Another example of representative money is the gold standard that many countries
 
 ## What are the advantages of using fiat money?
 
-Fiat money is good because it gives countries more control over their money. If the economy needs more money, the government can print more. This can help businesses grow and people find jobs. It's also easier to carry around than heavy gold or silver. You can use paper bills or even digital money on your phone, which makes buying things simple and fast.
+Fiat money is good because it gives countries more control over their money. If the economy needs more money, the government can print more. This can help businesses grow and people find jobs. It's also easier to [carry](/wiki/carry-trading) around than heavy gold or silver. You can use paper bills or even digital money on your phone, which makes buying things simple and fast.
 
 Another advantage is that fiat money can be used to help the economy during tough times. If there's a problem like a big drop in jobs, the government can print more money to help people and businesses. This can stop the economy from getting worse. But, it's important for the government to be careful and not print too much money, or prices might go up too fast, which is called inflation.
 

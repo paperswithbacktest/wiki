@@ -76,7 +76,7 @@ Another way FactSet protects data is by making sure it follows all the rules and
 
 FactSet has been working hard to make their services even better. One of the recent updates they made is called FactSet Workstation. This is a new way for people to use FactSet's tools. It's easier to use and looks nicer than before. It helps people find the information they need quickly and do their work faster. FactSet also added more data to their database, so now users can see even more information about companies and markets.
 
-Another big change is that FactSet has been using more artificial intelligence (AI) and machine learning. These are smart technologies that can help people find patterns in data and make better predictions. For example, FactSet's AI tools can help users see which companies might do well in the future or find risks they might not have noticed before. This makes it easier for people to make smart choices about their investments.
+Another big change is that FactSet has been using more [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and [machine learning](/wiki/machine-learning). These are smart technologies that can help people find patterns in data and make better predictions. For example, FactSet's AI tools can help users see which companies might do well in the future or find risks they might not have noticed before. This makes it easier for people to make smart choices about their investments.
 
 ## How does FactSet compare to its competitors in terms of features and performance?
 

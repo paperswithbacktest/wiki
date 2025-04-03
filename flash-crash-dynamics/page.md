@@ -20,7 +20,7 @@ Flash crashes often happen because of high-frequency trading. This is when compu
 
 Another reason for flash crashes can be big news or events that make everyone want to sell their stocks at the same time. For example, if there's a sudden announcement that could affect the economy, people might panic and start selling their stocks. This rush to sell can cause prices to drop very quickly. Sometimes, it's also because of a mistake, like someone entering a wrong number into a trading system, which can trigger a big sell-off.
 
-Lastly, flash crashes can also happen because of something called a liquidity problem. This means there aren't enough buyers to match all the sellers at a certain price. When this happens, the price can drop a lot because there's no one to buy the stocks at the price sellers want. It's like trying to sell something at a busy market but no one is buying, so you have to lower the price a lot to find a buyer.
+Lastly, flash crashes can also happen because of something called a [liquidity](/wiki/liquidity-risk-premium) problem. This means there aren't enough buyers to match all the sellers at a certain price. When this happens, the price can drop a lot because there's no one to buy the stocks at the price sellers want. It's like trying to sell something at a busy market but no one is buying, so you have to lower the price a lot to find a buyer.
 
 ## How do flash crashes impact financial markets?
 
@@ -68,7 +68,7 @@ To stop flash crashes from happening, it's important to keep the market liquid. 
 
 Algorithmic trading strategies use computers to buy and sell stocks very quickly. These strategies can start a flash crash because they can all start selling at the same time if something goes wrong. For example, if a computer program sees a big drop in prices, it might think it's a good time to sell and make other programs do the same. This can make prices drop even more because there are too many sellers and not enough buyers. When lots of computers start selling at once, it can cause a big drop in prices that happens really fast, which is what we call a flash crash.
 
-To stop flash crashes from happening because of algorithmic trading, people who make the rules for the stock market watch these computer programs closely. They try to make sure the programs don't all start selling at the same time. They also use things like circuit breakers, which stop trading for a short time if prices drop too much. This gives everyone a chance to calm down and think before they keep trading. By doing these things, they hope to make the market more stable and stop flash crashes from happening.
+To stop flash crashes from happening because of [algorithmic trading](/wiki/algorithmic-trading), people who make the rules for the stock market watch these computer programs closely. They try to make sure the programs don't all start selling at the same time. They also use things like circuit breakers, which stop trading for a short time if prices drop too much. This gives everyone a chance to calm down and think before they keep trading. By doing these things, they hope to make the market more stable and stop flash crashes from happening.
 
 ## What are the latest research findings on the mechanisms of flash crashes?
 

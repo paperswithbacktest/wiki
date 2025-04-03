@@ -44,7 +44,7 @@ Because of this, food insecurity is often a sign that someone is living in pover
 
 Food insecurity can hurt the local economy. When people don't have enough food, they might not be able to work as well or go to school. This means they might not earn as much money or learn the skills they need for good jobs. When a lot of people in a community are food insecure, it can slow down the whole economy. Businesses might not do as well because people don't have money to spend on things other than food. This can lead to fewer jobs and less money moving around in the local area.
 
-On the other hand, trying to fix food insecurity can help the local economy. When people get help with food, they can focus on working and learning. This can lead to more people earning money and spending it in the community. Programs that give out food or help people buy it can also create jobs and support local farmers and stores. By making sure everyone has enough to eat, a community can become stronger and more prosperous.
+On the other hand, trying to fix food insecurity can help the local economy. When people get help with food, they can focus on working and learning. This can lead to more people [earning](/wiki/earning-announcement) money and spending it in the community. Programs that give out food or help people buy it can also create jobs and support local farmers and stores. By making sure everyone has enough to eat, a community can become stronger and more prosperous.
 
 ## What are the national economic consequences of widespread food insecurity?
 

@@ -38,7 +38,7 @@ Both types of fiscal policy are important tools for the government to manage the
 
 ## How does expansionary fiscal policy work?
 
-Expansionary fiscal policy is what the government does when it wants to help the economy grow. It's like giving the economy a little push to get it moving faster. The government does this by spending more money on things like building roads, schools, and hospitals. When the government spends more, it creates jobs for people who work on these projects. More jobs mean more people earning money, and when people have money, they spend it on things they need and want. This spending helps businesses grow and can make the whole economy stronger.
+Expansionary fiscal policy is what the government does when it wants to help the economy grow. It's like giving the economy a little push to get it moving faster. The government does this by spending more money on things like building roads, schools, and hospitals. When the government spends more, it creates jobs for people who work on these projects. More jobs mean more people [earning](/wiki/earning-announcement) money, and when people have money, they spend it on things they need and want. This spending helps businesses grow and can make the whole economy stronger.
 
 Another way the government uses expansionary fiscal policy is by cutting taxes. When taxes are lower, people and businesses have more money left over after paying the government. With more money in their pockets, people might buy more things, like cars or clothes, and businesses might invest in new projects or hire more workers. All this extra spending and investing can help the economy grow. So, by spending more and cutting taxes, the government can help the economy get back on its feet when it's not doing well.
 

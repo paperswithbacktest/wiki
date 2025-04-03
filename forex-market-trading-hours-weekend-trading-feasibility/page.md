@@ -48,7 +48,7 @@ The prices of these instruments can also be different on weekends. Because fewer
 
 ## How does liquidity in the Forex market change from weekdays to weekends?
 
-Liquidity in the Forex market is much higher during weekdays than on weekends. During the week, lots of banks and financial institutions around the world are open and trading. This means there are many buyers and sellers, which makes it easy to trade and keeps the prices moving a lot. The busiest times are when the big markets like Tokyo, London, and New York are open at the same time. This is when the market has the most liquidity.
+Liquidity in the Forex market is much higher during weekdays than on weekends. During the week, lots of banks and financial institutions around the world are open and trading. This means there are many buyers and sellers, which makes it easy to trade and keeps the prices moving a lot. The busiest times are when the big markets like Tokyo, London, and New York are open at the same time. This is when the market has the most [liquidity](/wiki/liquidity-risk-premium).
 
 On weekends, the Forex market is much quieter. The main market is closed from Friday evening to Sunday evening, and fewer people are trading. Some brokers let you trade during this time, but there are not as many buyers and sellers. This means the market has less liquidity, and the prices might not move as much. Trading on weekends can be riskier because it's harder to predict how the prices will change.
 

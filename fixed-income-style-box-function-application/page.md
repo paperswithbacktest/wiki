@@ -28,7 +28,7 @@ These two parts make a grid. The top of the grid has the safest bonds, and the b
 
 ## How does the interest rate sensitivity axis work in a fixed-income style box?
 
-In a fixed-income style box, the interest rate sensitivity axis is another way to look at bonds, focusing on how much their prices change when interest rates go up or down. This axis is often shown along with the credit quality and maturity axes. Bonds that are very sensitive to interest rates will see their prices drop a lot if interest rates go up, and rise a lot if interest rates go down. These bonds are usually long-term bonds because they have more time for interest rate changes to affect them.
+In a fixed-income style box, the [interest rate](/wiki/interest-rate-trading-strategies) sensitivity axis is another way to look at bonds, focusing on how much their prices change when interest rates go up or down. This axis is often shown along with the credit quality and maturity axes. Bonds that are very sensitive to interest rates will see their prices drop a lot if interest rates go up, and rise a lot if interest rates go down. These bonds are usually long-term bonds because they have more time for interest rate changes to affect them.
 
 On the other hand, bonds that are less sensitive to interest rates won't change much in price when interest rates move. These are often short-term bonds because they have less time for interest rate changes to impact them. By looking at where a bond falls on the interest rate sensitivity axis, investors can better understand how their bond investments might react to changes in interest rates. This helps them pick bonds that fit their comfort level with risk and their investment goals.
 

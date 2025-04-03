@@ -22,7 +22,7 @@ Traditional currency, on the other hand, is issued and regulated by governments 
 
 ## Can financial advisors legally and ethically advise on cryptocurrency investments?
 
-Yes, financial advisors can legally and ethically advise on cryptocurrency investments, but there are some important things to keep in mind. Financial advisors have to follow rules and guidelines set by their professional organizations and government regulators. They need to make sure they understand cryptocurrencies well enough to give good advice. They also need to tell their clients about the risks, because cryptocurrencies can be very unpredictable and risky.
+Yes, financial advisors can legally and ethically advise on [cryptocurrency](/wiki/cryptocurrency) investments, but there are some important things to keep in mind. Financial advisors have to follow rules and guidelines set by their professional organizations and government regulators. They need to make sure they understand cryptocurrencies well enough to give good advice. They also need to tell their clients about the risks, because cryptocurrencies can be very unpredictable and risky.
 
 Ethically, financial advisors should only give advice on cryptocurrencies if they truly believe it's in the best interest of their clients. They need to be honest about what they know and don't know, and they should not push clients into risky investments just to make money for themselves. It's important for financial advisors to keep learning about cryptocurrencies so they can give the best possible advice and help their clients make smart choices.
 

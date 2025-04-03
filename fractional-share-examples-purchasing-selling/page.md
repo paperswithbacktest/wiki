@@ -36,7 +36,7 @@ Another benefit of fractional shares is that they help you spread your investmen
 
 Many online platforms and brokers now offer the option to buy and sell fractional shares. Some popular ones include Robinhood, which lets you buy parts of stocks with no minimum investment, and Charles Schwab, where you can buy fractional shares of stocks and ETFs. Fidelity also offers fractional shares, allowing you to invest in stocks starting at $1.
 
-Other platforms that support fractional shares are E*TRADE, which lets you buy fractional shares of S&P 500 stocks, and Interactive Brokers, where you can invest in fractional shares of stocks and ETFs. Vanguard offers fractional shares too, but only for their ETFs. These platforms make it easy for people to start investing without needing a lot of money.
+Other platforms that support fractional shares are E*TRADE, which lets you buy fractional shares of S&P 500 stocks, and [Interactive Brokers](/wiki/interactive-brokers-api), where you can invest in fractional shares of stocks and ETFs. Vanguard offers fractional shares too, but only for their ETFs. These platforms make it easy for people to start investing without needing a lot of money.
 
 ## How can you purchase fractional shares?
 

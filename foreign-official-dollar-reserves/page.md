@@ -40,7 +40,7 @@ These reports from the IMF help everyone understand how countries are managing t
 
 ## What factors influence the level of foreign official dollar reserves a country holds?
 
-Countries decide how many U.S. dollars to keep in their reserves based on a few important things. One big factor is how much they trade with other countries. If a country buys a lot of things from other places, it needs more dollars to pay for them. Another factor is how stable their own money is. If their currency can change a lot in value, they might want to keep more dollars to help keep it steady. Also, if a country has a lot of debt in dollars, it will need to keep more dollars to pay it back.
+Countries decide how many U.S. dollars to keep in their reserves based on a few important things. One big [factor](/wiki/factor-investing) is how much they trade with other countries. If a country buys a lot of things from other places, it needs more dollars to pay for them. Another factor is how stable their own money is. If their currency can change a lot in value, they might want to keep more dollars to help keep it steady. Also, if a country has a lot of debt in dollars, it will need to keep more dollars to pay it back.
 
 Another thing that can affect how many dollars a country holds is what's happening in the world's economy. If people think the U.S. dollar will stay strong, countries might want to keep more of it. But if they think the dollar might lose value, they might choose to hold less. Lastly, countries might also look at what other countries are doing. If many countries are holding a lot of dollars, it might make sense for them to do the same to stay competitive in the global market.
 

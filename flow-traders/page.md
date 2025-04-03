@@ -42,7 +42,7 @@ By having offices in different parts of the world, Flow Traders can help people 
 
 ## What is the business model of Flow Traders?
 
-Flow Traders makes money by buying and selling financial products like stocks, bonds, and ETFs. They do this by providing liquidity to the markets, which means they make it easier for other people to trade quickly and at fair prices. They use computers and special programs to do a lot of trades every day. This helps them make money from the small differences in prices when they buy and sell.
+Flow Traders makes money by buying and selling financial products like stocks, bonds, and ETFs. They do this by providing [liquidity](/wiki/liquidity-risk-premium) to the markets, which means they make it easier for other people to trade quickly and at fair prices. They use computers and special programs to do a lot of trades every day. This helps them make money from the small differences in prices when they buy and sell.
 
 Their business model focuses on electronic trading, which means they use technology to trade without talking to people directly. This helps them handle lots of trades quickly and efficiently. Flow Traders works in many countries around the world, like the Netherlands, the United States, and Singapore. By being in different places, they can trade in many markets and help keep them running smoothly.
 

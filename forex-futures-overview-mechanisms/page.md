@@ -36,7 +36,7 @@ Another benefit is that Forex Futures let you use leverage, which means you can 
 
 Trading Forex Futures can be risky, mainly because of something called leverage. Leverage means you can control a big amount of money with just a small deposit. This can make your profits bigger, but it can also make your losses bigger if the market moves against you. If the market goes the wrong way, you might lose more money than you put in, and you could end up owing money to your broker.
 
-Another risk is market volatility. The value of currencies can change a lot and very quickly because of news, economic reports, or even rumors. If you're not ready for these sudden changes, you could lose money fast. That's why it's important to keep an eye on the market and be ready to act if things start to go wrong.
+Another risk is market [volatility](/wiki/volatility-trading-strategies). The value of currencies can change a lot and very quickly because of news, economic reports, or even rumors. If you're not ready for these sudden changes, you could lose money fast. That's why it's important to keep an eye on the market and be ready to act if things start to go wrong.
 
 Also, Forex Futures have something called a margin call. If the market moves against you and your account balance drops too low, your broker might ask you to put more money into your account right away. If you can't do that, your broker might close your position to limit their risk, and you could lose money. It's important to understand these risks and be ready for them before you start trading Forex Futures.
 
@@ -48,7 +48,7 @@ Margin is the money you need to put into your account to open a trade. It's like
 
 ## What are the most common strategies used in Forex Futures trading?
 
-One common strategy in Forex Futures trading is called trend following. This means traders try to find out which way the market is moving and then trade in that direction. They look at charts and use tools like moving averages to see if the market is going up or down. If they think the market will keep going up, they buy a futures contract. If they think it will keep going down, they sell one. This strategy works well when the market has clear trends, but it can be hard if the market is moving sideways or changing direction a lot.
+One common strategy in Forex Futures trading is called [trend following](/wiki/trend-following). This means traders try to find out which way the market is moving and then trade in that direction. They look at charts and use tools like moving averages to see if the market is going up or down. If they think the market will keep going up, they buy a futures contract. If they think it will keep going down, they sell one. This strategy works well when the market has clear trends, but it can be hard if the market is moving sideways or changing direction a lot.
 
 Another strategy is called range trading. This is when traders think the market will stay between two price levels for a while. They buy when the price gets to the bottom of the range and sell when it gets to the top. This can be a good way to make money if the market is not moving much. But if the market breaks out of the range suddenly, traders can lose money fast. That's why it's important to set stop-loss orders, which automatically close a trade if it loses too much money.
 

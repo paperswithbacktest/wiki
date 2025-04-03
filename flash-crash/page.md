@@ -54,7 +54,7 @@ To try to stop flash crashes, people who watch over the market made new rules. O
 
 ## What is the role of market liquidity during a flash crash?
 
-Market liquidity is about how easy it is to buy or sell stocks without making the price change a lot. During a flash crash, liquidity can make things better or worse. If there are lots of buyers and sellers in the market, it's easier to trade stocks without big price changes. But if there aren't many people trading, a big sell order can make the price drop a lot because there aren't enough buyers to keep the price steady.
+Market [liquidity](/wiki/liquidity-risk-premium) is about how easy it is to buy or sell stocks without making the price change a lot. During a flash crash, liquidity can make things better or worse. If there are lots of buyers and sellers in the market, it's easier to trade stocks without big price changes. But if there aren't many people trading, a big sell order can make the price drop a lot because there aren't enough buyers to keep the price steady.
 
 When a flash crash happens, the sudden drop in prices can scare people away from trading. This means there are fewer buyers and sellers, which makes the market less liquid. With less liquidity, it's harder for the market to recover quickly because there aren't enough people to buy the stocks and bring the prices back up. So, good liquidity can help stop flash crashes from getting worse, but when liquidity goes down during a flash crash, it can make the problem bigger.
 
@@ -84,11 +84,11 @@ To stop flash crashes, researchers have also come up with new ways to make the m
 
 ## References & Further Reading
 
-Johnson, B., & Zhao, A. (2013). "The Flash Crash: The Impact of High-Frequency Trading on an Electronic Market." The Journal of Finance. This paper examines the role high-frequency trading (HFT) played during the 2010 flash crash. It provides empirical evidence on how these traders reacted under stress, affecting overall market liquidity.
+Johnson, B., & Zhao, A. (2013). "The Flash Crash: The Impact of High-Frequency Trading on an Electronic Market." The Journal of Finance. This paper examines the role high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) played during the 2010 flash crash. It provides empirical evidence on how these traders reacted under stress, affecting overall market liquidity.
 
 Easley, D., Lopez de Prado, M. M., & O'Hara, M. (2011). "The Exchange of High-Frequency Market Makers." The Journal of Trading. This article offers insights into how high-frequency market makers operate and the implications for market stability. The authors discuss the balance between providing liquidity and contributing to price fluctuations.
 
-Kirilenko, A., Kyle, A. S., Samadi, M., & Tuzun, T. (2017). "The Flash Crash: High-Frequency Trading in an Electronic Market." The Journal of Economic Perspectives. This work analyzes transaction data from the flash crash to identify patterns in trading behavior, particularly the actions of high-frequency traders, underscoring the systemic risks posed by algorithmic trading.
+Kirilenko, A., Kyle, A. S., Samadi, M., & Tuzun, T. (2017). "The Flash Crash: High-Frequency Trading in an Electronic Market." The Journal of Economic Perspectives. This work analyzes transaction data from the flash crash to identify patterns in trading behavior, particularly the actions of high-frequency traders, underscoring the systemic risks posed by [algorithmic trading](/wiki/algorithmic-trading).
 
 Gsell, M. (2009). "Assessing the Impact of Algorithmic Trading on Markets: A Simulation Approach." Doctoral Thesis, University of Hohenheim. Gsell's dissertation employs simulation techniques to study the effects of algorithmic trading on market dynamics, highlighting potential benefits and pitfalls of these strategies under different market conditions.
 

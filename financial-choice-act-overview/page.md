@@ -54,7 +54,7 @@ Some people worry that if the CFPB has less power, it might be harder to protect
 
 ## How does the Financial CHOICE Act propose to alter capital and liquidity requirements for banks?
 
-The Financial CHOICE Act wants to change the rules about how much money banks need to keep saved up, which are called capital and liquidity requirements. These rules were set by the Dodd-Frank Act to make banks safer after the 2008 financial crisis. The CHOICE Act says that if a bank keeps a lot of money saved up, it doesn't have to follow all the strict rules about how it manages its money. This means that banks can have more freedom in how they use their money, which can help them lend more to people and businesses.
+The Financial CHOICE Act wants to change the rules about how much money banks need to keep saved up, which are called capital and [liquidity](/wiki/liquidity-risk-premium) requirements. These rules were set by the Dodd-Frank Act to make banks safer after the 2008 financial crisis. The CHOICE Act says that if a bank keeps a lot of money saved up, it doesn't have to follow all the strict rules about how it manages its money. This means that banks can have more freedom in how they use their money, which can help them lend more to people and businesses.
 
 Some people worry that if banks don't have to follow these strict rules, it might make the financial system riskier again. They think that without these rules, banks might not keep enough money saved up to handle problems if they happen. But others believe that by giving banks more freedom, they can help the economy grow by lending more money. The CHOICE Act tries to balance these concerns by letting banks avoid some rules if they have enough money saved up, but it's a tricky balance to get right.
 

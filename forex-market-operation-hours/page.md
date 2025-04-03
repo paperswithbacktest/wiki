@@ -46,7 +46,7 @@ But, the best time can also depend on what you want to do. If you like a quieter
 
 ## How does the overlap of trading sessions impact market volatility?
 
-When trading sessions overlap, like when London and New York are both open, the Forex market gets a lot busier. More people are trading, which means more buying and selling of currencies. This can make the prices of currencies move around a lot more than usual. Traders call this "volatility." It's like a busy day at the market where everyone is trying to buy and sell at the same time, so prices can change quickly.
+When trading sessions overlap, like when London and New York are both open, the Forex market gets a lot busier. More people are trading, which means more buying and selling of currencies. This can make the prices of currencies move around a lot more than usual. Traders call this "[volatility](/wiki/volatility-trading-strategies)." It's like a busy day at the market where everyone is trying to buy and sell at the same time, so prices can change quickly.
 
 This increased volatility can be good for some traders. If you like to make money from quick changes in prices, these busy times can be exciting. But it can also be risky. If you're not careful, you might lose money because the market is moving so fast. So, knowing when these overlaps happen can help you decide if you want to trade during these times or wait for a quieter period.
 
@@ -78,7 +78,7 @@ Special events like big economic announcements or elections can also affect the 
 
 During the Sydney and Tokyo sessions, which are from 5 PM to 4 AM Eastern Time, the market can be quieter. This is a good time for traders who like to take their time and don't want a lot of fast changes. You can use strategies like range trading, where you buy and sell within a certain price range. Since there's less trading happening, the prices might not move as much, so you can try to make money from small changes. Also, if you're trading pairs with the Japanese yen, like USD/JPY, this is a good time because a lot of people in Japan are trading then.
 
-When the London session starts at 3 AM Eastern Time, the market gets busier. This is a good time for traders who like a lot of action. You can use strategies like breakout trading, where you buy or sell when the price moves out of a certain range. The market can move a lot during this time, especially when London and New York sessions overlap from 8 AM to 12 PM Eastern Time. This is the busiest time, so you can try to make money from big changes in prices. If you're trading pairs like EUR/USD or GBP/USD, this is a great time because a lot of people in Europe and the US are trading then.
+When the London session starts at 3 AM Eastern Time, the market gets busier. This is a good time for traders who like a lot of action. You can use strategies like [breakout](/wiki/breakout-trading) trading, where you buy or sell when the price moves out of a certain range. The market can move a lot during this time, especially when London and New York sessions overlap from 8 AM to 12 PM Eastern Time. This is the busiest time, so you can try to make money from big changes in prices. If you're trading pairs like EUR/USD or GBP/USD, this is a great time because a lot of people in Europe and the US are trading then.
 
 ## References & Further Reading
 

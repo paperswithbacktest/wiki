@@ -52,7 +52,7 @@ But tapering isn't always bad news for the stock market. If the Fed is tapering 
 
 ## How does tapering influence the bond market?
 
-When the Federal Reserve starts tapering, it means they are buying fewer bonds. This can make bond prices go down. Here's why: when the Fed buys bonds, it pushes up their prices because there's more demand. But when they buy fewer bonds, there's less demand, so prices can fall. When bond prices go down, the interest rates on those bonds go up. This is because the interest rate on a bond is fixed, so if you pay less for the bond, you get a higher return on your money.
+When the Federal Reserve starts tapering, it means they are buying fewer bonds. This can make bond prices go down. Here's why: when the Fed buys bonds, it pushes up their prices because there's more demand. But when they buy fewer bonds, there's less demand, so prices can fall. When bond prices go down, the interest rates on those bonds go up. This is because the [interest rate](/wiki/interest-rate-trading-strategies) on a bond is fixed, so if you pay less for the bond, you get a higher return on your money.
 
 This change in bond prices and interest rates can affect a lot of people. For example, if you own bonds and their prices go down, the value of your investment goes down too. But if you're looking to buy new bonds, you might be happy because you can get a higher interest rate. Also, when interest rates go up, it can make other investments, like stocks, less attractive because people might want to put their money in bonds instead. So, tapering can shake things up in the bond market and make investors think carefully about where to put their money.
 

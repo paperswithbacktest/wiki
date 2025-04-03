@@ -40,7 +40,7 @@ Also, knowing about partial fills can help you plan your trades. Sometimes, you 
 
 ## What factors influence the speed of order fills?
 
-The speed of order fills can be affected by many things. One big factor is the type of order you use. A market order usually gets filled faster than a limit order because it's meant to buy or sell right away at the best price available. A limit order might take longer because it only gets filled if the stock price reaches your set price. Another factor is how many people are trading the stock at that time. If lots of people are buying and selling, orders can get filled faster because there are more chances for your order to match with someone else's.
+The speed of order fills can be affected by many things. One big [factor](/wiki/factor-investing) is the type of order you use. A market order usually gets filled faster than a limit order because it's meant to buy or sell right away at the best price available. A limit order might take longer because it only gets filled if the stock price reaches your set price. Another factor is how many people are trading the stock at that time. If lots of people are buying and selling, orders can get filled faster because there are more chances for your order to match with someone else's.
 
 The time of day also matters. Stock markets are busiest during certain hours, like when they open and close. If you place an order during these busy times, it might get filled faster. But if you place an order when the market is less active, it might take longer. The size of your order can also affect how quickly it gets filled. A small order for a few shares might get filled faster than a big order for many shares, especially if there aren't enough shares available at your price.
 
@@ -78,7 +78,7 @@ Another technique is using different types of orders, like iceberg orders or sto
 
 Algorithmic trading can help you get better fill orders by using smart computer programs. These programs can look at a lot of information very quickly and decide the best time to buy or sell your stocks. They can split your big order into smaller pieces and spread them out over time. This can help you get a better average price and avoid big price changes that might happen if you put in a big order all at once. By using algorithms, you can make sure your orders are filled at the best possible prices without causing too much movement in the market.
 
-Another way algorithms can help is by reacting to the market faster than you can. They can watch the market all the time and make quick decisions based on what's happening. For example, if the price of a stock starts to drop fast, an algorithm can put in a buy order right away to get a good price. This can be really helpful in a fast-moving market where prices can change a lot. By using algorithmic trading, you can improve your fill order strategy and make smarter trades.
+Another way algorithms can help is by reacting to the market faster than you can. They can watch the market all the time and make quick decisions based on what's happening. For example, if the price of a stock starts to drop fast, an algorithm can put in a buy order right away to get a good price. This can be really helpful in a fast-moving market where prices can change a lot. By using [algorithmic trading](/wiki/algorithmic-trading), you can improve your fill order strategy and make smarter trades.
 
 ## References & Further Reading
 

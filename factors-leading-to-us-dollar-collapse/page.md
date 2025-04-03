@@ -24,7 +24,7 @@ A currency collapse can cause big problems for the people in that country. Price
 
 One famous example of a currency collapse happened in Germany in the 1920s. It was called the Weimar hyperinflation. The German government printed a lot of money to pay for things after World War I, but this made the money worth less and less. Prices went up so fast that people needed wheelbarrows full of money just to buy a loaf of bread. This made life very hard for people and helped cause big problems in Germany.
 
-Another example is Zimbabwe in the late 2000s. The government printed too much money, and the Zimbabwean dollar lost its value very quickly. At one point, the prices of things doubled every day. People had to carry bags of money to buy simple things like food. The government finally stopped using the Zimbabwean dollar and started using other currencies like the U.S. dollar instead.
+Another example is Zimbabwe in the late 2000s. The government printed too much money, and the Zimbabwean dollar lost its value very quickly. At one point, the prices of things doubled every day. People had to [carry](/wiki/carry-trading) bags of money to buy simple things like food. The government finally stopped using the Zimbabwean dollar and started using other currencies like the U.S. dollar instead.
 
 A more recent example is Venezuela, starting around 2016. The Venezuelan bolivar lost a lot of its value because of the country's economic problems and too much money being printed. Prices went up so much that people couldn't afford basic things like food and medicine. Many people left the country to find better lives elsewhere. The government tried to fix the problem by changing the currency a few times, but it didn't help much.
 

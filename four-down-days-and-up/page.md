@@ -48,7 +48,7 @@ The 'Four Down Days and Up' pattern can also make traders pay more attention to 
 
 ## What are the typical exit strategies when using the 'Four Down Days and Up' approach?
 
-When traders use the 'Four Down Days and Up' approach, they often have a plan for when to sell the stock, which is called an exit strategy. One common exit strategy is to set a target price. After buying the stock on the fifth day when it goes up, traders might decide on a price they want the stock to reach. If the stock hits that price, they sell it to make a profit. This way, they can take their money out when the stock is doing well.
+When traders use the 'Four Down Days and Up' approach, they often have a plan for when to sell the stock, which is called an [exit](/wiki/exit-strategy) strategy. One common exit strategy is to set a target price. After buying the stock on the fifth day when it goes up, traders might decide on a price they want the stock to reach. If the stock hits that price, they sell it to make a profit. This way, they can take their money out when the stock is doing well.
 
 Another exit strategy is to use a stop-loss order. This means setting a price below the stock's current price where the trader will sell the stock if it starts to go down again. For example, if a trader buys the stock at $50, they might set a stop-loss at $48. If the stock drops to $48, it automatically sells, helping the trader avoid losing too much money. This can be a good way to protect against the stock going down after the fifth day.
 

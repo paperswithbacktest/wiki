@@ -36,7 +36,7 @@ On the other hand, dark pools are trading venues where the orders are not shown 
 
 ## How does fragmentation impact market liquidity?
 
-Fragmentation can have both good and bad effects on market liquidity. On the positive side, it can increase liquidity because there are more places where people can trade. If there are lots of different trading venues, more people might be able to find a place to buy or sell, which means more trades can happen. This can make it easier for people to trade quickly and at good prices.
+Fragmentation can have both good and bad effects on market [liquidity](/wiki/liquidity-risk-premium). On the positive side, it can increase liquidity because there are more places where people can trade. If there are lots of different trading venues, more people might be able to find a place to buy or sell, which means more trades can happen. This can make it easier for people to trade quickly and at good prices.
 
 But fragmentation can also make it harder to have enough liquidity in one place. When trading is spread out over many different venues, it can be harder to find enough buyers and sellers in any one place. This can lead to less liquidity in each individual venue because the trading activity is split up. If someone wants to buy or sell a lot of a stock quickly, it might be harder to do if the market is too fragmented.
 

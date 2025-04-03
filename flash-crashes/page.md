@@ -60,7 +60,7 @@ After a flash crash happens, the market usually goes back to normal pretty quick
 
 ## What is the role of liquidity in flash crashes?
 
-Liquidity is important in flash crashes. It means how easy it is to buy or sell something in the market without changing its price a lot. When there's a lot of liquidity, it's easier to trade without causing big changes. But in a flash crash, liquidity can suddenly go down. This happens when a lot of people or computers want to sell at the same time, but there aren't enough buyers. This can make the price drop really fast because there's not enough money coming in to keep the price steady.
+Liquidity is important in flash crashes. It means how easy it is to buy or sell something in the market without changing its price a lot. When there's a lot of [liquidity](/wiki/liquidity-risk-premium), it's easier to trade without causing big changes. But in a flash crash, liquidity can suddenly go down. This happens when a lot of people or computers want to sell at the same time, but there aren't enough buyers. This can make the price drop really fast because there's not enough money coming in to keep the price steady.
 
 After a flash crash, the market usually gets its liquidity back quickly. Once the panic is over, more buyers come back, and the price goes back up. But the sudden drop in liquidity during a flash crash is what makes the price change so much in such a short time. People who make the rules try to keep the market liquid by watching it closely and making sure there are always enough buyers and sellers.
 
@@ -80,7 +80,7 @@ The stress from a flash crash can also make traders lose trust in the market. Th
 
 Some traders use a strategy called "mean reversion" to take advantage of flash crashes. This means they believe that if the price of a stock goes down a lot very quickly, it will likely go back up to where it was before. So, when they see a flash crash happening, they buy the stocks that have dropped a lot. They hope to sell these stocks again when the price goes back up, making a profit from the difference. This strategy needs traders to be fast and to know a lot about the market, because they have to buy and sell at just the right times.
 
-Another strategy is called "arbitrage." This is when traders buy a stock in one place where it's cheaper and sell it in another place where it's more expensive. During a flash crash, the price of a stock might be different in different markets. Traders can use this difference to make money. They buy the stock where it's cheap because of the flash crash and sell it where it's still at the normal price. This strategy also needs quick thinking and good timing, because the price difference might not last long.
+Another strategy is called "[arbitrage](/wiki/arbitrage)." This is when traders buy a stock in one place where it's cheaper and sell it in another place where it's more expensive. During a flash crash, the price of a stock might be different in different markets. Traders can use this difference to make money. They buy the stock where it's cheap because of the flash crash and sell it where it's still at the normal price. This strategy also needs quick thinking and good timing, because the price difference might not last long.
 
 ## References & Further Reading
 

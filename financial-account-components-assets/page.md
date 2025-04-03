@@ -30,7 +30,7 @@ Another type of asset is property, like a house or land. These are big assets be
 
 ## How can one categorize assets within a financial account?
 
-Assets in a financial account can be sorted into different groups to help you understand and manage your money better. One way to categorize assets is by how quickly you can turn them into cash. This is called liquidity. Cash and money in your checking or savings account are very liquid because you can use them right away. Investments like stocks or bonds are less liquid because it might take a few days to sell them and get the money. Things like houses or cars are not liquid at all because it can take a long time to sell them.
+Assets in a financial account can be sorted into different groups to help you understand and manage your money better. One way to categorize assets is by how quickly you can turn them into cash. This is called [liquidity](/wiki/liquidity-risk-premium). Cash and money in your checking or savings account are very liquid because you can use them right away. Investments like stocks or bonds are less liquid because it might take a few days to sell them and get the money. Things like houses or cars are not liquid at all because it can take a long time to sell them.
 
 Another way to categorize assets is by how they help you make money. Some assets, like savings accounts or bonds, give you regular payments called interest or dividends. These are called income-generating assets. Other assets, like a house or stocks, might not give you regular payments, but they can grow in value over time. These are called growth assets. Knowing which type of assets you have can help you plan how to use them to reach your financial goals.
 

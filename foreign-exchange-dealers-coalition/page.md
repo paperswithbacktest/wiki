@@ -18,7 +18,7 @@ The main goal of the FXDC is to make the forex market work better for everyone. 
 
 The Foreign Exchange Dealers Coalition, or FXDC, was started in 2007. This was a time when more and more people were trading currencies, and the group was formed to help make sure that this trading was done fairly and efficiently.
 
-The FXDC brings together banks and financial companies that deal with foreign exchange. Their main job is to set rules and standards for forex trading, and to talk to governments about these rules. By working together, the members of the FXDC help to make the forex market a safe and reliable place for everyone.
+The FXDC brings together banks and financial companies that deal with foreign exchange. Their main job is to set rules and standards for [forex](/wiki/forex-system) trading, and to talk to governments about these rules. By working together, the members of the FXDC help to make the forex market a safe and reliable place for everyone.
 
 ## What are the main objectives of the FXDC?
 
@@ -76,7 +76,7 @@ By working together, the FXDC and its members learn how to use new systems to ma
 
 ## What future trends or developments might impact the operations of the FXDC?
 
-In the future, the Foreign Exchange Dealers Coalition, or FXDC, might see big changes because of new technology. Things like blockchain and artificial intelligence could change how people trade currencies. The FXDC will need to make sure their rules work well with these new tools. They will also need to keep talking to their members to learn how to use new technology in a good way. This will help them make the forex market safer and better for everyone.
+In the future, the Foreign Exchange Dealers Coalition, or FXDC, might see big changes because of new technology. Things like blockchain and [artificial intelligence](/wiki/ai-artificial-intelligence) could change how people trade currencies. The FXDC will need to make sure their rules work well with these new tools. They will also need to keep talking to their members to learn how to use new technology in a good way. This will help them make the forex market safer and better for everyone.
 
 Another thing that could impact the FXDC is new rules from governments. As more people trade currencies, governments might make new laws to keep the market fair. The FXDC will need to work with these governments to help make these new rules. They will also need to make sure their members know about these rules and follow them. By doing this, the FXDC can help keep the forex market a good place for everyone to trade.
 

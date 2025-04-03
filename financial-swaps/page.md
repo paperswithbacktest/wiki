@@ -18,7 +18,7 @@ Swaps can be used for many things, like swapping different currencies, interest 
 
 ## What are the main types of financial swaps?
 
-The main types of financial swaps are interest rate swaps, currency swaps, and commodity swaps. Interest rate swaps are the most common type. They involve two parties exchanging interest payments, usually one with a fixed rate and the other with a variable rate. This helps companies manage their exposure to changes in interest rates. For example, a company with a variable-rate loan might swap it for a fixed rate to have more predictable costs.
+The main types of financial swaps are [interest rate](/wiki/interest-rate-trading-strategies) swaps, currency swaps, and commodity swaps. Interest rate swaps are the most common type. They involve two parties exchanging interest payments, usually one with a fixed rate and the other with a variable rate. This helps companies manage their exposure to changes in interest rates. For example, a company with a variable-rate loan might swap it for a fixed rate to have more predictable costs.
 
 Currency swaps involve exchanging principal and interest payments in one currency for the same in another currency. This can be useful for companies that do business in multiple countries and want to hedge against currency fluctuations. For instance, a company might borrow in dollars but need euros for its operations, so it enters a swap to convert its dollar payments into euro payments.
 
@@ -58,7 +58,7 @@ Another example is if you have a loan with a variable interest rate, but you'd r
 
 ## What role do swaps play in arbitrage strategies?
 
-Swaps can be used in arbitrage strategies to take advantage of price differences in different markets. Imagine you see that the price of oil is different in two places. You can use a commodity swap to buy oil at the lower price and sell it at the higher price, making a profit from the difference. This is called arbitrage, and swaps help you do it without having to actually move the oil around. You just agree to swap payments based on the oil prices in the two places.
+Swaps can be used in [arbitrage](/wiki/arbitrage) strategies to take advantage of price differences in different markets. Imagine you see that the price of oil is different in two places. You can use a commodity swap to buy oil at the lower price and sell it at the higher price, making a profit from the difference. This is called arbitrage, and swaps help you do it without having to actually move the oil around. You just agree to swap payments based on the oil prices in the two places.
 
 Another way swaps are used in arbitrage is with interest rates. If you notice that the interest rates are different in two countries, you can use an interest rate swap to borrow money at the lower rate and lend it at the higher rate. This way, you make money from the difference in interest rates. Swaps make it easier to do this because you can swap the interest payments without having to change your original loans. It's like finding a way to make money from the gaps between different markets.
 

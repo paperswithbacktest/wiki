@@ -66,7 +66,7 @@ OTCEI also has rules about how companies run their business. The company must ha
 
 ## How does OTCEI handle market making and liquidity?
 
-OTCEI uses dealers to help with market making and liquidity. These dealers act like middlemen who make it easier for people to buy and sell shares. When someone wants to trade, they go to a dealer. The dealer then finds someone else who wants to do the opposite trade. This system helps keep the market moving smoothly and makes sure there are always people ready to buy or sell shares. This is important because it helps keep the market active and makes it easier for companies to raise money.
+OTCEI uses dealers to help with [market making](/wiki/market-making) and [liquidity](/wiki/liquidity-risk-premium). These dealers act like middlemen who make it easier for people to buy and sell shares. When someone wants to trade, they go to a dealer. The dealer then finds someone else who wants to do the opposite trade. This system helps keep the market moving smoothly and makes sure there are always people ready to buy or sell shares. This is important because it helps keep the market active and makes it easier for companies to raise money.
 
 Liquidity is all about how easily you can buy or sell shares without changing their price too much. OTCEI makes sure there is good liquidity by having these dealers always ready to trade. This means investors can quickly buy or sell shares whenever they want. Good liquidity helps attract more investors because they know they can trade their shares easily. This is good for both the companies that want to raise money and the investors who want to invest in them.
 

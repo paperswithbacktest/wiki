@@ -68,7 +68,7 @@ ICE also has to follow a lot of rules because it runs big markets like the New Y
 
 ## What are the recent developments or innovations introduced by Finex and ICE?
 
-Finex has been working on new ways to make managing money easier. They recently added features to their mobile payment apps that let you send money to friends and family even faster. They also made their budgeting tools smarter, so they can now give you tips on how to save money based on your spending habits. Finex is also trying to use artificial intelligence to help people make better investment choices. These new tools can look at a lot of information and suggest the best places to put your money.
+Finex has been working on new ways to make managing money easier. They recently added features to their mobile payment apps that let you send money to friends and family even faster. They also made their budgeting tools smarter, so they can now give you tips on how to save money based on your spending habits. Finex is also trying to use [artificial intelligence](/wiki/ai-artificial-intelligence) to help people make better investment choices. These new tools can look at a lot of information and suggest the best places to put your money.
 
 ICE has been busy too, making their trading platforms better. They recently added new technology that makes trading even faster and more reliable. This helps people from all over the world trade things like stocks and energy without waiting. ICE also started using more data to help traders make good decisions. They give traders more information about what's happening in the market, so they can buy and sell at the best times. These changes help make sure that trading on ICE's markets is fair and safe for everyone.
 

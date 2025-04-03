@@ -78,7 +78,7 @@ Sometimes, feature analysts also look at how the feature affects other parts of 
 
 ## What advanced techniques can feature analysts use to optimize feature performance?
 
-Feature analysts can use advanced techniques like A/B testing to optimize feature performance. A/B testing means showing different versions of a feature to different groups of users and seeing which one works better. By doing this, feature analysts can find out what changes make the feature more useful or popular. They also use machine learning to predict how people might use a feature in the future. This helps them make the feature better before it even goes out to everyone.
+Feature analysts can use advanced techniques like A/B testing to optimize feature performance. A/B testing means showing different versions of a feature to different groups of users and seeing which one works better. By doing this, feature analysts can find out what changes make the feature more useful or popular. They also use [machine learning](/wiki/machine-learning) to predict how people might use a feature in the future. This helps them make the feature better before it even goes out to everyone.
 
 Another technique is cohort analysis, where feature analysts look at how different groups of users interact with the feature over time. This helps them see if the feature is more popular with certain types of users and why. They can then make changes to the feature to make it better for everyone. By using these advanced methods, feature analysts can make sure the feature is as good as it can be and really helps the product succeed.
 

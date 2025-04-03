@@ -28,7 +28,7 @@ Additionally, financial portals often have tools that help you create and stick 
 
 ## What security measures are typically implemented in financial portals?
 
-Financial portals use many security measures to keep your money and information safe. One important measure is encryption, which is like a secret code that keeps your data safe when you send it over the internet. Financial portals also use strong passwords and two-factor authentication, which means you need more than just a password to log in. This makes it harder for someone else to get into your account.
+Financial portals use many security measures to keep your money and information safe. One important measure is encryption, which is like a secret code that keeps your data safe when you send it over the internet. Financial portals also use strong passwords and two-[factor](/wiki/factor-investing) authentication, which means you need more than just a password to log in. This makes it harder for someone else to get into your account.
 
 Another common security measure is monitoring for strange activity. If the portal sees something unusual, like someone trying to log in from a new place, it might ask you to verify it's really you. Financial portals also have firewalls and other tools to stop hackers from getting in. They regularly check for weak spots and fix them to keep your information secure.
 
@@ -76,7 +76,7 @@ APIs also help financial portals add more features and work with other tools. Fo
 
 ## What future trends are expected to influence the development of financial portals?
 
-In the future, financial portals are expected to become even more personalized and smart. They will use artificial intelligence to learn about your spending habits and give you advice that fits your needs. For example, the portal might suggest ways to save money or invest based on what it knows about you. It could also use your data to predict when you might need more money and help you plan for it. This makes managing your money easier and more tailored to you.
+In the future, financial portals are expected to become even more personalized and smart. They will use [artificial intelligence](/wiki/ai-artificial-intelligence) to learn about your spending habits and give you advice that fits your needs. For example, the portal might suggest ways to save money or invest based on what it knows about you. It could also use your data to predict when you might need more money and help you plan for it. This makes managing your money easier and more tailored to you.
 
 Another trend is that financial portals will connect with more services and devices. You might be able to use your portal on your phone, your smartwatch, or even in your car. This means you can check your money and pay bills from anywhere, making it more convenient. Also, financial portals will work with other apps and tools, like shopping apps or health apps, to give you a full picture of your life and money. This way, you can see how different parts of your life affect your finances and plan better for the future.
 

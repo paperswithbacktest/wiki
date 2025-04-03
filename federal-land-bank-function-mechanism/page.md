@@ -46,7 +46,7 @@ Besides long-term loans for land and improvements, the Federal Land Bank might a
 
 ## How are interest rates determined for Federal Land Bank loans?
 
-The Federal Land Bank decides interest rates based on many things. They look at the overall economy, how much money they can borrow, and what other banks are charging for similar loans. They also think about how risky it is to lend money to a specific farmer. If the farmer has a good history of paying back loans and a strong financial situation, the interest rate might be lower. But if the farmer's situation is more risky, the interest rate could be higher to cover that risk.
+The Federal Land Bank decides interest rates based on many things. They look at the overall economy, how much money they can borrow, and what other banks are charging for similar loans. They also think about how risky it is to lend money to a specific farmer. If the farmer has a good history of paying back loans and a strong financial situation, the [interest rate](/wiki/interest-rate-trading-strategies) might be lower. But if the farmer's situation is more risky, the interest rate could be higher to cover that risk.
 
 These interest rates are usually lower than what you would find at regular banks. This is because the Federal Land Bank is part of the Farm Credit System, which is set up to help farmers and rural communities. By offering lower rates, the bank helps farmers save money on their loans. This makes it easier for them to manage their farms and keep their businesses running smoothly.
 

@@ -58,7 +58,7 @@ Another limit is that a Fibonacci Channel works best when used with other tools.
 
 ## How does market volatility affect the accuracy of a Fibonacci Channel?
 
-Market volatility can make it harder for a Fibonacci Channel to be accurate. When prices move a lot and change quickly, it's tougher to draw the right lines for the channel. The lines are based on past prices, so if the market is jumping around a lot, the lines might not match up well with where the price is going next. This can lead traders to make wrong guesses about when to buy or sell, because the channel might not show the real trend.
+Market [volatility](/wiki/volatility-trading-strategies) can make it harder for a Fibonacci Channel to be accurate. When prices move a lot and change quickly, it's tougher to draw the right lines for the channel. The lines are based on past prices, so if the market is jumping around a lot, the lines might not match up well with where the price is going next. This can lead traders to make wrong guesses about when to buy or sell, because the channel might not show the real trend.
 
 To deal with this, traders need to be careful and watch the market closely. They might need to redraw the channel more often or use it along with other tools to get a better idea of what's happening. Even though a Fibonacci Channel can be helpful, it works best when the market isn't too wild. In very volatile times, it's smart to use the channel as just one part of a bigger plan to make trading decisions.
 

@@ -48,7 +48,7 @@ Another risk is that the Flat Dollar might not be accepted everywhere. While it'
 
 Individuals and businesses can get Flat Dollars by buying them from the company that issues them. They can use a website or an app to exchange their regular money, like US dollars, for Flat Dollars. It's like trading one type of money for another, but it's all done online. Once they have Flat Dollars, they can keep them in a digital wallet on their phone or computer.
 
-Another way to get Flat Dollars is by earning them. Some businesses might pay their workers in Flat Dollars, or people might get them as rewards for using certain services or apps. This means you can earn Flat Dollars just like you earn regular money, and then use them to buy things or send money to others. It's all about having a digital currency that's easy to use and stays at the same value.
+Another way to get Flat Dollars is by [earning](/wiki/earning-announcement) them. Some businesses might pay their workers in Flat Dollars, or people might get them as rewards for using certain services or apps. This means you can earn Flat Dollars just like you earn regular money, and then use them to buy things or send money to others. It's all about having a digital currency that's easy to use and stays at the same value.
 
 ## What role does technology play in the operation of the Flat Dollar?
 

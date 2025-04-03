@@ -40,15 +40,15 @@ But if interest rates start to go down, Fairway Bonds switch to a floating rate.
 
 ## What are the risks associated with Fairway Bonds?
 
-Fairway Bonds come with some risks that investors should know about. One big risk is interest rate risk. Even though Fairway Bonds are designed to protect against big changes in interest rates, they might not always work perfectly. If interest rates move in unexpected ways, the bond might not switch from fixed to floating rates at the right time, which could mean you earn less money than you expected.
+Fairway Bonds come with some risks that investors should know about. One big risk is [interest rate](/wiki/interest-rate-trading-strategies) risk. Even though Fairway Bonds are designed to protect against big changes in interest rates, they might not always work perfectly. If interest rates move in unexpected ways, the bond might not switch from fixed to floating rates at the right time, which could mean you earn less money than you expected.
 
 Another risk is credit risk. This means the chance that the bank or financial company that issued the bond might have trouble paying you back. If the issuer runs into financial problems, they might not be able to make the payments on the bond. So, it's important to check the credit rating of the issuer before you invest in a Fairway Bond.
 
-Lastly, there's also the risk of liquidity. Fairway Bonds might not be as easy to buy or sell as other types of bonds. If you need to sell your bond quickly, you might have a hard time finding a buyer, or you might have to sell it for less than you wanted. So, it's good to think about how easy it will be to turn your investment into cash if you need to.
+Lastly, there's also the risk of [liquidity](/wiki/liquidity-risk-premium). Fairway Bonds might not be as easy to buy or sell as other types of bonds. If you need to sell your bond quickly, you might have a hard time finding a buyer, or you might have to sell it for less than you wanted. So, it's good to think about how easy it will be to turn your investment into cash if you need to.
 
 ## How do Fairway Bonds compare to other types of bonds?
 
-Fairway Bonds are different from other bonds because they mix the features of fixed and floating rate bonds. A fixed-rate bond gives you the same amount of money every time, which is good when interest rates are stable or going up. But if rates fall, you might miss out on earning more. On the other hand, a floating-rate bond changes with interest rates, so you can earn more when rates go down. Fairway Bonds switch between these two types depending on what's happening with interest rates, giving you the best of both worlds.
+Fairway Bonds are different from other bonds because they mix the features of fixed and floating rate bonds. A fixed-rate bond gives you the same amount of money every time, which is good when interest rates are stable or going up. But if rates fall, you might miss out on [earning](/wiki/earning-announcement) more. On the other hand, a floating-rate bond changes with interest rates, so you can earn more when rates go down. Fairway Bonds switch between these two types depending on what's happening with interest rates, giving you the best of both worlds.
 
 Compared to other types of bonds, Fairway Bonds can be a safer choice for people who want to protect their money from big changes in interest rates. For example, zero-coupon bonds don't pay any interest until they mature, which can be risky if you need regular income. Inflation-linked bonds adjust with inflation, but they might not do well if interest rates change a lot. Fairway Bonds offer a balance that can help you earn a steady income and also make more money if rates fall, making them a good middle ground for many investors.
 

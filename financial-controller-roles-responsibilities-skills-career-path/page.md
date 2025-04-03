@@ -84,7 +84,7 @@ Another way financial controllers use technology is by using budgeting and plann
 
 ## What are the future trends and developments that might impact the role of a financial controller?
 
-In the future, technology will play a bigger role in the job of a financial controller. More companies will use artificial intelligence (AI) and automation to help with accounting and financial tasks. This means financial controllers will need to learn how to use these new tools. They will also need to focus more on analyzing data and making smart decisions based on what the data shows. This shift will help them find ways to improve the company's financial health and plan for the future.
+In the future, technology will play a bigger role in the job of a financial controller. More companies will use [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and automation to help with accounting and financial tasks. This means financial controllers will need to learn how to use these new tools. They will also need to focus more on analyzing data and making smart decisions based on what the data shows. This shift will help them find ways to improve the company's financial health and plan for the future.
 
 Another trend is that financial controllers will need to know more about cybersecurity. As more financial information is kept online, it's important to keep it safe from hackers. Financial controllers will need to work with IT teams to make sure the company's financial data is secure. They will also need to stay updated on new rules and laws about data privacy. These changes will make their job more challenging, but also more important for keeping the company's money safe and sound.
 

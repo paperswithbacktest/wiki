@@ -108,4 +108,4 @@ Lastly, a company should consider the regulatory environment. If the government 
 
 [9]: Teece, D. J. (1980). ["Economies of scope and the scope of the enterprise"](https://www.sciencedirect.com/science/article/pii/0167268180900025). Journal of Economic Behavior & Organization, 1(3), 223-247.
 
-These references provide a mix of strategic management perspectives and algorithmic trading insights, offering a comprehensive understanding of vertical integration and its implications across various industries.
+These references provide a mix of strategic management perspectives and [algorithmic trading](/wiki/algorithmic-trading) insights, offering a comprehensive understanding of vertical integration and its implications across various industries.

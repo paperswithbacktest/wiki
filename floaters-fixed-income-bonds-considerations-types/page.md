@@ -18,7 +18,7 @@ Fixed income bonds, on the other hand, are bonds that have a fixed interest rate
 
 Floaters and fixed income bonds are different because floaters have interest rates that can change, while fixed income bonds have interest rates that stay the same. Floaters adjust their interest rates based on a benchmark like LIBOR or the federal funds rate. This means if the benchmark rate goes up, the interest you earn from the floater will also go up. If the benchmark rate goes down, your interest will go down too. This makes floaters good for people who want to protect themselves if interest rates go up.
 
-Fixed income bonds, on the other hand, give you the same interest rate from the time you buy them until they mature. This means you know exactly how much money you will get each year. They are more predictable and less risky than floaters because the interest payments don't change, no matter what happens with interest rates in the economy. Fixed income bonds are popular with people who want a steady and reliable source of income.
+Fixed income bonds, on the other hand, give you the same [interest rate](/wiki/interest-rate-trading-strategies) from the time you buy them until they mature. This means you know exactly how much money you will get each year. They are more predictable and less risky than floaters because the interest payments don't change, no matter what happens with interest rates in the economy. Fixed income bonds are popular with people who want a steady and reliable source of income.
 
 ## What are the basic characteristics of floaters?
 

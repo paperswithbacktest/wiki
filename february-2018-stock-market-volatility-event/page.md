@@ -18,7 +18,7 @@ The main reason for this event was a rise in interest rates. The U.S. government
 
 The main cause of the February 2018 market volatility was a sudden increase in interest rates. The U.S. government had been slowly raising interest rates, which made borrowing money more expensive. When borrowing costs go up, it can slow down the economy because businesses and people have less money to spend. This can make stock prices drop because investors worry about lower profits in the future.
 
-Another big reason for the volatility was that many investors had been using a lot of borrowed money to buy stocks. This is called "leverage." When the market started to fall, these investors had to sell their stocks quickly to pay back their loans. This selling made the market drop even more, creating a cycle of selling and falling prices. The combination of higher interest rates and the need to pay back loans caused a sharp and sudden drop in the stock market, leading to the volatility event in February 2018.
+Another big reason for the [volatility](/wiki/volatility-trading-strategies) was that many investors had been using a lot of borrowed money to buy stocks. This is called "leverage." When the market started to fall, these investors had to sell their stocks quickly to pay back their loans. This selling made the market drop even more, creating a cycle of selling and falling prices. The combination of higher interest rates and the need to pay back loans caused a sharp and sudden drop in the stock market, leading to the volatility event in February 2018.
 
 ## How did the volatility in February 2018 affect major stock indices like the S&P 500 and Dow Jones?
 

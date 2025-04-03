@@ -76,7 +76,7 @@ To avoid these risks, traders need to plan ahead. They should close their positi
 
 ## How does the First Notice Day impact the pricing and liquidity of futures contracts?
 
-As the First Notice Day gets closer, the pricing and liquidity of futures contracts can change. Traders who don't want to take delivery of the actual goods, like wheat or oil, will often close their positions before this day. This can make the market less liquid because there are fewer people trading. Also, the price of the futures contract might change as more traders try to get out of their positions. If a lot of traders want to sell their contracts at the same time, the price might go down.
+As the First Notice Day gets closer, the pricing and [liquidity](/wiki/liquidity-risk-premium) of futures contracts can change. Traders who don't want to take delivery of the actual goods, like wheat or oil, will often close their positions before this day. This can make the market less liquid because there are fewer people trading. Also, the price of the futures contract might change as more traders try to get out of their positions. If a lot of traders want to sell their contracts at the same time, the price might go down.
 
 The First Notice Day can also cause the price to be more volatile. This means the price can go up and down a lot as the day gets closer. Traders who are still in the market might be more careful about their trades, which can affect how much they are willing to buy or sell. Knowing when the First Notice Day is coming up helps traders plan their trades better and can impact how they see the value of the futures contract.
 

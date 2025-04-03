@@ -72,7 +72,7 @@ On the other hand, if the government wants to slow down the economy to keep it f
 
 Federal government-backed debt instruments, like Treasury bonds, notes, and bills, have a good track record over time. They are seen as very safe because the government promises to pay them back. This means they have not often failed to pay back the money. Over many years, people who bought these instruments have usually gotten their money back with interest. The interest rates have changed, but the government has always kept its promise to pay. This makes these instruments a reliable choice for people who want to save their money safely.
 
-The performance of these instruments can be affected by changes in interest rates and inflation. When interest rates go up, the value of older bonds can go down because new bonds pay more interest. But if you hold onto your bond until it matures, you will still get the same amount of interest the government promised when you bought it. Inflation can also affect how much your money is worth when you get it back. Some bonds, like Series I savings bonds, try to protect against inflation by adjusting the interest rate. Overall, these instruments have been a stable and secure way for people to save and invest their money over time.
+The performance of these instruments can be affected by changes in interest rates and inflation. When interest rates go up, the value of older bonds can go down because new bonds pay more interest. But if you hold onto your bond until it matures, you will still get the same amount of interest the government promised when you bought it. Inflation can also affect how much your money is worth when you get it back. Some bonds, like Series I savings bonds, try to protect against inflation by adjusting the [interest rate](/wiki/interest-rate-trading-strategies). Overall, these instruments have been a stable and secure way for people to save and invest their money over time.
 
 ## How do federal government-backed debt instruments compare to other investment options in terms of yield and risk?
 
@@ -82,13 +82,13 @@ When you compare federal government-backed debt instruments to other options, yo
 
 ## References & Further Reading
 
-Interagency Working Group on Treasury Market Surveillance reports provide crucial insights into the dynamics of the U.S. Treasury markets. These reports analyze liquidity conditions, market resilience, and potential systemic risks, offering valuable information for investors, policymakers, and regulators. Regularly reviewing such reports can help market participants stay informed about changes and trends in the Treasury market [1].
+Interagency Working Group on Treasury Market Surveillance reports provide crucial insights into the dynamics of the U.S. Treasury markets. These reports analyze [liquidity](/wiki/liquidity-risk-premium) conditions, market resilience, and potential systemic risks, offering valuable information for investors, policymakers, and regulators. Regularly reviewing such reports can help market participants stay informed about changes and trends in the Treasury market [1].
 
 The U.S. Department of the Treasury offers extensive resources through its official website, encompassing data, policy updates, and educational materials on federal obligations and government-backed securities. This repository of information is essential for understanding the functioning, issuance, and trading of U.S. Treasury securities, which are pivotal in national fiscal and monetary policy [2]. Their resources provide both historical data and current [statistics](/wiki/bayesian-statistics), contributing to a comprehensive understanding of U.S. financial instruments.
 
 "High-Frequency Trading: A Practical Guide" by Ir. Aldridge systematically covers the nuances of algorithmic and high-frequency trading. This book is an essential read for those interested in the technological and strategic aspects of trading federal obligations and other financial securities. It explains core concepts, strategies, and the potential impacts of algorithmic trading on market efficiency and stability. Ir. Aldridge provides practical examples and case studies, aiding readers in comprehending the complex nature of algorithmic trading in the modern financial ecosystem [3].
 
-Through these references, individuals can gain a deeper understanding of federal obligations, government-backed securities, and the implications of algorithmic trading, enabling them to make more informed financial and investment decisions.
+Through these references, individuals can gain a deeper understanding of federal obligations, government-backed securities, and the implications of [algorithmic trading](/wiki/algorithmic-trading), enabling them to make more informed financial and investment decisions.
 
 ---
 [1] Interagency Working Group on Treasury Market Surveillance reports.  

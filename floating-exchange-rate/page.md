@@ -22,7 +22,7 @@ The main difference between the two is who decides the value of the money. In a 
 
 ## What are the key factors that influence a floating exchange rate?
 
-The value of a country's money in a floating exchange rate system is influenced by many things. One big factor is how much people want to buy or sell the currency. If more people want to buy it, its value goes up. If more people want to sell it, its value goes down. This is called supply and demand. Another factor is what's happening in the country's economy. If the economy is doing well, people might want more of that country's money, making its value go up. If the economy is not doing well, the value might go down.
+The value of a country's money in a floating exchange rate system is influenced by many things. One big [factor](/wiki/factor-investing) is how much people want to buy or sell the currency. If more people want to buy it, its value goes up. If more people want to sell it, its value goes down. This is called supply and demand. Another factor is what's happening in the country's economy. If the economy is doing well, people might want more of that country's money, making its value go up. If the economy is not doing well, the value might go down.
 
 Another important thing that affects a floating exchange rate is what's happening in the world. Big events like wars, natural disasters, or changes in other countries' economies can change how people feel about a currency. If people think a country is risky because of these events, they might not want to buy its money, and its value can drop. Also, interest rates set by a country's central bank can influence the exchange rate. If the interest rates are high, more people might want to invest in that country, pushing up the value of its currency. If the interest rates are low, the opposite can happen.
 
@@ -46,7 +46,7 @@ One big problem with floating exchange rates is that they can change a lot. This
 
 Another risk is that big changes in the exchange rate can hurt the economy. If the value of the money goes down a lot, it can make things from other countries more expensive. This can lead to higher prices for things people need, like food and gas. On the other hand, if the value of the money goes up a lot, it can make things the country sells to other countries more expensive, which can hurt businesses that rely on exports. This can slow down the economy and make it harder for people to find jobs.
 
-Lastly, floating exchange rates can be influenced a lot by what big investors and traders do. These people can move a lot of money around quickly, and their actions can cause the value of the money to change a lot in a short time. This can make the exchange rate unstable and hard to predict, which can be bad for the economy. It's like trying to drive a car on a road that keeps changing, making it hard to stay on course.
+Lastly, floating exchange rates can be influenced a lot by what big investors and traders do. These people can move a lot of money around quickly, and their actions can cause the value of the money to change a lot in a short time. This can make the exchange rate unstable and hard to predict, which can be bad for the economy. It's like trying to drive a car on a road that keeps changing, making it hard to stay on [course](/wiki/best-algorithmic-trading-courses).
 
 ## How do central banks intervene in a floating exchange rate system?
 
@@ -84,7 +84,7 @@ Once the country has made the switch, the value of its money will start to chang
 
 Economists use different models to try and guess how floating exchange rates will change. One popular model is called the purchasing power parity (PPP) model. It looks at how much things cost in different countries and tries to figure out what the exchange rate should be so that the same thing costs the same everywhere. If a burger costs $5 in the U.S. and 4 euros in Europe, the exchange rate should be around 1.25 dollars per euro to make the prices the same. But this model doesn't always work perfectly because other things like interest rates and what people think about the future can also affect the exchange rate.
 
-Another model is the interest rate parity (IRP) model. This one looks at the difference in interest rates between two countries. If the interest rate is higher in one country, more people might want to invest there, which can make the value of that country's money go up. The model tries to predict how much the exchange rate will change based on these interest rate differences. But just like the PPP model, it's not always right because things like what people expect to happen in the future and big events can also move the exchange rate in ways the model doesn't expect.
+Another model is the [interest rate](/wiki/interest-rate-trading-strategies) parity (IRP) model. This one looks at the difference in interest rates between two countries. If the interest rate is higher in one country, more people might want to invest there, which can make the value of that country's money go up. The model tries to predict how much the exchange rate will change based on these interest rate differences. But just like the PPP model, it's not always right because things like what people expect to happen in the future and big events can also move the exchange rate in ways the model doesn't expect.
 
 ## References & Further Reading
 

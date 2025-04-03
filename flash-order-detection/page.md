@@ -64,7 +64,7 @@ When flash orders are found, the people in charge of the market can make rules t
 
 ## What advanced techniques can enhance flash order detection accuracy?
 
-To make flash order detection better, you can use machine learning. This is a way for computers to learn from data and get better at finding flash orders over time. By looking at lots of past trading data, a machine learning program can learn what flash orders look like. It can then watch the market and spot flash orders more accurately than a simple program. This helps make sure the market stays fair because the computer can find flash orders faster and more often.
+To make flash order detection better, you can use [machine learning](/wiki/machine-learning). This is a way for computers to learn from data and get better at finding flash orders over time. By looking at lots of past trading data, a machine learning program can learn what flash orders look like. It can then watch the market and spot flash orders more accurately than a simple program. This helps make sure the market stays fair because the computer can find flash orders faster and more often.
 
 Another way to improve flash order detection is by using more detailed data. Instead of just looking at the orders, you can also watch how traders act after seeing flash orders. If you see that some traders are making trades right after these quick orders appear, it can help confirm that a flash order happened. By looking at more information, like the timing and patterns of trades, the detection system can be more sure about what it finds. This makes the market more fair because it's harder for flash orders to go unnoticed.
 

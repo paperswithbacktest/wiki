@@ -34,7 +34,7 @@ Both types of Forward Start Options are bought now but only start working later.
 
 ## How are Forward Start Options priced?
 
-Forward Start Options are priced based on several factors, including the expected future price of the underlying asset, the time until the option starts, and the volatility of the asset's price. Since these options don't start right away, the pricing model needs to take into account the uncertainty of the asset's price at the time the option becomes active. This means that the pricing can be more complex than for regular options because it involves predicting what will happen in the future.
+Forward Start Options are priced based on several factors, including the expected future price of the underlying asset, the time until the option starts, and the [volatility](/wiki/volatility-trading-strategies) of the asset's price. Since these options don't start right away, the pricing model needs to take into account the uncertainty of the asset's price at the time the option becomes active. This means that the pricing can be more complex than for regular options because it involves predicting what will happen in the future.
 
 To calculate the price, financial experts often use a modified version of the Black-Scholes model, which is a common method for pricing regular options. In this modified model, they adjust for the delay in the option's start date. This adjustment accounts for the fact that the option's strike price will be set based on the asset's price at the future start date, not the current price. As a result, the price of a Forward Start Option can be influenced by how much the asset's price is expected to change between now and when the option starts.
 

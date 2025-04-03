@@ -46,7 +46,7 @@ Also, a stock split can make investors feel more confident about the company. Wh
 
 ## How do stock splits influence a company's market liquidity?
 
-When a company does a stock split, it can make the stock easier to buy and sell. This is because the price of each share goes down, which can attract more people to buy the stock. More buyers and sellers mean that the stock can be traded more easily. This is called increasing the market liquidity of the stock. It's like having more people at a market; it's easier to find someone to trade with.
+When a company does a stock split, it can make the stock easier to buy and sell. This is because the price of each share goes down, which can attract more people to buy the stock. More buyers and sellers mean that the stock can be traded more easily. This is called increasing the market [liquidity](/wiki/liquidity-risk-premium) of the stock. It's like having more people at a market; it's easier to find someone to trade with.
 
 A stock split doesn't change how much the company is worth, but it can make the stock seem more affordable. When more people think they can afford the stock, they are more likely to buy it. This can lead to more trading happening, which makes the stock more liquid. So, even though the company's value stays the same, the stock becomes easier to trade because of the lower price per share.
 

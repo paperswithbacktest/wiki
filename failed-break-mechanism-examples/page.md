@@ -18,7 +18,7 @@ Failed breaks can be frustrating for traders because they can lead to losses if 
 
 A failed break can be spotted on a chart by looking at how the price moves around key levels, like support or resistance. When the price goes past one of these levels, it might seem like a big move is starting. But if the price quickly turns around and goes back below the level it just broke through, that's a failed break. For example, if a stock's price goes above a resistance line but then drops back down below it soon after, that's a sign of a failed break.
 
-To help identify a failed break, traders often use other tools like volume and indicators. If the price breaks through a level but the trading volume is low, it might not be a strong move, increasing the chance of a failed break. Also, if indicators like the Relative Strength Index (RSI) don't confirm the break by showing strong momentum, it could be another warning sign. By paying attention to these signs, traders can better spot when a break might not lead to the expected big move.
+To help identify a failed break, traders often use other tools like [volume](/wiki/volume-trading-strategy) and indicators. If the price breaks through a level but the trading volume is low, it might not be a strong move, increasing the chance of a failed break. Also, if indicators like the Relative Strength Index (RSI) don't confirm the break by showing strong [momentum](/wiki/momentum), it could be another warning sign. By paying attention to these signs, traders can better spot when a break might not lead to the expected big move.
 
 ## What are the common causes of a failed break?
 
@@ -64,7 +64,7 @@ Another time a failed break happened was with the Dow Jones Industrial Average i
 
 ## What are the differences between a failed break and a false breakout?
 
-A failed break and a false breakout are pretty similar, but they have a small difference. A failed break happens when the price goes past a key level, like resistance or support, but then quickly goes back below that level. It's like the price tried to break through but couldn't keep going. A false breakout is a bit more specific. It's when the price goes past a level and stays there for a little bit, making traders think it's a real move. But then, the price turns around and goes back below the level, showing it was just a trick.
+A failed break and a false [breakout](/wiki/breakout-trading) are pretty similar, but they have a small difference. A failed break happens when the price goes past a key level, like resistance or support, but then quickly goes back below that level. It's like the price tried to break through but couldn't keep going. A false breakout is a bit more specific. It's when the price goes past a level and stays there for a little bit, making traders think it's a real move. But then, the price turns around and goes back below the level, showing it was just a trick.
 
 The main difference is how long the price stays past the level. In a failed break, the price might not stay above or below the level for very long at all. It's a quick move and then a quick reversal. With a false breakout, the price might stay past the level for a bit longer, maybe even a few hours or a day, before it goes back. This can make traders more confident that it's a real move, but then they get surprised when it turns out to be false. Both can lead to losses if traders aren't careful, but understanding the difference can help them make better choices.
 

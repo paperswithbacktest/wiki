@@ -48,7 +48,7 @@ The bank had a board of directors that made important decisions. Some directors 
 
 The First Bank of the United States was funded by a mix of government and private money. The U.S. government owned 20% of the bank's shares, while private investors owned the other 80%. This mix of ownership helped the bank work closely with the government while also involving private money. The bank was set up in 1791, and it was located in Philadelphia with branches in other cities.
 
-The bank's funding came from selling these shares to investors. The money raised from selling the shares was used to start the bank and to carry out its operations. The bank used this money to keep the government's money safe, lend money to the government when it needed it, and give loans to businesses. This helped the bank play an important role in managing the country's money and debts.
+The bank's funding came from selling these shares to investors. The money raised from selling the shares was used to start the bank and to [carry](/wiki/carry-trading) out its operations. The bank used this money to keep the government's money safe, lend money to the government when it needed it, and give loans to businesses. This helped the bank play an important role in managing the country's money and debts.
 
 ## What role did the First Bank of the United States play in the early American economy?
 

@@ -22,7 +22,7 @@ Also, a demo account helps you get familiar with the trading platform. Every bro
 
 ## How can one open a forex demo account?
 
-To open a forex demo account, you first need to choose a broker that offers demo accounts. Many brokers provide this service for free. Once you've picked a broker, go to their website and look for a button or link that says something like "Open Demo Account" or "Start Trading Demo." Click on it and you'll usually need to fill out a simple form with your name, email, and maybe a phone number. After you submit the form, the broker will send you an email with instructions on how to log in to your new demo account.
+To open a [forex](/wiki/forex-system) demo account, you first need to choose a broker that offers demo accounts. Many brokers provide this service for free. Once you've picked a broker, go to their website and look for a button or link that says something like "Open Demo Account" or "Start Trading Demo." Click on it and you'll usually need to fill out a simple form with your name, email, and maybe a phone number. After you submit the form, the broker will send you an email with instructions on how to log in to your new demo account.
 
 Once you're logged in, you'll see that the demo account looks just like a real trading account, but with fake money. You can start trading right away, trying out different strategies and getting used to the platform. It's a good idea to spend some time exploring all the features and tools the broker offers. This way, when you're ready to switch to a real account, you'll feel more confident and prepared. Remember, you can use the demo account for as long as you need to feel comfortable before moving to real trading.
 
@@ -60,9 +60,9 @@ Also, demo accounts are great for practicing during times when the market is mov
 
 ## What advanced strategies can be tested using a demo account?
 
-Intermediate traders can use a demo account to test advanced strategies like scalping, which involves making many small trades to take advantage of tiny price changes. They can practice entering and exiting trades quickly to see if they can make a profit this way. Another strategy they might try is using complex technical indicators, like the Relative Strength Index (RSI) or Bollinger Bands, to find the best times to buy and sell. The demo account lets them see how these indicators work in real market conditions without risking their own money.
+Intermediate traders can use a demo account to test advanced strategies like [scalping](/wiki/gamma-scalping), which involves making many small trades to take advantage of tiny price changes. They can practice entering and exiting trades quickly to see if they can make a profit this way. Another strategy they might try is using complex technical indicators, like the Relative Strength Index (RSI) or Bollinger Bands, to find the best times to buy and sell. The demo account lets them see how these indicators work in real market conditions without risking their own money.
 
-They can also test out algorithmic trading, where they use computer programs to make trades based on certain rules. This can be a good way to see if their trading ideas can be turned into a successful strategy. By using a demo account, intermediate traders can fine-tune their algorithms and see how they perform over time. This practice helps them understand what works and what doesn't, so they can be more confident when they start using these strategies with real money.
+They can also test out [algorithmic trading](/wiki/algorithmic-trading), where they use computer programs to make trades based on certain rules. This can be a good way to see if their trading ideas can be turned into a successful strategy. By using a demo account, intermediate traders can fine-tune their algorithms and see how they perform over time. This practice helps them understand what works and what doesn't, so they can be more confident when they start using these strategies with real money.
 
 ## How do demo accounts help in understanding market psychology?
 

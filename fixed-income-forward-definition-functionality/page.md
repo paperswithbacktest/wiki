@@ -46,7 +46,7 @@ Another risk is that the bond's price might move in a way you didn't expect. If 
 
 ## How is the price of a fixed income forward determined?
 
-The price of a fixed income forward, called the forward price, is figured out by looking at a few things. One big thing is the current price of the bond you want to buy or sell in the future. Another thing is the interest rate that people expect will be around when the forward deal happens. If people think interest rates will go up, the forward price might be different than if they think rates will stay the same or go down.
+The price of a fixed income forward, called the forward price, is figured out by looking at a few things. One big thing is the current price of the bond you want to buy or sell in the future. Another thing is the [interest rate](/wiki/interest-rate-trading-strategies) that people expect will be around when the forward deal happens. If people think interest rates will go up, the forward price might be different than if they think rates will stay the same or go down.
 
 To find the forward price, you also need to think about how long it will be until the deal happens. The longer you wait, the more time there is for interest rates to change, which can affect the price. So, you take the bond's current price, add in what you think interest rates will do, and consider the time until the deal, and that's how you come up with the forward price. It's like making a guess about the future to set a price today that will work for both people in the deal.
 

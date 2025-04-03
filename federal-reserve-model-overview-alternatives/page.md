@@ -36,7 +36,7 @@ Another way the Fed influences the economy is by buying or selling government bo
 
 ## What are the key tools used by the Federal Reserve to implement monetary policy?
 
-The Federal Reserve uses several key tools to manage the economy through what's called monetary policy. The first tool is setting the federal funds rate, which is the interest rate banks charge each other for overnight loans. By changing this rate, the Fed can make borrowing money more or less expensive. When the Fed lowers the rate, it encourages banks to lend more, which can help the economy grow. When it raises the rate, borrowing becomes more expensive, which can slow down the economy and help control inflation.
+The Federal Reserve uses several key tools to manage the economy through what's called monetary policy. The first tool is setting the federal funds rate, which is the [interest rate](/wiki/interest-rate-trading-strategies) banks charge each other for overnight loans. By changing this rate, the Fed can make borrowing money more or less expensive. When the Fed lowers the rate, it encourages banks to lend more, which can help the economy grow. When it raises the rate, borrowing becomes more expensive, which can slow down the economy and help control inflation.
 
 Another important tool is open market operations, where the Fed buys or sells government securities. When the Fed buys securities, it puts more money into the economy, which can help it grow. When it sells securities, it takes money out of the economy, which can help slow it down. The Fed also uses a tool called reserve requirements, which is the amount of money banks must keep on hand and not lend out. By changing these requirements, the Fed can control how much money banks can lend, which affects how much money is circulating in the economy.
 
@@ -108,5 +108,5 @@ Another thing people are discussing is whether to use different ways to manage m
    - Coursera offers several courses on financial markets and investment strategies, such as "Financial Markets" by Yale University. These courses provide foundational knowledge necessary for understanding and applying models like the Fed Model.
    - Investopedia offers simulations and articles that allow users to practice investment strategies, including applying the Fed Model in a controlled environment. Their stock simulator can be a useful tool for practical application.
 
-These resources serve as a comprehensive guide for anyone interested in exploring the Fed Model further, providing a mix of theoretical and practical insights into investment valuation and algorithmic trading.
+These resources serve as a comprehensive guide for anyone interested in exploring the Fed Model further, providing a mix of theoretical and practical insights into investment valuation and [algorithmic trading](/wiki/algorithmic-trading).
 

@@ -54,7 +54,7 @@ When a flash crash happens, regulatory bodies can use circuit breakers to pause 
 
 Algorithmic trading, where computers use special programs to buy and sell stocks very quickly, has made flash crashes happen more often. These computers can trade in just a few seconds, and if something goes wrong with their programs, they can start selling a lot of stocks at once. This can make the price of a stock drop very fast, causing a flash crash. Because these trades happen so quickly, it's hard for people to stop the crash before it happens.
 
-Even though algorithmic trading can cause flash crashes, it's not always bad. It can also make the stock market work better by making it easier to buy and sell stocks. But because of the risks, people who watch over the stock market have made new rules to try to stop flash crashes. They use things like circuit breakers to pause trading if prices change too much too quickly. This helps to keep the market safe and stop flash crashes from happening as often.
+Even though [algorithmic trading](/wiki/algorithmic-trading) can cause flash crashes, it's not always bad. It can also make the stock market work better by making it easier to buy and sell stocks. But because of the risks, people who watch over the stock market have made new rules to try to stop flash crashes. They use things like circuit breakers to pause trading if prices change too much too quickly. This helps to keep the market safe and stop flash crashes from happening as often.
 
 ## Can you describe a notable flash crash that occurred outside of the U.S. stock market?
 
@@ -76,7 +76,7 @@ Flash crashes also make the market more volatile. Volatility means how much the 
 
 ## What advanced technologies are being developed to predict and mitigate future flash crashes?
 
-Scientists and experts are working on new technologies to help predict and stop flash crashes before they happen. One of these technologies uses special computer programs called machine learning. These programs can look at a lot of data from the stock market very quickly. They try to find patterns that might show a flash crash is about to happen. If they see these patterns, they can warn people who watch over the market. This way, they can take steps to stop the crash before it gets too bad.
+Scientists and experts are working on new technologies to help predict and stop flash crashes before they happen. One of these technologies uses special computer programs called [machine learning](/wiki/machine-learning). These programs can look at a lot of data from the stock market very quickly. They try to find patterns that might show a flash crash is about to happen. If they see these patterns, they can warn people who watch over the market. This way, they can take steps to stop the crash before it gets too bad.
 
 Another technology being developed is called real-time monitoring systems. These systems keep an eye on the stock market all the time. They can spot big changes in prices that happen very fast. If they see something that looks like a flash crash starting, they can send out alerts. People can then use circuit breakers to pause trading and stop the crash from getting worse. These new technologies are helping to make the stock market safer and more stable for everyone.
 

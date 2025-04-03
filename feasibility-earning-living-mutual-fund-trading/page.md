@@ -26,7 +26,7 @@ Trading mutual funds can be risky because the value of the funds can go up and d
 
 Another risk is that mutual funds have fees. These fees can be high and can reduce the amount of money you make from your investment. If the fees are too high, they might eat up all your profits. It's important to understand these fees before you start trading mutual funds.
 
-Lastly, there is the risk of not being able to sell your mutual fund shares when you want to. This is called liquidity risk. Some mutual funds are harder to sell quickly than others. If you need your money back fast and can't sell your shares, this can be a problem. Always think about these risks before you decide to trade mutual funds.
+Lastly, there is the risk of not being able to sell your mutual fund shares when you want to. This is called [liquidity](/wiki/liquidity-risk-premium) risk. Some mutual funds are harder to sell quickly than others. If you need your money back fast and can't sell your shares, this can be a problem. Always think about these risks before you decide to trade mutual funds.
 
 ## How much capital is needed to start trading mutual funds profitably?
 
@@ -42,7 +42,7 @@ Another key strategy is to keep an eye on the market and be ready to make change
 
 ## How does the performance of mutual funds compare to other investment options?
 
-Mutual funds can be a good choice for people who want to invest their money but don't want to pick individual stocks or bonds. They offer a way to spread your money across many different investments, which can help lower your risk. Compared to investing in just one stock or bond, mutual funds can be safer because they are diversified. But, they might not grow as fast as some single stocks that do really well. Also, mutual funds have fees that can make your returns lower than if you had invested in something with lower costs, like an index fund or an ETF.
+Mutual funds can be a good choice for people who want to invest their money but don't want to pick individual stocks or bonds. They offer a way to spread your money across many different investments, which can help lower your risk. Compared to investing in just one stock or bond, mutual funds can be safer because they are diversified. But, they might not grow as fast as some single stocks that do really well. Also, mutual funds have fees that can make your returns lower than if you had invested in something with lower costs, like an index fund or an [ETF](/wiki/etf-trading-strategies).
 
 Compared to other investment options like real estate or starting your own business, mutual funds are usually less risky but might not offer the same high returns. Real estate can give you rental income and the chance for the property to go up in value, but it also needs a lot of money to start and can be hard to sell quickly. Starting a business can be very rewarding if it does well, but it's also very risky and can fail. Mutual funds are easier to buy and sell than real estate or a business, and they don't need as much work to manage. So, they can be a good middle ground for people who want to grow their money without taking on too much risk.
 

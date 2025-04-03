@@ -50,7 +50,7 @@ The other type of transaction is called a forward transaction. This is when bank
 
 Liquidity is very important in the Foreign Exchange Interbank Market. It means there are always lots of people ready to buy or sell currencies. When the market is liquid, it's easier for banks to trade quickly and at good prices. This helps keep the market running smoothly. If the market is not very liquid, it can be harder for banks to find someone to trade with, and the prices might change a lot more. This can make it riskier for banks and might make them less willing to trade.
 
-The level of liquidity in the market can change because of different things. For example, if big news or events happen, like a country's election or a change in interest rates, more people might want to trade, making the market more liquid. But if it's a quiet time with not much news, the market might be less liquid. Banks and other big players pay close attention to liquidity because it affects how easily they can do their trades and how much they might have to pay or get for the currencies they are trading.
+The level of [liquidity](/wiki/liquidity-risk-premium) in the market can change because of different things. For example, if big news or events happen, like a country's election or a change in interest rates, more people might want to trade, making the market more liquid. But if it's a quiet time with not much news, the market might be less liquid. Banks and other big players pay close attention to liquidity because it affects how easily they can do their trades and how much they might have to pay or get for the currencies they are trading.
 
 ## What is the significance of the bid-ask spread in the Interbank Market?
 

@@ -82,7 +82,7 @@ Another challenge is keeping up with all the rules and laws about being a fiduci
 
 In recent years, the idea of fiduciary duty has changed a bit. More people are paying attention to it, especially in the world of money and investments. For example, in the United States, there have been new rules that make it clearer what financial advisors have to do to be good fiduciaries. These rules say that advisors have to think about what's best for their clients, not just what makes them more money. This is to make sure that people can trust their advisors to help them make good choices with their money.
 
-Another way fiduciary duty has changed is that it's now seen as important in more areas than before. For example, people are talking about how companies should think about more than just making money for their shareholders. They should also think about how their actions affect the environment and society. This is called ESG (Environmental, Social, and Governance) investing. So, fiduciaries are now expected to consider these bigger issues when making decisions, not just what's good for the people they directly help.
+Another way fiduciary duty has changed is that it's now seen as important in more areas than before. For example, people are talking about how companies should think about more than just making money for their shareholders. They should also think about how their actions affect the environment and society. This is called [ESG](/wiki/esg-investing) (Environmental, Social, and Governance) investing. So, fiduciaries are now expected to consider these bigger issues when making decisions, not just what's good for the people they directly help.
 
 ## References & Further Reading
 

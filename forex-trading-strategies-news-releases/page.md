@@ -18,7 +18,7 @@ News releases are very important in forex trading. When a country releases news 
 
 The most common types of news releases that impact forex markets are economic reports and announcements from central banks. Economic reports include things like employment data, inflation rates, and gross domestic product (GDP) numbers. For example, if a country reports more people are working than expected, it might make its currency stronger because it shows the economy is doing well. On the other hand, if inflation is higher than expected, it might make the currency weaker because it could mean the central bank will raise interest rates to control inflation.
 
-Central bank announcements are also very important. These can include changes to interest rates or statements about the future direction of monetary policy. If a central bank raises interest rates, it usually makes the country's currency stronger because higher rates attract more foreign investment. If they hint at lowering rates in the future, it might make the currency weaker. Traders pay close attention to these announcements because they can cause big moves in the forex market.
+Central bank announcements are also very important. These can include changes to interest rates or statements about the future direction of monetary policy. If a central bank raises interest rates, it usually makes the country's currency stronger because higher rates attract more foreign investment. If they hint at lowering rates in the future, it might make the currency weaker. Traders pay close attention to these announcements because they can cause big moves in the [forex](/wiki/forex-system) market.
 
 ## How can beginners identify which news releases are likely to affect currency pairs?
 
@@ -70,7 +70,7 @@ Another strategy is called "straddling the news." This means a trader puts in tw
 
 ## How can expert traders leverage algorithmic trading systems to capitalize on news releases?
 
-Expert traders can use algorithmic trading systems to take advantage of news releases by setting up their computers to trade automatically based on the news. These systems can be programmed to look at news feeds and quickly make trades when certain news comes out. For example, if a big jobs report is released and it's better than expected, the system can buy the currency right away, before most human traders can react. This can help the trader make money from the quick moves in the market that happen right after the news.
+Expert traders can use [algorithmic trading](/wiki/algorithmic-trading) systems to take advantage of news releases by setting up their computers to trade automatically based on the news. These systems can be programmed to look at news feeds and quickly make trades when certain news comes out. For example, if a big jobs report is released and it's better than expected, the system can buy the currency right away, before most human traders can react. This can help the trader make money from the quick moves in the market that happen right after the news.
 
 Another way expert traders use these systems is by setting up strategies that look at both the news and the market's reaction to it. The system can use technical analysis to see if the market is overbought or oversold after the news, and then make trades based on that. This can help the trader make smarter decisions and take advantage of the ups and downs that come with news releases. By letting the computer do the work, expert traders can handle more trades and make money even when they're not watching the market all the time.
 

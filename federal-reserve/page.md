@@ -30,7 +30,7 @@ The Fed also helps the economy by managing the country's payment systems. This m
 
 ## How is the Federal Reserve structured?
 
-The Federal Reserve is made up of twelve regional banks spread across the United States. Each of these banks serves a specific area of the country and helps to carry out the Fed's work locally. The regional banks are located in big cities like New York, San Francisco, and Chicago. They are run by their own boards of directors, but they all work together under the guidance of the Federal Reserve System.
+The Federal Reserve is made up of twelve regional banks spread across the United States. Each of these banks serves a specific area of the country and helps to [carry](/wiki/carry-trading) out the Fed's work locally. The regional banks are located in big cities like New York, San Francisco, and Chicago. They are run by their own boards of directors, but they all work together under the guidance of the Federal Reserve System.
 
 The main part of the Federal Reserve is the Board of Governors, which is based in Washington, D.C. The Board is made up of seven members who are appointed by the President and confirmed by the Senate. They serve long terms to keep the Fed independent from political pressure. The Board oversees the whole system and makes important decisions about things like interest rates and bank regulations. The Federal Open Market Committee (FOMC) is a special group within the Fed that includes members of the Board and some of the regional bank presidents. The FOMC meets regularly to decide on the country's monetary policy, which is a big part of how the Fed manages the economy.
 
@@ -54,7 +54,7 @@ By changing the federal funds rate, the Fed can affect other interest rates in t
 
 ## What tools does the Federal Reserve use to manage the economy?
 
-The Federal Reserve uses several tools to manage the economy. The most important tool is setting the federal funds rate, which is the interest rate banks charge each other for overnight loans. By changing this rate, the Fed can make borrowing money cheaper or more expensive. When they lower the rate, it's easier for everyone to borrow, which can help the economy grow. When they raise the rate, borrowing becomes harder, which can slow down the economy if it's growing too fast.
+The Federal Reserve uses several tools to manage the economy. The most important tool is setting the federal funds rate, which is the [interest rate](/wiki/interest-rate-trading-strategies) banks charge each other for overnight loans. By changing this rate, the Fed can make borrowing money cheaper or more expensive. When they lower the rate, it's easier for everyone to borrow, which can help the economy grow. When they raise the rate, borrowing becomes harder, which can slow down the economy if it's growing too fast.
 
 Another tool the Fed uses is open market operations. This means they buy or sell government bonds. When the Fed buys bonds, they put more money into the economy, which can help it grow. When they sell bonds, they take money out of the economy, which can slow it down. The Fed also sets reserve requirements, which are the amount of money banks have to keep on hand. By changing these requirements, the Fed can control how much money banks can lend out. Together, these tools help the Fed keep the economy stable and growing in a healthy way.
 

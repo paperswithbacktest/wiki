@@ -18,7 +18,7 @@ Hedging can be done in several ways, such as using forward contracts, options, o
 
 Forex hedging is important for traders because it helps them manage risk. The forex market can be very unpredictable, with currency values changing quickly. If a trader has a lot of money in one currency and that currency loses value, they could lose a lot of money. By using hedging, traders can protect themselves from these sudden changes. They do this by taking another position that will gain value if their main position loses value, balancing out their losses.
 
-Hedging also gives traders more confidence to make trades. When traders know they have a way to limit their losses, they might be more willing to take chances and try new trading strategies. This can lead to more opportunities for making profits. Overall, hedging is a key tool that helps traders feel safer and more in control when dealing with the ups and downs of the forex market.
+Hedging also gives traders more confidence to make trades. When traders know they have a way to limit their losses, they might be more willing to take chances and try new trading strategies. This can lead to more opportunities for making profits. Overall, hedging is a key tool that helps traders feel safer and more in control when dealing with the ups and downs of the [forex](/wiki/forex-system) market.
 
 ## What are the basic types of Forex hedging strategies?
 
@@ -78,7 +78,7 @@ In other places, like the European Union, the rules might be different. The Euro
 
 To evaluate how well a Forex hedging strategy is working, you need to look at how much it's helping to reduce your risk. One way to do this is by comparing your losses with and without the hedge. If you're losing less money when you use the hedge, it's a sign that the strategy is effective. You can also look at how much the hedge costs you in fees and other expenses. If the costs are too high, the hedge might not be worth it, even if it's reducing your risk.
 
-Another important thing to check is how the hedge affects your overall profits. A good hedge should balance out losses without stopping you from making money when the market moves in your favor. You can use tools like backtesting, where you apply your hedging strategy to past market data, to see how it would have worked. This can give you a good idea of whether the strategy is likely to be effective in the future. By keeping an eye on these things, you can figure out if your Forex hedging strategy is doing its job well.
+Another important thing to check is how the hedge affects your overall profits. A good hedge should balance out losses without stopping you from making money when the market moves in your favor. You can use tools like [backtesting](/wiki/backtesting), where you apply your hedging strategy to past market data, to see how it would have worked. This can give you a good idea of whether the strategy is likely to be effective in the future. By keeping an eye on these things, you can figure out if your Forex hedging strategy is doing its job well.
 
 ## References & Further Reading
 

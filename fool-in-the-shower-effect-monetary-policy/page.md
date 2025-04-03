@@ -18,7 +18,7 @@ This effect shows how tricky it can be for central banks to manage the economy. 
 
 The 'Fool in the Shower Effect' shows how hard it can be for people who make economic decisions, like central bankers, to get things just right. Imagine you're trying to get the perfect water temperature in the shower. You turn the knobs, but the water keeps changing, so you never quite get it right. That's what happens when central banks try to control inflation by changing interest rates. They might raise rates to slow down spending and cool down the economy, but other things in the economy can change, making their plans not work as well as they hoped.
 
-This effect reminds us that making economic decisions is tricky because the economy is always changing. Central bankers have to be ready to change their plans quickly. They can't just set an interest rate and expect it to fix everything. They need to keep watching the economy and be ready to adjust their strategies. It's like trying to hit a moving target – you have to keep moving and adjusting to get it right.
+This effect reminds us that making economic decisions is tricky because the economy is always changing. Central bankers have to be ready to change their plans quickly. They can't just set an [interest rate](/wiki/interest-rate-trading-strategies) and expect it to fix everything. They need to keep watching the economy and be ready to adjust their strategies. It's like trying to hit a moving target – you have to keep moving and adjusting to get it right.
 
 ## Can you explain the basic principles of monetary policy for beginners?
 

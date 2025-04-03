@@ -72,7 +72,7 @@ Some other financial institutions might only let people buy and sell Bitcoin, bu
 
 ## What are the long-term strategic goals of Fidelity in the cryptocurrency space?
 
-Fidelity's long-term goal in the cryptocurrency space is to become a leader in helping people use digital money like Bitcoin. They want to make it easy and safe for both regular people and big companies to use cryptocurrencies. By offering services like storage, trading, and advice, Fidelity hopes to build trust and show that they understand this new kind of money. They think cryptocurrencies are here to stay and want to be at the front of this new trend, helping their customers every step of the way.
+Fidelity's long-term goal in the [cryptocurrency](/wiki/cryptocurrency) space is to become a leader in helping people use digital money like Bitcoin. They want to make it easy and safe for both regular people and big companies to use cryptocurrencies. By offering services like storage, trading, and advice, Fidelity hopes to build trust and show that they understand this new kind of money. They think cryptocurrencies are here to stay and want to be at the front of this new trend, helping their customers every step of the way.
 
 Another goal for Fidelity is to keep learning and improving their services as the world of cryptocurrencies changes. They know that rules and technology around digital money can change a lot, so they want to stay up-to-date and ready to help their customers no matter what happens. By doing this, Fidelity hopes to keep growing and stay important in the financial world, even as new types of money become more common.
 
