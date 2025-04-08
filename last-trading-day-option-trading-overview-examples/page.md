@@ -3,153 +3,82 @@ title: "Last Trading Day in Option Trading: Overview and Examples"
 description: "Explore the significance of the last trading day in options trading, highlighting the impact of volatility and the strategic benefits of algorithmic trading."
 ---
 
-The last trading day in financial markets offers a unique and intensified setting that commands the attention of traders worldwide, particularly those engaged in options and algorithmic trading. This critical day marks the expiration of various derivative contracts, manifesting increased volatility and trading activity as participants finalize their positions.
-
-In option trading, the last trading day holds profound significance. Options contracts, which derive value from underlying assets, require closure or rolling over to avoid unexpected exposures as expiration looms. Traders utilize this day to exploit movements in option premium influenced by underlying asset volatility and time decay, known as theta decay. The strategic significance lies in the opportunity to employ sophisticated trading strategies such as short straddle and short strangle, which aim to capitalize on the heightened market volatility and precise timing.
 
 ![Image](images/1.jpeg)
 
-The rise of algorithmic trading has further transformed last trading day approaches. Algorithms enable traders to manage large volumes of transactions with unprecedented speed, precision, and neutrality, free from emotional biases. These technology-driven strategies harness complex mathematical models and pre-programmed instructions to rapidly respond to market conditions, providing significant advantages in executing expiry day trades. Algorithms are instrumental in backtesting strategies, allowing traders to optimize their approaches through historical data analysis.
-
-This interplay between traditional trading methods and algorithmic strategies highlights a significant evolution in market engagement. Traders who marry their fundamental insights with cutting-edge technology stand to gain a competitive edge, adapting swiftly to dynamic market conditions and fortifying their decision-making processes. The confluence of these approaches underscores the importance of continuously evolving strategies that leverage the best of human expertise and technological sophistication to navigate the opportunities and challenges presented by the last trading day in financial markets.
-
 ## Table of Contents
 
-## Understanding the Last Trading Day in Financial Markets
+## What is the last trading day in option trading?
 
-The last trading day in financial markets holds high significance, particularly for derivative contracts like options and futures. On this day, contracts reach their expiration, making it crucial for traders to finalize decisions on whether to close, roll over, or exercise their positions.
+The last trading day in option trading is the final day that an option can be bought or sold before it expires. This day is important because it's the last chance for traders to make decisions about their options. For most options, the last trading day is the third Friday of the expiration month, but this can vary depending on the type of option and the exchange where it's traded.
 
-Derivative contracts are financial instruments whose value is derived from an underlying asset. Options, for example, offer holders the right, but not the obligation, to buy or sell an asset at a predetermined price before expiration. Similarly, futures contracts obligate the parties to transact an asset at a set price on the expiration date. The last trading day marks the final opportunity for actions pertinent to these contracts.
+On the last trading day, the price of the option can change a lot. This is because many traders are trying to close their positions before the option expires. If an option is "in the money" (meaning it has value) at the end of the last trading day, it might be automatically exercised, which means the owner of the option will buy or sell the underlying asset. If it's "out of the money" (meaning it has no value), it will usually expire worthless.
 
-The last trading day serves as a pivotal point for completing or rolling over positions. For traders holding options, the decision often revolves around exercising the contract if it is in-the-money, meaning the option holds intrinsic value. If an option is out-of-the-money, holding no intrinsic value, traders may let it expire worthless or, if the market conditions are favorable, attempt strategic maneuvers such as rolling over to a future contract expiration. Rolling over a position involves closing the current contract and entering into a new one with a later expiration date, which is commonly employed in futures trading to extend exposure to the asset.
+## Why is the last trading day important for option traders?
 
-The dynamics of [liquidity](/wiki/liquidity-risk-premium), trading [volume](/wiki/volume-trading-strategy), and [volatility](/wiki/volatility-trading-strategies) are particularly pronounced on the last trading day. Liquidity refers to the ease with which assets can be bought or sold in the market without affecting their price, while trading volume indicates the number of shares or contracts traded over a specific period. Volatility represents the frequency and magnitude of price movements. On expiry days, heightened trading activity often leads to increased liquidity, although the rush to execute final trades can also contribute to erratic price swings, thereby amplifying market volatility.
+The last trading day is a big deal for option traders because it's the final chance to do something with their options before they expire. If traders want to sell their options or use them to buy or sell the underlying asset, they have to do it by the end of this day. If they miss this chance, the option might expire without any value, and they could lose all the money they spent on it.
 
-Traders often exploit the last trading day to conduct final strategies that are time-sensitive. For example, strategies like the "gamma [scalping](/wiki/gamma-scalping)" may be employed to adjust delta-neutral positions in response to price movements throughout the day, capitalizing on the increased market fluctuations. Additionally, the choice of strategy is influenced by the "theta decay" effect, where the value of options diminishes as they approach expiration, a critical consideration for traders seeking to optimize their positions.
+On this day, the price of options can move a lot. Many traders are trying to close their positions or make last-minute decisions. This can make the market very busy and unpredictable. Knowing when the last trading day is helps traders plan their moves and try to make the best decisions to either make money or avoid losing more.
 
-In summary, the last trading day is a fundamental component of derivative trading, necessitating strategic decision-making to navigate the complexities of the market. Through a combination of completing positions, managing risk, and adapting to volatile market conditions, traders aim to achieve optimal outcomes before contract expiration.
+## How is the last trading day determined for different types of options?
 
-## Option Trading Strategies on the Last Trading Day
+The last trading day for options is set by the exchange where the options are traded. For most stock options, the last trading day is usually the third Friday of the expiration month. This means if you have a stock option that expires in March, the last day you can trade it is the third Friday in March. But, the exact day can be different for other types of options like index options or futures options. For example, some index options might have their last trading day on the Thursday before the third Friday.
 
-Option trading on the last trading day, often referred to as options expiration day, presents unique opportunities and challenges for traders seeking to optimize their portfolios. Among the myriad of strategies available, the Short Straddle and Short Strangle are particularly popular due to their potential to capitalize on predictable price movements during these volatile periods.
+Different exchanges might also have their own rules. For instance, the Chicago Board Options Exchange (CBOE) might have different last trading days for certain products than the New York Stock Exchange (NYSE). It's important for traders to check the specific rules of the exchange where their options are traded. This way, they know exactly when the last trading day is and can plan their trading strategy accordingly.
 
-The Short Straddle strategy involves selling both a call and a put option at the same strike price with the same expiration date. This strategy is best employed when a trader anticipates negligible movement in the underlying asset price, resulting in a profit from the premium received upon selling these options. As the expiration date approaches, time decay, known as theta, becomes a critical component in option pricing. Theta decay accelerates as expiration nears, eroding the value of options and benefiting the seller. Traders seek to exploit this decay, banking on the possibility that the underlying asset's price remains close to the strike price, allowing both options to expire worthless. The profitability of a Short Straddle is maximized when the securities remain stable, enabling traders to pocket the entire premium collected from the options sold.
+## What happens to an option on its last trading day?
 
-Conversely, the Short Strangle strategy involves selling out-of-the-money call and put options with the same expiration date but different strike prices. This strategy also profits from minimal price movement but provides a wider price range for profitability due to its lower breakeven points in comparison to the Short Straddle. The trade-off is a reduced premium received; however, the risk is more effectively controlled since the asset can fluctuate within a defined window. In managing both strategies, traders must meticulously monitor theta decay alongside other market indicators to optimize timing and execution.
+On the last trading day, an option can be bought or sold until the market closes. This is the final chance for traders to make decisions about their options. If they think the option will be worth something when it expires, they might choose to exercise it. This means they will use the option to buy or sell the underlying asset. If they think it won't be worth anything, they might sell it to someone else or just let it expire.
 
-Traders often leverage market conditions emerging on the last trading day to fine-tune these strategies. For example, heightened volatility typical on expiry days can present risks; however, it can also increase option premiums, enhancing potential returns for option writers. Successful implementation requires a nuanced understanding of market trends and precise timing to hedge against adverse movements. For instance, a trader employing a Short Strangle might adjust strike prices or implement stop-loss orders to mitigate unforeseen price shifts, thus enhancing risk management and potential returns.
+If an option is "in the money" at the end of the last trading day, it might be automatically exercised by the exchange. This means the owner of the option will get to buy or sell the underlying asset without having to do anything extra. But if the option is "out of the money," it will usually expire worthless. Traders need to watch the prices closely on this day because they can change a lot as everyone tries to make their final moves.
 
-Historical examples provide valuable insights into these strategies' effectiveness. Notably, periods of low volatility preceding expiration have historically allowed profitable execution of Short Straddles, while more unpredictable markets have occasionally favored Short Strangles due to their wider margin for error. For consistent success, traders are advised to remain adaptable, continuously assessing market conditions and adjusting their strategies accordingly. 
+## Can you explain the concept of expiration and its relation to the last trading day?
 
-In conclusion, the success of options trading strategies on the last trading day hinges upon a thorough understanding of market dynamics, particularly theta decay, and the ability to effectively manage risk while capitalizing on fleeting opportunities in a rapidly changing environment.
+Expiration is when an option contract ends and can't be used anymore. It's like a deadline for the option. If you have an option, you need to decide what to do with it before it expires. You can either sell it to someone else, use it to buy or sell the underlying asset, or let it expire without doing anything. The expiration date is set when the option is created and is usually the Saturday after the third Friday of the expiration month for most stock options.
 
-## Algorithmic Trading: Advantages on Expiry Day
+The last trading day is the day before the expiration date, usually the third Friday of the month for stock options. This is the last chance you have to trade the option before it expires. On this day, you can still buy or sell the option, but after the market closes, you can't do anything with it until it expires the next day. If your option is worth something at the end of the last trading day, it might be automatically used to buy or sell the underlying asset. If it's not worth anything, it will just expire and you won't get anything back.
 
-Algorithmic trading plays a crucial role on expiry days by efficiently handling and executing large volumes of trades, offering significant advantages over traditional methods. These advantages include increased speed, enhanced precision, and the elimination of emotional biases often present in manual trading.
+## What are the risks associated with holding an option until the last trading day?
 
-The primary benefit of [algorithmic trading](/wiki/algorithmic-trading) is its ability to process and execute trades at extraordinary speeds. Algorithms can analyze multiple market variables and execute transactions in milliseconds, something that is beyond human capability. This rapid execution is especially advantageous on expiry days when market conditions are volatile, and opportunities can arise and dissipate quickly. For instance, algorithms can capture price inefficiencies and [arbitrage](/wiki/arbitrage) opportunities that may vanish within seconds.
+Holding an option until the last trading day can be risky because the price of the option can change a lot on that day. Many traders are trying to make last-minute decisions, which can make the market very busy and unpredictable. If the price of the underlying asset moves against what you hoped for, your option might lose value quickly. If you wait until the last moment to sell, you might not get as much money as you could have if you sold it earlier.
 
-Precision is another critical advantage of algorithmic trading. Algorithms operate based on predefined criteria and conditions, minimizing human errors and ensuring consistency in trade execution. This precision allows for optimizing strategies based on specific market conditions observed on expiry days. Traders can set precise entry and [exit](/wiki/exit-strategy) points, ensuring that trades are executed only when market conditions align perfectly with their strategic objectives.
+Another risk is that if your option is close to being "in the money" but not quite there, it might expire worthless if the price doesn't move in your favor by the end of the last trading day. This means you could lose all the money you spent on the option. Also, if you forget to sell or exercise your option before the market closes, you might miss your chance to do anything with it, and it will just expire without any value.
 
-Moreover, algorithmic trading removes the emotional component from trading decisions. Human traders are prone to emotions such as fear and greed, which can lead to impulsive decision-making, particularly under the pressure of expiry day volatility. Algorithms, in contrast, adhere strictly to their programmed logic, making unemotional and rational decisions. This emotional neutrality is particularly beneficial during periods of intense market activity.
+## How do market conditions on the last trading day affect option prices?
 
-Traders harness the power of algorithms by developing and [backtesting](/wiki/backtesting) strategies tailored for expiry trading. Backtesting involves running a trading strategy on historical data to evaluate its potential performance. By doing so, traders can refine their strategies to improve profitability and reduce risks associated with expiry days. For example, Python libraries like Backtrader or Zipline can be used for backtesting algorithmic strategies, enabling traders to simulate how their strategies would have performed in past market conditions.
+On the last trading day, option prices can change a lot because many traders are trying to make last-minute decisions. This can make the market very busy and unpredictable. If a lot of people want to buy or sell the same option, its price can go up or down quickly. Traders might be trying to close their positions before the option expires, which can cause big price swings. If the price of the underlying asset, like a stock, moves a lot on this day, it can make the option's price change even more.
 
-```python
-import backtrader as bt
+The last trading day is important because it's the final chance for traders to do something with their options. If an option is close to being "in the money" but not quite there, its price might go up if traders think it will be worth something by the end of the day. But if it looks like it will expire worthless, the price might drop fast. Traders need to watch the market closely on this day because the prices can change quickly, and they need to decide whether to sell their options or use them before they expire.
 
-class MyStrategy(bt.Strategy):
-    def next(self):
-        # Define the logic for entry and exit points
-        if self.data.close[0] > self.data.close[-1]:  # sample condition
-            self.buy(size=10)
+## What strategies can traders use on the last trading day to maximize profits or minimize losses?
 
-cerebro = bt.Cerebro()
-cerebro.addstrategy(MyStrategy)
-data = bt.feeds.YahooFinanceCSVData(dataname='historical_data.csv')
-cerebro.adddata(data)
-cerebro.run()
-cerebro.plot()
-```
+On the last trading day, traders can use different strategies to try to make the most money or lose the least. One strategy is to keep an eye on the option's price all day. If the option is close to being worth something but not quite there, traders might decide to sell it before the market closes. This way, they can get some money back instead of letting it expire without any value. Another strategy is to use a "stop-loss order." This is when traders set a price at which their option will automatically be sold if it drops to that level. This can help stop big losses if the price suddenly goes down.
 
-The synergy between algorithmic and conventional trading enhances the optimization of strategies for the last trading day. While algorithms provide speed and precision, human traders contribute their understanding of broader market contexts and strategic flexibility. By integrating automated systems with traditional insights, traders can capitalize on both systematic and discretionary opportunities. For example, a trader might use an algorithm to execute trades but relies on manual oversight to adapt to unexpected news or geopolitical events that the algorithm might not fully comprehend.
+Another strategy is to look at the price of the underlying asset, like a stock, and decide whether to exercise the option or not. If the option is "in the money" and the trader thinks it will stay that way, they might choose to exercise it and buy or sell the stock. But if the option is "out of the money" and likely to expire worthless, the trader might just let it go. It's also important for traders to stay calm and not make quick decisions based on emotions. The last trading day can be busy and stressful, but thinking clearly can help traders make the best choices to either make money or avoid losing more.
 
-Incorporating algorithmic trading on expiry days allows for leveraging technology to gain a competitive edge. By aligning automated processes with human judgment, traders can more effectively navigate the complexities and volatilities of financial markets at the culmination of derivative contracts.
+## How does the last trading day impact options that are in-the-money, at-the-money, and out-of-the-money?
 
-## Case Studies: Real-World Implications and Results
+On the last trading day, options that are in-the-money, at-the-money, and out-of-the-money can be affected differently. If an option is in-the-money, it means it has some value because the price of the underlying asset, like a stock, is favorable. On the last trading day, these options might be automatically exercised by the exchange if they are still in-the-money at the end of the day. This means the owner of the option will buy or sell the stock without having to do anything extra. Traders might also choose to sell these options to someone else for a profit before the day ends.
 
-Examining historical data and backtested results is crucial in evaluating the effectiveness of expiry [day trading](/wiki/day-trading-spy) strategies. Several studies and real-world scenarios highlight the potential benefits and challenges of engaging in trading activities on the last trading day. Successful applications of algorithmic trading strategies, in particular, have showcased their effectiveness in navigating the complexity and volatility typically seen on these critical days.
+Options that are at-the-money or out-of-the-money have different outcomes. An at-the-money option is right on the edge of being worth something or nothing, so its price can change a lot on the last trading day. Traders might try to sell it if they think it will move in their favor before the market closes. Out-of-the-money options, on the other hand, are not worth anything because the price of the underlying asset is not favorable. These options will usually expire worthless unless something big happens to the price before the end of the last trading day. Traders need to decide whether to sell these options at a low price or just let them go.
 
-### Historical Data and Backtested Results
+## What are some common mistakes traders make on the last trading day?
 
-The analysis of historical data provides valuable insights into how specific trading strategies perform on expiration days. Backtesting these strategies against historical market conditions allows traders to estimate potential outcomes and optimize their approaches accordingly. For instance, strategies such as the Short Straddle and Short Strangle, which involve selling both call and put options at the same strike price, often aim to capitalize on the rapid decay of option premiums due to theta decay as expiration approaches.
+One common mistake traders make on the last trading day is waiting too long to make a decision. They might think the price of their option will go up at the last minute, but if it doesn't, they can lose all their money when the option expires worthless. Another mistake is not understanding the rules of the exchange where their options are traded. If they don't know when the last trading day is or how options are handled at expiration, they might miss their chance to do something with their options.
 
-A backtesting study encompassing data over several years might show that these strategies often perform well in stable, low-volatility conditions. However, during high volatility scenarios, the risk of substantial losses increases if the market moves significantly in one direction. Hence, traders may implement protective measures, such as stop-loss orders, to mitigate potential downsides.
+Another mistake is letting emotions take over. The last trading day can be stressful, and traders might make quick decisions based on fear or hope instead of thinking clearly. This can lead to selling options too early or holding onto them too long. It's important to stay calm and stick to a plan.
 
-### Successful Applications of Algorithmic Trading Strategies
+## How do different trading platforms handle the last trading day, and what are the implications for traders?
 
-Algorithmic trading has become increasingly prominent in implementing expiry day strategies due to its capacity to process vast amounts of data with speed and precision. For example, algorithms can be designed to detect patterns and execute trades based on predefined criteria within milliseconds, offering a competitive edge in fast-paced market environments.
+Different trading platforms might handle the last trading day a bit differently, but they all follow the rules set by the exchange where the options are traded. Some platforms might automatically exercise in-the-money options at the end of the last trading day, while others might require traders to do it themselves. It's important for traders to know how their platform works so they don't miss out on any chances to make money or avoid losses. If a platform automatically exercises options, traders need to make sure they have enough money in their account to cover any costs.
 
-A case study involving algorithmic trading during a volatile expiry day might reveal how algorithms can be leveraged to execute trades that capitalize on small price inefficiencies across multiple exchanges. These high-frequency trading algorithms enable traders to manage risk more effectively by swiftly reacting to market changes and dynamically adjusting positions.
+The implications for traders are big. If they don't know how their trading platform handles the last trading day, they might be surprised by what happens to their options. For example, if they think they need to exercise an option themselves but the platform does it automatically, they might not have enough money ready. On the other hand, if they expect the platform to exercise their option and it doesn't, they could lose money if the option expires worthless. Traders need to check their platform's rules and be ready for the last trading day to make the best decisions.
 
-### Detailed Market Behavior and Trader Actions
+## Can you provide real-world examples of significant events or outcomes on the last trading day of options?
 
-The behavior of markets on last trading days often exhibits heightened liquidity and volatility due to the closing of positions and adjustments by traders. Detailed analysis reveals that trader actions, such as rolling over futures or options contracts to avoid physical delivery, are prevalent. Additionally, some traders may engage in speculative activities, trying to profit from anticipated market movements.
+One real-world example of a significant event on the last trading day happened in 2018 with the options on the CBOE Volatility Index (VIX). The VIX, often called the "fear index," measures how much people expect the stock market to move. On the last trading day of February 2018, there was a big drop in the stock market, and the VIX jumped a lot. This caused many VIX options to expire with much higher values than expected. Traders who held these options made a lot of money, while those who sold them lost a lot. This event showed how important it is to watch the market closely on the last trading day.
 
-An analytical approach might involve examining specific trading sessions where market behavior deviated from the norm, providing insights into how unexpected events or news releases affected trading volumes and price movements. This analysis can be instrumental in refining future trading strategies, particularly in anticipating and responding to market shocks.
-
-### Insights from Case Studies for Future Strategy Adoption
-
-By studying successful trading implementations and outcomes, traders can derive valuable lessons for future expiry day strategies. For instance, it might become apparent that traders who seamlessly combined conventional trading insights with algorithmic models were able to achieve superior results compared to those relying solely on traditional methods.
-
-By integrating the insights gleaned from these case studies, traders can adopt a more balanced and informed approach to expiry day trading. Learning from past successes and failures not only enhances the effectiveness of their strategies but also reinforces the importance of continuous innovation and adaptation to maintain a competitive edge in the dynamic financial markets.
-
-## Risk Management and Considerations
-
-Trading on the last trading day presents distinct challenges, primarily due to heightened volatility. This volatility arises from the convergence of various factors such as contract expirations, adjustments by institutional investors, and a surge in trading volume. These circumstances demand robust risk management techniques to safeguard against potential losses and capitalize on opportunities.
-
-A fundamental risk management tool employed by traders is the stop-loss order. This mechanism involves setting a predefined price level at which a security is automatically sold, limiting potential losses if the market moves unfavorably. For instance, if a trader holds a position in a volatile option contract, a stop-loss order can help mitigate risks by ensuring the position is exited if a certain price threshold is breached.
-
-Dynamic hedging represents another critical strategy used to manage risk during periods of market turbulence. This technique entails continuously adjusting a trader's portfolio to maintain a desired level of risk exposure. By modifying the portfolio's delta, a measure of sensitivity to price changes in the underlying asset, traders can effectively control risk and stabilize returns. Dynamic hedging might involve buying or selling additional contracts or utilizing other derivatives to offset potential losses.
-
-Comprehensive market analysis becomes indispensable in formulating strategies that can withstand volatile market conditions. Traders must analyze historical data, assess market trends, and monitor real-time price movements to make informed decisions. Tools such as technical indicators and statistical models can aid in predicting price movements and identifying optimal entry and exit points. By understanding and anticipating market patterns, traders can develop adaptive strategies that respond effectively to fluctuations.
-
-Balancing risk and reward during periods of market unpredictability requires traders to maintain a disciplined approach. It is crucial to avoid making impulsive decisions driven by emotional reactions to market movements. Instead, traders should rely on well-researched strategies, remain patient, and execute trades grounded in data and analysis. This disciplined approach not only reduces the risk of substantial losses but also increases the likelihood of achieving consistent, profitable outcomes.
-
-To illustrate, consider a trading scenario where an option strategy is implemented with a focus on mitigating risk through dynamic hedging. This can be accomplished using Python to automatically adjust delta exposure based on real-time data:
-
-```python
-import numpy as np
-
-# Sample data: asset prices and volatility
-prices = np.array([...])  # Array of asset prices
-volatility = 0.2          # Assume a volatility value
-
-# Function to calculate delta
-def calculate_delta(prices, volatility):
-    delta = np.gradient(prices) * volatility
-    return delta
-
-# Adjust portfolio based on delta
-delta = calculate_delta(prices, volatility)
-threshold = 0.05
-hedge_positions = -np.sign(delta) * (np.abs(delta) >= threshold)
-
-# Output hedge positions
-print(hedge_positions)
-```
-
-In this example, the code calculates the delta of a trading portfolio and automatically determines the hedge positions needed to manage risk. By implementing such automated systems, traders can efficiently respond to market changes and optimize their last trading day strategies. Implementing these risk management and strategic techniques ensures that traders can navigate the complexities of expiry day trading with greater confidence and control.
-
-## Conclusion
-
-Expiry day trading in financial markets offers a unique blend of opportunities and challenges. This environment is characterized by heightened volatility and liquidity changes, providing a fertile ground for traders to capitalize on price movements. However, it also presents significant risks that necessitate strategic planning and precise execution.
-
-One of the significant advantages on the last trading day is the use of algorithmic trading. Algorithms provide unmatched speed, accuracy, and emotional neutrality, which are crucial for executing trades effectively during periods of high market activity. By employing algorithms, traders can process large volumes of data and execute complex strategies with precision, which is vital for optimizing outcomes on expiry days.
-
-The role of technology in trading has transformed traditional approaches, allowing for better decision-making through enhanced tools and analytics. Traders are encouraged to leverage these advancements along with market insights to refine their strategies continually. The development and backtesting of algorithms ensure that trading plans are robust and adaptive to market conditions.
-
-The importance of refining and adapting trading strategies cannot be overstated. In dynamic markets, where variables are constantly shifting, a static approach can be detrimental. Continuous evaluation and adjustment of strategies to reflect changing market conditions can maximize success and mitigate risks effectively. Thus, the integration of technological advances and market intelligence is essential for sustainable trading success on the last trading day.
+Another example happened in 2020 with options on Tesla stock. On the last trading day of August 2020, Tesla's stock price went up a lot because the company announced it would split its stock. This made many Tesla options that were close to being in-the-money suddenly worth a lot more. Traders who held these options and decided to exercise them made big profits. But, traders who sold these options or let them expire without doing anything lost out on a chance to make money. This shows how big news can change option prices a lot on the last trading day and why traders need to be ready for anything.
 
 ## References & Further Reading
 
