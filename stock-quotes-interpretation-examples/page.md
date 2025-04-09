@@ -3,156 +3,82 @@ title: "Stock Quotes: Interpretation and Examples"
 description: "Discover how financial literacy, stock market investments, and algorithmic trading intersect to help you make informed financial decisions and achieve your goals."
 ---
 
-In an increasingly complex financial landscape, understanding financial literacy, investments, and the dynamics of the stock market are crucial skills. Financial literacy encompasses the knowledge needed to effectively manage one’s financial resources, which is essential for making informed decisions in an ever-evolving market environment. By mastering financial concepts, such as budgeting, saving, and investing, individuals can enhance their ability to manage and grow their wealth over time.
 
-Investing in the stock market offers a platform for acquiring partial ownership in companies through stocks or shares, thereby presenting opportunities for capital growth and generating income. The stock market is dynamic and can be influenced by a myriad of economic factors, making it vital for investors to understand the fundamentals of market analysis, including both fundamental and technical approaches, to make strategic investment choices. This knowledge is instrumental in assessing potential investments and managing associated risks effectively.
-
-![Image](images/1.jpeg)
-
-Algorithmic trading, also known as algo trading, has revolutionized how investors engage with the stock market. Leveraging advanced technology, algorithmic trading uses computer programs to automate and execute trades at speeds and frequencies that are impossible for human traders. These algorithms rely on predetermined criteria such as timing, price, and trading volume to capitalize on even small market inefficiencies. By removing emotional biases, algorithmic trading can enhance trade precision, improve market liquidity, and reduce transaction costs.
-
-This article explores the intersection of financial literacy, stock market investments, and algorithmic trading to equip you with knowledge for better financial decisions. By developing a basic understanding of these elements, individuals can effectively manage their investments, reach their financial goals, and navigate the complexities of the modern financial landscape with confidence. As the financial industry continues to evolve, staying informed about the latest trends and technologies becomes integral to maintaining and enhancing investment strategies.
+![Image](images/1.png)
 
 ## Table of Contents
 
-## Understanding Financial Literacy
+## What is a stock quote and why is it important?
 
-Financial literacy is a crucial competence that empowers individuals to make informed and effective decisions regarding the management of their financial resources. This entails not just basic arithmetic skills but also the ability to understand, interpret, and utilize various financial products and instruments.
+A stock quote is the price of a company's stock at a specific time. It shows how much one share of the company's stock is worth. You can find stock quotes on financial websites, in newspapers, or through stock market apps. The quote usually includes the current price, the highest and lowest prices of the day, and how much the price has changed since the last trading day.
 
-At its core, financial literacy encompasses understanding key financial products such as savings accounts, credit cards, loans, mortgages, and insurance policies. More than product familiarity, it involves the skills needed to budget effectively. Budgeting is the process of creating a plan to spend your money, ensuring you have enough to cover essential expenses and future financial goals. It often involves assessing income, tracking expenditures, and adjusting spending habits to avoid debt and increase savings.
+Stock quotes are important because they help people make decisions about buying or selling stocks. If you see that a stock's price is going up, you might decide to buy it because you think it will keep going up. On the other hand, if the price is going down, you might want to sell it before it goes down even more. Stock quotes give you a quick snapshot of what's happening with a company's stock, which can help you make smarter choices with your money.
 
-Saving and investing are also integral components of financial literacy. While saving involves setting aside money for future needs or emergencies, investing puts that money into financial markets or ventures with the potential for appreciation. Common investment vehicles include stocks, bonds, mutual funds, and real estate. Being financially literate means understanding these options, assessing their risks and benefits, and determining how they align with personal financial goals.
+## How can I read a basic stock quote?
 
-Moreover, financial literacy plays a vital role in making informed decisions within the stock market, where evaluating risks and potential returns is essential. It involves understanding fundamental concepts such as risk tolerance, diversification, and asset allocation. Managing investment risks often requires a fundamental understanding of two main types of analyses: [fundamental analysis](/wiki/fundamental-analysis), which assesses a security's intrinsic value through financial statements and economic indicators, and technical analysis, which evaluates securities through [statistics](/wiki/bayesian-statistics) generated by market activity, such as past prices and [volume](/wiki/volume-trading-strategy).
+When you look at a basic stock quote, you'll see a few important pieces of information. The first thing you'll see is the stock's ticker symbol, which is a short code that represents the company. Next to that, you'll see the current price of the stock, which tells you how much one share costs right now. You'll also see the change in price, which shows how much the stock's price has gone up or down since the last trading day. This change is usually shown in dollars and as a percentage.
 
-In conclusion, financial literacy is vital for maintaining financial well-being throughout one's life. It not only aids in making prudent financial decisions but also shields individuals from the risks associated with financial illiteracy, such as debt accumulation or poor investment outcomes. Building a solid foundation in financial literacy provides a strategic advantage in navigating complex financial landscapes and achieving long-term financial stability.
+Besides the current price and change, a stock quote will also show the day's high and low prices. The high price is the most the stock cost at any point during the day, and the low price is the least it cost. These numbers help you see how much the stock's price moved around during the day. Sometimes, you'll also see the volume, which tells you how many shares of the stock were traded that day. All of this information together gives you a good idea of what's happening with the stock and helps you decide if you want to buy or sell it.
 
-## The Basics of Stock Market Investments
+## What do the terms 'bid' and 'ask' mean in a stock quote?
 
-Investments in the stock market offer a variety of avenues for both individual and institutional investors, primarily through individual stocks, exchange-traded funds (ETFs), and mutual funds. Each of these investment vehicles provides unique benefits and risks, shaping how investors allocate their capital to achieve growth and income.
+In a stock quote, the 'bid' is the highest price someone is willing to pay to buy a stock right now. It's like someone saying, "I'll give you this much money for one share of this company." If you want to sell your stock, you'll get the bid price, because that's what someone is offering to pay.
 
-Individual stocks represent ownership in a specific company. When investors purchase a stock, they effectively buy a small part of that company, entitling them to a proportional share of its profits as dividends and capital appreciation. The potential for substantial returns exists as companies expand and increase value over time. However, investing in individual stocks carries the risk of significant fluctuations, as a company's performance is influenced by various industry-specific and broader economic factors.
+The 'ask', on the other hand, is the lowest price someone is willing to sell a stock for at that moment. It's like someone saying, "I want this much money for one share of this company." If you want to buy the stock, you'll have to pay the ask price, because that's what someone is asking for it. The difference between the bid and the ask is called the 'bid-ask spread', and it's important because it can affect how much you pay or get when you buy or sell a stock.
 
-Exchange-traded funds (ETFs) are investment funds traded on stock exchanges, similar to stocks. They typically hold a diversified portfolio of assets, including stocks, bonds, or commodities, and are designed to track an index like the S&P 500. ETFs offer the advantage of diversification, reducing the risk associated with investing in individual stocks. They also provide [liquidity](/wiki/liquidity-risk-premium) due to their tradable nature, with prices fluctuating throughout the trading day. 
+## How does the stock's volume affect its quote?
 
-Mutual funds are another form of pooled investment vehicle, managed by professional portfolio managers. These funds gather capital from multiple investors to invest in a diversified portfolio of assets, usually with a specific investment objective like growth, value, or income. Unlike ETFs, mutual funds are bought and sold at their net asset value (NAV) at the end of the trading day, limiting their liquidity compared to ETFs. Despite this, they offer investors the benefit of professional management and diversification.
+The volume of a stock is the number of shares that people buy and sell in a day. It's like how busy a store is - if a lot of people are coming in and out, it's a busy day. When a stock has a high volume, it means a lot of people are trading it. This can make the stock's price move around more because there are more buyers and sellers. If the volume is low, it means fewer people are trading the stock, and the price might not change as much.
 
-A comprehensive understanding of fundamental and technical analysis is essential for making informed investment choices in the stock market. Fundamental analysis involves evaluating a company's financial statements, industry position, and economic conditions to assess its intrinsic value. Key metrics include price-to-earnings ratio (P/E), earnings per share (EPS), and return on equity (ROE).
+Volume can tell you a lot about how people feel about a stock. If the volume goes up a lot, it might mean something big is happening with the company, like good news or bad news. Traders watch volume because it can help them guess if the stock's price will keep going up or down. So, even though volume doesn't change the quote directly, it can affect how the stock's price moves and how people decide to buy or sell it.
 
-Technical analysis, on the other hand, focuses on historical price and volume data to predict future price movements. Traders often use chart patterns, moving averages, and indicators like the Relative Strength Index (RSI) to identify entry and [exit](/wiki/exit-strategy) points for trades. Both fundamental and technical analyses play crucial roles in formulating investment strategies, aiding investors in addressing various market conditions. 
+## What is the significance of the 52-week high and low in a stock quote?
 
-By harnessing these analytical approaches, investors can better navigate the complexities of the stock market, maximizing potential returns while mitigating risks.
+The 52-week high and low in a stock quote show the highest and lowest prices the stock reached over the past year. These numbers help you see how much the stock's price has changed over time. If the current price is close to the 52-week high, it means the stock is doing well and might be near its peak value for the year. On the other hand, if the current price is close to the 52-week low, it could mean the stock is not doing as well and might be at its lowest value for the year.
 
-## An Introduction to Algorithmic Trading
+These highs and lows are important because they can help you decide if you want to buy or sell the stock. If a stock is near its 52-week high, you might think it's a good time to sell because the price might not go much higher. If it's near the 52-week low, you might see it as a good time to buy, hoping the price will go up again. But remember, just looking at the 52-week high and low isn't enough to make a decision. You should also think about other things like the company's news and how the whole market is doing.
 
-Algorithmic trading refers to the use of computer programs that automatically execute trades based on a set of predefined criteria. These criteria can include factors such as timing, price, and volume, with the objective of executing trades more efficiently than would be possible manually. Algorithmic trading seeks to capitalize on profitable opportunities that can arise in the financial markets due to inefficiencies or short-lived trends that human traders might overlook.
+## How do stock quotes reflect market sentiment?
 
-One of the primary advantages of [algorithmic trading](/wiki/algorithmic-trading) is its ability to process large amounts of market data swiftly, identifying trading opportunities and executing trades at a speed that surpasses human capabilities. The precision and speed inherent in algorithmic trading systems help in exploiting market conditions that manual trading approaches might not fully leverage. This efficiency is primarily due to the reduction of human emotional biases, which can lead to irrational decision-making.
+Stock quotes can tell us a lot about how people feel about a company and the market. When a stock's price goes up, it usually means that more people want to buy it than sell it. This can happen because people think the company is doing well or they expect good things to happen soon. If the price goes down, it might mean that more people want to sell the stock than buy it. They might think the company is not doing well or they expect bad news. So, by looking at how the stock's price changes, we can see if people are feeling happy or worried about the company.
 
-Algorithmic trading also plays a significant role in enhancing market liquidity. By automating the buying and selling processes, algorithmic trading contributes to smoother market operations and tighter bid-ask spreads. This influx of liquidity can lower transaction costs for all market participants, creating a more cost-effective environment for trading securities.
+But stock quotes don't just show how people feel about one company. They can also show how people feel about the whole market. If lots of stocks are going up, it might mean that people are feeling good about the economy and are ready to invest more money. If lots of stocks are going down, it might mean that people are worried about the economy and want to take their money out. By watching stock quotes, we can get a sense of whether people are feeling hopeful or scared about what's happening in the market.
 
-Overall, algorithmic trading represents a crucial evolution in financial markets, enabling traders to achieve higher efficiency and execute complex strategies with enhanced precision. As technology and data analytics continue to advance, the potential for algorithmic trading to optimize market participation and transaction dynamics will likely grow further.
+## What are some common indicators included in advanced stock quotes?
 
-## Benefits and Risks of Algorithmic Trading
+Advanced stock quotes include more detailed information than basic ones. They often show the stock's moving averages, which are the average prices over different periods like 50 days or 200 days. These help you see if the stock's price is going up or down over time. Another common indicator is the price-to-earnings (P/E) ratio, which tells you how much people are willing to pay for each dollar the company earns. A high P/E ratio might mean people think the company will grow a lot, while a low P/E ratio might mean they think it won't.
 
-Algorithmic trading is primarily defined by its precision, speed, and efficiency in executing trades. These benefits significantly enhance trading capabilities, allowing traders to capitalize on opportunities more effectively than traditional methods. One of the most significant advantages is the facilitation of high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)), where transactions are completed at incredibly high speeds, often within milliseconds. By utilizing algorithms, traders can detect and exploit market inefficiencies faster than any human could.
+You might also see the stock's beta, which shows how much the stock's price moves compared to the whole market. A beta higher than 1 means the stock moves more than the market, and a beta lower than 1 means it moves less. Another useful indicator is the dividend yield, which tells you how much money the company pays out to shareholders as a percentage of the stock's price. If a company has a high dividend yield, it might be a good choice if you want to earn regular income from your investment. All these indicators together give you a fuller picture of how the stock is doing and what might happen next.
 
-Arbitrage, another significant benefit, involves leveraging price differences of the same asset across different markets. Algorithmic trading identifies these disparities instantly, executing trades to profit from these short-lived price variations. This systematic approach to trading allows for the development of complex strategies that can operate continuously, capturing opportunities that manual trading might miss.
+## How can I use moving averages from stock quotes to make trading decisions?
 
-Despite these advantages, algorithmic trading is not without risks. Market [volatility](/wiki/volatility-trading-strategies) poses a substantial challenge. Algorithms can amplify volatility, particularly during periods of market stress, leading to exaggerated price movements which can affect all market participants. Technical failures present another risk. Faulty algorithms, connectivity issues, or software glitches can adversely impact trading operations, potentially leading to significant financial losses. 
+Moving averages can help you make smart choices when you're trading stocks. They show you the average price of a stock over a certain time, like 50 days or 200 days. When you look at these averages, you can see if the stock's price is going up or down over time. If the short-term moving average, like the 50-day one, goes above the long-term moving average, like the 200-day one, it might mean the stock is starting to do better. People call this a "golden cross," and it can be a good time to buy the stock. On the other hand, if the short-term average goes below the long-term average, it's called a "death cross," and it might be a good time to sell.
 
-Furthermore, regulatory challenges persist. The landscape for algorithmic trading is continuously evolving, and traders must ensure compliance with regulations that may vary across different jurisdictions. Adhering to these rules is crucial to avoid legal repercussions and maintain market integrity.
+You can also use moving averages to find good times to buy or sell by watching how the stock's price moves around them. If the stock's price stays above its moving average, it might be a good sign that the stock is strong and you should keep it or buy more. But if the price keeps falling below the moving average, it could mean the stock is getting weaker, and you might want to sell it. By keeping an eye on these moving averages, you can make better decisions about when to buy or sell your stocks, based on how the stock is doing over time.
 
-While algorithmic trading offers numerous benefits through its precision and speed, the associated risks necessitate thorough understanding and careful management to safeguard investments.
+## What is the difference between real-time and delayed stock quotes?
 
-## Developing a Strategy for Algorithmic Trading
+Real-time stock quotes show the price of a stock right now, as soon as it changes. They are very useful if you want to make quick decisions about buying or selling stocks. When you see a real-time quote, you know exactly what the stock is worth at that moment. This can help you trade more accurately because you're working with the most up-to-date information. Many trading platforms and financial websites offer real-time quotes, but sometimes you have to pay for them.
 
-Successful algorithmic trading is contingent upon a meticulously crafted strategy that integrates comprehensive market analysis and robust risk management. At its core, algorithmic trading relies on systematic approaches to identify and exploit patterns or inefficiencies in the market.
+Delayed stock quotes, on the other hand, show the price of a stock with a delay, usually around 15 to 20 minutes after the price has changed. These quotes are free and easy to find on many websites and apps. They're good if you're just looking at the stock market for fun or if you don't need to make quick decisions. But if you're trading and need to know the exact price right now, delayed quotes can be a problem because the price might have changed a lot in those 15 to 20 minutes.
 
-One prevalent strategy is trend-following. This approach capitalizes on market movements, with the assumption that current trends are likely to persist. Traders employ algorithms to detect these trends and execute trades accordingly. For instance, a trend-following strategy may involve moving averages. An algorithm could be programmed to buy when a shorter-term moving average crosses above a longer-term moving average (a golden cross) and sell under the opposite conditions (a death cross).
+## How do stock quotes from different exchanges vary, and why does this matter?
 
-Another widely utilized strategy is [arbitrage](/wiki/arbitrage). Arbitrage opportunities arise when a security is priced differently in separate markets or forms. Algorithms swiftly identify and exploit these price discrepancies by simultaneously buying and selling across different platforms, pocketing the differential. Speed is essential here, as these opportunities can vanish almost instantaneously.
+Stock quotes can be different depending on which stock exchange they come from. Each exchange, like the New York Stock Exchange (NYSE) or the NASDAQ, has its own set of buyers and sellers. This means the price of a stock might be a little different on one exchange compared to another because of the people trading on it. For example, if more people want to buy a stock on the NYSE than on the NASDAQ, the price on the NYSE might be higher. This difference is called a "price discrepancy."
 
-Market-making algorithms are designed to provide liquidity by placing simultaneous buy and sell orders on a financial instrument. By capturing the spread between bid and ask prices, market makers can generate profit. The algorithms continuously update these orders in response to market movements, ensuring the trader remains competitive.
+These differences matter because they can affect your trading decisions. If you're trying to buy a stock, you want to get the best price you can. So, you might look at quotes from different exchanges to find the lowest price. If you're selling, you'd want to find the exchange with the highest price. Also, if you're trading a lot of stocks quickly, knowing where to find the best prices can save you money and help you make more profit. So, it's important to check stock quotes from different exchanges to make the smartest choices with your money.
 
-Validating and refining these strategies is crucial, necessitating a robust [backtesting](/wiki/backtesting) process. Backtesting involves simulating the trading strategy on historical market data to evaluate its performance. It involves assessing metrics like profitability, risk-adjusted returns, and drawdowns. Implementing backtesting can be efficiently performed using Python, leveraging libraries such as `pandas` for data manipulation and `QuantConnect` for algorithm development. Here's a simple Python example illustrating the concept:
+## Can you explain how to interpret stock quotes in the context of options trading?
 
-```python
-import pandas as pd
-import numpy as np
+When you're looking at stock quotes for options trading, you need to pay attention to more than just the stock's price. Options are contracts that give you the right to buy or sell a stock at a certain price before a certain date. So, when you see a stock quote, you'll also see information about the options, like the strike price and the expiration date. The strike price is what you can buy or sell the stock for if you use the option, and the expiration date is when the option stops working. You'll also see the option's premium, which is how much it costs to buy the option. If the stock's price is higher than the strike price, the option might be worth more because you can buy the stock for less than it's selling for.
 
-# Generate random price data
-np.random.seed(0)
-price_data = pd.Series(np.random.normal(0, 1, 100).cumsum() + 100)
+Understanding stock quotes in options trading also means looking at things like the bid and ask prices for the options themselves. The bid price is what someone is willing to pay for the option, and the ask price is what someone wants to sell it for. The difference between these two prices is called the bid-ask spread, and it's important because it can affect how much you pay or get when you trade options. Also, the stock's volatility, or how much its price moves around, can change how much the option is worth. If the stock's price is moving a lot, the option might be more valuable because there's a bigger chance it will end up being worth using. By keeping an eye on all these parts of the stock quote, you can make better choices about when to buy or sell options.
 
-# Calculate moving averages
-short_mavg = price_data.rolling(window=5).mean()
-long_mavg = price_data.rolling(window=20).mean()
+## What advanced techniques can I use to analyze stock quotes for algorithmic trading?
 
-# Define signals
-signals = pd.DataFrame(index=price_data.index)
-signals['signal'] = 0
-signals['signal'][5:] = np.where(short_mavg[5:] > long_mavg[5:], 1, 0)
-signals['positions'] = signals['signal'].diff()
+When you're using stock quotes for algorithmic trading, one advanced technique is to use technical indicators like the Relative Strength Index (RSI) and the Moving Average Convergence Divergence (MACD). The RSI helps you see if a stock is overbought or oversold, which means it might be time to sell or buy. The MACD shows you the relationship between two moving averages of a stock's price, helping you spot trends and predict if the price will go up or down. By putting these indicators into your trading algorithm, you can make better choices about when to trade.
 
-# Backtest strategy
-returns = price_data.pct_change()
-strategy_returns = signals['positions'].shift(1) * returns
-cumulative_returns = (1 + strategy_returns).cumprod()
-
-print("Cumulative Returns:", cumulative_returns[-1])
-```
-
-This example demonstrates the backtesting of a simple moving average crossover strategy. Such iterative refinement processes ensure algorithms remain robust under different market conditions and can adapt to varying market environments.
-
-## The Role of Technology in Algo Trading
-
-Advanced technology and software platforms are fundamental for executing algorithmic trading strategies. These technologies enable traders and developers to efficiently analyze data, execute trades, and optimize their strategies. 
-
-A critical component of algorithmic trading is access to real-time data. Traders rely on high-speed internet connections and sophisticated data feeds to receive the latest market information, enabling rapid decision-making. These data streams provide live updates on stock prices, market trends, and other relevant metrics, forming the basis for algorithms that execute trades automatically when certain conditions are met.
-
-Analytics tools are equally important. These platforms process and analyze vast amounts of data to identify patterns and trends that can inform trading decisions. For example, they may use historical price data to predict future movements based on statistical models or [machine learning](/wiki/machine-learning) algorithms. Software like MATLAB, R, and Python, with libraries such as NumPy, pandas, and scikit-learn, are commonly used in the analysis and development of trading algorithms.
-
-Efficient execution platforms are essential for placing trades at optimal times and prices. These platforms, often provided by brokerage firms, offer low-latency connections to financial markets, ensuring that orders are executed promptly. The speed and accuracy of trade execution can significantly impact the profitability of algorithmic trading strategies, especially in high-frequency trading where transactions occur in fractions of a second.
-
-Developers use programming languages such as Python, Java, and C++ to create and manage trading algorithms. Python is particularly popular due to its simplicity and the extensive range of libraries available for data analysis and machine learning. A basic Python script for a simple moving average crossover strategy might look like this:
-
-```python
-import pandas as pd
-
-# Load market data
-data = pd.read_csv('market_data.csv')
-
-# Calculate moving averages
-data['SMA50'] = data['Close'].rolling(window=50).mean()
-data['SMA200'] = data['Close'].rolling(window=200).mean()
-
-# Generate buy/sell signals
-data['Signal'] = 0
-data.loc[data['SMA50'] > data['SMA200'], 'Signal'] = 1
-data.loc[data['SMA50'] < data['SMA200'], 'Signal'] = -1
-
-# Execute trades based on signals
-for index, row in data.iterrows():
-    if row['Signal'] == 1:
-        print(f"Buy signal on {row['Date']}")
-    elif row['Signal'] == -1:
-        print(f"Sell signal on {row['Date']}")
-```
-
-In addition to designing trading strategies, developers must implement robust risk management systems to protect against potential losses. This includes setting stop-loss orders, diversifying investments, and continuously monitoring system performance to mitigate risks associated with technology failures or unexpected market events.
-
-As technology continues to evolve, advancements in machine learning, [artificial intelligence](/wiki/ai-artificial-intelligence), and quantum computing are expected to further transform the landscape of algorithmic trading, providing new tools and methodologies for improving trading outcomes. Staying informed about these developments is crucial for those involved in algorithmic trading.
-
-## Conclusion
-
-Financial literacy, stock market investments, and algorithmic trading form the backbone of contemporary financial management. These areas are not isolated; rather, they interact and complement each other, providing a more integrated approach to financial decision-making. Understanding financial literacy equips individuals with the ability to manage resources, make informed choices, and evaluate financial information critically. This foundation is essential for engaging with stock market investments where risk management and strategic planning are pivotal.
-
-Stock market investments offer opportunities for growth and income generation through various instruments like stocks, exchange-traded funds (ETFs), and mutual funds. The ability to analyze financial markets and apply rigorous methods like fundamental and technical analysis is vital for effective investing. Algorithmic trading enhances this process by harnessing technology to execute trades with precision and speed, reducing the likelihood of human error and emotional biases.
-
-As technology continues to advance, it reshapes how financial markets operate. Algorithmic trading strategies have evolved from simple rule-based systems to complex algorithms driven by artificial intelligence and machine learning. This evolution demands continuous learning and adaptation to new tools and technologies, reinforcing the importance of staying informed.
-
-The synergy between financial literacy, stock market knowledge, and algorithmic trading enhances investor prowess, enabling them to capitalize on market opportunities more effectively. In a world where financial markets are dynamic and continuously changing, remaining updated with the latest trends, tools, and strategies is not just advantageous but essential for achieving sustained financial success.
+Another technique is to use machine learning to look at lots of stock quotes and find patterns that are hard for people to see. You can train a computer to look at past stock prices and other information, like news and company reports, to guess what will happen next. This can help you make trades that are more likely to make money. Using machine learning with stock quotes can give you an edge in the fast-moving world of algorithmic trading, where every little bit of information counts.
 
 ## References & Further Reading
 

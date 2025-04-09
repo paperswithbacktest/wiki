@@ -3,167 +3,84 @@ title: "SEC Form 20FR12B"
 description: "SEC Form 20FR12B is essential for foreign firms entering US markets with algorithmic trading ensuring compliance with SEC regulations and fostering transparency."
 ---
 
-Algorithmic trading has become an integral part of modern financial markets, leveraging computer algorithms to automate trading strategies and execute orders at speeds and frequencies that are impossible for human traders. This method typically relies on complex algorithms to analyze market data and execute trades based on pre-set criteria. The significance of algorithmic trading lies in its ability to enhance market efficiency, reduce transaction costs, and provide liquidity, making it a cornerstone in today's financial ecosystem.
-
-The Securities and Exchange Commission (SEC), an independent federal agency, plays a crucial role in regulating financial markets in the United States. Its primary mission is to protect investors, maintain fair, orderly, and efficient markets, and facilitate capital formation. In this context, the SEC establishes rules and regulations to ensure the integrity and transparency of U.S. financial markets, a responsibility that extends to entities engaging in algorithmic trading.
 
 ![Image](images/1.png)
 
-SEC Form 20FR12B is an important regulatory filing for foreign companies intending to participate in the U.S. markets. This form is specifically designed for foreign private issuers to register securities with the SEC, thereby granting them access to the U.S. financial markets. In relation to algorithmic trading, SEC Form 20FR12B is particularly relevant for foreign companies seeking to employ algorithmic trading strategies within the United States. This form ensures that these companies comply with U.S. securities regulations, thereby promoting transparency and investor protection.
-
-By complying with Form 20FR12B, foreign entities can assure U.S. regulators and investors of their adherence to American financial standards. This compliance not only facilitates their participation in the U.S. markets but also sets a foundation for building trust in their automated trading operations. As algorithmic trading continues to grow and evolve, understanding and fulfilling these regulatory requirements remain crucial for foreign companies aiming to leverage the U.S. market efficiently.
-
 ## Table of Contents
 
-## Understanding SEC Form 20FR12B
+## What is SEC Form 20FR12B?
 
-SEC Form 20FR12B is a regulatory filing required by the U.S. Securities and Exchange Commission (SEC) from foreign companies looking to list their securities in the United States. The primary purpose of this form is to provide the SEC and potential investors with relevant information about the foreign company. This allows for informed decision-making and ensures that the company complies with the regulatory standards set by the SEC for foreign issuers.
+SEC Form 20FR12B is a form that foreign companies use when they want to register their securities in the United States. It's like a special application that these companies fill out to let the U.S. Securities and Exchange Commission (SEC) know about their stocks or bonds. This form is important because it helps the SEC keep track of foreign companies that want to sell their securities to people in the U.S.
 
-The form requires a comprehensive range of information. Firstly, companies must provide detailed investor relations contacts, which serve as the primary points of communication for investors seeking information about the company's operations and financial health. This includes the names, addresses, and contact details of individuals or departments responsible for handling investor inquiries. Furthermore, companies are required to submit a thorough description of their business operations, including details about their industry sector, business model, competitors, and market position. This section offers investors a clear understanding of the company's activities and strategic direction.
+The form includes a lot of detailed information about the company, like its financial health, how it's managed, and what risks are involved in investing in it. By filling out this form, the company shows that it's willing to follow U.S. rules and be transparent with investors. This helps investors make better decisions about whether to buy the company's securities.
 
-Additionally, the form mandates the disclosure of financial statements, which need to adhere to U.S. Generally Accepted Accounting Principles (GAAP) or International Financial Reporting Standards (IFRS). These statements provide insights into the company’s financial status, performance, and cash flow, ensuring transparency and enabling investors and regulators to assess the company's economic viability.
+## Who needs to file SEC Form 20FR12B?
 
-Compared to other SEC filings required of foreign issuers, such as Form 20-F and Form 6-K, SEC Form 20FR12B is notably comprehensive. While Form 20-F is an annual report detailing foreign companies' operations and financial conditions as per SEC standards, Form 20FR12B goes further by also considering initial registration and listing requirements, which include more extensive disclosures regarding investor relations and business operations. Similarly, Form 6-K is used for periodic updates, such as press releases or earnings reports, whereas Form 20FR12B encompasses an initial, in-depth audit of the company's readiness to participate in U.S. markets.
+Foreign companies that want to sell their stocks or bonds in the United States need to file SEC Form 20FR12B. This form is their way of telling the U.S. Securities and Exchange Commission (SEC) that they want to register their securities. It's like an application that lets them legally offer their securities to people in the U.S.
 
-The comprehensiveness of SEC Form 20FR12B ensures that foreign entities meet the stringent regulatory requirements needed to engage with the U.S. financial markets, fostering a level of transparency that protects investors and maintains market integrity.
+The form is important because it helps the SEC keep an eye on foreign companies that want to do business in the U.S. By filling out this form, these companies agree to follow U.S. rules and be open about their financial situation. This helps investors feel more confident about buying the company's securities because they can see all the important details.
 
-## Importance of SEC Form 20FR12B in Algo Trading
+## What is the purpose of filing SEC Form 20FR12B?
 
-Algorithmic trading, a method that uses complex algorithms and high-speed data processing to execute trading strategies, heavily depends on regulatory compliance to maintain trust and efficiency in financial markets. Compliance ensures that all traders operate on an even playing field and minimizes the risks of market manipulation and fraud. In this context, SEC Form 20FR12B serves as a critical element in the regulatory framework for foreign companies participating in U.S. financial markets, particularly those involved in [algorithmic trading](/wiki/algorithmic-trading).
+The main reason a foreign company files SEC Form 20FR12B is to register their stocks or bonds in the United States. This form acts like a special application that tells the U.S. Securities and Exchange Commission (SEC) that the company wants to sell their securities to people in the U.S. It's important because it helps the SEC keep track of foreign companies that want to do business in the U.S.
 
-SEC Form 20FR12B plays a pivotal role in ensuring transparency and protecting investors. This form requires a comprehensive disclosure of a company's operations, financial health, and governance structures. By providing detailed information about foreign companies, the form helps maintain investor confidence by reducing information asymmetry. Enhanced transparency through rigorous reporting standards is particularly important in algorithmic trading, where the opaqueness of algorithms could potentially obscure unfair practices or financial health.
+By filling out this form, the company agrees to follow U.S. rules and be open about their financial situation. This helps investors feel more confident about buying the company's securities because they can see all the important details. The form includes information about the company's financial health, how it's managed, and what risks are involved in investing in it. This transparency helps investors make better decisions.
 
-Furthermore, compliance with SEC Form 20FR12B aids foreign companies in accessing the U.S. financial markets for algorithmic trading. By adhering to the regulatory requirements outlined in the form, foreign entities demonstrate their commitment to U.S. market integrity standards. This commitment facilitates smoother integration into U.S. markets, allowing foreign companies to leverage algorithmic trading's high-speed execution capabilities and vast [liquidity](/wiki/liquidity-risk-premium) opportunities.
+## How does SEC Form 20FR12B differ from other SEC forms?
 
-Ultimately, by fulfilling the requirements of SEC Form 20FR12B, foreign companies not only comply with regulatory standards but also contribute to the overall stability and trustworthiness of the financial markets. This compliance is crucial for maintaining robust market operations and mitigates the risks associated with high-frequency trading and other advanced trading strategies commonly employed in algorithmic trading.
+SEC Form 20FR12B is specifically for foreign companies that want to register their securities in the United States. It's like an application that these companies fill out to let the U.S. Securities and Exchange Commission (SEC) know about their stocks or bonds. This form is different from other SEC forms because it's made just for foreign companies, helping the SEC keep track of them when they want to sell their securities to people in the U.S.
 
-## Process of Filing SEC Form 20FR12B
+Other SEC forms might be used by U.S. companies or for different purposes, like reporting financial results or making disclosures. For example, Form 10-K is for U.S. companies to provide a detailed annual report, while Form 8-K is used to report significant events. Unlike these forms, Form 20FR12B focuses on getting foreign companies registered to sell their securities in the U.S., making sure they follow U.S. rules and are transparent about their financial situation.
 
-Filing SEC Form 20FR12B is a critical process for foreign companies seeking to register securities with the U.S. Securities and Exchange Commission (SEC). This form acts as a gateway to accessing the U.S. financial markets, particularly for firms involved in algorithmic trading. The process requires meticulous preparation and compliance with regulatory standards. Below, we outline the steps and requirements for filing SEC Form 20FR12B, with emphasis on the necessary documentation and the role of legal and financial advisors.
+## What information is required in SEC Form 20FR12B?
 
-### Steps to File SEC Form 20FR12B
+SEC Form 20FR12B asks foreign companies to provide a lot of information when they want to register their securities in the United States. This includes basic details about the company like its name, where it's located, and what kind of business it does. The form also requires information about the securities they want to sell, like stocks or bonds, and how many they plan to offer. This helps the U.S. Securities and Exchange Commission (SEC) understand what the company is all about and what it's trying to sell.
 
-1. **Initial Preparation and Assessment**:
-   - Initially, the foreign company must assess whether it qualifies as a foreign private issuer under the SEC regulations. This typically involves determining whether more than half of the company's outstanding voting securities are held by U.S. residents.
-   - Companies must also ensure that they have the necessary infrastructure and expertise to comply with ongoing SEC reporting obligations once registered.
+The form also needs detailed financial information from the company. This includes things like their financial statements, which show how much money they make and spend, and any debts they have. The company also has to talk about how it's managed, who the key people are, and any risks that investors should know about. By sharing all this information, the company helps investors make smart choices about whether to buy their securities.
 
-2. **Gathering Documentation and Information**:
-   - The firm must compile detailed reports and disclosures, including a complete description of the company's business, management structure, financial statements, and risk factors. 
-   - Financial statements should be prepared in accordance with the International Financial Reporting Standards (IFRS) or U.S. Generally Accepted Accounting Principles (GAAP), ensuring accuracy and transparency.
-   - A comprehensive description of the securities to be offered and the terms and conditions affecting them must be included.
+## When is the deadline for filing SEC Form 20FR12B?
 
-3. **Investor Relations and Contact Information**:
-   - Companies need to provide detailed investor relations contact information. This includes the names and addresses of agents designated for service of process in the United States.
-   - The form requires the disclosure of the company’s principal executive office location outside the United States as well as other administrative information.
+There isn't a specific deadline for filing SEC Form 20FR12B. Foreign companies can file this form whenever they want to register their securities in the United States. It's like an application that they fill out to let the U.S. Securities and Exchange Commission (SEC) know about their stocks or bonds.
 
-4. **Disclosure of Legal and Regulatory Matters**:
-   - Detailed disclosures regarding legal proceedings, regulatory matters, and the company’s compliance with relevant laws in its home jurisdiction are necessary.
-   - The company must inform the SEC of any recent events that are significantly affecting the issuer, providing context and potential implications for investors.
+The important thing is that the company needs to file the form before they start selling their securities to people in the U.S. This helps the SEC keep track of foreign companies and make sure they follow U.S. rules. By filing the form on time, the company can legally offer their securities to investors in the U.S.
 
-5. **Submission and Review Process**:
-   - Once the documentation is completed, it needs to be submitted electronically through the SEC’s Electronic Data Gathering, Analysis, and Retrieval (EDGAR) system. 
-   - After submission, the SEC reviews the documentation to ensure compliance with U.S. regulations. This may result in requests for further information or modifications to the submitted form.
+## What are the consequences of not filing SEC Form 20FR12B on time?
 
-### Role of Legal and Financial Advisors
+If a foreign company doesn't file SEC Form 20FR12B before they start selling their securities in the U.S., they could face some serious problems. The U.S. Securities and Exchange Commission (SEC) might not let them sell their stocks or bonds to people in the U.S. This means the company could lose out on a big market and miss out on making money from U.S. investors.
 
-Navigating the complexities of SEC Form 20FR12B typically necessitates the involvement of experienced legal and financial advisors. Legal advisors are instrumental in ensuring that all regulatory requirements are met and that the company’s disclosures are accurate and complete. They also assist in interpreting any SEC feedback or requests for additional information.
+Also, if the company goes ahead and sells their securities without filing the form, they could get in trouble with the SEC. The SEC might fine them or take other actions against them. This could hurt the company's reputation and make it harder for them to do business in the future. So, it's really important for foreign companies to file SEC Form 20FR12B before they start selling their securities in the U.S.
 
-Financial advisors play a crucial role in preparing the financial statements and ensuring that they align with U.S. standards. They also aid in the financial aspects of risk disclosure and help strategize compliance with ongoing reporting obligations.
+## How can a company prepare for filing SEC Form 20FR12B?
 
-In summary, while the filing of SEC Form 20FR12B demands careful attention to detail and rigorous compliance with U.S. regulations, the process is significantly streamlined with the help of proficient legal and financial advisors. This collaboration ensures that foreign companies are not only compliant but also well-positioned to successfully enter the U.S. financial markets.
+To prepare for filing SEC Form 20FR12B, a foreign company needs to gather all the important information about their business. This includes details like the company's name, where it's located, and what kind of business it does. They also need to know about the securities they want to sell, like stocks or bonds, and how many they plan to offer. It's a good idea to have all the financial statements ready, showing how much money the company makes and spends, and any debts it has. The company should also prepare information about how it's managed, who the key people are, and any risks that investors should know about.
 
-## Comparison with Other Related SEC Forms
+Once all the information is collected, the company should work with lawyers and accountants who know about U.S. securities laws. These experts can help make sure all the information is correct and that the form is filled out properly. They can also help the company understand the rules they need to follow. By getting everything ready and working with professionals, the company can file SEC Form 20FR12B smoothly and start selling their securities to people in the U.S.
 
-SEC Form 20FR12B is an important regulatory filing for foreign companies looking to engage in activities within the United States' financial markets. However, it is not the only form that such companies must consider. In comparison, forms like SEC Form 20-F and Form 6-K also play crucial roles in maintaining compliance within the U.S. securities regulations.
+## What are the common challenges faced when filing SEC Form 20FR12B?
 
-### SEC Form 20-F
+Filing SEC Form 20FR12B can be tricky for foreign companies because it requires a lot of detailed information about their business. They need to gather everything from financial statements to information about the securities they want to sell. This can be hard because they have to make sure all the numbers and details are correct. Plus, they need to explain any risks that investors should know about, which can be complicated.
 
-SEC Form 20-F is a major reporting requirement for foreign companies, particularly for those listing their securities on U.S. exchanges. It requires comprehensive annual reporting similar to the Form 10-K used by domestic companies. The form includes financial statements, a company overview, risk factors, management's discussion and analysis (MD&A), and other vital disclosures. 
+Another challenge is understanding and following U.S. securities laws. These laws can be different from what the company is used to in their home country. The company might need help from lawyers and accountants who know about U.S. rules. These experts can make sure the form is filled out right and that the company follows all the rules. Without this help, the company might make mistakes that could cause problems with the SEC.
 
-The ongoing requirement for compliance necessitates that foreign private issuers file this form annually, with deadlines typically six months after the end of the company's fiscal year. This annual filing ensures that investors have access to the most current and complete information about the company’s financial status, corporate governance, and management changes. 
+Sometimes, the language barrier can also make things difficult. The form needs to be filled out in English, and any mistakes or misunderstandings can lead to issues. It's important for the company to double-check everything and maybe even get a translation if needed. By being careful and getting the right help, a company can overcome these challenges and successfully file SEC Form 20FR12B.
 
-### SEC Form 6-K
+## Can amendments be made to SEC Form 20FR12B after it has been filed?
 
-SEC Form 6-K is a more frequent reporting requirement that foreign private issuers must file to report any material information that the company makes available to investors in its home country. These may include press releases, financial statements, or other communications reflecting material developments. Unlike Form 20-F, which is annual, Form 6-K is filed as needed, whenever significant events occur. 
+Yes, a company can make changes to SEC Form 20FR12B after it has been filed. If something in the form is wrong or if the company's situation changes, they can file an amendment. This is like updating the information to make sure it's still correct and helpful for investors. The company just needs to let the SEC know about the changes by filing a new form that shows what's different.
 
-This form ensures ongoing transparency and up-to-date communication with investors, reflecting any substantial changes or announcements that could impact investor decisions. 
+It's important for companies to keep their information up to date. If they don't fix mistakes or update changes, it could cause problems with the SEC or confuse investors. By filing amendments when needed, the company can stay in good standing and make sure everyone has the right information about their securities.
 
-### Collective Role in Algo Trading
+## How does the SEC review and process SEC Form 20FR12B?
 
-Together, SEC Forms 20-F, 20FR12B, and 6-K establish a comprehensive regulatory framework crucial for algorithmic trading, where timely, accurate, and transparent information is essential for market efficiency and investor trust. The forms ensure that foreign entities are not only compliant from a legal standpoint but are also providing adequate disclosure to foster fair trading practices. 
+When a foreign company files SEC Form 20FR12B, the U.S. Securities and Exchange Commission (SEC) starts by looking over all the information the company sent in. They check to make sure everything is correct and follows the rules. The SEC might ask the company questions if they need more information or if something doesn't seem right. This back-and-forth can take some time because the SEC wants to make sure everything is clear and accurate before they approve the form.
 
-For foreign companies, understanding and adhering to these reporting requirements is crucial to maintain their standing and credibility on U.S. markets. This is particularly important in algorithmic trading, where strategies can be sensitive to information asymmetries and where compliance lapses can lead to significant legal and financial repercussions.
+Once the SEC is happy with all the information, they will approve the form. This means the foreign company can now legally sell their securities, like stocks or bonds, to people in the U.S. The whole process can take a while, so it's important for the company to be patient and work closely with the SEC to get everything right.
 
-In summary, these forms collectively require foreign companies to maintain transparency and provide timely disclosures, enhancing the overall confidence in U.S. financial markets. Proper compliance aids in the seamless and ethical execution of algorithmic trading strategies by ensuring that all market participants have equal access to vital information.
+## What are the recent changes or updates to the requirements of SEC Form 20FR12B?
 
-## Challenges and Considerations
+The SEC often updates its rules and forms to keep up with changes in the market and to make things clearer for everyone. For SEC Form 20FR12B, there haven't been any big changes recently, but it's always a good idea to check the SEC's website for the latest information. The SEC might add new rules or ask for different kinds of information to help investors make better choices about foreign companies that want to sell their securities in the U.S.
 
-Foreign companies seeking to file SEC Form 20FR12B encounter a range of challenges primarily due to the complexity of U.S. regulatory requirements. A key challenge is understanding the specific disclosures mandated by the form, which can be substantially different from domestic reporting standards in a company's home country. This complexity is compounded by the high level of detail required, including comprehensive financial disclosures, corporate governance information, and investor relations contacts.
-
-A common pitfall in filing Form 20FR12B is inadequate preparation or incomplete submission of documentation. Companies may submit forms with missing or incorrect information, leading to delays or even rejections by the SEC. To avoid such pitfalls, foreign entities should conduct thorough due diligence and ensure that all required documents are accurate and complete before submission. Engaging experienced legal and financial advisors familiar with SEC regulations can also provide critical guidance, reducing the likelihood of errors during the filing process.
-
-Another significant challenge is the ongoing need to comply with U.S. financial regulations even after the initial filing. The U.S. regulatory landscape is dynamic, and foreign companies must remain updated on changes that could affect their reporting obligations and business strategies, particularly in the context of algorithmic trading. Understanding these regulations is crucial as non-compliance can result in penalties or the loss of access to U.S. capital markets, which are significantly impactful on algorithmic trading operations that depend on market access and liquidity.
-
-The impact of U.S. regulations on algorithmic trading strategies should not be underestimated. Regulatory requirements can influence the design and execution of trading algorithms, especially in risk management and compliance checks. For instance, algorithms may need to be adjusted to account for regulatory constraints on trading volumes or to ensure adherence to market manipulation rules. Failure to integrate these regulatory considerations into algorithmic strategies can lead to significant financial and reputational risks.
-
-In summary, while filing SEC Form 20FR12B poses challenges for foreign companies, these can be mitigated through careful preparation, adherence to detailed regulatory guidance, and leveraging expert advisors. Understanding the broader regulatory environment is essential, not only to ensure compliance but also to optimize algorithmic trading strategies within the U.S. financial markets.
-
-## Conclusion
-
-SEC Form 20FR12B holds significant importance in algorithmic trading, particularly for foreign companies intending to engage with U.S. financial markets. The form is pivotal in ensuring compliance with SEC regulations, thereby fostering a transparent and secure trading environment. By mandating comprehensive disclosures about a company’s operations, financials, and governance practices, SEC Form 20FR12B acts as a safeguard for U.S. investors, enhancing their ability to make informed decisions.
-
-The transparency promoted by SEC Form 20FR12B is critical in maintaining the integrity of financial markets, especially with the heightened pace and complexity introduced by algorithmic trading. It requires foreign companies to provide detailed information, thus reducing asymmetries and potential information gaps that could disadvantage investors. In this way, it supports the SEC’s broader mandate of protecting investors from fraudulent activities and malpractices.
-
-Compliance with SEC Form 20FR12B is not merely a procedural formality but a strategic necessity for foreign entities. It serves as an entry ticket to one of the largest and most liquid financial markets globally, allowing foreign companies to leverage the advantages of algorithmic trading in the U.S. By adhering to the requirements of this form, foreign companies affirm their commitment to regulatory norms, which can bolster their reputation among U.S. investors and potentially enhance their market valuation and access to capital.
-
-In summary, SEC Form 20FR12B is indispensable in the context of algorithmic trading, catering to the dual objectives of investor protection and market transparency. For foreign companies, it underscores the essentiality of regulatory compliance, presenting a conduit to unlock the opportunities available within the U.S. financial markets while adhering to the highest standards of corporate governance and disclosure.
-
-## Additional Resources
-
-For those interested in expanding their knowledge of algorithmic trading and the regulatory landscape established by the U.S. Securities and Exchange Commission (SEC), a range of resources is available to explore these subjects in depth.
-
-### Algorithmic Trading
-1. **Books and Publications**:
-   - *"Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies"* by Barry Johnson provides a comprehensive introduction to the world of algorithmic trading with insights into strategies and market dynamics.
-   - *"Quantitative Trading: How to Build Your Own Algorithmic Trading Business"* by Ernest P. Chan offers practical advice on setting up an algorithmic trading venture with an emphasis on quantitative techniques.
-
-2. **Online Courses**:
-   - Coursera and edX offer courses such as "Algorithmic Trading Strategies" and "Quantitative Foundations for International and Corporate Finance," which cover the basics and advanced concepts of algorithmic trading.
-
-3. **Research Articles**:
-   - Websites like SSRN (Social Science Research Network) provide access to numerous research papers focusing on the latest advancements and techniques in algorithmic trading.
-
-### SEC Regulatory Requirements
-1. **Official SEC Resources**:
-   - The SEC’s official website hosts a comprehensive repository of regulatory documents, guidelines, and forms, including detailed instructions on filings like the SEC Form 20FR12B. Visit [sec.gov](https://www.sec.gov) for up-to-date information.
-
-2. **Educational Guides**:
-   - Investopedia offers a range of articles explaining the intricacies of SEC regulatory requirements and specific forms that foreign companies must submit, like Form 20-F and Form 6-K.
-
-3. **Workshops and Webinars**:
-   - The SEC often conducts webinars and workshops discussing various compliance and regulatory topics pertinent to both domestic and international market participants.
-
-### Resources for Foreign Companies
-1. **Consultancy and Legal Services**:
-   - Companies like PwC, Ernst & Young, and Deloitte offer consulting services to help foreign companies navigate U.S. financial regulations. These firms provide guidance on statutory requirements and the filing process.
-
-2. **Professional Associations**:
-   - Organizations such as the American Bar Association and the International Swaps and Derivatives Association (ISDA) provide resources, guidelines, and networking opportunities for professionals involved in cross-border financial transactions.
-
-3. **Online Platforms**:
-   - Websites like RegulatoryCompliance.com offer insights, tools, and resources that address the specific regulatory compliance needs of international firms.
-
-### Professional Assistance in SEC Filing Process
-1. **Legal Advisors**:
-   - Law firms specializing in financial securities, such as Skadden, Arps, Slate, Meagher & Flom, provide expert legal services to assist with SEC filings and navigating regulatory complexities.
-
-2. **Financial Advisors**:
-   - Financial advisory firms, including KPMG and BDO, offer services to ensure accurate financial reporting and compliance with SEC requirements.
-
-3. **Software Solutions**:
-   - Platforms like Workiva offer cloud-based solutions that streamline the SEC filing process by providing tools for documentation, collaboration, and submission of required forms and disclosures.
-
-By leveraging these resources, foreign companies and individuals interested in algorithmic trading can better understand the U.S. financial landscape and ensure compliance with relevant regulations.
+Even though there haven't been major updates, the SEC still expects foreign companies to be very clear and honest when they fill out the form. They want to make sure that investors have all the right information about the company's financial health, how it's managed, and any risks involved. By keeping the form up to date and following the rules, foreign companies can show that they are serious about doing business in the U.S. and help investors feel more confident about buying their securities.
 
 ## References & Further Reading
 
