@@ -3,173 +3,84 @@ title: "Trading Techniques for Broken Trendlines"
 description: "Explore effective trading techniques for broken trendlines in algo trading. Enhance decision-making and capitalize on market shifts with algorithmic precision."
 ---
 
-Trading strategies are crucial tools that individuals and institutions use to navigate the financial market effectively. These strategies encompass a broad range of methods and techniques designed to optimize decision-making and maximize profitability. They can vary from simple buying and selling decisions based on price movements to complex models that incorporate a plethora of indicators and external data. The importance of trading strategies lies in their ability to systematize trading decisions, reduce emotional bias, and manage risk effectively. 
-
-Within the spectrum of technical analysis, trendlines occupy a pivotal role. A trendline is a straight line drawn over pivot highs or under pivot lows to depict the prevailing direction of price movements. They are used to identify the direction and strength of a trend, assisting traders in making informed decisions about their trades. Trendlines help in identifying potential support and resistance levels, acting as a visual tool for understanding market sentiment.
 
 ![Image](images/1.jpeg)
 
-A significant event in trading occurs when these trendlines are broken. A broken trendline signals a potential change in market dynamics, indicating either a reversal in the existing trend or a potential continuation pattern. The break of a trendline can herald major shifts in market sentiment, offering traders opportunities to capitalize on emerging trends. Differentiating between a genuine breakout and a false one is key to making profitable trading decisions.
-
-Algorithmic trading, often referred to as algo trading, represents a paradigm shift in how trades are executed. Equipped with the ability to process vast amounts of data and execute trades at speeds unachievably by human traders, algorithmic trading is becoming increasingly popular. This method uses complex algorithms to analyze market trends and execute orders automatically. The growing dependence on technology and algorithms is transforming the trading landscape by introducing precision, efficiency, and speed into trading operations.
-
-The integration of broken trendline analysis with algorithmic trading strategies presents a promising avenue for traders seeking to enhance their trading outcomes. By leveraging the speed and data-processing capabilities of algorithms, traders can react to trendline breaks with precision and timely execution. This fusion of trendline analysis and algorithmic strategy offers a new frontier for enhancing market predictions and optimizing trading performance.
-
 ## Table of Contents
 
-## Understanding Trendlines and Their Significance
+## What is a trendline in trading?
 
-Trendlines are a fundamental tool in technical analysis, used by traders to represent and identify trends in market data over time. A trendline is a straight line that connects two or more price points on a chart, typically plotted over the price of a security or index. The construction of a trendline requires at least two points; however, the more points that touch or come close to the line, the stronger the trendline is considered. These points are derived from the highs, lows, closing, or opening prices of the trading periods being analyzed.
+A trendline in trading is a straight line drawn on a chart to show the direction of a price movement over time. Traders use trendlines to help them see if a stock or other financial asset is going up, going down, or staying the same. By connecting the highs or lows of price points, a trendline can make it easier to spot patterns and make better guesses about where the price might go next.
 
-The significance of trendlines lies in their ability to help traders visualize trends in market behavior and to identify key levels of support and resistance. A support trendline is drawn by connecting two or more low points, and it indicates that an asset's price is higher than the line. This suggests the market is likely to maintain its current trend and potentially reverse if the trendline is touched. Conversely, a resistance trendline connects high points and suggests the price is lower than the line, projecting where the market may face selling pressure.
+Trendlines are useful because they can show when a trend might be changing. If the price keeps hitting the trendline and bouncing off it, the trend is probably strong. But if the price starts to break through the trendline, it might mean the trend is ending and the price could start moving in a new direction. Traders watch these breakouts closely to decide when to buy or sell.
 
-Trendlines are categorized into three primary types based on the price movement they represent:
+## How can you identify a broken trendline?
 
-1. **Upward Trendlines**: These are created by joining two or more low points in the market, showing that the price is rising. An upward trendline indicates a bullish market where the asset's price is expected to continue moving higher. It's a reflection of increased buy-side interest, usually leading to higher peak and trough levels.
+A broken trendline happens when the price of a stock or asset moves past the trendline that was showing its direction. If the trendline was going up and the price drops below it, or if the trendline was going down and the price goes above it, that's a break. You can see this on a chart when the price line crosses over the trendline.
 
-2. **Downward Trendlines**: Formed by connecting two or more high points on the chart, a downward trendline indicates a bearish market. This trendline shows that the price is falling, with lower peaks and troughs, signifying increasing sell-side pressure and a declining market trend.
+When you spot a broken trendline, it often means the trend might be changing. It's like a signal that the price could start moving in a new direction. Traders pay close attention to these moments because they might want to buy or sell based on this new information. But remember, just because a trendline breaks doesn't always mean the trend will definitely change, so it's good to look at other signs too.
 
-3. **Sideways Trendlines**: Also referred to as horizontal trendlines, these are drawn when price moves within a horizontal channel over time. A sideways trendline showcases a period of market consolidation, where there is no distinct upward or downward movement. This type of trendline highlights equilibrium between supply and demand, with prices fluctuating within a bounded range.
+## What are the basic trading strategies for broken trendlines?
 
-Understanding these trends is crucial for predicting future price movements. Upward and downward trendlines help in forecasting potential market behavior by extrapolating the line into the future to anticipate support and resistance levels. This predictive power is central to crafting trading strategies, as it provides insight into when to enter or [exit](/wiki/exit-strategy) trades based on expected price movements.
+When a trendline breaks, one common strategy is to wait for the price to move past the trendline and then trade in the direction of the new trend. For example, if the price was going up but then breaks below the upward trendline, a trader might sell or short the asset, expecting the price to keep falling. On the other hand, if the price was going down but breaks above the downward trendline, a trader might buy the asset, expecting the price to keep rising.
 
-The mathematical definition of a trendline can be described by a linear equation in slope-intercept form: $y = mx + c$, where $m$ represents the slope and $c$ the y-intercept. This formula helps traders ascertain the angle of the trend, which is pivotal in assessing the magnitude of price changes over time. 
+Another strategy is to wait for a retest of the broken trendline. After the price breaks the trendline, it sometimes comes back to touch it again before continuing in the new direction. Traders can use this retest as a chance to enter a trade. If the price breaks an upward trendline and then comes back to touch it from below, a trader might sell at this point, expecting the price to continue falling. If the price breaks a downward trendline and then comes back to touch it from above, a trader might buy at this point, expecting the price to continue rising.
 
-In summary, trendlines serve as a strategic guide for traders, helping them navigate market trends and make informed decisions. By identifying support and resistance levels along with understanding the type of trend and its continuation likelihood, traders can harness trendlines to optimize their trading activities and enhance profitability.
+Both strategies involve watching the price closely and being ready to act when the trendline breaks. It's important to use other tools and indicators too, because a broken trendline is just one piece of information. Combining it with other signs can help traders make better decisions.
 
-## What Happens When Trendlines Break
+## What are the risks associated with trading broken trendlines?
 
-A broken trendline occurs when the price movement of a financial asset decisively crosses and forms a new trajectory contrary to the trendline's original path. Such breaks indicate potential shifts in market sentiment and can be pivotal in forecasting future price directions. 
+Trading broken trendlines can be risky because the market can be unpredictable. Just because a trendline breaks doesn't mean the price will keep moving in the new direction. Sometimes, the price might break the trendline but then go back to following the old trend. This can lead to losses if a trader jumps into a trade too quickly without waiting for more signs that the trend has really changed.
 
-Trendline breaks materialize due to various market dynamics, such as changes in investor sentiment, geopolitical events, economic data releases, or even shifts in the supply-demand balance of the asset. For instance, if a rising trendline is broken by a downward price movement, it might denote diminishing bullish strength or a possible switch to bearish conditions. Conversely, a break above a downtrend line could suggest the onset of renewed bullish [momentum](/wiki/momentum).
+Another risk is that trendlines are drawn by people, and different people might draw them differently. This means that what one trader sees as a broken trendline, another might not. If many traders are looking at the same chart but seeing different things, it can lead to confusion and bad trading decisions. It's important to use other tools and indicators along with trendlines to get a clearer picture of what the market might do next.
 
-From a predictive standpoint, broken trendlines offer crucial information. They can signal emerging patterns that traders might exploit for speculation or risk management. However, not all breaks confirm a permanent trend reversal; thus, differentiating between false breakouts and confirmed reversals is essential. A false [breakout](/wiki/breakout-trading) occurs when price breaches the trendline but fails to maintain momentum in the breakout direction, ultimately returning to its previous trajectory. This could be due to limited market participation, speculative news, or technical factors.
+## How does volume affect trading decisions after a trendline break?
 
-On the other hand, a confirmed trend reversal typically manifests with sustained price action away from the original trendline, often backed by increased trading volumes and other supporting indicators. Traders often seek confirmation through technical indicators like moving averages or oscillators to validate a true reversal. For instance, a Moving Average Convergence Divergence (MACD) crossover following a trendline break could add credence to the validity of the new trend direction.
+Volume is really important when you're looking at a broken trendline. It can tell you if the break is strong or not. If the volume goes up a lot when the trendline breaks, it means more people are trading, and the break is more likely to be real. This can give you more confidence to trade in the new direction. But if the volume stays low when the trendline breaks, it might mean the break isn't that important, and the price could go back to the old trend.
 
-In algorithmic analysis, trendline breaks can be programmed as triggers for buy or sell signals, enabling traders to react with speed and precision often unattainable through manual trading. The capacity to swiftly identify and capitalize on emerging trends underscores the importance of understanding the implications of broken trendlines within the broader context of market analysis.
+So, when you see a trendline break, always check the volume. High volume can be a good sign that the new trend will keep going. Low volume might make you want to wait and see what happens next before you make a trade. Using volume along with the trendline break can help you make better trading choices.
 
-## Trading Strategies Using Broken Trendlines
+## What technical indicators complement broken trendline strategies?
 
-Trading strategies utilizing broken trendlines are popular among technical analysts and traders looking to exploit shifts in market dynamics. These strategies revolve around the idea that once a trendline—either upward or downward—is breached, it signals a potential shift in momentum or even a market reversal. This creates opportunities for traders to capitalize on these changes.
+When you're trading based on broken trendlines, using other technical indicators can help you make better decisions. One useful indicator is the Moving Average Convergence Divergence (MACD). The MACD can show you if the momentum is changing along with the trendline break. If the MACD line crosses above or below the signal line at the same time as the trendline breaks, it can be a strong sign that the new trend will continue. Another helpful indicator is the Relative Strength Index (RSI). The RSI can tell you if a stock is overbought or oversold. If the RSI is in an extreme area (above 70 or below 30) when the trendline breaks, it can give you more confidence in the new trend direction.
 
-### Breakout Trading Strategies
+Another indicator to consider is the Average True Range (ATR), which measures market volatility. If the ATR increases when the trendline breaks, it suggests that the move is significant and the new trend might be strong. On the other hand, if the ATR stays low, the break might not be as important. Combining these indicators with broken trendline strategies can give you a clearer picture of what's happening in the market and help you decide when to enter or exit a trade.
 
-Breakout trading strategies focus on identifying and exploiting breakouts through resistance or support levels, marked by trendlines. When a trendline is broken, it is typically considered a signal that the previous trend may be ending and a new trend is emerging. Traders use this signal to enter trades in the direction of the breakout.
+## How can you use candlestick patterns to confirm a trendline break?
 
-For example, if an upward trendline is broken to the downside, a trader might see this as a signal to enter a short position, anticipating further downward movement. The key to successful breakout trading is confirming the breakout, which often includes looking for increased [volume](/wiki/volume-trading-strategy) or subsequent validation of the new trend direction. 
+Candlestick patterns can help you confirm if a trendline break is real. When you see a trendline break, look for certain candlestick patterns that show the price is likely to keep moving in the new direction. For example, if the trendline breaks downward, a bearish engulfing pattern or a shooting star can confirm that the price might keep falling. These patterns show strong selling pressure, which supports the idea that the downward break is valid.
 
-Python Example:
-```python
-import pandas as pd
+On the other hand, if the trendline breaks upward, look for bullish patterns like a hammer or a bullish engulfing pattern. These patterns suggest strong buying pressure, which can confirm that the upward break is likely to continue. By combining candlestick patterns with trendline breaks, you get a clearer picture of whether the new trend is strong and worth trading on.
 
-def detect_breakout(price_data, trendline):
-    breakouts = []
-    for i in range(1, len(price_data)):
-        if price_data[i] < trendline[i-1] and price_data[i-1] >= trendline[i-1]:
-            breakouts.append((i, price_data[i]))
-    return breakouts
-```
+## What are the psychological factors to consider when trading broken trendlines?
 
-### Retracement Strategies 
+When you trade broken trendlines, it's important to think about how your feelings can affect your choices. Seeing a trendline break can make you feel excited or scared. If you're too excited, you might jump into a trade without thinking it through, which can lead to mistakes. If you're scared, you might miss out on good chances because you're too afraid to act. It's good to stay calm and not let your feelings push you into quick decisions.
 
-Retracement strategies are based on the idea that after a trendline break, the price will often retrace back toward the trendline before continuing in the direction of the breakout. Traders using this strategy wait for the retracement to provide a better entry point before the price resumes its new trend.
+Another thing to remember is that other traders are feeling the same way. When a lot of people see a trendline break, they might all start trading in the same direction. This can make the price move even more, but it can also lead to big changes if everyone changes their mind at the same time. So, it's helpful to think about what other traders might be feeling and how that could affect the market. Keeping your emotions in check and understanding the crowd's mood can help you make better trading choices.
 
-This strategy helps in refining entry points and reducing the risk of false breakouts. By entering after a retracement, traders can set tighter stop-loss orders just beyond the trendline, improving their risk-reward ratio.
+## How do you set stop-loss and take-profit levels when trading broken trendlines?
 
-### Risk Management Techniques
+When you trade broken trendlines, setting a stop-loss is important to limit how much money you could lose. A good place to put your stop-loss is just on the other side of the broken trendline. If the trendline was going up and it breaks, you might put your stop-loss a little bit above the trendline. If the trendline was going down and it breaks, you might put your stop-loss a little bit below the trendline. This way, if the price goes back to the old trend, your stop-loss can help you get out of the trade before you lose too much money.
 
-Effective risk management is crucial when trading broken trendlines, as false breakouts can lead to significant losses. Traders should employ several techniques:
+Setting a take-profit level is also key to making sure you can keep some of your gains. A common way to set your take-profit is to look at how far the price moved before it broke the trendline. You might set your take-profit at a similar distance from where you entered the trade. Another way is to use support and resistance levels. If the price is moving in the new direction, you might set your take-profit near a level where the price might stop or change direction. This can help you lock in profits before the price turns around.
 
-1. **Stop-Loss Orders**: Placing stop-loss orders beyond the recent high or low can limit potential losses if the market reverses unexpectedly.
+## What are advanced techniques for trading false breakouts of trendlines?
 
-2. **Position Sizing**: Adjusting the size of each trade based on the confidence level in the trendline break and overall market conditions can help manage risk.
+When you see a trendline break but the price quickly goes back to the old trend, that's called a false breakout. One advanced way to trade these is to wait for the price to break the trendline and then come back to it. If the price touches the trendline again but doesn't break it the second time, it might be a good time to trade in the opposite direction of the breakout. For example, if the price broke an upward trendline but then came back up to touch it without breaking it again, you might want to buy, expecting the price to keep going up.
 
-3. **Diversification**: Using trendline strategies across various assets and time frames can reduce the impact of a single security's adverse movement on the overall portfolio.
+Another technique is to use other signs along with the trendline to spot false breakouts. Look at the volume when the trendline breaks. If the volume is low, it might mean the break isn't strong and could be a false one. You can also use indicators like the RSI or MACD. If these don't show a strong change in momentum when the trendline breaks, it might be a false breakout. By combining these signs, you can be more sure about when to trade against the breakout and make better choices.
 
-4. **Confirmation Indicators**: Utilizing additional technical indicators, such as moving averages or the Relative Strength Index (RSI), can help confirm trendline breaks and increase the probability of successful trades.
+## How can you incorporate broken trendline strategies into a broader trading system?
 
-These concepts form a robust foundation for approaching market shifts using broken trendlines. Each trader must tailor these strategies to their own risk tolerance, trading style, and market conditions to achieve optimal results.
+Incorporating broken trendline strategies into a broader trading system can help you make better trading choices. When you see a trendline break, you can use it as a signal to enter a trade in the new direction. But it's important to use other tools and signs too, like volume, RSI, and MACD, to make sure the break is real and not a false one. By combining these tools, you can get a clearer picture of what the market might do next and decide when to buy or sell.
 
-## Incorporating Algo Trading with Trendline Analysis
+In your trading system, you can set rules for when to use broken trendline strategies. For example, you might decide to only trade when the volume is high during the break, or when other indicators confirm the new trend. You can also set stop-loss and take-profit levels based on the trendline break to manage your risk and lock in profits. By fitting broken trendline strategies into your overall plan, you can use them to improve your trading and make more informed decisions.
 
-Algorithmic trading, commonly known as algo trading, involves the use of computer programs to execute trades based on predefined criteria. This methodology leverages computational power to process vast amounts of data rapidly, allowing for execution at rates impossible for humans. The primary advantages of algo trading include increased speed, efficiency, and accuracy in executing trades, reduced likelihood of human error, and the ability to backtest strategies on historical data to evaluate their effectiveness.
+## What are the best practices for backtesting and optimizing broken trendline trading strategies?
 
-An essential component of [algorithmic trading](/wiki/algorithmic-trading) is its capability to detect and react to market events, such as trendline breaks, with high precision and timeliness. Trendlines are fundamental tools in technical analysis, used to identify and forecast price movements by connecting a series of high or low points on a price chart. When a price movement disrupts these lines, it signals a potential shift in market trends.
+When you want to backtest and optimize your broken trendline trading strategies, start by using historical data to see how well your strategy would have worked in the past. Look at different time periods and different markets to make sure your strategy works in many situations. Pay attention to how often your strategy makes money and how much it loses when it doesn't. This can help you see if your strategy is good or if you need to change it. Also, try different settings for your stop-loss and take-profit levels to find the best ones for your strategy.
 
-Algorithms can monitor numerous assets and trendlines concurrently, identifying breaks momentarily and triggering trades based on probability-driven rules. For instance, once a trendline break is identified, the algorithm might execute a trade in the direction of the break if it meets specific conditions, such as volume increase or confirmation by other technical indicators. This immediacy aids in capturing emerging opportunities that might elude manual traders due to latency and human limitations.
-
-Incorporating trendline analysis into algorithmic strategies involves programming algorithms to recognize these market structures and respond accordingly. A straightforward example could be the implementation of a breakout strategy. This approach could be coded in Python using libraries like pandas for data manipulation, TA-Lib for technical analysis, and APIs for real-time data feed and trade execution. Here's a simple outline of such a strategy:
-
-```python
-import pandas as pd
-from talib import abstract
-
-# Load historical data
-data = pd.read_csv('historical_price_data.csv')
-# Calculate moving averages to identify trendline
-data['SMA_50'] = abstract.SMA(data['Close'], timeperiod=50)
-data['SMA_200'] = abstract.SMA(data['Close'], timeperiod=200)
-
-# Detect trendline crossover (e.g., 50-SMA crossing above 200-SMA indicates a break)
-data['Signal'] = 0
-data.loc[(data['SMA_50'] > data['SMA_200']), 'Signal'] = 1
-
-# Execute trade based on signal
-def execute_trade(signal):
-    if signal == 1:  # Buy signal
-        print("Execute Buy Order")
-    else:
-        print("Hold/Exit")
-
-data['Signal'].apply(execute_trade)
-```
-
-Strategies using trendline analysis can range from simple crossovers to complex models incorporating multiple indicators and market conditions. For example, a more sophisticated algorithm may include [machine learning](/wiki/machine-learning) models that learn from historical trendline breaks to predict future price actions with greater accuracy. 
-
-While integrating trendline analysis with algorithmic strategies provides significant benefits, such as improved responsiveness and systematic execution, it also demands robust development and ongoing optimization. Ensuring algorithms are adaptable to changing market conditions and thoroughly backtested can mitigate risks associated with rapid market fluctuations. 
-
-Overall, the fusion of trendline analysis with algo trading harnesses both the structured approach of technical analysis and the computational advantages of algorithmic execution, offering traders a modern toolset for competing in dynamic financial markets.
-
-## Benefits and Challenges of Algo Trading with Broken Trendlines
-
-Algorithmic trading has significantly transformed how traders approach financial markets, especially regarding technical analysis tools like trendlines. When combined with broken trendline analysis, algo trading offers numerous benefits, while also presenting distinct challenges.
-
-### Benefits
-
-1. **Precision and Speed**: One of the primary advantages of algo trading is its ability to execute trade decisions with minimal delay. Algorithms can monitor numerous securities simultaneously and react to trendline breaks faster than human traders, providing a significant edge in capturing favorable market movements. This speed allows for taking advantage of fleeting market opportunities that might be missed otherwise.
-
-2. **Consistency and Objectivity**: Algorithms operate based on predefined rules and criteria, removing emotional biases inherent in manual trading decisions. This objectivity ensures a consistent approach to trading, which is crucial for implementing strategies based on trendline analysis. 
-
-3. **Ability to Process Large Data Sets**: Algorithms can analyze vast amounts of historical and real-time data to identify potential trendline breaks. They can scan multiple charts and timeframes to detect these opportunities, providing comprehensive market coverage and increasing the chances of successful trades.
-
-### Challenges
-
-1. **Operational Complexities**: While algorithmic trading offers technical advantages, it involves considerable complexities in design and implementation. Developing reliable algorithms requires a deep understanding of both coding and financial markets. Additionally, building a robust infrastructure for algorithmic execution and monitoring can be costly and resource-intensive.
-
-2. **Continuous Optimization**: The market is dynamic and constantly evolving, necessitating constant tuning and optimization of algorithms. A strategy that works well today might not be effective tomorrow due to changing market conditions or patterns. Hence, maintaining the relevance and accuracy of algorithms is an ongoing challenge.
-
-3. **Risk of False Signals**: Algorithms reacting to trendline breaks might occasionally misinterpret market noise as genuine signals, leading to false breakouts. Distinguishing between false signals and actual market reversals requires sophisticated filtering mechanisms within the algorithm.
-
-### Importance of Backtesting and Real-Time Monitoring
-
-Backtesting algorithms against historical data is essential to evaluate their potential effectiveness before deploying them in live markets. By simulating trades over past data, traders can identify weaknesses and refine their strategies to enhance performance. Moreover, real-time monitoring allows for immediate observation and intervention if the algorithms deviate from expected behavior.
-
-### Impact of Market Conditions
-
-The effectiveness of trendline-based algorithms heavily depends on prevailing market conditions. In trending markets, these algorithms might perform exceptionally well, leveraging clear directional movements. However, during periods of high [volatility](/wiki/volatility-trading-strategies) or sideways markets, trendline-based strategies might struggle, requiring adaptive mechanisms to adjust their parameters dynamically. Additionally, factors such as [liquidity](/wiki/liquidity-risk-premium), market depth, and economic news releases can influence the performance and success rate of these algorithms.
-
-In summary, while algorithmic trading offers remarkable advantages in terms of speed and precision for trendline analysis, it also requires traders to address operational complexities, continuous optimization, and the unpredictable influence of market conditions. Backtesting and real-time monitoring become vital components in harnessing its potential effectively.
-
-## Conclusion
-
-The discussion on broken trendlines and algorithmic trading highlights a significant intersection of technical analysis and automated strategies in modern financial markets. Trendlines serve as fundamental tools in technical analysis, providing insights into market trends and potential support or resistance levels. When these trendlines are broken, they can signal potential reversals or shifts in market trends, offering lucrative opportunities for traders who can effectively interpret these signals.
-
-The integration of trendline analysis with algorithmic trading strategies brings numerous advantages. Algorithms have the capacity to detect trendline breaks quickly and execute trades with precision, minimizing human latency and emotion-driven decisions. This combination allows traders to harness both the analytical insights derived from trendline analysis and the operational efficiency provided by automated systems.
-
-However, while algorithmic trading enhances precision and speed, it is equally important for traders to incorporate human insight. Understanding market nuances and maintaining awareness of broader economic conditions remain crucial for effective trading, as reliance solely on algorithms without a nuanced understanding of market dynamics can lead to suboptimal outcomes.
-
-Reflecting on the evolving nature of trading strategies, it is clear that the integration of technical analysis with advanced computational techniques represents a pivotal shift in how trading is conducted. The landscape is continually transforming, driven by technological advancements and changing market conditions. Traders who embrace this evolution by combining traditional analytical methods with cutting-edge algorithmic strategies are likely to maintain a competitive edge in the dynamic world of financial markets.
+After you backtest, you can optimize your strategy by making small changes and testing them again. You might change how you set your trendlines, or use different indicators to confirm the breaks. Keep track of how these changes affect your results. It's important to be careful not to over-optimize, which means making your strategy fit the past data too perfectly. If you do that, it might not work well in the future. Always test your changes on new data to make sure they still work. By doing this, you can make your broken trendline strategy better and more reliable.
 
 ## References & Further Reading
 
