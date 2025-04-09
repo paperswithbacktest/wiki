@@ -3,162 +3,84 @@ title: "Matched Book in Finance"
 description: "Discover the evolution of finance with matched book investments & algo trading Learn how these strategies optimize trade execution & enhance liquidity"
 ---
 
-The landscape of financial trading has experienced a profound transformation, primarily driven by technological advancements that have redefined the way market transactions are executed. Among the innovations leading this evolution are matched book investments and algorithmic trading. These two elements have become central to optimizing trade execution strategies within the financial sector.
-
-Matched book investments involve a meticulous balance between assets and liabilities, ensuring equal maturities and values. This approach, commonly employed by financial institutions, is instrumental in managing liquidity and mitigating interest rate risks. It underscores the concept of asset/liability management or cash matching, aiming to harmonize the cash inflows and outflows to maintain financial stability.
 
 ![Image](images/1.jpeg)
 
-On the other hand, algorithmic trading utilizes sophisticated computer programs to automate the trading process based on pre-defined strategies. This technology significantly enhances market operations by allowing trades to be executed at optimal prices with extraordinary speed and efficiency. Algo trading is particularly advantageous for handling large volumes of transactions with minimal market impact, thereby increasing overall market liquidity and reducing transaction costs.
-
-This article examines the significance of matched book investments in finance and emphasizes how algorithmic trading can elevate trading outcomes. By focusing on these innovative strategies, we explore their implementation in the modern financial landscape, coupled with insights from industry experts who have witnessed these advancements in action in the practical world.
-
 ## Table of Contents
 
-## What is a Matched Book?
+## What is a matched book in finance?
 
-A matched book refers to a financial strategy employed by institutions such as banks to maintain equilibrium between their assets and liabilities. This is achieved by aligning the maturities and values of both sides of the balance sheet. Such matching is crucial for managing liquidity and minimizing interest rate risks. By ensuring that the inflows from assets are appropriately timed and correspond to the outflows for liabilities, financial institutions can safeguard against liquidity shortfalls and interest rate fluctuations.
+A matched book in finance is when a financial institution, like a bank, has the same amount of money coming in as going out. This happens when the bank borrows money from one place and lends the same amount to someone else. It's like balancing a scale, where the money borrowed and the money lent are equal.
 
-In practical terms, if a bank holds a bond with a maturity of five years, it strives to have a liability of similar maturity to counterbalance the risk of interest rate changes that could affect the bond's value over time. This approach is primarily used to stabilize cash flow and protect the institution from market volatility. A perfectly matched book ensures that the net interest income remains unaffected by rate shifts, thus maintaining the institution's profitability and financial health.
+This practice is common in money markets, where banks and other financial firms deal with short-term borrowing and lending. By keeping a matched book, these institutions can manage their risks better. If they didn't match their books, they might end up with more money going out than coming in, which could lead to financial problems.
 
-The matched book approach is a core aspect of asset/liability management, also known as cash matching. It enables institutions to predict their cash flow needs accurately and fulfill them without incurring additional costs from borrowing or liquidating assets prematurely. This method not only enhances an institution's internal financial management but also positions it advantageously against external economic shifts, fostering a robust financial stability framework.
+## How does a matched book operate in financial institutions?
 
-## The Role of Algo Trading in Finance
+In financial institutions, a matched book operates by balancing the money they borrow with the money they lend. Imagine a bank that borrows money from depositors. To keep a matched book, the bank then lends out exactly the same amount of money to borrowers, like people taking out loans or businesses needing funds. This way, the money coming in from the depositors matches the money going out to the borrowers.
 
-Algorithmic trading, commonly referred to as algo trading, utilizes computer programs to facilitate the automatic execution of trades according to pre-defined strategies. This approach leverages computational power to make decisions with speed and precision, which are unmatched by human traders.
+By keeping a matched book, the financial institution can manage its risks better. If the bank lent out more money than it borrowed, it might not have enough money to give back to depositors when they want it. On the other hand, if it borrowed more than it lent, it might have too much money sitting idle, which isn't good for business. A matched book helps the bank stay stable and avoid financial troubles by ensuring that the inflows and outflows of money are always equal.
 
-One of the primary benefits of [algorithmic trading](/wiki/algorithmic-trading) is its ability to enhance the efficiency of market operations. By using complex mathematical models and algorithms, these systems can analyze vast datasets in real-time to identify the best possible entry or [exit](/wiki/exit-strategy) points for trades. This enables algo trading systems to execute transactions at optimal prices, thereby maximizing profitability or minimizing costs associated with trading.
+## What are the benefits of using a matched book strategy?
 
-The efficiency gained through algorithmic trading is particularly evident in the management of large transaction volumes. Traditional trading methods can disrupt market equilibrium when handling substantial orders due to latency and the manual nature of trade execution. In contrast, algorithmic trading systems can divide large orders into smaller, more manageable segments and execute them incrementally without alerting the market to the order's total size. This mitigates the risks of market impact and ensures minimal price slippage, preserving the integrity and stability of market prices.
+Using a matched book strategy helps financial institutions manage their risks better. When a bank keeps its [books](/wiki/algo-trading-books) matched, it makes sure that the money it borrows from depositors is the same as the money it lends out to borrowers. This balance means the bank is less likely to run into problems if a lot of depositors suddenly want their money back. It also helps the bank avoid having too much money sitting around without being used, which could happen if they borrowed more than they lent.
 
-Furthermore, algorithmic trading provides a high level of consistency and discipline in trading strategies. By removing human emotions and bias from the equation, algo trading adheres strictly to the defined strategy. This helps avoid the impulsive decisions that often lead to suboptimal results in manual trading.
+Another benefit of a matched book strategy is that it helps keep the financial institution stable. By matching the money coming in with the money going out, the bank can plan better and avoid surprises. This stability is good for the bank's reputation and can make customers feel more confident in the bank. Overall, using a matched book strategy helps banks operate smoothly and safely.
 
-Algorithmic strategies are also equipped to operate continuously, monitoring markets around the clock. This constant vigilance allows the system to promptly respond to changes in market conditions, ensuring compliance with pre-set parameters.
+## Can you explain the risks associated with a matched book?
 
-To illustrate, consider an algorithm designed to execute a mean-reversion strategy, a popular technique in trading. Such an algorithm would monitor stock prices to detect deviations from their historical averages and execute buy or sell orders to capitalize on the anticipated correction. In Python, a simplistic version of this strategy might involve:
+Even though a matched book strategy helps banks stay stable, it's not without risks. One risk is that if a lot of borrowers can't pay back their loans on time, the bank might not have enough money to give back to depositors. This could happen if the economy gets bad and people or businesses struggle to make payments. If the bank can't get the money back from borrowers, it might have to use its own money to pay depositors, which could hurt the bank's finances.
 
-```python
-import numpy as np
-import pandas as pd
+Another risk comes from interest rates. If a bank borrows money at a certain [interest rate](/wiki/interest-rate-trading-strategies) and then lends it out at a different rate, changes in interest rates can cause problems. For example, if the bank borrows at a low rate and lends at a higher rate, but then interest rates go up, the bank might have to pay more to its depositors than it's getting from its borrowers. This mismatch can lead to losses for the bank. So, while a matched book strategy helps manage risk, it's important for banks to keep an eye on these potential issues.
 
-# Example data as a time series
-prices = pd.Series([100, 102, 101, 105, 107, 104, 103])
+## What is the difference between a matched book and an unmatched book?
 
-# Calculate rolling mean and standard deviation
-rolling_mean = prices.rolling(window=3).mean()
-rolling_std = prices.rolling(window=3).std()
+A matched book means a bank keeps the money it borrows the same as the money it lends out. So, if a bank gets money from people putting money in the bank, it lends out exactly that same amount to others who need loans. This helps the bank stay balanced and manage its risks better. If the bank didn't do this, it might run into trouble if too many people wanted their money back at once.
 
-# Buy/sell signals
-signals = (prices - rolling_mean) / rolling_std
+An unmatched book is when a bank doesn't keep the money coming in and going out the same. This can happen if the bank lends out more money than it has from depositors, or if it has more money from depositors than it lends out. An unmatched book can be riskier because the bank might not have enough money to give back to depositors if they want it, or it might have too much money sitting around not being used, which isn't good for business.
 
-buy_signals = signals[signals < -1]
-sell_signals = signals[signals > 1]
+## How do regulatory requirements impact the management of a matched book?
 
-print("Buy signals:\n", buy_signals)
-print("Sell signals:\n", sell_signals)
-```
+Regulatory requirements can have a big impact on how banks manage their matched books. These rules are made by government agencies to make sure banks are safe and fair. For example, there are rules about how much money banks need to keep on hand to cover any losses. If a bank has to follow these rules, it might need to change how it balances its books. It might have to keep more money in reserve, which means it can't lend out as much. This can make it harder to keep the books perfectly matched.
 
-In this example, buy signals are generated when prices are significantly below the rolling mean, and sell signals occur when prices rise above it. While this simplified snippet doesn't encompass the complexity of actual trading algorithms, it encapsulates the basic mechanism by which algo trading can operate efficiently and effectively.
+Also, regulators might set rules about the kinds of loans banks can make or how much interest they can charge. These rules can affect how banks decide to lend money and at what rates. If the rules change, banks might need to adjust their lending and borrowing to stay within the law. This can make managing a matched book more challenging because the bank has to find a way to balance its books while following all the rules.
 
-Overall, algo trading's precision, speed, and ability to process high volumes of transactions without market disruption make it an invaluable asset for modern financial markets, ensuring that trades are executed in the most optimal manner over time.
+## What are some common examples of financial instruments used in a matched book?
 
-## Integrating Matched Book Investments with Algo Trading
+In a matched book, banks often use short-term financial instruments like certificates of deposit (CDs) and commercial paper. A CD is when someone gives money to a bank for a set time and gets it back with interest. Commercial paper is when a company borrows money for a short time, usually less than a year, and promises to pay it back with interest. Banks can borrow money from people buying CDs and then lend that same amount to companies using commercial paper.
 
-The integration of matched book investments with algorithmic trading represents a synergy between traditional risk management strategies and cutting-edge technological advancements. By leveraging the precision and speed inherent to algorithmic trading, matched book strategies can achieve superior transaction execution. This approach minimizes risk exposure and enhances [liquidity](/wiki/liquidity-risk-premium) management.
+Another common instrument is repurchase agreements, or repos. In a repo, a bank borrows money by selling securities like government bonds to another party with an agreement to buy them back later at a higher price. The difference between the selling and buying price is like interest. Banks can use repos to borrow money and then lend it out in other ways, keeping their books matched. These instruments help banks manage their money carefully and stay balanced.
 
-Algorithmic trading enables quick analysis and execution of trades based on pre-defined strategies programmed into its algorithms. In the context of matched book investments, this means that assets and liabilities can be dynamically realigned to maintain balance, thus reducing potential mismatches in yields or maturities. The use of advanced algorithms allows for automatic adjustments to the matched book positions, significantly mitigating the risk of financial exposure and ensuring that liquidity remains optimal.
+## How does liquidity management play a role in maintaining a matched book?
 
-For instance, consider an algorithm designed to detect disparities between the current market rates and the rates at which an institution has positioned its assets and liabilities. In a Python implementation, such an algorithm could be structured as follows:
+Liquidity management is important for keeping a matched book because it helps a bank make sure it always has enough money to pay back its depositors. If a bank borrows money from depositors and lends it out to others, it needs to be ready to give the money back to depositors whenever they want it. Good [liquidity](/wiki/liquidity-risk-premium) management means the bank keeps some money available or can quickly get more money if a lot of depositors suddenly want their money back. This helps the bank keep its books matched and avoid problems.
 
-```python
-def adjust_positions(current_positions, market_rates, threshold=0.01):
-    for asset, liability in current_positions.items():
-        rate_difference = market_rates[asset] - liability['rate']
-        if abs(rate_difference) > threshold:
-            adjust_amount = rate_difference * liability['amount']
-            print(f"Adjusting {asset}: {adjust_amount}")
-            # Code to execute trade based on calculated adjust_amount
-```
+If a bank doesn't manage its liquidity well, it might not have enough money to give back to depositors, even if it has a matched book. For example, if too many borrowers can't pay back their loans on time, the bank might not have the money it needs. By keeping a close eye on its liquidity, the bank can make sure it always has enough money on hand or can get it quickly. This way, the bank can keep its books matched and stay stable, even when things get tough.
 
-This code snippet illustrates a basic strategy for identifying and correcting imbalances in a matched book. The algorithm checks the difference between market rates and booked liabilities and suggests adjustments when differences exceed a specified threshold.
+## What strategies can be employed to optimize a matched book?
 
-Additionally, the adaptability of algorithmic trading to evolving market conditions further enhances matched book strategies. Algorithms can be programmed to incorporate large-scale data analysis and [machine learning](/wiki/machine-learning) techniques, allowing them to recognize patterns that might suggest future market movements. This proactive approach not only optimizes transaction efficiencies but also fortifies the institution’s asset-liability management against unexpected market volatilities.
+To optimize a matched book, banks need to keep a close eye on their money coming in and going out. They can do this by using different financial tools like certificates of deposit (CDs) and commercial paper. These tools help banks borrow money from people and then lend it out to others. By carefully choosing which tools to use and when, banks can make sure they always have enough money to give back to depositors and that they're lending out the right amount to borrowers. This balance helps the bank stay stable and avoid running into money problems.
 
-Overall, integrating matched book investments with algorithmic trading significantly strengthens the financial institution’s ability to manage risks and liquidity. This seamless blend of traditional financial management techniques with modern algorithms paves the way for more resilient and efficient financial operations.
+Another strategy is to pay attention to interest rates. If a bank borrows money at a low interest rate and lends it out at a higher rate, it can make more money. But if interest rates change, the bank needs to be ready to adjust its rates too. By keeping track of interest rates and making smart choices about when to borrow and lend, the bank can make its matched book work better. This way, the bank can make more money while still keeping its books balanced and safe.
 
-## Benefits of Using Matched Book Strategies
+## How do interest rate changes affect a matched book?
 
-Matched book strategies offer significant benefits to financial institutions by providing a balanced approach to managing assets and liabilities. This balance effectively reduces financial risk, primarily because it aligns cash inflows with cash outflows. By ensuring that assets and liabilities of equal values and similar maturities are paired, institutions can protect themselves against unsystematic [interest rate](/wiki/interest-rate-trading-strategies) fluctuations and liquidity crises.
+Interest rate changes can really affect how a bank manages its matched book. If a bank borrows money at a low interest rate and lends it out at a higher rate, it can make more money. But if interest rates go up, the bank might have to start paying more to its depositors than it's getting from its borrowers. This can cause problems because the bank might lose money instead of making it. So, the bank needs to watch interest rates closely and be ready to change its rates too.
 
-The primary advantage of a matched book is the mitigation of interest rate risk. This is achieved by synchronizing the timing of cash flows to ensure that changes in interest rates have a minimal impact on the net interest income of the institution. As interest rates rise and fall, the matching of maturities on assets and liabilities means that both the costs and revenues from these financial instruments shift simultaneously, preserving financial stability. For instance, if a bank holds an asset that is set to mature in five years, it can simultaneously hold a liability with the same maturity date. This synchronization prevents discrepancies that could arise from rate changes affecting assets and liabilities unequally.
+To handle interest rate changes, banks can use different strategies. They might choose to borrow and lend money for shorter periods of time, so they can adjust their rates more often. Or they might use financial tools like interest rate swaps, which let them switch from one interest rate to another. By doing these things, banks can try to keep their matched book working well even when interest rates change. This way, they can keep making money and stay safe.
 
-Matched book strategies also enhance liquidity management. By ensuring that cash inflows from matured assets coincide with cash outflows needed to meet liabilities, financial institutions maintain a stable flow of funds. This alignment ensures that banks and similar entities can reliably meet their own financial obligations, such as settling customer deposits or loan disbursements, without strain. The ability to predict and manage cash flows allows these institutions to function smoothly even during times of financial stress or market [volatility](/wiki/volatility-trading-strategies).
+## What are the advanced techniques for hedging in a matched book?
 
-Another significant benefit of using matched book strategies is the smoothing effect they provide against market interest rate volatility. With the rising uncertainties in global financial markets, interest rates are subject to fluctuations that can create volatility in financial performance. A matched book strategy provides a buffer against such rapid changes by ensuring that any variation in interest rates is counterbalanced between assets and liabilities, maintaining a steady net interest margin.
+Advanced techniques for hedging in a matched book help banks manage their risks better. One technique is using interest rate swaps. This is when a bank agrees to swap its interest payments with another party. For example, if a bank is paying a fixed interest rate on money it borrowed but wants to change to a variable rate, it can use a swap. This helps the bank match the interest it's paying with the interest it's getting from its borrowers, even if interest rates change.
 
-In summary, matched book strategies significantly enhance risk management through balanced asset and liability management, ensuring institutions can gracefully navigate fluctuating interest rates while maintaining liquidity. These strategies provide foundational stability that is essential for the long-term financial health of any institution engaged in managing large sums of capital and complex portfolios.
+Another advanced technique is using options. Options give banks the right, but not the obligation, to buy or sell something at a set price in the future. For example, a bank might buy an option to protect against interest rates going up. If rates do go up, the bank can use the option to make sure it doesn't lose too much money. By using options, banks can keep their matched book safe from big changes in interest rates or other risks.
 
-## Real-Life Applications and Case Studies
+Lastly, banks can use futures contracts. These are agreements to buy or sell something at a set price on a future date. Banks can use futures to lock in interest rates for the money they plan to borrow or lend. This way, if interest rates change, the bank's matched book stays balanced because it knows exactly what rates it will be dealing with. Using futures helps the bank plan ahead and manage its risks better.
 
-Financial institutions have increasingly adopted matched book strategies, leveraging technology to streamline trade execution processes and optimize their financial operations. The practical implementation of these strategies, especially when integrated with algorithmic trading, has resulted in significant enhancements in transaction efficiency and compliance.
+## How can technology and software enhance the efficiency of managing a matched book?
 
-One prominent case study involves a global investment bank that implemented a matched book strategy to manage its extensive bond portfolio. By aligning the maturities and values of assets and liabilities, the bank was able to significantly reduce its exposure to interest rate fluctuations. The integration of algorithmic trading facilitated swift execution of trades at favorable prices, thereby minimizing transaction costs. This approach not only improved the bank's liquidity management but also ensured adherence to regulatory requirements by providing a transparent and automated audit trail.
+Technology and software can really help banks manage their matched books better. Special computer programs can keep track of all the money coming in and going out in real time. This means the bank can see right away if it's borrowing and lending the right amounts. The software can also do quick math to figure out the best interest rates to use, so the bank can make more money while keeping its books balanced. Plus, these programs can send alerts if something looks off, helping the bank fix any problems before they get too big.
 
-Another example is a pension fund that used matched book investments to secure its long-term liabilities. By employing sophisticated algorithms, the fund dynamically adjusted its asset and liability positions to maintain a balanced book, even in the face of volatile market conditions. This proactive risk management strategy allowed the fund to lower its transaction expenses and improve regulatory compliance by ensuring its investments consistently aligned with its long-term obligations.
-
-These real-life applications highlight how technological advancements, particularly algorithmic trading, have revolutionized traditional financial strategies like matched book investments. Through automation and precision, financial institutions can achieve greater efficiency, cost-effectiveness, and compliance, while effectively managing risk.
-
-## Challenges and Considerations
-
-Implementing matched book strategies in conjunction with algorithmic trading presents numerous advantages, but it also involves significant challenges and considerations. A critical aspect of this approach is the extensive financial modeling and analysis required to ensure that assets and liabilities are accurately balanced with matching maturities and values. This demands a detailed understanding of both current and projected market conditions, as well as the ability to model various financial scenarios to predict potential outcomes. Financial institutions must leverage sophisticated tools and techniques, such as stochastic modeling and Monte Carlo simulations, to develop and test these models.
-
-An ongoing challenge in this domain is the necessity to continuously update algorithms. Financial markets are inherently dynamic, with constantly fluctuating conditions influenced by a myriad of factors, including economic indicators, geopolitical events, and market sentiment. As a result, algorithms that govern trading strategies need regular adjustments to maintain effectiveness. This requires a robust framework for data analysis and machine learning, allowing algorithms to evolve and adapt in real-time. Here is an example of a simple Python script using machine learning to update an algorithmic trading strategy based on historical price data:
-
-```python
-import numpy as np
-from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestRegressor
-import pandas as pd
-
-# Load historical price data
-data = pd.read_csv('historical_prices.csv')
-X = data[['feature1', 'feature2', 'feature3']]  # features influencing price
-y = data['target']  # target variable, e.g., future price
-
-# Split data into training and test sets
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-
-# Train a Random Forest model
-model = RandomForestRegressor(n_estimators=100, random_state=42)
-model.fit(X_train, y_train)
-
-# Predict on new data
-predictions = model.predict(X_test)
-```
-
-Beyond financial modeling and algorithm updates, operational costs present another significant challenge. The resources required for developing, implementing, and maintaining advanced trading systems can be substantial. Firms must invest in not only the software and hardware infrastructure but also the talent capable of managing these complex systems. Skilled professionals in quantitative analysis, data science, and financial engineering are needed, often leading to increased personnel expenses.
-
-Data security is another critical consideration. As financial transactions increasingly rely on electronic systems and extensive data collection, the risk of data breaches and cyber-attacks grows. Protecting sensitive information related to trading strategies, client details, and financial positions requires robust cybersecurity measures. This involves implementing stringent access controls, regular security audits, encryption protocols, and ongoing threat monitoring to guard against potential vulnerabilities.
-
-In conclusion, while the integration of matched book strategies with algorithmic trading is highly beneficial, institutions must navigate these challenges carefully. The success of such initiatives relies on the continuous refinement of financial models, strategic algorithm updates, prudent management of operational costs, and unwavering commitment to data security.
-
-## Future Outlook on Matched Book and Algo Trading
-
-The trend towards automation in financial markets underscores the growing importance of algorithmic strategies. As technology continues to evolve, future developments in algorithmic trading may involve more sophisticated algorithms capable of self-learning and dynamic adjustment to market conditions. These advancements, powered by [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and machine learning (ML), could enable algorithms to analyze vast datasets in real-time, identifying patterns and making informed trading decisions with minimal human intervention. This evolution points to the potential for adaptive algorithms that refine themselves continuously, adapting to ever-changing market dynamics. 
-
-Matched book strategies, which balance assets and liabilities to mitigate financial risk, will remain an essential part of financial risk management. The integration of self-learning algorithms into matched book strategies could enhance their effectiveness by optimizing asset-liability matching and improving liquidity management. For instance, AI-driven algorithms might dynamically adjust the composition of the matched book to mitigate risks associated with interest rate fluctuations or liquidity shortages. 
-
-Moreover, as regulatory landscapes become more complex, the adaptability of these algorithms could offer financial institutions a competitive edge in compliance and risk management. Automated systems capable of understanding and reacting to regulatory changes in real-time could significantly reduce the costs and risks associated with non-compliance.
-
-In conclusion, the convergence of algorithmic trading and matched book strategies indicates an exciting future for financial markets. As these systems become more sophisticated, they promise not only increased efficiency but also enhanced resilience in handling the complexities of modern financial markets.
-
-## Conclusion
-
-Matched book investments, when combined with algorithmic trading, form a formidable strategy for navigating the complex landscape of modern financial management. This synergy between traditional risk management tactics and cutting-edge technology effectively addresses the demands of increasingly volatile and intricate markets. By ensuring that assets and liabilities are balanced with complementary maturities and values, matched book investments inherently reduce financial exposure and improve liquidity management. This lays a stable groundwork upon which algorithmic trading can operate.
-
-Algorithmic trading introduces efficiency and precision by executing trades based on predetermined strategies at optimal prices, minimizing human error and strategic delays. The integration of algorithmic mechanisms with matched book strategies enables financial institutions to react swiftly to market fluctuations, maintaining equilibrium in their finances. This combination provides a buffer against sudden interest rate changes, thus sustaining institutional financial health amidst market volatility.
-
-Furthermore, the use of algorithms in monitoring and adjusting matched book positions ensures ongoing appropriateness of asset-liability management. Financial institutions that continue to leverage these technological advancements stand to benefit greatly by ensuring their operations are not only stable but also strategically fortified against unforeseen financial disruptions. By adopting these combined approaches, organizations can enhance risk management protocols and achieve heightened operational efficiency, safeguarding their interests in the unpredictable environment of global finance.
+Using technology also makes it easier for banks to use advanced hedging techniques. For example, software can help the bank set up and manage interest rate swaps, options, and futures contracts. This way, the bank can protect itself from big changes in interest rates or other risks. The software can keep track of all these deals and make sure they're working as planned. By using technology, banks can manage their matched books more smoothly and safely, which helps them stay stable and make more money.
 
 ## References & Further Reading
 
