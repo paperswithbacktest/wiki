@@ -3,147 +3,84 @@ title: "Positive Economics: History, Theory, Advantages and Disadvantages, Examp
 description: "Explore the history, theory, and impact of positive economics, focusing on algorithmic trading as a practical application in modern financial markets."
 ---
 
-Studying the history of economic theory is crucial for understanding the evolution of human thought on resource allocation, decision-making, and policy formulation. By tracing the development of economic ideas, one can appreciate the shifts in paradigms that have influenced how economies operate today. Theories from thinkers like Adam Smith and John Maynard Keynes laid the groundwork for contemporary economic practices and policies, making it essential to comprehend their contributions and limitations. This historical perspective provides valuable lessons and insights that guide current and future economic strategies.
-
-Positive economics, which focuses on objective analysis and empirical evidence, plays a vital role in modern economics. Unlike normative economics, which deals with what ought to be, positive economics examines what is and can guide decision-making without value judgments. This branch of economics provides models and predictions based on data, allowing policymakers and researchers to test hypotheses and inform regulations with scientifically-backed analyses. The relevance of positive economics in contemporary economics is evident in its capacity to underpin crucial policy decisions and academic research that reflect real-world complexities.
 
 ![Image](images/1.jpeg)
 
-Algorithmic trading has become a cornerstone of modern financial systems, transforming how trades are executed in financial markets. By using algorithms to automate trading decisions, institutions can process vast amounts of data and execute trades at speeds unimaginable in traditional trading. This advancement has led to increased efficiency and liquidity in markets, although it also presents challenges such as market volatility and ethical concerns. Algorithmic trading exemplifies the application of economic theories and quantitative models in practice, illustrating their direct impact on financial systems.
-
-This article examines the foundations of economic theory, starting with classical, neo-classical, and Keynesian economics, and their enduring influence on modern economic thought. It further explores the evolution of positive economics, highlighting the seminal contributions of figures like Milton Friedman. The discussion then focuses on the emergence of algorithmic trading, detailing its history, benefits, risks, and strategies. Finally, the article analyzes the interconnectedness between economics and algorithmic trading, considering how economic theories inform algorithmic strategies and what future trends and challenges lie ahead.
-
-By understanding these topics, readers interested in finance and economics can gain a comprehensive view of both the historical context and the contemporary dynamics shaping today’s financial landscapes. The exploration encourages further inquiry into how these economic theories and practices continue to evolve and influence global markets.
-
 ## Table of Contents
 
-## The Foundation of Economic Theory
+## What is positive economics?
 
-Economic theory's foundations trace back to the works of classical economists such as Adam Smith and David Ricardo. These thinkers laid the groundwork for understanding how markets function, emphasizing concepts like the division of labor, specialization, and free markets.
+Positive economics is a branch of economics that focuses on describing and explaining what is happening in the economy. It uses facts and data to analyze economic behavior and events. For example, positive economics might look at how a change in the minimum wage affects unemployment rates. It aims to be objective and free from personal opinions or value judgments. Economists using positive economics try to answer questions like "What will happen if we raise taxes?" or "How does inflation affect savings?"
 
-### Classical Economics
+Unlike normative economics, which deals with what should be, positive economics sticks to what is. It's about observing, measuring, and predicting economic outcomes based on evidence. For instance, if a study shows that increasing the money supply leads to higher inflation, that's a positive economic statement. Positive economics is important because it helps us understand the real-world effects of economic policies and events, making it a crucial tool for policymakers and researchers who need to make informed decisions based on solid evidence.
 
-**Adam Smith** is often regarded as the father of modern economics. In his seminal work, "The Wealth of Nations" (1776), he introduced the idea of the "invisible hand," suggesting that individuals seeking their self-interest in competitive markets lead to economic prosperity and efficiency. Smith's theories emphasized that governments should limit intervention in markets, allowing natural laws of supply and demand to dictate production and pricing.
+## How does positive economics differ from normative economics?
 
-**David Ricardo**, another classical economist, advanced the theory of comparative advantage, which asserts that nations should specialize in producing goods they can produce most efficiently, even if they are not the most efficient across all industries. This specialization leads to increased overall economic welfare and forms the basis for international trade.
+Positive economics and normative economics are two different ways of looking at the economy. Positive economics is all about facts and data. It tries to describe and explain what is actually happening in the economy. For example, if you want to know how raising the minimum wage affects unemployment, positive economics will look at the numbers and give you an answer based on evidence. It's like a scientist studying the economy, trying to be as objective as possible and not letting personal opinions get in the way.
 
-### Transition to Neo-Classical Economics
+On the other hand, normative economics is about what should be. It involves opinions and value judgments about what is good or bad for the economy. For example, someone might say that raising the minimum wage is good because it helps low-income workers, even if the data shows it might increase unemployment. Normative economics is more like a debate, where people argue about what the best policies are based on their beliefs and values.
 
-The late 19th century witnessed a transition from classical to neo-classical economics. This era was marked by the marginal revolution, which introduced the importance of marginal utility in determining value, a departure from the labor theory of value advocated by classical economists.
+In short, positive economics asks "What is?" and tries to answer with facts, while normative economics asks "What should be?" and involves opinions. Both are important, but they serve different purposes. Positive economics helps us understand the real effects of economic policies, while normative economics helps us decide which policies we think are best.
 
-**William Stanley Jevons**, **Carl Menger**, and **Leon Walras** were central figures in this transition. They introduced mathematical and methodological rigor into economic analysis, focusing on individual preferences and the utility derived from goods. Neo-classical economics brought forth the notion of equilibrium, where supply equates demand, analyzed through calculus and models.
+## What are the origins of positive economics?
 
-### Keynesian Economics
+Positive economics started to become a big idea in the 1930s. A famous economist named Lionel Robbins helped shape this idea. He wanted economics to be more like a science, focusing on facts and what is really happening in the economy. Robbins believed that economists should study how people use limited resources to meet their needs, and they should do this without saying what is good or bad. This way, economics could be more objective and useful for understanding the world.
 
-The 20th century witnessed the rise of Keynesian economics, born from the challenges posed by the Great Depression. **John Maynard Keynes** presented ideas in "The General Theory of Employment, Interest, and Money" (1936) that challenged classical economics, particularly the notion that markets always self-correct.
+Before Robbins, many economists mixed up facts with their own opinions. They would say things like "we should do this" or "that policy is bad." Robbins and others thought this made economics confusing and less reliable. So, they pushed for positive economics, which tries to answer questions like "what happens if we do this?" without saying if it's good or bad. Over time, this idea became very important in economics, helping to separate the study of what is from the debate about what should be.
 
-Keynes argued that active government intervention is necessary to manage economic cycles. He emphasized the role of aggregate demand and the impact of investment on income and employment, advocating for fiscal and monetary policies to mitigate economic downturns. His work laid the foundation for macroeconomic policy and transformed economics, providing governments a toolkit to combat recessions and manage economic stability.
+## Who are some key figures in the development of positive economics?
 
-### Significance and Relevance Today
+Lionel Robbins was a big name in starting positive economics. In the 1930s, he wrote that economics should focus on facts and what is really happening. He wanted economics to be like a science, studying how people use limited resources without saying if things are good or bad. Robbins thought this would make economics more clear and useful for understanding the world.
 
-The foundational theories of classical, neo-classical, and Keynesian economics significantly shaped modern economic thought and practices. The classical ideas of free markets and efficiency continue to influence policies promoting deregulation and free trade. Neo-classical principles underpin contemporary microeconomic analysis, utilized in modeling consumer behavior, firm decisions, and market outcomes.
+Another important person was Milton Friedman. He was a famous economist who believed strongly in positive economics. In the 1950s, he wrote about how economists should test their theories with real data. Friedman said that if a theory can predict what will happen, it's a good theory, even if it's not perfect. His work helped make positive economics a big part of how economists think and work.
 
-Keynesian economics remains highly relevant, especially during periods of economic instability. Policymakers worldwide continue to deploy Keynesian-inspired fiscal and monetary measures in response to financial crises and economic recessions, as seen during the 2008 financial crisis and the COVID-19 pandemic.
+## What are the main theories associated with positive economics?
 
-### Continued Relevance
+Positive economics is all about using facts and data to understand the economy. One big theory in positive economics is the theory of supply and demand. This theory says that the price of something will go up if more people want it and there's not enough of it. If there's too much of something and not enough people want it, the price will go down. Economists use this theory to predict how prices will change and to understand how markets work. For example, if the government puts a tax on cigarettes, positive economics can predict that the price of cigarettes will go up because the cost to make them goes up.
 
-These foundational theories endure as integral building blocks of economic analysis. For example, trade policies and international economic relations often invoke Ricardo's comparative advantage. Neo-classical economics provides tools for analyzing market structures, such as oligopolies and monopolistic competition, with demand-supply models and utility maximization techniques used daily by economists and policymakers. Keynesian economics provides a framework for understanding how aggregate demand influences employment and output, guiding interventions in national budgets and monetary policies.
+Another important theory is the theory of consumer behavior. This theory looks at how people make choices about what to buy. It says that people try to get the most happiness or satisfaction they can with the money they have. Economists use this theory to predict how people will react to changes in prices or income. For instance, if the price of apples goes up, positive economics can predict that people might buy fewer apples and more bananas instead. These theories help economists understand and predict what is happening in the economy without saying if it's good or bad.
 
-In summary, the evolution from classical to Keynesian economics established the core principles that continue to guide economic theory and practice, demonstrating their timelessness and adaptability to new challenges.
+## How is positive economics applied in economic analysis?
 
-## Evolution of Positive Economics
+Positive economics is used in economic analysis to understand and predict what happens in the economy based on facts and data. Economists look at things like how changes in prices affect what people buy, or how new laws might change how businesses act. They use theories like supply and demand to see how prices and quantities change. For example, if the government raises taxes on gasoline, positive economics can predict that the price of gasoline will go up and people might drive less. It's all about looking at the numbers and figuring out what will happen next, without saying if it's good or bad.
 
-Positive economics is a branch of economic analysis that focuses on describing and predicting economic phenomena without prescribing policies or norms. It aims to objectively study and explain how economic systems function, relying heavily on empirical data and observation. This approach contrasts with normative economics, which involves value judgments and recommendations about what economic policies should be pursued.
+In policy analysis, positive economics helps governments and organizations understand the real effects of their decisions. For instance, if a city wants to build a new highway, positive economics can study how it might affect traffic, the environment, and the local economy. Economists collect data, run models, and make predictions based on what they see. This helps decision-makers see the likely outcomes of their choices. By focusing on what is and what will be, positive economics provides a clear picture of the economic landscape, making it easier to plan and act based on solid evidence.
 
-Milton Friedman is a pivotal figure in the development of positive economics. In his influential essay "The Methodology of Positive Economics," Friedman argued that the merit of a theory should not be judged by the realism of its assumptions but by the accuracy of its predictions. This pragmatic stance emphasized the importance of testable hypotheses and led to a more scientifically grounded approach in economic analysis.
+## What are the advantages of using positive economics?
 
-Empirical data and rigorous testing are central to positive economics. Economists collect data from real-world observations and use statistical tools to test hypotheses about economic behaviors and markets. This practice helps isolate causal relationships and enhances the precision of economic forecasts. Techniques such as regression analysis, econometric modeling, and data visualization are frequently employed to interpret complex datasets.
+Positive economics helps us understand the economy better because it uses facts and data. When economists use positive economics, they look at what is really happening, not what they think should happen. This makes their predictions more reliable. For example, if they want to know how a new tax will affect prices, they can study past data and make a good guess. This helps businesses and governments make better decisions because they can see the real effects of their choices.
 
-In contemporary contexts, positive economics finds significant applications in policy formulation and academic research. Policymakers rely on objective analyses provided by positive economics to craft interventions that address economic issues such as inflation, unemployment, and trade imbalances. For instance, central banks use econometric models to predict the outcomes of monetary policy changes. Similarly, in academia, positive economics underlies much of the empirical research that explores economic phenomena like growth patterns, consumer behavior, and market dynamics.
+Another advantage of positive economics is that it helps keep personal opinions out of economic analysis. When economists stick to the facts, they can avoid arguments about what is good or bad. This makes their work more useful for everyone, no matter what they believe. For instance, if a study shows that raising the minimum wage leads to higher unemployment, people can use that information to make informed decisions, even if they disagree on whether raising the minimum wage is a good idea.
 
-Case studies that highlight the impact of positive economics include its role in shaping monetary policies in various countries. By employing economic models rooted in positive analysis, central banks can simulate potential scenarios and make informed decisions. For example, during financial crises, positive economic models help predict the outcomes of [interest rate](/wiki/interest-rate-trading-strategies) adjustments or quantitative easing measures, guiding policymakers toward effective strategies. Moreover, positive economics has been instrumental in evaluating the economic impacts of global trade policies, providing clarity on outcomes versus theoretical expectations. This evidence-based approach not only informs economic policy but also enriches academic discourse by challenging or confirming theoretical postulates with empirical evidence.
+## What are the limitations or disadvantages of positive economics?
 
- to Algorithmic Trading
+One limitation of positive economics is that it can't tell us what is good or bad. It only shows us what is happening or what will happen based on facts and data. But sometimes, people need to know what the best choice is, and positive economics can't help with that. For example, if a study shows that raising taxes will lead to less spending, it doesn't say if raising taxes is a good or bad idea. People have to decide that based on their own values and beliefs.
 
-Algorithmic trading refers to the use of computer algorithms to execute trading orders in financial markets at speeds and frequencies that are impossible for human traders. These algorithms follow a predefined set of rules for placing trades, factoring in variables such as timing, price, and [volume](/wiki/volume-trading-strategy). The primary objective is to profit from strategies derived from statistical analysis and market data.
+Another disadvantage is that positive economics depends a lot on the data it uses. If the data is wrong or incomplete, the predictions and conclusions can be wrong too. Economists need good, accurate data to make reliable predictions, but sometimes that data is hard to get. For instance, if they want to predict how a new law will affect the economy, they need data about how similar laws worked in the past. If that data is missing or not good enough, their predictions might not be very useful.
 
-The evolution of [algorithmic trading](/wiki/algorithmic-trading) began in the 1970s with the advent of electronic trading platforms, marking a shift from traditional open outcry exchanges. In the subsequent decades, technological advancements such as high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) systems and complex algorithms enhanced the capabilities of automated trading. The increased computational power and reduced transaction costs contributed to the rapid growth of algorithmic trading, especially since the 1990s.
+## Can you provide examples of positive economic statements?
 
-Several technological advancements have facilitated the rise of algorithmic trading. The development of high-speed internet and enhanced computational capacities allows for real-time data processing and swift execution of trades. Advances in big data analytics enable traders to process and analyze vast amounts of market data, identifying patterns and opportunities for trading. Machine learning and [artificial intelligence](/wiki/ai-artificial-intelligence) have introduced adaptive algorithms that can modify themselves in response to new data, further improving trade accuracy and profitability.
+A positive economic statement is something that can be tested with facts and data. For example, "If the government raises the minimum wage, unemployment will go up." This statement can be checked by looking at what happens to unemployment rates after the minimum wage goes up. Economists can study past changes in the minimum wage and see if unemployment went up or down.
 
-Algorithmic trading offers numerous advantages, such as increased market [liquidity](/wiki/liquidity-risk-premium) and reduced transaction costs. It enables the execution of trades at optimal speed and efficiency, minimizing human errors. However, it also poses risks, including market [volatility](/wiki/volatility-trading-strategies) and the potential for systemic failures. The flash crash of 2010, where major US stock indices rapidly fell and recovered, highlights the risks associated with high-frequency algorithmic trading.
+Another example is, "When the price of gas goes up, people drive less." This can be tested by looking at how much people drive when gas prices change. If data shows that people really do drive less when gas prices are higher, then the statement is true. Positive economic statements like these help us understand how the economy works based on what we can see and measure.
 
-Various types of algorithmic trading strategies are used today. Statistical [arbitrage](/wiki/arbitrage) seeks to exploit pricing inefficiencies between related financial instruments through mean reversion models. Market-making strategies involve continuously buying and selling securities to capture the spread between bid and ask prices. Momentum-based strategies capitalize on continuing trends, while pairs trading identifies correlations between asset prices. Trend-following algorithms focus on identifying and riding market trends, predicting that assets in motion will continue their movement.
+## How does positive economics influence policy-making?
 
-In conclusion, algorithmic trading has revolutionized the financial markets by leveraging computational technologies to create efficient and sophisticated trading strategies. While offering significant benefits, it comes with its own set of challenges and risks that must be managed carefully.
+Positive economics helps people who make laws and rules by giving them facts and numbers about what is happening in the economy. When someone wants to make a new law, like raising taxes or changing the minimum wage, they can use positive economics to see what might happen next. For example, if they want to know if raising taxes will make people spend less money, they can look at what happened when taxes went up before. This helps them make better choices because they can see the real effects of their decisions.
 
-## Interconnection: Economics and Algorithmic Trading
+But positive economics can't tell people if a law is good or bad. It just shows what will happen, not if it's the right thing to do. So, when making laws, people need to use positive economics to understand the facts, but they also need to think about what they believe is best for everyone. This way, they can make smart choices based on what they know will happen and what they think should happen.
 
-Positive economics plays a crucial role in the landscape of algorithmic trading by providing empirical insights and data-driven models that inform trading strategies. Unlike normative economics, which focuses on what ought to be, positive economics aims to explain and predict real-world behaviors through empirical observation and data analysis. This objective approach is pivotal in the development of algorithmic trading strategies where market behaviors must be predicted and acted upon in real-time.
+## What are some common criticisms of positive economics?
 
-### Economic Theories Underpinning Market Behaviors
+Some people say that positive economics is too focused on numbers and facts, and it misses the bigger picture. They think that just looking at what is happening doesn't help us understand why things happen or what we should do about them. For example, if positive economics shows that raising the minimum wage leads to higher unemployment, it doesn't tell us if raising the minimum wage is a good idea or not. Critics argue that we need to think about values and what is fair, not just what the data says.
 
-Algorithmic trading relies heavily on economic theories of market efficiency, rational behavior, and price dynamics. The Efficient Market Hypothesis (EMH), for example, posits that asset prices fully reflect all available information. This theory suggests that it is impossible to consistently achieve returns higher than average market returns on a risk-adjusted basis. Traders use this hypothesis to design algorithms that exploit slight anomalies in asset pricing, aiming for high-frequency trades that capitalize on brief opportunities before they self-correct.
+Another criticism is that positive economics can be wrong if the data it uses is not good. If the numbers are wrong or if we don't have all the information we need, the predictions and conclusions can be off. This can make it hard for people to trust what positive economics says. For instance, if economists want to predict how a new law will affect the economy, they need good data from the past. If that data is missing or not accurate, their predictions might not be very helpful.
 
-Another key concept is the Rational Expectations Theory, which posits that individuals make decisions based on their rational outlook, available information, and past experiences. In algorithmic trading, this theory aids in the modeling of predictive algorithms that anticipate market movements based on historical data and apparent market sentiment.
+## How has the approach to positive economics evolved over time?
 
-### Relationship Between Financial Market Theories and Technological Advancements
+Positive economics started to become important in the 1930s, thanks to economists like Lionel Robbins. He wanted economics to be more like a science, focusing on facts and what is really happening in the economy. Robbins believed that economists should study how people use limited resources to meet their needs, without saying what is good or bad. This idea helped make economics more objective and useful for understanding the world. Over time, more economists started to use this approach, trying to keep their personal opinions out of their work and focusing on what the data showed.
 
-Technological advancements have provided the tools necessary to apply complex economic theories to real-time trading. High-speed computing, big data analytics, and advanced programming languages like Python and C++ enable traders to design algorithms that analyze large volumes of data, identify patterns, and execute trades within milliseconds. This symbiotic relationship between theory and technology has pushed algorithmic trading to the forefront of modern finance.
-
-### Application of Economic Concepts in Algorithm Design
-
-Economic concepts are directly applied in designing algorithms that perform specific tasks. For example, mean reversion—a financial theory suggesting that asset prices and historical returns revert to their long-term mean or average level—is often coded into trading algorithms. A simple mean reversion strategy in Python might look like this:
-
-```python
-import numpy as np
-import pandas as pd
-
-# Assume data is a DataFrame with historical price data
-data['Moving Average'] = data['Price'].rolling(window=20).mean()
-
-def mean_reversion_strategy(data):
-    buy_signals = []
-    sell_signals = []
-    for i in range(len(data)):
-        if data['Price'][i] < data['Moving Average'][i]:
-            buy_signals.append(i)
-        elif data['Price'][i] > data['Moving Average'][i]:
-            sell_signals.append(i)
-    return buy_signals, sell_signals
-
-buy, sell = mean_reversion_strategy(data)
-```
-
-This code identifies buying opportunities when the current price is below the moving average and selling when above, reflecting the mean reversion principle.
-
-### Implications of Algorithmic Trading on Economic Efficiency and Market Dynamics
-
-Algorithmic trading has profound implications for economic efficiency and market dynamics. By rapidly processing information and executing trades, algorithms contribute to market liquidity and price discovery, potentially leading to more efficient markets. However, the same systems can also increase volatility, as seen in events like the 2010 Flash Crash, where rapid, automated sell-offs caused temporary market disruptions.
-
-The integration of positive economics in algorithmic trading highlights an evolving interplay where empirical analysis and technological sophistication bolster trading strategies, underscoring the significance of economic theory across financial systems globally.
-
-## Current Trends and Challenges in Algorithmic Trading
-
-Algorithmic trading has undergone significant transformation with the introduction of big data and [machine learning](/wiki/machine-learning) technologies. These advancements have enabled the analysis of vast datasets and the identification of complex patterns, enhancing the precision and efficiency of trading strategies. Machine learning algorithms can develop predictive models that assess the probability of various market outcomes, enabling traders to make more informed decisions. One typical example is the use of neural networks, which can detect non-linear relationships in data, providing a competitive edge in predicting stock price movements.
-
-The integration of AI-driven strategies in algorithmic trading provides multiple advantages, including speed and accuracy. By processing data more quickly than human traders, AI systems can execute trades at optimal times, thereby maximizing profits. However, this technological edge also introduces substantial regulatory and ethical challenges. Regulatory authorities face the task of setting boundaries that prevent market manipulation while still allowing innovation. The automation inherent in algorithmic trading poses ethical questions regarding fairness, as unequal access to technology can lead to market disparities.
-
-The current economic landscape profoundly affects algorithmic trading decisions. Economic indicators such as interest rates, inflation, and GDP growth are crucial inputs for trading algorithms. For instance, in periods of economic instability, algorithms may be adjusted to adopt more conservative strategies to mitigate risk. These adjustments require continuous fine-tuning of algorithms to align with ever-changing economic conditions, demonstrating the dynamic interplay between economic environments and trading strategies.
-
-Looking ahead, the future potential of algorithmic trading bears both opportunities and challenges. The rapid adoption of AI and machine learning technologies suggests an optimistic trajectory for enhanced trading systems. However, foreseeable challenges include the need for improved data quality, the complexity of real-time processing, and the need for robust safeguards against systemic risks. Establishing ethical standards and regulatory frameworks will be vital in ensuring the sustainability and integrity of algorithmic trading as it evolves within diverse economic contexts.
-
-## Conclusion
-
-The historical evolution of economic theory has laid a robust foundation for modern finance. From the classical perspectives of Adam Smith and David Ricardo, to the transformative insights of Keynesian economics, these theories have impacted financial practices and policy-making over centuries. In the contemporary setting, the principles derived from these seminal works continue to inform economic models and financial systems, demonstrating their enduring relevance.
-
-Positive economics, with its focus on objective analysis and data-driven insights, has significantly shaped empirical policies and financial innovations. Pioneered by thinkers like Milton Friedman, it emphasizes the importance of predictions based on observable phenomena, which has become crucial in developing effective economic policies and advancing financial technologies. By stressing empirical validation, positive economics has facilitated a more rigorous approach to understanding economic dynamics and designing interventions that reflect real-world complexities.
-
-Algorithmic trading represents a salient intersection of economic theories and technological advancement, reshaping how financial markets operate. By employing algorithms that interpret market data to drive trading decisions, these automated systems leverage economic theories related to market behaviors and efficiency. The rise of algorithmic trading has introduced both opportunities and challenges: while it has increased market liquidity and trade execution speed, it also poses risks related to market volatility and systemic stability. The impacts of algorithmic trading underscore the necessity for ongoing research and adaptation in both economic and regulatory frameworks to ensure balanced growth in financial markets.
-
-Encouraging further study in economics and financial technology is vital to developing innovative solutions and adapting to the rapidly evolving financial landscape. Interdisciplinary research at the nexus of economics, data science, and finance technology promises to uncover new insights and foster advancements that could enhance economic structures globally.
-
-In closing, the continuous exploration of economic theories and financial innovations holds the potential to not only elucidate complex market phenomena but also inspire transformative changes in financial systems. By building on the legacy of past economic thought and embracing the possibilities offered by new technologies like algorithmic trading, future generations can foster a more dynamic and efficient global economy. The journey of economics and finance is one of perpetual discovery, and its pursuit remains as crucial today as ever.
+In the 1950s, Milton Friedman added to the idea of positive economics. He said that economists should test their theories with real data. Friedman believed that if a theory could predict what would happen, it was a good theory, even if it wasn't perfect. This made positive economics even more important in how economists think and work. Today, positive economics is a big part of economic analysis, helping people understand and predict what is happening in the economy based on facts. But it still has its limits, like not being able to tell us what is good or bad, and depending a lot on the quality of the data it uses.
 
 ## References & Further Reading
 
