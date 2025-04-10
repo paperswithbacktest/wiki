@@ -3,161 +3,88 @@ title: "Rolling Options: Mechanism and Examples"
 description: "Explore rolling options mechanisms in algo trading to extend expiration dates, manage risks, and boost returns. Enhance strategies for optimal financial outcomes."
 ---
 
-Financial markets are dynamic systems comprised of various instruments designed to facilitate investment strategies. One of the key tools utilized within these markets are financial derivatives. Derivatives serve essential functions in risk management and offer avenues for speculative opportunities, providing investors and traders with the capability to execute complex strategies tailored to their specific financial goals. Among the spectrum of derivatives, options hold significant importance due to their flexibility and potential for generating sophisticated trading strategies. Options grant holders the right, without the obligation, to buy or sell an underlying asset at a predetermined price, enabling precise management of market exposure.
 
-This article focuses on financial derivatives, particularly emphasizing rolling options, a technique that extends an option's expiration date for strategic advantage. Additionally, we explore various option strategies, outlining how these can be employed to meet specific market conditions and risk preferences. Another critical component discussed is the role of algorithmic trading within the options market. Algorithmic trading allows for the efficient execution of trades through pre-programmed instructions, enhancing the speed and accuracy of trading operations.
-
-![Image](images/1.jpeg)
-
-Understanding these elements is crucial for traders aiming to refine their decision-making processes and improve financial outcomes. By mastering the application of derivatives, options, and algorithmic trading, investors can more effectively navigate the complexities of the financial markets, striving to achieve their investment objectives.
+![Image](images/1.png)
 
 ## Table of Contents
 
-## Understanding Financial Derivatives
+## What are rolling options and why are they used?
 
-Financial derivatives are sophisticated financial instruments that derive their value from an underlying asset, which could be stocks, bonds, commodities, currencies, interest rates, or market indices. These contracts are crucial in the financial markets as they offer mechanisms for hedging risk, speculative opportunities to profit from price movements, and leveraging positions.
+Rolling options are a strategy used in trading where an investor changes the expiration date or strike price of an existing option contract. This is done by closing the current option and opening a new one with different terms. Traders use rolling options to manage their investments better, especially when they think the market will move in a way that benefits them more with the new option.
 
-At the core, a derivative's value is contingent upon the price of another asset, often referred to as the 'underlying asset'. For instance, an oil futures contract is an agreement to buy or sell a specified quantity of oil at a predetermined price on a future date, and its value fluctuates based on the market price of oil.
+People use rolling options for a few main reasons. One reason is to extend the time they have to be right about the market's direction. If an option is about to expire and the market hasn't moved as expected, rolling it to a later date gives more time for the market to move favorably. Another reason is to adjust the strike price. If the market moves but not enough to make the current option profitable, rolling to a different strike price can help capture more of the market's movement. This strategy helps traders stay flexible and adapt to changing market conditions.
 
-The primary functions of derivatives in the financial markets include:
+## How does the process of rolling options work?
 
-1. **Hedging Risk**: This is perhaps the most significant utility of derivatives. By taking positions in derivatives, investors and firms can mitigate the risk of price changes in their asset holdings. For example, an airline company concerned about rising fuel prices might use futures contracts to lock in current prices, thus protecting against potential increases.
+Rolling options means changing your current option contract to a new one. You do this by closing your old option and opening a new one with a different expiration date or strike price. For example, if you have an option that is about to expire but you still think the market will move in your favor, you can close that option and buy a new one that expires later. Or, if the market has moved but not enough to make your option profitable, you can close it and buy a new one with a different strike price that might be better.
 
-2. **Speculation**: Traders can also engage in derivatives trading purely for speculative purposes, aiming to profit from anticipated price changes of the underlying asset. Unlike hedging, speculative use of derivatives involves significant risk, as it bets on price movements with the possibility of substantial gains or losses.
+The process involves a few steps. First, you need to decide if you want to roll the option to a different expiration date or change the strike price. Then, you close your current option by selling it. After that, you buy the new option with the terms you want. This can be done through your trading platform, where you'll enter the details of the new option you want to buy. Rolling options can help you stay in the game longer or adjust to market changes, but remember, it costs money to close the old option and open a new one, so you need to think carefully about whether it's worth it.
 
-3. **Leverage**: Derivatives provide the opportunity to control large positions with a relatively small capital outlay. This high leverage means that a small price movement in the underlying asset could result in substantial profits or losses. While leverage can amplify gains, it can also magnify risks.
+## What are the key factors to consider before rolling an option?
 
-Common types of derivatives include:
+Before you decide to roll an option, think about how much time is left until your current option expires. If it's close to expiring and the market hasn't moved the way you expected, rolling it to a later date might give you more time for the market to move in your favor. But remember, rolling an option costs money because you have to close the old one and open a new one. So, make sure the extra time will be worth the cost.
 
-- **Options**: These are contracts that provide the holder with the right, but not the obligation, to buy (call option) or sell (put option) an underlying asset at a predetermined price, within a specific time period.
+Also, consider how the market has moved and if changing the strike price could help. If the market has moved but not enough to make your current option profitable, rolling to a different strike price might capture more of that movement. But again, think about the cost of rolling and if the new strike price gives you a good chance to make a profit. It's all about balancing the potential benefits against the costs and risks.
 
-- **Futures**: Futures are standardized contracts obligating the buyer to purchase, or the seller to sell, an asset at a set price at a future date. These contracts trade on exchanges and have standardized terms.
+Lastly, look at the overall market conditions and your investment goals. Rolling an option can be a good way to stay flexible and adapt to changes, but it's not always the best choice. Make sure rolling fits with your strategy and that you're not just doing it because you're nervous about losing money. Take your time to think it through and make a decision that makes sense for your situation.
 
-- **Forwards**: Similar to futures, forwards are private agreements to buy or sell an asset at a set price on a future date. Unlike futures, they are not standardized or traded on exchanges, leading to counterparty risk.
+## Can you explain the difference between rolling up, down, out, and in?
 
-- **Swaps**: Swaps involve the exchange of cash flows or liabilities between two parties, commonly used to manage interest rate or currency exchange risks. The most prevalent is the interest rate swap, where cash flows based on a fixed interest rate are exchanged for cash flows based on a floating interest rate.
+Rolling up means you're changing your option to a higher strike price. You do this if you think the stock price will go up more than you first thought. For example, if you have an option to buy a stock at $50 but now you think it will go to $60, you might roll up to a $60 strike price. Rolling down is the opposite; you change to a lower strike price. You might do this if you think the stock won't go as high as you first expected. If you had a $50 strike and now think the stock will only go to $40, you might roll down to a $40 strike price.
 
-Derivatives are inherently versatile due to their ability to be tailored to the specific requirements of a trader or investor. This flexibility allows for the creation of complex strategies that address precise risk preferences and investment goals. However, the use of derivatives requires a profound understanding of the underlying mathematics and market dynamics, as their complexity can lead to significant financial risks if not managed appropriately.
+Rolling out means you're changing your option to a later expiration date. You do this if you need more time for your prediction about the stock to come true. If your option is about to expire but you still think the stock will move in your favor, you might roll out to a later date to give yourself more time. Rolling in is less common, but it means you're changing to an earlier expiration date. You might do this if you think the stock will move quickly and you want to take advantage of that sooner. For example, if you have an option expiring in two months but you think the stock will move in the next month, you might roll in to take advantage of that sooner.
 
-## Exploring Options and Rolling Options
+## What are the potential benefits of rolling options?
 
-Options are financial derivatives granting the holder the right, but not the obligation, to buy or sell an underlying asset at a predetermined price, known as the strike price, prior to a specified expiration date. They offer flexibility and strategic diversity to investors and traders. Options are primarily categorized into two types: call options and put options, each serving distinct strategic purposes.
+Rolling options can give you more time to be right about the market. If you think the stock will go up but it hasn't moved yet, you can roll your option to a later date. This way, you don't have to give up on your prediction just because time is running out. Rolling options can also help you adjust to changes in the market. If the stock moves a bit but not enough to make your option profitable, you can roll to a different strike price that might be better. This flexibility can help you make the most of your investment.
 
-Call options provide the holder the right to purchase the underlying asset, making them suitable for investors who anticipate a rise in asset prices. Conversely, put options grant the right to sell the underlying asset, benefiting those who predict a decline in asset prices. The strategic application of these options allows traders to tailor their market positions, either hedging against potential losses or speculating on future price movements.
+Another benefit is that rolling options can help you manage risk. If the market is moving against you, rolling can give you a chance to cut your losses or change your strategy. By rolling to a different strike price or expiration date, you can adapt to new information and make smarter decisions. While rolling options does cost money, the potential to improve your position and increase your chances of making a profit can make it worth it.
 
-Rolling options is a strategy employed to extend the expiration date of an existing option position. This involves closing the current option position and simultaneously opening a new one with a later expiration date. The roll can be executed for both call and put options and is facilitated by a trade-off, usually involving a cash payment or receipt depending on market conditions. This strategy is advantageous for traders who expect a favorable future price movement in the underlying asset but wish to maintain their position without exercising the original option. By rolling the option, traders can potentially benefit from the anticipated price changes without incurring the cost and risks associated with exercising the option.
+## What are the risks associated with rolling options?
 
-For instance, consider an investor holding a call option on stock XYZ with an expiration date approaching. If the investor believes that XYZ's price will increase but requires more time, they might roll the option. This process could involve selling the current call option and purchasing a similar call option with a further expiration date. 
+Rolling options can be risky because it costs money to close your old option and open a new one. Every time you roll, you pay fees and commissions, which can add up quickly. If the market doesn't move in your favor after you roll, you could lose more money than if you had just let the original option expire. Also, rolling doesn't guarantee success; it's just another chance to be right about the market, but there's no promise that it will work out.
 
-Overall, rolling options offer traders a mechanism to manage their positions more flexibly and adapt to changing market forecasts while aligning their strategies with long-term investment goals. Understanding this and its implications enhances strategic decision-making in financial markets.
+Another risk is that rolling options can make you hold onto a losing position for too long. It's easy to keep rolling in the hope that the market will eventually move your way, but this can lead to bigger losses if it doesn't. You might end up spending more on rolling than you would have lost by just accepting the loss on the original option. It's important to think carefully about whether rolling is really the best choice or if you're just delaying the inevitable.
 
-## Common Option Strategies
+## How does rolling options affect the cost basis and breakeven point?
 
-Option strategies can range from simple to complex, providing a versatile toolkit for traders with different market outlooks and risk appetites. Basic strategies include buying calls or puts, essentially allowing traders to make directional bets on price movements. A call option gives the holder the right to purchase an asset at a predetermined price, while a put option grants the right to sell. These straightforward strategies are based on the trader's anticipation of whether the asset's price will rise or fall.
+When you roll an option, you change the cost basis of your investment. The cost basis is the total amount you've spent on the option. When you roll, you have to close your old option and buy a new one. This means you're adding the cost of the new option to what you've already spent. So, your new cost basis will be higher because you're paying more to keep your position open. This higher cost basis can make it harder to make a profit because you need the stock to move more in your favor to cover the extra costs.
 
-More advanced strategies enable traders to address more nuanced market conditions, particularly concerning [volatility](/wiki/volatility-trading-strategies). Spread strategies, such as the bull call spread or bear put spread, involve purchasing one option and selling another. This aims to limit potential losses while providing opportunities for gains. The bull call spread, for example, consists of buying a call option at a lower strike price while simultaneously selling another call option at a higher strike price. This strategy is employed when a moderate rise in the underlying asset is expected.
+Rolling options also changes your breakeven point. The breakeven point is the price the stock needs to reach for you to break even on your investment. When you roll to a new option with a different strike price or expiration date, the breakeven point changes. If you roll up to a higher strike price, the stock needs to go up more for you to break even. If you roll out to a later expiration date, you might need the stock to move more over a longer period to cover the extra costs of rolling. So, rolling can make your breakeven point harder to reach, which means you need to be more right about the market to make money.
 
-Straddles and strangles are volatility-based strategies that capitalize on large price movements, irrespective of direction. A straddle involves buying a call and a put option at the same strike price and expiration date, benefiting from a significant move in either direction. The strangle, on the other hand, allows for a wider price movement by purchasing a call and a put option at different strike prices. Both strategies thrive in high-volatility environments, but the straddle requires a greater price movement to be profitable due to higher initial costs.
+## What are some common strategies for rolling options?
 
-Each option strategy possesses distinct risk and reward profiles, necessitating a thorough understanding of the trader's specific goals and market perspectives. For instance, while basic call and put buying strategies offer unlimited profit potential with limited risk, more intricate strategies like spreads, straddles, and strangles introduce defined profit and loss scenarios. Thus, assessing these elements concerning one's market view and financial objectives is crucial for effective use of option strategies.
+One common strategy for rolling options is to roll out to a later expiration date when your current option is about to expire but the stock hasn't moved as much as you expected. By doing this, you give yourself more time for the stock to go up or down in the direction you predicted. This can be helpful if you still believe in your original prediction but just need more time for it to happen. However, remember that rolling out costs money because you have to close your old option and buy a new one, so make sure the extra time is worth the extra cost.
 
-## Algo Trading in Option Markets
+Another strategy is to roll up or down to a different strike price when the stock has moved but not enough to make your current option profitable. If the stock has gone up more than you thought, you might roll up to a higher strike price to capture more of that upward movement. On the other hand, if the stock hasn't moved as much as you hoped, you might roll down to a lower strike price to give yourself a better chance of making a profit. Again, rolling to a different strike price costs money, so you need to think about whether the new strike price gives you a good chance to make up for the extra costs.
 
-Algorithmic trading, commonly referred to as algo trading, relies on computer algorithms to execute trades at unprecedented speeds and frequencies. This form of trading is governed by predefined criteria, allowing for the systematic and rapid execution of trades without human intervention. In options trading, [algorithmic trading](/wiki/algorithmic-trading) significantly boosts efficiency by processing complex strategies, such as calculating the Greeks (Delta, Gamma, Theta, etc.) and devising optimal hedging strategies swiftly and accurately.
+A third strategy involves a combination of rolling out and rolling up or down. For example, if your option is about to expire and the stock has moved a bit but not enough, you might roll out to a later date and also roll up or down to a new strike price. This can give you both more time and a better chance to profit from the stock's movement. But remember, this strategy can be more expensive because you're making two changes at once, so it's important to weigh the potential benefits against the costs.
 
-One of the main advantages of algo trading in the options market is its ability to handle large portfolios with minimal manual oversight. Algorithms can be programmed to monitor market conditions continuously, identify trading opportunities, and execute trades that align with an investor's risk tolerance and strategic objectives. This precision reduces transaction costs and enhances the overall execution speed, which is crucial in exploiting short-lived market inefficiencies.
+## How can rolling options be used to manage an existing position?
 
-Here is a simple example of how Python can be used in algo trading for options:
+Rolling options can help you manage an existing position by giving you more time if the stock hasn't moved the way you expected. If your option is about to expire and you still think the stock will go up or down, you can roll it out to a later date. This means you close your old option and buy a new one that expires later. This gives you more time for your prediction to come true without having to start over with a new option. But remember, rolling out costs money because you have to pay to close the old option and buy the new one, so make sure the extra time is worth it.
 
-```python
-from scipy.stats import norm
-import numpy as np
+Another way to manage your position is by rolling up or down to a different strike price. If the stock has moved a bit but not enough to make your current option profitable, you can roll up to a higher strike price if you think it will keep going up, or roll down to a lower strike price if you think it won't go as high as you first thought. This can help you adjust to the stock's movement and give you a better chance to make a profit. Rolling to a different strike price also costs money, so you need to think about whether the new strike price gives you a good chance to cover the extra costs and still make money.
 
-def black_scholes_price(S, K, T, r, sigma, option_type='call'):
-    d1 = (np.log(S/K) + (r + 0.5 * sigma**2) * T) / (sigma * np.sqrt(T))
-    d2 = d1 - sigma * np.sqrt(T)
+## What are the tax implications of rolling options?
 
-    if option_type == 'call':
-        price = S * norm.cdf(d1) - K * np.exp(-r * T) * norm.cdf(d2)
-    elif option_type == 'put':
-        price = K * np.exp(-r * T) * norm.cdf(-d2) - S * norm.cdf(-d1)
-    else:
-        raise ValueError("option_type must be 'call' or 'put'")
+When you roll options, it can affect your taxes. Rolling an option means you close your old option and open a new one. When you close the old option, it can create a taxable event. If you made money on the old option, you might have to pay taxes on that profit. If you lost money, you might be able to use that loss to reduce your taxes. The tax rules can be complicated, so it's a good idea to talk to a tax professional to understand how rolling options will affect your taxes.
 
-    return price
+The new option you open when you roll also has tax implications. The cost of the new option adds to your cost basis, which is the total amount you've spent on the option. This can affect how much profit or loss you have when you eventually close the new option. If you hold the new option for less than a year, any profit you make when you close it will be taxed as short-term capital gains, which are usually taxed at a higher rate than long-term capital gains. If you hold it for more than a year, it could be taxed as long-term capital gains, which might be at a lower rate. Again, it's smart to get advice from a tax professional to make sure you understand all the tax implications of rolling options.
 
-# Example usage
-S = 100  # Current stock price
-K = 100  # Option strike price
-T = 1    # Time to expiration in years
-r = 0.05 # Risk-free interest rate
-sigma = 0.2 # Volatility
+## How do market conditions influence the decision to roll options?
 
-call_price = black_scholes_price(S, K, T, r, sigma, 'call')
-put_price = black_scholes_price(S, K, T, r, sigma, 'put')
+Market conditions play a big role in deciding whether to roll options. If the market is moving in the direction you predicted but not fast enough, you might want to roll your option to a later date. This gives you more time for the stock to move in your favor. On the other hand, if the market is moving against you, rolling can be a way to cut your losses or adjust your strategy. For example, if the stock is going down instead of up, you might roll down to a lower strike price to give yourself a better chance to make money.
 
-print(f"Call Option Price: {call_price}")
-print(f"Put Option Price: {put_price}")
-```
+It's also important to think about how volatile the market is. If the market is very up and down, rolling options can be riskier because it's harder to predict where the stock will go. In a stable market, rolling might be a safer bet because you have a better idea of what will happen. Always consider the costs of rolling, like fees and commissions, and make sure the potential benefits outweigh those costs. Market conditions can change quickly, so stay flexible and be ready to adjust your strategy as needed.
 
-This Python code leverages the Black-Scholes model to calculate option prices, which can be integral to creating automated trading strategies based on option pricing anomalies.
+## Can you provide advanced examples of rolling options in different market scenarios?
 
-However, the expedited and high-frequency nature of algo trading carries inherent risks. Technology failures, such as server crashes or network issues, can lead to substantial financial losses. Furthermore, poorly coded algorithms could produce unintended trades, potentially resulting in adverse financial outcomes. Algorithmic traders must therefore ensure robust systems and thoroughly tested algorithms to avoid such pitfalls. Proper risk management protocols, real-time monitoring systems, and contingency plans are essential components for mitigating these risks.
+In a bullish market where the stock is going up slowly, you might have bought a call option expecting the stock to hit a certain price by the expiration date. If the stock is moving up but not as fast as you thought, you could roll out to a later expiration date to give yourself more time. For example, if you bought a call option with a $50 strike price expiring in one month and the stock is now at $48, you might roll it out to three months from now. This gives the stock more time to reach $50 or higher. However, if the stock keeps going up and you think it will go even higher, you might also roll up to a $55 strike price. This way, you can capture more of the upward movement, but you'll need to pay more for the new option.
 
-## Benefits and Risks of Derivatives and Algo Trading
+In a bearish market where the stock is going down, you might have bought a put option expecting the stock to drop to a certain price. If the stock is falling but not as fast as you hoped, you could roll out to a later date to give yourself more time for the stock to reach your target price. For instance, if you bought a put option with a $50 strike price expiring in one month and the stock is now at $52, you might roll it out to two months from now. If the stock keeps falling and you think it will go lower than you first thought, you might roll down to a $45 strike price. This can help you make more money from the downward movement, but remember, rolling down will cost you more money for the new option.
 
-Financial derivatives, such as options, offer an array of benefits that can aid in effective risk management and strategic financial planning. One of the primary advantages of derivatives is their ability to hedge against price fluctuations. For instance, options allow investors to lock in purchase or sale prices, thus mitigating the risk of unfavorable price movements in the underlying asset. Additionally, derivatives provide leverage, enabling traders to gain larger exposure to an asset without committing the full purchase price, thus amplifying potential returns.
-
-Moreover, derivatives facilitate access to a wide variety of asset classes, including equities, commodities, and foreign exchange, without requiring direct ownership. This opens up diverse investment opportunities and enables portfolio diversification, which can enhance risk-adjusted returns.
-
-Similarly, algorithmic trading, or algo trading, offers substantial benefits by utilizing computer algorithms to execute trades with high speed and precision. This method significantly reduces transaction costs due to lower commission fees and tighter bid-ask spreads. By eliminating human emotions from trading decisions, algo trading improves consistency and efficiency, ensuring that trades are executed at the most opportune moments.
-
-However, the use of derivatives and algorithmic trading is not without risks. Market volatility poses a significant challenge, as rapid price changes can lead to substantial losses, especially when leverage is involved. Mispricing of derivatives can occur due to incorrect valuation models or unexpected changes in market conditions, leading to suboptimal outcomes.
-
-Algo trading introduces additional risks, such as technology failures that can result in unexecuted trades or unintended positions. Poorly coded algorithms can cause cascading effects, exacerbating losses in volatile markets. For example, the infamous Flash Crash of 2010 was partially attributed to automated trading systems that operated with inadequate safeguards.
-
-Given these potential pitfalls, it is crucial for traders to possess a comprehensive understanding of both the opportunities and inherent risks associated with derivatives and algorithmic trading. A robust risk management framework, combined with continual monitoring and adaptive strategies, is essential to maximize benefits while minimizing exposure to adverse outcomes.
-
-## Conclusion
-
-Financial derivatives, such as options, serve as a versatile toolkit for traders and investors aiming to optimize their strategies. They offer the ability to hedge risks, speculate on price movements, and leverage positions in ways that can tailor to specific financial goals. Among the strategies available, rolling options emerge as a significant tactic. By extending the expiration date of an option, traders can maintain their positions in anticipation of favorable price movements without needing to exercise the existing option. This tactic provides increased flexibility and can enhance the potential profitability of trading endeavors.
-
-In parallel, the world of algorithmic trading continues to transform how options are traded, emphasizing speed and precision. Algorithms can execute intricate strategies rapidly, processing vast amounts of market data to make informed trading decisions. This capability is essential for managing large portfolios and minimizing manual intervention, which can lead to human errors. Python, with its powerful libraries, for instance, can be used to develop algorithms that optimize trading strategies. 
-
-```python
-import numpy as np
-
-def calculate_option_price(S, K, T, r, sigma, option_type='call'):
-    # S: Spot price, K: Strike price, T: Time to maturity, r: Risk-free rate, sigma: Volatility
-    from scipy.stats import norm
-
-    d1 = (np.log(S / K) + (r + 0.5 * sigma**2) * T) / (sigma * np.sqrt(T))
-    d2 = d1 - sigma * np.sqrt(T)
-
-    if option_type == 'call':
-        option_price = S * norm.cdf(d1) - K * np.exp(-r * T) * norm.cdf(d2)
-    elif option_type == 'put':
-        option_price = K * np.exp(-r * T) * norm.cdf(-d2) - S * norm.cdf(-d1)
-    else:
-        raise ValueError("Invalid option type. Use 'call' or 'put'.")
-    return option_price
-
-# Example usage:
-S = 100  # Spot price
-K = 100  # Strike price
-T = 1    # Time to maturity (1 year)
-r = 0.05 # Risk-free rate
-sigma = 0.2 # Volatility
-
-call_price = calculate_option_price(S, K, T, r, sigma, 'call')
-put_price = calculate_option_price(S, K, T, r, sigma, 'put')
-
-call_price, put_price
-```
-
-However, alongside the benefits of derivatives and algorithmic trading, there are inherent risks. Market volatility, mispricing, and potential substantial losses are factors that traders must be prepared to manage. Understanding these risks is crucial for making informed decisions in derivative trading and algorithmic strategies.
-
-By comprehending these tools and associated risks, traders are better equipped to navigate financial markets and work towards achieving their investment objectives, whether it involves hedging, speculation, or achieving financial leverage.
+In a volatile market where the stock price is swinging a lot, rolling options can be trickier. You might have bought a call option hoping the stock would go up, but it's been going up and down a lot. If the stock is currently above your strike price but you're worried it might drop before expiration, you could roll out to a later date to give yourself more time. For example, if you bought a call option with a $50 strike price expiring in one month and the stock is now at $53 but very volatile, you might roll it out to three months from now. This way, you can ride out the ups and downs and still have a chance for the stock to go higher. But if the stock keeps swinging and you're unsure about its direction, you might decide to roll to a different strike price that gives you a better chance to make money no matter which way the stock moves.
 
 ## References & Further Reading
 
