@@ -3,151 +3,84 @@ title: "Standard of Value: Concept and Application"
 description: "Explore the evolution of economic value standards from gold to fiat currencies and their impact on modern algorithmic trading in global financial markets."
 ---
 
-The economic landscape has undergone remarkable transformations throughout history, shaped by shifts in monetary standards and the emergence of cutting-edge technologies. The concept of economic value is central to this landscape, serving as a measure of worth that facilitates trade and investment. This value is intrinsically linked to monetary systems, which provide a standardized medium of exchange, thus enabling efficient market transactions. As societies evolved from barter systems to sophisticated currency mechanisms, the definition and representation of economic value have continually adapted to meet the needs of dynamic markets.
-
-One of the pivotal transformations in monetary systems was the establishment of a standard of value. Early economies relied on commodity-based standards, such as gold and silver, which were seen as stable and universally recognized. This gave way to fiat currencies, which are supported by government regulation rather than intrinsic physical value. The transition reflects a broader shift in economic frameworks as societies aimed to balance flexibility with stability in their monetary policies.
 
 ![Image](images/1.jpeg)
 
-These historical monetary frameworks have significantly influenced modern financial markets, particularly with the advent of algorithmic trading. Algorithmic trading leverages computer programs that execute trades at high speeds based on pre-defined criteria. This evolution has augmented market operations, introducing both efficiencies and complexities. Understanding the intricate relationships between monetary systems, economic value, and algorithmic trading is vital for analyzing the mechanics and trends of contemporary financial markets.
-
-In a world where fiat currencies have replaced traditional commodity standards, and technology drives trading practices, examining these components provides crucial insights into market behavior, volatility, and regulatory challenges. The interplay between historical economic principles and modern technological innovations continues to shape the financial landscape, leaving its impact on global economies. As we navigate these complexities, recognizing the continuity and change in economic systems offers valuable lessons for developing resilient, stable, and efficient markets in the future.
-
 ## Table of Contents
 
-## Understanding Economic Value in Monetary Systems
+## What is the standard of value?
 
-Economic value serves as the cornerstone of monetary systems, shaping how societies facilitate trade, store wealth, and determine financial worth. At its core, economic value is the measure by which goods and services are quantified, enabling efficient transactions within a given economy. To comprehend its role in monetary systems, it is crucial to explore the transition from primitive barter systems to the intricate currency standards we see today.
+The standard of value is a basic concept in economics and finance that refers to a common measure used to determine the worth of goods, services, and other assets. In most countries, the standard of value is the national currency, like the dollar in the United States or the euro in the European Union. This standard helps people compare the value of different things easily. For example, if you want to know if a toy is more expensive than a book, you can compare their prices in dollars.
 
-### Establishing Economic Value: From Barter to Currency
+Using a standard of value makes economic transactions simpler and more efficient. Without a common measure, it would be hard to trade or understand the value of things. Imagine trying to trade a cow for some apples without knowing how many apples equal the value of a cow. A standard of value solves this problem by giving everything a price in the same unit, making it easier for everyone to make decisions about buying, selling, and trading.
 
-Historically, human societies relied on barter, a direct exchange of goods and services, as the initial method of trade. However, barter systems are inherently limited by the "double coincidence of wants," the challenge wherein two parties must have precisely what the other desires. This inefficiency posed significant challenges in large or growing economies, necessitating the evolution towards more sophisticated systems of trade.
+## Why is the standard of value important in economics?
 
-To overcome the limitations of barter, economies gradually adopted commodities as a medium of exchange, where items such as livestock, grain, or precious metals held intrinsic value. These commodities served multiple purposes—they were valuable, durable, divisible, and portable, facilitating a more efficient exchange.
+The standard of value is really important in economics because it helps everyone understand how much things are worth. Imagine if we didn't have a common way to measure value. It would be super hard to decide if trading a bike for a laptop was a good deal. By using a standard like dollars or euros, we can easily see if something is expensive or cheap compared to other things. This makes buying and selling much simpler and helps the economy run smoothly.
 
-# of Commodity Money
+Also, having a standard of value helps keep prices stable over time. If everyone agrees that a dollar is worth a certain amount, businesses and people can plan better. They know how much money they'll need to buy things in the future. This stability is good for the economy because it makes people feel more confident about spending and investing. Without a standard of value, the economy could get really confusing and chaotic, which nobody wants.
 
-Commodity money, often exemplified by gold and silver, represented the initial standard of economic value due to their intrinsic worth and universal appeal. These metals were widely accepted across various cultures, providing a consistent medium of exchange that could be standardized in weight and purity, thereby enhancing trade efficiency.
+## How does the standard of value differ from other economic concepts like medium of exchange and unit of account?
 
-### The Advent of Coinage
+The standard of value is different from a medium of exchange and a unit of account, even though they all help make economic activities easier. The standard of value is about having a common way to measure how much things are worth. For example, if you want to know if a toy is more expensive than a book, you use dollars or euros to compare their prices. This common measure helps everyone understand value in the same way.
 
-The innovation of coinage marked a significant advancement in economic value systems. By minting standardized coins, ancient societies like the Lydians increased the reliability and efficiency of trade well beyond the capacity of barter and rudimentary commodity money. Coins became the precursor to modern currency systems, each bearing the insignia of a governing authority to ensure authenticity and trustworthiness.
+A medium of exchange, on the other hand, is something people use to trade goods and services. Instead of bartering, like trading a cow for apples, you use money. Money is easy to carry and divide, making trading much simpler. The unit of account is closely related to the standard of value but focuses on keeping track of debts and financial records. For example, when you buy something on credit, the price is recorded in dollars or euros, which is the unit of account. This helps businesses and people keep clear financial records.
 
-### Transition to Paper Money
+So, while the standard of value helps measure worth, the medium of exchange makes trading easier, and the unit of account helps keep financial records straight. All three are important and work together to make the economy run smoothly, but they each have their own special job.
 
-With the increase of trade complexity and expansion of economies, paper money emerged as a more practical means of exchange. Initially valued as representative money, early forms of paper currency, like promissory notes, were backed by commodities such as gold or silver deposits. Over time, governments began issuing fiat money, currency without intrinsic value, but made legal tender by regulatory decree.
+## What are some historical examples of standards of value?
 
-### Modern Currency Systems
+In the past, different things were used as standards of value. One famous example is gold. Many countries used the gold standard, which means the value of their money was based on how much gold they had. For example, in the United States, one dollar was worth a certain amount of gold. This made it easy for people to understand the value of money because they knew it was tied to something valuable like gold. The gold standard was used by many countries until the 20th century.
 
-Today's monetary systems predominantly rely on fiat currency, which facilitates a high degree of economic flexibility. Fiat currency is no longer tied to physical commodities but is valued based on government regulation and public trust. This transformation allows for more sophisticated economic activities, such as credit systems, electronic funds, and complex financial instruments. The transition to fiat systems also necessitates central banking institutions to manage monetary policy and maintain economic stability.
+Another historical standard of value was silver. Some countries used the silver standard, where the value of money was based on silver. For example, in China, the value of money was often measured in silver taels. Just like with gold, using silver as a standard helped people understand how much their money was worth because it was tied to something everyone agreed was valuable. Both gold and silver standards helped make trading and understanding value easier in different parts of the world.
 
-By examining the historical progression from barter to modern monetary standards, it becomes apparent how foundational economic value is to functioning economies. Understanding these transitions offers insights into the current dynamics of global financial systems and their underlying economic principles.
+## How has the concept of standard of value evolved over time?
 
-## Standard of Value: Past and Present
+The concept of standard of value has changed a lot over time. In the old days, people used things like gold and silver to measure value. For example, many countries used the gold standard, which meant their money was worth a certain amount of gold. This helped everyone understand how much their money was worth because it was tied to something valuable. But using gold and silver had problems. Sometimes there wasn't enough gold or silver to go around, which could make the economy unstable.
 
-The concept of a standard of value has played a pivotal role in the economic framework, progressing from tangible commodities like gold to the abstraction of fiat currencies. Historically, the gold standard was a predominant mechanism for establishing economic value. Under this system, a country’s currency value was directly linked to a specific quantity of gold. This ensured that the amount of money circulating in an economy was proportional to the gold reserves held by the government, thus providing a self-regulating and stabilizing effect on economies. It helped in controlling inflation and maintaining long-term price stability, primarily because the money supply could only expand if new gold was acquired.
+Over time, countries moved away from using gold and silver and started using their own currencies as the standard of value. Today, most countries use their national currency, like the dollar in the United States or the euro in Europe, as the standard of value. This makes it easier to buy and sell things because everyone agrees on what the money is worth. The change to using national currencies has helped make economies more stable and easier to manage. But it also means that the value of money can change based on what's happening in the economy, which is something people have to keep an eye on.
 
-The gold standard facilitated international trade by providing a common measure of value, reducing the risks associated with fluctuating exchange rates. Countries adhered to the gold standard by fixing their currency's value in terms of a specified amount of gold, which allowed currencies to be exchanged for a fixed quantity of this precious metal. This was beneficial in fostering trust and predictability in international transactions. However, while the gold standard provided stability, it also imposed limitations on economic growth. It constrained governments' ability to respond flexibly to economic crises as the money supply could not be easily adjusted.
+## What are the criteria for an effective standard of value?
 
-As the global economy faced unprecedented events such as the Great Depression and post-World War economic restructuring, the limitations of the gold standard became evident. The rigidity of the gold standard during economic downturns led to severe deflationary pressures, exacerbating economic hardship and unemployment. Ultimately, this system was dismantled, leading to a transition to fiat currencies - monetary systems where currency value is not based on physical commodities but rather on government decree.
+An effective standard of value needs to be widely accepted by people. If everyone agrees that something, like a dollar, is a good way to measure value, then it works well. It should also be easy to use. That means it should be simple for people to understand and use when they're buying, selling, or trading things. If a standard of value is too hard to understand or use, then it won't be very effective.
 
-Today's economies operate under fiat currency regimes with floating exchange rates. Unlike the fixed rates of the gold standard, floating exchange rates are determined by the market forces of supply and demand, allowing for greater flexibility. This adaptability provides governments and central banks the ability to adjust monetary policy according to economic conditions, thereby enhancing economic stability. The shift to floating exchange rates helps countries to absorb external shocks, manage inflation, and promote sustainable economic growth.
+Another important thing is that the standard of value should be stable. This means its value shouldn't change too much over time. If people know that a dollar will be worth about the same next week as it is today, they can plan better. They'll feel more confident about spending and saving. If the value changes a lot, it can make the economy feel unpredictable and hard to navigate.
 
-In summary, the evolution from the gold standard to fiat currencies and floating exchange rates highlights a significant shift in how societies establish and maintain economic stability. While the gold standard provided a stable but inflexible economic environment, modern fiat systems, with their inherent flexibility, are better suited to accommodate the dynamic challenges of contemporary global finance.
+## How do different currencies function as standards of value?
 
-## The Collapse of the Gold Standard
+Different currencies, like the dollar or the euro, work as standards of value by giving everything a price in that currency. This makes it easy for people to understand how much things are worth and to compare the prices of different items. For example, if you want to know if a toy is more expensive than a book, you can look at their prices in dollars. Because everyone in a country uses the same currency, it helps make buying and selling simpler and more efficient.
 
-The collapse of the gold standard was precipitated by a confluence of economic and geopolitical factors, most notably during the early to mid-20th century. The gold standard, which pegged currency to a specific amount of gold, had been a cornerstone of economic stability and predictability since the late 19th century. However, its inflexibility in responding to economic pressures soon became apparent.
+Currencies also help keep the economy stable. When people agree that a dollar is worth a certain amount, it makes planning easier. Businesses and people can predict how much money they'll need in the future. This stability makes people feel more confident about spending and investing. However, the value of a currency can change because of things like inflation or economic policies, which means people always need to keep an eye on how much their money is worth.
 
-The Great Depression of the 1930s revealed the inherent weaknesses of the gold standard. As the global economy spiraled into one of the most severe downturns in history, countries adhering to the gold standard found themselves constrained in their ability to implement effective monetary policies to mitigate the economic crisis. The requirement to back currency with gold reserves severely limited governments' capacity to adjust money supply to stimulate growth. Countries that remained on the gold standard experienced deepened economic contractions and prolonged recessions.
+## What role does inflation play in affecting the standard of value?
 
-The geopolitical turmoil of the two World Wars further exacerbated the gold standard's limitations. During World War I and World War II, countries significantly increased their money supply to finance military expenditures. This was feasible because many nations suspended the gold standard to decouple currency from gold reserves temporarily, allowing for expanded fiscal policies. These suspensions highlighted the advantages of monetary flexibility during times of economic distress.
+Inflation is when the prices of things go up over time, which means the value of money goes down. If you have a dollar today, it might not buy as much stuff next year because of inflation. This can make the standard of value, like the dollar, less stable. When people see that their money is worth less, they might spend it faster or ask for higher wages, which can make prices go up even more.
 
-Following World War II, the Bretton Woods Agreement of 1944 established a modified gold standard where the US dollar was pegged to gold, and other currencies were pegged to the dollar. This system was intended to provide stability while allowing some degree of monetary policy autonomy. However, by the late 1960s, growing US fiscal deficits and gold outflows created pressure on the dollar. In 1971, the United States suspended dollar convertibility into gold, effectively ending the Bretton Woods system and paving the way for the adoption of fiat currencies.
+But inflation isn't always bad. A little bit of inflation can be good for the economy because it encourages people to spend and invest rather than just saving their money. However, if inflation gets too high, it can make it hard for people to plan because they don't know how much their money will be worth in the future. This can make the standard of value less reliable and cause problems in the economy.
 
-The transition to fiat currencies marked a significant evolution in monetary policy. Unlike the gold standard, fiat currencies derive their value from government regulation rather than physical commodities. This transition allowed central banks to exert greater control over monetary policy, adjusting the money supply to address economic fluctuations and stabilize economies. Fiat currencies introduced increased flexibility, enabling governments to combat inflation, stimulate growth, and address unemployment more effectively.
+## How do standards of value impact international trade and finance?
 
-In summary, the collapse of the gold standard was driven by its rigidity in the face of economic shocks and the need for monetary flexibility during periods of economic and geopolitical upheaval. The shift to fiat currencies has allowed modern economies greater maneuverability in managing economic stability, underscoring the importance of adaptive monetary systems in a rapidly changing global landscape.
+Standards of value are super important for international trade and finance because they help countries understand how much things are worth in different parts of the world. When countries use different currencies, like dollars and euros, they need a way to compare these currencies to know how much their goods and services are worth in other countries. This is where exchange rates come in. Exchange rates show how much one currency is worth compared to another. For example, if one dollar can buy two euros, then businesses and people can figure out how much their products cost in different countries. This makes trading easier because everyone can understand the value of what they're buying or selling.
 
-## Algorithmic Trading: The New Frontier
+But standards of value can also cause problems in international trade and finance. If the value of a country's currency changes a lot, it can make it harder for businesses to plan and trade. For example, if the dollar gets weaker compared to the euro, then things made in the U.S. might become cheaper for people in Europe, which could help U.S. businesses sell more. But it also means that U.S. companies might have to pay more for things they buy from Europe. So, having a stable standard of value is really important for keeping international trade and finance running smoothly.
 
-Algorithmic trading is at the forefront of financial innovation, representing the integration of advanced computational techniques into trading strategies. This approach to trading encompasses the use of pre-programmed algorithms to execute trades more efficiently than human traders can. Algorithmic trading systems are designed to follow a set of rules or instructions to perform tasks such as determining the timing, price, and quantity of trades. These algorithms analyze market conditions and historical data to predict future price movements, optimizing the trading process and minimizing human intervention.
+## What are the challenges in maintaining a stable standard of value?
 
-One of the most impactful aspects of [algorithmic trading](/wiki/algorithmic-trading) is its ability to transform market dynamics through high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)). HFT involves executing a large number of trades at extremely high speeds, often in fractions of a second. This rapid trading is made possible by sophisticated technology that allows for the continuous monitoring and execution of trades, capitalizing on even the smallest price discrepancies across markets.
+Keeping a standard of value stable can be tough because lots of things can make the value of money change. One big challenge is inflation. When prices go up, the value of money goes down, and people might start spending their money faster or asking for more pay. This can make prices go up even more, which makes it hard for people and businesses to plan. Another challenge is what's happening in the world economy. If other countries' currencies change a lot, it can affect the value of a country's own money. For example, if the dollar gets weaker compared to the euro, it can make things more expensive for people in the U.S. who want to buy stuff from Europe.
 
-High-frequency trading contributes to market efficiency by narrowing bid-ask spreads and providing [liquidity](/wiki/liquidity-risk-premium). By quickly acting on price differences, HFT traders help align prices more closely across different markets, enhancing overall price stability. However, the speed and [volume](/wiki/volume-trading-strategy) of HFT also contribute to increased market [volatility](/wiki/volatility-trading-strategies). The rapid execution of trades can lead to substantial short-term price swings, as seen in events like the 2010 "Flash Crash" when the Dow Jones Industrial Average briefly plunged more than 1,000 points.
+Another challenge is keeping people's trust in the money. If people start to think that their money won't be worth as much in the future, they might not want to use it as much. This can make the economy unstable. Governments and central banks try to keep the value of money stable by setting interest rates and controlling how much money is in the economy. But it's a tricky balancing act because they have to make sure they're not causing too much inflation or making the economy slow down too much. Keeping a stable standard of value is important for a healthy economy, but it's not easy to do.
 
-In addition to its impact on market efficiency and volatility, algorithmic trading also poses challenges related to market regulation and fairness. The reliance on high-speed execution raises concerns about unequal access to information and trading technologies, potentially disadvantaging individual traders and smaller firms who cannot compete with the technological resources of major institutions.
+## How do cryptocurrencies challenge traditional standards of value?
 
-Implementing algorithmic trading strategies involves advanced statistical and [machine learning](/wiki/machine-learning) techniques to analyze complex datasets and optimize trading decisions. For example, using Python, traders can develop algorithms that employ various technical indicators and statistical models to predict future price movements. The following Python code snippet illustrates a simple moving average crossover strategy, a popular technique in algorithmic trading:
+Cryptocurrencies like Bitcoin challenge traditional standards of value because they're not controlled by any government or bank. Instead, they use something called blockchain technology, which is like a big, public record book that everyone can see. This means that the value of cryptocurrencies can change a lot based on what people think they're worth, rather than being tied to a country's economy or gold like traditional money. This makes them more unpredictable, which can be both exciting and scary for people who want to use them.
 
-```python
-import numpy as np
-import pandas as pd
+Another way cryptocurrencies challenge traditional standards of value is by making it easier to send money across borders without needing banks. Traditional money, like dollars or euros, can be hard to use in other countries because of exchange rates and fees. But with cryptocurrencies, you can send money to anyone, anywhere, without worrying about those things. This could change how people think about and use money, making the world of finance more open and connected. But it also means that the rules and stability we're used to with traditional money might not apply in the same way.
 
-# Example price data
-data = {'Price': [100, 102, 104, 103, 107, 108, 105]}
-df = pd.DataFrame(data)
+## What future trends might influence the concept and application of the standard of value?
 
-# Calculate moving averages
-df['Short_MA'] = df['Price'].rolling(window=2).mean()
-df['Long_MA'] = df['Price'].rolling(window=3).mean()
+In the future, technology could change how we think about and use the standard of value. One big trend might be the use of digital currencies, like cryptocurrencies, becoming more common. These digital currencies aren't controlled by any government or bank, which means their value can change a lot based on what people think they're worth. This could make the standard of value more unpredictable but also more flexible. Another trend could be the use of smart contracts, which are like digital agreements that automatically do things when certain conditions are met. This could make buying and selling things easier and more secure, changing how we use money as a standard of value.
 
-# Determine trading signals
-df['Signal'] = 0
-df.loc[df['Short_MA'] > df['Long_MA'], 'Signal'] = 1
-df.loc[df['Short_MA'] < df['Long_MA'], 'Signal'] = -1
-
-print(df)
-```
-
-This code calculates short and long moving averages of a stock's price and generates buy/sell signals based on the crossover of these averages. While simplified, it exemplifies how algorithmic traders leverage technology to make data-driven trading decisions.
-
-In conclusion, algorithmic trading continues to reshape financial markets by enhancing efficiency, increasing liquidity, and introducing new challenges related to volatility and market fairness. As technology advances, it is imperative for market participants and regulators to adapt strategies that balance innovation with the need for stable and equitable trading environments.
-
-## Interplay Between Standards of Value and Algorithmic Trading
-
-Algorithmic trading strategies are significantly influenced by historical monetary concepts like the standard of value. The concept of a standard of value, which has traditionally used commodities such as gold, has evolved into modern monetary systems employing fiat currencies. This historical framework provides a structured basis for understanding how values are determined and exchanged, informing algorithmic models that predict market behavior.
-
-Algorithmic trading utilizes these historical concepts to develop trading strategies that leverage the principles of supply and demand, value stability, and currency exchange. For instance, consider an algorithm designed to trade based on relative currency strength. This algorithm might incorporate historical data and economic indicators to assess currency stability and volatility, echoing the stability that commodity-based standards aimed to provide. 
-
-The challenges presented by algorithmic trading in maintaining market stability are multifaceted. High-frequency trading (HFT), a subset of algorithmic trading, can increase market liquidity but also contributes to volatility. Algorithms can potentially exacerbate systemic risks if not properly regulated, as they may react to market information in a manner that leads to rapid price swings or coordinated market movements. These risks necessitate robust oversight and adaptive strategies to balance innovation and stability.
-
-Opportunities arise from the precision and speed of algorithmic trading, which can enhance market efficiency. Algorithms can rapidly process vast amounts of data, executing trades within milliseconds that align closely with the current standard of value. This speed allows them to capitalize on [arbitrage](/wiki/arbitrage) opportunities and shifts in market sentiment more swiftly than human traders.
-
-Navigating the economic complexities of a fiat currency world, algorithmic trading strategies must account for factors like inflation, interest rates, and geopolitical events. For instance, algorithms might be programmed to adjust trading parameters during policy announcements from central banks or periods of political uncertainty. By integrating these aspects of fiat currency economics, algorithms maintain an informed perspective on market conditions.
-
-To illustrate with a simple Python example, consider an algorithm that adjusts its trading strategy based on moving averages—a technique reflecting historical value stability concepts:
-
-```python
-def calculate_moving_average(prices, window_size):
-    moving_averages = []
-    for i in range(len(prices) - window_size + 1):
-        window = prices[i:i + window_size]
-        window_average = sum(window) / window_size
-        moving_averages.append(window_average)
-    return moving_averages
-
-# Sample price data
-prices = [100, 102, 101, 104, 107, 110, 109]
-window_size = 3
-
-# Calculate moving averages
-moving_averages = calculate_moving_average(prices, window_size)
-print(moving_averages)
-```
-
-This script exemplifies how an algorithmic approach informed by historical data can guide trading decisions based on moving averages, representing a standard of value through relative stability. The ongoing evolution of these strategies showcases the dynamic relationship between historical monetary principles and technological innovation in modern finance.
-
-## Conclusion
-
-The transition from traditional monetary systems, like the gold standard, to advanced trading technologies such as algorithmic trading demonstrates the inherent adaptability of economic systems. The interplay between these two paradigms highlights the dynamic balance required between preserving market stability and fostering financial innovation. Historical monetary systems provided a relatively stable framework through standards of value, albeit with certain limitations, particularly evident during economic upheavals like the Great Depression. In contrast, modern financial markets demand a flexible approach that leverages technology to respond swiftly to changing conditions.
-
-Algorithmic trading, characterized by rapid execution and data-driven strategies, brings both opportunities and challenges. It enhances market liquidity and can lead to more efficient pricing; however, it also introduces complexities such as increased volatility and the need for sophisticated risk management. This technology-driven approach is informed by historical monetary concepts, ensuring that the lessons of the past help guide the evolution of current practices.
-
-Moving forward, integrating historical insights into modern financial strategies will be crucial for maintaining a balance between stability and innovation. For instance, understanding the past failures and successes of monetary standards can shape more resilient regulatory frameworks for modern technologies. Additionally, as financial technologies continue to evolve, an emphasis on regulatory oversight and ethical trading practices will play a critical role in safeguarding market stability.
-
-In conclusion, the adaptation of economic systems is an ongoing process, shaped by the forces of history and innovation. As we continue to incorporate technological advancements within financial markets, maintaining a dialogue between traditional economic theories and contemporary practices will ensure that the benefits of both stability and innovation can be realized. This synthesis of old and new will remain essential for the sustainable growth and evolution of global financial markets.
+Another trend that might affect the standard of value is the growing use of data and AI in finance. With more data, businesses and governments could better predict and control inflation, making the standard of value more stable. AI could also help create new ways to measure value, like using a person's online activity or reputation as a form of currency. These changes could make the standard of value more personalized and dynamic, but they might also raise questions about privacy and fairness. As these trends develop, the way we understand and use the standard of value could change a lot, making the world of money and finance more complex and interesting.
 
 ## References & Further Reading
 
