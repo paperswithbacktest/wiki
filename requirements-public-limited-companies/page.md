@@ -3,176 +3,84 @@ title: "Requirements for Public Limited Companies"
 description: "Discover how public limited companies structure impacts algorithmic trading success and navigate the dynamic financial markets with enhanced strategic insights."
 ---
 
-In the rapidly evolving landscape of global finance, a thorough comprehension of company structures and their implications for business operations is increasingly essential. As businesses continue to navigate dynamic markets, the efficiency and success of their operations often hinge on their foundational structure. This article examines the intricacies of public limited companies (PLCs), exploring how their corporate frameworks influence business strategies, particularly in the context of modern financial practices like algorithmic trading.
 
-Public limited companies play a pivotal role in the global financial ecosystem. They offer a form of corporate organization where shares are available to the public through stock exchanges, providing significant fundraising opportunities. This structure not only affects how companies access capital but also impacts their governance, transparency, and market interactions. PLCs, distinguished by features such as limited liability and a distinct legal identity, are well-suited to industries that demand large-scale capital investment. Their operational and strategic flexibilities make them a popular choice for businesses aiming to scale quickly and enhance their competitive edge.
-
-![Image](images/1.jpeg)
-
-Algorithmic trading, which relies heavily on data, mathematical models, and technology, further demonstrates the importance of strategic corporate structuring. Automated trading systems utilize algorithms to make high-speed decisions, demanding considerable computational resources and investment in cutting-edge technology. The alignment of a corporation's structure with these technological demands is crucial. For PLCs in particular, their ability to raise capital through public markets can be leveraged to invest in these necessary technologies, thereby enhancing their trading efficiency and market responsiveness.
-
-This comprehensive analysis seeks to illuminate the bridge between corporate structures and contemporary trading strategies. By understanding the nuances of PLCs and their business requirements, we can gain valuable insights into how these structures support and enhance the strategic objectives of algorithmic trading, ultimately driving progress in the financial sector.
+![Image](images/1.png)
 
 ## Table of Contents
 
-## Understanding Public Limited Companies
+## What is a public limited company (PLC)?
 
-Public limited companies (PLCs) represent a pivotal corporate entity designed to facilitate the raising of capital by allowing shares to be publicly traded on the stock exchange. This structure distinguishes itself from other corporate forms due to its unique features and implications for economic participation and governance.
+A public limited company (PLC) is a type of business that can sell its shares to the public. This means anyone can buy a part of the company and become a shareholder. PLCs are usually big companies that you might see on the stock market, like supermarkets or car manufacturers. Being a PLC lets a company raise a lot of money because it can sell shares to many people.
 
-### Characteristics of Public Limited Companies
+To become a PLC, a company must follow certain rules. It needs to have a minimum amount of money, called share capital, and it must have at least two shareholders and two directors. Also, the company has to share information about its money and how it's doing with the public. This is so people who might want to buy shares can make good choices.
 
-One of the fundamental characteristics of a PLC is the concept of limited liability. This means that shareholders are only liable up to the amount of their investment in the company, thereby encouraging investment by minimizing personal financial risk. This feature is critical not only for attracting a broad base of investors but also for promoting economic stability and entrepreneurship.
+## What are the basic legal requirements to form a PLC?
 
-Additionally, PLCs possess a distinct legal identity, separate from their owners. This means the company itself can own property, enter into contracts, and is liable for its actions independently of its shareholders. This legal separation provides additional security to investors, as their personal assets are protected from litigation against the company.
+To form a public limited company (PLC), a business must follow some basic legal rules. First, it needs to have a minimum amount of money, known as share capital. In the UK, this minimum is £50,000, and at least a quarter of this amount must be paid up before the company can start. The company also needs to have at least two shareholders and two directors. One of the directors must be a natural person, meaning a real person and not a company.
 
-### Role in Economic Sectors
+The company must also have a unique name that ends with "PLC" or "public limited company." It needs to register with the appropriate government body, like Companies House in the UK, and submit documents like the Memorandum of Association and Articles of Association. These documents outline the company's rules and how it will operate.
 
-PLCs play significant roles across various sectors by enabling large-scale fundraising through public share offerings. This ability to attract substantial capital is essential for businesses that require significant investment in infrastructure, research and development, and global expansion initiatives. Sectors such as technology, pharmaceuticals, and manufacturing heavily rely on PLC structures to support their capital-intensive operations and innovation drives.
+Lastly, a PLC must be open about its financial situation. It has to prepare and publish annual accounts and reports, which are available for the public to see. This transparency is important because anyone can buy shares in a PLC, and they need to know how the company is doing to make informed decisions.
 
-### Governance, Transparency, and Market Interactions
+## How many shareholders are required to start a PLC?
 
-The governance structure of a PLC typically includes a board of directors responsible for making high-level managerial decisions, separate from day-to-day operations frequently handled by appointed managers. This separation ensures a system of checks and balances, designed to protect shareholders' interests and guide strategic direction. Shareholder meetings are a crucial component, providing a platform for investors to influence major business decisions through voting rights.
+To start a public limited company (PLC), you need at least two shareholders. These shareholders can be people or other companies. Having at least two shareholders helps make sure the company has different people involved, which can be good for making decisions and keeping things fair.
 
-In terms of transparency, PLCs are subject to stringent regulatory requirements compared to private companies. They must adhere to financial reporting standards, disclose financial statements quarterly, and maintain open communication with shareholders via annual reports. This requirement for transparency is intended to build trust with investors and protect the integrity of financial markets.
+Once the PLC is set up, it can sell its shares to the public. This means anyone can buy a part of the company and become a shareholder. But to start, you just need those first two shareholders to get everything going.
 
-### Key Differences with Private Companies
+## What is the minimum share capital needed for a PLC?
 
-When comparing PLCs to private companies, several key differences emerge. While private companies often enjoy greater operational flexibility and fewer regulatory constraints, they lack the ability to raise capital through public markets. This can limit their growth potential and ability to scale operations swiftly.
+To start a public limited company (PLC), you need a minimum amount of money called share capital. In the UK, this minimum amount is £50,000. Before the company can start working, at least a quarter of this amount, which is £12,500, must be paid.
 
-Privacy is another distinct characteristic of private companies. They are not required to disclose detailed financial information to the public, which can be advantageous for maintaining competitive secrecy but may also deter potential investors wary of financial ambiguities.
+This rule is important because it helps make sure the company has enough money to do its business. Having this minimum share capital also shows that the company is serious and ready to work as a PLC.
 
-Conversely, the public nature of PLCs provides easy visibility into the company's financial health and operational performance, often resulting in increased scrutiny and pressure to maintain consistent profitability and compliance with investor expectations. However, this transparency can enhance credibility and trustworthiness in the eyes of consumers and partners, potentially expanding market opportunities.
+## What are the ongoing compliance requirements for a PLC?
 
-In summary, while PLCs demand rigorous governance and transparency, they offer unparalleled opportunities for capital acquisition and expansion, particularly in industries where substantial financial backing is crucial for sustained success. Understanding these nuances is essential for stakeholders aiming to navigate the complex dynamics of modern corporate finance effectively.
+A public limited company (PLC) has to follow certain rules all the time to stay a PLC. One big rule is that they have to share information about their money and how they are doing with the public. This means they need to make and show yearly reports and accounts. These reports tell everyone how much money the company made or lost, and what it spent money on. They also have to tell everyone important things that happen, like if they are going to buy another company or if something big changes.
 
-## Corporate Structure and Business Requirements
+Another rule is that PLCs need to have meetings with their shareholders at least once a year. This is called an annual general meeting (AGM). At the AGM, shareholders can ask questions and vote on important things like who should be on the board of directors. The company also has to keep its records up to date and send them to the right government office, like Companies House in the UK. If they don't follow these rules, they could get in trouble and might not be able to stay a PLC.
 
-Public limited companies (PLCs) represent a pivotal corporate structure in global finance, primarily defined by their ability to offer company shares to the public through stock exchanges. Establishing a PLC involves meeting specific business prerequisites, including registration, setting up a shareholder structure, and adhering to regulatory compliance. These elements are crucial to ensure that the company's foundation is robust and capable of supporting large-scale operations and public trading.
+## How does a PLC differ from a private limited company?
 
-### Registration and Compliance
+A public limited company (PLC) and a private limited company are both types of companies, but they have some big differences. One main difference is that a PLC can sell its shares to anyone, which means anyone can buy a part of the company. This is called going public, and it lets PLCs get a lot of money from many people. A private limited company, on the other hand, can only sell its shares to a smaller group of people, like family or friends. This means they usually have less money to work with, but they also don't have to share as much information with the public.
 
-The process of establishing a PLC begins with its registration, which typically includes submitting a memorandum of association and articles of association. The memorandum outlines the company's name, the purpose of its formation, and its capital division into shares. The articles of association set out internal management guidelines, shareholder rights, and the roles and responsibilities of directors.
+Another difference is the rules they have to follow. PLCs have to be very open about their money and how they are doing. They need to make and show yearly reports and accounts to everyone, and they must have a meeting with their shareholders at least once a year. This is so people who buy shares know what's going on. Private limited companies don't have to share as much. They can keep their money information more private, and they don't have to have a big meeting every year. So, while PLCs have more rules to follow, they also have the chance to get more money and grow bigger.
 
-Regulatory compliance for PLCs involves adhering to the legal requirements set by governmental and financial regulatory bodies. These regulations are designed to ensure transparency, protect shareholder interests, and maintain market integrity. Compliance includes regular submission of financial reports, auditing, and adhering to specific financial and operational standards that vary across jurisdictions.
+## What are the reporting obligations for a PLC?
 
-### Shareholder Structures
+A public limited company (PLC) has to follow strict rules about sharing information with the public. They need to make and show yearly reports and accounts. These reports tell everyone how much money the company made or lost, and what it spent money on. They have to send these reports to the right government office, like Companies House in the UK, and they also have to make them available for anyone to see. This way, people who buy shares in the company can know how it's doing.
 
-The shareholder structure is a critical aspect of PLCs, allowing them to raise significant capital. Shareholders, ranging from individual investors to large institutions, provide financing by purchasing company shares. The structure dictates shareholder rights, such as voting on significant corporate matters, which influences company policy and performance.
+Another important rule for PLCs is that they have to tell everyone about important things that happen in the company. This is called making disclosures. For example, if the company is going to buy another company, or if something big changes, they have to let people know. This helps keep things fair and open, so shareholders and the public can trust the company. If a PLC doesn't follow these rules, they could get in trouble and might not be able to stay a PLC.
 
-The decision-making process within a PLC is greatly impacted by its shareholder base. Major shareholders often have considerable influence over strategic decisions, including mergers, acquisitions, and leadership changes. However, the PLC structure ensures that all shareholders, regardless of size, have a say in the company’s fate through annual general meetings and proxy voting.
+## What governance structures must a PLC have in place?
 
-### Roles of the Board of Directors and Shareholders
+A public limited company (PLC) needs to have certain rules and people in place to make sure it runs well and fairly. This is called governance. One important part of governance is having a board of directors. A PLC must have at least two directors, and one of them must be a real person, not another company. The board of directors makes big decisions for the company and looks after the interests of the shareholders. They also have to make sure the company follows all the rules and laws.
 
-The board of directors plays a vital role in shaping the company's strategic direction and governance. They are elected by shareholders to oversee management and protect shareholder interests. Their responsibilities include setting corporate policies, ensuring regulatory compliance, and making high-level strategic decisions, such as entering new markets or launching major initiatives.
+Another important part of governance for a PLC is having meetings with shareholders. At least once a year, the company must hold an annual general meeting (AGM). During this meeting, shareholders can ask questions and vote on important things, like who should be on the board of directors. This helps make sure that the shareholders have a say in how the company is run. The company also has to keep everyone informed about big changes or important decisions, which helps keep things fair and open.
 
-Shareholders, while not directly involved in day-to-day operations, hold substantial power through their voting rights. They can influence key decisions, such as director appointments, mergers, and changes in corporate strategy. This participatory role ensures a check-and-balance system, aligning the company’s objectives with shareholder interests.
+## How are the shares of a PLC traded and regulated?
 
-### Influence on Agility and Financial Strategy
+The shares of a public limited company (PLC) are traded on a stock exchange, like the London Stock Exchange. When a PLC wants to sell its shares to the public, it goes through a process called an Initial Public Offering (IPO). During the IPO, the company sets a price for its shares and offers them to investors. After the IPO, the shares can be bought and sold by anyone on the stock exchange. The price of the shares goes up and down based on what people think the company is worth and how well it's doing.
 
-The corporate structure of a PLC provides a framework that balances operational agility with the stringent requirements of public accountability. This combination often influences a company’s financial strategies, such as capital allocation and risk management.
+There are rules that make sure trading shares is fair and open. These rules are made by groups like the Financial Conduct Authority (FCA) in the UK. The FCA makes sure that companies tell the truth about their money and how they're doing. If a company doesn't follow these rules, it can get in trouble. Also, stock exchanges have their own rules to keep trading fair. For example, they might stop trading a company's shares if something big and unexpected happens, like a sudden drop in the company's value. This helps protect investors and keeps the market working well.
 
-PLCs are generally well-positioned to scale operations due to their ability to access public capital markets. However, the need for transparency and regulatory compliance can sometimes slow decision-making processes, affecting agility. Balancing these dynamics requires strategic foresight, often placing a premium on leadership capable of managing complex stakeholder relationships and regulatory landscapes.
+## What are the implications of listing a PLC on a stock exchange?
 
-Ultimately, the structure of a PLC, shaped by its foundational requirements and governance mechanisms, plays a crucial role in determining its financial strategy and operational scalability. As companies navigate the competitive global landscape, understanding these interdependencies becomes essential for leveraging the full potential of a PLC framework.
+When a PLC lists on a stock exchange, it means the company's shares can be bought and sold by anyone. This can help the company raise a lot of money because more people can invest in it. It can also make the company more well-known and trusted, since being on a stock exchange shows that the company follows strict rules. But it also means the company has to share a lot of information about its money and how it's doing with everyone. This can be a lot of work and can make the company's leaders feel like they're always being watched.
 
-## Algorithmic Trading and Its Intersection with Corporate Structures
+Listing on a stock exchange also comes with some risks. The price of the company's shares can go up and down a lot, which can be stressful for the people who own the shares. If the company doesn't do well, the share price can drop, and people might lose money. Also, the company has to follow a lot of rules from the stock exchange and government groups like the Financial Conduct Authority. If the company doesn't follow these rules, it can get in trouble and might even have to leave the stock exchange. So, while listing on a stock exchange can help a company grow, it also means more work and more risk.
 
-Algorithmic trading is a sophisticated methodology that utilizes computer algorithms to execute trades at high speeds and frequencies that are impossible for human traders. This form of trading is characterized by the use of complex mathematical models and formulas to make decisions about the timing, price, and quantity of trades. Key concepts of [algorithmic trading](/wiki/algorithmic-trading) include automated execution strategies, order types, and various analytical models that interpret market data to capitalize on trading opportunities.
+## What specific financial regulations must a PLC adhere to?
 
-To successfully implement algorithmic trading, firms require several technological prerequisites. These include high-performance computing capabilities to process vast amounts of market data in real time, low-latency network infrastructure to ensure rapid trade execution, and robust data management systems to handle historical and streaming data. Additionally, sophisticated software platforms that incorporate [machine learning](/wiki/machine-learning) algorithms and predictive analytics are integral to developing and deploying effective trading strategies.
+A public limited company (PLC) has to follow strict financial rules to make sure everything is fair and open. One big rule is that they have to share their money information with everyone. This means they need to make and show yearly reports and accounts. These reports tell people how much money the company made or lost, and what it spent money on. They also have to send these reports to the right government office, like Companies House in the UK. This helps people who buy shares know how the company is doing and if it's a good investment.
 
-Public Limited Companies (PLCs) have unique advantages that enable them to effectively engage in algorithmic trading. One of the primary benefits is their ability to raise significant capital through public markets. This financial capability allows PLCs to invest heavily in the necessary technologies and infrastructure that support high-frequency trading. The ability to access public funding means that PLCs can allocate substantial resources towards developing innovative trading systems and integrating cutting-edge technologies.
+Another important rule is that PLCs have to tell everyone about important things that happen in the company. This is called making disclosures. For example, if the company is going to buy another company, or if something big changes, they have to let people know. This helps keep things fair and open, so shareholders and the public can trust the company. If a PLC doesn't follow these rules, they could get in trouble and might not be able to stay a PLC.
 
-Regulatory compliance is a critical concern for algorithmic trading operations, and it varies depending on the corporate structure and jurisdiction. For PLCs, compliance with financial regulations is mandatory, requiring adherence to standards such as the Markets in Financial Instruments Directive II (MiFID II) in the European Union or the Securities Exchange Act in the United States. These regulations dictate the transparency, reporting, and fair trading practices necessary to maintain market integrity. This compliance burden influences business operations by necessitating the implementation of risk management systems and internal controls to prevent market abuse and ensure data security.
+## How does international expansion affect the requirements for a PLC?
 
-In summary, the intersection of corporate structures and algorithmic trading reveals that PLCs are well-positioned to benefit from the technological advancements that drive modern trading strategies. Their ability to raise capital and navigate complex regulatory landscapes enables them to allocate resources effectively and maintain competitive advantage in the fast-paced world of financial markets.
+When a public limited company (PLC) wants to grow and do business in other countries, it has to follow more rules. These rules can be different depending on the country. For example, if a PLC from the UK wants to sell its shares in the US, it has to follow the rules of the US stock market and the Securities and Exchange Commission (SEC). This might mean making more reports and sharing more information about the company's money. It can be a lot of work, but it helps make sure that people in other countries can trust the company and want to buy its shares.
 
-## Aligning Corporate Structures with Trading Objectives
-
-Public Limited Companies (PLCs) offer unique advantages when aligning corporate structures with trading objectives and capitalizing on market opportunities. The ability of PLCs to raise capital by issuing shares to the public enables the funding of sophisticated trading technologies, including algorithmic trading platforms. This strategic alignment allows for enhanced responsiveness to market dynamics and increased operational flexibility.
-
-**Integration of Algorithmic Trading in PLCs**
-
-Large, publicly traded companies like Goldman Sachs and Morgan Stanley integrate algorithmic trading strategies to increase their competitiveness. These companies utilize complex algorithms for trade execution, risk management, and market prediction, leveraging vast data sets to optimize trading performance. The public structure of these firms facilitates the acquisition of the technological infrastructure necessary for such operations, funded through equity and debt raised from public markets.
-
-For example, Python has become a critical tool within this landscape due to its rich ecosystem of libraries for data analysis, machine learning, and financial modeling. A simplified implementation of a basic trading algorithm in Python may involve the use of pandas for data manipulation, NumPy for numerical calculations, and libraries such as TA-Lib for technical analysis:
-
-```python
-import pandas as pd
-import numpy as np
-import talib
-
-# Load historical market data
-data = pd.read_csv('market_data.csv')
-
-# Calculate simple moving average
-data['SMA'] = talib.SMA(data['Close'], timeperiod=20)
-
-# Generate trading signals
-data['Signal'] = np.where(data['Close'] > data['SMA'], 1, -1)
-
-# Assume initial conditions and simulate trades
-initial_capital = 10000
-data['Portfolio Value'] = initial_capital + (data['Signal'].cumsum() * data['Close'].diff())
-```
-
-**Transition from Private to Public and Trading Impact**
-
-The transition from a private to a public company can significantly influence trading capabilities and strategies. For instance, the initial public offerings (IPOs) of companies like Facebook and Alibaba marked a pivotal shift, enabling these firms to access capital they previously could not as private entities. This transition not only broadens the financial toolkit available but also increases scrutiny and regulatory requirements, which can impact trading strategies.
-
-Increased capital allows these companies to invest in advanced algorithmic trading systems, granting them a competitive edge in speed, accuracy, and market insight. Consequently, shifting from a private to a publicly listed entity can reshape a company’s trading landscape, providing new avenues for growth and innovation in trading tactics.
-
-In summary, aligning corporate structures, particularly PLCs, with trading objectives opens up significant opportunities for implementing algorithmic trading, fueled by broader access to capital resources. The strategic move from a private to a public corporate structure can transform a company’s ability to compete in high-frequency trading environments, positioning them advantageously within the global financial markets.
-
-## Case Studies and Real-world Applications
-
-Examining real-world applications of algorithmic trading underscores the significance of corporate structures in achieving operational effectiveness and market proficiency. This section analyzes the cases of NVIDIA and Apple, which exemplify how public limited companies (PLCs) leverage algorithmic trading strategies for enhanced market positioning and financial performance.
-
-### NVIDIA
-
-NVIDIA, a leader in graphics processing units (GPU) and [artificial intelligence](/wiki/ai-artificial-intelligence) (AI), utilizes its extensive technological infrastructure to drive innovations in algorithmic trading. As a PLC, NVIDIA's ability to raise capital through public markets allows the company to invest heavily in research and development. This capital influx supports the development of advanced trading algorithms powered by their own high-performance GPUs.
-
-NVIDIA’s strategy demonstrates several key lessons:
-
-1. **Investment in Technology**: By leveraging its cutting-edge GPUs, NVIDIA enhances the speed and efficiency of trading algorithms. This edge is crucial in high-frequency trading where nanoseconds can determine profitability.
-
-2. **Market Adaptability**: As a PLC, NVIDIA benefits from a vast reserve of capital to swiftly adapt to market shifts, allowing the implementation of new trading strategies without the financial constraints often faced by private companies.
-
-3. **Regulatory Compliance**: Operating as a PLC necessitates strict adherence to regulatory standards, fostering a culture of transparency and accountability. This compliance reduces the risk of legal repercussions from trading activities, providing a stable foundation for expanding algorithmic strategies.
-
-### Apple
-
-Apple, another example, utilizes algorithmic trading to manage its substantial financial portfolio. The company's approach integrates machine learning and data analytics to optimize trading decisions. Apple’s status as a PLC facilitates this through:
-
-1. **Robust Data Utilization**: Access to global markets and substantial financial resources allows Apple to incorporate large datasets into its trading algorithms. This enables real-time analysis and decision-making, crucial for maintaining a competitive advantage in volatile markets.
-
-2. **Strategic Flexibility**: Apple's public structure facilitates broader strategic options in its trading practices, benefiting from shareholder insights and the ability to attract strategic investments.
-
-3. **Innovation and Risk Management**: With a large investment in R&D, Apple continuously innovates its algorithmic models to mitigate risks associated with market fluctuations and to capture emergent opportunities.
-
-### Lessons Learned and Best Practices
-
-From these case studies, several best practices emerge for companies looking to leverage their corporate structure for algorithmic trading:
-
-- **Capital Investment**: Adequate capital investment in technology and infrastructure is vital for developing robust algorithmic systems capable of handling large volumes of data and executing complex trades.
-
-- **Regulatory Adherence**: Maintaining rigorous compliance with trading regulations not only safeguards against legal issues but also enhances corporate credibility and investor confidence.
-
-- **Continuous Innovation**: Investing in R&D for algorithmic models is essential to keep pace with technological advancements and market trends, ensuring sustained competitive edge.
-
-- **Data Integration**: Effective use of data analytics is pivotal in refining algorithmic strategies and improving decision-making accuracy.
-
-In conclusion, the strategic use of corporate structures like PLCs can enable large companies to effectively harness algorithmic trading to enhance their financial strategies and maintain market leadership.
-
-## Conclusion
-
-Public limited companies (PLCs) represent a versatile corporate structure crucial in today’s global financial landscape, notably for their ability to raise capital through public stock offerings. This characteristic positions PLCs advantageously when aligning with modern algorithmic trading strategies. Their distinct legal identity and limited liability contribute to their prominence in diverse economic sectors, allowing them to harness capital-raising capabilities to invest significantly in advanced trading technologies.
-
-The establishment and operation of a PLC demand adherence to regulatory standards, diligent governance by boards of directors, and strategic shareholder engagement. This governance framework not only impacts strategic decision-making but also enhances agility and scalability in financial strategies, both of which are crucial for leveraging algorithmic trading’s full potential. Moreover, the intersection of corporate structures with algorithmic trading underscores the need for regulatory compliance, dictating how strategies are implemented and influencing overall business operations.
-
-When selecting corporate structures conducive to trading activities, PLCs offer a strategic advantage through their ability to access vast capital resources required for heavy investments in technological infrastructure. This setup is essential for competitive algorithmic trading, where speed and data accessibility are paramount.
-
-Looking forward, the integration of PLCs with algorithmic trading is expected to continue evolving, driven by increasing digitalization and stringent regulatory requirements. Companies will need to balance capital generation capabilities with compliance mandates, ensuring they remain at the forefront of technological advancements in trading. This evolving landscape necessitates strategic foresight to ensure that corporate governance and structure remain aligned with rapidly changing financial technologies and market opportunities.
+Also, when a PLC goes into new countries, it might need to change how it does things to fit the local laws. This could mean having different kinds of meetings or reports, or even having different people on the board of directors. It's important for the company to know and follow all these rules so it can keep doing business well in other places. If the company doesn't follow the rules, it could get in trouble and might not be able to keep selling its shares in those countries.
 
 ## References & Further Reading
 
