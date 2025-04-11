@@ -3,169 +3,86 @@ title: "Ten Steps to Conduct Due Diligence"
 description: "Optimize your algo trading success with these 10 steps to conduct due diligence focusing on risk management and business process evaluations for robust strategies."
 ---
 
-Algorithmic trading, commonly known as algo trading, has fundamentally transformed financial markets by employing sophisticated algorithms to automate trading decisions and processes. This automation facilitates unprecedented trading speeds and volume management, far surpassing the capabilities of manual trading. As a result, algorithmic trading has gained a dominant position, accounting for a significant portion of trading volumes on global financial exchanges.
 
-However, the growing dependence on technology-driven trading introduces a complex matrix of challenges and risks that necessitate rigorous risk assessment and business process due diligence. The primary aim is to anticipate and mitigate potential disruptions that could affect automated trading operations and performance. As financial markets are characterized by volatility and rapid shifts, the imperative to balance trading efficacy with risk becomes vital to maintain stability and ensure consistent profitability.
-
-![Image](images/1.webp)
-
-Risk assessment involves a thorough identification and evaluation of financial, operational, and systemic risks that could impact trading outcomes. By proactively managing these risks, traders and financial institutions can limit adverse impacts and enhance trading performance. Meanwhile, business process due diligence comprises a comprehensive evaluation of trading algorithms to ensure their reliability, accuracy, and compliance with regulatory standards. This includes data validation, algorithm performance evaluation, and regular audits to adapt to evolving market conditions and technological advancements.
-
-This article focuses on these essential processes within the framework of algorithmic trading, examining how they ensure a balance between efficacy and risk—a balance crucial for achieving success in today's volatile markets. By exploring the interplay between risk management and due diligence, the article provides insights into creating robust, resilient algorithmic trading strategies that can withstand dynamic market challenges.
+![Image](images/1.png)
 
 ## Table of Contents
 
-## Understanding Algorithmic Trading
+## What is due diligence and why is it important?
 
-Algorithmic trading involves the use of computer-based algorithms for making trading decisions and executing trades in financial markets. These algorithms process vast amounts of data to identify and capitalize on trading opportunities, replacing traditional methods of manual trade execution. The automation leveraged by these algorithms allows for rapid decision-making, enabling trades to be executed in fractions of a second, far surpassing the capabilities of human traders.
+Due diligence is the careful research and investigation someone does before making a decision, like buying a business or investing money. It's like checking all the details and facts to make sure everything is okay and there are no surprises later. People do due diligence to understand the risks and see if the decision is a good one.
 
-One of the primary advantages of algorithmic trading is speed. Trading algorithms can react to market conditions almost instantaneously, allowing traders to benefit from [arbitrage](/wiki/arbitrage) opportunities that exist only for a split second. This speed is facilitated by high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) strategies, which capitalize on small price changes.
+It's important because it helps people make smarter choices. By doing due diligence, you can find problems or risks that you didn't know about before. This can save you from making a bad decision that could cost you a lot of money or cause other problems. Doing your homework before deciding can give you more confidence and peace of mind.
 
-Another significant benefit is accuracy. Algorithms can execute trades with precision without human error, adhering strictly to predefined criteria and rules. This reduces the likelihood of mistakes that could occur in manual trading.
+## Who should be involved in the due diligence process?
 
-Algorithmic trading also mitigates emotional bias, which can adversely affect human traders. Emotions such as fear and greed can lead to irrational decision-making, potentially resulting in suboptimal trades. Algorithms, on the other hand, operate on logic and quantitative data, maintaining consistency in executing strategies according to plan.
+The due diligence process should involve a team of people who have different skills and knowledge. This team usually includes the person or company making the decision, like the buyer or investor. They also need experts like lawyers, accountants, and sometimes industry specialists who can look at specific parts of the business or investment. Each person on the team has a job to do, and together they make sure all the important areas are checked.
 
-However, the complexity of these systems does introduce new risks. The sophistication of algorithms means that they can sometimes behave unpredictably under certain market conditions, leading to unintended market impacts. Technical failures, such as software glitches, network issues, or erroneous input data, can result in cascading issues affecting trading performance and market stability.
+It's also a good idea to include people who will be affected by the decision. For example, if a company is buying another company, the managers and key employees from both companies should be involved. They can give important information and help spot any problems that might not be obvious to outsiders. By having a diverse team, you can get a full picture of what you're getting into and make a better decision.
 
-To integrate risk assessment and due diligence effectively in [algorithmic trading](/wiki/algorithmic-trading), understanding these dynamics is essential. It requires expertise in both trading strategy development and the technical aspects of implementing these strategies. This ensures that while the benefits of speed, accuracy, and bias reduction are maximized, the associated risks are proactively managed and minimized.
+## What are the key areas to focus on during due diligence?
 
-## The Importance of Risk Assessment
+During due diligence, it's important to look at the financial health of the business or investment. This means checking things like the company's income, expenses, debts, and assets. You want to see if the business is making money and if it can keep doing that in the future. It's also good to look at the company's financial records to make sure they are correct and there are no hidden problems. Talking to the company's accountants can help you understand the financial situation better.
 
-Risk assessment in algorithmic trading is a crucial process that involves identifying and evaluating potential threats that can adversely affect trading operations and performance. Given the intricacies and high-stakes nature of financial markets, understanding and mitigating these risks is imperative for maintaining stability and optimizing trading outcomes.
+Another key area is the legal side of things. You need to check if the company has any lawsuits or legal issues that could cause trouble later. This includes looking at contracts with customers, suppliers, and employees to make sure everything is in order. It's also important to check if the company is following all the laws and regulations that apply to its business. Getting help from lawyers can make sure you don't miss any important legal details.
 
-### Types of Risks
+Lastly, you should look at the operations and management of the business. This means understanding how the company works day-to-day and who is running it. You want to know if the company has good systems in place and if the people in charge are doing a good job. It's also helpful to look at the company's market and competitors to see how it fits in the industry. Talking to the company's managers and employees can give you a better idea of what's really going on inside the business.
 
-1. **Financial Risks**: These entail market risk, credit risk, and liquidity risk. Market risk is associated with changes in market conditions that can affect the pricing of assets. Credit risk involves the possibility of a trading counterparty defaulting on their financial obligations. Liquidity risk refers to the challenges in entering or exiting positions in a market without causing significant price disruptions.
+## How do you gather and organize information for due diligence?
 
-2. **Operational Risks**: These involve failures in internal processes, systems, or human actions. For instance, a coding error in a trading algorithm can lead to incorrect buy/sell decisions, causing financial losses. Therefore, robust operational protocols, including thorough testing and validation of algorithms, are essential to minimize such risks.
+To gather information for due diligence, you start by asking the company for documents like financial statements, contracts, and legal records. You might also talk to the company's managers and employees to get more details about how the business works. Sometimes, you need to do your own research, like looking at public records or industry reports. It's important to be thorough and ask a lot of questions to make sure you have all the information you need.
 
-3. **Systemic Risks**: These are critical due to the interconnected nature of financial markets where a failure in a single entity or market can propagate and lead to broader financial instability. Algorithmic trading firms must thus be aware of how their strategies might contribute to systemic risk, particularly during volatile market periods.
+Once you have all the information, you need to organize it in a way that makes sense. You can use folders or a computer system to keep everything in order. It's helpful to group the information into categories like financial, legal, and operational. This makes it easier to go through everything and see if there are any problems or risks. By keeping the information well-organized, you can make better decisions and feel more confident about your due diligence process.
 
-### Proactive Risk Management Strategies
+## What are the common documents required for due diligence?
 
-Effective risk management requires a proactive approach to anticipate and address potential risks before they materialize. Some strategies include:
+When doing due diligence, you need to look at many different documents. Some of the most important ones are financial statements, like the income statement, balance sheet, and cash flow statement. These help you understand if the company is making money and how it is spending its money. You also need to see tax returns to make sure the company is paying its taxes correctly. Bank statements and debt agreements are important too because they show how much money the company has and how much it owes.
 
-- **Stress Testing and Scenario Analysis**: These methodologies allow firms to evaluate how their trading strategies would perform under different market conditions, including adverse scenarios. This helps in identifying vulnerabilities and preparing appropriate risk mitigation tactics.
+Another set of documents you need are legal ones. This includes contracts with customers, suppliers, and employees, which tell you about the company's relationships and obligations. You should also look at any lawsuits or legal disputes the company is involved in. It's important to check licenses and permits to make sure the company is allowed to do what it's doing. Lastly, you might need to see organizational documents like the company's articles of incorporation and bylaws, which explain how the company is set up and run.
 
-- **Real-time Monitoring and Adjustment**: Algorithms should be monitored continuously to detect any anomalies or unexpected behaviors in real-time. Machine learning and artificial intelligence tools can be employed to quickly identify patterns that may indicate potential risks.
+For operational due diligence, you might need to look at business plans and market research reports to understand the company's goals and how it fits in its industry. Employee records and organizational charts can help you see who is working at the company and how it is managed. Inventory lists and asset registers are useful to know what the company owns. By looking at all these documents, you can get a full picture of the business and make a smart decision.
 
-- **Diversification**: Spreading investments across various strategies or asset classes can reduce the impact of any single risk event. Diversification helps in balancing potential losses with gains from uncorrelated assets.
+## How can you assess the financial health of a company during due diligence?
 
-- **Regulatory Compliance**: Adherence to regulatory standards is vital. Ensuring compliance not only reduces the risk of legal penalties but also strengthens market integrity. Regular audits and updates to align with regulatory changes are necessary.
+To assess the financial health of a company during due diligence, you start by looking at its financial statements. These include the income statement, which shows if the company is making money, the balance sheet, which lists what the company owns and owes, and the cash flow statement, which tells you how money is moving in and out of the business. You want to check if the company's income is growing and if it's making more money than it's spending. It's also important to look at the company's debts and see if it can pay them back. By going through these documents carefully, you can get a good idea of the company's financial situation.
 
-In conclusion, risk assessment in algorithmic trading is indispensable for identifying threats that could compromise trading efficacy. By evaluating financial, operational, and systemic risks and implementing proactive risk management strategies, businesses can mitigate negative impacts and optimize their trading performance.
+Another way to assess financial health is by looking at the company's financial ratios. These are numbers that help you understand things like how well the company is using its money, how much profit it's making, and how easily it can pay its bills. For example, the debt-to-equity ratio tells you how much the company is borrowing compared to what it owns. The profit margin shows how much of the company's sales turn into profit. By comparing these ratios to other companies in the same industry, you can see if the company is doing well or if there are problems you need to worry about. Talking to the company's accountants can also help you understand the financial statements better and spot any issues that might not be obvious at first.
 
-## Business Process Due Diligence
+## What legal aspects should be considered in due diligence?
 
-Business process due diligence in algorithmic trading entails a comprehensive examination of trading algorithms to ensure they function optimally and within predefined parameters. This practice is fundamental to maintaining the algorithms' accuracy, compliance, and performance in a constantly evolving market environment.
+When doing due diligence, it's really important to look at the legal side of things. You need to check if the company has any lawsuits or legal problems that could cause trouble later. This means looking at any current or past legal disputes to see if they might affect the business. You also need to go through all the contracts the company has with customers, suppliers, and employees. These contracts tell you about the company's promises and obligations. It's important to make sure these contracts are legal and that the company is following them correctly. Checking for any licenses and permits is also key because the company needs these to do its business legally.
 
-Key components of due diligence include validation of data integrity, which ensures that the data inputs and outputs of an algorithm remain consistent, accurate, and free from corruption. This is crucial because compromised data can lead to erroneous trading decisions. A robust example of validating data integrity is through implementing hashing techniques to detect changes in datasets. Python code to validate data integrity using a hash function such as SHA-256 might look like this:
+Another part of legal due diligence is making sure the company is following all the laws and regulations that apply to its business. This includes things like labor laws, environmental regulations, and industry-specific rules. If the company is not following these laws, it could get into big trouble and face fines or even have to shut down. You also need to look at the company's organizational documents, like its articles of incorporation and bylaws. These documents explain how the company is set up and run, and it's important to make sure everything is in order. By carefully going through all these legal aspects, you can understand the risks and make a better decision about the company.
 
-```python
-import hashlib
+## How do you evaluate the operational efficiency of a business?
 
-def calculate_hash(file_path):
-    sha256_hash = hashlib.sha256()
-    with open(file_path, "rb") as f:
-        # Read and update hash value in blocks of 4K
-        for byte_block in iter(lambda: f.read(4096), b""):
-            sha256_hash.update(byte_block)
-    return sha256_hash.hexdigest()
+To evaluate the operational efficiency of a business, you need to look at how well the company uses its resources to get things done. This means checking if the business is using its time, money, and people in the best way possible. You can start by looking at the company's production process to see if it's smooth and if there are any steps that could be faster or cheaper. It's also important to see how well the company manages its inventory, making sure it has enough products to sell but not so much that it's wasting money on storage. Talking to the employees can give you a good idea of how things are working day-to-day and if there are any problems that need to be fixed.
 
-# Example usage:
-# original_hash = calculate_hash('original_dataset.csv')
-# current_hash = calculate_hash('current_dataset.csv')
-# if original_hash != current_hash:
-#     print("Data integrity issue detected!")
-```
+Another way to evaluate operational efficiency is by looking at the company's key performance indicators (KPIs). These are numbers that show how well the business is doing in different areas, like how quickly it can make and sell its products, how much it costs to make them, and how happy its customers are. Comparing these numbers to other companies in the same industry can help you see if the business is doing well or if it needs to improve. By looking at all these things together, you can get a full picture of how efficiently the business is running and where it might need to make changes to do better.
 
-Compliance with regulatory standards is another critical component. Algorithmic trading occurs within a heavily regulated industry, and ensuring that trading systems comply with regional and international regulations is essential. This includes adhering to financial regulations like the Markets in Financial Instruments Directive (MiFID II) in the European Union, which mandates transparency and accountability in trading activities.
+## What are the best practices for conducting due diligence on a potential acquisition?
 
-Evaluating algorithm performance is equally important. It involves rigorous testing under various market conditions to assess how algorithms perform in normal and stressed environments. Performance evaluation can be conducted through [backtesting](/wiki/backtesting), where historical market data is used to simulate trading operations, offering insights into potential future performance. This ensures that the algorithm not only executes trades efficiently but also adapts to varying market conditions without significant degradation of performance.
+When conducting due diligence on a potential acquisition, it's important to start by gathering all the necessary documents. This includes financial statements, legal contracts, and operational records. You should also talk to the company's managers and employees to get a better understanding of how the business works. It's a good idea to have a team of experts, like lawyers and accountants, to help you go through everything and make sure you don't miss any important details. By being thorough and asking a lot of questions, you can gather all the information you need to make a smart decision.
 
-Regular audits and updates are necessary to keep algorithms aligned with dynamic market landscapes and technological advancements. These activities help detect anomalies or potential failure points that could undermine algorithmic operations. By conducting periodic audits, businesses can identify and rectify vulnerabilities, adapting algorithms to maintain competitive performance. The continual cycle of auditing and updating addresses both the ever-changing market conditions and advances in technology, preventing obsolescence and ensuring robust trading operations.
+Once you have all the information, you need to organize it and look at it carefully. Check the financial health of the company by going through its income, expenses, debts, and assets. Make sure to look at any legal issues or lawsuits that could cause problems later. Also, evaluate the company's operational efficiency by looking at its production process, inventory management, and key performance indicators. By comparing these details to other companies in the same industry, you can see if the business is doing well or if there are areas that need improvement. Taking the time to do a thorough due diligence process can help you avoid surprises and make a better decision about the acquisition.
 
-Through rigorous business process due diligence, companies can mitigate risks associated with algorithmic trading, ensuring algorithms are well-tuned to operate effectively, efficiently, and compliantly in complex, volatile markets.
+## How can technology be utilized to streamline the due diligence process?
 
-## Integrating Risk Assessment with Due Diligence
+Technology can make the due diligence process easier and faster. You can use special software to keep all the documents in one place and organize them well. This software can help you find information quickly and share it with your team. You can also use tools that let you look at financial data and see if there are any problems. These tools can do calculations and make charts to help you understand the numbers better. By using technology, you can save time and make sure you don't miss any important details.
 
-Effective integration between risk assessment and due diligence is crucial for developing robust algorithmic trading strategies. These two components, while distinct, are inherently interconnected in ensuring the efficacy and safety of trading algorithms. When integrated, they provide a comprehensive approach to identifying and managing risks while confirming the reliability of trading processes.
+Another way technology helps is by letting you do virtual meetings and talks. You can use video calls to talk to the company's managers and employees without having to travel. This can save you a lot of time and money. You can also use online tools to work together with your team, even if you are in different places. These tools let you share documents and ideas easily. By using technology, you can make the due diligence process smoother and more efficient.
 
-Cross-functional teams play a pivotal role in bridging the gaps between risk management and algorithm development. These teams typically consist of data scientists, risk analysts, compliance officers, and software engineers. By working collaboratively, these professionals can ensure that risk considerations are embedded throughout the algorithm development lifecycle. For example, a data scientist might identify potential data anomalies that could lead to erroneous trading signals, while a risk analyst assesses the financial implications of these anomalies.
+## What are the red flags to look out for during due diligence?
 
-Continuous monitoring and adaptation are also vital for maintaining the relevance and safety of trading algorithms. Markets are dynamic entities, constantly influenced by myriad factors that can introduce new risks and opportunities. Implementing real-time monitoring systems can help detect deviations from expected performance, allowing for immediate intervention. Algorithms should be subject to periodic reviews and updates to adapt to market changes and technological advancements. This proactive approach can significantly reduce the likelihood of adverse outcomes.
+During due diligence, you need to watch out for certain signs that might mean there are problems with the company. One big red flag is if the financial records look fishy or don't add up. This could mean the company is not making as much money as it says or is hiding debts. Another warning sign is if the company has a lot of lawsuits or legal issues. This can cause big trouble later and might mean the company is not following the rules. Also, be careful if the company's managers or employees seem unhappy or if there is a lot of turnover. This can show that the company is not a good place to work and might have problems with how it's run.
 
-Consider the implementation of a monitoring system using Python. A simple script could use APIs to fetch live market data and track algorithm performance metrics:
+Another thing to watch for is if the company's products or services are not selling well or if it's losing customers. This can mean the company is not doing well in its market and might have trouble making money in the future. It's also a red flag if the company doesn't have good systems in place for making and selling its products. This can make it hard for the company to grow and be successful. By keeping an eye out for these signs, you can spot problems early and make a better decision about whether to go ahead with the acquisition.
 
-```python
-import requests
-import time
+## How do you integrate findings from due diligence into decision-making processes?
 
-def get_market_data(api_endpoint):
-    response = requests.get(api_endpoint)
-    return response.json()  # Assuming the API returns data in JSON format
+When you finish the due diligence process, you need to use what you learned to make a good decision. Start by looking at all the information you gathered about the company's money, legal issues, and how it runs. See if there are any big problems or risks that could cause trouble later. If you find red flags, like hidden debts or lawsuits, you might want to think twice about going ahead with the acquisition. On the other hand, if the company looks healthy and has good growth potential, that's a good sign. Talk to your team about what you found and get their thoughts. This helps you make sure you're not missing anything important.
 
-def monitor_algorithm_performance(threshold, api_endpoint):
-    while True:
-        data = get_market_data(api_endpoint)
-        performance_metric = compute_performance_metric(data)  # User-defined function
-        if performance_metric < threshold:
-            alert_team()  # Function to notify relevant team members
-        time.sleep(60)  # Check every minute
-
-monitor_algorithm_performance(0.95, 'https://api.example.com/market_data')
-```
-
-In conclusion, integrating risk assessment with due diligence involves collaborative efforts by cross-functional teams and continuous practice of monitoring and adaptation. This integrated strategy not only helps to manage risk effectively but also ensures that algorithms perform optimally in diverse market scenarios.
-
-## Technological Tools and Resources
-
-In the context of algorithmic trading, the use of advanced technological tools is essential for enhancing risk assessment and due diligence processes. The integration of [machine learning](/wiki/machine-learning) and [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) offers a robust framework for these activities, enabling real-time analysis and decision-making that were previously unattainable with manual methods.
-
-Machine learning algorithms can process vast amounts of data, identify patterns, and make predictions, all of which are invaluable for assessing potential risks in trading environments. For example, these algorithms can be trained to recognize typical market behaviors and flag anomalies, potentially indicating unusual market conditions or operational errors. These capabilities allow for immediate intervention, mitigating risks before they escalate into significant issues.
-
-Predictive analytics further complements machine learning by using historical data to forecast future market conditions or trading outcomes. This approach not only assists in identifying potential risks but also aids in the optimization of trading strategies. For instance, predictive models can evaluate the probability of various market scenarios, allowing traders to adjust their strategies accordingly.
-
-Automated monitoring systems are another critical component. These systems continuously oversee algorithmic trading activities, ensuring adherence to regulatory standards and performance benchmarks. By automating routine checks, firms reduce the risk of human error and free up resources for more strategic tasks. Moreover, these systems often incorporate alert mechanisms that notify management of any deviations from expected performance parameters, ensuring prompt corrective actions.
-
-To illustrate the practical implementation of these technologies, consider a Python-based algorithm designed to monitor stock price movements and detect anomalies:
-
-```python
-import numpy as np
-from sklearn.ensemble import IsolationForest
-
-# Sample data: stock price changes
-data = np.array([0.5, 0.6, -0.3, 0.2, 5.0, 0.4, -0.1]).reshape(-1, 1)
-
-# Initialize the model
-clf = IsolationForest(contamination=0.1)
-clf.fit(data)
-
-# Predict anomalies (-1 indicates anomaly, 1 indicates normal)
-anomalies = clf.predict(data)
-
-print(anomalies)
-```
-
-In this example, the `IsolationForest` algorithm identifies outliers in stock price changes, highlighting potential anomalies that warrant further investigation.
-
-The effective deployment of these technological tools ensures that algorithmic trading processes are not only optimized for efficiency but also fortified against disruptions. By leveraging machine learning, AI, predictive analytics, and automated monitoring systems, traders and firms can navigate the complexities of modern financial markets with improved precision and confidence.
-
-## Challenges and Future Trends
-
-Risk management in algorithmic trading faces several multifaceted challenges. One significant challenge is the evolving regulatory landscape, as financial markets worldwide continuously update their regulatory frameworks to account for technological advancements. Ensuring compliance with these dynamic regulations requires ongoing adaptations in trading algorithms and processes, which can be resource-intensive and complex. Non-compliance can lead to severe penalties, making it imperative for trading firms to stay informed about regulatory changes.
-
-Market unpredictability adds another layer of complexity to risk management in algorithmic trading. Financial markets are inherently volatile, and events such as geopolitical tensions, economic upheavals, or unexpected market announcements can trigger rapid fluctuations. Algorithmic trading systems must be robust enough to handle such [volatility](/wiki/volatility-trading-strategies) without leading to significant financial losses. This requires the development of algorithms that not only make profitable trades but also have built-in risk management capabilities to react
-
-## Conclusion
-
-Risk assessment and business process due diligence are indispensable for preserving both integrity and performance in the field of algorithmic trading. As algorithmic trading increasingly depends on the precision and speed offered by technological advancements, businesses must continuously adapt their strategies. The financial markets are prone to volatility, and ignoring the potential risks associated with trading algorithms can lead to substantial losses. Thus, assessing risks effectively helps in understanding and mitigating financial, operational, and systemic threats that could undermine trading operations.
-
-Due diligence, particularly regarding algorithmic evaluation, serves as an essential tool for assuring that trading operations align with both market conditions and regulatory requirements. Regular evaluations allow firms to verify data integrity, ensure compliance, and audit algorithm performance, which is critical for adapting to changing market dynamics and technological advancements. Maintaining rigorous standards in due diligence can uncover potential inefficiencies and pinpoint areas for improvement, ultimately enhancing the robustness of trading algorithms.
-
-A proactive approach to integrating risk assessment with business process due diligence ensures that businesses remain resilient and competitive. Employing advanced technologies such as machine learning and AI facilitates real-time monitoring and management of risks, streamlining the entire process while guarding against disruptions. By leveraging predictive analytics and automated monitoring systems, businesses can preemptively address anomalies and potential threats.
-
-As the regulatory landscape evolves and market conditions fluctuate, organizations must stay informed of emerging trends to maintain and strengthen their competitive edge. Innovations in AI-driven tools and regulatory adjustments will continue to shape the future landscape of algorithmic trading. Businesses that anticipate these changes and dynamically re-evaluate their strategies will be better equipped to sustain success in this fast-paced environment.
+Once you've gone through all the information, you can make a plan for what to do next. If the due diligence shows the company is a good fit, you might decide to move forward with the acquisition. But you might also want to negotiate a better price or ask for certain conditions to be met before you agree. If the due diligence shows too many problems, it might be better to walk away. Either way, using the findings from due diligence helps you make a smart choice and feel more confident about your decision.
 
 ## References & Further Reading
 
