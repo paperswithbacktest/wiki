@@ -3,158 +3,82 @@ title: "SG&A Expenses"
 description: "Explore the components of SG&A expenses within the context of algorithmic trading, highlighting how effective expense management can boost profitability and competitive advantage by optimizing resource allocation. Discover strategies to control business costs and maintain operational efficiency in this fast-paced industry."
 ---
 
-Understanding the financial dynamics of a business is crucial for success. In the rapidly evolving world of algorithmic (algo) trading, this understanding becomes even more critical. Algo trading relies on complex algorithms to make high-speed, high-frequency transactions, where even the minutest inefficiency can lead to substantial financial losses. As such, effectively managing business expenses is essential for firms to maintain a competitive edge and ensure sustainable profitability.
-
-This article explores the intricate components of business expenses, administrative expenses, and SG&A (Selling, General, and Administrative) costs, particularly within the context of algo trading. Business expenses encompass a wide range of costs incurred by firms in their general operations, from direct costs like the cost of goods sold to indirect costs, such as marketing and overhead. Understanding these expenses helps businesses streamline their operations, focus on cost-efficiency, and enhance overall profitability. 
 
 ![Image](images/1.png)
 
-In algo trading, administrative expenses play a crucial role, as they encompass the costs necessary to maintain the technological infrastructure and compliance with regulatory standards that are vital for automated trading systems. The growing complexity and regulatory scrutiny in the financial markets necessitate stringent management of these expenses to ensure operational efficiency and compliance.
-
-Alongside this, SG&A expenses represent a significant portion of a company's operational costs, covering expenses related to selling products and managing the company's overall structures. For algo trading firms, minimizing SG&A expenses without sacrificing performance is a key strategy for boosting financial health and competitive positioning. Efficient management of SG&A can contribute directly to improved profitability by optimizing resource allocation and fostering lean organizational practices.
-
-As this article progresses, it will highlight the importance of SG&A expenses in financial reporting and decision-making processes for algo trading businesses. Understanding the categorization and impact of these expenses equips firms with the necessary insights to make strategic financial decisions and optimize their trading operations.
-
-In summary, as algotrading continues to grow, the need for meticulous financial management becomes abundantly clear. By examining these categories of expenses, business leaders can enhance their strategic financial planning and operational effectiveness, ultimately securing their firms' positions in the competitive landscape of algotrading.
-
 ## Table of Contents
 
-## Understanding Business Expenses
+## What does SG&A stand for?
 
-Business expenses are vital to any company's operations, representing the costs incurred to generate revenue. These expenses are broadly categorized into direct and indirect costs. Direct costs, such as the Cost of Goods Sold (COGS), are directly tied to the production of goods or services a company offers. Indirect costs, often referred to as overhead, encompass expenses not directly linked to production, including administrative and marketing expenses.
+SG&A stands for Selling, General, and Administrative expenses. These are the costs a company spends on activities that are not directly related to making their product or service. Instead, these expenses help run the business day-to-day. Selling expenses include things like advertising and sales staff salaries. General and administrative expenses cover things like office rent, utilities, and the salaries of people who work in areas like human resources and accounting.
 
-In the context of businesses engaged in algorithmic (algo) trading, understanding and managing these expenses effectively is crucial for maintaining profitability and sustainability. Algo trading involves using automated algorithms to execute trades, which can incur distinct types of business expenses.
+Understanding SG&A is important because it shows how much a company spends to support its operations outside of production. By keeping these costs in check, a company can improve its profitability. For example, if a company can reduce its advertising costs without losing sales, it can increase its profits. However, cutting SG&A too much might harm the business if it leads to lower sales or poor management. So, it's a balance that companies need to manage carefully.
 
-**Direct Costs:**
-For algo trading firms, direct costs may include the computational resources necessary for running trading algorithms. This can involve expenses related to data acquisition from stock exchanges, which is essential for developing and testing trading models. Additionally, expenses linked to the execution of trades, such as brokerage fees and transaction costs, fall into this category.
+## What are SG&A expenses?
 
-**Indirect Costs:**
-Indirect costs in algo trading are predominantly associated with overheads necessary to support the trading operations. Key categories include:
+SG&A expenses are the costs a company pays for things that help it run but aren't part of making its products or services. These costs include money spent on selling the company's products, like advertising and paying salespeople. It also covers general costs, like rent for office space, and administrative costs, like paying people who work in human resources or accounting.
 
-1. **Marketing Expenses:** 
-   - Marketing strategies are vital for attracting capital and clients. Expenses may include digital marketing campaigns, investor relations activities, and branding efforts.
+These expenses are important because they show how much a company spends to keep its business going, aside from the costs of making things. By watching these expenses, a company can figure out if it's spending too much on things like advertising or office supplies. If a company can lower these costs without hurting sales or how well it runs, it can make more profit. But, cutting these costs too much can be bad if it means the company can't sell as much or manage well.
 
-2. **Rent and Utilities:**
-   - These are costs associated with office space and maintaining technological infrastructure. Given the high-tech nature of algo trading, ensuring robust and reliable infrastructure is imperative.
+## Can you provide examples of SG&A expenses?
 
-3. **Insurance:**
-   - Insurance is essential for mitigating risks associated with operational and technological failures. Coverage can extend to cyber insurance to protect against data breaches and system intrusions.
+SG&A expenses are costs a company pays for things that help it run but aren't directly part of making its products or services. These include money spent on selling the company's products, like paying for ads on TV or online, and the salaries of salespeople who talk to customers. Another part of SG&A is the cost of things needed to keep the business running smoothly, like rent for the office space where employees work, and the electricity and water bills for that office.
 
-4. **Technology and Communication:**
-   - Continuous updates and maintenance of software and hardware are crucial for competitive algo trading. Expenses also encompass networking and communication systems that ensure real-time data processing and trade execution.
+The administrative part of SG&A includes costs for people who help manage the company but don't make the products. This can be the salary of someone working in human resources, who hires new employees, or someone in accounting, who keeps track of the company's money. These costs are important because they help the company operate every day, but they need to be managed carefully. If a company spends too much on these things, it might not make as much profit, but if it spends too little, it might not run well or sell enough products.
 
-Managing business expenses in algo trading requires strategic allocation of resources to ensure optimal operation of trading algorithms while maintaining cost efficiency. Precise expense tracking and management lead to improved financial health and competitive advantage.
+## How are SG&A expenses different from COGS?
 
-Adopting advanced financial software for tracking and analyzing these expenses can help firms streamline their operations. Automation of expense management through technologies like [machine learning](/wiki/machine-learning) can also predict potential cost savings and areas requiring budget adjustments.
+SG&A expenses and COGS are two different types of costs that a company tracks. COGS stands for Cost of Goods Sold, which includes all the money a company spends to make its products or services. This can be things like raw materials, the wages of people who make the products, and the cost to run the factory or store where the products are made. COGS is directly related to what the company sells, so if it makes more products, COGS will go up.
 
-In summary, comprehending the nature of business expenses and effectively managing them are vital for algo trading firms. Efficient expense management not only supports sustainable operations but also enhances profitability by allowing companies to focus resources on innovation and competitive trading strategies.
+On the other hand, SG&A expenses are the costs that help the company run but aren't directly related to making the products or services. SG&A stands for Selling, General, and Administrative expenses. This includes money spent on advertising to sell the products, the rent for office space, and the salaries of people in departments like human resources or accounting. These costs are important for the company to operate smoothly, but they don't change directly with how many products the company makes or sells.
 
-## Diving into Administrative Expenses
+## Why are SG&A expenses important for businesses?
 
-Administrative expenses form a critical component of a company's operating costs, encompassing costs associated with the general administration necessary to run the business effectively. These costs typically include expenditure on human resources (HR) functions, legal fees, office supplies, and utilities, among others. This area of expense management is essential for ensuring the smooth operation of any business, including algo trading firms.
+SG&A expenses are important for businesses because they show how much money a company spends on things that help it run every day, but are not directly related to making products or services. These costs include money spent on selling the company's products, like advertising and paying salespeople, as well as general costs like office rent and utilities, and administrative costs like salaries for people in human resources and accounting. By keeping track of SG&A expenses, a company can see if it's spending too much on these things, which can help it make more profit if it finds ways to cut these costs without hurting its business.
 
-Algorithmic trading, which relies on automated trading systems to execute orders based on pre-set conditions, places specific demands on a firm's administrative framework. For algo trading firms, administrative expenses often encompass costs related to maintaining an advanced technological infrastructure. This includes expenses for high-performance computing systems, data feeds, co-location services — where trading systems are physically positioned close to data exchange centers to reduce latency — and software maintenance. Furthermore, costs associated with cybersecurity measures to protect proprietary trading algorithms and sensitive data from breaches are also categorized as administrative expenses.
+However, it's important for businesses to balance their SG&A expenses carefully. If a company spends too little on SG&A, it might not be able to sell its products well or manage its operations effectively. For example, cutting back on advertising might save money in the short term, but it could lead to fewer sales if customers don't know about the products. On the other hand, if a company spends too much on SG&A, it might not make as much profit as it could. So, understanding and managing SG&A expenses is key for a business to run smoothly and be profitable.
 
-Regulatory compliance is a significant component of administrative expenses within the algo trading sector, given the strict regulations governing financial markets. Compliance costs can include expenditures for audit processes, acquiring necessary licenses, engaging external consultants for regulatory guidance, and ensuring that all trading activities adhere to financial regulations like those imposed by the Securities and Exchange Commission (SEC) or the Financial Industry Regulatory Authority (FINRA).
+## How do businesses typically manage SG&A expenses?
 
-These expenses are crucial not only for the operational viability of algo trading firms but also in safeguarding against regulatory penalties. By effectively managing these administrative costs, firms can maintain operational efficiency and regulatory compliance, which are vital for sustaining their competitive positioning in the highly-regulated financial markets sector.
+Businesses usually manage SG&A expenses by keeping a close eye on them and making smart choices about where to spend money. They look at their SG&A costs regularly to see if they're spending too much on things like advertising, office rent, or salaries for people who aren't making the products. If they find they're spending too much, they might try to cut back in certain areas. For example, they might decide to use cheaper office space or find more affordable ways to advertise, like using social media instead of TV commercials.
 
-## Exploring SG&A Expenses
+Another way businesses manage SG&A expenses is by planning ahead. They create budgets that set limits on how much they can spend on SG&A each year. This helps them stay on track and avoid overspending. Sometimes, they might also look for ways to make their operations more efficient, like using technology to do things that used to need a lot of people, which can save money on salaries. By keeping SG&A expenses under control, businesses can improve their profits without hurting their ability to sell products or manage their operations well.
 
-SG&A expenses, encompassing Selling, General, and Administrative costs, play a critical role in a company's financial structure. These expenses are necessary for maintaining and operating various aspects of a business, including the costs involved in the selling process, general business operations, and administrative functions. For algo trading firms, which exist in a highly competitive and rapidly changing environment, managing these expenses efficiently is vital for sustaining profitability and operational effectiveness.
+## What is the impact of SG&A expenses on a company's profitability?
 
-Selling costs, a component of SG&A, typically involve expenses related to the marketing and distribution of a firm's services or products. In algo trading, this might include costs associated with client acquisition, maintaining relationships with investors, and marketing the firm's trading platforms or strategies. General costs encompass a wide range of operational expenses, such as utilities, office rent, and general supplies, which are necessary for the daily functioning of a business. For algo trading firms, general costs also might include expenses related to maintaining critical trading technology and infrastructure.
+SG&A expenses can have a big impact on a company's profitability. These expenses are the costs a company pays for things like advertising, office rent, and salaries for people who aren't making the products. If a company spends too much on SG&A, it might not make as much profit because these costs eat into the money it makes from selling its products. For example, if a company spends a lot on fancy office space and expensive ads, it might not have enough money left over to make a good profit.
 
-Administrative costs, another key component, often involve expenses related to the management and oversight of a company. This includes salaries of executive and administrative staff, legal fees, and compliance costs. In the algo trading sector, administrative expenses also cover technology management, data acquisition, and regulatory compliance, all of which are crucial for the secure and efficient operation of automated trading systems.
+On the other hand, if a company can keep its SG&A expenses low, it can make more profit. By finding cheaper ways to advertise, using less expensive office space, or making its operations more efficient, a company can save money on SG&A. This means more of the money it makes from selling products can go towards profit. But, it's important for a company to not cut SG&A too much, because spending too little on things like advertising might mean fewer people know about its products, which could lead to lower sales.
 
-Efficient management of SG&A expenses is beneficial in achieving cost reduction and improving the company's bottom line. By analyzing and optimizing these expenses, algo trading firms can increase their investment in core activities that directly contribute to income generation, such as developing new trading algorithms or enhancing existing ones. Leveraging technology such as automated reporting tools and cost-tracking software can greatly aid in monitoring and reducing SG&A expenses.
+## How can SG&A expenses be analyzed on financial statements?
 
-For instance, using Python, businesses can automate data collection and generate reports to track SG&A expenses accurately. Here is a simple example of how such a system might be set up to summarize monthly expenses:
+SG&A expenses can be found on a company's income statement, which is one of the main financial statements. The income statement shows how much money a company made and spent over a certain period, like a year. SG&A expenses are listed as a separate line item on the income statement, usually after the cost of goods sold (COGS). By looking at this line, you can see how much the company spent on things like advertising, office rent, and salaries for people who aren't making the products. This helps you understand how much of the company's money goes towards running the business every day, instead of making products.
 
-```python
-import pandas as pd
+To analyze SG&A expenses, you can compare them to other numbers on the income statement. For example, you might look at SG&A as a percentage of the company's total revenue. If SG&A expenses are a big part of the revenue, it might mean the company is spending a lot on things like advertising or office costs, which could affect its profits. You can also compare SG&A expenses from one year to the next to see if they are going up or down. If they are going up faster than the company's revenue, it might be a sign that the company needs to find ways to cut these costs to improve its profitability.
 
-# Sample data for costs
-data = {'Month': ['January', 'February', 'March'],
-        'Selling Costs': [2000, 1800, 2100],
-        'General Costs': [3000, 3200, 3100],
-        'Administrative Costs': [1500, 1600, 1550]}
+## What strategies can be used to reduce SG&A expenses?
 
-# Create DataFrame
-df = pd.DataFrame(data)
+Businesses can reduce SG&A expenses by first looking closely at where they are spending money. They might find they are spending too much on things like big office spaces or fancy ads. By choosing smaller offices or using cheaper ways to advertise, like social media instead of TV, they can save money. Another way to cut costs is by using technology to do things that used to need a lot of people, like using software for accounting instead of hiring more accountants. This can save money on salaries and make the business run more smoothly.
 
-# Calculate total SG&A expenses for each month
-df['Total SG&A'] = df['Selling Costs'] + df['General Costs'] + df['Administrative Costs']
+Another strategy is to set strict budgets for SG&A expenses. This means deciding ahead of time how much money can be spent on things like advertising, office supplies, and salaries for people who aren't making products. By sticking to these budgets, businesses can avoid spending too much. It's also important to check these expenses regularly and see if there are ways to spend less without hurting the business. For example, if a business finds it's spending a lot on travel, it might decide to have more meetings online instead. By being careful and smart about SG&A expenses, businesses can improve their profits without losing their ability to sell products or manage well.
 
-# Display the DataFrame
-print(df)
-```
+## How do SG&A expenses vary across different industries?
 
-This approach not only enhances transparency but also enables firms to identify areas where costs can be cut or managed more efficiently. Understanding the components of SG&A allows algo trading firms to strategically allocate resources, thus ensuring both competitive edge and enhanced operational efficiency in a fast-paced market.
+SG&A expenses can be very different from one industry to another. For example, in the retail industry, companies might spend a lot on advertising to get people to buy their products. They also need to pay for big stores and lots of salespeople, which adds to their SG&A costs. On the other hand, a manufacturing company might spend less on advertising but more on office space and salaries for people who manage the factory and keep track of the money.
 
-## SG&A Versus Operating Expenses
+In the tech industry, companies often spend a lot on research and development, which can be part of their SG&A expenses. They also might spend a lot on marketing to make sure people know about their new products. But, they might not need as many big stores or salespeople as a retail company. Each industry has its own way of doing things, so the amount and type of SG&A expenses can be very different.
 
-SG&A (Selling, General, and Administrative) expenses and operating expenses often overlap but serve different roles in a company's financial framework. Operating expenses encompass all costs associated with running a business's day-to-day operations that are not directly involved in the manufacturing of goods or delivery of specific services. This includes a broad range of expenses like rent, utilities, and salaries for non-production staff.
+## What are the trends in SG&A expenses over recent years?
 
-SG&A, on the other hand, is a subset of operating expenses specifically focused on costs that do not fall under the umbrella of production or manufacturing. This includes expenses related to selling products, general administrative duties, and maintaining management infrastructure. Common examples include marketing costs, executive salaries, and office supplies.
+Over recent years, SG&A expenses have been changing because of new technology and how businesses work. Many companies are using computers and the internet to do things that used to need a lot of people, like keeping track of money or talking to customers. This can help them spend less on salaries and office space. Also, more businesses are using social media and online ads instead of expensive TV commercials, which can save money on advertising.
 
-The distinction between SG&A and other operating expenses is critical for financial reporting and analysis. Accurate categorization aids businesses in evaluating operational efficiency and identifying areas for cost savings. In [algorithmic trading](/wiki/algorithmic-trading) firms, where SG&A costs may include expenses for technology setup, compliance, and administrative support, precise tracking can be particularly beneficial for optimizing resource allocation and strategic planning.
+But, some SG&A expenses are going up. For example, companies are spending more on technology to make their business run better. They also need to pay for things like cybersecurity to keep their information safe. And, as businesses grow and sell their products in more places, they might need to spend more on advertising and people to manage those new areas. So, while some SG&A costs are going down, others are going up, and businesses need to keep a close eye on all of them to stay profitable.
 
-Maintaining transparency between SG&A and operating expenses is essential for preparing clear financial statements. Financial statements often require that SG&A be reported separately to provide insights into how much a company is spending on activities not directly tied to production. This separation helps in evaluating the financial health of a company and assists stakeholders in making informed decisions.
+## How do changes in SG&A expenses affect a company's valuation?
 
-For algo trading companies, which operate in a data-driven and rapidly changing environment, these distinctions allow for better financial management. They can focus on reducing SG&A costs without compromising on essential operational functions. Efficient management of these expenses supports enhanced profitability and aids in strategic financial planning, ensuring that the firm maintains a competitive edge in the algorithmic trading sector.
+Changes in SG&A expenses can have a big impact on a company's valuation. When a company can lower its SG&A expenses, it might make more profit because it's spending less on things like advertising, office rent, and salaries for people who aren't making the products. If investors see that the company is making more profit, they might think the company is worth more money. This can make the company's stock price go up, which means the company's valuation goes up too.
 
-## Impact of SG&A on Financial Strategies
-
-SG&A (Selling, General, and Administrative) expenses are a critical component in assessing a company's financial health and operational efficiency. These expenses serve as a measure of a company's ability to control costs while maintaining necessary infrastructure for operations and growth. Effective monitoring and management of SG&A can lead to identifying significant cost-saving opportunities, which is crucial for companies involved in algorithmic trading.
-
-In the domain of algo trading, managing SG&A expenses is crucial for maintaining a competitive edge and optimizing financial performance. The fast-paced and highly competitive nature of algo trading means that firms must strive for efficiency in all aspects of their operations. SG&A expenses, which include costs not directly tied to the production of goods or services, provide a unique opportunity for profit maximization through strategic reduction or reallocation. These expenses cover a range of operational activities, from salaries and office expenses to marketing and utility costs.
-
-Cost management strategies within algorithmic trading often emphasize improving the efficiency of trading algorithms while keeping a streamlined organizational structure. For instance, optimizing algorithm performance can lead to reduced transaction costs and better execution of trades, directly impacting the bottom line. Additionally, investments in technology and infrastructure, while initially classified as SG&A, can result in cost reductions over time through automation and improved operational efficiency.
-
-Furthermore, algorithmic trading firms can employ data analytics to gain insights into SG&A spending patterns and identify areas ripe for cost reduction. Advanced analytics can uncover inefficiencies in resource allocation, allowing firms to implement targeted strategies for trimming excess costs. For example, automating routine administrative tasks can reduce labor costs and allow personnel to focus on more strategic initiatives.
-
-In summary, SG&A expenses play a pivotal role in financial strategy for algorithmic trading firms. By focusing on these expenses, firms can enhance their financial performance, achieving a lean and efficient operational model that supports ongoing innovation and competitiveness in the market. This strategic approach to managing SG&A not only aids in preserving financial health but also fosters an environment conducive to sustained growth and adaptation in the rapidly evolving trading landscape.
-
-## Conclusion
-
-In business, particularly within algorithmic trading, efficient management of business expenses, administrative costs, and SG&A (Selling, General, and Administrative) expenses is essential for achieving sustained success and profitability. By developing a comprehensive understanding of the financial landscape and effectively categorizing expenses, businesses can derive critical insights that enhance both profitability and operational effectiveness.
-
-Managing these financial aspects allows companies to streamline their operations, ensuring that resources are allocated efficiently. This strategic approach not only improves the bottom line but also bolsters the company's ability to adapt to changing market demands and technological advancements, particularly crucial for algo trading firms where technology and speed are paramount.
-
-Effective monitoring and reporting of expenses are indispensable. By employing diligence in financial reporting and meticulous expense management, businesses can fine-tune their strategies to navigate complex trading environments. This requires leveraging data analytics and financial modeling to identify patterns and cost-saving opportunities, enabling firms to maintain a competitive edge while ensuring compliance with stringent financial regulations.
-
-The emphasis on precise financial oversight and disciplined expense categorization is not merely an exercise in accounting; it forms the backbone of a company's strategic framework, underpinning decision-making that drives growth and sustainability. As businesses face increasingly complex financial landscapes, the capacity to manage and optimize expenses remains a decisive [factor](/wiki/factor-investing) in their ability to thrive in competitive markets.
-
-## FAQs
-
-### What are the key differences between SG&A and COGS?
-
-SG&A (Selling, General, and Administrative expenses) and COGS (Cost of Goods Sold) are both critical components of a company's financial statements, but they serve different purposes and are accounted for differently. 
-
-SG&A expenses encompass costs related to selling products and managing operations, including salaries, rent, utilities, and marketing expenses. These expenses are generally indirect costs that are not tied directly to the production of goods or services. They are reflected on the income statement as part of operating expenses and are primarily concerned with maintaining the broader operational and administrative functions of a business.
-
-In contrast, COGS represents the direct costs incurred in producing goods or services sold by a business. This includes the cost of materials, labor, and overhead directly attributed to the production process. COGS is subtracted from revenue to calculate the gross profit of a company.
-
-Understanding the distinction is vital for accurate financial analysis and helps in determining a business's gross margin and operating efficiency. For instance, reducing COGS can directly improve gross profit, whereas decreasing SG&A impacts operating income.
-
-### How can algorithmic trading firms reduce SG&A expenses effectively?
-
-Algorithmic trading firms can implement several strategies to reduce SG&A expenses and enhance profitability. Given the technology-driven nature of such firms, one of the most effective methods is optimizing technological infrastructure. This includes investing in cost-effective, high-performance computing resources and leveraging cloud-based solutions to reduce maintenance and upgrade costs.
-
-Streamlining personnel by automating repetitive tasks can also reduce labor costs. By employing advanced algorithms and machine learning, firms can achieve higher efficiency with minimal human intervention. Additionally, renegotiating contracts for software licenses, employing open-source tools, and reducing unnecessary marketing expenditures can contribute to lowering SG&A expenses.
-
-### Why is it essential to separate selling, general, and administrative expenses from other operating costs?
-
-Separating selling, general, and administrative (SG&A) expenses from other operating costs is crucial for financial clarity and strategic decision-making. This segregation allows businesses to accurately track and manage the expenses associated with running day-to-day operations without conflating them with production costs.
-
-This distinction aids in analyzing cost structures, improving budgeting accuracy, and implementing targeted cost-reduction strategies. By isolating SG&A, companies gain insights into their spending on necessities such as marketing campaigns, salaries, and administrative overheads, enabling them to make informed decisions to optimize operational efficiency.
-
-### What role do SG&A expenses play in financial reporting and decision-making?
-
-SG&A expenses are integral to financial reporting as they directly impact a company's profitability and operational efficiency. They are part of operating expenses on the income statement and are deducted from gross profit to calculate operating income.
-
-Understanding and managing SG&A expenses is crucial for decision-making, as they can significantly influence a company's bottom line. By monitoring these costs, businesses can identify trends, areas for improvement, and potential cost-saving measures. This, in turn, assists in strategic planning, setting realistic financial targets, and ensuring sustainable growth. Proper management of SG&A expenses also enhances investor confidence by demonstrating a company's commitment to maintaining fiscal discipline and operational effectiveness.
+On the other hand, if SG&A expenses go up a lot, it can hurt the company's valuation. If the company is spending more on things like advertising or office space, it might not make as much profit. Investors might see this and think the company isn't doing as well, so they might not want to pay as much for the company's stock. This can make the company's valuation go down. So, it's important for companies to keep an eye on their SG&A expenses and try to manage them carefully to keep their valuation high.
 
 ## References & Further Reading
 
