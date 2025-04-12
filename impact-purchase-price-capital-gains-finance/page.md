@@ -3,19 +3,84 @@ title: "Impact of Purchase Price on Capital Gains in Finance"
 description: "Explore the impact of purchase price on capital gains to enhance investment strategies and leverage the power of algorithmic trading for greater financial returns."
 ---
 
-In the ever-evolving landscape of finance, understanding the interplay between capital gains, purchase price, finance, and algorithmic trading is critical for investors seeking to optimize their portfolios. Capital gains, defined as the profit derived from the sale of assets or investments, are influenced by the purchase price or initial cost basis of these investments. By effectively managing purchase prices and utilizing strategic entry and exit points, investors can enhance their potential for substantial capital appreciation.
-
-Within investment strategies, finance serves as a framework to guide and optimize decision-making. It provides principles and methodologies to assess risk, evaluate performance, and implement tax-efficient investing strategies. These competencies are especially relevant as they relate to capital gains and tax obligations, where understanding short-term versus long-term holding periods can result in significant differences in net returns.
 
 ![Image](images/1.jpeg)
 
-Moreover, algorithmic trading has revolutionized the way investments are managed by introducing high-speed, data-driven techniques into market operations. This type of trading leverages algorithms to analyze vast data sets in real time, identify trends, and execute trades at speeds and frequencies unmatched by human traders. With the integration of machine learning and artificial intelligence, algorithmic trading systems can optimize capital gains by recognizing profitable patterns and executing trades with precision.
-
-This article explores the synergistic relationship between these core financial elements and offers insights into strategies that enhance investment outcomes. By examining the influence of purchase prices on capital gains, the integration of finance into investment strategies, and the potential of algorithmic trading to maximize returns, both seasoned investors and newcomers can gain a competitive advantage in the market. Understanding these concepts is essential for navigating the complexities of modern finance and achieving financial goals in today's dynamic environment.
-
 ## Table of Contents
 
-## Understanding Capital Gains and Purchase Price in Finance
+## What is a capital gain?
+
+A capital gain is the profit you make when you sell something for more than what you paid for it. This can happen when you sell things like stocks, bonds, real estate, or other investments. For example, if you bought a stock for $100 and later sold it for $150, your capital gain would be $50.
+
+Capital gains are important because they can affect how much tax you have to pay. In many countries, the money you make from capital gains is taxed differently than the money you earn from your job. The tax rate on capital gains can be lower than the tax rate on regular income, but it depends on how long you held the investment before selling it. If you held it for a long time, usually more than a year, you might pay less tax on the gain.
+
+## How is the purchase price used to calculate capital gains?
+
+The purchase price is really important when you want to figure out your capital gain. It's the starting point for your calculation. When you sell something, you take the money you get from the sale and subtract the purchase price from it. The difference is your capital gain. For example, if you bought a piece of art for $500 and sold it later for $800, you would subtract $500 from $800. That gives you a capital gain of $300.
+
+Sometimes, you might need to adjust the purchase price before you do the calculation. This can happen if you've made improvements to what you're selling, like fixing up a house. Those costs can be added to the original purchase price to get an "adjusted" purchase price. So, if you bought a house for $200,000 and spent $50,000 on renovations, your adjusted purchase price would be $250,000. If you then sold the house for $300,000, you'd subtract $250,000 from $300,000 to find your capital gain of $50,000.
+
+## What is the difference between short-term and long-term capital gains?
+
+Short-term and long-term capital gains are two different ways the government looks at the money you make from selling things like stocks or property. The big difference between them is how long you owned the thing before you sold it. If you owned it for one year or less, the profit you make is called a short-term capital gain. But if you owned it for more than one year, the profit is called a long-term capital gain.
+
+The other big difference is how much tax you have to pay on these gains. Short-term capital gains are taxed like your regular income, which means you might have to pay a higher tax rate on them. On the other hand, long-term capital gains usually have a lower tax rate. This is because the government wants to encourage people to keep their investments for a longer time. So, if you can wait more than a year before selling, you might end up paying less in taxes on your profit.
+
+## How does the holding period affect the tax rate on capital gains?
+
+The holding period is how long you own something before you sell it. This time can change how much tax you pay on the money you make from selling it. If you sell something you've owned for one year or less, the profit is called a short-term capital gain. The tax on this kind of gain is the same as the tax on your regular income, which might be a higher rate.
+
+But if you hold onto something for more than a year before selling it, the profit is called a long-term capital gain. The tax on long-term gains is usually lower than the tax on short-term gains. This is because the government wants to encourage people to keep their investments for a longer time. So, waiting more than a year can help you pay less in taxes on your profit.
+
+## What are the tax implications of capital gains for individual investors?
+
+When you sell something for more money than you paid for it, you make a profit called a capital gain. This can happen with things like stocks, houses, or other investments. The tax you have to pay on this profit depends on how long you owned the thing before selling it. If you owned it for a year or less, it's called a short-term capital gain, and you'll pay tax on it at the same rate as your regular income. This can be a higher tax rate, especially if you earn a lot of money.
+
+If you owned the thing for more than a year before selling it, it's called a long-term capital gain. The tax rate on long-term gains is usually lower than the rate on short-term gains. This is because the government wants to encourage people to keep their investments for a longer time. So, if you can wait more than a year before selling, you might pay less in taxes on your profit. It's a good idea to think about these tax rules when you're planning to sell something, because it can help you keep more of your money.
+
+## How can the purchase price impact the amount of tax paid on capital gains?
+
+The purchase price is really important when you're figuring out how much tax you'll pay on capital gains. It's the starting point for your calculation. When you sell something, you take the money you get from the sale and subtract the purchase price from it. The difference is your capital gain, and that's what you'll pay tax on. If your purchase price is high, your capital gain will be lower, which means you'll pay less tax. But if your purchase price is low, your capital gain will be higher, and you'll pay more tax.
+
+Sometimes, you might need to adjust the purchase price before you do the calculation. This can happen if you've made improvements to what you're selling, like fixing up a house. Those costs can be added to the original purchase price to get an "adjusted" purchase price. So, if you bought a house for $200,000 and spent $50,000 on renovations, your adjusted purchase price would be $250,000. If you then sold the house for $300,000, you'd subtract $250,000 from $300,000 to find your capital gain of $50,000. This adjusted purchase price can help lower your capital gain and the tax you have to pay on it.
+
+## What strategies can be used to minimize capital gains tax based on purchase price?
+
+One way to minimize capital gains tax is to increase your purchase price. This can be done by adding the cost of any improvements you make to the thing you're selling. For example, if you buy a house and then spend money on fixing it up, you can add those costs to your original purchase price. This makes your adjusted purchase price higher, which means your capital gain will be lower when you sell the house. A lower capital gain means you'll pay less tax.
+
+Another strategy is to hold onto your investment for more than a year before selling it. If you do this, your profit will be considered a long-term capital gain, which usually has a lower tax rate than short-term gains. So, even if your purchase price stays the same, waiting longer to sell can help you pay less tax on your profit. It's a good idea to think about these strategies when you're planning to sell something, because they can help you keep more of your money.
+
+## How does inflation affect the real value of capital gains and the importance of purchase price?
+
+Inflation can make the real value of your capital gains less than what it seems. Let's say you bought a stock for $100 and sold it for $110 a year later. That looks like a $10 profit, but if prices went up by 5% because of inflation during that year, the real value of your $110 when you sold it is less than it looks. After adjusting for inflation, your real profit might be smaller, or you might not have made any profit at all. This means that even though your capital gain looks like $10, the actual value you gained might be less.
+
+The purchase price becomes really important because of inflation. When you calculate your capital gain, you subtract the purchase price from the sale price. If inflation has made prices go up a lot since you bought something, your capital gain might look bigger than it really is. To get a better idea of your real profit, you might want to adjust the purchase price for inflation. This way, you can see how much you really gained after taking into account the rising prices. It helps you understand the true value of your investment and how much tax you should pay on it.
+
+## What are the considerations for adjusting the purchase price in the case of inherited assets?
+
+When you inherit something, like a house or stocks, the purchase price you use to figure out your capital gain is different from when you buy something yourself. Instead of using what the original owner paid, you use the value of the thing on the day the person who left it to you passed away. This is called the "stepped-up basis." It means that if the value of the thing went up a lot while the original owner had it, you don't have to pay tax on that increase. You only pay tax on the increase in value from the time you inherited it until you sell it.
+
+For example, if your grandma bought a house for $100,000 and it was worth $300,000 when she passed away, your purchase price for tax purposes would be $300,000, not $100,000. If you sell the house later for $350,000, your capital gain would be $50,000 ($350,000 - $300,000), not $250,000 ($350,000 - $100,000). This stepped-up basis can save you a lot of money in taxes because it reduces the amount of profit you have to pay tax on. It's a good idea to get the value of the inherited asset appraised on the date of death to make sure you're using the right number for your purchase price.
+
+## How do different jurisdictions treat the purchase price in capital gains calculations?
+
+Different countries have different rules about how to figure out capital gains. In the United States, when you sell something, you subtract what you paid for it from what you sold it for. That's your capital gain. But if you inherited something, you use its value on the day the person who left it to you passed away, not what they paid for it. This is called the "stepped-up basis" and it can save you money on taxes because you only pay tax on the increase in value from when you inherited it until you sell it.
+
+In other places, like Canada, they also subtract the purchase price from the sale price to find the capital gain. But Canada has something called the "principal residence exemption." If you sell your home and it was your main place to live, you might not have to pay any tax on the profit. This is different from the U.S., where you would still have to pay tax on the gain from selling your home, even if it was your main place to live. So, it's important to know the rules where you live because they can affect how much tax you have to pay on your capital gains.
+
+## What advanced techniques can investors use to manipulate the purchase price for tax optimization?
+
+One way investors can optimize their taxes by adjusting the purchase price is through a strategy called "tax loss harvesting." This means selling investments that have lost value to offset the gains from other investments. By doing this, you can lower your overall capital gains and reduce the amount of tax you have to pay. For example, if you made a $10,000 profit from selling one stock but lost $5,000 on another, you can use that $5,000 loss to reduce your taxable gain to $5,000. This can help you keep more of your money.
+
+Another technique is using a "1031 exchange" for real estate. This allows you to sell a property and use the money to buy another one without paying tax on the gain right away. You have to follow strict rules, like buying a new property of equal or greater value within a certain time frame. This can be a powerful way to defer taxes and keep your money working for you in new investments. By understanding and using these strategies, investors can make smart decisions that help them pay less in taxes and grow their wealth over time.
+
+## How do mergers and acquisitions influence the determination of purchase price and subsequent capital gains?
+
+When companies merge or one company buys another, it can change how you figure out the purchase price and the capital gains you might have to pay tax on. If you own stock in a company that gets bought out, the price you get for your stock can be different from what you paid for it. The new price becomes your new purchase price for tax purposes. So, if you bought the stock for $50 and the company gets bought out for $70 per share, your new purchase price is $70. If you sell the stock later for $80, your capital gain would be $10 ($80 - $70), not $30 ($80 - $50).
+
+In a merger, the situation can be a bit more complicated. Sometimes, you get new stock in the new company instead of cash. The value of the new stock on the day of the merger becomes your new purchase price. If the new stock is worth more than what you paid for the old stock, you might have to pay tax on that difference right away. But if you keep the new stock and sell it later, you'll use the value from the merger day as your purchase price to figure out your capital gain. It's important to understand these rules because they can affect how much tax you have to pay on your investments.
+
+## What is the relationship between Capital Gains and Purchase Price in Finance?
 
 The purchase price is a critical element in calculating capital gains as it establishes the cost basis for investments. Capital gains are defined as the profit derived from the sale of an asset, and the purchase price, or cost basis, is integral to determining this profit. The formula for calculating capital gains is straightforward:
 
@@ -55,150 +120,6 @@ print(f"The weighted average cost is: ${average_cost:.2f}")
 ```
 
 This code snippet calculates the weighted average cost for a set of purchase prices and quantities, which can then be used to determine capital gains or losses when an asset is sold. By accurately determining the purchase price and adjusting for corporate actions, investors can make informed tax and investment decisions.
-
-## The Role of Finance in Managing Capital Gains
-
-Finance plays a pivotal role in managing and optimizing capital gains, primarily by employing informed investment strategies that consider both short-term and long-term capital gains taxation. Understanding the distinction between short-term and long-term capital gains is vital, as these categories are typically taxed at different rates. Short-term capital gains, accruing from assets held for less than a year, are often taxed at ordinary income tax rates. Conversely, long-term capital gains, from assets held for more than a year, generally benefit from reduced tax rates. This fundamental understanding guides investors in aligning their investment decisions with their tax obligations, potentially optimizing returns through strategic tax management.
-
-A critical aspect of tax-efficient investing is leveraging holding periods to capitalize on favorable tax treatments. Investors can strategically manage their holding periods to ensure their investments qualify for long-term capital gains taxation. Financial principles, such as the time value of money and risk assessment, assist investors in deciding when to sell assets or hold them longer. By evaluating the potential future value of an asset against current market conditions and tax implications, investors can make more favorable decisions regarding their portfolios.
-
-Real-world applications in portfolio management often include tax-loss harvesting, a strategy employed to offset capital gains with capital losses, reducing taxable income and thus improving net investment returns. By selling securities at a loss, investors can counterbalance the gains realized from other profitable transactions. This tactic not only lowers tax liabilities but also allows for portfolio rebalancing. However, investors must be cautious of the wash sale rule, which disallows the claiming of a tax loss if a substantially identical security is purchased within 30 days of the sale.
-
-Tax-advantaged accounts, such as Individual Retirement Accounts (IRAs) and 401(k) plans, provide another avenue for tax-efficient investing. Contributions to these accounts can grow tax-deferred or, in the case of Roth accounts, tax-free, offering a powerful tool for managing capital gains taxes. By strategically allocating investments within these accounts, investors can optimize asset growth while postponing tax consequences.
-
-Further, financial management can exploit techniques like asset location optimization, where investments are strategically placed in taxable or tax-advantaged accounts based on their expected returns and tax characteristics. For instance, high-[growth stocks](/wiki/growth-stocks) might be better suited for tax-advantaged accounts, minimizing the burden of capital gains taxes on their appreciation.
-
-In summary, the role of finance in managing capital gains is multifaceted, encompassing strategic investment planning, tax efficiency techniques, and the adept use of tax-advantaged accounts. By applying these financial principles, investors can navigate the complexities of capital gains taxation, maximizing after-tax returns and enhancing overall portfolio performance.
-
-## Algorithmic Trading: Maximizing Capital Gains Efficiency
-
-Algorithmic trading has become a pivotal tool in modern investment strategies by using advanced algorithms to enable rapid and efficient trading decisions. By processing vast quantities of market data in real-time, [algorithmic trading](/wiki/algorithmic-trading) has the potential to identify lucrative investment opportunities and optimize capital gains.
-
-### Real-Time Data Analysis and Optimization
-
-The cornerstone of algorithmic trading is its ability to utilize real-time data analysis. Algorithms can swiftly analyze streaming data to detect patterns and anomalies that indicate potential trading opportunities. This real-time capability allows traders to respond almost instantaneously to market movements, thus optimizing potential capital gains. For example, by continuously monitoring stock prices and trading volumes, algorithms can predict short-term market trends and execute trades based on these predictions, capturing gains that might be missed with traditional methods.
-
-### Strategies for Capital Gains Optimization
-
-Several algorithmic trading strategies have been developed to maximize capital gains, each with its unique approach:
-
-1. **Momentum Trading**: This strategy exploits market trends by buying stocks that are rising and selling those that are falling. Algorithms evaluate indicators such as moving averages and relative strength to make trading decisions, thus capitalizing on a stock's momentum.
-
-2. **Mean Reversion**: Based on the theory that prices will revert to their mean over time, this strategy involves identifying stocks that have deviated significantly from their historical average. Algorithms calculate statistical mean prices and trade accordingly, assuming that the price will revert to its historical mean, creating a profit opportunity.
-
-3. **Arbitrage**: This strategy profits from price differences between markets or instruments. Algorithms can execute simultaneous trades across different exchanges to exploit disparities, effectively locking in risk-free profits by buying low in one market and selling high in another.
-
-### Integrating Machine Learning and AI
-
-The integration of [machine learning](/wiki/machine-learning) and [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) enhances the sophistication of algorithmic trading. These technologies enable algorithms to learn from historical data and adapt to changing market conditions. Machine learning models can identify complex patterns and non-linear relationships within market data, providing a predictive edge over traditional statistical methods. For instance, neural networks can model intricate dependencies in financial time series data, enabling more accurate predictions of asset price movements.
-
-An example of a machine learning application in algorithmic trading involves training a supervised learning model to predict stock price movements. By using historical data as input, the model can learn to forecast future price shifts with a certain degree of accuracy, guiding trading decisions.
-
-```python
-# Example of a simple machine learning model using Python's scikit-learn
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score
-
-# Assuming 'features' is a dataframe containing features and 'labels' the corresponding labels
-X_train, X_test, y_train, y_test = train_test_split(features, labels, test_size=0.3, random_state=42)
-
-model = RandomForestClassifier(n_estimators=100, random_state=42)
-model.fit(X_train, y_train)
-
-predictions = model.predict(X_test)
-accuracy = accuracy_score(y_test, predictions)
-print(f"Model Accuracy: {accuracy:.2f}")
-```
-
-Such machine learning models facilitate adaptive learning, refining strategies as new data becomes available. This adaptability is crucial in dynamic markets where conditions can change rapidly.
-
-By incorporating these strategies and technologies, algorithmic trading provides investors with tools to maximize efficiency and capital gains. As markets continue to evolve, the reliance on machine learning and AI within algorithmic trading algorithms is likely to increase, offering ever more sophisticated and profitable trading strategies.
-
-## Tax Implications and Strategies for Capital Gains
-
-Capital gains, a type of investment income derived from the appreciation in the value of assets, are subject to taxation, influencing the overall returns investors receive after taxes. The implications and strategies associated with managing these taxes are crucial for optimizing net investment returns.
-
-**Tax-loss Harvesting**  
-Tax-loss harvesting is a strategic approach to manage capital gain taxes by purposefully selling securities at a loss to offset capital gains from other investments, thereby reducing the taxable income. This strategy is particularly effective in markets or periods where losses can offset gains, allowing investors to maintain an optimized tax position. For example, if an investor realizes a capital gain of $10,000 on one asset but incurs a loss of $5,000 on another, the taxable capital gain is reduced to $5,000.
-
-- **Implementation Example in Python:**
-
-  ```python
-  def calculate_net_gain(gains, losses):
-      return max(0, gains - losses)
-
-  gains = 10000  # realized capital gain
-  losses = 5000  # realized capital loss
-
-  net_gain = calculate_net_gain(gains, losses)
-  print(f"Taxable Capital Gain: ${net_gain}")
-  ```
-
-This script subtracts losses from gains to compute the net taxable capital gain, ensuring investors minimize their tax liabilities.
-
-**Holding Period Management**  
-The holding period of an investment significantly impacts the tax rate applied to capital gains. Investments held for more than one year qualify for long-term capital gains tax rates, which are typically lower than short-term rates applied to assets held for a shorter duration. Investors can optimize tax efficiency by strategically timing the sale of assets to benefit from these lower rates, thereby enhancing after-tax returns.
-
-For instance, in the United States, long-term capital gains are taxed at rates of 0%, 15%, or 20%, depending on the investor's income level, compared to ordinary income tax rates for short-term gains.
-
-**Wash Sale Rule**  
-The wash sale rule is a regulation that prevents investors from claiming a tax deduction for a security sold at a loss if the same security, or one substantially identical, is repurchased within 30 days before or after the sale. This rule aims to curb tax avoidance by ensuring that investors cannot immediately buy back the same investment to maintain their portfolio position while harvesting tax losses.
-
-Failure to comply with the wash sale rule results in the disallowed loss being added to the cost basis of the repurchased security, thereby deferring the tax benefit rather than eliminating it.
-
-Understanding these tax strategies is essential for investors aiming to optimize after-tax returns while complying with regulatory requirements. By implementing informed strategies such as tax-loss harvesting, managing holding periods effectively, and adhering to the wash sale rule, investors can significantly enhance their portfolio's tax efficiency and overall financial performance.
-
-## Leveraging Tools and Platforms for Effective Capital Gains Management
-
-A variety of tools and platforms have been developed to aid in the effective management of capital gains through algorithmic trading. Platforms like QuantConnect and AlgoTrader are at the forefront, providing sophisticated analytics and execution capabilities that enable investors to automate and optimize their trading strategies.
-
-**QuantConnect** is an open-source algorithmic trading platform that caters to quantitative traders. It allows for the backtesting of trading algorithms on historical data and execution in live markets. The platform supports multiple programming languages, including Python and C#, making it accessible to a broad range of users. Its integration with various financial data sources ensures that traders have access to real-time market data, essential for making informed decisions. An example of a basic trading strategy in Python using QuantConnect might look something like this:
-
-```python
-class BasicTemplateAlgorithm(QCAlgorithm):
-    def Initialize(self):
-        self.SetStartDate(2022, 1, 1)
-        self.SetEndDate(2022, 12, 31)
-        self.SetCash(10000)
-        self.AddEquity("SPY", Resolution.Daily)
-
-    def OnData(self, data):
-        if not self.Portfolio.Invested:
-            self.SetHoldings("SPY", 1.0)
-```
-
-This script initializes a basic trading algorithm that backtests a strategy of holding the SPY [ETF](/wiki/etf-trading-strategies) over a year, allocating all available capital.
-
-**AlgoTrader**, another powerful platform, provides institutional-grade solutions for algorithmic trading and quantitative research. It offers comprehensive features, including strategy development, backtesting, and real-time trading, which are crucial for capital gains optimization. AlgoTrader supports multiple asset classes and integrates advanced statistical modeling techniques, enabling traders to refine strategies based on robust data analysis.
-
-Both QuantConnect and AlgoTrader capitalize on the advantages of real-time market data and statistical models to improve trading outcomes. These platforms offer capabilities such as:
-
-- **Real-Time Market Data**: Ensuring timely access to information is critical for identifying trading opportunities as they arise. Platforms incorporate data feeds from various exchanges and financial information providers.
-
-- **Advanced Statistical Modeling**: Utilizing statistical techniques such as regression analysis, machine learning, and time-series forecasting enhances the predictive power of trading algorithms. This can involve Python libraries like `pandas` for data manipulation, `numpy` for numerical operations, and `scikit-learn` for implementing machine learning models.
-
-The practical applications of these platforms in enhancing investor strategies include:
-
-1. **Backtesting and Optimization**: By simulating trading strategies on historical data, traders can assess the potential performance and tweak algorithms to improve profitability and manage risk.
-
-2. **Regulatory Compliance**: Ensuring that trading activities comply with financial regulations is essential. Platforms provide features for monitoring and reporting trades, aiding in adherence to legal requirements.
-
-3. **Risk Management**: Tools within these platforms help traders to analyze risk exposures and adjust strategies accordingly to mitigate potential losses.
-
-In summary, tools like QuantConnect and AlgoTrader play a pivotal role in the strategic management of capital gains through algorithmic trading. Their capabilities enable investors to harness real-time data, implement advanced modeling techniques, and ensure regulatory compliance, ultimately enhancing trading efficiency and investment outcomes.
-
-## Conclusion
-
-Understanding the intricate relationship between capital gains, purchase price, finance, and algorithmic trading is essential for investors aiming to optimize their investment strategies in today's dynamic markets. By strategically integrating these elements, investors can achieve their financial objectives effectively while adeptly managing the complexities of modern investment environments.
-
-Capital gains, dependent on the purchase price of investments, are fundamentally influenced by comprehensive financial strategies. Recognizing the importance of accurate cost basis calculations, investors can better assess potential tax liabilities and enhance their decision-making processes. Informed financial management, including tax-efficient investing and strategic holding periods, can significantly improve after-tax returns, allowing investors to retain more of their gains.
-
-Algorithmic trading introduces a transformative approach to identifying and capitalizing on investment opportunities by leveraging real-time data and advanced computational techniques. The efficacy of such trading is amplified by incorporating machine learning and AI, refining algorithms to optimize trading decisions. This capability allows for enhanced precision in executing trades, ultimately maximizing capital gains efficiency.
-
-Remaining abreast of changes in tax regulations and technological advancements is crucial for maintaining competitive investment strategies. As markets evolve, so do the rules that govern investment taxation and the tools available for trading and portfolio management. Keeping informed empowers investors to adapt and refine their strategies, ensuring alignment with both current regulations and cutting-edge technologies.
-
-This comprehensive understanding and application of capital gains, purchase price, finance, and algorithmic trading equip both individual and institutional investors with the ability to optimize their portfolios, thereby maximizing financial returns. As the market landscape continues to shift, this knowledge serves as a robust foundation, enabling investors to navigate challenges and seize opportunities with confidence.
 
 ## References & Further Reading
 

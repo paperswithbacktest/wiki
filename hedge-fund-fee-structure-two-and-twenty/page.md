@@ -3,19 +3,84 @@ title: "Hedge Fund Fee Structure: Two and Twenty"
 description: "Explore the impact of the 'two and twenty' fee structure in hedge funds on algorithmic trading strategies as it shapes management incentives and innovation."
 ---
 
-Hedge funds represent a specific sector within the financial industry characterized by their aggressive investment strategies, diverse asset allocations, and active management. These private investment partnerships cater mainly to accredited investors, using pooled funds to generate high returns, potentially uncorrelated with traditional markets. A defining aspect of hedge funds is their compensation model, known as the 'two and twenty' fee structure, which has become a cornerstone of the industry. This model entails a 2% management fee of the total assets under management (AUM) and a 20% performance fee on any profits generated.
-
-The 'two and twenty' fee structure underscores the relationship between fund managers and investors. The management fee provides a steady income to cover operational costs, while the performance fee aligns the interests of the managers with those of the investors by incentivizing outperformance. This compensation framework not only shapes the operational dynamics of hedge funds but also influences how investment strategies, including algorithmic trading, are executed.
 
 ![Image](images/1.jpeg)
 
-Algorithmic trading, which relies on complex algorithms to automatically execute trades, has gained prominence in hedge funds due to its ability to quickly analyze vast amounts of data and execute strategies that are often beyond human capabilities. The competitive nature of hedge fund compensation via 'two and twenty' fosters innovation and efficiency in algorithmic trading, as fund managers strive to achieve superior performance that justifies the lucrative performance fees.
-
-Unpacking the 'two and twenty' model is crucial to understanding its implications on algorithmic trading within hedge funds. This article aims to explore this fee structure's role in incentivizing algorithmic strategy, its adoption by prominent hedge fund managers, and the broader economic discourse surrounding its fairness and effectiveness. As market dynamics evolve, examining the sustainability and potential shifts in fee models, such as the emergence of alternatives like the '1 or 30' structure, becomes increasingly pertinent.
-
 ## Table of Contents
 
-## Understanding the 'Two and Twenty' Fee Structure
+## What is a hedge fund?
+
+A hedge fund is a type of investment fund that pools money from investors to invest in various assets, often using strategies that are more complex and riskier than those used by traditional investment funds. The goal of a hedge fund is to generate high returns for its investors, often by taking advantage of opportunities in the market that others might not see or be able to exploit.
+
+Hedge funds are typically managed by experienced investment professionals who have the freedom to use a wide range of investment techniques. These can include short selling, using leverage, and investing in derivatives. Because of these strategies, hedge funds can be riskier than other types of investments, but they also have the potential for higher returns. Hedge funds are usually only available to wealthy individuals and institutional investors because of the high minimum investment requirements and the risks involved.
+
+## What does 'Two and Twenty' refer to in hedge fund fee structures?
+
+"Two and Twenty" is a common fee structure used by many hedge funds. It means the hedge fund charges investors a management fee of 2% of the total assets they manage each year, no matter if the fund makes money or not. This fee is to cover the costs of running the fund and paying the managers.
+
+On top of the management fee, the hedge fund also takes a performance fee of 20% of any profits the fund makes. This means if the fund earns money, the managers get to keep a fifth of those earnings. The idea behind this is to motivate the managers to do well because the more money they make for investors, the more they earn themselves.
+
+## How does the 'Two' part of the fee structure work?
+
+The "Two" part of the "Two and Twenty" fee structure means the hedge fund charges a management fee of 2% of the total money they manage each year. This fee is taken no matter if the fund makes money or loses money. It's like a regular payment to cover the costs of running the fund and paying the people who manage it.
+
+So, if someone puts $1 million into the hedge fund, they will pay $20,000 each year just for the fund to manage their money. This fee is taken out of the total amount in the fund, reducing the amount that can be invested or earn returns.
+
+## What is the purpose of the 'Twenty' performance fee in hedge funds?
+
+The "Twenty" part of the "Two and Twenty" fee structure is a performance fee that hedge funds charge. It means the fund managers get to keep 20% of any profits the fund makes. This fee is only charged if the fund earns money, so it's a way for the managers to earn more when they do a good job.
+
+The main purpose of this performance fee is to motivate the fund managers to work hard and make smart investment choices. If the fund does well and makes a lot of money, the managers get a bigger reward. This system is meant to line up the managers' goals with the investors' goals, encouraging everyone to aim for high returns.
+
+## Can you explain how the performance fee is calculated?
+
+The performance fee is calculated based on the profits the hedge fund makes. If the fund earns money, the managers take 20% of those earnings as their fee. For example, if the fund makes a profit of $100,000 in a year, the managers would get $20,000 as their performance fee.
+
+This fee is only charged if the fund makes money. If the fund loses money or stays the same, the managers don't get any performance fee. This way, the managers are encouraged to work hard to make the fund profitable, because the more money the fund makes, the more they earn.
+
+## Are there any conditions under which the performance fee might not be charged?
+
+The performance fee is not charged if the hedge fund does not make any profit. This means if the fund loses money or stays the same, the managers do not get any performance fee. The idea is to make sure the managers only get extra money when they do a good job and make money for the investors.
+
+Sometimes, hedge funds have a rule called a "high-water mark." This means the managers only get the performance fee if the fund makes more money than the highest amount it reached before. If the fund goes down and then comes back up to where it was, the managers don't get the performance fee until the fund makes more money than that high point. This rule is there to make sure investors are not paying fees for the same gains twice.
+
+## How do hedge fund fee structures impact investor returns?
+
+Hedge fund fee structures, like the "Two and Twenty" model, can have a big effect on what investors take home at the end of the day. The 2% management fee is taken out of the total money in the fund every year, no matter if the fund makes money or not. This means that right off the bat, the amount of money that can be invested and potentially grow is smaller. For example, if an investor puts $1 million into a hedge fund, they will pay $20,000 each year just to have their money managed, which reduces the amount available for earning returns.
+
+On top of that, the 20% performance fee is taken out of any profits the fund makes. If the fund does well and earns money, the managers get to keep a fifth of those earnings. While this fee is only charged when the fund makes money, it still means that investors get to keep less of the profits. Over time, these fees can add up and eat into the returns that investors see, especially if the fund doesn't perform exceptionally well. It's important for investors to understand these fees and how they can impact their overall investment returns.
+
+## What are some criticisms of the 'Two and Twenty' fee model?
+
+Some people don't like the "Two and Twenty" fee model because they think it's too expensive. The 2% management fee is charged every year no matter if the fund makes money or not. This means investors are paying a lot just to have their money managed, even if the fund doesn't do well. On top of that, the 20% performance fee can take a big chunk out of the profits. If the fund makes a lot of money, the managers get a big reward, but it means investors get to keep less of the earnings.
+
+Another criticism is that the fees can make it hard for the fund to beat other types of investments. When you take away 2% each year and then another 20% of the profits, it can be tough for the fund to do better than simpler investments like index funds, which usually have much lower fees. Some people also think the performance fee might make managers take too many risks, trying to earn big profits so they can get their 20%. This can lead to more ups and downs in the fund's performance, which might not be what investors want.
+
+## How have hedge fund fee structures evolved in recent years?
+
+In recent years, hedge fund fee structures have changed a bit because investors have been asking for lower fees. Many hedge funds have started to offer different fee models that are not as high as the traditional "Two and Twenty." For example, some funds have lowered the management fee from 2% to 1% or even less. Others have changed the performance fee to something lower than 20%, like 15% or 10%. These changes help the funds attract more investors who want to pay less.
+
+Another change is that some hedge funds now use what's called a "hurdle rate." This means the fund has to make a certain amount of money before the managers get their performance fee. If the fund doesn't make more than the hurdle rate, the managers don't get the extra money. This is to make sure the managers are really doing a good job before they get rewarded. Overall, these changes show that hedge funds are trying to be more flexible and fair to their investors, while still trying to make money for everyone involved.
+
+## What alternatives to the 'Two and Twenty' model are being used by some hedge funds?
+
+Some hedge funds are now using different fee models instead of the traditional "Two and Twenty." One common change is lowering the management fee from 2% to something lower, like 1% or even less. This makes it cheaper for investors to have their money managed. Another change is lowering the performance fee from 20% to a smaller percentage, like 15% or 10%. This means investors get to keep more of the profits the fund makes.
+
+Another alternative is using a "hurdle rate." This means the fund has to make a certain amount of money before the managers can take their performance fee. If the fund doesn't make more than the hurdle rate, the managers don't get the extra money. This helps make sure the managers are really doing a good job before they get paid more. These changes show that hedge funds are trying to be more fair to investors while still trying to make money for everyone.
+
+## How do different hedge fund strategies affect the application of the 'Two and Twenty' fee structure?
+
+Different hedge fund strategies can change how the "Two and Twenty" fee structure is used. Some funds use strategies that are less risky and might not make as much money. These funds might lower their fees to attract more investors. For example, a fund that focuses on steady, long-term growth might only charge a 1% management fee instead of 2% and a 15% performance fee instead of 20%. This way, they can still make money for their investors but also keep their fees competitive.
+
+On the other hand, funds that use more risky strategies and aim for high returns might stick with the "Two and Twenty" model. They believe their strategies can make a lot of money, so they think the higher fees are fair. Investors who put money into these funds are usually okay with paying more because they hope to earn big profits. But if the fund doesn't do well, the high fees can make their losses even worse.
+
+## What regulatory considerations should be taken into account with hedge fund fee structures?
+
+When hedge funds set their fees, they have to think about rules from places like the Securities and Exchange Commission (SEC) in the United States. The SEC makes sure that hedge funds are honest about their fees and tell investors clearly what they will be charged. Hedge funds have to write down their fee structures in their legal papers and share them with investors. This helps keep things fair and open, so investors know what they are paying for.
+
+Different countries might have different rules about hedge fund fees too. For example, in Europe, there are rules from the European Union that hedge funds need to follow. These rules can affect how much hedge funds can charge and how they need to report their fees. It's important for hedge funds to know and follow all these rules so they don't get in trouble and can keep working with investors from different places.
+
+## What is the 'Two and Twenty' Fee Structure and how does it work?
 
 The 'two and twenty' fee structure is a prevalent model in the hedge fund industry, comprising a 2% management fee and a 20% performance fee. This structure incentivizes fund managers to achieve high returns while covering the operational costs of managing the fund.
 
@@ -35,136 +100,6 @@ The 'two and twenty' fee structure originated in the early 20th century and beca
 In the landscape of [hedge fund](/wiki/hedge-fund-trading-strategies) management, these fees serve critical roles. The management fee secures the operational foundation of the fund, while the performance fee functions as a motivator for achieving superior returns. In performance assessment, the effectiveness of a hedge fund manager is often gauged by their ability to generate returns beyond benchmarks or indices. As such, the 'two and twenty' model positions hedge funds to attract and retain talented managers who are driven to outperform market expectations.
 
 Despite its widespread adoption, the 'two and twenty' fee structure is not without critique. Investors argue that while the model can lead to high returns, it may also lead to excessive risk-taking by fund managers who are motivated to achieve short-term performance at the expense of long-term stability. Nonetheless, it remains a principal framework within the hedge fund industry, balancing operational viability with performance-driven incentives.
-
-## How 'Two and Twenty' Works in Algo Trading
-
-The "two and twenty" fee structure is a prevalent model used by hedge funds, including those employing [algorithmic trading](/wiki/algorithmic-trading) strategies. This model comprises a 2% management fee, calculated as 2% of the total assets under management (AUM), and a 20% performance fee, which is derived from the fund's profits exceeding a predefined benchmark or hurdle rate.
-
-In the context of algorithmic trading, the "two and twenty" model operates under the principle that active management through sophisticated trading algorithms can generate significant returns. Algorithmic trading involves the use of complex mathematical models and computerized algorithms to facilitate high-speed transactions, optimize trading strategies, and manage large volumes of data. The ability of algorithmic hedge funds to process data and execute trades at speeds unmatched by human traders makes them particularly effective in capitalizing on small price discrepancies and market inefficiencies.
-
-The 2% management fee is crucial for covering the costs associated with developing and maintaining the infrastructure required for algorithmic trading. This includes expenses related to technology, data acquisition, and personnel such as quantitative analysts and software engineers. The management fee ensures that the fund remains operational before any profits are realized from trading activities.
-
-The 20% performance fee represents an incentive for hedge fund managers to achieve high returns, aligning their interests with those of the investors. In algorithmic trading, this performance fee can be particularly significant due to the potential for substantial profits arising from rapid and precise execution of trades. Algorithmic strategies can range from high-frequency trading to statistical [arbitrage](/wiki/arbitrage) and [machine learning](/wiki/machine-learning)-driven predictions, each offering unique opportunities to generate alpha—the excess return on an investment relative to a benchmark.
-
-One nuance of leveraging algorithmic strategies under the "two and twenty" model is the balancing act between risk and reward. While the high-speed nature of algorithmic trading can lead to significant gains, it also entails risks such as market [volatility](/wiki/volatility-trading-strategies) and technological failures. Hedge fund managers employing these strategies must be adept at implementing risk management protocols to safeguard against potential losses.
-
-Additionally, performance-based compensation through the 20% fee can drive innovation within algorithmic hedge funds. Managers are incentivized to continuously refine their algorithms, incorporate cutting-edge technologies, and seek out novel trading opportunities to enhance performance. This drive for innovation can lead to the development of proprietary trading models that offer a competitive edge in the financial markets.
-
-In summary, the "two and twenty" fee structure in algorithmic trading contexts supports the operational needs of the fund through the management fee while motivating performance excellence and innovation through the performance fee. Its implementation underscores the value placed on technology-driven strategies to achieve superior financial outcomes.
-
-## Case Studies: Prominent Hedge Fund Managers
-
-Hedge funds have long been associated with the "two and twenty" fee structure, and many prominent managers have adopted this model while incorporating algorithmic trading strategies to enhance performance. This section presents case studies of leading hedge fund managers who have successfully implemented algorithmic trading within the confines of the "two and twenty" model, examining the financial outcomes and managerial decisions that accompany this approach.
-
-### Case Study 1: Renaissance Technologies
-
-Renaissance Technologies, founded by Jim Simons, is renowned for its Medallion Fund, which is exemplary in utilizing sophisticated algorithms. The firm has achieved average annual returns of approximately 66% before fees from 1988 to 2020. The "two and twenty" fee structure in this context allows for substantial performance-based compensation, especially given the fund's success in high-frequency trading.
-
-Renaissance Technologies employs mathematical models and data analytics extensively, utilizing patterns within financial data to make rapid trading decisions. The management's reliance on algorithmic trading aligns well with the "two and twenty" structure, as it provides a strong incentive to maximize returns beyond the standard management fee. This strategy has resulted in astronomical profits and solidified the fund's reputation as one of the most successful in the industry. The significant performance fee component often dwarfs the management fee, underscoring the potential for gains when algorithmic strategies are implemented effectively.
-
-### Case Study 2: Citadel LLC
-
-Citadel LLC, founded by Kenneth Griffin, is another prime example of a hedge fund that has embraced algorithmic trading. With over three decades of experience, Citadel's various funds have adopted the "two and twenty" structure to ensure alignment between fund performance and compensation. Notably, Citadel's Global Fixed Income Fund and Equities Fund have capitalized on algorithm-driven approaches to trading.
-
-Through sophisticated risk management systems and quantitative analysis, Citadel uses algorithms to assess market conditions and adjust its trading strategies accordingly. This has been essential in navigating volatile markets while maximizing returns. Griffin's decision to incorporate high-frequency trading and algorithmic strategies has been pivotal in achieving consistent performance, with Citadel's flagship funds delivering double-digit returns frequently.
-
-### Financial Implications
-
-The "two and twenty" model influences managerial decisions by promoting strategies that may incur higher risk but yield significant returns. Managers like Simons and Griffin have configured their funds to exploit algorithmic trading's lucrative opportunities. The emphasis on performance-based fees is evident in their successful integration of quantitative and algorithmic models, justifying both the management and performance fees through exceptional fund performance.
-
-These case studies highlight how the use of algorithmic trading under the "two and twenty" structure provides a double-edged sword; it maximizes potential returns but also demands high expertise and robust technology infrastructure. As exemplified by Renaissance Technologies and Citadel, when executed with precision, the combination of this fee structure with algorithmic trading can lead to exemplary financial outcomes and solidify a fund's competitive advantage in the market.
-
-## Is the 'Two and Twenty' Model Justifiable?
-
-The "two and twenty" fee structure, prevalent in the hedge fund industry, consists of a 2% management fee and a 20% performance fee. Its economic rationale lies in its ability to align the interests of fund managers with those of investors, while providing a lucrative compensation framework for managers.
-
-The 2% management fee serves as a guaranteed income for hedge fund managers, intended to cover operational costs and management expenses. Its justification stems from the continuous need for resources, technology, and talent to effectively manage complex investment strategies, including algorithmic trading. This fee ensures that managers can maintain the infrastructure needed to potentially deliver high returns.
-
-The 20% performance fee aligns managers' incentives with investors, rewarding them for outperforming a predetermined benchmark. This incentive mechanism theoretically ensures that managers are financially motivated to maximize fund performance, which could include innovative and aggressive trading strategies that utilize advanced algorithms. The performance-based component is structured to focus managers on achieving above-average returns, compensating them proportionately for superior outcomes.
-
-Critics of the "two and twenty" model argue that the high fees might not always correlate with high returns, raising concerns about fairness and efficiency. There is skepticism regarding whether the incentives truly align interests effectively, especially if managers take outsized risks to reach performance benchmarks, which might not sit well with all investors. Additionally, critics highlight that the management fee is collected regardless of fund performance, leading to potential complacency, and that the high fees can erode net returns for investors.
-
-Contemporary perspectives increasingly scrutinize the fairness of this fee structure. Some point to the growing availability of lower-cost investment alternatives, such as ETFs and mutual funds, exerting pressure on hedge funds to justify their high fees. There is also an ongoing debate about the potential misalignment of short-term versus long-term performance incentives inherent in the model, as the pressure to achieve high short-term returns might conflict with sustainable long-term strategies.
-
-Despite these criticisms, proponents maintain that the "two and twenty" model remains justifiable by its ability to attract top-tier talent and stimulate the development of cutting-edge trading techniques, including algorithmic models that require substantial investment in research and technology. Fund managers argue that this structure incentivizes innovation and efficiency, resulting in potentially higher net returns.
-
-Overall, the debate on the "two and twenty" model centers on its perceived fairness and efficiency in interest alignment. While it offers a viable means to attract skilled managers willing to deploy sophisticated trading strategies, it is essential for both managers and investors to continuously evaluate the merits and drawbacks of this fee system amidst evolving market conditions and investor expectations.
-
-## Evolving Fee Structures in Algorithmic Hedge Funds
-
-The hedge fund industry has witnessed significant transformations, especially with the integration of algorithmic trading and technological advancements. These changes have sparked a shift away from traditional fee structures such as the 'two and twenty' model, which consists of a 2% management fee and a 20% performance fee. This shift is driven by a desire for more cost-efficient and performance-aligned fee structures that can attract a broader investor base.
-
-Technology and innovation have played critical roles in reshaping these fee structures. The increased use of algorithms, data analytics, and automation in trading has reduced the operational costs for hedge funds. This, in turn, has prompted fund managers to reconsider the fairness and competitiveness of imposing a fixed percentage management fee. Investors, now more tech-savvy and informed, demand greater transparency and justification for fees charged by fund managers, especially when technology reduces traditional operational costs.
-
-Emerging models like the '1 or 30' structure are gaining traction as alternatives to the 'two and twenty' approach. The '1 or 30' model typically involves a 1% management fee or a 30% performance fee, whichever is higher. This model is designed to align the interests of fund managers with those of investors more closely. It effectively reduces the baseline fee charged if performance goals are not met, while still allowing fund managers to earn substantial compensation if the fund performs exceptionally well. This alignment encourages the adoption of risk-adjusted, technology-driven strategies that optimize returns.
-
-To illustrate the potential and functionality of these evolving fee structures, consider the following Python pseudocode that outlines a basic calculation for understanding the differences in investor compensation based on different fee models:
-
-```python
-def calculate_fees(initial_investment, profit, fee_structure='two_and_twenty'):
-    if fee_structure == 'two_and_twenty':
-        management_fee = 0.02 * initial_investment
-        performance_fee = 0.20 * profit
-    elif fee_structure == 'one_or_thirty':
-        management_fee = min(0.01 * initial_investment, 0.30 * profit)
-        performance_fee = 0.30 * profit if management_fee > 0.01 * initial_investment else 0
-    else:
-        raise ValueError("Unsupported fee structure")
-
-    total_fees = management_fee + performance_fee
-    net_return = profit - total_fees
-    return net_return, total_fees
-
-# Example usage
-initial_investment = 1000000  # $1,000,000
-profit = 200000  # $200,000
-
-net_return_twenty, total_fees_twenty = calculate_fees(initial_investment, profit, 'two_and_twenty')
-net_return_one, total_fees_one = calculate_fees(initial_investment, profit, 'one_or_thirty')
-
-print(f"Net Return with 'Two and Twenty': ${net_return_twenty}, Total Fees: ${total_fees_twenty}")
-print(f"Net Return with 'One or Thirty': ${net_return_one}, Total Fees: ${total_fees_one}")
-```
-
-This demonstrates how fee structures can significantly influence both the returns to investors and the incentives for fund managers. As hedge funds continue to leverage advanced algorithmic trading technologies and face pressure from investors for more performance-based compensation models, the evolution of fee structures is likely to continue. Managers need to balance fair compensation with competitive returns to stay relevant in a rapidly transforming financial landscape.
-
-## Conclusion
-
-The "two and twenty" fee structure has long been a cornerstone of the hedge fund industry, representing a significant source of profit for fund managers. In the context of algorithmic trading, this model aligns the interests of both the fund manager and the investor by incentivizing performance. The management fee of 2% provides the manager with a steady income stream, covering operational costs and enabling the development of sophisticated algorithmic systems. Meanwhile, the 20% performance fee aligns the fund manager's interests with those of the investors, promoting the pursuit of high returns through efficient and innovative trading strategies.
-
-For investors, the "two and twenty" model presents both opportunities and challenges. While the performance fee encourages fund managers to optimize returns, it can also lead to aggressive risk-taking to maximize performance-based compensation. Investors must carefully evaluate whether the net returns, after fees, justify the cost and whether the fund manager's strategies align with their risk tolerance and investment objectives.
-
-As market dynamics and technology continue to evolve, the traditional "two and twenty" fee structure faces increasing scrutiny. Investors are becoming more knowledgeable and are pushing for more transparency and fairness in fee arrangements. This has led to the emergence of alternative models, such as the "1 or 30" model, which offers greater flexibility and often a more balanced risk-reward proposition. These models aim to provide a more equitable distribution of profits and mitigate the high costs associated with traditional management fees.
-
-Looking ahead, the trajectory of fee structures in hedge funds is likely to be influenced by several factors, including advancements in trading technology, heightened regulatory scrutiny, and increasing competition. Fund managers may need to adapt their fee models to attract and retain investors by emphasizing value, aligning interests more closely, and demonstrating consistent performance. As the industry adapts, the balance between incentivizing fund managers and ensuring fair compensation for investors will remain a pivotal consideration in shaping future fee models.
-
-## FAQs
-
-### FAQs
-
-**What is the 'Two and Twenty' model in hedge funds?**
-
-The 'Two and Twenty' model is a common fee structure used by hedge funds, consisting of a 2% management fee on total assets under management and a 20% performance fee on profits earned over a specified benchmark or hurdle rate.
-
-**What role does the 'Two and Twenty' model play in algorithmic trading?**
-
-In algorithmic trading, the 'Two and Twenty' fee structure incentivizes fund managers to leverage sophisticated algorithms to achieve high returns. The performance fee aligns the interests of managers and investors, encouraging the development and use of efficient trading strategies.
-
-**How does the 'Two and Twenty' model impact investor returns?**
-
-While the model potentially enhances returns by encouraging aggressive performance from fund managers, the high fees can significantly reduce net gains to investors. Investors must evaluate whether the expected returns justify the fees paid.
-
-**Are there alternatives to the 'Two and Twenty' model in algorithmic hedge funds?**
-
-Yes, alternative fee structures are emerging, influenced by technology and market evolution. Models like '1 or 30', where investors pay a lower or zero management fee but a higher performance fee of up to 30%, are increasingly favored as they may provide better alignment between investor and manager interests.
-
-**Is the 'Two and Twenty' model fair?**
-
-The fairness of the 'Two and Twenty' model is frequently debated. Proponents argue it rewards skill and performance, whereas critics claim it can unduly benefit managers irrespective of net investor gains. Investors should weigh the strategic benefits against potential cost implications.
-
-**What should investors consider when dealing with the 'Two and Twenty' model?**
-
-Investors should assess the potential for meaningful returns above the management and performance fees. Understanding the nuances of algorithmic strategies employed and reviewing the historical performance of fund managers within the 'Two and Twenty' framework can offer insights into prospective gains.
 
 ## References & Further Reading
 
