@@ -3,150 +3,84 @@ title: "Upstream Sector in the Oil and Gas Industry"
 description: "Explore the upstream sector of the oil and gas industry focusing on the role of algorithmic trading in enhancing exploration, production, and profitability."
 ---
 
-The oil and gas industry is an intricate and indispensable component of the global economy, playing a crucial role in energy supply, economic stability, and national security. This comprehensive industry is divided into three main sectors: upstream, midstream, and downstream operations. Each sector serves a unique purpose in the exploration, transportation, and refining of oil and gas resources.
 
-This article concentrates on the upstream sector, which is pivotal as it encompasses the entire process of locating and extracting oil and natural gas. This phase involves high-stakes exploration, involving the utilization of advanced geophysical methods and sophisticated technologies to locate hydrocarbon deposits below the earth's surface. Companies dedicated to these activities, often referred to as exploration and production (E&P) companies, undertake the critical task of drilling and extracting these valuable resources.
-
-![Image](images/1.jpeg)
-
-In recent years, the oil industry has witnessed a significant transformation with the integration of modern trading technologies, particularly algorithmic trading. This technology leverages complex algorithms to automate trading decisions in commodity markets, including oil. Through algorithmic trading, the industry can enhance operational efficiencies and improve profitability by optimizing the timing and pricing of oil trades. This approach not only provides a competitive edge by managing risks associated with price volatility but also offers deeper insights into market dynamics.
-
-For investors and stakeholders interested in the energy sector, understanding the intricacies of upstream operations and the potential benefits of algorithmic trading is essential. As technological advancements continue, the synergy between traditional extraction methods and innovative trading strategies will become increasingly vital.
-
-This exploration of upstream oil and gas operations, alongside their intersection with modern trading technologies, offers valuable insights into these essential components of the energy industry.
+![Image](images/1.png)
 
 ## Table of Contents
 
-## What is Upstream Oil and Gas?
+## What is the upstream sector in the oil and gas industry?
 
-Upstream oil and gas operations represent the initial phase in the overall process of oil and gas production, where the primary focus is on the exploration and extraction of hydrocarbon resources. This stage is crucial as it lays the foundation for subsequent activities in the oil and gas value chain. The upstream sector involves a series of intricate activities which primarily include the search for potential hydrocarbon deposits beneath the Earth's surface. 
+The upstream sector in the oil and gas industry is all about finding and getting oil and gas out of the ground. It includes searching for oil and gas deposits, drilling wells, and bringing the oil and gas to the surface. This part of the industry is also called exploration and production, or E&P for short. Companies in the upstream sector use tools like seismic surveys to find where the oil and gas might be, and then they drill wells to see if they can get it out.
 
-Geological and geophysical methods are extensively employed to identify these deposits. Geological surveys utilize the study of rock formations and sedimentary layers to ascertain favorable conditions for oil and gas deposits. On the other hand, geophysical surveys deploy techniques like seismic reflection and refraction to map subsurface structures. The seismic method, for instance, involves sending shock waves into the ground and analyzing the reflected signals to identify potential oil and gas reservoirs.
+Once the oil and gas are found and brought up, the upstream sector's job is mostly done. The oil and gas then go to the midstream sector, which moves them to refineries or storage places. The upstream sector is very important because without it, there would be no oil or gas to use. It can be risky and expensive, but when companies find big deposits, it can be very rewarding too.
 
-Companies that specialize in upstream activities are typically referred to as Exploration and Production (E&P) companies. These companies are tasked with the challenging responsibility of locating viable oil and gas reserves and conducting the necessary operations to extract these resources efficiently and economically. Once potential reserves are identified, E&P companies undertake drilling operations to verify the presence of hydrocarbons. 
+## What are the main activities involved in the upstream sector?
 
-Drilling operations are a pivotal component of upstream activities and involve creating boreholes in the Earth's crust to access the hydrocarbons trapped in reservoirs. Advanced drilling technologies, such as directional drilling and hydraulic fracturing, are often employed to enhance the recovery of resources from complex geological formations. Once the hydrocarbons are successfully extracted, they are brought to the surface for processing and transportation, marking the transition to downstream operations. This phase is critical as it determines not only the feasibility of accessing the oil and gas reserves but also sets the stage for the economic viability of the entire production process.
+The upstream sector of the oil and gas industry involves two main activities: exploration and production. Exploration is all about finding where the oil and gas are hidden underground. Companies use special tools like seismic surveys, which are like taking x-rays of the earth, to see where the oil and gas might be. They look for places where the rock layers are just right to hold oil and gas. Once they think they've found a good spot, they drill a test well to see if there really is oil or gas there.
 
-## Understanding the Oil Exploration Process
+If the test well shows that there is oil or gas, the next step is production. This means setting up more wells to bring the oil and gas up to the surface. Companies use big drilling rigs to drill deep into the earth. Once the oil and gas start flowing, they need to be separated from water and other stuff that comes up with them. Then, the oil and gas are ready to be sent to the midstream sector, which takes them to refineries or storage places.
 
-Oil exploration is a multifaceted and technically demanding procedure that serves as a crucial precursor to oil and gas production. This process is grounded in the integration of advanced technology and expertise to locate and quantify viable hydrocarbon resources.
+The upstream sector is important because it's the start of the whole oil and gas process. It can be risky because not every well will have oil or gas, and it can be expensive to drill and set up wells. But when companies find big deposits, it can be very rewarding. This part of the industry is always looking for new technology to find oil and gas more easily and to get it out of the ground more efficiently.
 
-### Geological and Geophysical Surveys
+## How does exploration in the upstream sector work?
 
-The initial phase of oil exploration involves identifying prospective regions abundant in oil through geological and geophysical surveys. Geologists examine surface features and historical well data to hypothesize the presence of sub-surface oil reservoirs. Geophysical methods, including seismic reflection, are employed to visualize subsurface formations and detect potential oil traps. Seismic surveys use generated shock waves to map underground rock formations, interpreting the waves' reflections to deduce the presence of hydrocarbons.
+Exploration in the upstream sector is all about finding oil and gas hidden deep underground. Companies start by doing a lot of research to figure out where oil and gas might be. They look at maps and old data to see where oil and gas have been found before. Then, they use special tools like seismic surveys. These surveys send sound waves into the ground and listen to the echoes to see what's down there. It's like taking an x-ray of the earth. The data from these surveys help scientists make pictures of the underground rock layers. They look for places where the rock layers are just right to hold oil and gas.
 
-### Exploratory Drilling
+Once they think they've found a good spot, companies drill a test well. This is like taking a small sample to see if there's really oil or gas there. They use a drilling rig to make a hole deep into the earth. If the test well shows oil or gas, it's a big success. But if it doesn't, they have to start over and look for another spot. Exploration can be risky and expensive, but it's very important. Without it, we wouldn't know where to drill to get oil and gas out of the ground.
 
-Upon successful identification of potential reserves through surveys, the next step involves exploratory drilling. This process tests the hypotheses formed by geophysical exploration and assesses the commercial viability of the reservoir. Exploratory drilling starts with the selection of a drilling site, where the first wells—called wildcat wells—are drilled to confirm the existence and quantity of oil or gas. If the exploratory wells indicate promising results, comprehensive evaluation activities are carried out, including drilling additional appraisal wells to delineate the reservoir size and characteristics.
+## What technologies are commonly used in upstream oil and gas operations?
 
-### Development and Production Wells
+In the upstream oil and gas industry, companies use a lot of cool technology to find and get oil and gas out of the ground. One big technology they use is seismic surveys. These surveys send sound waves into the earth and listen to the echoes to see what's down there. It's like taking a picture of the underground rock layers. This helps them find places where oil and gas might be hiding. Another important technology is drilling rigs. These big machines drill deep holes into the earth to reach the oil and gas. They can drill miles down and even sideways to get to the oil and gas.
 
-Once commercially viable reserves are confirmed through exploratory wells, the focus shifts to the development phase. Here, production wells are drilled strategically to optimize hydrocarbon extraction. These wells are designed for long-term operation and include advanced technologies such as directional and horizontal drilling, which allow for increased contact with the reservoir and improved extraction rates. Modern drilling practices also incorporate enhanced oil recovery (EOR) techniques, such as injecting substances that improve the flow of oil within the reservoir, maximizing recovery efficiency.
+Once they start drilling, companies use other technologies to make sure everything goes smoothly. They use sensors and computers to keep an eye on the well and make sure it's safe. These tools can tell them if there's a problem, like if the well is starting to leak. They also use special tools to steer the drill bit and make sure it goes where they want it to. This is called directional drilling. It helps them reach oil and gas that's not right under the drill site. All these technologies help make finding and getting oil and gas out of the ground easier and safer.
 
-Through these interconnected stages of exploration, from initial surveys and drilling to the establishment of production wells, the oil exploration process underpins successful upstream oil and gas operations. By harnessing cutting-edge technology and detailed geological insights, companies can efficiently discover and develop oil and gas reserves while minimizing financial risk and environmental impact.
+## What are the environmental impacts of upstream activities?
 
-## The Relationship Between Upstream, Midstream, and Downstream Sectors
+Upstream activities in the oil and gas industry can have big effects on the environment. When companies drill for oil and gas, they can harm the land and water around the drilling sites. Drilling can cause oil spills, which can pollute rivers, lakes, and oceans. This can hurt fish and other animals that live in the water. Also, drilling can take up a lot of space, which can destroy forests and other natural areas. This can make it hard for animals to find food and a place to live.
 
-The oil and gas industry is structured into three interrelated sectors: upstream, midstream, and downstream. Each sector plays a distinct yet interconnected role in ensuring the efficient flow of petroleum products from extraction to final consumption.
+Another big problem is that drilling for oil and gas can release greenhouse gases into the air. These gases, like methane, can make the earth warmer, which is called climate change. Climate change can cause more storms, hotter temperatures, and other problems that can hurt people and animals. Companies try to use new technology to make drilling safer and less harmful to the environment, but it's still a big challenge.
 
-**Upstream Sector**: This is the initial phase, focusing on the exploration and extraction of oil and gas. Upstream activities involve locating potential underground or underwater oil and gas fields, drilling exploratory wells, and operating production wells to recover hydrocarbons. These operations require sophisticated technology and substantial investment due to the complex nature of finding and extracting these resources.
+## How do companies manage the risks associated with upstream operations?
 
-**Midstream Sector**: The midstream sector serves as a bridge between upstream and downstream operations. It is responsible for the transportation, storage, and wholesale marketing of crude oil and natural gas. This sector often involves the use of pipelines, rail, ships, and trucks to move crude oil and natural gas from production sites to refineries and distribution hubs. Moreover, midstream operators maintain storage facilities to manage seasonal demand fluctuations and ensure a steady supply.
+Companies in the upstream oil and gas industry work hard to manage the risks that come with drilling for oil and gas. They use special tools and technology to make sure their operations are safe. For example, they use sensors and computers to watch over the wells and make sure there are no leaks or other problems. They also have strict rules and safety checks to follow. If something goes wrong, they have plans ready to fix it quickly and safely. This helps to prevent accidents and keep people and the environment safe.
 
-**Downstream Sector**: The downstream sector encompasses the refining of crude oil and the processing of natural gas, along with the distribution and marketing of products derived from crude oil. These products include gasoline, diesel, jet fuel, heating oil, lubricants, and other petroleum derivatives. Refineries represent a crucial component of the downstream process, where crude oil is transformed into a wide array of usable products through distillation, cracking, and other chemical processes.
+Another way companies manage risks is by planning carefully before they start drilling. They study the area where they want to drill to understand what might go wrong. They also use technology like seismic surveys to find the best places to drill, which can reduce the chance of drilling a dry well. Companies also buy insurance to help cover the costs if something bad happens. By being prepared and using the right technology, companies can lower the risks of upstream operations and make sure they can keep finding and producing oil and gas safely.
 
-The integration of these sectors is vital for maintaining an uninterrupted and efficient supply chain in the oil and gas industry. The seamless operation across these sectors ensures that [crude oil](/wiki/crude-oil) extracted in upstream operations is safely transported through midstream infrastructure and processed into valuable products by downstream facilities. This interconnectedness highlights the importance of strategic planning, technological innovation, and effective management in optimizing the journey from oil wells to fuel tanks.
+## What is the role of seismic surveys in the upstream sector?
 
-## Examples of Upstream Companies
+Seismic surveys are a big part of the upstream sector in the oil and gas industry. They help companies find where oil and gas might be hiding underground. Companies use special machines to send sound waves into the earth. These sound waves bounce back, and the machines listen to the echoes. By studying these echoes, scientists can make pictures of the rock layers underground. They look for places where the rock layers are just right to hold oil and gas. This helps them decide where to drill test wells to see if there really is oil or gas there.
 
-Several major companies dominate the upstream sector in the oil and gas industry, such as ExxonMobil and Chevron. These corporations are typically part of integrated business models, allowing them to operate across the upstream, midstream, and downstream segments seamlessly. This integration enables them to efficiently manage their supply chains from exploration to distribution.
+Using seismic surveys is important because it makes finding oil and gas easier and less risky. Without these surveys, companies would be guessing where to drill, which could waste a lot of time and money. Seismic surveys help them be more sure about where to drill, which can save a lot of money and make the whole process more efficient. Even though seismic surveys don't guarantee that they'll find oil or gas, they give companies a much better chance of success.
 
-ExxonMobil, for instance, is renowned for its extensive exploration and production activities worldwide. The company leverages advanced technology and vast resources to locate and extract hydrocarbon deposits, contributing significantly to the global oil supply. Similarly, Chevron plays a pivotal role in upstream operations, with a diversified portfolio of oil and gas projects that encompass various regions and types of reserves.
+## How does the upstream sector contribute to the overall economy?
 
-In addition to these integrated giants, specialized service companies like Schlumberger are vital to the success of upstream operations. Schlumberger is a global leader in providing technology and services critical to the exploration and production of hydrocarbons. Their expertise in well drilling, reservoir characterization, and well completion enhances the efficiency and effectiveness of upstream activities. These services are indispensable, especially when dealing with complex geological formations and trying to maximize resource extraction while minimizing environmental impact.
+The upstream sector is a big part of the economy because it finds and gets oil and gas out of the ground. This oil and gas is used for many things like making gasoline for cars, heating homes, and making plastics. When companies find oil and gas, they create jobs for people who work in drilling, engineering, and other jobs. These jobs help people earn money and spend it in their communities, which helps the economy grow. Also, when companies sell the oil and gas they find, they make money that can be used to invest in more projects or pay taxes, which helps the government provide services like schools and roads.
 
-These companies exemplify the diverse and crucial nature of entities involved in the upstream sector, highlighting the blend of integrated operations and specialized services essential for successful oil and gas exploration and production.
+The upstream sector also helps the economy by bringing in money from other countries. When a country has a lot of oil and gas, other countries might want to buy it. This can make the country's money stronger and help its economy grow. But, the upstream sector can also be risky because it costs a lot of money to drill for oil and gas, and sometimes companies don't find any. When they do find oil and gas, it can be very good for the economy, but when they don't, it can be bad. So, the upstream sector is important for the economy, but it can also be a bit of a gamble.
 
-## Algorithmic Trading in the Oil Industry
+## What are the key differences between onshore and offshore upstream operations?
 
-Algorithmic trading involves utilizing computer algorithms to automate the process of executing trades in financial markets, including commodities like oil. These algorithms are designed to work at speeds and efficiencies far beyond human capability, leveraging computational power to analyze market data, recognize trading signals, and execute orders based on predefined criteria.
+Onshore upstream operations happen on land. Companies drill for oil and gas in places like deserts, forests, or fields. It's usually easier and cheaper to drill on land because they don't need special equipment to work in water. But, onshore drilling can still be hard because they have to move big drilling rigs and other equipment to the site. Also, onshore drilling can affect the land and the people who live nearby. Companies have to be careful to not harm the environment or bother the people who live close to the drilling sites.
 
-In the oil industry, [algorithmic trading](/wiki/algorithmic-trading) plays a significant role in enhancing the trading of oil futures contracts. Oil futures are standardized contracts that obligate the purchase or sale of a specific amount of oil at a predetermined price on a future date. Given the volatile nature of the oil market, algorithmic trading systems help companies manage price risks and capitalize on market opportunities.
+Offshore upstream operations happen in the ocean. Companies use big platforms or ships to drill for oil and gas under the sea. Offshore drilling is harder and more expensive because they need special equipment that can work in deep water. They also have to deal with rough seas and bad weather, which can make drilling dangerous. But, offshore drilling can find big oil and gas deposits that are not on land. This can be very good for the companies, but it can also harm the ocean and the animals that live there if there's an oil spill or other problem.
 
-### Optimization of Oil Futures Trading
+## How has the upstream sector evolved with the advent of unconventional oil and gas resources?
 
-Algorithmic trading systems optimize the execution of oil futures trades through several methods:
+The upstream sector has changed a lot because of unconventional oil and gas resources like shale oil and gas. These resources are harder to get out of the ground than traditional oil and gas. To reach them, companies use new technologies like hydraulic fracturing, or "fracking," and horizontal drilling. Fracking involves pumping water, sand, and chemicals into the rock to break it and let the oil and gas flow out. Horizontal drilling lets companies drill down and then sideways to reach more of the oil and gas. These new ways of drilling have made it possible to get oil and gas from places that were too hard to reach before.
 
-1. **Data Analysis**: Algorithms can process vast quantities of historical and real-time data to identify patterns and trends. For instance, they might utilize time series analysis to predict price movements based on historical volatility patterns. The basic approach could involve the use of statistical models such as the Autoregressive Integrated Moving Average (ARIMA) for forecasting.
+Because of these new technologies, the upstream sector has grown a lot. More companies are drilling for unconventional oil and gas, which has made the United States and other countries produce more oil and gas than ever before. This has changed the energy market and made countries less dependent on oil and gas from other places. But, using these new technologies can also be bad for the environment. Fracking can use a lot of water and can pollute the air and water if it's not done carefully. So, the upstream sector has to find ways to use these new technologies safely and responsibly.
 
-2. **Decision Making**: Algorithms use trading strategies that are informed by technical indicators, such as moving averages and Bollinger Bands, to make decisions. For example, an algorithm might trigger a buy order when the current price moves above the moving average, indicating a potential upward trend.
+## What are the current trends and future challenges facing the upstream sector?
 
-3. **Automated Execution**: Once a trading decision is made, algorithmic trading systems can execute high-frequency trades with precision, minimizing transaction costs and reducing the time delay between decision-making and execution.
+The upstream sector is always changing, and right now, one big trend is the use of new technology to find and get oil and gas out of the ground. Companies are using things like artificial intelligence and big data to make drilling safer and more efficient. They're also looking for ways to drill in places that were too hard to reach before, like deep under the ocean or in the Arctic. Another trend is the focus on sustainability. Companies are trying to find ways to drill for oil and gas that are less harmful to the environment. They're using new methods to reduce greenhouse gas emissions and protect the land and water around their drilling sites.
 
-### Risk Management and Profitability
+In the future, the upstream sector will face some big challenges. One challenge is the growing demand for cleaner energy. More and more people want to use energy from the sun, wind, and other sources that don't harm the environment. This means the upstream sector will have to compete with these new energy sources. Another challenge is the need to keep finding new oil and gas deposits. As the easy-to-reach oil and gas run out, companies will have to drill in harder and more expensive places. They'll need to keep using new technology to make this possible. Finally, the upstream sector will have to deal with stricter rules about protecting the environment. Governments are making new laws to reduce pollution and protect the earth, and companies will have to follow these rules while still trying to make money.
 
-Algorithmic trading assists companies in the oil sector to manage risks and enhance profitability through:
+## How do regulatory frameworks affect operations in the upstream sector?
 
-- **Hedging Strategies**: Algorithms can implement sophisticated hedging strategies to protect against unfavorable price movements. For example, they might automatically adjust positions in response to market fluctuations to maintain a desired level of risk exposure.
+Regulatory frameworks have a big impact on the upstream sector because they set the rules that companies have to follow when they drill for oil and gas. These rules can be about safety, the environment, or how companies should work with the people who live near their drilling sites. For example, governments might make laws to stop oil spills or to limit how much pollution companies can make. These rules help protect people and the environment, but they can also make it harder and more expensive for companies to drill for oil and gas. Companies have to spend time and money to make sure they follow all the rules, which can slow down their work and make it cost more.
 
-- **Arbitrage Opportunities**: These algorithms can swiftly identify and exploit arbitrage opportunities by simultaneously buying and selling oil futures in different markets, thus capitalizing on price discrepancies.
-
-Python is frequently used to develop and implement algorithmic trading strategies due to its extensive libraries and simplicity. Libraries such as NumPy and pandas facilitate data manipulation and analysis, while special libraries like TA-Lib and Zipline provide tools for building and [backtesting](/wiki/backtesting) trading strategies.
-
-```python
-import numpy as np
-import pandas as pd
-from ta.trend import SMAIndicator
-
-# Load historical price data
-data = pd.read_csv('oil_futures_prices.csv')
-price_data = data['Close']
-
-# Calculate simple moving average
-sma_indicator = SMAIndicator(close=price_data, window=20)
-sma = sma_indicator.sma_indicator()
-
-# Determine buy/sell signals
-data['Signal'] = 0  # Default to no action
-data['Signal'][price_data > sma] = 1  # Signal to buy
-data['Signal'][price_data < sma] = -1 # Signal to sell
-```
-
-This code demonstrates a simple algorithmic trading strategy using the Simple Moving Average (SMA) as a signal to buy or sell oil futures. Real-world strategies are usually more complex, but they showcase the principle of using historical price data to guide trading decisions. The application of algorithmic trading continues to grow, driven by advancements in technology and data analytics, providing companies with powerful tools to navigate the complexities of the oil market effectively.
-
-## How Algorithmic Trading Benefits Upstream Companies
-
-Algorithmic trading offers several strategic advantages to upstream oil and gas companies, primarily through enhanced market insights and risk management capabilities. By utilizing sophisticated algorithms, these companies can forecast market trends effectively, leading to more informed decisions around production and sales strategies.
-
-Advanced algorithms analyze extensive historical data along with current market conditions to predict price movements. This analytical capability helps upstream companies effectively address price [volatility](/wiki/volatility-trading-strategies), which is a significant concern in the oil market. By anticipating changes in prices, these algorithms enable companies to optimize their trading strategies and secure favorable futures contracts, thereby safeguarding themselves against adverse market scenarios.
-
-Moreover, algorithmic trading assists in navigating the complexities of the global oil markets by ensuring efficient and timely transactions. The ability to execute trades with precision and speed is crucial for upstream companies striving to maintain competitive advantage. Automated trading platforms can execute trades within milliseconds based on predefined criteria, minimizing human error and exploiting market inefficiencies.
-
-In practice, an algorithm might implement a simple moving average strategy or more complex models such as the Autoregressive Integrated Moving Average (ARIMA) to predict future prices. For instance, a Python implementation for calculating a moving average might look like this:
-
-```python
-import numpy as np
-
-def moving_average(prices, window_size):
-    return np.convolve(prices, np.ones(window_size)/window_size, mode='valid')
-
-oil_prices = [100, 101, 102, 98, 96, 99, 100, 103, 105]
-window_size = 3
-averages = moving_average(oil_prices, window_size)
-print(averages)
-```
-
-Such computational techniques enhance upstream companies' ability to respond rapidly to market shifts, thereby supporting proactive rather than reactive decision-making processes. This technological edge not only aids in immediate financial performance improvements but also bolsters long-term planning and operational stability.
-
-## Conclusion
-
-The upstream sector is a cornerstone of the oil industry, laying the groundwork for effective extraction and production of oil and gas resources. Its influence extends across the entire oil and gas production process, emphasizing the critical nature of efficient exploration and drilling operations. In recent years, technological advances have transformed traditional approaches, notably through the integration of algorithmic trading systems. These systems are revolutionizing the way upstream companies manage financial risks and optimize their market strategies.
-
-Algorithmic trading harnesses vast datasets and employs sophisticated algorithms to enhance decision-making processes. By accurately predicting market trends and price movements, this technology enables upstream companies to mitigate risks associated with volatile oil prices. This predictive capability is particularly valuable for planning production schedules and sales strategies, allowing companies to react swiftly to market changes and thus maintain stable profitability.
-
-The role of technology is progressively vital in staying competitive within the oil industry. As algorithmic trading evolves, its application within upstream operations is expected to grow, offering even more refined insights and operational efficiencies. This technological evolution underscores a broader trend towards digital transformation in the oil sector, offering companies the tools to optimize operations and maximize financial performance.
-
-In conclusion, the upstream sector is indispensable to the oil industry's supply chain, with algorithmic trading paving the way for advancements in financial strategy and market agility. Continued investment in these technologies promises to enhance the industry's adaptability and long-term success.
+In some places, the rules can be very strict, which can make it hard for companies to start new projects. They might have to do a lot of studies and get special permits before they can start drilling. This can take a long time and cost a lot of money. On the other hand, in places where the rules are not so strict, it might be easier for companies to start drilling, but they might not be as careful about protecting the environment or keeping people safe. So, regulatory frameworks are important because they help balance the need for oil and gas with the need to protect people and the environment.
 
 ## References & Further Reading
 
