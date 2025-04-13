@@ -3,89 +3,88 @@ title: "Tariffs and Trade Barriers"
 description: "Explore how trade barriers and tariffs impact algorithmic trading posing both challenges and opportunities in global markets by influencing economic variables."
 ---
 
-Trade barriers and tariffs are pivotal components in the framework of international trade. Trade barriers are restrictions imposed by governments to regulate the amount and types of goods and services that can cross their borders. These can take various forms, including tariffs, quotas, and non-tariff barriers. Tariffs, a common type of trade barrier, are taxes levied on imported goods, increasing their cost and thus making them less competitive relative to domestically produced goods. The significance of these mechanisms lies in their ability to protect domestic industries, generate government revenue, and serve as tools in international diplomacy.
 
-Algorithmic trading, a transformative development in modern finance, involves the use of computer algorithms to automate trading processes. These algorithms can execute orders at speeds and frequencies that are impossible for human traders. By analyzing multiple markets simultaneously and making trading decisions in fractions of a second, algorithmic trading significantly impacts global markets through enhanced trading efficiency, liquidity provision, and reduced transaction costs.
-
-![Image](images/1.png)
-
-Understanding the intersection between trade barriers and algorithmic trading is critical in today's interconnected financial landscape. As trade barriers influence market conditions, they create variables that algorithmic trading systems must account for. The adaptability of algorithmic strategies to changes in tariffs and trade regulations can lead to shifts in market behaviors and trading volumes. Consequently, firms employing advanced algorithmic technologies can gain a competitive edge by swiftly responding to changes in international trade policies, prompting an ongoing need for research and strategy adaptation.
+![Image](images/1.jpeg)
 
 ## Table of Contents
 
-## Understanding Trade Barriers
+## What are tariffs and how do they affect trade?
 
-Trade barriers are governmental measures that restrict trade flows between countries to protect domestic industries or achieve political goals. They include tariffs, quotas, and non-tariff barriers.
+Tariffs are taxes that a country puts on goods that come from another country. They are like a fee that has to be paid when things are imported. Governments use tariffs to make foreign goods more expensive. This can help protect local businesses by making their products cheaper compared to the imported ones.
 
-**Types of Trade Barriers**
+When tariffs are high, they can make trade between countries harder. If a country puts a tariff on another country's goods, the other country might put a tariff on their goods too. This can lead to a trade war, where both countries keep adding more tariffs. In the end, it can make goods more expensive for everyone and slow down trade.
 
-1. **Tariffs**: These are taxes imposed on imported goods, increasing their price in the domestic market and thus making local products more competitive. For example, if a country places a 20% tariff on imported steel, the cost of imported steel rises, potentially benefiting domestic steel producers.
+## What are the different types of trade barriers?
 
-2. **Quotas**: These are limits set on the quantity of a particular product that can be imported or exported during a specific time period. Quotas restrict the supply of foreign goods, maintaining higher prices for domestic products. For instance, a country might permit only 10,000 cars to be imported annually, encouraging the consumption of locally manufactured vehicles.
+Trade barriers are things that countries use to limit or control the trade of goods and services between them. One type of trade barrier is tariffs, which are taxes on imported goods. These taxes make foreign products more expensive, which can help protect local businesses. Another type is quotas, which are limits on the amount of a certain product that can be imported. This means only a certain number of goods can come into the country, which can also protect local producers.
 
-3. **Non-Tariff Barriers (NTBs)**: These include regulations and standards such as health and safety protocols, licensing requirements, and subsidies. While not taxes, they can make compliance costly for foreign producers, effectively limiting imports. For example, stringent environmental regulations might make it difficult for foreign-made electronics to enter a particular market if their manufacturing process doesn't comply with local laws.
+There are also non-tariff barriers, which are not about taxes but can still affect trade. These include things like strict rules and standards for products, such as safety or environmental regulations. If a product does not meet these rules, it cannot be sold in that country. Another non-tariff barrier is subsidies, where the government gives money to local businesses to help them compete with foreign companies. This can make it harder for foreign goods to compete in the market.
 
-**Impact on Trade Flows**
+Lastly, there are embargoes and sanctions, which are more extreme trade barriers. An embargo is a complete ban on trade with a certain country, usually for political reasons. Sanctions are penalties that one country puts on another, often to pressure them to change their behavior. Both of these can stop trade completely between countries, making it very hard for businesses to operate.
 
-Trade barriers can significantly influence the flow of goods and services between countries. By increasing the cost or limiting the availability of foreign products, these barriers can reduce imports and encourage domestic consumption. However, they can also lead to trade disputes, as affected countries might retaliate with their own barriers, leading to a decrease in international trade volumes.
+## How do tariffs differ from quotas?
 
-**Reasons for Implementation**
+Tariffs and quotas are both ways countries try to control how much stuff comes in from other places, but they work differently. Tariffs are like taxes that get added to the price of things coming into a country. When a product from another country gets a tariff, it becomes more expensive. This can make people want to buy things made in their own country instead, because they're cheaper. Governments use tariffs to help their own businesses and to get more money from the taxes.
 
-Countries implement trade barriers for several reasons:
+Quotas are different because they don't add a tax, but they set a limit on how much of a certain thing can come into the country. For example, a country might say only 10,000 cars can be imported each year. Once that number is reached, no more cars can come in, no matter what. This helps protect local car makers because it stops too many foreign cars from being sold in their country. Quotas can make it hard for other countries to sell their products, but they don't bring in extra money like tariffs do.
 
-- **Protection of Domestic Industries**: By shielding local businesses from foreign competition, these barriers can help nascent or declining industries survive.
+## What is the purpose of imposing trade barriers?
 
-- **National Security**: Certain industries are deemed critical for national security, and protecting them from foreign dependence is considered essential.
+Countries use trade barriers to protect their own businesses and workers. When a country puts up trade barriers, it makes it harder for foreign companies to sell their products there. This can help local businesses because they don't have to compete as much with cheaper products from other countries. For example, if a country puts a tax on imported cars, those cars become more expensive, and people might choose to buy cars made in their own country instead. This helps keep jobs and money in the country.
 
-- **Political and Economic Goals**: Governments might use trade barriers to achieve broader socioeconomic objectives, such as protecting jobs or advancing environmental policies.
+Trade barriers can also be used for other reasons, like making sure products meet certain safety or environmental standards. If a country has strict rules about what can be sold there, it might stop some foreign products from being imported. This can protect people from unsafe goods and help the environment. Sometimes, countries use trade barriers to send a message to other countries. If one country is doing something another country doesn't like, it might put up trade barriers to pressure them to change their behavior. This can lead to less trade overall, but it can also be a way to achieve political goals.
 
-- **Retaliation**: Sometimes barriers are erected in response to similar measures taken by trade partners, as a way to exert pressure or rectify perceived unfair trade practices.
+## Can you explain the concept of protectionism in relation to tariffs?
 
-In conclusion, while trade barriers can offer short-term advantages for domestic economies, their use needs to be carefully balanced against the potential negative impacts on global trade relations and economic efficiency.
+Protectionism is when a country tries to protect its own businesses and workers by making it harder for foreign companies to sell their products there. One way to do this is by using tariffs, which are taxes on imported goods. When a country puts a tariff on a product, it makes that product more expensive. This can make people want to buy things made in their own country instead, because they're cheaper. So, tariffs help local businesses by giving them an advantage over foreign competitors.
 
-## The Role of Tariffs in International Trade
+For example, if a country puts a tariff on imported cars, those cars will cost more. People might then choose to buy cars made in their own country, which helps keep jobs and money at home. Governments use tariffs as part of protectionism to help their own industries grow and stay strong. But, while tariffs can help protect local businesses, they can also make things more expensive for everyone and can lead to less trade between countries.
 
-Tariffs are a pivotal instrument in international trade policy, functioning primarily as taxes imposed on imported goods. They serve multiple roles, chiefly aimed at regulating the [volume](/wiki/volume-trading-strategy) of imports by increasing the price of foreign goods, thus making domestically produced items more competitive in the local market. Tariffs can be categorized mainly into two types: ad valorem tariffs, which are calculated as a percentage of the value of the imported goods, and specific tariffs, which are fixed fees based on the quantity or weight of the goods.
+## How do tariffs impact the economy of a country?
 
-The imposition of tariffs has a significant impact on both domestic industries and foreign competitors. Domestically, tariffs can provide temporary protection to nascent industries unable to compete with established international players, fostering local economic growth and safeguarding jobs. However, this protection can sometimes lead to inefficiencies if domestic companies become reliant on tariffs to compete, potentially leading to higher prices for consumers.
+Tariffs can help a country's economy by protecting local businesses. When a country puts a tax on imported goods, it makes those goods more expensive. This can make people want to buy things made in their own country instead. This helps local companies sell more and can create more jobs. It also means more money stays in the country, which can help the economy grow. Governments like this because it can make their industries stronger and keep more people working.
 
-On the other hand, foreign competitors may find their access to markets restricted, ultimately affecting their sales and profit margins. Tariffs can skew competitive dynamics by making foreign goods less price-competitive compared to local alternatives. Consequently, affected countries sometimes retaliate with tariffs of their own, potentially sparking trade disputes that could escalate into wider economic conflicts.
+But tariffs can also hurt a country's economy. When other countries see tariffs being used, they might put tariffs on the first country's goods too. This can lead to a trade war, where both countries keep adding more tariffs. This makes things more expensive for everyone and can slow down trade. It can also mean fewer choices for people buying things and higher prices. In the end, this can make the economy weaker because it's harder for businesses to sell their products in other countries and harder for people to buy what they need.
 
-Historically, tariffs have played a critical role in shaping global trade patterns. One notable example is the Smoot-Hawley Tariff Act of 1930 in the United States, which raised import duties to protect American businesses during the Great Depression. The Act led to a significant contraction in global trade and is often cited as a [factor](/wiki/factor-investing) exacerbating the economic downturn. In contemporary times, the U.S.-China trade war provides an example where tariffs were employed extensively by the United States with the intent of addressing trade imbalances and intellectual property concerns. These tariffs led to a series of retaliations by China, impacting global supply chains and instigating adjustments in trade strategies globally.
+## What are the global trade agreements that aim to reduce tariffs?
 
-Tariffs, as tools of trade policy, reflect both protective and strategic economic interests, serving as levers to influence not just trade volumes but also diplomatic and economic relations between countries. Understanding their impact is integral to navigating the complexities of international trade dynamics.
+Global trade agreements are deals between countries to help make trade easier. One big agreement is the World Trade Organization (WTO). The WTO works to lower tariffs and other trade barriers between its member countries. It helps countries talk to each other and agree on rules that make trade fairer and smoother. By reducing tariffs, the WTO aims to help countries sell more of their products to other countries and buy more from them too.
 
-## Algorithmic Trading: A Game Changer in Global Markets
+Another important agreement is the North American Free Trade Agreement (NAFTA), which is now called the United States-Mexico-Canada Agreement (USMCA). This agreement is between the United States, Mexico, and Canada. It aims to get rid of most tariffs between these countries so that they can trade more freely. By lowering tariffs, the USMCA helps businesses in these countries sell their products to each other without extra costs, which can help their economies grow.
 
-Algorithmic trading, commonly referred to as algo trading, utilizes computer algorithms to execute trading orders based on pre-defined strategies. These algorithms can analyze a vast amount of market data at high speed, allowing traders to exploit various market inefficiencies and capitalize on profits. The emergence of algo trading has significantly transformed the modern financial ecosystem by enhancing the precision and speed of financial transactions, reducing human intervention, and lowering transaction costs.
+There are also other regional trade agreements, like the European Union (EU), where member countries have agreed to lower or remove tariffs between them. The EU makes it easier for countries in Europe to trade with each other. These agreements all have the same goal: to reduce tariffs and make trade easier and more beneficial for everyone involved.
 
-### Advantages of Algorithmic Trading
+## How do non-tariff barriers work and what are some examples?
 
-1. **Speed and Efficiency**: Algorithms can process complex mathematical models quickly and execute trades within microseconds. This speed enables traders to respond instantly to market changes, capturing opportunities that might be missed by human traders. The high-frequency nature of algo trading is a critical advantage in today's volatile markets.
+Non-tariff barriers are ways countries control trade without using taxes. Instead of adding a tax to make foreign goods more expensive, non-tariff barriers use rules and limits to make it harder for foreign products to be sold in a country. These barriers can be things like strict safety or environmental standards that products have to meet before they can be sold. If a product doesn't meet these standards, it can't be sold in that country. This helps protect local businesses because it makes it harder for foreign companies to sell their products there.
 
-2. **Reduced Transaction Costs**: By automating the trading process, algo trading minimizes the need for human traders, thus reducing labor costs. Furthermore, algorithms can execute multiple trades concurrently, allowing traders to benefit from economies of scale.
+Another type of non-tariff barrier is quotas, which are limits on how much of a certain product can be imported. For example, a country might say only a certain number of cars can be brought in each year. Once that number is reached, no more cars can come in. This helps local car makers because it stops too many foreign cars from being sold in their country. Governments also use subsidies as non-tariff barriers. Subsidies are money given to local businesses to help them compete with foreign companies. This makes it harder for foreign goods to compete in the market because local products become cheaper or better supported.
 
-3. **Precision and Accuracy**: Algorithms can eliminate human biases and errors, making decisions based solely on data and statistical signals. This precision is especially beneficial in volatile markets, where quick and accurate decisions can lead to significant advantages.
+## What is the role of the World Trade Organization (WTO) in managing tariffs and trade barriers?
 
-4. **Market Liquidity**: The efficiency of algo trading often contributes to increased market liquidity. By enabling the rapid buying and selling of securities, algo trading helps narrow the bid-ask spread, benefiting all market participants.
+The World Trade Organization (WTO) helps countries trade with each other by making rules about tariffs and trade barriers. It works to lower tariffs, which are taxes on imported goods, so that countries can sell more of their products to other countries. The WTO also helps countries talk to each other and agree on how to make trade fair. It does this by having meetings where countries can discuss problems and find solutions. This way, the WTO tries to make sure that trade is smooth and that everyone follows the same rules.
 
-### Challenges and Risks of Algorithmic Trading
+The WTO also deals with other trade barriers, like quotas and strict rules about product standards. It helps countries set up agreements that limit these barriers so that trade can happen more easily. If countries have disagreements about trade, they can go to the WTO to help solve them. The WTO has a system for settling disputes, which can stop trade wars and help countries work together better. By managing tariffs and other trade barriers, the WTO aims to make global trade stronger and more beneficial for everyone.
 
-Despite its advantages, [algorithmic trading](/wiki/algorithmic-trading) poses several challenges and risks:
+## How do tariffs and trade barriers influence international relations?
 
-1. **Market Volatility**: While algorithms can profit from short-term market movements, they can also exacerbate volatility. In some instances, the actions of trading algorithms have led to significant market disruptions, such as the "Flash Crash" of 2010, where the Dow Jones Industrial Average dropped almost 1,000 points within minutes.
+Tariffs and trade barriers can affect how countries get along with each other. When one country puts a tax on goods from another country, it can make the other country upset. They might think it's not fair and decide to put a tax on goods from the first country too. This can start a trade war, where both countries keep adding more taxes. This makes it harder for them to trade and can hurt their economies. It can also make them less friendly and lead to bigger problems between them.
 
-2. **Systemic Risk**: The widespread use of similar algorithms across different trading entities can lead to operational risks. If many traders employ similar strategies, it can result in synchronized buying or selling, amplifying market movements and potentially causing a cascade of failures.
+On the other hand, tariffs and trade barriers can also be used to help countries work together better. If countries agree to lower their tariffs and trade barriers, it can make trade easier and help their economies grow. This can make them more friendly and willing to work together on other things too. For example, the World Trade Organization helps countries talk about trade and agree on rules that make trade fairer. When countries follow these rules, it can lead to better international relations because they are working together and helping each other's economies.
 
-3. **Regulatory Concerns**: The rapid evolution of algo trading has led to regulatory challenges. Ensuring compliance with financial regulations across different jurisdictions is complex and requires continuous monitoring and adjustment of algorithms.
+## What are the long-term effects of persistent trade barriers on global trade?
 
-4. **Technical Failures**: The reliance on complex algorithms and technology means that algo trading is susceptible to technical failures. System bugs, data feed errors, or connectivity issues can lead to significant financial losses.
+When countries keep using trade barriers like tariffs and quotas for a long time, it can slow down global trade. These barriers make it harder for countries to sell their goods to each other. Over time, this can make businesses in different countries less connected. Companies might stop trying to sell their products in other countries because it's too hard or too expensive. This can lead to fewer choices for people buying things and can make goods more expensive. It can also mean that countries miss out on the benefits of trading with each other, like getting new ideas and technologies.
 
-5. **Ethical Considerations**: The use of high-frequency trading (HFT) and other algorithmic strategies has prompted ethical questions regarding fairness and transparency in markets. There is ongoing debate over whether these practices unfairly advantage certain market participants over others.
+In the long run, persistent trade barriers can also hurt economic growth around the world. When countries can't trade easily, their economies might not grow as fast. This is because trade helps countries use their resources better and create more jobs. If trade barriers stay in place, countries might focus more on making things for their own people instead of selling to other countries. This can make the world economy weaker overall. It can also lead to more tension between countries because they might feel like they're not being treated fairly.
 
-In conclusion, while algorithmic trading offers numerous benefits such as increased efficiency and reduced costs, it also presents several challenges that need to be addressed. Balancing innovation with oversight is crucial to harnessing the full potential of algo trading while mitigating risks. This intersection of technology and finance continues to evolve, shaping the future of global financial markets.
+## How can countries strategically use tariffs and trade barriers in trade negotiations?
 
-## Interplay Between Trade Barriers and Algorithmic Trading
+Countries can use tariffs and trade barriers as bargaining chips in trade negotiations. When a country wants to get a better deal, it might put tariffs on goods from another country. This makes the other country want to negotiate because their businesses are losing money. By threatening to keep or raise these tariffs, the country can push the other side to agree to things they might not have agreed to before. For example, they might want the other country to lower their own tariffs or change their rules to make it easier to sell their products there.
+
+Using trade barriers in this way can also help a country protect its own industries while trying to get a better deal. If a country knows its local businesses are struggling, it might use tariffs to give them time to get stronger. During negotiations, the country can offer to lower these tariffs if the other country agrees to certain terms. This way, the country can help its own economy while also trying to open up new markets. But, this strategy needs to be used carefully because it can lead to trade wars if the other country feels like it's being treated unfairly.
+
+## What is the interplay between trade barriers and algorithmic trading?
 
 International trade barriers, such as tariffs, quotas, and non-tariff measures, have significant implications for algorithmic trading strategies. These barriers can affect market efficiency, [liquidity](/wiki/liquidity-risk-premium), and [volatility](/wiki/volatility-trading-strategies), all of which are critical parameters in the development and execution of algorithmic trading.
 
@@ -132,52 +131,6 @@ Historical instances demonstrate the impact of trade barriers on algorithmic tra
 Another example is the Brexit referendum, which created uncertainties about future trade relationships between the UK and EU. Algorithmic traders had to adjust their models to handle unexpected volatility and changing correlations between UK, EU, and global markets.
 
 These cases highlight the need for advanced data analytics and flexible algorithmic models capable of adapting to shifts in trade policy. As international trade dynamics continue to evolve, the interplay between trade barriers and algorithmic trading will remain a critical focus for traders and policymakers alike.
-
-## The Future of International Trade and Algo Trading
-
-The future of international trade and algorithmic trading is poised to be significantly influenced by emerging trade policies. With the advent of new trade agreements and the potential for increasing protectionism, algorithmic trading strategies may need to become more adaptive and sophisticated. Algorithms could increasingly incorporate broader datasets, such as political signals or real-time policy changes, to adjust trading strategies dynamically in response to new barriers or relaxed trade measures.
-
-Technology stands as a pivotal tool in overcoming trade barriers. For instance, machine learning and [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) can be leveraged to predict policy shifts or simulate the effects of trade barriers on market conditions. Distributed ledger technologies, like blockchain, can enhance transparency and trust, potentially reducing non-tariff barriers by streamlining logistics and compliance processes. Furthermore, advancements in data analytics facilitate better risk assessment and forecasting, offering traders a competitive edge in volatile markets shaped by changing trade policies.
-
-The regulatory environment around both trade and algorithmic trading is evolving rapidly. In trade, increasing scrutiny over globalization and supply chain dependencies may lead to stricter regulations and a rise in localization efforts. Algorithmic trading also faces its set of regulatory challenges, including concerns over market fairness, systemic risk, and the ethical use of AI. Regulatory bodies worldwide are likely to implement frameworks ensuring that automated trading systems operate transparently and equitably. This evolving landscape presents both challenges and opportunities, necessitating that companies and traders stay abreast of regulatory changes and compliance requirements.
-
-Overall, while emerging trade policies may introduce complexity into algorithmic trading, technology offers the means to navigate these challenges. Traders who effectively leverage analytics and comply with regulations will be well-positioned to thrive in this transformed global marketplace.
-
-## Conclusion
-
-The complex interplay between trade barriers, tariffs, and algorithmic trading forms a multifaceted landscape in international commerce. This intersection significantly impacts global markets, shaping the strategies and outcomes of various trading entities. Trade barriers, including tariffs, quotas, and non-tariff barriers, serve as pivotal instruments for countries to regulate the flow of goods and services. They influence economic dynamics by protecting domestic industries and affecting foreign trade competition.
-
-Tariffs, as one of the primary forms of trade barriers, play a critical role in international trade policy. By imposing costs on imports, they can both protect domestic industries and alter the competitive environment for foreign competitors. Historical and contemporary cases illustrate the profound effects tariffs have, both beneficial in terms of protectionism and detrimental when they lead to trade wars.
-
-Algorithmic trading, a technological advancement in financial markets, revolutionizes the speed and efficiency of trading operations. Offering reduced transaction costs, it leverages complex algorithms to execute trades at a pace beyond human capability. However, this innovation is not without its challenges, as rapid market changes, including those influenced by trade policies, can pose risks to automated trading systems.
-
-The dynamic relationship between trade barriers and algorithmic trading reveals how international trade policies can influence and be influenced by trading strategies. Algorithmic systems must adapt to the ever-changing landscape of tariffs and trade regulations, as evidenced by historical case studies where trade barriers directly impacted algo trading outcomes.
-
-As we look to the future, evolving trade policies and technological advancements will likely continue to reshape the landscape of algorithmic trading. There is potential for technology to aid in overcoming traditional trade barriers, offering new pathways for global transactions. Moreover, the ongoing evolution of regulatory environments around trade and financial systems demands vigilance and proactive adaptation.
-
-Continued research is essential to fully comprehend these interdependencies and anticipate future trends. By understanding the critical relationship between trade barriers, tariffs, and algorithmic trading, stakeholders can better navigate the complexities of global trade dynamics, ensuring sustainable growth and stability in international markets.
-
-## References
-
-1. Baldwin, R. (2009). **The Great Trade Collapse: What Caused It and What Does It Mean?**. Retrieved from [VoxEU](https://voxeu.org/article/great-trade-collapse-what-caused-it-and-what-does-it-mean).
-
-2. Chan, J.S.K., & Teo, S. (2019). **Impact of Trade Barriers on Global Supply Chains**. Journal of International Economics, 85(3), 345-367. doi:10.1016/j.jinteco.2018.09.005.
-
-3. Fama, E.F. & French, K.R. (1993). **Common Risk Factors in the Returns on Stocks and Bonds**. Journal of Financial Economics, 33(1), 3-56. Available at [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/0304405X9390023R).
-
-4. Gomber, P., Arndt, B., Lutat, M., & Uhle, T. (2011). **High-Frequency Trading**. Business & Information Systems Engineering, 3(2), 83-92. doi:10.1007/s12599-011-0149-9.
-
-5. Melitz, M.J. (2003). **The Impact of Trade on Intra-industry Reallocations and Aggregate Industry Productivity**. Econometrica, 71(6), 1695-1725. Available at [Econometric Society](https://www.econometricsociety.org/publications/econometrica/2003/11/01/impact-trade-intra-industry-reallocations-and-aggregate-industry).
-
-6. Stiglitz, J.E. (2018). **Tariffs and the Global Economy: What It Means for Emerging Markets**. IMF Economic Review, 66, 34-56. doi:10.1057/s41308-017-0044-1.
-
-7. Treleaven, P. (2010). **Financial Trading and Investment Using Artificial Intelligence**. IEEE Computational Intelligence Magazine, 5(2), 14-24. Retrieved from [IEEE Xplore](https://ieeexplore.ieee.org/document/5480579).
-
-8. Wyart, M., Bouchaud, J.-P., Kockelkoren, J., Potters, M., & Vettorazzo, M. (2008). **Relation between Bid-Ask Spread, Impact and Volatility in Order-Driven Markets**. Quantitative Finance, 8(1), 41-57. doi:10.1080/14697680701381286.
-
-9. World Trade Organization. (2022). **World Trade Statistical Review**. Retrieved from [WTO](https://www.wto.org/english/res_e/statis_e/wts2022_e/wts2022_e.pdf).
-
-10. Zeng, L., Lu, C., & Zhang, W. (2020). **Adaptive Trading Strategies in Financial Markets**. Journal of Economic Dynamics and Control, 115, 103888. doi:10.1016/j.jedc.2020.103888.
 
 ## References & Further Reading
 

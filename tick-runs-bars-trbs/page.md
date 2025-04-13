@@ -3,62 +3,84 @@ title: "Tick runs bars (TRBs)"
 description: Explore how Tick Runs Bars (TRBs) revolutionize algorithmic trading by offering a precise depiction of market activities. Unlike the traditional time bars, TRBs adapt to actual trade flows, forming bars based on sequences of similar trades reaching a set threshold. This method uncovers critical market dynamics that time-based approaches often miss, enhancing insight into supply and demand pressures. By incorporating these dynamically formed bars into trading strategies, traders can develop agile responses, significantly improving execution and prediction accuracy in volatile markets where timely decision-making is crucial.
 ---
 
-Algorithmic trading has profoundly transformed financial markets by employing systematic and efficient strategies to execute trades. Central to this approach is the utilization of various data structures known as bars, which are used to segment and analyze financial data. Traditionally, time bars have been the cornerstone, sampling data at regular time intervals, typically minutes, hours, or days. However, as trading technology and market dynamics have evolved, so has the need for more sophisticated methodologies that can capture the intricacies of market movements. 
 
-This evolution has led to the development of advanced techniques such as tick bars and tick runs bars (TRBs). Unlike time bars, which might overlook critical market activities occurring in short time frames, these newer methodologies provide a more detailed and responsive picture of market data. Tick bars, for instance, are formed after a specified number of trades, thus offering a volume-based view, while tick runs bars are created when sequences of similar trades—either buys or sells—reach a predefined threshold. This capability is particularly valuable for detecting anomalies in order flows and potential shifts in market sentiment.
-
-![Image](images/1.jpeg)
-
-In this article, we focus on tick runs bars within the framework of algorithmic trading. We discuss how TRBs enhance trading strategies by offering a more precise representation of market conditions compared to traditional bars. This precision becomes crucial in developing strategies that can adapt to volatile and rapidly changing markets, ultimately improving trade execution and market prediction.
+![Image](images/1.png)
 
 ## Table of Contents
 
-## Understanding Tick Runs Bars (TRBs)
+## What are Tick Runs Bars (TRBs) and how do they differ from traditional candlestick charts?
 
-Tick Runs Bars (TRBs) present a refined approach to sampling financial market data by focusing on the sequence of trades. Unlike conventional data structures such as time bars, which divide data into fixed intervals regardless of market activity, TRBs form bars based on trade accumulation reaching a specified threshold. This threshold is typically set to detect an imbalance in buying and selling activity, which might signify significant market movements or anomalies.
+Tick Runs Bars (TRBs) are a type of chart used in trading that focuses on the number of trades, or ticks, rather than time. In a TRB, a new bar is created after a certain number of trades have happened, no matter how long it takes. This means that TRBs can show more about the activity and interest in a stock or asset, because each bar represents the same amount of trading activity, not the same amount of time.
 
-The traditional time bar approach often fails to capture the nuances of rapid market changes because it aggregates data at constant intervals. This can lead to missed signals during periods of intense trading activity or overrepresentation of less significant data during quieter times. In contrast, TRBs account for actual trade flows by adjusting the data collection process dynamically. The formation of a TRB happens not at a uniform time interval but when the [volume](/wiki/volume-trading-strategy) or count of consecutive buys or sells surpasses a predetermined level.
+Traditional candlestick charts, on the other hand, are based on time. Each candlestick shows the price movement within a set time period, like a minute, an hour, or a day. The main difference between TRBs and candlestick charts is what they measure. While candlestick charts are great for seeing how prices change over fixed time periods, TRBs give traders a better sense of market activity and momentum, because they show how quickly trades are happening.
 
-This methodology provides a more detailed representation of market sentiment since it reflects the real-time action rather than adhering to arbitrary time frames. For instance, during a buying spree, a tick run bar will consolidate this information into a single bar once the buying volume surpasses the set threshold. Similarly, a concentrated selling phase will result in another bar, indicating potential market imbalance.
+## How are TRBs calculated and what data points are used in their construction?
 
-By using TRBs, traders can gain insights into periods of informed trading or identify occluded patterns that time bars might overlook. This approach assists in recognizing the ebb and flow of market dynamics, offering a more nuanced view of the supply and demand pressures at play. Effective implementation of TRBs can thus enhance the precision of [algorithmic trading](/wiki/algorithmic-trading) strategies, allowing traders to respond swiftly and accurately to emerging market trends.
+TRBs are calculated by counting the number of trades, or ticks, that happen in the market. When a certain number of ticks is reached, a new bar is created on the chart. For example, if you set your TRB to form a new bar after every 100 ticks, the chart will show a new bar every time 100 trades have been made, no matter how long it takes. This means that during busy trading times, bars might form quickly, and during quiet times, it might take longer for a new bar to appear.
 
-## Advantages of Using TRBs in Algo Trading
+The data points used to construct TRBs are similar to those used in other types of charts. Each bar on a TRB shows the opening price, the highest price, the lowest price, and the closing price during the period when the set number of ticks was reached. So, if a bar represents 100 ticks, the opening price is the price at the start of those 100 ticks, the high is the highest price reached during those ticks, the low is the lowest price, and the close is the price at the end of the 100 ticks. This gives traders a clear picture of price movement and market activity based on the number of trades.
 
-Tick Runs Bars (TRBs) offer several advantages in algorithmic trading by providing a more precise representation of market dynamics than traditional time-based bars. Unlike time bars, which aggregate market data at uniform intervals without regard for the underlying trade activity, TRBs are constructed when a sequence of either buy or sell trades surpasses a predefined threshold. This approach enables the detection of informed trading behavior and other anomalies with greater accuracy.
+## What are the advantages of using TRBs over other types of price charts?
 
-One significant advantage of TRBs is their ability to capture the directional flow of trades without offsetting against opposing directions. This means TRBs record uninterrupted sequences of buying or selling pressure, effectively reflecting shifts in market sentiment. Such detailed captures play a critical role in understanding the prevailing market mood, which time bars often obscure due to their static time constraints.
+TRBs help traders see how busy the market is. Each bar on a TRB shows the same number of trades, not the same amount of time. This means that during busy times, bars will appear quickly, and during quiet times, it might take longer for a new bar to show up. This can help traders understand when the market is moving a lot and when it's calm. Knowing this can be useful for making decisions about when to buy or sell.
 
-By incorporating TRBs into trading strategies, traders benefit from improved resolution in analyzing market data. This heightened sensitivity is particularly advantageous in volatile markets where rapid sentiment changes can substantially impact asset prices. For example, TRBs can aid in identifying [momentum](/wiki/momentum) shifts faster than time-based indicators, allowing algorithms to respond more quickly to emerging patterns.
+Another advantage of TRBs is that they can show changes in market activity more clearly than time-based charts like candlesticks. If a lot of trades happen in a short time, it might mean that something important is happening in the market. TRBs can help traders spot these moments better because they focus on the number of trades, not just the time. This can be really helpful for traders who want to react quickly to what's happening in the market.
 
-Moreover, TRBs facilitate the implementation of more responsive algorithmic strategies. In Python, for example, algorithms can be developed to dynamically track runs of trades and adjust trading signals accordingly:
+## Can you explain the concept of 'ticks' in the context of TRBs?
 
-```python
-def calculate_TRB(trade_data, threshold):
-    run_length = 0
-    direction = None
-    trb_list = []
+In the world of trading, a 'tick' is just another word for a trade. When someone buys or sells something, that's one tick. In Tick Runs Bars (TRBs), ticks are really important because they decide when a new bar shows up on the chart. If you set your TRB to make a new bar after every 100 ticks, then every time 100 trades happen, you'll see a new bar on your chart.
 
-    for trade in trade_data:
-        if direction is None or trade['type'] == direction:
-            run_length += 1
-        else:
-            if run_length > threshold:
-                trb_list.append({'direction': direction, 'length': run_length})
-            direction = trade['type']
-            run_length = 1
+TRBs are different from other charts because they care more about how many trades happen, not how much time goes by. This means that if the market is busy and lots of people are trading, you'll see new bars appear quickly. But if the market is quiet and not many trades are happening, it might take a while for a new bar to show up. This helps traders see how active the market is and make better decisions about when to buy or sell.
 
-    if run_length > threshold:
-        trb_list.append({'direction': direction, 'length': run_length})
+## How do TRBs help in identifying market trends and patterns?
 
-    return trb_list
-```
+TRBs help traders see market trends and patterns by showing how busy the market is. Each bar on a TRB shows the same number of trades, not the same amount of time. This means that if a lot of trades are happening quickly, you'll see new bars appear fast. This can tell you that the market is moving a lot, which might mean a trend is starting or changing. By watching how quickly new bars show up, traders can spot when the market is getting more active or starting to calm down.
 
-This piece of code demonstrates how to accumulate sequences of similar trades and log them once a specified threshold is exceeded. Such dynamic mechanisms are vital for adapting to swiftly changing market conditions, enhancing trade execution efficiency.
+Another way TRBs help with trends and patterns is by showing price movements clearly. Each bar has an opening price, a high price, a low price, and a closing price, just like other charts. But because TRBs focus on the number of trades, you can see how the price is changing as more people buy or sell. If the price is going up and new bars are appearing quickly, it might mean the market is getting excited about a new trend. If the price is going down and bars are coming slowly, it could mean the market is losing interest. This helps traders see patterns and make better guesses about where the market might go next.
 
-In conclusion, the application of TRBs leads to the development of more agile trading strategies by capturing nuanced market movements that time bars might miss. This capability translates into improved decision-making processes, ultimately offering traders a competitive edge in the financially sophisticated arena of algorithmic trading.
+## What are some common strategies traders use with TRBs?
 
-## Implementing Tick Runs Bars in Trading Strategies
+Traders often use TRBs to spot when the market is getting busy or quiet. They look at how fast new bars show up on the chart. If new bars are coming quickly, it means a lot of trades are happening, and the market might be starting a new trend. Traders might decide to buy or sell based on this. For example, if they see the market getting busy and the price going up, they might buy, hoping the trend will keep going. If the market is quiet and the price is going down, they might sell or wait for a better time to buy.
+
+Another strategy is to watch the price movements on TRBs. Each bar shows the highest and lowest prices during a set number of trades. Traders look at these prices to see if there are patterns. If the price keeps going up and making higher highs and higher lows, it might mean a strong uptrend is happening. If the price is going down with lower highs and lower lows, it might be a downtrend. Traders can use this information to decide when to get in or out of the market. They might buy when they see the start of an uptrend and sell when they think a downtrend is starting.
+
+## How can TRBs be integrated into an existing trading platform or software?
+
+To add TRBs to a trading platform or software, you need to make sure the platform can handle custom charts. Most trading platforms let you add new types of charts by using special tools or coding. You would need to write a program that counts the number of trades and makes a new bar on the chart every time a certain number of trades happens. This program would use the platform's tools to show the opening, high, low, and closing prices for each bar, just like other charts do.
+
+Once you have the program ready, you can add it to the trading platform. This might mean putting the program into the platform's code or using a special feature that lets you add new charts. After it's added, traders can use TRBs to see how busy the market is and make better trading decisions. They can watch how fast new bars show up and look at the price movements to spot trends and patterns.
+
+## What are the limitations or potential drawbacks of using TRBs?
+
+One limitation of using TRBs is that they might not work well for all types of trading. If you're a day trader who looks at very short time periods, TRBs can be great because they show how busy the market is right now. But if you're a long-term investor who doesn't care about quick changes, TRBs might not be as useful. They focus on the number of trades, not the time, so they might not give you the big picture over weeks or months.
+
+Another drawback is that TRBs can be hard to understand at first. If you're used to looking at regular candlestick charts, it might take some time to get used to TRBs. They show information in a different way, and you need to learn how to read them correctly. This can be a bit confusing, especially if you're new to trading or if you're trying to use TRBs with other types of charts at the same time.
+
+## How do TRBs perform in different market conditions, such as high volatility or low liquidity?
+
+In high volatility markets, TRBs can be really helpful. When the market is moving a lot and prices are changing quickly, TRBs show new bars faster because more trades are happening. This helps traders see how busy the market is and make quick decisions. If you see new bars coming quickly and the price going up or down a lot, it means the market is excited and a big trend might be starting. This can be a good time to buy or sell, depending on what you think will happen next.
+
+In low liquidity markets, TRBs might not be as useful. When not many people are trading, it takes longer for a new bar to show up on a TRB. This can make it hard to see what's happening in the market because there's not enough activity. If you're waiting for a new bar and it takes a long time to come, it might mean the market is quiet and not much is happening. This can make it harder to spot trends or make good trading decisions because there's less information to work with.
+
+## Can TRBs be customized for specific trading styles or asset classes?
+
+TRBs can be changed to fit different ways of trading or different things you want to trade. If you like to trade quickly during the day, you can set your TRB to make a new bar after just a few trades. This helps you see what's happening in the market right away. If you trade things that don't move much, like some stocks or currencies, you might want to set your TRB to make a new bar after more trades. This way, you can still see changes in the market even if it's not very busy.
+
+For different types of things you might trade, like stocks, forex, or cryptocurrencies, you can also change how TRBs work. Stocks might have different trading patterns than cryptocurrencies, so you might need to set your TRB differently for each one. By changing the number of trades needed for a new bar, you can make sure your TRB shows you the information you need to make good trading choices for whatever you're trading.
+
+## What advanced technical indicators work best with TRBs?
+
+When using TRBs, some advanced technical indicators that work well are the Relative Strength Index (RSI) and the Moving Average Convergence Divergence (MACD). The RSI helps you see if a stock or asset is overbought or oversold. This can be really useful with TRBs because you can see how busy the market is and then use the RSI to decide if it's a good time to buy or sell. If the market is busy and the RSI shows the asset is overbought, it might be a good time to sell. If the market is quiet and the RSI shows it's oversold, it might be a good time to buy.
+
+Another good indicator to use with TRBs is the MACD. This indicator helps you see the strength and direction of a trend. When you see new bars coming quickly on a TRB, you can use the MACD to check if the trend is strong or if it might be about to change. If the MACD shows a strong trend and the TRB shows a lot of activity, it can give you more confidence in your trading decisions. These indicators can help you make better choices by giving you more information about what's happening in the market.
+
+## How can one backtest trading strategies using TRBs and what tools are available for this purpose?
+
+Backtesting trading strategies with TRBs means you look at old market data to see how your strategy would have worked in the past. You can do this by using special software that lets you set up TRBs and run your trading rules on historical data. You would tell the software how many trades you want for each bar and what your buying and selling rules are. Then, the software will go through the old data and show you how your strategy would have done. This helps you see if your strategy is good or if you need to change it before you use it with real money.
+
+There are a few tools you can use for backtesting with TRBs. One popular tool is TradingView, which lets you create custom charts and backtest strategies. You can set up TRBs in TradingView and then use its built-in backtesting features to see how your strategy would have worked. Another tool is MetaTrader, which is often used by forex traders. It has a programming language called MQL4 or MQL5 that you can use to create TRBs and backtest your strategies. Both of these tools are easy to use and can help you see if your TRB strategy is a good one.
+
+## How can Tick Runs Bars be implemented in trading strategies?
 
 Implementing Tick Runs Bars (TRBs) in trading strategies necessitates access to high-frequency trade data and efficient mechanisms for counting and analyzing sequences of trades. This implementation begins with acquiring granular data, typically from a data provider or exchange, to capture each trade's time, price, and volume. This high-resolution data enables the identification of streaks of trades in one direction, a fundamental requirement for constructing TRBs.
 
@@ -93,26 +115,6 @@ print(ewma_values)
 This code snippet calculates the EWMA for a series of trade prices, providing a basis for adjusting thresholds dynamically in response to market conditions.
 
 Lastly, the integration of TRBs into trading strategies does not end with [backtesting](/wiki/backtesting); traders must continuously monitor and adapt their models to align with real-time market dynamics, ensuring robustness against overfitting and maintaining adaptability to evolving market structures.
-
-## Challenges and Considerations
-
-Tick Runs Bars (TRBs) present significant potential in improving trading strategies, but their implementation is fraught with certain challenges. The first major challenge is the requirement for high-frequency trading data. Unlike traditional financial data available over time intervals such as seconds, minutes, or hours, TRBs necessitate data recorded at each transaction or tick. Access to such detailed data is often expensive and may not be readily available to all market participants. High-frequency data providers often charge substantial fees, making it a costly endeavor, especially for smaller trading firms or individual traders.
-
-Another critical consideration is the computational resources required for processing and analyzing high-frequency data to construct TRBs. Real-time processing demands powerful computing capabilities and advanced infrastructure. High-frequency data involve large volumes and require rapid processing to be actionable in trading strategies. Implementing TRBs requires computational systems capable of handling this data efficiently, necessitating investment in high-performance hardware and software, as well as robust data management systems.
-
-Overfitting is another potential pitfall when utilizing TRBs in algorithmic trading strategies. Models that perform well over historical data due to overfitting may fail under new market conditions. Overfitting occurs when a model is excessively tailored to fit the historical data, capturing noise rather than true market signals. This could lead to poor predictive performance in live trading scenarios where market dynamics may differ from past conditions. 
-
-To mitigate overfitting, regular performance validation using out-of-sample data is essential. Techniques such as cross-validation and regularization can be employed to ensure the model's robustness. Additionally, constant monitoring and updating of the trading models to adapt to evolving market conditions are crucial. Incorporating adaptive algorithms that adjust parameters in real-time based on market feedback can help maintain the relevance and efficacy of trading strategies using TRBs. 
-
-In summary, while TRBs offer a nuanced perspective on market activities, their implementation requires careful attention to data acquisition costs, computational demands, and the prevention of overfitting to ensure sustainable and effective trading strategies.
-
-## Conclusion
-
-Tick Runs Bars (TRBs) have emerged as a sophisticated instrument for algorithmic traders, providing enhanced insights into market dynamics compared to traditional time bars. These advanced data structures offer the advantage of adapting to the market's actual activity, rather than conforming to arbitrary time intervals, which can obscure critical market information. The use of TRBs enables traders to detect subtle changes in market sentiment and informed trading activities, leading to potentially significant improvements in trading performance.
-
-Despite their advantages, the application of TRBs poses several challenges, most notably the requirement for high-frequency trading data. Such data is often expensive and difficult to procure, posing a barrier to entry for some traders. Furthermore, the analysis and interpretation of TRBs necessitate substantial computational resources, demanding reliable and high-performing infrastructure. There's also a risk of overfitting, which can lead to strategies that perform well on past data but falter under live market conditions. Therefore, it's crucial for traders to design adaptive models capable of adjusting to the dynamic and evolving financial landscape.
-
-As algorithmic trading continues to evolve, embracing cutting-edge tools like TRBs can position traders advantageously in the competitive financial markets. By staying updated with technological advancements and refining trading strategies to incorporate newer, more informative data structures, traders can better harness opportunities for improved returns. Consequently, the potential for TRBs to enhance algorithmic trading strategies makes them a valuable asset for traders seeking an edge in ever-complex financial environments.
 
 ## References & Further Reading
 
