@@ -3,17 +3,82 @@ title: "Intraday Momentum Index: Description and Application"
 description: "Explore the Intraday Momentum Index and its application in algo trading Discover how this unique momentum indicator aids in making informed intraday decisions"
 ---
 
-In the fast-paced world of intraday trading, understanding market momentum is crucial for achieving a competitive advantage. Momentum indicators, which measure the speed and strength of price movements, play a pivotal role in identifying short-term trading opportunities. These tools enable traders to make informed decisions by analyzing price dynamics and predicting potential reversals or continuations in the market.
-
-Among the various momentum indicators, the Intraday Momentum Index (IMI) stands out for its unique approach. The IMI merges the principles of the Relative Strength Index (RSI) with candlestick analysis, thereby offering real-time insights into market conditions. Unlike traditional RSI, which evaluates price changes over a specified period, the IMI focuses on intraday activity by comparing the open and close prices within the same trading session. This combination allows it to capture short-term price anomalies effectively, making it an invaluable tool for intraday traders.
 
 ![Image](images/1.jpeg)
 
-Developed by Tushar Chande, the IMI is designed to provide actionable signals for traders looking to capitalize on intraday market fluctuations. By identifying overbought and oversold conditions within a single trading day, the IMI aids in optimizing entry and exit points, thereby enhancing trading precision. Its integration with algorithmic trading further amplifies its utility, facilitating automated trading strategies that can swiftly respond to market changes without succumbing to emotional bias.
-
-This article will explore the nuances of the IMI, its applications in algorithmic trading, and the ways in which traders can leverage its unique features for intraday success. Understanding and utilizing the IMI can help traders improve their market timing, capitalize on rapid price movements, and manage risks more effectively.
-
 ## Table of Contents
+
+## What is the Intraday Momentum Index (IMI)?
+
+The Intraday Momentum Index (IMI) is a technical analysis tool used by traders to measure the momentum of a stock or asset within a single trading day. It helps traders understand whether the buying or selling pressure is stronger during the day. The IMI is calculated using the stock's high, low, and closing prices, and it ranges from 0 to 100. A reading above 70 suggests that the stock might be overbought, meaning it could be a good time to sell. On the other hand, a reading below 30 indicates that the stock might be oversold, suggesting it might be a good time to buy.
+
+Traders use the IMI to make quick decisions during the trading day. For example, if the IMI shows a stock is overbought, a trader might decide to sell it before the price drops. Conversely, if the IMI indicates a stock is oversold, a trader might see it as a buying opportunity, expecting the price to rise soon. The IMI is particularly useful for day traders who need to make fast and informed decisions based on intraday price movements.
+
+## How is the Intraday Momentum Index calculated?
+
+The Intraday Momentum Index (IMI) is calculated using the stock's high, low, and closing prices from a single trading day. To start, you find the difference between the closing price and the opening price. If the closing price is higher than the opening price, you use the high price of the day minus the opening price. If the closing price is lower than the opening price, you use the opening price minus the low price of the day. This difference is then divided by the range of the day, which is the high price minus the low price.
+
+Next, you take this result and multiply it by 100 to get a percentage. This percentage is then smoothed over a period, usually 14 days, using a moving average to create the IMI. The formula looks like this: IMI = (Sum of (100 * ((Close - Open) / (High - Low))) over 14 days) / 14. The final value of the IMI ranges from 0 to 100, helping traders see if the stock is overbought or oversold during the day.
+
+## What are the key components used in the IMI formula?
+
+The Intraday Momentum Index (IMI) uses three main pieces of information from a stock's price during a single trading day: the opening price, the closing price, and the highest and lowest prices reached during the day. To calculate the IMI, you first find out if the stock closed higher or lower than it opened. If it closed higher, you take the highest price of the day and subtract the opening price. If it closed lower, you take the opening price and subtract the lowest price of the day.
+
+Once you have this difference, you divide it by the range of the day, which is the highest price minus the lowest price. Then, you multiply the result by 100 to turn it into a percentage. This percentage is calculated every day and then averaged over 14 days to smooth out the results. The final number, the IMI, helps traders see if the stock is overbought or oversold during the trading day.
+
+## What does the IMI tell us about market trends?
+
+The Intraday Momentum Index (IMI) helps traders understand short-term market trends by showing if a stock is overbought or oversold during the trading day. If the IMI is above 70, it means the stock might be overbought, which could be a sign that the price might soon go down. Traders might see this as a good time to sell the stock. On the other hand, if the IMI is below 30, it means the stock might be oversold, suggesting that the price could go up soon. Traders might see this as a good time to buy the stock.
+
+The IMI is useful because it gives traders quick information about what's happening with a stock during the day. By looking at the IMI, traders can get a sense of the buying and selling pressure on a stock. If the IMI stays high for a while, it might mean there's a strong upward trend. If it stays low, it might mean there's a strong downward trend. This helps traders make fast decisions about when to buy or sell, based on how the stock is moving during the day.
+
+## How can beginners use the IMI to identify buying and selling opportunities?
+
+Beginners can use the Intraday Momentum Index (IMI) to find good times to buy or sell a stock during the trading day. The IMI shows numbers from 0 to 100. If the number is over 70, it means the stock might be overbought, which could mean the price will go down soon. This might be a good time for beginners to sell the stock. On the other hand, if the IMI number is below 30, it means the stock might be oversold, and the price could go up soon. This might be a good time for beginners to buy the stock.
+
+To use the IMI, beginners should watch the numbers throughout the day. If the IMI stays high for a while, it might mean there's a strong upward trend, so it might be a good time to hold onto the stock or buy more. If the IMI stays low for a while, it might mean there's a strong downward trend, so it might be a good time to sell the stock or wait for a better buying opportunity. By paying attention to these signals, beginners can make smarter decisions about when to buy and sell, based on how the stock is moving during the day.
+
+## What are the typical time frames used for the IMI in trading?
+
+The Intraday Momentum Index (IMI) is usually used for short periods of time, like during one trading day. Traders look at the IMI throughout the day to see if a stock is overbought or oversold. This helps them decide when to buy or sell the stock quickly. The most common time frame for the IMI is a 14-day period, which means the IMI value is calculated and then averaged over the last 14 trading days.
+
+For beginners, using the IMI over a 14-day period can help them understand how the stock is moving in the short term. They can see if the stock's price is likely to go up or down soon by watching the IMI numbers. If the IMI is over 70, it might be a good time to sell because the stock could be overbought. If it's below 30, it might be a good time to buy because the stock could be oversold. By keeping an eye on these numbers every day, beginners can learn to spot good buying and selling opportunities during the trading day.
+
+## How does the IMI differ from other momentum indicators like the RSI?
+
+The Intraday Momentum Index (IMI) and the Relative Strength Index (RSI) are both used to measure momentum in trading, but they do this in different ways. The IMI looks at how a stock moves during one trading day. It uses the opening, closing, high, and low prices of the day to figure out if the stock is overbought or oversold. The IMI is usually calculated over a 14-day period, but it focuses on what happens within each day. This makes it really useful for day traders who need to make quick decisions.
+
+On the other hand, the RSI looks at the average gains and losses of a stock over a longer period, usually 14 days too, but it doesn't focus on what happens within each day. The RSI compares the size of recent gains to recent losses to see if a stock is overbought or oversold. Because the RSI looks at longer trends, it's often used by traders who are not just trading within one day. So, while both the IMI and RSI help traders see if a stock is overbought or oversold, the IMI is better for short-term, intraday trading, and the RSI is better for understanding longer-term trends.
+
+## What are the common settings for the IMI and how can they be adjusted for different trading strategies?
+
+The common setting for the Intraday Momentum Index (IMI) is a 14-day period. This means the IMI value is calculated every day and then averaged over the last 14 trading days. This setting helps traders see if a stock is overbought or oversold during the trading day. If the IMI number is over 70, the stock might be overbought, and if it's below 30, it might be oversold. This can guide traders on when to buy or sell a stock quickly during the day.
+
+Traders can adjust the IMI settings to fit different trading strategies. For example, if a trader wants to be more sensitive to short-term changes, they might use a shorter period like 7 days. This would make the IMI react faster to price changes, which is good for very active day trading. On the other hand, if a trader wants to see longer trends, they might use a longer period like 21 days. This would smooth out the IMI numbers and help traders see bigger trends over time. By changing the period, traders can make the IMI work better for their own trading style.
+
+## Can the IMI be used effectively in different market conditions, such as trending or ranging markets?
+
+The Intraday Momentum Index (IMI) can be used in different market conditions, like when the market is trending up or down, or when it's just moving sideways without a clear direction. In a trending market, where prices are going up or down strongly, the IMI can help traders see if a stock is overbought or oversold during the day. If the IMI shows a stock is overbought in an uptrend, it might be a good time to sell before the price drops. If it shows a stock is oversold in a downtrend, it might be a good time to buy before the price goes up again. This way, traders can use the IMI to make quick decisions based on the day's momentum.
+
+In a ranging market, where prices are moving back and forth without a clear trend, the IMI can also be helpful. It can show traders when a stock might be reaching the top or bottom of its range. If the IMI goes above 70, it could mean the stock is at the top of its range and might soon go down. If it goes below 30, it could mean the stock is at the bottom of its range and might soon go up. By watching the IMI, traders can find good times to buy low and sell high, even when the market isn't clearly trending.
+
+## How can advanced traders combine the IMI with other technical indicators for improved trading decisions?
+
+Advanced traders can combine the Intraday Momentum Index (IMI) with other technical indicators to make better trading decisions. One common way is to use the IMI with the Relative Strength Index (RSI). The IMI looks at how a stock moves during one trading day, while the RSI looks at longer trends. By using both, traders can see if a stock is overbought or oversold in both the short and long term. If the IMI shows a stock is overbought and the RSI also shows it's overbought, it might be a strong signal to sell. If both indicators show the stock is oversold, it might be a good time to buy.
+
+Another way to use the IMI is with moving averages. Traders can use a short-term moving average, like a 5-day moving average, to see the stock's recent trend, and then look at the IMI to see if the stock is overbought or oversold within that trend. If the stock price is above the moving average and the IMI is over 70, it might mean the stock is overbought and could soon drop. If the price is below the moving average and the IMI is below 30, it might mean the stock is oversold and could soon rise. By combining these indicators, traders can get a fuller picture of the stock's momentum and make more informed trading decisions.
+
+## What are the potential pitfalls or limitations of using the IMI in trading?
+
+Using the Intraday Momentum Index (IMI) in trading can have some pitfalls. One big problem is that the IMI can give false signals. This means it might show a stock is overbought or oversold when it's not. If traders rely only on the IMI, they might make bad decisions and lose money. Another issue is that the IMI is better for short-term trading. If someone is trying to understand longer trends, the IMI might not be very helpful because it focuses on what happens within one day.
+
+Another limitation of the IMI is that it doesn't work the same in all market conditions. In a market that's moving a lot, the IMI can be useful, but in a market that's not moving much, it might not give clear signals. Traders also need to remember that the IMI is just one tool. Using it alone without other indicators or information can lead to mistakes. It's important to use the IMI along with other tools to get a better understanding of the market.
+
+## How can the IMI be integrated into an algorithmic trading strategy?
+
+The Intraday Momentum Index (IMI) can be integrated into an algorithmic trading strategy by setting up rules based on its readings. For example, an algorithm can be programmed to buy a stock when the IMI falls below 30, indicating the stock is oversold, and to sell when the IMI rises above 70, showing the stock is overbought. The algorithm can use these thresholds to make quick trading decisions throughout the day, helping to take advantage of short-term price movements.
+
+To make the strategy more effective, the IMI can be combined with other indicators in the algorithm. For instance, the algorithm might also use the Relative Strength Index (RSI) to confirm the IMI's signals. If both the IMI and RSI suggest a stock is overbought or oversold, the algorithm could execute a trade with more confidence. Additionally, the algorithm can use moving averages to understand the stock's trend and adjust the IMI's sensitivity by changing the period over which it's calculated, like using a shorter period for more responsive signals or a longer period for smoother trends.
 
 ## What is the Intraday Momentum Index (IMI)?
 
@@ -31,7 +96,7 @@ Typically, the IMI is calculated over a 14-day period. An IMI value above 70 gen
 
 This focus on open-to-close price dynamics, partnered with RSI’s foundational framework, enables the IMI to offer traders actionable short-term signals, helping them to time their trades more effectively within the confines of a single trading day. By interpreting these signals, traders can potentially capitalize on rapid price movements, whether in stocks, commodities, or other asset classes.
 
-## How the Intraday Momentum Index Works
+## How does the Intraday Momentum Index work?
 
 The Intraday Momentum Index (IMI) operates with a methodology paralleling that of the Relative Strength Index (RSI), yet it narrows its analysis to intraday price movements, thereby refining its ability to detect overbought or oversold conditions within a single trading day. The IMI computation involves evaluating the sum of gains on days where the closing price exceeds the opening price (up days) against the aggregate of all price movements in a defined period, commonly set at 14 days. This can be expressed mathematically as follows:
 
@@ -71,54 +136,7 @@ imi_value = calculate_imi(open_prices, close_prices, period)
 
 This approach effectively captures the daily momentum shifts, assisting traders in making strategic decisions based on intraday market sentiment.
 
-## Using IMI in Algorithmic Trading
-
-Algorithmic traders can take advantage of the Intraday Momentum Index (IMI) by automating buy and sell decisions. The core principle is to set predefined thresholds for overbought and oversold conditions, typically with IMI values above 70 indicating overbought levels and those below 30 indicating oversold levels. This structured approach removes emotional bias, allowing traders to respond promptly to market changes without hesitation.
-
-Integrating the IMI with other technical indicators enhances its robustness. For instance, combining it with moving averages ensures that trend direction is considered. A simple moving average (SMA) can offer insights into the overall trend, while an exponential moving average (EMA) might adapt faster to price changes:
-
-```python
-import pandas as pd
-
-# Assuming you have a DataFrame 'data' with 'Close' prices
-data['SMA'] = data['Close'].rolling(window=20).mean()
-data['EMA'] = data['Close'].ewm(span=20, adjust=False).mean()
-```
-
-Additionally, incorporating [volume](/wiki/volume-trading-strategy) data can further validate signals and reduce false positives. If the IMI suggests an oversold condition, the presence of high trading volume might confirm the potential for a price increase:
-
-```python
-# Example check for high volume with oversold condition
-oversold_condition = (data['IMI'] < 30) & (data['Volume'] > data['Volume'].mean())
-buy_signals = data[oversold_condition]
-```
-
-Automating these strategies allows traders to capitalize on rapid intraday market movements by ensuring that decisions are made based on a comprehensive set of criteria rather than emotions. For example, an algorithm could be programmed to execute trades when the IMI signals align with moving averages and volume criteria, ensuring that trades only occur when multiple indicators confirm a potential opportunity:
-
-```python
-def execute_trade(signal, position):
-    if signal == 'Buy' and not position:
-        # Code to execute buy order
-        position = True
-        print("Executing Buy Order")
-    elif signal == 'Sell' and position:
-        # Code to execute sell order
-        position = False
-        print("Executing Sell Order")
-    return position
-
-# Example use of the function
-current_position = False
-for index, row in data.iterrows():
-    if row['IMI'] < 30 and row['Volume'] > data['Volume'].mean():
-        current_position = execute_trade('Buy', current_position)
-    elif row['IMI'] > 70 and row['Volume'] < data['Volume'].mean():
-        current_position = execute_trade('Sell', current_position)
-```
-
-By methodically integrating the IMI with complementary indicators and automating these decision processes, traders can efficiently manage intraday trading operations and optimize their response to market dynamics.
-
-## Comparative Analysis: IMI vs. Other Momentum Indicators
+## What is the Comparative Analysis of IMI versus Other Momentum Indicators?
 
 The Intraday Momentum Index (IMI) offers nuanced insights for traders focusing exclusively on intraday sessions, distinguishing it from widely-used momentum indicators like the Relative Strength Index (RSI) and the Stochastic Oscillator. While the RSI and the Stochastic Oscillator are effective tools for evaluating momentum over extended periods, IMI emphasizes the short-term price dynamics occurring within a single trading day.
 
@@ -133,113 +151,6 @@ Similarly, the Stochastic Oscillator examines price levels over time to predict 
 In contrast, the IMI assesses fluctuations between the opening and closing prices exclusively within individual trading days, providing actionable data for day traders. Its calculations involve comparing up-moves to overall price changes in a chosen period, often 14 days, similar to the RSI but condensed into one day. This sharp focus on intraday fluctuations makes it a potent tool for capturing swift market shifts and determining precise entry and [exit](/wiki/exit-strategy) points.
 
 The comparative advantage of the IMI is its immediate application for traders who require instant feedback regarding intraday market shifts. This distinction allows market participants to tailor their strategies, selecting the best mix of indicators to align with their trading approach. By understanding these differences, traders can optimize their toolset, integrating the IMI for immediate insights and other indicators like RSI and Stochastic Oscillator for broader trend analysis.
-
-## Practical Examples and Applications
-
-When trading stocks such as Meta Platforms and PayPal, the Intraday Momentum Index (IMI) can serve as a vital tool for capturing timely trading opportunities, particularly during periods of heightened market activity sparked by news events. By focusing on the intraday fluctuations in stock prices, the IMI helps traders identify moments when a stock might be overbought or oversold, guiding them to strategically enter or exit positions.
-
-For instance, consider a scenario where Meta Platforms announces a significant update related to its business model. Such news can trigger swift intraday price movements. Traders using the IMI can monitor the indicator's position relative to its typical thresholds, such as the common IMI benchmarks of 30 (oversold) and 70 (overbought). If Meta's stock price spikes following the news, the IMI might quickly rise above 70, suggesting potential overbought conditions. Traders may decide to initiate a short position or take profits from long positions based on this signal.
-
-Similarly, when analyzing PayPal's stock, news about new partnerships or regulatory changes can cause rapid price shifts. A sudden drop in price might be identified by the IMI as oversold if the index falls below 30. This scenario can present a potential buying opportunity for day traders looking to capitalize on a rebound.
-
-Chart analysis is instrumental in applying the IMI effectively. By plotting the IMI alongside stock price movements, traders can visually correlate the IMI readings with significant price action. Below is a simple Python example using the library `matplotlib` and `ta` for calculating IMI to visualize its application.
-
-```python
-import pandas as pd
-import matplotlib.pyplot as plt
-import ta
-
-# Load stock data into a DataFrame
-data = pd.read_csv('stock_data.csv')  # Replace with actual stock data file
-
-# Calculate IMI
-data['IMI'] = ta.momentum.intraday_momentum_index(data['open'], data['high'], data['low'], data['close'], window=14)
-
-# Plotting
-plt.figure(figsize=(14, 7))
-plt.subplot(2, 1, 1)
-plt.plot(data['close'], label='Close Price')
-plt.title('Stock Price and IMI')
-plt.legend()
-
-plt.subplot(2, 1, 2)
-plt.plot(data['IMI'], label='IMI', color='orange')
-plt.axhline(70, linestyle='--', color='red', label='Overbought Threshold')
-plt.axhline(30, linestyle='--', color='green', label='Oversold Threshold')
-plt.legend()
-plt.show()
-```
-
-In this example, the chart visually demonstrates the confluence of stock price movements with corresponding IMI values, helping traders to identify optimal entry and exit points. By integrating such analysis into a trading strategy, the IMI serves as both a precise and an adaptable tool, capable of enhancing decision-making processes during volatile intraday sessions.
-
-## Limitations and Considerations
-
-Despite its utility, the Intraday Momentum Index (IMI) has limitations that traders must consider to ensure well-informed trading decisions. In low [volatility](/wiki/volatility-trading-strategies) or consolidating market conditions, the IMI may produce false signals, leading to potential trading missteps. This occurs because the IMI, focusing on price changes between the opening and closing of a trading day, might not account for minor fluctuations that characterize quieter markets. Such situations necessitate the use of additional analytical tools to cross-verify signals generated by the IMI.
-
-To mitigate the risk of erroneous trading decisions, traders are encouraged to incorporate the IMI into a broader strategy that utilizes multiple indicators. By combining the IMI with tools such as moving averages and trend analysis, traders can provide additional layers of validation for their trades. For example, a moving average can help smooth out price data to identify the broader trend, which can be used to confirm signals generated by the IMI. Implementing volume analysis can further enhance decision-making by indicating the strength behind a price move, offering insight into whether the momentum indicated by the IMI is supported by trading activity.
-
-Furthermore, traders must remain vigilant about broader market conditions. Events, such as significant macroeconomic announcements or unexpected geopolitical developments, can dramatically alter intraday dynamics, rendering IMI signals less reliable. Continually adapting strategies to align with prevailing market conditions is crucial for effectively utilizing the IMI. This adaptability ensures that traders do not become overly reliant on the IMI alone, avoiding a tunnel-vision approach that disregards other critical market insights.
-
-Incorporating the IMI effectively requires a balanced approach, combining its signals with comprehensive market analysis. This multidimensional strategy aids in counteracting the limitations inherent in any single technical indicator, promoting a more robust and resilient trading practice.
-
-## Conclusion
-
-The Intraday Momentum Index (IMI) offers traders a valuable instrument for navigating short-term market fluctuations effectively. By integrating the IMI into a broader trading strategy, market participants can gain enhanced insights into market timing, enabling more precise entry and exit points. This can significantly improve risk management by reducing exposure to unfavorable market conditions and optimizing the timing of trades. However, given the dynamic nature of financial markets, reliance solely on the IMI may not suffice. Its utility is maximized when used in conjunction with other technical indicators and analysis techniques. By incorporating tools such as moving averages, volume analysis, and other momentum indicators, traders can form a more comprehensive view of the market, thereby reducing the likelihood of overconfidence in a singular indicator. Maintaining versatility in strategy and continuously adjusting to market conditions will support traders in making informed, balanced decisions. This ensures that the limitations of the IMI, such as potential false signals during periods of low volatility, are adequately addressed, promoting more robust trading outcomes.
-
-## FAQs
-
-### FAQs
-
-**How does IMI differ from RSI?**
-
-The Intraday Momentum Index (IMI) differs from the Relative Strength Index (RSI) primarily in its focus on intraday analysis. While the RSI is commonly used for analyzing price movements over longer time frames—typically 14 days or more—the IMI provides insights within a single trading day. This distinction makes IMI particularly useful for traders looking to capitalize on short-term price fluctuations, as it takes into account the open and close prices of the asset within a day, rather than relying purely on close-to-close prices over extended periods like the RSI.
-
-**Can IMI be used for non-intraday strategies?**
-
-Although the IMI is specifically designed for intraday strategies, capable of capturing quick transitions between overbought and oversold conditions within a single day, it can also offer value for non-intraday strategies. Its sensitivity to daily price action may illuminate short-term trends that can be useful for swing traders or for those leveraging a combination of multiple indicators to fine-tune their trading approach over slightly longer horizons.
-
-**What are the common thresholds for IMI signals?**
-
-The IMI uses thresholds similar to those in the RSI to identify overbought and oversold conditions. Typically, when the IMI value exceeds 70, it indicates that the asset is overbought, and a price correction may be imminent. Conversely, when the IMI falls below 30, it signals oversold conditions, suggesting a possible price increase. These thresholds help traders identify potentially optimal entry and exit points, enhancing decision-making in fast-moving markets.
-
-**How can traders incorporate IMI into a trading system?**
-
-To effectively integrate the IMI into a trading system, traders can combine it with other technical indicators and trading tools. For instance, pairing IMI with moving averages can help confirm trends and smooth out volatility. Additionally, analyzing trading volume alongside IMI signals can provide context and confirm the strength of market movements. Implementing stop-loss orders in conjunction with IMI thresholds can further protect against adverse price moves, enabling traders to refine their strategies and improve risk management. Here is a simple example in Python to calculate and visualize IMI:
-
-```python
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-
-# Sample data
-data = {
-    'Open': [100, 102, 101, 103, 102],
-    'Close': [102, 101, 105, 107, 106]
-}
-df = pd.DataFrame(data)
-
-# Calculate daily gain and loss
-df['Gain'] = np.where(df['Close'] > df['Open'], df['Close'] - df['Open'], 0)
-df['Loss'] = np.where(df['Open'] > df['Close'], df['Open'] - df['Close'], 0)
-
-# Calculate IMI
-n = 14  # period
-df['IMI'] = 100 * (df['Gain'].rolling(window=n, min_periods=1).sum() / 
-                   (df['Gain'].rolling(window=n, min_periods=1).sum() + df['Loss'].rolling(window=n, min_periods=1).sum()))
-
-# Plot IMI
-plt.figure(figsize=(10, 5))
-plt.plot(df['IMI'], label='IMI', color='blue')
-plt.axhline(70, color='red', linestyle='--', label='Overbought (70)')
-plt.axhline(30, color='green', linestyle='--', label='Oversold (30)')
-plt.title('Intraday Momentum Index (IMI)')
-plt.xlabel('Days')
-plt.ylabel('IMI Value')
-plt.legend()
-plt.show()
-```
-
-This script calculates the IMI based on daily open and close prices and plots it, providing a visual representation to assist in monitoring and decision-making.
 
 ## References & Further Reading
 

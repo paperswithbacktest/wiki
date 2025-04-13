@@ -3,17 +3,84 @@ title: "Kelly formula"
 description: Discover the application and benefits of the Kelly Formula in algorithmic trading. Learn how this mathematical approach, originally designed for gambling, helps maximize long-term wealth growth through optimal investment sizing. Explore the advantages, limitations, and practical implementations with examples and Python scripts for effective capital management.
 ---
 
-The Kelly Formula, introduced by John L. Kelly Jr. in 1956, presents a systematic approach to managing investments and trades. Initially conceived for gambling applications, this mathematical formula aids in determining the optimal size of a bet to maximize the long-term growth of wealth. The core principle of the Kelly Criterion is to balance the size of bets or investments to ensure the greatest logarithmic growth potential, effectively managing risks while optimizing returns.
 
-In the modern financial landscape, particularly within algorithmic trading, the Kelly Criterion has gained prominence for its utility in strategizing investment allocations. Algorithmic trading, characterized by the use of complex algorithms and quantitative models to make trading decisions, benefits significantly from the Kelly Formula's ability to guide investment sizes based on statistical probabilities.
-
-![Image](images/1.webp)
-
-This article aims to explore the use of the Kelly Formula within algorithmic trading, discussing its calculations and the advantages it offers in optimizing trading strategies. It also addresses the limitations inherent in its assumptions, providing a comprehensive overview of its applicability. To enhance the practical understanding of this approach, examples and a Python script will be included, demonstrating how the Kelly Criterion can be implemented and tested for effective capital growth management.
+![Image](images/1.png)
 
 ## Table of Contents
 
-## Understanding the Kelly Formula
+## What is the Kelly formula?
+
+The Kelly formula, also known as the Kelly criterion, is a way to figure out how much money to bet on something to make the most money over time. It was made by a man named John Kelly in the 1950s. The formula looks at how likely you are to win and how much you could win or lose. It tells you to bet a certain part of your money, not all of it, to grow your money the fastest.
+
+Using the Kelly formula, you can avoid betting too much and losing everything. It helps you be smart about how much to bet. If you follow the formula, you can keep betting and growing your money without taking too big of a risk. But remember, the formula works best when you know the exact chances of winning, which is hard to know for sure in real life.
+
+## Who developed the Kelly formula and when?
+
+The Kelly formula was developed by a man named John Kelly. He worked at Bell Laboratories and came up with the formula in 1956. John Kelly was trying to solve a problem about how to bet on horse races to make the most money over time. He found that if you bet a certain part of your money, you could grow your money faster than if you bet all of it or too little.
+
+John Kelly's work was important because it showed people a way to manage their bets better. His formula is now used not just for betting on horse races, but also in other areas like investing in the stock market. Even though the formula needs you to know the exact chances of winning, which can be hard, it still helps people make smarter choices about how much to bet or invest.
+
+## What is the basic principle behind the Kelly formula?
+
+The basic principle behind the Kelly formula is to help you decide how much to bet to make your money grow the fastest over time. It tells you to bet a part of your money, not all of it, based on how likely you are to win and how much you could win or lose. This way, you can keep betting and growing your money without taking too big of a risk.
+
+The formula works by balancing the chance of winning against the amount you could win. If you bet too much, you risk losing everything. If you bet too little, you won't grow your money as fast as you could. The Kelly formula finds the sweet spot in the middle, telling you the best amount to bet to make the most money over time while keeping your risk low.
+
+## How do you calculate the Kelly criterion?
+
+The Kelly criterion helps you figure out how much to bet to grow your money the fastest over time. To calculate it, you need to know two things: the chance of winning and the amount you could win or lose. If you're betting on something with a 60% chance of winning and you could win twice your bet, you'd use those numbers in the formula. The formula is: (Win Probability x (Amount Won - Amount Bet)) ÷ Amount Won. So for our example, it would be (0.60 x (2 - 1)) ÷ 2 = 0.30. This means you should bet 30% of your money.
+
+Using the Kelly criterion can help you make smart bets. It tells you to bet a part of your money, not all of it, to keep growing your money without risking too much. But remember, the formula works best when you know the exact chances of winning, which can be hard in real life. If you're not sure about the chances, you might want to bet less than what the formula says to be safe.
+
+## What are the key variables used in the Kelly formula?
+
+The Kelly formula uses two key variables to figure out how much you should bet. The first variable is the chance of winning, which is how likely you are to win your bet. This is usually written as a number between 0 and 1, where 1 means you're sure to win and 0 means you're sure to lose. The second variable is the amount you could win or lose, which is how much more you get back if you win compared to what you bet.
+
+These two variables are used in the Kelly formula to find the best part of your money to bet. The formula looks at the chance of winning and the amount you could win to decide if you should bet a little or a lot of your money. By using these variables, the Kelly formula helps you make smart bets and grow your money over time without taking too big of a risk.
+
+## Can you provide a simple example of applying the Kelly formula in betting?
+
+Let's say you're betting on a coin flip where you have a 50% chance of winning. If you win, you get back twice what you bet. So, if you bet $1 and win, you get $2 back, which means you make a profit of $1. If you lose, you lose the $1 you bet. To use the Kelly formula, you need to know the chance of winning and the amount you could win or lose. For this coin flip, the chance of winning is 0.50 and the amount you could win is 2 times your bet.
+
+Now, let's put these numbers into the Kelly formula. The formula is (Win Probability x (Amount Won - Amount Bet)) ÷ Amount Won. So, for our coin flip, it would be (0.50 x (2 - 1)) ÷ 2 = 0.25. This means you should bet 25% of your money. If you have $100, you should bet $25 on the coin flip. By betting this amount, you're using the Kelly formula to grow your money over time without taking too big of a risk.
+
+## What are the advantages of using the Kelly formula for investment decisions?
+
+Using the Kelly formula for investment decisions can help you make your money grow faster over time. The formula tells you how much to invest based on how likely you are to make money and how much you could make or lose. By following the Kelly formula, you can avoid investing too much and losing everything. Instead, you'll invest just the right amount to keep growing your money without taking too big of a risk. This way, you can keep investing and making more money over time.
+
+Another advantage of the Kelly formula is that it helps you be smart about your investments. It makes you think about the chances of making money and how much you could make. This can stop you from making quick, risky decisions that could lose you a lot of money. By using the Kelly formula, you can make steady, careful choices that help your money grow slowly but surely. Even though it's hard to know the exact chances of making money in real life, the Kelly formula still gives you a good guide to follow.
+
+## What are the potential risks and limitations of the Kelly formula?
+
+Using the Kelly formula can be risky because it's hard to know the exact chances of winning. If you guess wrong about how likely you are to win, you might bet too much and lose a lot of money. The formula works best when you know the exact chances, but in real life, it's often hard to be sure. If you're not careful, you could end up betting more than you should and losing everything.
+
+Another problem with the Kelly formula is that it can be too aggressive for some people. It tells you to bet a lot of your money if the chances of winning are good. But betting that much can be scary and stressful. Some people might not feel comfortable betting so much, even if the formula says it's the best way to grow their money. So, they might want to bet less than what the formula says to be safe.
+
+## How does the Kelly formula differ from other betting and investment strategies?
+
+The Kelly formula is different from other betting and investment strategies because it tells you exactly how much to bet to make your money grow the fastest over time. Other strategies might tell you to bet a fixed amount, like always betting $10, or to bet a certain part of your money, like 5% each time. But the Kelly formula looks at how likely you are to win and how much you could win or lose. It says to bet a part of your money that changes depending on these chances. This way, you can keep betting and growing your money without taking too big of a risk.
+
+Another way the Kelly formula is different is that it can be more aggressive than other strategies. It might tell you to bet a lot of your money if the chances of winning are good. Other strategies might be more careful and tell you to bet less to be safe. Some people might not like how much the Kelly formula says to bet because it can be scary to bet so much. But if you follow the Kelly formula and know the exact chances of winning, it can help you make the most money over time.
+
+## How can the Kelly formula be adjusted for more conservative betting or investing?
+
+If you want to be more careful with your bets or investments, you can change the Kelly formula to bet less than it tells you. Instead of betting the full amount the formula says, you could bet half of it or even less. For example, if the Kelly formula says to bet 20% of your money, you might choose to bet only 10% or 5%. This way, you're still using the Kelly formula to guide your bets, but you're being safer by betting less money.
+
+Using a smaller part of the Kelly formula can help you feel more comfortable and avoid losing too much money if things don't go as planned. It's a good idea to be careful, especially when you're not sure about the exact chances of winning. By betting less, you can still grow your money over time, but you won't risk as much. This way, you can enjoy betting or investing without worrying too much about losing everything.
+
+## What are some real-world applications of the Kelly formula outside of gambling?
+
+The Kelly formula is not just for betting on horse races or playing games. It's also used in the world of money and investing. People who invest in the stock market use the Kelly formula to decide how much money to put into different stocks or other investments. By figuring out how likely a stock is to go up and how much it could go up, they can use the Kelly formula to choose the best amount to invest. This helps them grow their money over time without taking too big of a risk.
+
+Another place where the Kelly formula is used is in managing money for big groups, like pension funds or insurance companies. These groups need to be careful with their money because they're looking after it for a lot of people. The Kelly formula helps them decide how much to invest in different things, like stocks or bonds, to make the most money over time while keeping their risk low. By using the Kelly formula, they can make smart choices about where to put their money and help it grow safely.
+
+## How can advanced statistical methods enhance the application of the Kelly formula?
+
+Advanced statistical methods can make the Kelly formula work better by helping you guess the chances of winning more accurately. These methods can look at a lot of data and find patterns that are hard to see with just simple math. For example, they can use something called machine learning to learn from past bets or investments and predict what might happen next. By using these advanced tools, you can get a better idea of how likely you are to win, which makes the Kelly formula more useful. This way, you can bet or invest the right amount to grow your money faster and safer.
+
+Another way advanced statistical methods help is by dealing with the ups and downs of betting or investing. The Kelly formula can be risky if you bet too much, but these methods can help you figure out how much to bet to keep things steady. They can use something called risk management to make sure you're not betting too much at once. By combining these advanced methods with the Kelly formula, you can make smarter bets or investments and avoid big losses. This makes it easier to keep growing your money over time without taking too big of a risk.
+
+## What is the Kelly Formula and how does it work?
 
 The Kelly Formula is a mathematical formula aimed at optimizing the growth of wealth through strategic betting or investment, specifically by maximizing the expected value of the logarithm of wealth. This approach, often referred to as the Kelly Criterion, aids traders in determining the optimal fraction of capital to wager on a given trade or investment, balancing potential returns with associated risks.
 
@@ -31,29 +98,7 @@ For instance, in a scenario where the probability of a favorable outcome of a tr
 
 Overall, the Kelly Formula provides a structured approach to capital allocation, prioritizing long-term growth by carefully weighing the probability of success against potential risks in trading environments. Despite its practical benefits, its application requires accurate probability estimations and a comprehensive understanding of market dynamics.
 
-## Assumptions of the Kelly Criterion
-
-The Kelly Criterion operates under several key assumptions, which guide its application in trading and investment strategies. Firstly, traders are required to accurately estimate the probabilities of winning and losing. This accuracy is crucial, as the formula's effectiveness hinges on reliable probability assessments. Misestimations can lead to suboptimal betting fractions, potentially resulting in financial losses.
-
-Secondly, the criterion assumes that each trade or investment is an independent event. This implies that the outcome of one trade does not influence or is influenced by another. In real market conditions, however, this assumption may not always hold true due to interconnected factors affecting market dynamics.
-
-Thirdly, the Kelly Criterion presupposes infinite capital. While this assumption facilitates theoretical modeling, in practical scenarios, traders and investors have finite resources. This discrepancy can lead to over-betting, putting one’s capital at greater risk than anticipated.
-
-Finally, the assumption of logarithmic utility suggests that wealth growth is expected to be exponential. This assumption aligns with the goal of maximizing the expected logarithm of wealth, but in practice, market conditions and investment constraints often preclude such exponential growth.
-
-Understanding these assumptions is vital for traders using the Kelly Criterion, as deviations in these areas can significantly impact the criterion’s applicability and effectiveness. Adjustments to the standard formula may be necessary to align the assumptions more closely with real-world trading environments, enhancing risk management and investment outcomes.
-
-## Applying the Kelly Criterion in Algo Trading
-
-In algorithmic trading, the Kelly Criterion serves as a key tool for determining optimal position sizing to balance risk and profitability. The approach begins with the evaluation of historical market data and the application of statistical models to estimate the probabilities of different price movements. This estimation is central to applying the Kelly Formula effectively. By leveraging large datasets and advanced computational techniques, traders approximate the likelihood of asset price increases or decreases, enabling a clearer picture of expected returns.
-
-The formula for the optimal bet size according to the Kelly Criterion is $f^* = \frac{bp - q}{b}$, where $f^*$ denotes the fraction of total capital to be wagered, $b$ represents the odds ratio, $p$ is the probability of winning, and $q$ is the probability of losing. This formula guides traders in choosing how much of their capital to allocate to a given trade, maximizing expected logarithmic returns while managing downside risks.
-
-The integration of the Kelly Criterion within algorithmic trading frameworks allows for the automation of investment size calculations. Predefined strategies can be programmed into trading algorithms, letting these systems execute trades with precision, continuously adjusting to new information and data. This automation is especially beneficial in high-frequency trading environments, where rapid decision-making is essential, and the ability to quickly process and respond to market changes provides a competitive advantage.
-
-Overall, the application of the Kelly Criterion in algorithmic trading helps streamline decision-making processes, supports disciplined risk management, and enhances the potential for profit maximization through calculated investment sizing. However, the inherent assumptions of the formula, as well as the need for precise probability estimates, emphasize the importance of robust data analysis and risk assessment techniques in its application.
-
-## Example and Python Implementation
+## What is an Example and how is it Implemented in Python?
 
 Applying the Kelly Criterion in stock trading involves estimating probabilities of price movements based on historical performance data. Consider a stock with a 70% probability (p = 0.7) of increasing in price and a 30% probability (q = 0.3) of decreasing. The Kelly Formula, given by $f^* = \frac{{bp - q}}{b}$, helps determine the optimal fraction of capital to invest.
 
@@ -112,7 +157,7 @@ plt.show()
 
 This script demonstrates the use of the Kelly Formula by simulating capital growth across multiple trades, providing traders empirical evidence of the strategy's effectiveness.
 
-## Backtesting in Algorithmic Trading
+## What is Backtesting in Algorithmic Trading?
 
 Backtesting plays a critical role in validating trading strategies reliant on the Kelly Formula by offering a methodology to evaluate how a strategy would have performed using historical data. This process involves simulating past trades and applying the Kelly fraction to understand how well the strategy might perform in future market conditions. The purpose of this simulation is to identify strategies that not only have been successful historically but also possess robustness against market fluctuations.
 
@@ -157,22 +202,6 @@ print(f'Final capital after backtest: ${capital:.2f}')
 This code fetches historical price data for the SPY, calculates the average returns for up and down movements, and estimates the probabilities required to compute the Kelly fraction. By iterating over daily returns, it recalculates the capital based on the Kelly-suggested bet size. The outcome provides a final capital figure, indicating the potential effectiveness of the strategy under the specified conditions.
 
 While backtesting provides valuable insights, it is essential to recognize its limitations. Results are sensitive to input data and assumptions, and past performance is not always indicative of future results. Therefore, combining backtesting with other risk management techniques can help create more robust trading strategies.
-
-## Limitations and Considerations
-
-The Kelly Criterion, while valuable for capital management, presents significant limitations when applied to algorithmic trading. Its simplicity, originating from gambling strategies, often fails to address the complex dynamics and risk factors inherent in financial markets. The formula's reliance on accurate probability estimation for winning and losing introduces a critical challenge, as these probabilities are difficult to ascertain precisely within fluctuating markets. Moreover, the assumption of independent events, which is more suitable in gambling, does not always hold true in trading, where events can be interdependent due to market conditions and broader economic factors.
-
-One fundamental simplification of the Kelly Criterion is its full allocation strategy. The formula suggests significant parts of capital should be placed on seemingly favorable trades, potentially exposing the trader to high risk if the estimations are inaccurate. Traders might encounter unsustainable volatility and potential losses. Implementing a modification like the fractional Kelly strategy, where a fraction of the full Kelly bet is employed (often half), can help manage volatility and drawdowns, allowing for more consistent growth over time.
-
-Risk-adjusted strategies are another alternative to improve the criterion's applicability. These strategies involve adjusting the bet fraction based on volatility measures or other risk assessments, ensuring that investment strategies remain aligned with the trader's risk tolerance and capital preservation goals. By incorporating such modifications, traders can mitigate the weaknesses of the Kelly Criterion, achieving a more robust and realistic trading strategy.
-
-## Conclusion
-
-The Kelly Formula remains a pivotal tool in capital management for algorithmic traders. Its fundamental advantage lies in its ability to provide a clear, mathematical framework for determining optimal bet sizes that aim to maximize the logarithm of wealth growth over time. By systematically calculating the fraction of capital to invest based on the edge and probability of the investment outcome, traders can efficiently manage risk while seeking enhanced returns.
-
-Understanding the limitations of the Kelly Formula is crucial for its effective implementation. The formula's assumptions, such as precise probability estimation, independence of trades, unlimited capital, and logarithmic utility, may not always align with real market conditions. This disconnect necessitates modifications like the fractional Kelly method, which involves betting only a portion of the recommended size to reduce exposure to risk and account for potential estimation inaccuracies.
-
-Algorithmic traders can enhance their risk-reward outcomes by considering these limitations and accordingly adjusting their strategies. The integration of the Kelly Criterion within algorithmic systems allows for automation of position sizing, facilitating quicker and more disciplined trade executions. Moreover, through vigilant backtesting and scenario analysis, traders can refine their estimations and calibrate their models to accommodate market dynamics more effectively. In doing so, they not only harness the theoretical strengths of the Kelly Formula but also adapt it for pragmatic and resilient trading strategies.
 
 ## References & Further Reading
 

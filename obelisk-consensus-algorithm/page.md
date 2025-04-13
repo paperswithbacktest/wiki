@@ -3,49 +3,86 @@ title: "Obelisk Consensus Algorithm"
 description: "Explore the innovative Obelisk consensus algorithm within the Skycoin ecosystem. Discover how it enhances blockchain technology and influences algorithmic trading."
 ---
 
-In the fast-evolving world of cryptocurrency and blockchain, new technologies continuously emerge, focused on enhancing efficiency, security, and sustainability. Among these innovative solutions is the Obelisk consensus algorithm, a cornerstone of the Skycoin blockchain ecosystem. This article presents an in-depth exploration of the Obelisk consensus algorithm, assessing its influence on blockchain technology and its nascent role in algorithmic trading.
-
-Unlike traditional consensus mechanisms like Proof-of-Work (PoW) and Proof-of-Stake (PoS), which face criticism for issues such as high energy consumption and the potential for centralization, Obelisk introduces a novel approach through its "web of trust" model. This design aims to distribute network influence more equitably, mitigating the drawbacks associated with PoW's energy demands and PoS's propensity for wealth concentration and centralized control. 
 
 ![Image](images/1.png)
 
-The Obelisk algorithm represents a shift towards decentralized network management, entrusting a broader range of participants with the task of transaction validation. This adjustment not only fosters a more democratic blockchain environment but also underpins the Skycoin project's overarching vision—a decentralized internet infrastructure. Furthermore, by integrating Obelisk into algorithmic trading, its potential impacts extend to enhancing the efficiency and security vital for high-frequency trading operations.
-
-This article will further elaborate on how the Obelisk consensus algorithm functions, its advantages over other consensus mechanisms, and its applications within the Skycoin ecosystem and algorithmic trading platforms. By addressing inherent limitations in established consensus mechanisms, Obelisk paves the way for more robust and sustainable blockchain solutions.
-
 ## Table of Contents
 
-## Understanding the Obelisk Consensus Algorithm
+## What is the Obelisk Consensus Algorithm?
 
-Obelisk is a consensus algorithm devised to address the inefficiencies and centralization issues found in more traditional consensus mechanisms such as Proof-of-Work (PoW) and Proof-of-Stake (PoS). While PoW requires substantial computational power and energy, often leading to environmental concerns, PoS can result in wealth concentration where those with more resources exert greater influence over the network. Obelisk, by contrast, employs a 'web of trust' model, which introduces a decentralized approach to power distribution within the network. This ensures a more balanced and democratic method for transaction validation.
+The Obelisk Consensus Algorithm is a way for computers in a network to agree on things. It's used in some blockchain systems to make sure everyone has the same information and trusts the data. The main idea is to let different parts of the network, called nodes, vote on what they think is right. If most of the nodes agree, then that becomes the accepted truth for the whole network.
 
-In the Obelisk consensus system, network influence is spread across a broader base of users, mitigating the potential for dominant entities to control the decision-making process. The 'web of trust' approach functions by having nodes form trust relationships with one another, thereby integrating social trust networks into the decision-making process of the blockchain. This approach is designed to simulate a social graph, where the level of trust in the network is related to the number of connections and the strength of those connections each node has.
+This algorithm is special because it tries to be fair and fast. It does this by letting nodes vote quickly and then checking if enough nodes agree. If they do, the decision is final and everyone updates their records. This helps the network run smoothly and prevents any single node from controlling everything. It's like a group of friends deciding where to eat; if most agree on a place, that's where they go, and everyone is happy with the choice.
 
-Within the Obelisk framework, there are two distinct types of nodes: block-generating nodes and consensus nodes, each fulfilling specific roles within the network. Block-generating nodes are tasked with collecting and validating transactions. They then assemble these transactions into blocks which they propose to the network for confirmation.
+## How does the Obelisk Consensus Algorithm work?
 
-Consensus nodes, on the other hand, are responsible for the validation and agreement process. After gathering blocks from various block-generating nodes, consensus nodes evaluate these blocks to determine the 'local winner'. A block is deemed a 'global winner' when a majority of consensus nodes agree on its validity, subsequently incorporating it into the blockchain. This mechanism not only enhances the security and efficiency of blockchain operations but also aligns with the objectives of [algorithmic trading](/wiki/algorithmic-trading) systems by ensuring swift and secure processing of transactions.
+The Obelisk Consensus Algorithm works by letting all the computers, or nodes, in a network vote on what they think is the right information. Imagine you and your friends are trying to decide on a movie to watch. Each friend gets to vote, and if most of your friends agree on one movie, that's the one you all watch. In the same way, the nodes in the network vote on things like transactions or data updates. If a majority of the nodes agree, that decision becomes the official one for the whole network.
 
-By circumventing the drawbacks of traditional algorithms and instituting a decentralized web of trust, Obelisk provides a robust foundation for equitable and efficient blockchain network management. This innovative design reflects a forward-thinking approach to overcoming the challenges inherent in maintaining decentralized networks.
+Once the nodes vote, the algorithm checks if enough nodes have agreed. If yes, the decision is locked in, and all the nodes update their records to match the new agreement. This process is quick and helps keep the network running smoothly. It's like when your group of friends quickly decides on a movie and everyone is happy because the decision was fair and fast. The Obelisk Consensus Algorithm makes sure that no single node can control everything, keeping the network honest and reliable.
 
-## How Obelisk Works
+## What are the key features of the Obelisk Consensus Algorithm?
 
-Block-generating nodes in the Obelisk consensus algorithm are responsible for collecting and verifying incoming transactions. Once verified, these transactions are organized and formed into blocks. This process is primarily concerned with the integrity and validity of transactions, ensuring they are properly formatted and adhere to the protocol's rules.
+The Obelisk Consensus Algorithm has a few important features that make it special. One big feature is that it's really fast. It lets all the computers in the network vote quickly and then checks if most of them agree. If they do, the decision is made right away, and everyone updates their records. This speed helps the network run smoothly without waiting too long for everyone to agree.
 
-Consensus nodes then take on the critical task of evaluating these blocks. They gather the blocks produced by the block-generating nodes and work to identify a 'local winner'. This is determined by the network's consensus protocol, where nodes leverage a trust-based model to reach an agreement on which block should proceed. In practice, nodes evaluate the trust levels within their network, facilitating a decision-making process that is both decentralized and efficient.
+Another key feature is that it's fair. The algorithm makes sure that no single computer can control everything. It does this by letting every computer vote and then counting the votes to see what most of them think. This way, everyone has a say, and the network stays honest and reliable. It's like when you and your friends vote on something, and the decision is fair because everyone's opinion matters.
 
-A block becomes a 'global winner' once it achieves consensus across a majority of consensus nodes. Only after this agreement is secured is the block appended to the blockchain. This multi-layered consensus process, involving both local and global consensus phases, adds a robust layer of security. It effectively mitigates the risks associated with double-spending and fraudulent transactions.
+Lastly, the Obelisk Consensus Algorithm is designed to be easy to use. It's simple for the computers in the network to understand and follow the rules. This simplicity helps prevent mistakes and keeps the network working well. When things are easy to understand, it's easier for everyone to trust the system and keep using it.
 
-The architecture of Obelisk, with its division of labor between block-generating and consensus nodes, ensures that the blockchain can efficiently and securely handle transactions. This distributed method is particularly beneficial for algorithmic trading systems, where speed and reliability are paramount. By reducing bottlenecks and distributing consensus tasks across the network, Obelisk supports sustainable and responsive blockchain operation, which is essential for processing high-frequency trading transactions without compromising on security.
+## What problems does the Obelisk Consensus Algorithm aim to solve?
 
-## Applications in the Skycoin Ecosystem
+The Obelisk Consensus Algorithm tries to fix some big problems that can happen in networks where computers need to agree on things. One problem is that it can take a long time for all the computers to agree. This can slow down the whole network and make it hard to use. The Obelisk Algorithm solves this by letting computers vote quickly and then checking if most of them agree. If they do, the decision is made fast, and everyone updates their records right away. This helps the network run smoothly and keeps things moving quickly.
 
-Skycoin utilizes the Obelisk consensus algorithm to power its vision of a decentralized internet service by integrating it into its ecosystem, particularly through the Skywire platform. Skywire represents a major component of the Skycoin network, designed to enable users to operate as their own internet service providers. This is achieved by creating a mesh network that leverages the bandwidth and resources of its participants. By distributing internet services across a decentralized network of nodes, Skywire promotes a more democratized and resilient internet infrastructure.
+Another problem the Obelisk Consensus Algorithm aims to solve is fairness. Sometimes, one computer might try to control everything and make decisions that only benefit itself. This can make the network unfair and untrustworthy. The Obelisk Algorithm stops this from happening by letting every computer vote and then counting the votes to see what most of them think. This way, no single computer can take over, and the network stays honest and reliable. It's like making sure everyone's voice is heard and the decisions are fair for everyone.
 
-Participants in the Skywire network are incentivized through a dual-reward system comprising Skycoin and Coin Hours. Skycoin serves as the primary [cryptocurrency](/wiki/cryptocurrency), while Coin Hours represent a time-based reward system that accrues over time as users contribute bandwidth and network resources. This dual-reward framework ensures that users are compensated not only for their initial involvement but also for sustained participation in maintaining network functionality and robustness.
+## How does Obelisk compare to other consensus algorithms like Proof of Work and Proof of Stake?
 
-This innovative setup has the potential to revolutionize the delivery and monetization of internet services by shifting the paradigm from centralized ISP control to a distributed, user-centric model. By harnessing the capabilities of the Obelisk consensus algorithm, Skycoin and Skywire enable a self-sustaining network that encourages active user involvement and resource sharing, paving the way for a new era of internet connectivity that is both efficient and equitable.
+Obelisk is different from Proof of Work (PoW) and Proof of Stake (PoS) in how it makes decisions. In Proof of Work, computers have to solve hard math problems to vote on what they think is right. This can use a lot of energy and can be slow because it takes time to solve the problems. On the other hand, Obelisk lets computers vote quickly without solving hard problems. This makes Obelisk faster and more energy-efficient than Proof of Work.
 
-## Comparison with Traditional Consensus Mechanisms
+Proof of Stake is another way computers agree on things, and it works by letting computers vote based on how much of the network's money they have. If you have more money, you get more votes. This can be faster than Proof of Work because it doesn't need to solve math problems, but it can be unfair if rich computers get too much power. Obelisk solves this by letting every computer vote equally, so it's fair and doesn't give more power to those with more money. This makes Obelisk a good choice for networks that want to be fast, fair, and energy-efficient.
+
+## What are the advantages of using the Obelisk Consensus Algorithm?
+
+The Obelisk Consensus Algorithm has many good things about it. One big advantage is that it's really fast. It lets all the computers in the network vote quickly and then checks if most of them agree. If they do, the decision is made right away, and everyone updates their records. This speed helps the network run smoothly without waiting too long for everyone to agree. It's like when you and your friends quickly decide on a game to play, and everyone can start having fun right away.
+
+Another advantage of Obelisk is that it's fair. The algorithm makes sure that no single computer can control everything. It does this by letting every computer vote and then counting the votes to see what most of them think. This way, everyone has a say, and the network stays honest and reliable. It's like when you and your friends vote on something, and the decision is fair because everyone's opinion matters. Plus, Obelisk is energy-efficient because it doesn't make computers solve hard math problems like some other algorithms do. This means it's better for the environment and can save on costs.
+
+## What are the potential drawbacks or limitations of the Obelisk Consensus Algorithm?
+
+One potential problem with the Obelisk Consensus Algorithm is that it relies a lot on quick voting. If some computers in the network are slow or not working well, they might not be able to vote in time. This could mean their votes don't count, and the network might make decisions without hearing from everyone. It's like if some of your friends are late to the movie vote, and you end up picking a movie without them.
+
+Another limitation is that Obelisk might not be as secure as some other algorithms. Because it focuses on speed and fairness, it might not have as many checks to stop bad actors from messing with the network. While it's good at making sure no one computer can take over, it might not be as good at stopping smaller, sneakier attacks. It's like having a fair and fast way to pick a movie, but not having enough rules to stop someone from cheating.
+
+## Can you explain the role of validators in the Obelisk Consensus Algorithm?
+
+In the Obelisk Consensus Algorithm, validators are the computers that help make decisions for the network. They do this by voting on what they think is right. When something needs to be decided, like a new transaction or data update, all the validators vote on it. If most of the validators agree, then that decision becomes the official one for the whole network. It's like when you and your friends vote on where to eat; the validators are like your friends, and their votes decide where you go.
+
+Validators are important because they make sure the network stays fair and honest. Since every validator gets to vote, no single computer can control everything. This helps keep the network reliable and trustworthy. But, validators need to be quick and work well because the Obelisk Algorithm relies on fast voting. If some validators are slow or not working right, they might miss the vote, and the network could make decisions without them. It's like making sure all your friends can vote on time so everyone's opinion counts.
+
+## How is security and integrity maintained in the Obelisk Consensus Algorithm?
+
+In the Obelisk Consensus Algorithm, security and integrity are kept safe by making sure that all the computers, called validators, vote on what they think is right. If most of the validators agree on something, like a new transaction or data update, that becomes the official decision for the whole network. This way, no single computer can control everything, which helps keep the network honest. It's like when you and your friends vote on a game to play; if most of you agree, everyone plays that game, and it's fair because everyone's voice is heard.
+
+Even though Obelisk focuses on being fast and fair, it still has ways to stop bad actors from messing with the network. The algorithm checks if enough validators agree before making a decision final. This helps make sure that only good, honest votes count. But, because Obelisk is all about quick voting, it might not have as many extra checks as some other algorithms. So, while it's good at keeping things fair and fast, it needs all the validators to be working well and voting honestly to stay secure.
+
+## What are some real-world applications or implementations of the Obelisk Consensus Algorithm?
+
+The Obelisk Consensus Algorithm is used in some blockchain systems that need fast and fair decisions. For example, it can be used in cryptocurrency networks where people need to agree on transactions quickly. Imagine a digital wallet app that uses Obelisk to make sure that when you send money to a friend, the network agrees on the transaction fast and fairly. This makes the app work smoothly and keeps everyone's money safe.
+
+Another place where Obelisk can be helpful is in supply chain management. Companies can use it to track products from the factory to the store. Each time a product moves, the network needs to agree on where it is. Obelisk helps make these updates quick and fair, so everyone in the supply chain knows what's happening without delays or one company taking control. This makes the whole process more reliable and trustworthy.
+
+## How does the Obelisk Consensus Algorithm handle network scalability and performance?
+
+The Obelisk Consensus Algorithm helps with network scalability and performance by letting computers vote quickly on decisions. When more computers join the network, Obelisk still works fast because it doesn't make them solve hard math problems like some other algorithms do. Instead, it just counts the votes to see what most computers think. This means that even if the network grows bigger, it can keep making decisions quickly without slowing down.
+
+But, Obelisk needs all the computers to be quick and working well. If some computers are slow or not working right, they might miss the vote, and the network could make decisions without them. This can be a problem if the network gets too big and some computers can't keep up. So, while Obelisk is good at handling more computers and staying fast, it works best when all the computers in the network are reliable and can vote on time.
+
+## What future developments or enhancements are anticipated for the Obelisk Consensus Algorithm?
+
+People who work on the Obelisk Consensus Algorithm are always thinking about ways to make it even better. One thing they might do is add more checks to stop bad actors from messing with the network. Even though Obelisk is good at being fast and fair, it could be even safer if it had more ways to catch sneaky attacks. This would help keep the network honest and reliable, even as more people start using it.
+
+Another thing they might work on is making Obelisk work better with really big networks. Right now, Obelisk needs all the computers to vote quickly, but if the network gets too big, some computers might be slow and miss the vote. So, future updates could help make sure that even in a huge network, all the computers can vote on time. This would let Obelisk handle even more users without slowing down, making it a great choice for all kinds of projects.
+
+## How does it compare with traditional consensus mechanisms?
 
 Proof-of-Work (PoW) and Proof-of-Stake (PoS) have been integral to the development of blockchain networks, each with distinct advantages and disadvantages.
 
@@ -91,45 +128,6 @@ This probability model inherently favors wealthier participants, potentially cen
 The Obelisk consensus algorithm presents an innovative solution to these issues by employing a 'web of trust' model. Unlike PoW and PoS, Obelisk distributes influence through a network of trust-based relationships among nodes. This model facilitates a more democratic and balanced distribution of power, minimizing the risks associated with energy consumption and wealth concentration.
 
 By decentralizing influence across its network, the Obelisk consensus algorithm ensures that no single entity gains disproportionate control, promoting a fair and equitable system. This approach aligns more closely with the democratic and decentralized ethos envisioned in the original blockchain concept, fostering an environment conducive to sustainable growth and innovation.
-
-## Relevance to Algorithmic Trading
-
-The Obelisk consensus algorithm offers significant advantages for algorithmic trading platforms, particularly due to its efficiency and security features. Unlike traditional consensus mechanisms, Obelisk ensures swift and secure transaction processing, which is critical for the fast-paced environment of algorithmic trading. The algorithm's structure, characterized by the decentralized assignment of validation roles, contributes to reduced latency in transaction settlements.
-
-Algorithmic trading thrives on the speed and accuracy of transaction execution. The dual-node system within Obelisk—comprising block-generating and consensus nodes—facilitates a streamlined approach to managing the blockchain ledger. This structure ensures that transactions are verified promptly, maintaining the [momentum](/wiki/momentum) necessary for effective algorithmic strategies. Additionally, the consensus model of Obelisk reduces the risk of bottlenecks typically associated with more centralized consensus approaches, thereby optimizing trade execution.
-
-Furthermore, the decentralized control of the Obelisk algorithm diminishes the need for resource-intensive mining operations seen in other systems such as Proof of Work (PoW). This not only lowers operational costs but also promotes sustainable trading practices, aligning with the global push towards eco-friendliness. As excessive energy consumption is a significant issue with PoW, the Obelisk mechanism's reduced reliance on such activities ensures a more environmentally sustainable system, which can be appealing to eco-conscious traders and institutions.
-
-The process can be illustrated with a Python function showcasing a simplified model of transaction validation in a decentralized network. Although the actual implementation would be more complex, such a function might look like this:
-
-```python
-def validate_transactions(transactions, consensus_nodes):
-    """ Simulate the transaction validation process in a decentralized system """
-    valid_transactions = []
-    for transaction in transactions:
-        # Simulate consensus node agreement
-        votes_for = sum(node.validate(transaction) for node in consensus_nodes)
-        if votes_for > len(consensus_nodes) / 2:  # Simple majority rule
-            valid_transactions.append(transaction)
-    return valid_transactions
-
-# Example usage
-transactions = [...]  # List of transaction data
-consensus_nodes = [...]  # List of consensus node objects with 'validate' method
-valid_transactions = validate_transactions(transactions, consensus_nodes)
-```
-
-In this simplified model, transactions are considered valid if more than half of the consensus nodes approve them, a process that underpins the security and rapid processing capabilities essential for algorithmic trading.
-
-In conclusion, the Obelisk algorithm provides a robust infrastructure for algorithmic trading by facilitating secure, rapid transactions without the excess energy requirements typical of traditional mining operations. Its design ensures a decentralized and equitable transaction validation process, creating a sustainable and efficient trading ecosystem.
-
-## Conclusion
-
-The Obelisk consensus algorithm represents a significant advancement in blockchain technology by effectively addressing key challenges inherent in traditional consensus mechanisms. Traditional systems such as Proof-of-Work (PoW) and Proof-of-Stake (PoS) have been critiqued for energy inefficiency and potential centralization, issues that Obelisk resolves through its innovative decentralized model. By employing a 'web of trust' and dual-node functionality, Obelisk distributes influence across the network more equitably, ensuring a balanced and secure transaction validation process. This approach not only enhances sustainability but also simplifies user interaction, making the technology more accessible.
-
-As an integral component of the Skycoin project, Obelisk extends its influence beyond mere transaction validation. It underpins a broader vision for decentralized digital finance and autonomous trading systems. Skycoin leverages this algorithm to enable users to act as their internet service providers, thereby laying the groundwork for groundbreaking shifts in how internet services and financial processes are managed and monetized.
-
-The increasing demand for efficient, secure digital platforms highlights the essential role of Obelisk and its associated technologies in the crypto-economic landscape. With its capacity to enable swift, reliable, and environmentally friendly transactions, Obelisk is poised to become a vital part of the infrastructure supporting next-generation digital finance and algorithmic trading systems. Its applications promise to propel innovations that cater to a global digital economy striving for sustainability and inclusivity.
 
 ## References & Further Reading
 

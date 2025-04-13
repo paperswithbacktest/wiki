@@ -3,55 +3,86 @@ title: "Purchasing Ethereum"
 description: "Discover the potential of Ethereum in crypto investing and trading. Learn about its acquisition, smart contract technology, and algorithmic trading strategies."
 ---
 
-Ethereum has rapidly ascended as a prominent figure in the cryptocurrency landscape, capturing the attention of investors and traders alike. Unlike other cryptocurrencies, Ethereum's value proposition extends beyond being a digital currency; it stands as a groundbreaking platform for decentralized applications (dApps), with its smart contract technology revolutionizing the way transactions and digital agreements are executed.
-
-The interest in Ethereum stems from its dual potential: as a profitable long-term investment and as a cornerstone of technological innovation in blockchain. Ethereum's unique infrastructure supports a robust developer community, fostering an ecosystem full of diverse, decentralized solutions. This makes it an attractive option for those looking to enhance their investment portfolio with both financial prospects and technological advancements.
 
 ![Image](images/1.jpeg)
 
-In understanding Ethereum's role in cryptocurrency, it is crucial to explore the methodologies of acquiring it, integrating it into investment strategies, and recognizing the significant influence of algorithmic trading within the market. Algorithmic trading, with its precision and ability to handle complex data, is significantly reshaping how cryptocurrencies like Ethereum are traded. It opens up avenues for executing trades with increased efficiency and less emotional decision-making, potentially presenting opportunities for greater returns.
-
-Mastering the intricacies of Ethereum acquisition and trading strategies can provide a competitive advantage, allowing investors to remain ahead of fluctuating market conditions. This article provides a roadmap for acquiring Ethereum, incorporating it strategically into portfolios, and harnessing the strengths of algorithmic trading for enhanced outcomes. As Ethereum continues to evolve, understanding its dynamics will be vital for those aiming to capitalize on its potential.
-
 ## Table of Contents
 
-## Understanding Ethereum: A Brief Overview
+## What is Ethereum and why might someone want to purchase it?
 
-Ethereum, formulated by Vitalik Buterin in 2013, is both a cryptocurrency and a decentralized platform for creating and executing smart contracts. Unlike Bitcoin, which primarily functions as a peer-to-peer currency, Ethereum is distinct with its smart contract technology, allowing developers to construct a spectrum of applications. These smart contracts are autonomous programs that facilitate and enforce agreements automatically when predetermined conditions are met, thereby reducing the need for intermediaries.
+Ethereum is a type of digital money, similar to Bitcoin, but it also has a special feature called smart contracts. These smart contracts are like digital agreements that automatically do what they are supposed to do when certain conditions are met. For example, if you and a friend make a bet on a soccer game, a smart contract can automatically give the money to the winner once the game is over. Ethereum uses its own digital money called Ether, which people use to pay for using these smart contracts and other services on the Ethereum network.
 
-Ether (ETH) is the native digital currency of the Ethereum network. It serves essential roles such as compensating participants for computations performed and paying for transaction fees, also known as "gas fees." Gas fees are necessary to allocate network resources and prevent harmful or inefficient code from executing in the Ethereum Virtual Machine (EVM), a computation engine that acts as the decentralized processor for the Ethereum network.
+Someone might want to purchase Ethereum for a few reasons. First, they might believe that the value of Ether will go up in the future, so they buy it as an investment, hoping to sell it later for a profit. Second, they might want to use the Ethereum network to create or use smart contracts for things like online betting, managing digital art, or even running a business. By buying Ether, they can pay for these services on the Ethereum network. So, people buy Ethereum either to make money or to use its special features.
 
-Ethereum boasts a diverse and active ecosystem, supported by a vast developer community. This community has been instrumental in driving innovation within the network, contributing to hundreds of decentralized applications (dApps) across various sectors including finance (DeFi), digital identity, supply chain, and gaming. Key advancements like Ethereum 2.0 aim to enhance scalability, speed, and efficiency, although they come with significant technical challenges.
+## How can beginners safely buy Ethereum?
 
-For potential investors and traders, understanding Ethereum's capacity beyond a digital currency is paramount. Its widespread utility and adoption are powered by a combination of technological robustness and community engagement, which add layers to its value proposition in the blockchain sphere. Recognizing these elements can provide essential insights into Ethereum's future trajectory and investment potential.
+Beginners can safely buy Ethereum by using a reputable cryptocurrency exchange. First, they should choose a well-known and trusted exchange like Coinbase, Binance, or Kraken. These platforms are user-friendly and have strong security measures in place. To start, a beginner needs to sign up for an account on the exchange, which usually involves providing some personal information and verifying their identity. Once the account is set up, they can deposit money into their exchange account using a bank transfer, credit card, or other payment methods supported by the exchange. After the money is in their account, they can use it to buy Ethereum.
 
-## How to Acquire Ethereum
+After buying Ethereum, it's important for beginners to keep their investment safe. One way to do this is by moving their Ethereum from the exchange to a personal digital wallet. There are different types of wallets, like software wallets that you can install on your computer or phone, and hardware wallets that are like USB drives and are considered very secure. Beginners should choose a wallet that is easy to use and has good security features. They should also be careful about sharing their wallet information and always double-check the addresses they use to send and receive Ethereum to avoid mistakes. By following these steps, beginners can safely buy and store Ethereum.
 
-Purchasing Ethereum, a leading [cryptocurrency](/wiki/cryptocurrency), can be accomplished through various platforms and methods, each offering distinct advantages and disadvantages. Crypto exchanges are among the most popular avenues for acquiring Ethereum. Prominent exchanges such as Coinbase, Binance, and Kraken provide a user-friendly interface for buying and selling Ethereum. Users can create an account, complete the necessary verification steps, and link a payment method to begin transactions. These exchanges often offer tools for tracking prices and managing digital assets. However, it's essential to be aware of their fee structures, which can vary significantly. Fees might include transaction fees, withdrawal fees, and even deposit fees depending on the payment method used.
+## What are the different methods to purchase Ethereum?
 
-Security is another critical consideration when choosing a crypto exchange. Investors should look for exchanges with strong security protocols, including two-[factor](/wiki/factor-investing) authentication (2FA), cold storage of funds, and insurance coverage against hacking incidents. User experience can also vary between platforms, with some exchanges offering more intuitive interfaces and better customer support than others.
+There are several ways to buy Ethereum. One common method is using a cryptocurrency exchange. These are websites where you can sign up, add money to your account, and then use that money to buy Ethereum. Popular exchanges include Coinbase, Binance, and Kraken. You can add money to your exchange account using a bank transfer, a credit card, or sometimes even PayPal. Once you have money in your account, you can buy Ethereum easily by following the instructions on the exchange.
 
-Besides traditional exchanges, peer-to-peer (P2P) platforms provide an alternative method for buying Ethereum. These platforms, such as LocalCryptos and Paxful, connect buyers and sellers directly, allowing them to negotiate prices and payment methods. P2P platforms can offer more flexibility and sometimes lower fees than centralized exchanges, but they also require users to exercise caution and due diligence, as the risk of fraud can be higher.
+Another way to buy Ethereum is through a peer-to-peer (P2P) platform. These platforms connect buyers and sellers directly. You can find someone who wants to sell their Ethereum and agree on a price. Then, you can pay them using a method like a bank transfer or cash, and they will send the Ethereum to your digital wallet. Websites like LocalEthereum and Paxful are examples of P2P platforms. This method can be good if you want to buy Ethereum without using an exchange.
 
-Cryptocurrency ATMs present another option for acquiring Ethereum. These machines, available in various locations worldwide, allow users to purchase cryptocurrencies using cash or credit cards. Although convenient, cryptocurrency ATMs often charge higher fees than online exchanges and may have limits on how much Ethereum can be bought in a single transaction.
+Lastly, you can buy Ethereum with cash at some physical locations, like Bitcoin ATMs or certain retail stores that have started accepting cryptocurrency. Bitcoin ATMs are machines where you can insert cash and receive Ethereum in your digital wallet. Some stores might also let you buy Ethereum directly from them. This method is useful if you prefer dealing with cash and want to avoid online exchanges. However, it's important to check the fees and security of these options before using them.
 
-To buy Ethereum safely and efficiently, potential investors should evaluate their priorities regarding fees, security, and convenience. It's advisable to start by researching and comparing different platforms, taking into account personal preferences and investment goals. After selecting the appropriate method, users should ensure they have a secure digital wallet to store their Ethereum, as keeping assets on an exchange can expose them to additional risks.
+## What should you consider before buying Ethereum?
 
-Steps for acquiring Ethereum:
+Before buying Ethereum, you should think about why you want it. Are you looking to invest in it because you think its value will go up? Or do you want to use it to pay for things on the Ethereum network, like smart contracts? Knowing your reason will help you decide if buying Ethereum is right for you. Also, think about how much money you can afford to spend. Cryptocurrency can be risky, so only spend money you can lose without big problems.
 
-1. **Select a Platform**: Choose between a crypto exchange, P2P platform, or cryptocurrency ATM, based on your needs and preferences.
+Another thing to consider is where you will buy Ethereum from. Make sure to use a trusted exchange or platform to avoid scams. Look into the fees they charge, because they can add up and affect how much Ethereum you get for your money. Lastly, think about how you will keep your Ethereum safe. You might want to move it to a digital wallet, so do some research on which wallet is best for you. Keeping your investment secure is very important.
 
-2. **Create an Account**: Register on your chosen platform and complete any mandatory verification steps.
+## How do you set up a wallet for storing Ethereum?
 
-3. **Link Payment Method**: Connect a bank account, credit card, or other payment methods as required by the platform.
+To set up a wallet for storing Ethereum, you first need to decide what type of wallet you want. There are different kinds, like software wallets that you can download on your computer or phone, and hardware wallets that look like USB drives. Software wallets are easy to use and good for beginners, while hardware wallets are more secure but can be a bit more complicated. Once you've chosen, go to the wallet provider's website, like MetaMask for a software wallet or Ledger for a hardware wallet, and follow their instructions to download or buy the wallet. After you have the wallet, you'll need to set it up by creating a new account or recovering an existing one.
 
-4. **Place an Order**: Enter the amount of Ethereum you wish to purchase and review transaction details before confirming.
+Setting up the wallet involves creating a password and, importantly, a recovery phrase. This recovery phrase is a list of words that you need to keep very safe. It's like a secret key that can help you get your Ethereum back if something goes wrong with your wallet. Write down the recovery phrase and store it in a secure place, not on your computer or phone where someone else might find it. Once your wallet is set up, you can connect it to an Ethereum exchange to move your Ethereum from the exchange to your wallet. This keeps your Ethereum safe and under your control.
 
-5. **Store Ethereum Securely**: Transfer your purchased Ethereum to a digital wallet to ensure it remains in your control and protected.
+## What are the fees associated with buying and transferring Ethereum?
 
-Following these steps with due diligence and attention to security can help investors acquire Ethereum in a safe, efficient manner.
+When you buy Ethereum, you have to pay fees. These fees are different depending on where you buy it. If you use an exchange like Coinbase or Binance, they will charge you a fee for each trade. This fee can be a small percentage of the money you spend, like 0.5% to 4%. Also, if you pay with a credit card, the exchange might charge you an extra fee, usually around 3% to 5%. So, it's a good idea to look at the fees before you buy to know how much you will really spend.
 
-## The Role of Cryptocurrency Purchase Strategies
+When you move your Ethereum from one place to another, like from an exchange to your wallet, you have to pay a network fee. This fee is called "gas" on the Ethereum network. The gas fee changes depending on how busy the network is. If lots of people are using Ethereum at the same time, the fee can go up. Usually, the gas fee can be anywhere from a few cents to a few dollars for each transfer. It's smart to check the current gas fee before you move your Ethereum to make sure you don't spend more than you expect.
+
+## How can you track the price of Ethereum?
+
+You can track the price of Ethereum by using websites that show cryptocurrency prices. Websites like CoinMarketCap, CoinGecko, and even some exchanges like Coinbase and Binance have live price charts for Ethereum. These sites update the price every few seconds, so you can see if it's going up or down right away. You can also set up alerts on these websites to get a message when the price reaches a certain level, which can be helpful if you're thinking about buying or selling.
+
+Another way to track Ethereum's price is by using mobile apps. There are many apps, like Blockfolio and Delta, that let you keep an eye on the price of Ethereum and other cryptocurrencies from your phone. These apps often let you add Ethereum to a watchlist, so you can see its price whenever you open the app. Some apps also have features that let you know about big price changes or news that might affect Ethereum's value. By using these tools, you can stay updated on Ethereum's price easily.
+
+## What are the risks of investing in Ethereum?
+
+Investing in Ethereum can be risky because its price can change a lot. One day, the price might be high, and the next day, it might drop a lot. This can happen because of things like news, new laws, or just what people think about Ethereum. If you buy Ethereum hoping to sell it later for more money, you might end up losing money if the price goes down instead of up. Also, there are many scams and frauds in the cryptocurrency world, so you have to be careful about where you buy Ethereum and how you keep it safe.
+
+Another risk is that the technology behind Ethereum might not work as well as people hope. Sometimes, the Ethereum network can get very busy, which makes it slow and more expensive to use. If better technology comes along, people might stop using Ethereum and its value could go down. Also, if something goes wrong with the Ethereum network, like a big security problem, it could hurt the value of Ethereum. So, it's important to think about these risks before deciding to invest in Ethereum.
+
+## How does Ethereum's price volatility affect purchasing strategies?
+
+Ethereum's price can change a lot, which means it can go up and down quickly. This can affect how you decide to buy it. If you think the price might go up soon, you might want to buy Ethereum now before it gets more expensive. But, because the price can also go down, you might want to wait and see if it gets cheaper before buying. This is called timing the market, and it can be tricky because nobody knows for sure what the price will do next.
+
+Another way to deal with Ethereum's price changes is by buying it little by little over time. This is called dollar-cost averaging. Instead of spending all your money on Ethereum at once, you buy a bit each month or each week. This way, you don't have to worry too much about the price going up or down right after you buy. Over time, you might end up buying Ethereum at a good average price, even if it goes up and down a lot.
+
+## What are the tax implications of buying and selling Ethereum?
+
+When you buy and sell Ethereum, you need to think about taxes. In many places, if you make money from selling Ethereum for more than you paid for it, you have to pay taxes on that profit. This is called capital gains tax. The amount of tax you pay can depend on how long you held the Ethereum before selling it. If you held it for a short time, like less than a year, you might pay a higher tax rate than if you held it for a longer time.
+
+It's also important to know that using Ethereum to buy things or trade for other cryptocurrencies can be seen as a taxable event. This means if you use Ethereum to buy something and the value of Ethereum has gone up since you bought it, you might have to pay taxes on that increase in value. Keeping good records of when you buy and sell Ethereum, and how much you paid and received, can help you figure out your taxes correctly. It's always a good idea to talk to a tax professional to understand the rules in your area.
+
+## How can you use advanced trading techniques to buy Ethereum?
+
+One advanced way to buy Ethereum is by using a trading strategy called limit orders. Instead of buying Ethereum at the current price, you can set a limit order to buy it at a specific price you choose. For example, if Ethereum is currently $3,000 but you think it might drop to $2,800, you can set a limit order to buy it at $2,800. This way, you might get a better price if the market goes down to your target. But, there's a chance your order won't be filled if the price never reaches your limit. Using limit orders can help you buy Ethereum at a price you're comfortable with, but it needs patience and understanding of market trends.
+
+Another technique is called dollar-cost averaging, but with a twist. Instead of buying the same amount of Ethereum at regular times, you can use technical analysis to decide when to buy more or less. Technical analysis means looking at charts and patterns to guess where the price might go next. If you think the price is going to go down soon, you might buy less Ethereum that month. But if you think it's going to go up, you might buy more. This way, you're still spreading out your purchases over time, but you're trying to buy more when the price is low and less when it's high. This can be more complicated than regular dollar-cost averaging, but it might help you get a better average price for your Ethereum.
+
+## What future developments in Ethereum could impact its value and purchasing decisions?
+
+Future developments in Ethereum could change its value and affect how people decide to buy it. One big thing coming up is Ethereum 2.0, which is an upgrade that will make the network faster and use less energy. This could make Ethereum more popular because people might want to use it more if it's quicker and cheaper. If more people start using Ethereum because of this upgrade, its value might go up. But, if there are problems with the upgrade, like delays or bugs, people might lose trust in Ethereum, and its value could go down.
+
+Another development to watch is the growth of decentralized finance (DeFi) and non-fungible tokens (NFTs) on the Ethereum network. DeFi is like a new kind of online banking that uses Ethereum, and NFTs are special digital items that people can own and trade. If more people start using DeFi and buying NFTs, the demand for Ethereum could go up, which might make its price higher. But, if other networks start to do DeFi and NFTs better than Ethereum, people might switch to those other networks, and Ethereum's value could drop. So, keeping an eye on these developments can help you make smarter choices about buying Ethereum.
+
+## What is the Role of Cryptocurrency Purchase Strategies?
 
 Cryptocurrency purchase strategies play a pivotal role in determining the success of Ethereum investments. One popular approach is dollar-cost averaging, which involves investing a fixed amount of money in Ethereum at regular intervals, regardless of its price. This strategy tends to reduce the impact of market [volatility](/wiki/volatility-trading-strategies) by spreading the investment over time, thus potentially lowering the average purchase price and risk.
 
@@ -80,82 +111,6 @@ Algorithms can also be programmed to perform [arbitrage](/wiki/arbitrage), a str
 In addition to speed and precision, algorithmic trading offers consistency. Unlike human traders, algorithms are not influenced by emotions and can operate continuously without fatigue, ensuring steady trading performance under all market conditions.
 
 In conclusion, algorithmic trading streamlines the process of acquiring Ethereum by leveraging technology that enhances trading efficiency, accuracy, and adaptability. As the cryptocurrency market evolves, the role of algorithmic trading is poised to expand, offering even more sophisticated tools for traders aiming to optimize their trading strategies.
-
-## Leveraging Algorithmic Trading for Ethereum Acquisition
-
-Algorithmic trading has become a vital tool for optimizing Ethereum acquisition, offering benefits such as speed, precision, and emotionless execution. By leveraging algorithms, traders can automate the buying process, reducing the likelihood of human error and reacting promptly to market movements.
-
-### Automating Trades with Criteria
-
-Algorithmic trading allows traders to set specific criteria for executing trades, enabling them to react to market conditions quickly and efficiently. These criteria can include technical indicators, price thresholds, or timing conditions. For example, a trader might use a simple moving average (SMA) crossover strategy, where a buy order is initiated when a fast-moving average crosses above a slow-moving average. The code snippet below demonstrates a basic implementation of this strategy in Python using the 'pandas' library:
-
-```python
-import pandas as pd
-
-# Sample data for ETH prices
-data = {'price': [2100, 2150, 2200, 2100, 2250, 2300]}
-
-# Convert to DataFrame
-df = pd.DataFrame(data)
-
-# Calculate moving averages
-df['fast_ma'] = df['price'].rolling(window=2).mean()
-df['slow_ma'] = df['price'].rolling(window=3).mean()
-
-# Generate buy signals
-df['buy_signal'] = df['fast_ma'] > df['slow_ma']
-```
-
-### The Importance of Backtesting
-
-Implementing algorithmic strategies requires thorough [backtesting](/wiki/backtesting) to ensure their reliability and effectiveness in real-world conditions. Backtesting involves running an algorithm through historical data to evaluate how it would have performed. This process helps traders identify the strategy's strengths and limitations, adjust parameters, and anticipate potential risks. Utilizing tools like Python's '[backtrader](/wiki/backtrader)' library can streamline this process, offering a robust framework for simulation.
-
-### Tools and Platforms for Algorithmic Trading
-
-Several tools and platforms are available for implementing algorithmic trading strategies in cryptocurrency markets. Some popular choices include:
-
-- **QuantConnect**: An open-source platform offering a cloud-based algorithmic trading engine with extensive data access.
-- **MetaTrader**: Renowned for forex, it also supports cryptocurrency trading and features advanced charting tools and automated trading capabilities.
-- **TradingView**: Provides comprehensive charting options and scriptable alerts, allowing traders to automate strategy execution.
-
-These platforms often offer integration with major exchanges, providing seamless execution of trades.
-
-### Integration into Your Ethereum Acquisition Plan
-
-Effectively integrating algorithmic trading into your Ethereum acquisition strategy involves several steps:
-
-1. **Define Objectives**: Clearly specify your investment goals, such as targeted acquisition price or desired return on investment.
-2. **Select or Develop Algorithms**: Choose existing algorithms or develop custom strategies tailored to your criteria.
-3. **Backtest Extensively**: Utilize historical data to validate your strategy's performance, adjusting it as necessary.
-4. **Implement Real-Time Monitoring**: Set up systems to monitor performance, enabling quick adjustments to strategies as market conditions change.
-
-By marrying algorithmic trading techniques with a strategic plan, investors can optimize their Ethereum acquisition process, positioning themselves to capitalize on opportunities swiftly and efficiently. However, ongoing monitoring and adjustment remain crucial as market dynamics evolve.
-
-## Risks and Considerations in Ethereum Trading
-
-Ethereum, one of the leading cryptocurrencies, offers substantial investment opportunities but is accompanied by various risks primarily due to its inherent volatility. The dynamic nature of the cryptocurrency market necessitates a vigilant approach, as fluctuations in value can occur rapidly and unpredictably.
-
-Regulatory concerns represent a significant factor that can influence Ethereum's market dynamics. Governments across the globe are actively assessing and implementing regulations to manage cryptocurrencies, aiming to prevent fraudulent activities, ensure investor protection, and maintain financial stability. These regulations can impact Ethereum's value and trading volumes, exemplified by sudden market changes following legislative announcements or enforcement actions. Investors must remain aware of regulatory developments in jurisdictions where they are active.
-
-Technological vulnerabilities also pose risks to Ethereum trading. Although Ethereum's blockchain boasts robust security features, vulnerabilities can arise, mainly if smart contracts or decentralized applications (DApps) built on Ethereum contain flawed code. Malicious actors may exploit these vulnerabilities, resulting in financial losses. Historical incidents, such as the DAO hack in 2016, underscore the critical need for rigorous code audits and security assessments to mitigate this risk.
-
-To cope with these uncertainties, staying informed and adjusting trading strategies accordingly is essential. Continuous education on market trends, technological advancements, and regulatory shifts can empower investors to make informed decisions. Engaging with expert analyses, participating in discussions with other traders, and leveraging educational resources from reputable platforms can foster a deeper understanding and preparedness.
-
-Diversification is a key strategy to manage risks associated with Ethereum trading. By spreading investments across multiple cryptocurrencies or financial instruments, investors can reduce their exposure to risks linked to any single asset. Diversification can be achieved by allocating funds to different asset classes, such as Bitcoin, Ripple, or traditional equities, thereby balancing potential losses with gains.
-
-Secure storage of Ethereum is another crucial consideration for investors. Utilizing hardware wallets, such as Trezor or Ledger, can significantly enhance security by keeping private keys offline and less susceptible to hacking attempts compared to software wallets. Additionally, employing two-factor authentication (2FA) and backup seed phrases adds multiple security layers to protect assets.
-
-Ultimately, continuous learning and adaptation in response to new information are vital for navigating the evolving Ethereum market. Investors should approach trading with a mindset that combines caution with calculated risk-taking. As technological innovations and market trends shift, maintaining an agile strategy can help maximally capitalize on potential opportunities while safeguarding against unforeseen challenges.
-
-## Conclusion
-
-Ethereum remains one of the most promising cryptocurrencies, with vast potential for growth and innovation. As a blockchain platform supporting decentralized applications and smart contracts, Ethereum not only enhances financial systems but also opens new avenues for technological advancements. Acquiring Ethereum can be a straightforward process through major exchanges such as Coinbase, Binance, or Kraken. These platforms provide user-friendly interfaces and robust security features, making them popular choices among investors.
-
-For those seeking more advanced methods, algorithmic trading offers a sophisticated approach to acquiring and trading Ethereum. This technique involves using predefined algorithms and artificial intelligence to automate trading processes, which can lead to more efficient and potentially more profitable transactions. However, success in trading Ethereum requires more than just acquiring it. An understanding of market dynamics, strategic investment approaches, and an awareness of inherent risks are crucial components of a successful trading experience.
-
-Investors are encouraged to approach Ethereum with a balanced combination of optimism and caution. Its inherent volatility, coupled with regulatory and technological uncertainties, necessitates continuous learning and adaptability. Diversification of investments, secure storage of assets, and a thorough understanding of market trends are imperative to mitigate risks. Staying informed and updating strategies in response to evolving market conditions will be essential for achieving long-term success in the speculative and dynamic environment of cryptocurrency markets.
-
-In conclusion, Ethereum offers a versatile and potentially rewarding investment opportunity. Whether through direct purchase via exchanges or through algorithmic trading, the various methods available cater to different levels of expertise and investment goals. As Ethereum continues to evolve and its applications expand, remaining flexible and informed will serve as key strategies for investors looking to capitalize on this leading cryptocurrency.
 
 ## References & Further Reading
 
